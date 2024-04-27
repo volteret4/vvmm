@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on vv mm</title>
-    <link>https://vvmm.org/categories/</link>
-    <description>Recent content in Categories on vv mm</description>
+    <title>Categories on vvmm</title>
+    <link>https://volteret4.github.io/vvmm/categories/</link>
+    <description>Recent content in Categories on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="https://vvmm.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language><atom:link href="https://volteret4.github.io/vvmm/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
