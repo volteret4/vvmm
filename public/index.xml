@@ -6,7 +6,16 @@
     <description>Recent content on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 27 Apr 2024 14:16:37 +0200</lastBuildDate><atom:link href="https://volteret4.github.io/vvmm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2024 15:39:15 +0200</lastBuildDate><atom:link href="https://volteret4.github.io/vvmm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Svg</title>
+      <link>https://volteret4.github.io/vvmm/posts/svg/</link>
+      <pubDate>Sat, 27 Apr 2024 15:39:15 +0200</pubDate>
+      
+      <guid>https://volteret4.github.io/vvmm/posts/svg/</guid>
+      <description>Probando svg imagen con link [![youtube] (/static/img/svg/youtube.svg)] (https://youtube.com)</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://volteret4.github.io/vvmm/posts/test/</link>
