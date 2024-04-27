@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://volteret4.github.io/vvmm/posts/</loc>
-    <lastmod>2024-04-27T15:39:15+02:00</lastmod>
+    <loc>https://volteret4.github.io/vvmm/posts/lastone/</loc>
+    <lastmod>2024-04-27T18:12:44+02:00</lastmod>
   </url><url>
-    <loc>https://volteret4.github.io/vvmm/posts/svg/</loc>
-    <lastmod>2024-04-27T15:39:15+02:00</lastmod>
+    <loc>https://volteret4.github.io/vvmm/posts/</loc>
+    <lastmod>2024-04-27T18:12:44+02:00</lastmod>
   </url><url>
     <loc>https://volteret4.github.io/vvmm/</loc>
+    <lastmod>2024-04-27T18:12:44+02:00</lastmod>
+  </url><url>
+    <loc>https://volteret4.github.io/vvmm/posts/svg/</loc>
     <lastmod>2024-04-27T15:39:15+02:00</lastmod>
   </url><url>
     <loc>https://volteret4.github.io/vvmm/posts/test/</loc>
