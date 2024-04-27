@@ -3,6 +3,7 @@ languageCode = 'es-ES'
 title = 'vvmm'
 theme = 'm10c'
 avatar = '/avatar.jpg'
+canonifyURLs = true
 
 [menu]
   [[menu.main]]
