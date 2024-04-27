@@ -1,4 +1,6 @@
-baseURL = 'https://vvmm.org/'
+baseURL = 'https://volteret4.github.io/vvmm/'
 languageCode = 'es-ES'
-title = 'vv mm'
+title = 'vvmm'
 theme = "m10c"
+author = 'pollo'
+avatar = 'static/img/svg/vinyl.svg'
