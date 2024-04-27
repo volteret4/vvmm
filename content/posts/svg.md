@@ -5,5 +5,5 @@ draft: false
 ---
 ## Probando svg imagen con link
 ![youtube](../links/svg/youtube.png)
-![bandcamp](../links/svg/bandcamp.png)(https://bandcamp.com)
+[![bandcamp](../links/svg/bandcamp.png)](https://bandcamp.com)
 > (https://youtube.com)
