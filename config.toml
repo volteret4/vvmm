@@ -1,0 +1,4 @@
+baseURL = 'https://vvmm.org/'
+languageCode = 'es-ES'
+title = 'vv mm'
+theme = "m10c"
