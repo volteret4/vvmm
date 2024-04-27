@@ -4,7 +4,7 @@ title = 'vvmm'
 theme = 'm10c'
 author = 'pollo'
 avatar = '/avatar.jpg'
-description = 'registro de inter√ses musicales'
+description = 'registro de intereses musicales'
 
 [menu]
   [[menu.main]]
