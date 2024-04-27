@@ -2,9 +2,7 @@ baseURL = 'https://volteret4.github.io/vvmm/'
 languageCode = 'es-ES'
 title = 'vvmm'
 theme = 'm10c'
-author = 'pollo'
 avatar = '/avatar.jpg'
-description = 'registro de intereses musicales'
 
 [menu]
   [[menu.main]]
@@ -19,6 +17,9 @@ description = 'registro de intereses musicales'
     weight = 2
 
 [params]
+  author = 'pollo'
+  description = 'registro de intereses musicales'
+  menu_item_separator = " - "
   [[params.social]]
     icon = "github"
     name = "My Github"
