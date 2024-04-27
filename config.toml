@@ -6,14 +6,21 @@ author = 'pollo'
 avatar = '/avatar.jpg'
 description = 'registro de inter√ses musicales'
 
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
 
-
-[[params.social]]
-  icon = "github"
-  name = "My Github"
-  url = "https://github.com/volteret4"
+[params]
+  [[params.social]]
+    icon = "github"
+    name = "My Github"
+    url = "https://github.com/volteret4"
 
