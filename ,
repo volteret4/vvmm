@@ -2,8 +2,8 @@
 baseURL = "/"
 languageCode = 'es-ES'
 title = 'vvmm'
-theme = 'm10c'
-avatar = '/avatar.jpg'
+theme = 'hugo-theme-console'
+#avatar = '/avatar.jpg'
 #paginate = "10"
 
 
@@ -43,7 +43,7 @@ avatar = '/avatar.jpg'
 #  pocket = true
 
 
-#[[params.social]]
+#  [[params.social]]
 #    icon = "github"			## m10c theme conf
 #    name = "My Github"
 #    url = "https://github.com/volteret4"

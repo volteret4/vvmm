@@ -2,23 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://volteret4.github.io/vvmm/posts/lastone/</loc>
-    <lastmod>2024-04-27T18:12:44+02:00</lastmod>
+    <loc>/posts/gaussian-curve-cloud/</loc>
+    <lastmod>2024-04-28T23:35:33+02:00</lastmod>
   </url><url>
-    <loc>https://volteret4.github.io/vvmm/posts/</loc>
-    <lastmod>2024-04-27T18:12:44+02:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2024-04-28T23:35:33+02:00</lastmod>
   </url><url>
-    <loc>https://volteret4.github.io/vvmm/</loc>
-    <lastmod>2024-04-27T18:12:44+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2024-04-28T23:35:33+02:00</lastmod>
   </url><url>
-    <loc>https://volteret4.github.io/vvmm/posts/svg/</loc>
-    <lastmod>2024-04-27T15:39:15+02:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/vvmm/posts/test/</loc>
-    <lastmod>2024-04-27T14:16:37+02:00</lastmod>
+    <loc>/search/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/vvmm/categories/</loc>
-  </url><url>
-    <loc>https://volteret4.github.io/vvmm/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

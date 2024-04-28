@@ -2,36 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vvmm</title>
-    <link>https://volteret4.github.io/vvmm/</link>
+    <link>/</link>
     <description>Recent content on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 27 Apr 2024 18:12:44 +0200</lastBuildDate><atom:link href="https://volteret4.github.io/vvmm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 23:35:33 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lastone</title>
-      <link>https://volteret4.github.io/vvmm/posts/lastone/</link>
-      <pubDate>Sat, 27 Apr 2024 18:12:44 +0200</pubDate>
+      <title>Gaussian Curve - Clouds</title>
+      <link>/posts/gaussian-curve-cloud/</link>
+      <pubDate>Sun, 28 Apr 2024 23:35:33 +0200</pubDate>
       
-      <guid>https://volteret4.github.io/vvmm/posts/lastone/</guid>
-      <description>&amp;ldquo;Lastone&amp;rdquo; </description>
+      <guid>/posts/gaussian-curve-cloud/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Svg</title>
-      <link>https://volteret4.github.io/vvmm/posts/svg/</link>
-      <pubDate>Sat, 27 Apr 2024 15:39:15 +0200</pubDate>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://volteret4.github.io/vvmm/posts/svg/</guid>
-      <description>Probando svg imagen con link (https://youtube.com)</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://volteret4.github.io/vvmm/posts/test/</link>
-      <pubDate>Sat, 27 Apr 2024 14:16:37 +0200</pubDate>
-      
-      <guid>https://volteret4.github.io/vvmm/posts/test/</guid>
-      <description>Probando post 1</description>
+      <guid>/search/</guid>
+      <description></description>
     </item>
     
   </channel>

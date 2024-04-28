@@ -7,3 +7,24 @@
 [submodule "themes/m10c"]
 	path = themes/m10c
 	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/vimux/binario
+[submodule "themes/triple-hyde"]
+	path = themes/triple-hyde
+	url = https://github.com/derme302/triple-hyde.git
+[submodule "theme/hugo-theme-console"]
+	path = theme/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/BlogRa"]
+	path = themes/BlogRa
+	url = https://github.com/rafed/BlogRa.git
+[submodule "themes/coyote"]
+	path = themes/coyote
+	url = https://github.com/nightswinger/hugo-theme-coyote.git
