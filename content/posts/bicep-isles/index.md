@@ -4,8 +4,8 @@ date: 2024-04-29T01:40:11+02:00
 image: "image.jpeg"
 draft: false
 tags:
- #- tagA
- #- tagB
+ - techno 
+ - deep
  #- tagC
  #- tagD
  #- tagE

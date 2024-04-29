@@ -4,7 +4,7 @@ date: 2024-04-29T02:26:40+02:00
 image: "image.jpeg"
 draft: false
 tags:
- #- tagA
+ - disco 
  #- tagB
  #- tagC
  #- tagD

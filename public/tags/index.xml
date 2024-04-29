@@ -5,6 +5,52 @@
     <link>/tags/</link>
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language>
+    <lastBuildDate>Mon, 29 Apr 2024 02:35:53 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$tagA</title>
+      <link>/tags/taga/</link>
+      <pubDate>Mon, 29 Apr 2024 02:35:53 +0200</pubDate>
+      
+      <guid>/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disco</title>
+      <link>/tags/disco/</link>
+      <pubDate>Mon, 29 Apr 2024 02:26:40 +0200</pubDate>
+      
+      <guid>/tags/disco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep</title>
+      <link>/tags/deep/</link>
+      <pubDate>Mon, 29 Apr 2024 01:40:11 +0200</pubDate>
+      
+      <guid>/tags/deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techno</title>
+      <link>/tags/techno/</link>
+      <pubDate>Mon, 29 Apr 2024 01:40:11 +0200</pubDate>
+      
+      <guid>/tags/techno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Sun, 28 Apr 2024 23:35:33 +0200</pubDate>
+      
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
