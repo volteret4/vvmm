@@ -3,9 +3,6 @@ baseURL = "/"
 languageCode = 'es-ES'
 title = 'vvmm'
 theme = 'm10c'
-#avatar = '/avatar.jpg'
-#paginate = "10"
-description = 'enlaces rápidos a discos interesantes'
 
 [[menu.main]]
     identifier = 'tags'
@@ -28,11 +25,12 @@ description = 'enlaces rápidos a discos interesantes'
 #    url = "/posts"
 #    weight = 3
 
-#[Params]
+#[params]
 #  mode = 'dark'
-#  author = 'pollo'
-#  description = 'registro de intereses musicales'
-#  menu_item_separator = " - "
+  author = 'pollo'
+  description = 'registro de intereses musicales'
+  menu_item_separator = " - "
+  avatar = '/avatar.jpg'
 #  columns = 2
 #  mainSections = ["posts"]
 #  dateFormat = "January 02, 2006"
