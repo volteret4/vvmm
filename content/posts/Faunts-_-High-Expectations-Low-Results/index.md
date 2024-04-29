@@ -1,5 +1,5 @@
 ---
-title: "Low Results"
+title: "Faunts - High Expectation/Low Results"
 date: 2024-04-29T19:09:12+02:00
 image: "image.jpeg"
 draft: false
