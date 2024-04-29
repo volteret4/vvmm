@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/ambient/</loc>
+    <lastmod>2024-04-29T23:35:17+02:00</lastmod>
+  </url><url>
+    <loc>/posts/hiroshi-yoshimura-_-surround/</loc>
+    <lastmod>2024-04-29T23:35:17+02:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-04-29T23:35:17+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-04-29T23:35:17+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-04-29T23:35:17+02:00</lastmod>
+  </url><url>
     <loc>/posts/folamour-_-ordinary-drugs/</loc>
     <lastmod>2024-04-29T19:35:49+02:00</lastmod>
   </url><url>
     <loc>/tags/house/</loc>
-    <lastmod>2024-04-29T19:35:49+02:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-04-29T19:35:49+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-04-29T19:35:49+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2024-04-29T19:35:49+02:00</lastmod>
   </url><url>
     <loc>/tags/experimental/</loc>
@@ -88,9 +94,6 @@
   </url><url>
     <loc>/tags/deep/</loc>
     <lastmod>2024-04-29T01:40:11+02:00</lastmod>
-  </url><url>
-    <loc>/tags/ambient/</loc>
-    <lastmod>2024-04-28T23:35:33+02:00</lastmod>
   </url><url>
     <loc>/posts/gaussian-curve-cloud/</loc>
     <lastmod>2024-04-28T23:35:33+02:00</lastmod>
