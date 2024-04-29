@@ -1,6 +1,6 @@
 ---
 title: "Pet Shop Boys - Behaviour"
-date: 2024-04-29T15:05:16+02:00
+date: 2024-04-29T15:17:58+02:00
 image: "image.jpeg"
 draft: false
 tags:
