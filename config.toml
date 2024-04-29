@@ -3,9 +3,14 @@ baseURL = "/"
 languageCode = 'es-ES'
 title = 'vvmm'
 theme = 'm10c'
-avatar = '/avatar.jpg'
+#avatar = '/avatar.jpg'
 #paginate = "10"
+description = 'enlaces rápidos a discos interesantes'
 
+[[menu.main]]
+    identifier = 'tags'
+    name = "Tags"
+    url = "/tags/"
 
 #[menu]
 #  [[menu.main]]
