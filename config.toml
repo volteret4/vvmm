@@ -25,7 +25,7 @@ theme = 'm10c'
 #    url = "/posts"
 #    weight = 3
 
-#[params]
+[params]
 #  mode = 'dark'
   author = 'pollo'
   description = 'registro de intereses musicales'
