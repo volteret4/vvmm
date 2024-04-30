@@ -1,6 +1,6 @@
 ---
 title: "Föllakzoid - V"
-date: 2024-04-30T18:31:44+02:00
+date: 2024-04-30T18:40:08+02:00
 image: "image.jpeg"
 draft: false
 tags:
