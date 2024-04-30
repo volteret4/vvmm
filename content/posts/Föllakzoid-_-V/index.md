@@ -1,6 +1,6 @@
 ---
 title: "Föllakzoid - V"
-date: 2024-04-30T18:46:37+02:00
+date: 2024-04-30T18:52:22+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -13,7 +13,7 @@ tags:
 ![cover](image.jpeg (Föllakzoid - V))
  
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://follakzoid.bandcamp.com/album/v)
-[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/bash_script)
+[![discogs](../links/svg/discogs.png (discogs))]()
 [![lastfm](../links/svg/lastfm.png (lastfm))]()
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e47c4377-2443-44f0-80c6-1c606d6694b3)
 [![spotify](../links/svg/spotify.png (putify))]()
