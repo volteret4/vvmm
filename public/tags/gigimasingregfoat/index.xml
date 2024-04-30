@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vvmm</title>
-    <link>/</link>
-    <description>Recent content on vvmm</description>
+    <title>GigiMasinGregFoat on vvmm</title>
+    <link>/tags/gigimasingregfoat/</link>
+    <description>Recent content in GigiMasinGregFoat on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 30 Apr 2024 20:35:53 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 20:35:53 +0200</lastBuildDate><atom:link href="/tags/gigimasingregfoat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nombre - Del</title>
       <link>/posts/nombre-_-del/</link>
       <pubDate>Tue, 30 Apr 2024 20:35:53 +0200</pubDate>
       
       <guid>/posts/nombre-_-del/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/search/</guid>
       <description></description>
     </item>
     

@@ -5,6 +5,34 @@
     <link>/tags/</link>
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 30 Apr 2024 20:35:53 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>artista</title>
+      <link>/tags/artista/</link>
+      <pubDate>Tue, 30 Apr 2024 20:35:53 +0200</pubDate>
+      
+      <guid>/tags/artista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GigiMasinGregFoat</title>
+      <link>/tags/gigimasingregfoat/</link>
+      <pubDate>Tue, 30 Apr 2024 20:35:53 +0200</pubDate>
+      
+      <guid>/tags/gigimasingregfoat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nombre</title>
+      <link>/tags/nombre/</link>
+      <pubDate>Tue, 30 Apr 2024 20:35:53 +0200</pubDate>
+      
+      <guid>/tags/nombre/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
