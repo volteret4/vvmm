@@ -1,6 +1,6 @@
 ---
 title: "Folamour - Ordinary Drugs"
-date: 2024-04-30T02:56:35+02:00
+date: 2024-04-30T02:59:54+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -19,8 +19,3 @@ tags:
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLc4K6aoPDlKMTQJvGky9DZQaSymVvBRJs)
  
-Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: Desconocida
-Géneros: Géneros: Desconocidos
-Estilos: Estilos: Desconocidos
-Tracklist: Desconocida
