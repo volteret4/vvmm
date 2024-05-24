@@ -1,6 +1,6 @@
 ---
 title: "Mildlife - Chorus"
-date: 2024-05-24T23:54:30+02:00
+date: 2024-05-24T23:59:45+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -41,5 +41,5 @@ Tracklist:
 
   B3. Return To Centaurus    9:33
 
-TRACKLIST:
+Tracklist:
 
