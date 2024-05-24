@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vvmm</title>
-    <link>/</link>
-    <description>Recent content on vvmm</description>
+    <title>downtempo,deep on vvmm</title>
+    <link>/tags/downtempodeep/</link>
+    <description>Recent content in downtempo,deep on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 25 May 2024 00:32:28 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:32:28 +0200</lastBuildDate><atom:link href="/tags/downtempodeep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prins Thomas - 9</title>
       <link>/posts/prins-thomas-_-9/</link>
@@ -24,15 +24,6 @@ Sauerkraut (feat. Lindstrøm &amp;amp; Terje Olsen) 10:15
 Wendy Not Walter (feat. Lindstrøm) 9:29
 Nattønsket 7:06
 Åttiåtte 6:15</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/search/</guid>
-      <description></description>
     </item>
     
   </channel>
