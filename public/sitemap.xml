@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/downtempo/</loc>
+    <lastmod>2024-05-24T23:54:30+02:00</lastmod>
+  </url><url>
     <loc>/posts/mildlife-_-chorus/</loc>
+    <lastmod>2024-05-24T23:54:30+02:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-05-24T23:54:30+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-05-24T23:54:30+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-05-24T23:54:30+02:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/posts/</loc>
-  </url><url>
     <loc>/search/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/</loc>
   </url>
 </urlset>
