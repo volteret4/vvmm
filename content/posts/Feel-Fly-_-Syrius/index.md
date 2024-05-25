@@ -1,0 +1,47 @@
+---
+title: "Feel Fly - Syrius"
+date: 2024-05-25T22:34:31+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - deep
+ - house
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Feel-Fly - Syrius))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://feel-fly.bandcamp.com/album/syrius)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1563426)
+[![lastfm](../links/svg/lastfm.png (lastfm))]()
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3940e0b9-dd9e-4938-9231-7d15d59d282b)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5Y6J1zqgtKieaWSS0EFzZo)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLl8VI7PnMHvSyiIL6KjrXEwrV_9e5-Qlp)
+ 
+> Información del álbum facilitada por discogs.com:
+
+Fecha de lanzamiento: 2019
+
+Géneros: Electronic
+
+Estilos: House
+
+Tracklist:
+
+  A1. Il Teorema Del Delirio    6:56
+
+  A2. Syrius     4:11
+
+  B1. 10.01    5:22
+
+  B2. Endless Truth     6:45
+
+  C1. Brzone23     6:22
+
+  C2. Arpini     5:43
+
+  D1. Athēnâ    6:08
+
+  D2. Dromo Celeste     6:53
+
