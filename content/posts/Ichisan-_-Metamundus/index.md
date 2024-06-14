@@ -1,0 +1,37 @@
+---
+title: "Ichisan - Metamundus"
+date: 2024-06-14T19:03:30+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - idm
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Ichisan - Metamundus))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://ichisan.bandcamp.com/album/metamundus-ep)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1075407)
+[![lastfm](../links/svg/lastfm.png (lastfm))]()
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]()
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4MbVlLdb0cprJuuOlhUymw)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLeqokYVNrXNgP0NBolkZQmiW52sDJ3vdd)
+ 
+> Información del álbum facilitada por discogs.com:
+
+Fecha de lanzamiento: 2016
+
+Géneros: Electronic
+
+Estilos: House, Acid House, Disco, Nu-Disco
+
+Tracklist:
+
+  A. Metamundus    
+
+  B1. Bar Trenutek     
+
+  B2. Terasa    
+
