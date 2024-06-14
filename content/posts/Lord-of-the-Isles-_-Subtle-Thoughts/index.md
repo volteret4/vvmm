@@ -1,13 +1,13 @@
 ---
 title: "Lord of the Isles - Subtle Thoughts"
-date: 2024-06-14T22:16:28+02:00
+date: 2024-06-14T22:40:35+02:00
 image: "image.jpeg"
 draft: false
 tags:
  - ambient
  - lush
  - deep
- - idm
+ #- tagD
  #- tagE
 ---
 ![cover](image.jpeg (Lord-of-the-Isles - Subtle-Thoughts))
