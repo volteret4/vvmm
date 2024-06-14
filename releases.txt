@@ -1,0 +1,51 @@
+Listado de releases del artista:
+Make You Move / Our Music - 1996 - https://api.discogs.com/masters/1024837
+Make You Move - 1997 - https://api.discogs.com/masters/128686
+Make You Move (Remixed) - 1997 - https://api.discogs.com/masters/1730529
+Mankind Must Put An End To War - 1998 - https://api.discogs.com/releases/64819
+Chamber Musik - 2000 - https://api.discogs.com/masters/360466
+Tracks On Delivery Part 2 - 2000 - https://api.discogs.com/masters/361029
+The End Of The Beginning - 2000 - https://api.discogs.com/masters/711997
+Tracks On Delivery - 2000 - https://api.discogs.com/masters/677690
+Tracks On Delivery Part 4 - 2002 - https://api.discogs.com/masters/354261
+Tracks On Delivery Part 3 - 2002 - https://api.discogs.com/masters/354262
+Geht's Noch? - 2004 - https://api.discogs.com/masters/120498
+Geht's Noch? / One Night In Bangkok - 2005 - https://api.discogs.com/releases/3022208
+Superstructure - 2005 - https://api.discogs.com/masters/120500
+La Forza Del Destino - 2006 - https://api.discogs.com/masters/75921
+Study For A Skyscraper - 2006 - https://api.discogs.com/masters/796908
+Mutter - 2006 - https://api.discogs.com/masters/1478917
+La Forza Del Destino Remix - 2007 - https://api.discogs.com/masters/382795
+Stricher EP - 2009 - https://api.discogs.com/releases/1853247
+FACT Mix 77 - 2009 - https://api.discogs.com/releases/3576176
+How To Spread Lies - 2010 - https://api.discogs.com/masters/2038747
+Brian Le Bon - 2010 - https://api.discogs.com/masters/2018302
+Live At Robert Johnson Volume 5 - 2010 - https://api.discogs.com/masters/261424
+Edition Rodeo 01 - 2011 - https://api.discogs.com/releases/2756297
+Desperate Housemen EP - 2011 - https://api.discogs.com/releases/2859362
+RA.290 - 2011 - https://api.discogs.com/releases/3296855
+Fatty Folders - 2011 - https://api.discogs.com/masters/370929
+Brasil - 2011 - https://api.discogs.com/masters/1040100
+Scopic Drive EP - 2011 - https://api.discogs.com/masters/393092
+Cookie Dust - 2012 - https://api.discogs.com/masters/1416872
+Even More - 2013 - https://api.discogs.com/masters/559273
+More&more&more (Serge & Tyrell Rmxs) - 2013 - https://api.discogs.com/masters/563559
+Groove DJ-Mix - 2014 - https://api.discogs.com/releases/5826719
+RA.EX204 Roman Fluegel - 2014 - https://api.discogs.com/releases/6031754
+Podcast 363 - 2014 - https://api.discogs.com/releases/6185452
+Happiness Is Happening - 2014 - https://api.discogs.com/masters/729297
+Hachinoko - 2014 - https://api.discogs.com/masters/1011214
+7HVN05 - 2015 - https://api.discogs.com/releases/7618102
+Monday Brain - 2015 - https://api.discogs.com/releases/7659500
+Dekmantel Podcast 029 - 2015 - https://api.discogs.com/releases/10538174
+Sliced Africa - 2015 - https://api.discogs.com/masters/822666
+All The Right Noises - 2016 - https://api.discogs.com/masters/1081869
+Verschiebung - 2016 - https://api.discogs.com/masters/1051685
+Fabric 95 - 2017 - https://api.discogs.com/masters/2044252
+Black Acid EP - 2017 - https://api.discogs.com/masters/1332135
+1995 - 2018 - https://api.discogs.com/releases/11374797
+Gemišt Part 2 - 2018 - https://api.discogs.com/releases/11708383
+Themes I-XIII  - 2018 - https://api.discogs.com/releases/12715759
+Fun Fort  - 2019 - https://api.discogs.com/releases/13625539
+Acid Test - 2020 - https://api.discogs.com/masters/75920
+Tracks On Delivery - 2020 - https://api.discogs.com/masters/2071441
