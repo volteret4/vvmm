@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>idm on vvmm</title>
-    <link>/tags/idm/</link>
-    <description>Recent content in idm on vvmm</description>
+    <title>lush on vvmm</title>
+    <link>/tags/lush/</link>
+    <description>Recent content in lush on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 14 Jun 2024 22:16:28 +0200</lastBuildDate><atom:link href="/tags/idm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jun 2024 22:16:28 +0200</lastBuildDate><atom:link href="/tags/lush/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lord of the Isles - Subtle Thoughts</title>
       <link>/posts/lord-of-the-isles-_-subtle-thoughts/</link>
@@ -32,22 +32,6 @@ B5. Spirit Owl 2:56
 B6. Open Mode 5:43
 B7. Subtle Thoughts 2:45
 esto es una prueba con dos lineas </description>
-    </item>
-    
-    <item>
-      <title>Ichisan - Metamundus</title>
-      <link>/posts/ichisan-_-metamundus/</link>
-      <pubDate>Fri, 14 Jun 2024 19:03:30 +0200</pubDate>
-      
-      <guid>/posts/ichisan-_-metamundus/</guid>
-      <description>Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: 2016
-Géneros: Electronic
-Estilos: House, Acid House, Disco, Nu-Disco
-Tracklist:
-A. Metamundus
-B1. Bar Trenutek
-B2. Terasa</description>
     </item>
     
   </channel>

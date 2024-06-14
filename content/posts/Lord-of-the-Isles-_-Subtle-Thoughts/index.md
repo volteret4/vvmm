@@ -1,13 +1,13 @@
 ---
 title: "Lord of the Isles - Subtle Thoughts"
-date: 2024-06-14T22:05:21+02:00
+date: 2024-06-14T22:16:28+02:00
 image: "image.jpeg"
 draft: false
 tags:
- - pollo
- #- tagB
- #- tagC
- #- tagD
+ - ambient
+ - lush
+ - deep
+ - idm
  #- tagE
 ---
 ![cover](image.jpeg (Lord-of-the-Isles - Subtle-Thoughts))
@@ -53,3 +53,5 @@ tags:
 
   B7. Subtle Thoughts    2:45
 
+ 
+# esto es una prueba __con dos lineas__
