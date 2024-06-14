@@ -6,31 +6,22 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 14 Jun 2024 23:27:52 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>idm</title>
-      <link>/tags/idm/</link>
-      <pubDate>Fri, 14 Jun 2024 23:27:52 +0200</pubDate>
-      
-      <guid>/tags/idm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>techno</title>
-      <link>/tags/techno/</link>
-      <pubDate>Fri, 14 Jun 2024 23:27:52 +0200</pubDate>
-      
-      <guid>/tags/techno/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 14 Jun 2024 23:14:36 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ambient</title>
       <link>/tags/ambient/</link>
       <pubDate>Fri, 14 Jun 2024 23:14:36 +0200</pubDate>
       
       <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idm</title>
+      <link>/tags/idm/</link>
+      <pubDate>Fri, 14 Jun 2024 23:14:36 +0200</pubDate>
+      
+      <guid>/tags/idm/</guid>
       <description></description>
     </item>
     
@@ -67,6 +58,15 @@
       <pubDate>Fri, 14 Jun 2024 21:00:18 +0200</pubDate>
       
       <guid>/tags/pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techno</title>
+      <link>/tags/techno/</link>
+      <pubDate>Fri, 14 Jun 2024 20:41:35 +0200</pubDate>
+      
+      <guid>/tags/techno/</guid>
       <description></description>
     </item>
     
