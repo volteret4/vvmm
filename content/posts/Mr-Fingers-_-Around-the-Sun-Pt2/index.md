@@ -13,9 +13,9 @@ tags:
 ![cover](image.jpeg (Mr-Fingers - Around-the-Sun-Pt2))
  
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))]()
-[![discogs](../links/svg/discogs.png (discogs))]()
-[![lastfm](../links/svg/lastfm.png (lastfm))]()
-[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]()
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3123855)
+[![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mr.+Fingers/Around+The+Sun+pt.2)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/67d32358-89d2-4ba3-b3c7-7ac203235e37)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3VOHZpVXcjwtBK4N6Xtok8)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLEiwASP2_wcbWYuezqQnmASdyXxi43PFQ)
  
