@@ -1,18 +1,24 @@
 ---
 title: "Mildlife - Chorus"
-date: 2024-06-16T16:31:04+02:00
+date: 2024-06-16T16:35:06+02:00
 image: "image.jpeg"
 draft: false
 tags:
- #- tagA
- #- tagB
- #- tagC
+ - jazz
+ - funk
+ - soul
  #- tagD
  #- tagE
 ---
 ![cover](image.jpeg (Mildlife - Chorus))
  
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://mildlife.bandcamp.com/album/chorus)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3410902)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9b3bbca0-35e5-4f4d-af0a-80627e937eea)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLi3N1MxEaSZo6_2zbhL8OeDV4PSa97171)
  
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
  
 > Información del álbum facilitada por discogs.com:
 > 
