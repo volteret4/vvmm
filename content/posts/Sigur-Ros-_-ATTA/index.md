@@ -1,0 +1,52 @@
+---
+title: "Sigur Ros - ATTA"
+date: 2024-06-16T18:06:54+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - post-rock
+ - ambient
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Sigur-Ros - ATTA))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3136311)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/aa60ed1b-b7c9-4a36-a273-c4d058a07948)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4QHM0MaR2dPDWIaKhTt7hd)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLze65Ckn-WXbFcUuSettsIjRtWTjVxGUr)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2023
+> 
+> **Géneros**: Electronic, Rock
+> 
+> **Estilos**: Post Rock, Experimental, Ambient
+> 
+> **Tracklist:**
+> 
+>   1. Glóð    3:39
+> 
+>   2. Blóðberg    7:16
+> 
+>   3. Skel    4:58
+> 
+>   4.  Klettur    6:31
+> 
+>   5. Mór    5:47
+> 
+>   6. Andrá    4:07
+> 
+>   7. Gold    5:13
+> 
+>   8. Ylur    5:55
+> 
+>   9. Fall    3:27
+> 
+>   10. 8    9:41
+> 
