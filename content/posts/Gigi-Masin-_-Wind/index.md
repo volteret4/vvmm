@@ -1,6 +1,6 @@
 ---
 title: "Gigi Masin - Wind"
-date: 2024-06-16T16:16:04+02:00
+date: 2024-06-16T16:29:49+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -12,12 +12,7 @@ tags:
 ---
 ![cover](image.jpeg (Gigi-Masin - Wind))
  
-<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
-[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/874497)
-
-[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/94df277e-865b-48ac-a61b-cf95dbb6f306)
-[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0WarGVGAHMzf6DgCfz3pbC)
-[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLie_rHAEXPN1mEGWEUQ4iTXMPyvsSkVhk)
+ 
  
 > Información del álbum facilitada por discogs.com:
 > 
