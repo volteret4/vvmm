@@ -6,11 +6,29 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 14 Jun 2024 21:00:18 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 14:26:37 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Sun, 16 Jun 2024 14:26:37 +0200</pubDate>
+      
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep</title>
+      <link>/tags/deep/</link>
+      <pubDate>Sun, 16 Jun 2024 14:26:37 +0200</pubDate>
+      
+      <guid>/tags/deep/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>house</title>
       <link>/tags/house/</link>
-      <pubDate>Fri, 14 Jun 2024 21:00:18 +0200</pubDate>
+      <pubDate>Sun, 16 Jun 2024 14:26:37 +0200</pubDate>
       
       <guid>/tags/house/</guid>
       <description></description>
@@ -49,15 +67,6 @@
       <pubDate>Fri, 14 Jun 2024 18:26:56 +0200</pubDate>
       
       <guid>/tags/voz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep</title>
-      <link>/tags/deep/</link>
-      <pubDate>Sat, 25 May 2024 22:34:31 +0200</pubDate>
-      
-      <guid>/tags/deep/</guid>
       <description></description>
     </item>
     

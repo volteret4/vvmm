@@ -28,7 +28,7 @@ theme = 'm10c'
 [params]
 #  mode = 'dark'
   author = 'pollo'
-  description = 'grandes descubrimientos sonoros""
+  description = 'grandes descubrimientos sonoros'
   menu_item_separator = " - "
   avatar = 'avatar.jpg'
 #  columns = 2
