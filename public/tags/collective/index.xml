@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rock on vvmm</title>
-    <link>/tags/rock/</link>
-    <description>Recent content in rock on vvmm</description>
+    <title>Collective on vvmm</title>
+    <link>/tags/collective/</link>
+    <description>Recent content in Collective on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 16 Jun 2024 16:38:36 +0200</lastBuildDate><atom:link href="/tags/rock/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 16:38:36 +0200</lastBuildDate><atom:link href="/tags/collective/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kim Gordon - The</title>
       <link>/posts/kim-gordon-_-the/</link>
