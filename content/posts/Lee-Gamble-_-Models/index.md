@@ -11,15 +11,15 @@ tags:
  #- tagE
 ---
 ![cover](image.jpeg (Lee-Gamble - Models))
- 
+
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://leegamble.bandcamp.com/album/models)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3288007)
+[![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lee+Gamble/Models)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3e290b18-902a-4f0b-9b31-f49ed0d15026)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5ISi9n2mbBL3EGTaA6C39C)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLZqsyBiYZFQ3OgVyYUMDV9uTWMygHH9UQ)
  
-<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
-<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
- 
+
 > Información del álbum facilitada por discogs.com:
 > 
 > **Fecha de lanzamiento**: 2023
