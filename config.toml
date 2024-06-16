@@ -28,9 +28,9 @@ theme = 'm10c'
 [params]
 #  mode = 'dark'
   author = 'pollo'
-  description = 'registro de intereses musicales'
+  description = 'grandes descubrimientos sonoros""
   menu_item_separator = " - "
-  avatar = '/avatar.jpg'
+  avatar = 'avatar.jpg'
 #  columns = 2
 #  mainSections = ["posts"]
 #  dateFormat = "January 02, 2006"
