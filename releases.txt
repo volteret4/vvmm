@@ -1,98 +1,97 @@
 Listado de releases del artista:
-Sceneries Not Songs, Volume One - 1994 - https://api.discogs.com/masters/6630
-Black Oceans - 1994 - https://api.discogs.com/masters/6864
-Sceneries Not Songs - Volume Tu - 1995 - https://api.discogs.com/masters/6720
-Premonition Of Lost Love - 1995 - https://api.discogs.com/masters/389827
-Alien - 1996 - https://api.discogs.com/masters/6660
-Dance 2000 - 1997 - https://api.discogs.com/masters/6688
-Mystical People - 1997 - https://api.discogs.com/masters/301929
-The Calm & Chaos EP - 1997 - https://api.discogs.com/masters/277508
-Dance 2000 - The Glasgow Connection - 1998 - https://api.discogs.com/releases/4308
-Night Images (Swayzak Remixes) - 1998 - https://api.discogs.com/releases/166025
-Les Parrains De La House - Larry Heard (Mr Fingers) - 1998 - https://api.discogs.com/releases/234905
-Dance 2000 (Part 2) - 1998 - https://api.discogs.com/masters/6705
-Paradise - 1998 - https://api.discogs.com/masters/2471407
-The Prologue - 1999 - https://api.discogs.com/releases/925961
-A Definitive Mr. Fingers Collection - 1999 - https://api.discogs.com/releases/14190652
-Genesis - 1999 - https://api.discogs.com/masters/6731
-Dance 2000 - The Chicago Connection - 1999 - https://api.discogs.com/masters/787591
-Can You Feel It - Trax Classics - 2000 - https://api.discogs.com/releases/195736
-Missing You - 2000 - https://api.discogs.com/masters/6746
-Another Night (Re-Edit) - 2001 - https://api.discogs.com/masters/1177912
-Direct Drive / Time Machine - 2001 - https://api.discogs.com/masters/6765
-Love's Arrival - 2001 - https://api.discogs.com/masters/6777
-Chicago All Stars - 2002 - https://api.discogs.com/releases/1581569
-Trip Do Brasil 2 - EP5 - 2002 - https://api.discogs.com/masters/791585
-Praise - 2002 - https://api.discogs.com/masters/218938
-Reminisce - 2003 - https://api.discogs.com/masters/6812
-Space Jungle - 2003 - https://api.discogs.com/masters/6825
-Where Life Begins - 2003 - https://api.discogs.com/masters/6837
-Evening Dance - 2003 - https://api.discogs.com/masters/1437565
-Soundtrack From The Duality Double-Play - 2005 - https://api.discogs.com/releases/506392
-Balance / Three O' Three (Re-Edit) - 2006 - https://api.discogs.com/releases/653190
-You Rock Me - 2006 - https://api.discogs.com/masters/208375
-Changes (The Remixes) - 2007 - https://api.discogs.com/masters/319818
-25 Years From Alpha - 2008 - https://api.discogs.com/masters/1148169
-Styrax Special - 2011 - https://api.discogs.com/releases/3162592
-Distance Revisited EP - 2012 - https://api.discogs.com/releases/8374920
-Black Oceans / Endless Flight - 2012 - https://api.discogs.com/masters/455746
-RA.EX300 Larry Heard - 2016 - https://api.discogs.com/releases/9695798
-Rebirth 10 - 2016 - https://api.discogs.com/masters/3504525
-Virtual Emotion - 2017 - https://api.discogs.com/releases/10799078
-Another Night (Re-Edit) - 2023 - https://api.discogs.com/releases/28940713
-Vault Sessions 2 - 2023 - https://api.discogs.com/masters/3196311
-Mr. Fingers Inc. - Desconocido - https://api.discogs.com/releases/9332230
-Gallimaufry Gallery - 1988 - https://api.discogs.com/masters/5760
-Stay Close - 1989 - https://api.discogs.com/masters/53774
-Flashback Jack (12" Remix) - 1990 - https://api.discogs.com/masters/84003
-Sun Worshippers (Remixes) - 1990 - https://api.discogs.com/masters/131771
-What About This Love (Remix) - 1990 - https://api.discogs.com/masters/5338
-Electribal Memories - 1990 - https://api.discogs.com/masters/75393
-Talking With Myself - 1990 - https://api.discogs.com/masters/75400
-Comin On Strong - 1991 - https://api.discogs.com/masters/89413
-Dance Disc - Volume 9 - 1992 - https://api.discogs.com/releases/9672137
+Mystery Of Love - 1985 - https://api.discogs.com/masters/5678
+Washing Machine / Can You Feel It - 1986 - https://api.discogs.com/masters/5309
+No Way Back / 7 Ways To Jack / Can You Feel It - 1987 - https://api.discogs.com/releases/357675
+Slam Dance - 1987 - https://api.discogs.com/masters/5330
+6 Track E.P. - 1988 - https://api.discogs.com/masters/827762
+Love And Justice - 1989 - https://api.discogs.com/releases/16081
+Ammnesia - 1989 - https://api.discogs.com/releases/35677
+What About This Love - 1989 - https://api.discogs.com/masters/5338
+Ammnesia - 1989 - https://api.discogs.com/masters/47878
+Mr. Fingers 2 - 1991 - https://api.discogs.com/masters/518580
+Quiet Storm Sampler - 1992 - https://api.discogs.com/releases/494733
 Closer - 1992 - https://api.discogs.com/masters/5349
-Baby - 1992 - https://api.discogs.com/masters/89455
-Manhassett - 1992 - https://api.discogs.com/masters/81726
-Any Love Remixes x 3  - 1992 - https://api.discogs.com/masters/32631
-Black Market International EP - 1993 - https://api.discogs.com/releases/36095
-Looking For Someone - 1993 - https://api.discogs.com/masters/81727
+Introduction - 1992 - https://api.discogs.com/masters/5372
+Dead End Alley - 1992 - https://api.discogs.com/masters/5379
+On A Corner Called Jazz - 1992 - https://api.discogs.com/masters/5391
+On My Way - 1992 - https://api.discogs.com/masters/5420
 Back To Love - 1994 - https://api.discogs.com/masters/5438
-More Than Friends - 1994 - https://api.discogs.com/masters/89491
-Love Explosion Remixes - 1996 - https://api.discogs.com/masters/289744
-A Taste Of Cajual - 1997 - https://api.discogs.com/masters/240365
-Paris-Chicago Express - 1997 - https://api.discogs.com/masters/159043
-Singles 90/98 - 1998 - https://api.discogs.com/masters/32673
-Killer: The Best Of Adamski - 1999 - https://api.discogs.com/releases/86792
-Dengon - 2000 - https://api.discogs.com/masters/200942
-Revolutions 2 "Extension Du Domaine De La House" - 2000 - https://api.discogs.com/masters/39351
-Ain't No Love - 2000 - https://api.discogs.com/masters/89416
-Paradisiac 2 - 2000 - https://api.discogs.com/masters/126694
-The Cousmic Courier Vol II - 2001 - https://api.discogs.com/releases/23227
-Coast2Coast - 2001 - https://api.discogs.com/releases/37933
-House Proud. Vol.2 - Outtakes - 2001 - https://api.discogs.com/releases/1413552
-Are We Thru? (Remixes) - 2001 - https://api.discogs.com/masters/127274
-Glasgow Underground Volume Four - 2001 - https://api.discogs.com/masters/170904
-Paradise (The Remixes) - 2001 - https://api.discogs.com/masters/9147
-Do You Know House? (Volume One) - 2001 - https://api.discogs.com/masters/91381
-House Tunes 4 - 2002 - https://api.discogs.com/releases/1193813
-Love Will Find Its Way (The Best Of) - 2002 - https://api.discogs.com/masters/65825
-Larry Heards On The Bridge Remixes - 2002 - https://api.discogs.com/masters/596909
-Il Parlait Pas Français (Larry Heard & Fredrik Stark Mixes) - 2002 - https://api.discogs.com/masters/87738
-Balearic Sampler 2003 - 2003 - https://api.discogs.com/releases/200852
-Chica Disco Vol. 1 - 2003 - https://api.discogs.com/releases/205422
-Chill-House Love 2003 - 2003 - https://api.discogs.com/releases/208336
-Addicted To House 2 - 2003 - https://api.discogs.com/releases/214180
-Republiek 2: Deepsummer - 2003 - https://api.discogs.com/releases/514739
-Erotic Moments In House (Ménage À 3) - 2003 - https://api.discogs.com/releases/899442
-Caniço - Smooth Summer House Tunes Vol # 2 - 2003 - https://api.discogs.com/releases/2124123
-Erotic Moments In House Vol. 2 - 2003 - https://api.discogs.com/masters/129069
-Schlank & Tief - 2003 - https://api.discogs.com/masters/953244
-Paradisco 3000 : Chicago Boogie Sampler 3/4 - 2004 - https://api.discogs.com/releases/253567
-Paradisco3000 Presents Chicago Boogie - 2004 - https://api.discogs.com/releases/268429
+I Need You - 1994 - https://api.discogs.com/masters/5453
+Classic Fingers - 1995 - https://api.discogs.com/masters/5362
+Can U Feel It / Bird In A Gilded Cage - 1996 - https://api.discogs.com/releases/30015
+Can You Feel It / Distant Planet - 1998 - https://api.discogs.com/masters/366611
+Can You Feel It - 1999 - https://api.discogs.com/masters/5664
+Washing Machine / Got The Bug - 2002 - https://api.discogs.com/releases/160477
+Technical Ecstacy EP - 2005 - https://api.discogs.com/masters/5493
+Four Most Cuts Presents Mr Fingers - 2013 - https://api.discogs.com/releases/11972851
+Outer Acid EP - 2016 - https://api.discogs.com/masters/977922
+Rebirth 10 - 2016 - https://api.discogs.com/masters/3504525
+I'm Strong - 2017 - https://api.discogs.com/masters/5721
+Inner / Outer Acid (Remixes) - 2018 - https://api.discogs.com/releases/12698812
+Cerebral Hemispheres Remixes - 2018 - https://api.discogs.com/releases/12699044
+Praise To The Vibes / Crying Over You (Remixes) - 2018 - https://api.discogs.com/releases/12699099
+Cerebral Hemispheres - 2018 - https://api.discogs.com/masters/1349133
+Vault Sessions 1 - 2021 - https://api.discogs.com/releases/16229824
+Around The Sun Pt.1 - 2022 - https://api.discogs.com/masters/2638199
+Around The Sun Pt.2 - 2023 - https://api.discogs.com/masters/3123855
+We're Gonna Work It Out - 1988 - https://api.discogs.com/releases/37473
+Sessions - 1992 - https://api.discogs.com/masters/857449
+Wild Life, Original Love (Cool Side Of Original Love) - 1995 - https://api.discogs.com/masters/1330127
+Painting - 2002 - https://api.discogs.com/masters/460334
 Waypoints EP - 2004 - https://api.discogs.com/releases/336987
-You Could Be The One / Ballerine - 2004 - https://api.discogs.com/masters/1071607
-FM Café - Deep House From Dessous - 2004 - https://api.discogs.com/masters/208434
 Think Of You - 2004 - https://api.discogs.com/masters/325319
-Rosanova - 2004 - https://api.discogs.com/masters/87775
-Ella - 2004 - https://api.discogs.com/masters/784098
+Sunset And Sunrise 6 - 2006 - https://api.discogs.com/releases/3190384
+Video Games - Remixes - 2011 - https://api.discogs.com/masters/3053906
+Video Games / Blue Jeans - 2011 - https://api.discogs.com/masters/376696
+Palm Leaves (Remixes) - 2011 - https://api.discogs.com/masters/370585
+Clone Royal Oak Sonar Sampler CD 2012 - 2012 - https://api.discogs.com/releases/3707758
+Le Velour - 2012 - https://api.discogs.com/releases/3728430
+South West Four Weekender - 2012 - https://api.discogs.com/releases/3760728
+Everything Is Everything - 2012 - https://api.discogs.com/releases/3849649
+Unlimited XIII - 2012 - https://api.discogs.com/releases/4067495
+Little Pianist Remixed - 2012 - https://api.discogs.com/releases/4252444
+Deep Down (Including Mr. Fingers Remix) - 2012 - https://api.discogs.com/masters/414737
+Higher Level - 2012 - https://api.discogs.com/masters/599703
+Between The Lines (Bonus Edition) - 2012 - https://api.discogs.com/masters/489200
+Even If - 2012 - https://api.discogs.com/masters/1509297
+Earth Beats (Live & Larry Heard Remix) - 2012 - https://api.discogs.com/masters/481729
+Distant Story (Mr. Fingers Dubs) - 2013 - https://api.discogs.com/releases/4453399
+RA.368 - 2013 - https://api.discogs.com/releases/4676645
+Defected In The House - Ibiza 2013 - 2013 - https://api.discogs.com/releases/4688081
+Lonely Is The Night (Fingers Remixes) - 2013 - https://api.discogs.com/releases/5178853
+Bargrooves Ibiza 2013 - 2013 - https://api.discogs.com/releases/25474828
+It's You (Remixes) - 2013 - https://api.discogs.com/masters/515132
+Wake Me Up - 2013 - https://api.discogs.com/masters/537266
+Don't Be Left Out Sampler - 2014 - https://api.discogs.com/releases/5469030
+Make It True - 2014 - https://api.discogs.com/releases/6453976
+Word Of Mouth Remixes - 2014 - https://api.discogs.com/releases/7853051
+Atonement - 2014 - https://api.discogs.com/masters/1239571
+In The House Of Disco - 2014 - https://api.discogs.com/masters/982153
+Don't Be Leftout - 2014 - https://api.discogs.com/masters/811683
+Better Than This (Larry Heard Remixes) - 2015 - https://api.discogs.com/releases/13330470
+Campfire Stories 10 (Ocean) - 2015 - https://api.discogs.com/releases/18583741
+Take A Chance - 2015 - https://api.discogs.com/masters/876606
+Aquamarine - 2015 - https://api.discogs.com/masters/869508
+Beyond The Dance (Mr. Fingers Remixes) - 2016 - https://api.discogs.com/releases/8319009
+Believer (Fingers Deep-Funk Remix) / Can U Read Me? - 2016 - https://api.discogs.com/releases/8850009
+Defected In The House - Croatia - 2016 - https://api.discogs.com/masters/1706990
+25 Years Of Clone Records Vol. 1 - 2017 - https://api.discogs.com/releases/9933995
+DMC Dance Mixes 263 - 2020 - https://api.discogs.com/releases/15937208
+Club Future Nostalgia (DJ Mix) - 2020 - https://api.discogs.com/masters/1798796
+Future Nostalgia + Club Future Nostalgia - 2020 - https://api.discogs.com/masters/1705638
+Hallucinate (Mr Fingers Deep Stripped Mix) - 2020 - https://api.discogs.com/masters/2584964
+Distant EP (Mr Fingers Remix) - 2023 - https://api.discogs.com/releases/28668115
+Brighter Days - 2023 - https://api.discogs.com/masters/3342871
+Jackmaster 1 - 1987 - https://api.discogs.com/masters/147627
+Sound Of The Underground - 1994 - https://api.discogs.com/masters/277157
+Coming Of Age - 1999 - https://api.discogs.com/masters/100922
+Distant EP (Mr Fingers Remix) - 2023 - https://api.discogs.com/releases/28668115
+Stay Close - 1989 - https://api.discogs.com/masters/53774
+Patterns And Cycles - 2012 - https://api.discogs.com/masters/1350995
+Can You Feel It - 2014 - https://api.discogs.com/releases/5873794
+Believer (Fingers Deep-Funk Remix) / Can U Read Me? - 2016 - https://api.discogs.com/releases/8850009
+Oldskool (Mini Album) - 2016 - https://api.discogs.com/masters/1042749
+The House Sound Of Chicago - Chicago Trax - 1986 - https://api.discogs.com/releases/542669
+Trax Records Sampler - 1987 - https://api.discogs.com/releases/843326
+The House Sound Of Chicago - Vol. II - Chicago Trax - 1987 - https://api.discogs.com/masters/68881
+Chicago Trax - Volume 1 - 1987 - https://api.discogs.com/masters/150802
