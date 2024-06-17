@@ -1,97 +1,57 @@
 Listado de releases del artista:
-Mystery Of Love - 1985 - https://api.discogs.com/masters/5678
-Washing Machine / Can You Feel It - 1986 - https://api.discogs.com/masters/5309
-No Way Back / 7 Ways To Jack / Can You Feel It - 1987 - https://api.discogs.com/releases/357675
-Slam Dance - 1987 - https://api.discogs.com/masters/5330
-6 Track E.P. - 1988 - https://api.discogs.com/masters/827762
-Love And Justice - 1989 - https://api.discogs.com/releases/16081
-Ammnesia - 1989 - https://api.discogs.com/releases/35677
-What About This Love - 1989 - https://api.discogs.com/masters/5338
-Ammnesia - 1989 - https://api.discogs.com/masters/47878
-Mr. Fingers 2 - 1991 - https://api.discogs.com/masters/518580
-Quiet Storm Sampler - 1992 - https://api.discogs.com/releases/494733
-Closer - 1992 - https://api.discogs.com/masters/5349
-Introduction - 1992 - https://api.discogs.com/masters/5372
-Dead End Alley - 1992 - https://api.discogs.com/masters/5379
-On A Corner Called Jazz - 1992 - https://api.discogs.com/masters/5391
-On My Way - 1992 - https://api.discogs.com/masters/5420
-Back To Love - 1994 - https://api.discogs.com/masters/5438
-I Need You - 1994 - https://api.discogs.com/masters/5453
-Classic Fingers - 1995 - https://api.discogs.com/masters/5362
-Can U Feel It / Bird In A Gilded Cage - 1996 - https://api.discogs.com/releases/30015
-Can You Feel It / Distant Planet - 1998 - https://api.discogs.com/masters/366611
-Can You Feel It - 1999 - https://api.discogs.com/masters/5664
-Washing Machine / Got The Bug - 2002 - https://api.discogs.com/releases/160477
-Technical Ecstacy EP - 2005 - https://api.discogs.com/masters/5493
-Four Most Cuts Presents Mr Fingers - 2013 - https://api.discogs.com/releases/11972851
-Outer Acid EP - 2016 - https://api.discogs.com/masters/977922
-Rebirth 10 - 2016 - https://api.discogs.com/masters/3504525
-I'm Strong - 2017 - https://api.discogs.com/masters/5721
-Inner / Outer Acid (Remixes) - 2018 - https://api.discogs.com/releases/12698812
-Cerebral Hemispheres Remixes - 2018 - https://api.discogs.com/releases/12699044
-Praise To The Vibes / Crying Over You (Remixes) - 2018 - https://api.discogs.com/releases/12699099
-Cerebral Hemispheres - 2018 - https://api.discogs.com/masters/1349133
-Vault Sessions 1 - 2021 - https://api.discogs.com/releases/16229824
-Around The Sun Pt.1 - 2022 - https://api.discogs.com/masters/2638199
-Around The Sun Pt.2 - 2023 - https://api.discogs.com/masters/3123855
-We're Gonna Work It Out - 1988 - https://api.discogs.com/releases/37473
-Sessions - 1992 - https://api.discogs.com/masters/857449
-Wild Life, Original Love (Cool Side Of Original Love) - 1995 - https://api.discogs.com/masters/1330127
-Painting - 2002 - https://api.discogs.com/masters/460334
-Waypoints EP - 2004 - https://api.discogs.com/releases/336987
-Think Of You - 2004 - https://api.discogs.com/masters/325319
-Sunset And Sunrise 6 - 2006 - https://api.discogs.com/releases/3190384
-Video Games - Remixes - 2011 - https://api.discogs.com/masters/3053906
-Video Games / Blue Jeans - 2011 - https://api.discogs.com/masters/376696
-Palm Leaves (Remixes) - 2011 - https://api.discogs.com/masters/370585
-Clone Royal Oak Sonar Sampler CD 2012 - 2012 - https://api.discogs.com/releases/3707758
-Le Velour - 2012 - https://api.discogs.com/releases/3728430
-South West Four Weekender - 2012 - https://api.discogs.com/releases/3760728
-Everything Is Everything - 2012 - https://api.discogs.com/releases/3849649
-Unlimited XIII - 2012 - https://api.discogs.com/releases/4067495
-Little Pianist Remixed - 2012 - https://api.discogs.com/releases/4252444
-Deep Down (Including Mr. Fingers Remix) - 2012 - https://api.discogs.com/masters/414737
-Higher Level - 2012 - https://api.discogs.com/masters/599703
-Between The Lines (Bonus Edition) - 2012 - https://api.discogs.com/masters/489200
-Even If - 2012 - https://api.discogs.com/masters/1509297
-Earth Beats (Live & Larry Heard Remix) - 2012 - https://api.discogs.com/masters/481729
-Distant Story (Mr. Fingers Dubs) - 2013 - https://api.discogs.com/releases/4453399
-RA.368 - 2013 - https://api.discogs.com/releases/4676645
-Defected In The House - Ibiza 2013 - 2013 - https://api.discogs.com/releases/4688081
-Lonely Is The Night (Fingers Remixes) - 2013 - https://api.discogs.com/releases/5178853
-Bargrooves Ibiza 2013 - 2013 - https://api.discogs.com/releases/25474828
-It's You (Remixes) - 2013 - https://api.discogs.com/masters/515132
-Wake Me Up - 2013 - https://api.discogs.com/masters/537266
-Don't Be Left Out Sampler - 2014 - https://api.discogs.com/releases/5469030
-Make It True - 2014 - https://api.discogs.com/releases/6453976
-Word Of Mouth Remixes - 2014 - https://api.discogs.com/releases/7853051
-Atonement - 2014 - https://api.discogs.com/masters/1239571
-In The House Of Disco - 2014 - https://api.discogs.com/masters/982153
-Don't Be Leftout - 2014 - https://api.discogs.com/masters/811683
-Better Than This (Larry Heard Remixes) - 2015 - https://api.discogs.com/releases/13330470
-Campfire Stories 10 (Ocean) - 2015 - https://api.discogs.com/releases/18583741
-Take A Chance - 2015 - https://api.discogs.com/masters/876606
-Aquamarine - 2015 - https://api.discogs.com/masters/869508
-Beyond The Dance (Mr. Fingers Remixes) - 2016 - https://api.discogs.com/releases/8319009
-Believer (Fingers Deep-Funk Remix) / Can U Read Me? - 2016 - https://api.discogs.com/releases/8850009
-Defected In The House - Croatia - 2016 - https://api.discogs.com/masters/1706990
-25 Years Of Clone Records Vol. 1 - 2017 - https://api.discogs.com/releases/9933995
-DMC Dance Mixes 263 - 2020 - https://api.discogs.com/releases/15937208
-Club Future Nostalgia (DJ Mix) - 2020 - https://api.discogs.com/masters/1798796
-Future Nostalgia + Club Future Nostalgia - 2020 - https://api.discogs.com/masters/1705638
-Hallucinate (Mr Fingers Deep Stripped Mix) - 2020 - https://api.discogs.com/masters/2584964
-Distant EP (Mr Fingers Remix) - 2023 - https://api.discogs.com/releases/28668115
-Brighter Days - 2023 - https://api.discogs.com/masters/3342871
-Jackmaster 1 - 1987 - https://api.discogs.com/masters/147627
-Sound Of The Underground - 1994 - https://api.discogs.com/masters/277157
-Coming Of Age - 1999 - https://api.discogs.com/masters/100922
-Distant EP (Mr Fingers Remix) - 2023 - https://api.discogs.com/releases/28668115
-Stay Close - 1989 - https://api.discogs.com/masters/53774
-Patterns And Cycles - 2012 - https://api.discogs.com/masters/1350995
-Can You Feel It - 2014 - https://api.discogs.com/releases/5873794
-Believer (Fingers Deep-Funk Remix) / Can U Read Me? - 2016 - https://api.discogs.com/releases/8850009
-Oldskool (Mini Album) - 2016 - https://api.discogs.com/masters/1042749
-The House Sound Of Chicago - Chicago Trax - 1986 - https://api.discogs.com/releases/542669
-Trax Records Sampler - 1987 - https://api.discogs.com/releases/843326
-The House Sound Of Chicago - Vol. II - Chicago Trax - 1987 - https://api.discogs.com/masters/68881
-Chicago Trax - Volume 1 - 1987 - https://api.discogs.com/masters/150802
+Hurricane Laughter / Winter In The Sun - 2018 - https://api.discogs.com/masters/1490850
+Boys In The Better Land / Chequeless Reckless - 2018 - https://api.discogs.com/masters/1487619
+Liberty Belle (Darklands Version) - 2018 - https://api.discogs.com/masters/1490845
+Too Real - 2018 - https://api.discogs.com/masters/1487614
+Roy's Tune - 2019 - https://api.discogs.com/releases/13396262
+Darklands Versions - 2019 - https://api.discogs.com/releases/14398237
+Dogrel - 2019 - https://api.discogs.com/releases/14612250
+Boys In The Better Land (radio edit) - 2019 - https://api.discogs.com/releases/15766750
+Big - 2019 - https://api.discogs.com/masters/1779585
+Dogrel - 2019 - https://api.discogs.com/masters/1531690
+A Night At Montrose - Selects - 2020 - https://api.discogs.com/releases/17741308
+A Lucid Dream (Apple Music Home Session) - 2020 - https://api.discogs.com/releases/22763528
+A Hero's Death - 2020 - https://api.discogs.com/masters/1779584
+Televised Mind - 2020 - https://api.discogs.com/masters/2255980
+A Hero’s Death / I Don’t Belong - 2020 - https://api.discogs.com/masters/1755437
+A Lucid Dreamer (Live Version) - 2021 - https://api.discogs.com/masters/2494795
+Live At Kilmainham Gaol - 2021 - https://api.discogs.com/masters/2237485
+I Don't Belong (A Take Away Show By La Blogothèque) - 2021 - https://api.discogs.com/masters/2494798
+Skinty Fia - 2021 - https://api.discogs.com/masters/2602640
+Apple Music Home Session: Fontaines D.C., Vol 2 - 2022 - https://api.discogs.com/releases/22524521
+Skinty Fia (Edit) - 2022 - https://api.discogs.com/releases/22763891
+Skinty Fia Sessions - 2022 - https://api.discogs.com/releases/25300921
+The Endless Coloured Ways: The Songs Of Nick Drake (I) - 2023 - https://api.discogs.com/releases/26532104
+La Bande-son De L'automne 2018 Volume 2 - 2018 - https://api.discogs.com/releases/12799712
+Bulmers 100% Irish  - 2018 - https://api.discogs.com/releases/29719738
+Rough Trade Shops Counter Culture 18 - 2018 - https://api.discogs.com/masters/1505300
+All Areas Volume 216 - 2019 - https://api.discogs.com/releases/13427728
+La Bande-son Du Printemps 2019 - 2019 - https://api.discogs.com/releases/13438772
+Mojo Rising 2019 (The Best New Music Of The Year) - 2019 - https://api.discogs.com/releases/14006548
+La Route Du Rock - La Compilation 2019 - 2019 - https://api.discogs.com/releases/14026165
+The Sound Of 2019 (15 Tracks Of The Year's Best Music) - 2019 - https://api.discogs.com/releases/14406691
+La Bande-son 2019 - 2019 - https://api.discogs.com/releases/14494845
+KUTX Live! Volume 13 - 2019 - https://api.discogs.com/releases/15272145
+Music From Ireland 2019 - SXSW 2019 - 2019 - https://api.discogs.com/releases/18722839
+Momentos Rockdelux. Canciones Internacionales Vol. 1/2019 - 2020 - https://api.discogs.com/releases/14611227
+Live At The Windmill - 2020 - https://api.discogs.com/releases/15231722
+The Mojo Festival 2020 (15 Rare And Unreleased Live Tracks) - 2020 - https://api.discogs.com/releases/15506387
+I Have The Touch (15 Tracks Of The Month's Best New Music) - 2020 - https://api.discogs.com/releases/15633349
+All Areas Volume 231 - 2020 - https://api.discogs.com/releases/15689295
+New Noises Vol. 153 - 2020 - https://api.discogs.com/releases/15693503
+The Sound Of 2020 (15 Tracks Of The Year's Best Music) - 2020 - https://api.discogs.com/releases/16201094
+Mojo Heroes (The Best Of 2020) - 2020 - https://api.discogs.com/releases/16210857
+La Bande-son 2020 - 2020 - https://api.discogs.com/releases/16328907
+Piccadilly Records Compilation 2020 - 2020 - https://api.discogs.com/releases/16822266
+RTE Choice Music Prize Irish Album Of The Year 2020 - 2021 - https://api.discogs.com/releases/17991973
+Nova Tunes 4.2 - 2021 - https://api.discogs.com/releases/20351749
+Partisan Record Club - 2021 - https://api.discogs.com/releases/25489822
+Suena En Ibero Vol. 1 - 2021 - https://api.discogs.com/releases/26217830
+I'll Be Your Mirror - A Tribute To The Velvet Underground & Nico - 2021 - https://api.discogs.com/masters/2312314
+Mars 2022 -> 16 Titres - 2022 - https://api.discogs.com/releases/22493174
+All Areas Volume 250 - 2022 - https://api.discogs.com/releases/23067125
+Musikexpress 05/22 - 2022 - https://api.discogs.com/releases/23174336
+Live At KEXP Volume 10 - 2022 - https://api.discogs.com/releases/25241029
+Best Of Musique 2022 → 15 titres - 2022 - https://api.discogs.com/releases/25490398
+The Endless Coloured Ways (The Songs Of Nick Drake) - 2023 - https://api.discogs.com/masters/3163005
+The Endless Coloured Ways: The Songs Of Nick Drake - The Singles Collection - 2024 - https://api.discogs.com/releases/30453059
