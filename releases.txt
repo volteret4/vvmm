@@ -1,214 +1,98 @@
 Listado de releases del artista:
-313 / The Winter - 2010 - https://api.discogs.com/releases/2130100
-MDD Mix 015 - 2010 - https://api.discogs.com/releases/2694638
-Darwin - 2010 - https://api.discogs.com/masters/937993
-Silk EP - 2011 - https://api.discogs.com/releases/2970651
-Love Comedown - 2011 - https://api.discogs.com/releases/6183876
-Make Love In Public Places - 2012 - https://api.discogs.com/releases/3539791
-Throne Of Blood - 2012 - https://api.discogs.com/releases/3734424
-You / Don't EP - 2012 - https://api.discogs.com/masters/473995
-Vision Of Love - 2012 - https://api.discogs.com/masters/1758958
-Sacrifice - 2013 - https://api.discogs.com/releases/4608918
-We Love Space Sundays 2013 - 2013 - https://api.discogs.com/releases/4749629
-Satisfy - 2013 - https://api.discogs.com/masters/1368830
-Vision Of Love - 2013 - https://api.discogs.com/masters/565535
-Stash EP - 2013 - https://api.discogs.com/masters/544360
-Lyk Lyk - 2014 - https://api.discogs.com/releases/6146319
-Radio 1 Essential Mix - 2014 - https://api.discogs.com/releases/6165949
-D-Mil (Club & Dub) - 2014 - https://api.discogs.com/releases/6335350
-Satisfy (John Talabot Alt Mix) - 2014 - https://api.discogs.com/releases/13620929
-I Believe - 2014 - https://api.discogs.com/masters/1548051
-Satisfy Remixes - 2014 - https://api.discogs.com/masters/3345196
-Circles EP - 2014 - https://api.discogs.com/masters/713918
-XOYO - 2015 - https://api.discogs.com/releases/7453598
-Truancy Volume 129: Bicep - 2015 - https://api.discogs.com/releases/12604666
-Love Myself - 2015 - https://api.discogs.com/masters/1548066
-Dahlia - 2015 - https://api.discogs.com/masters/1052724
-Just EP - 2015 - https://api.discogs.com/masters/941533
-Kansas / Closing Sequence - 2015 - https://api.discogs.com/masters/1311712
-Vale - 2017 - https://api.discogs.com/releases/11400650
-Bicep - 2017 - https://api.discogs.com/masters/1231184
-Aura - 2017 - https://api.discogs.com/masters/1228772
-Glue - 2017 - https://api.discogs.com/masters/1291637
-Opal (Four Tet Remix) - 2018 - https://api.discogs.com/masters/1351189
-Rain EP - 2018 - https://api.discogs.com/masters/1373113
-Atlas - 2020 - https://api.discogs.com/masters/1710367
-Glue (DJB Bootleg) - 2021 - https://api.discogs.com/releases/20302903
-Isles - 2021 - https://api.discogs.com/masters/1931418
-Meli (II) - 2022 - https://api.discogs.com/releases/24322457
-Love Myself - 2022 - https://api.discogs.com/releases/25251334
-Water - 2022 - https://api.discogs.com/releases/25813237
-Water - 2022 - https://api.discogs.com/masters/2811854
-Meli (II) - 2022 - https://api.discogs.com/masters/2690675
-Reginald's Groove - 2011 - https://api.discogs.com/releases/2754508
-Wolf EP 9 - 2011 - https://api.discogs.com/releases/3149375
-Tomorrow's Bringing - 2011 - https://api.discogs.com/releases/3488624
-Terrell (Bicep's Brooklyn Shuffle) - 2011 - https://api.discogs.com/releases/7909337
-New Singles 4th July 2011 - 2011 - https://api.discogs.com/releases/7913966
-Remixes Part 1 & 2 - 2011 - https://api.discogs.com/releases/9955704
-Remixes Part 2 - 2011 - https://api.discogs.com/masters/1148115
-FACT Mix 312 - 2012 - https://api.discogs.com/releases/3346347
-FACT Mix 315 - 2012 - https://api.discogs.com/releases/3389980
-Smoke Screen - 2012 - https://api.discogs.com/releases/3574507
-FACT Mix 327 - 2012 - https://api.discogs.com/releases/3588414
-Tusk Wax Five - 2012 - https://api.discogs.com/releases/3608509
-All Gone Pete Tong & Groove Armada Miami '12 - 2012 - https://api.discogs.com/releases/3669850
-Let's Hope - 2012 - https://api.discogs.com/releases/3884449
-Blondes - 2012 - https://api.discogs.com/masters/554182
-Cielo - 2013 - https://api.discogs.com/releases/4921706
-August 2013 Part 8 - 2013 - https://api.discogs.com/releases/23205509
-Metaphoric Rewire - 2013 - https://api.discogs.com/releases/26312684
-You & Me (The Remixes) - 2013 - https://api.discogs.com/masters/606449
-El Laberinto (Cap.1 "Bienvenido Al Laberinto") - 2014 - https://api.discogs.com/releases/6121587
-Tunnels - 2014 - https://api.discogs.com/masters/747947
-All Gone Pete Tong & Tensnake Ibiza 2014 - 2014 - https://api.discogs.com/masters/1056973
-Annie Mac Presents 2015 - 2015 - https://api.discogs.com/releases/9221096
-Pure Deep House 4 (The Very Best Of House & Garage) - 2015 - https://api.discogs.com/releases/9490467
-Defected In The House - Amsterdam 2015 - 2015 - https://api.discogs.com/masters/913544
-Get Down / Tears I Can Afford - 2016 - https://api.discogs.com/releases/8510938
-DMC - Essential Club Hits 120 - 2016 - https://api.discogs.com/releases/8755052
-The Club Of 27: Space Ibiza 1989 - 2016 - 2016 - https://api.discogs.com/releases/8947698
-Ibiza 2016 - 2016 - https://api.discogs.com/releases/9418063
-Defected Presents Most Rated 2017 - 2016 - https://api.discogs.com/releases/9500354
-Defected Presents The Opening Party Ibiza 2016 - 2016 - https://api.discogs.com/releases/9669033
-The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
-Street Lessons Remixes - 2016 - https://api.discogs.com/releases/11387789
-Villa Delle Rose Summer 2016 - 2016 - https://api.discogs.com/releases/11410990
-London Underground 2016 - 2016 - https://api.discogs.com/releases/13506304
-Cream Anthems 2016 - 2016 - https://api.discogs.com/releases/14263904
-DAVE Podcast #09 - 2016 - https://api.discogs.com/releases/14594220
-Live & Direct: Miami 2016 - 2016 - https://api.discogs.com/masters/1669397
-Meridian Remixes - 2016 - https://api.discogs.com/masters/1476775
-Street Lessons EP - Remixes - 2016 - https://api.discogs.com/masters/1370024
-In Yer Face (Bicep Remix) - 2016 - https://api.discogs.com/masters/27689
-Meridian 2016 - 2016 - https://api.discogs.com/masters/129078
-Lovelee Dae (Bicep Remix) - 2016 - https://api.discogs.com/masters/73016
-Fabriclive 87 - 2016 - https://api.discogs.com/masters/1054671
-Sisterhood Remix EP - 2017 - https://api.discogs.com/releases/10179892
-Miami Sessions 2017 - 2017 - https://api.discogs.com/releases/10259570
-Ibiza Sunset Dreams Vol. 3 - 2017 - https://api.discogs.com/releases/10831978
-Studio Ibiza 2017 - 2017 - https://api.discogs.com/releases/11885812
-Pure House - The Very Best Of House - 2017 - https://api.discogs.com/releases/26810741
-Live In Brooklyn (Output) - 2017 - https://api.discogs.com/masters/1163551
-Hiro Tadomatsu - Lo-Fi House Mix - 2018 - https://api.discogs.com/releases/12265529
-Only Love Can Set U-Free (Bicep Remix) - 2019 - https://api.discogs.com/masters/1633770
-ESP: The 808 State Effect - 2021 - https://api.discogs.com/masters/2327443
-Overtime - 2018 - https://api.discogs.com/releases/12773208
-House On The Left - 2011 - https://api.discogs.com/releases/2769075
-Live & Direct: Miami 2016 - 2016 - https://api.discogs.com/masters/1669397
-Anthology: 10 Years Of SMD - 2017 - https://api.discogs.com/releases/11084829
-Live In Brooklyn (Output) - 2017 - https://api.discogs.com/masters/1163551
-RA.269 - 2011 - https://api.discogs.com/releases/3368942
-Fabriclive 60 - 2011 - https://api.discogs.com/masters/462346
-RA.312 - 2012 - https://api.discogs.com/releases/3620876
-Various Artists EP - 2012 - https://api.discogs.com/releases/3818358
-Casser La Baraque - 2012 - https://api.discogs.com/releases/3898141
-The Rapture's Vito And Druzz's Half Italian Mix - 2012 - https://api.discogs.com/releases/4022963
-Wolf EP 17 - 2012 - https://api.discogs.com/releases/4206623
-The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
-Podcast 268 - 2012 - https://api.discogs.com/releases/4325176
-Mind Warp Minimix 25 - 2012 - https://api.discogs.com/releases/5094793
-Summer "12 - 2012 - https://api.discogs.com/releases/7063348
-Talk To Your Handset; My Ears Are Looking Elsewhere - 2012 - https://api.discogs.com/releases/26312675
-Bromance (Los Angeles) - 2013 - https://api.discogs.com/releases/4319948
-The Sound Of Deep House - 2013 - https://api.discogs.com/releases/4527330
-Deep House Sessions - 2013 - https://api.discogs.com/releases/4837249
-Bloomingdale 2013 - 2013 - https://api.discogs.com/releases/5448264
-Strictly Deep - 2013 - https://api.discogs.com/releases/6057807
-Ibiza 2013 Volume 2 - 2013 - https://api.discogs.com/releases/13469874
-Pallets Of Tarts - 2013 - https://api.discogs.com/releases/26313800
-Live @ Surely Bassy, Distrikt! Leeds 31/05/2013 - 2013 - https://api.discogs.com/releases/26484335
-Eat Or Dance, Don't Eat And Dance - 2013 - https://api.discogs.com/releases/26484341
-It's House Not House EP - 2013 - https://api.discogs.com/masters/868819
-Summer Deep House Mix | **Jock Club** Inherent Vibrations Vol. II - June 2014 - 2014 - https://api.discogs.com/releases/5782281
-Solitaire Vol. 3 - 2014 - https://api.discogs.com/releases/6224374
-White Light 109 - 2014 - https://api.discogs.com/releases/6353067
-El Laberinto (Cap.12 "El Laberinto En Vivo: Londres") - 2014 - https://api.discogs.com/releases/6656031
-Field Day 2014 - 2014 - https://api.discogs.com/releases/8562847
-Glitterbox (Ibiza 2014) - 2014 - https://api.discogs.com/releases/8698486
-Journalistic House - 2014 - https://api.discogs.com/releases/27005544
-DJ-Kicks - 2014 - https://api.discogs.com/masters/703562
-Ibiza Underground 2014 - 2014 - https://api.discogs.com/masters/1580773
-DJ-Kicks EP - 2014 - https://api.discogs.com/masters/822654
-House Of The Sun (Shine Mix) - 2015 - https://api.discogs.com/releases/7048863
-R.I.P. 50Weapons #40-50 - Hardcore Will Never Die - 2015 - https://api.discogs.com/releases/7589738
-The First Annual Fundraiser - War Child - 2015 - https://api.discogs.com/releases/7690715
-Strictly Jacked! - 2015 - https://api.discogs.com/releases/12435707
-Specific Dietary Requirements - 2015 - https://api.discogs.com/releases/27168315
-Defected In The House - Amsterdam 2015 - 2015 - https://api.discogs.com/masters/913544
-Musik For Autobahns 2 (Ambient Race Car Music) - 2015 - https://api.discogs.com/masters/879729
-:Select - 2016 - https://api.discogs.com/releases/8248995
-Miami 2016 - 2016 - https://api.discogs.com/releases/8384481
-Clubbers Guide 2016 - 2016 - https://api.discogs.com/releases/8388321
-Lost Village Chapter II - 2016 - https://api.discogs.com/releases/8559359
-Clubbers Guide Festivals - 2016 - https://api.discogs.com/releases/9672596
-Clubbers Guide Gold - 2016 - https://api.discogs.com/releases/10282575
-Bugged Out: 5 Years Of The Weekender - 2016 - https://api.discogs.com/releases/12074545
-Urban Outfitters Mixtape Fifteen - 2016 - https://api.discogs.com/releases/12334529
-SolvdCast 019  - 2016 - https://api.discogs.com/releases/29358622
-Live & Direct: Miami 2016 - 2016 - https://api.discogs.com/masters/1669397
-AUS100 - 2016 - https://api.discogs.com/masters/1027235
-DMC - Essential Club Hits 133 - 2017 - https://api.discogs.com/releases/10666325
-Ibiza Sunset Dreams Vol. 3 - 2017 - https://api.discogs.com/releases/10831978
-DMC - Essential Club Hits 134 - 2017 - https://api.discogs.com/releases/10859893
-100 Tracks 2017 - 2017 - https://api.discogs.com/releases/11340884
-Serious Beats 88 - 2017 - https://api.discogs.com/releases/11371706
-Kontor Sunset Chill 2018 Winter Edition - 2017 - https://api.discogs.com/releases/11511735
-Ninja Tune Publishing & Sync Sampler Vol. 40 - 2017 - https://api.discogs.com/releases/11652019
-Ibiza 2017 Vol. 2 - 2017 - https://api.discogs.com/releases/13508486
-Amsterdam 2017 - 2017 - https://api.discogs.com/releases/13512156
-Annie Mac Presents 2017 - 2017 - https://api.discogs.com/releases/13628651
-Café Del Mar - Terrace Mix 7 - 2017 - https://api.discogs.com/releases/13782345
-Ninja Tune Publishing & Sync Sampler Vol. 41 - 2017 - https://api.discogs.com/releases/14048543
-Suite no.2018 - 2017 - https://api.discogs.com/releases/18859096
-Interpretations - 2017 - https://api.discogs.com/masters/1136364
-5 Years Wecandance - 2017 - https://api.discogs.com/masters/2316781
-Notes of Consciousness - 2018 - https://api.discogs.com/releases/7775673
-Nova Tunes 3.7 - 2018 - https://api.discogs.com/releases/11772180
-Deep House Anthems - 2018 - https://api.discogs.com/releases/11806456
-Chilled House Session 9  - 2018 - https://api.discogs.com/releases/11855213
-Life Is Music 2018.1 - 2018 - https://api.discogs.com/releases/12033973
-Spring Break 2018 - 2018 - https://api.discogs.com/releases/12066913
-Kontor Sunset Chill 2018 - 2018 - https://api.discogs.com/releases/12171320
-Pacha 2018 - 2018 - https://api.discogs.com/releases/12323719
-Studio Ibiza 2018 - 2018 - https://api.discogs.com/releases/12374546
-Commercial Collection 432 - 2018 - https://api.discogs.com/releases/12959461
-FWD117 - 2018 - https://api.discogs.com/releases/13026662
-Ninja Tune Publishing & Sync Sampler Vol. 44 - 2018 - https://api.discogs.com/releases/14098401
-Ninja Tune Publishing & Sync Sampler Vol. 42 - 2018 - https://api.discogs.com/releases/16511928
-Synths (Publishing & Sync Sampler Vol. 42) - 2018 - https://api.discogs.com/releases/24469307
-Ibiza 2018 - 2018 - https://api.discogs.com/masters/1808933
-Tomorrowland 2018 - The Story Of Planaxis - 2018 - https://api.discogs.com/masters/1572954
-Ibiza Underground 2018 - 2018 - https://api.discogs.com/masters/2296027
-Miami 2018 - 2018 - https://api.discogs.com/masters/2190175
-Global Underground: Select 3 - 2018 - https://api.discogs.com/masters/1312098
-Alpine Grooves XI  - 2019 - https://api.discogs.com/releases/14819844
-In Search Of Sunrise 15 - 2019 - https://api.discogs.com/masters/1660004
-Tomorrowland 2019 - XV Years - 2019 - https://api.discogs.com/masters/1861104
-Armada Subjekt Miami Sessions - Mixed By Robosonic - 2020 - https://api.discogs.com/releases/15643461
-Nova Tunes 3.1_4.0 [2015-2019] - 2020 - https://api.discogs.com/releases/20689303
-Db Artists Musique Podcast 049 - 2020 - https://api.discogs.com/releases/23792123
-Tomorrowland 2020 - United Through Music - 2020 - https://api.discogs.com/masters/3316411
-Everything Is Fine - 2021 - https://api.discogs.com/releases/19982140
-Nova Tunes 4.2 - 2021 - https://api.discogs.com/releases/20351749
-Kontor Sunset Chill 2021 - 2021 - https://api.discogs.com/releases/20400004
-The Greatest Switch Vinyl 1 - 2021 - https://api.discogs.com/releases/20849770
-The Greatest Switch 2021 - 2021 - https://api.discogs.com/releases/21042394
-Bleep 100 Tracks 2021 - 2021 - https://api.discogs.com/releases/23174816
-30 Years (Three Decades of Dance) - 2021 - https://api.discogs.com/masters/2311849
-Electronic Music Anthology - The Box Set - 2021 - https://api.discogs.com/masters/3359431
-Electronic Music Anthology Vol.6 - 2021 - https://api.discogs.com/masters/2648060
-Trax Classics (Drum'N'Bass) - 2022 - https://api.discogs.com/releases/22301473
-Tomorrowland 2015 - 2019 Anthems - 2022 - https://api.discogs.com/releases/22840106
-Kontor Sunset Chill Best of 20 Years - 2022 - https://api.discogs.com/releases/23640356
-No Music On A Dead Planet - 2022 - https://api.discogs.com/releases/24618179
-Tomorrowland 2005 - 2019  - 2022 - https://api.discogs.com/releases/25254247
-Tsugi Chill-Out - 2022 - https://api.discogs.com/releases/25397731
-Bleep 100 Tracks 2022  - 2022 - https://api.discogs.com/releases/25723519
-Serious Beats 100 (Anniversary Edition) (The Ultimate Saga Of House) - 2022 - https://api.discogs.com/masters/2880994
-Welcome To London Yo EP - 2022 - https://api.discogs.com/masters/3031154
-Strawberry - 2009 - https://api.discogs.com/releases/1889598
-Say You Wanna - 2011 - https://api.discogs.com/releases/3039008
-White Light 65 - 2012 - https://api.discogs.com/releases/4728680
-White Light 77 - 2013 - https://api.discogs.com/releases/4736767
-Glue (Orkidea Pure Progressive Mix) - 2023 - https://api.discogs.com/releases/26945207
+Sceneries Not Songs, Volume One - 1994 - https://api.discogs.com/masters/6630
+Black Oceans - 1994 - https://api.discogs.com/masters/6864
+Sceneries Not Songs - Volume Tu - 1995 - https://api.discogs.com/masters/6720
+Premonition Of Lost Love - 1995 - https://api.discogs.com/masters/389827
+Alien - 1996 - https://api.discogs.com/masters/6660
+Dance 2000 - 1997 - https://api.discogs.com/masters/6688
+Mystical People - 1997 - https://api.discogs.com/masters/301929
+The Calm & Chaos EP - 1997 - https://api.discogs.com/masters/277508
+Dance 2000 - The Glasgow Connection - 1998 - https://api.discogs.com/releases/4308
+Night Images (Swayzak Remixes) - 1998 - https://api.discogs.com/releases/166025
+Les Parrains De La House - Larry Heard (Mr Fingers) - 1998 - https://api.discogs.com/releases/234905
+Dance 2000 (Part 2) - 1998 - https://api.discogs.com/masters/6705
+Paradise - 1998 - https://api.discogs.com/masters/2471407
+The Prologue - 1999 - https://api.discogs.com/releases/925961
+A Definitive Mr. Fingers Collection - 1999 - https://api.discogs.com/releases/14190652
+Genesis - 1999 - https://api.discogs.com/masters/6731
+Dance 2000 - The Chicago Connection - 1999 - https://api.discogs.com/masters/787591
+Can You Feel It - Trax Classics - 2000 - https://api.discogs.com/releases/195736
+Missing You - 2000 - https://api.discogs.com/masters/6746
+Another Night (Re-Edit) - 2001 - https://api.discogs.com/masters/1177912
+Direct Drive / Time Machine - 2001 - https://api.discogs.com/masters/6765
+Love's Arrival - 2001 - https://api.discogs.com/masters/6777
+Chicago All Stars - 2002 - https://api.discogs.com/releases/1581569
+Trip Do Brasil 2 - EP5 - 2002 - https://api.discogs.com/masters/791585
+Praise - 2002 - https://api.discogs.com/masters/218938
+Reminisce - 2003 - https://api.discogs.com/masters/6812
+Space Jungle - 2003 - https://api.discogs.com/masters/6825
+Where Life Begins - 2003 - https://api.discogs.com/masters/6837
+Evening Dance - 2003 - https://api.discogs.com/masters/1437565
+Soundtrack From The Duality Double-Play - 2005 - https://api.discogs.com/releases/506392
+Balance / Three O' Three (Re-Edit) - 2006 - https://api.discogs.com/releases/653190
+You Rock Me - 2006 - https://api.discogs.com/masters/208375
+Changes (The Remixes) - 2007 - https://api.discogs.com/masters/319818
+25 Years From Alpha - 2008 - https://api.discogs.com/masters/1148169
+Styrax Special - 2011 - https://api.discogs.com/releases/3162592
+Distance Revisited EP - 2012 - https://api.discogs.com/releases/8374920
+Black Oceans / Endless Flight - 2012 - https://api.discogs.com/masters/455746
+RA.EX300 Larry Heard - 2016 - https://api.discogs.com/releases/9695798
+Rebirth 10 - 2016 - https://api.discogs.com/masters/3504525
+Virtual Emotion - 2017 - https://api.discogs.com/releases/10799078
+Another Night (Re-Edit) - 2023 - https://api.discogs.com/releases/28940713
+Vault Sessions 2 - 2023 - https://api.discogs.com/masters/3196311
+Mr. Fingers Inc. - Desconocido - https://api.discogs.com/releases/9332230
+Gallimaufry Gallery - 1988 - https://api.discogs.com/masters/5760
+Stay Close - 1989 - https://api.discogs.com/masters/53774
+Flashback Jack (12" Remix) - 1990 - https://api.discogs.com/masters/84003
+Sun Worshippers (Remixes) - 1990 - https://api.discogs.com/masters/131771
+What About This Love (Remix) - 1990 - https://api.discogs.com/masters/5338
+Electribal Memories - 1990 - https://api.discogs.com/masters/75393
+Talking With Myself - 1990 - https://api.discogs.com/masters/75400
+Comin On Strong - 1991 - https://api.discogs.com/masters/89413
+Dance Disc - Volume 9 - 1992 - https://api.discogs.com/releases/9672137
+Closer - 1992 - https://api.discogs.com/masters/5349
+Baby - 1992 - https://api.discogs.com/masters/89455
+Manhassett - 1992 - https://api.discogs.com/masters/81726
+Any Love Remixes x 3  - 1992 - https://api.discogs.com/masters/32631
+Black Market International EP - 1993 - https://api.discogs.com/releases/36095
+Looking For Someone - 1993 - https://api.discogs.com/masters/81727
+Back To Love - 1994 - https://api.discogs.com/masters/5438
+More Than Friends - 1994 - https://api.discogs.com/masters/89491
+Love Explosion Remixes - 1996 - https://api.discogs.com/masters/289744
+A Taste Of Cajual - 1997 - https://api.discogs.com/masters/240365
+Paris-Chicago Express - 1997 - https://api.discogs.com/masters/159043
+Singles 90/98 - 1998 - https://api.discogs.com/masters/32673
+Killer: The Best Of Adamski - 1999 - https://api.discogs.com/releases/86792
+Dengon - 2000 - https://api.discogs.com/masters/200942
+Revolutions 2 "Extension Du Domaine De La House" - 2000 - https://api.discogs.com/masters/39351
+Ain't No Love - 2000 - https://api.discogs.com/masters/89416
+Paradisiac 2 - 2000 - https://api.discogs.com/masters/126694
+The Cousmic Courier Vol II - 2001 - https://api.discogs.com/releases/23227
+Coast2Coast - 2001 - https://api.discogs.com/releases/37933
+House Proud. Vol.2 - Outtakes - 2001 - https://api.discogs.com/releases/1413552
+Are We Thru? (Remixes) - 2001 - https://api.discogs.com/masters/127274
+Glasgow Underground Volume Four - 2001 - https://api.discogs.com/masters/170904
+Paradise (The Remixes) - 2001 - https://api.discogs.com/masters/9147
+Do You Know House? (Volume One) - 2001 - https://api.discogs.com/masters/91381
+House Tunes 4 - 2002 - https://api.discogs.com/releases/1193813
+Love Will Find Its Way (The Best Of) - 2002 - https://api.discogs.com/masters/65825
+Larry Heards On The Bridge Remixes - 2002 - https://api.discogs.com/masters/596909
+Il Parlait Pas Français (Larry Heard & Fredrik Stark Mixes) - 2002 - https://api.discogs.com/masters/87738
+Balearic Sampler 2003 - 2003 - https://api.discogs.com/releases/200852
+Chica Disco Vol. 1 - 2003 - https://api.discogs.com/releases/205422
+Chill-House Love 2003 - 2003 - https://api.discogs.com/releases/208336
+Addicted To House 2 - 2003 - https://api.discogs.com/releases/214180
+Republiek 2: Deepsummer - 2003 - https://api.discogs.com/releases/514739
+Erotic Moments In House (Ménage À 3) - 2003 - https://api.discogs.com/releases/899442
+Caniço - Smooth Summer House Tunes Vol # 2 - 2003 - https://api.discogs.com/releases/2124123
+Erotic Moments In House Vol. 2 - 2003 - https://api.discogs.com/masters/129069
+Schlank & Tief - 2003 - https://api.discogs.com/masters/953244
+Paradisco 3000 : Chicago Boogie Sampler 3/4 - 2004 - https://api.discogs.com/releases/253567
+Paradisco3000 Presents Chicago Boogie - 2004 - https://api.discogs.com/releases/268429
+Waypoints EP - 2004 - https://api.discogs.com/releases/336987
+You Could Be The One / Ballerine - 2004 - https://api.discogs.com/masters/1071607
+FM Café - Deep House From Dessous - 2004 - https://api.discogs.com/masters/208434
+Think Of You - 2004 - https://api.discogs.com/masters/325319
+Rosanova - 2004 - https://api.discogs.com/masters/87775
+Ella - 2004 - https://api.discogs.com/masters/784098
