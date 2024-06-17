@@ -1,0 +1,46 @@
+---
+title: "Prins Thomas - Ambitions"
+date: 2024-06-17T12:36:25+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - house
+ - deep
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Prins-Thomas - Ambitions))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://oyvindmorken.bandcamp.com/track/prins-thomas-ambitions-yvind-morken-remix)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1530765)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/397145c2-b85a-4dec-98f3-44b541cfaa99)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY)
+ 
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+<!-- [![youtube](../links/svg/youtube.png (youtube))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2019
+> 
+> **Géneros**: Electronic
+> 
+> **Estilos**: House, Downtempo, Nu-Disco
+> 
+> **Tracklist:**
+> 
+>   1. Foreplay    3:28
+> 
+>   2. XSB    5:32
+> 
+>   3. Feel The Love    4:25
+> 
+>   4. Ambitions    12:08
+> 
+>   5. Fra Miami Til Chicago    10:44
+> 
+>   6. Urmannen    6:26
+> 
+>   7. Sakral    7:35
+> 
