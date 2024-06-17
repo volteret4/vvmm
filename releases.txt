@@ -1,0 +1,79 @@
+Listado de releases del artista:
+Detail - 2017 - https://api.discogs.com/releases/15535880
++44 - Thinking - Of - You - 2018 - https://api.discogs.com/releases/13205614
+Button Mashing - 2019 - https://api.discogs.com/releases/13171227
+For You And I - 2019 - https://api.discogs.com/masters/1612825
+FYAI Demos + Ditched Album - 2020 - https://api.discogs.com/releases/15538558
+Hmm - 2020 - https://api.discogs.com/releases/16665957
+Nothing - 2020 - https://api.discogs.com/masters/1818117
+Simple Stuff - 2021 - https://api.discogs.com/releases/28481083
+Let’s Go - 2021 - https://api.discogs.com/releases/28481098
+Fact Mix 814 - 2021 - https://api.discogs.com/releases/29366647
+Dekmantel Podcast 342 - 2021 - https://api.discogs.com/releases/29455831
+Reflection - 2021 - https://api.discogs.com/masters/2188930
+Wrong Name EP - 2021 - https://api.discogs.com/masters/2629328
+053 - 2022 - https://api.discogs.com/releases/23250191
+Choose To Be Gay (Femenine) - 2022 - https://api.discogs.com/releases/28481113
+Building Something Beautiful For Me - 2022 - https://api.discogs.com/masters/2833913
+Gentle Confrontation - 2023 - https://api.discogs.com/masters/3260602
+The Sampler As A Time Machine Remixed - 2019 - https://api.discogs.com/releases/29158609
+Eyes On Me Remixes - 2020 - https://api.discogs.com/releases/14893410
+Hyperaesthesia EP  - 2020 - https://api.discogs.com/releases/16018962
+Aletheia Remixes - 2020 - https://api.discogs.com/releases/20175430
+Lincoln (Loraine James Remix) - 2020 - https://api.discogs.com/releases/22274365
+Times New Roman - 2020 - https://api.discogs.com/releases/24186965
+24/7 - 2020 - https://api.discogs.com/masters/1871622
+Wolf (Loraine James Remix) - 2020 - https://api.discogs.com/masters/1723918
+Civic Jams Remixes - 2020 - https://api.discogs.com/masters/1786131
+Views Of A Room - 2020 - https://api.discogs.com/masters/1985149
+Waken Remixes - 2021 - https://api.discogs.com/releases/17786851
+Invite Chaos (Kill Dem) ft. Sikka Rymes - 2021 - https://api.discogs.com/releases/18656200
+Inner Song Remix Series - 2021 - https://api.discogs.com/releases/19096891
+Inner Song Remixes Part 1 - 2021 - https://api.discogs.com/releases/20399488
+Remixes - 2021 - https://api.discogs.com/releases/20766106
+Realignment - 2021 - https://api.discogs.com/releases/21294718
+Truth Serum - 2021 - https://api.discogs.com/releases/22371265
+Retrace Remixes - 2021 - https://api.discogs.com/releases/22730015
+Respawn In 36... - 2022 - https://api.discogs.com/releases/25125079
+Highgrade - 2022 - https://api.discogs.com/masters/2796800
+Remxng 2​.​1 - 2022 - https://api.discogs.com/masters/2813546
+Fact Mix 913 - 2023 - https://api.discogs.com/releases/29330446
+Smalltown Supersound Remix Anthology Vol. 1-4 2002-2022 - 2023 - https://api.discogs.com/masters/3057302
+RAVE:N: The Remixes - 2024 - https://api.discogs.com/releases/29814250
+Dream Symbol (Loraine James Remix) - 2024 - https://api.discogs.com/releases/30566629
+Junodef - Desconocido - https://api.discogs.com/releases/20408227
+Whatever The Weather - 2022 - https://api.discogs.com/masters/2587511
+Rough Night - 2023 - https://api.discogs.com/releases/26465423
+Un/limited Love - 2023 - https://api.discogs.com/releases/29101348
+Rollercoaster - 2024 - https://api.discogs.com/releases/30606709
+Whatever The Weather - 2022 - https://api.discogs.com/masters/2587511
+A Cheery Wave From Stranded Youngsters Volume IX - 2021 - https://api.discogs.com/masters/2699045
+DJ-Kicks - 2021 - https://api.discogs.com/masters/2396839
+Rough Night - 2023 - https://api.discogs.com/releases/26465423
+Un/limited Love - 2023 - https://api.discogs.com/releases/29101348
+With A Hammer - 2023 - https://api.discogs.com/masters/3047336
+IDS001 - 2018 - https://api.discogs.com/releases/12911168
+RA.698 - 2019 - https://api.discogs.com/releases/14282333
+Total Solidarity - Benefit Compilation For Grassroot LGBTQIA+ Organizations In Poland - 2019 - https://api.discogs.com/releases/14671046
+RX1 - 2019 - https://api.discogs.com/releases/14893303
+Below The Radar 33 - 2020 - https://api.discogs.com/releases/15127794
+In Order To Care - 2020 - https://api.discogs.com/releases/15295822
+#FuckRacism - 2020 - https://api.discogs.com/releases/15435823
+HOA010 - 2020 - https://api.discogs.com/releases/15550327
+Three Remixes - 2020 - https://api.discogs.com/releases/16134474
+FACT Mix 782 - 2020 - https://api.discogs.com/releases/16152072
+Locked Grooves - 2020 - https://api.discogs.com/releases/16338291
+HOA012 - 2020 - https://api.discogs.com/releases/16461870
+Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
+HOA011 (The End • The Beginning...) - 2020 - https://api.discogs.com/releases/23760278
+Stimulus Swim - 2020 - https://api.discogs.com/releases/25225921
+Fact Mix 745 - 2020 - https://api.discogs.com/releases/29380390
+Josey In Space - 2020 - https://api.discogs.com/masters/1745699
+Enter:protopost - 2020 - https://api.discogs.com/masters/2794961
+Cut The Wire - 2021 - https://api.discogs.com/releases/22495100
+Bleep 100 Tracks 2021 - 2021 - https://api.discogs.com/releases/23174816
+Mind The Gap #157 - 2022 - https://api.discogs.com/releases/24480263
+Bleep 100 Tracks 2022  - 2022 - https://api.discogs.com/releases/25723519
+Unknown Pleasures Zone - 2023 - https://api.discogs.com/releases/26730245
+DJ-Kicks (The Exclusives Vol. 4) - 2023 - https://api.discogs.com/releases/28051377
+Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
