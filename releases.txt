@@ -1,43 +1,16 @@
 Listado de releases del artista:
-Maracas D'Or - 1986 - https://api.discogs.com/masters/993514
-Trouble - 1988 - https://api.discogs.com/masters/610720
-John Boxingo - 1989 - https://api.discogs.com/releases/4931625
-Super Soukous - 1989 - https://api.discogs.com/masters/259586
-Mondo Ry - 1989 - https://api.discogs.com/masters/867418
-Explosion - 1989 - https://api.discogs.com/masters/1112539
-Maluo - 1991 - https://api.discogs.com/releases/22147642
-Extra Ball - 1991 - https://api.discogs.com/masters/1564741
-Comme Un... - 1991 - https://api.discogs.com/masters/839848
-Embargo - 1991 - https://api.discogs.com/masters/1157229
-King Of Soukous - 1991 - https://api.discogs.com/masters/2833013
-Choc A Distance - 1992 - https://api.discogs.com/releases/25461466
-Choc A Distance - 1993 - https://api.discogs.com/masters/610721
-Génération-Wachiwa Encaisse Tout - 1994 - https://api.discogs.com/masters/1112540
-Qui Dit Mieux ? - 1996 - https://api.discogs.com/releases/11355691
-Proteïne 4 - 1997 - https://api.discogs.com/releases/4675894
-En Afrique - Génération Wachiwa - 2006 - https://api.discogs.com/releases/18661231
-Réconciliation - 2007 - https://api.discogs.com/releases/11100996
-Qui Dit Mieux ? - 2007 - https://api.discogs.com/releases/16113491
-Acte II : Confirmation - 2008 - https://api.discogs.com/releases/17015508
-Explosion  - Desconocido - https://api.discogs.com/releases/10919882
-Embargo - Desconocido - https://api.discogs.com/releases/18223378
-Trouble - Desconocido - https://api.discogs.com/releases/26655878
-Untitled - Desconocido - https://api.discogs.com/releases/29077117
-Super K / Amour Et Souvenir - Desconocido - https://api.discogs.com/masters/1167705
-Stop, Arrêtez ! - Desconocido - https://api.discogs.com/masters/839856
-Baila Terapia - 1988 - https://api.discogs.com/releases/9646270
-African Song's - 1988 - https://api.discogs.com/masters/1668094
-Discover A Whole New World Of Music - 1991 - https://api.discogs.com/releases/12685295
-African Stars Hit Parade - 1992 - https://api.discogs.com/releases/17845054
-Africa - Never Stand Still - 1994 - https://api.discogs.com/masters/353257
-Soukouss Mix Party Vol II - 1998 - https://api.discogs.com/releases/9946069
-African Heartbeat - 1998 - https://api.discogs.com/releases/16035862
-African Ambience - 1998 - https://api.discogs.com/masters/2741936
-Africa - Congo. Da Kinshasa A Parigi, I Leoni Del Soukous: Papa Wemba, Ray Lema E Pepe Kalle - 2001 - https://api.discogs.com/releases/11953361
-Les Plus Grands Succès Du Club Balattou - 2011 - https://api.discogs.com/releases/11865628
-FACT Mix 718 - 2019 - https://api.discogs.com/releases/14266647
-Terapia Erótica - Desconocido - https://api.discogs.com/releases/15235366
-Zairean Masters - Desconocido - https://api.discogs.com/releases/19969366
-Soukouss Mix-Party - Desconocido - https://api.discogs.com/releases/23866766
-World Beat Vol. 2 - Afrique Centrale/Central Africa - Desconocido - https://api.discogs.com/masters/1850164
-Explosion - Desconocido - https://api.discogs.com/masters/1112539
+Last Place You Look EP - 2017 - https://api.discogs.com/releases/9909139
+Minus One - 2019 - https://api.discogs.com/releases/13412104
+Initial Ascent - 2019 - https://api.discogs.com/releases/13490315
+Broken Signals - 2019 - https://api.discogs.com/releases/14273582
+Nowhere But Here - 2020 - https://api.discogs.com/releases/15714238
+Lost Connection - 2022 - https://api.discogs.com/releases/23300897
+Don't Let Me / Air - 2023 - https://api.discogs.com/releases/28043592
+Fracture - 2024 - https://api.discogs.com/releases/30269783
+Flare (Otik Remix) - 2024 - https://api.discogs.com/releases/30752706
+My Favourite Stranger (Remixes) - 2023 - https://api.discogs.com/masters/3281536
+The Smoke EP - 2016 - https://api.discogs.com/releases/9590988
+Super Tuff 002 - 2017 - https://api.discogs.com/releases/11185558
+Odoru Tori EP - 2018 - https://api.discogs.com/releases/12387249
+Fabric Presents Maribou State - 2020 - https://api.discogs.com/masters/1706954
+Anniversary Sampler 03 - 2021 - https://api.discogs.com/masters/2268895
