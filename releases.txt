@@ -1,112 +1,209 @@
 Listado de releases del artista:
-Wind - 1986 - https://api.discogs.com/masters/874497
-Les Nouvelles Musiques De Chambre Volume 2 - 1989 - https://api.discogs.com/masters/289223
-The Wind Collector - 1991 - https://api.discogs.com/masters/1125949
-Lontano - 2001 - https://api.discogs.com/releases/663861
-Moltitudine In Labirinto - 2003 - https://api.discogs.com/releases/663394
-The Last DJ - 2008 - https://api.discogs.com/releases/1288800
-Hoshi - 2014 - https://api.discogs.com/masters/705694
-Talk To The Sea - 2014 - https://api.discogs.com/masters/693111
-Hoshi (Remixed) - 2015 - https://api.discogs.com/releases/7352299
-Tuvalu - 2015 - https://api.discogs.com/releases/7828290
-Stella  - 2016 - https://api.discogs.com/releases/8282171
-Plays Hazkarà - 2016 - https://api.discogs.com/releases/8377091
-Live at 'Superbudda' - Torino, Italy May 3rd,2015 - 2016 - https://api.discogs.com/releases/8631742
-Venezia 2016 - 2016 - https://api.discogs.com/releases/9133948
-Clouds - 2016 - https://api.discogs.com/releases/9251325
-Tsuki (Remixes) - 2016 - https://api.discogs.com/releases/9500596
-Tsuki - 2016 - https://api.discogs.com/masters/1012775
-Gigi Masin For Good Mellows - 2017 - https://api.discogs.com/releases/10150394
-Gigi Masin For Good Mellows Extra - 2017 - https://api.discogs.com/releases/13681740
-Corner Song - 2018 - https://api.discogs.com/releases/11400882
-Kite - 2018 - https://api.discogs.com/releases/12753804
-Kite - 2018 - https://api.discogs.com/masters/1524439
-Anemone - 2019 - https://api.discogs.com/releases/14706729
-Postcards From Nowhere - 2019 - https://api.discogs.com/masters/1835529
-Calypso - 2020 - https://api.discogs.com/masters/1691351
-Plays Venezia - 2021 - https://api.discogs.com/masters/2389042
-Vahinè - 2022 - https://api.discogs.com/releases/25171525
-Dolphin - 2023 - https://api.discogs.com/masters/3136266
-Red Hair Girl At Lighthouse Beach - 2023 - https://api.discogs.com/masters/3245794
-The Fish Factory Sessions - 2024 - https://api.discogs.com/releases/30421574
-Falling Leaves - 2014 - https://api.discogs.com/masters/677781
-Bella Ciao Gigi Masin & Leo Mas & Fabrice Remixes - 2016 - https://api.discogs.com/masters/976758
-Planetarium   - 2017 - https://api.discogs.com/releases/10350462
-Peaks Remixes One - 2017 - https://api.discogs.com/masters/1246097
-Dig It, Understand It - 2017 - https://api.discogs.com/masters/1509289
-Infinite Avenue - 2017 - https://api.discogs.com/masters/1242725
-Remixes - 2017 - https://api.discogs.com/masters/1244647
-Smalltown Supersound 25: The Movement Of The Free Spirit - 2018 - https://api.discogs.com/masters/1464010
-Spaciousness 2: Music Without Horizons - 2021 - https://api.discogs.com/releases/20527678
-The Distance - 2017 - https://api.discogs.com/masters/1165992
-Fragile - Maneggiare Con Cura - 1990 - https://api.discogs.com/releases/3125058
-Les Mystères Des Voix Vulgaires - 1990 - https://api.discogs.com/masters/305221
-Imago Sonora 1 - 1991 - https://api.discogs.com/releases/17178166
-Greatest Hits - 2002 - https://api.discogs.com/masters/34601
-Unfolk - 2006 - https://api.discogs.com/masters/1313581
-Expanding Sound - 2008 - https://api.discogs.com/releases/27981072
-What Remains In A Breath - 2009 - https://api.discogs.com/releases/1940247
-The Venetian Book Of The Dead - 2010 - https://api.discogs.com/releases/2152970
-Salicornie (Topofonie Vol. 2) - 2010 - https://api.discogs.com/releases/2511631
-Clouds - 2014 - https://api.discogs.com/masters/783743
-1 - 2015 - https://api.discogs.com/masters/827722
-(The Microcosm) Visionary Music Of Continental Europe, 1970-1986 - 2016 - https://api.discogs.com/masters/1106146
-Peaks Remixes One - 2017 - https://api.discogs.com/masters/1246097
-The Distance - 2017 - https://api.discogs.com/masters/1165992
-La Calle Roja  - 2018 - https://api.discogs.com/masters/1771264
-Anne - 2018 - https://api.discogs.com/masters/1460106
-Framed Space: Selected Works 2014​-​2017 - 2018 - https://api.discogs.com/masters/1607528
-Cosmic Cratedigging (15 Tracks Chosen Exclusively For Uncut From The Vaults Of Light In The Attic Records) - 2020 - https://api.discogs.com/releases/15352683
-What Do The Stars Say To You - 2022 - https://api.discogs.com/masters/2682674
-Clouds / Waterland  - 2024 - https://api.discogs.com/releases/30784596
-Winter Sun / Fever Dream - 2024 - https://api.discogs.com/masters/3433217
-Fragile - Maneggiare Con Cura - 1990 - https://api.discogs.com/releases/3125058
-Les Mystères Des Voix Vulgaires - 1990 - https://api.discogs.com/masters/305221
-Just Before Dawn - 2005 - https://api.discogs.com/releases/663411
-Nocturnal Emission 1st Flight - 2007 - https://api.discogs.com/releases/1288623
-Remembering - 2009 - https://api.discogs.com/releases/2061092
-Late Night Broadcast - 2010 - https://api.discogs.com/releases/2334347
-Lav:NEXT - 2011 - https://api.discogs.com/releases/3085064
-Underwater Noises - 2011 - https://api.discogs.com/masters/572548
-Café Mambo - The Sunset Sessions - 2013 - https://api.discogs.com/releases/8138334
-Klassik Lounge Nightflight Vol.6 (Compiled By DJ Nartak) - 2013 - https://api.discogs.com/releases/16874880
-Moon Rock 2 - 2014 - https://api.discogs.com/masters/762041
-Diplocomp - 2014 - https://api.discogs.com/masters/866659
-La Escollera Session Two - 2015 - https://api.discogs.com/releases/7127731
-Discipula - Secret Thirteen Mix 164 - 2015 - https://api.discogs.com/releases/7868156
-Canblaster X-Mas Mixtape Vol. 3 - The Coldest Winter - 2015 - https://api.discogs.com/releases/7908929
-100 Release Compilation - 2015 - https://api.discogs.com/releases/13638436
-Soundscapes For Escape Vol. 2 - 2015 - https://api.discogs.com/masters/804394
-Good Mellows For Sunset Feeling - 2015 - https://api.discogs.com/masters/2975545
-Perspective/Prospective: 10 Years Of Laverna - 2015 - https://api.discogs.com/masters/1209064
-The Sunrise Sessions - 2016 - https://api.discogs.com/releases/8326289
-Music City Lovers - Soundtrack For Comfortable Life - 2016 - https://api.discogs.com/releases/23515058
-Good Mellows For Stardust Memory - 2016 - https://api.discogs.com/masters/2975560
-(The Microcosm) Visionary Music Of Continental Europe, 1970-1986 - 2016 - https://api.discogs.com/masters/1106146
-Hell Yeah Recordings 01.2017 - 2017 - https://api.discogs.com/releases/10416061
-Music from Memory  - 2017 - https://api.discogs.com/releases/10443891
-Isolatedmix 72 - 2017 - https://api.discogs.com/releases/10865919
-EXO3 - 2017 - https://api.discogs.com/releases/10943962
-Jesus Is A Flower - 2017 - https://api.discogs.com/releases/11052853
-Klassik Lounge Summer Vol.2 - 2017 - https://api.discogs.com/releases/11212578
-Ambient Seascapes - 2017 - https://api.discogs.com/releases/12495318
-We Got The Jazz - 2017 - https://api.discogs.com/releases/23785568
-Fact Mix 588 - 2017 - https://api.discogs.com/releases/29410078
-Air Texture Volume V - 2017 - https://api.discogs.com/masters/1176221
-Dekmantel 10 Years 01 - 2017 - https://api.discogs.com/masters/1209065
-Puerto Rico Relief - 2018 - https://api.discogs.com/releases/11410058
-Dance With Me (Rare Trax Vol. 110) - 2018 - https://api.discogs.com/releases/11485316
-Nubreed Global Underground - 2018 - https://api.discogs.com/masters/1476264
-Ibossim Selection - 2019 - https://api.discogs.com/releases/13614625
-In My Memory Remains - 2019 - https://api.discogs.com/releases/15395225
-Cosmic Cratedigging (15 Tracks Chosen Exclusively For Uncut From The Vaults Of Light In The Attic Records) - 2020 - https://api.discogs.com/releases/15352683
-MixCult Radio Podcast # 235 - Alpha Centauri  - 2020 - https://api.discogs.com/releases/15395402
-The Diplodisc Years 2006-2014 - Diplobag - 2020 - https://api.discogs.com/releases/15714166
-Hell Yeah MixTape - 2021 - https://api.discogs.com/releases/17589880
-The Maldives: The Coral Reef Project - 2021 - https://api.discogs.com/releases/23966981
-Earth/Percent x Earth Day Compilation Album - 2022 - https://api.discogs.com/releases/24528998
-Here We Grow (A Charity Project with Clima Now) - 2023 - https://api.discogs.com/releases/26829059
-Transmission From The Cave ~ VI - 2023 - https://api.discogs.com/releases/27473013
-Organic Oscillation Mix - 2023 - https://api.discogs.com/releases/28430737
-Piccadilly Records Sampler 2023 - 2023 - https://api.discogs.com/releases/29140003
-10 - 2023 - https://api.discogs.com/masters/3341509
+Another Night - 2011 - https://api.discogs.com/releases/3020963
+Elisco - 2011 - https://api.discogs.com/releases/3302456
+Chant And Sing EP - 2012 - https://api.discogs.com/releases/3239087
+Catalano EP - 2012 - https://api.discogs.com/releases/3894345
+Make It Acid - 2013 - https://api.discogs.com/releases/4306850
+Ditar - 2013 - https://api.discogs.com/releases/4533135
+Faze Action & Dicky Trisco Remixes - 2013 - https://api.discogs.com/releases/4718756
+The High Fidelity Sound EP - 2013 - https://api.discogs.com/releases/4726813
+Original And Unreleased - 2013 - https://api.discogs.com/releases/5139151
+Make It Hot - 2013 - https://api.discogs.com/masters/563629
+Record Store Day Edits - 2014 - https://api.discogs.com/masters/1327114
+JKriv Edits - 2015 - https://api.discogs.com/masters/951898
+Can't Give It Up - 2016 - https://api.discogs.com/releases/8393617
+The Eleanora EP - 2016 - https://api.discogs.com/releases/8481930
+Barefoot Beats 05 - 2017 - https://api.discogs.com/releases/10501382
+Barefoot Beats 09 - 2018 - https://api.discogs.com/releases/12881825
+Vertigo - 2018 - https://api.discogs.com/masters/1552778
+Férias '77 JKriv Reworks - 2018 - https://api.discogs.com/masters/2797274
+Yo Love - 2019 - https://api.discogs.com/masters/1602320
+Aguaxirê - 2019 - https://api.discogs.com/masters/1598133
+Barefoot Beats 11 - 2020 - https://api.discogs.com/releases/16402362
+Bigtime EP - 2021 - https://api.discogs.com/masters/2416681
+Not That Serious - 2021 - https://api.discogs.com/masters/2308840
+The Way - 2022 - https://api.discogs.com/releases/21731296
+Something Else EP - 2022 - https://api.discogs.com/releases/23810519
+Echo Beach Edits Volume Four - 2022 - https://api.discogs.com/releases/23944124
+Make That Change / Dub Something Every Day - 2022 - https://api.discogs.com/masters/2984270
+JKriv Edits - 2023 - https://api.discogs.com/releases/25934647
+Pleasure Of Edits 10 - 2023 - https://api.discogs.com/masters/3143775
+Mainline - 2024 - https://api.discogs.com/releases/29787682
+For The Floor 2 - 2005 - https://api.discogs.com/releases/558447
+The Remixes - 2005 - https://api.discogs.com/releases/2681119
+Promo Only Underground Club: November 05 - 2005 - https://api.discogs.com/releases/4445744
+Promo Only Underground Club: December 2005 - 2005 - https://api.discogs.com/releases/7261484
+First Love - 2005 - https://api.discogs.com/masters/143182
+I Like It (But I Don't Need It) (Remix 5 Pack) - 2005 - https://api.discogs.com/masters/261344
+Rockamerica Videopool: January 2006 - 2006 - https://api.discogs.com/releases/28571137
+Promo Only Mainstream Club: July 07 - 2007 - https://api.discogs.com/releases/984618
+One Shot (Remixes) - 2007 - https://api.discogs.com/masters/1370238
+Remixes Japan Edition - 2009 - https://api.discogs.com/releases/2856104
+In My Fantasy - 2009 - https://api.discogs.com/masters/895288
+Home To You - 2009 - https://api.discogs.com/masters/837627
+Get Away - 2011 - https://api.discogs.com/masters/498015
+Shake - 2012 - https://api.discogs.com/releases/3375824
+Weak Knees - 2012 - https://api.discogs.com/releases/4094243
+Call Girl - 2013 - https://api.discogs.com/releases/4274637
+So Much Soul Remixed Part 1 - 2013 - https://api.discogs.com/releases/4414539
+Nightdriving / Love Triangle Theme - 2013 - https://api.discogs.com/releases/4582037
+Beach Disco Sessions Vol. 4 - 2013 - https://api.discogs.com/releases/4777026
+ADE 2013 Mix - 2013 - https://api.discogs.com/releases/5001813
+Undercover Remixes - 2013 - https://api.discogs.com/releases/10632411
+Escort Remixed - 2013 - https://api.discogs.com/masters/908551
+Barbarians - 2013 - https://api.discogs.com/masters/3377500
+Runnin' Out Of Night - 2014 - https://api.discogs.com/releases/5782254
+Disco Shake - 2014 - https://api.discogs.com/releases/5826973
+Higher - 2014 - https://api.discogs.com/releases/7958651
+Try So Hard - 2014 - https://api.discogs.com/masters/881258
+Redo:Remixed - 2015 - https://api.discogs.com/releases/12805363
+Coule'Ba Versions  - 2015 - https://api.discogs.com/masters/1230462
+Animal Nature - 2015 - https://api.discogs.com/masters/1018726
+Canção Para Laia - 2016 - https://api.discogs.com/releases/9717479
+Glenview Records Presents Crystal Lake Remixes Volume 2 - 2016 - https://api.discogs.com/masters/970033
+Hold On / Take It Slow EP - 2016 - https://api.discogs.com/masters/1674965
+Icarus - 2017 - https://api.discogs.com/releases/10179862
+All Night - 2017 - https://api.discogs.com/releases/11004136
+Heads Records (South African Disco Dub Edits) - 2018 - https://api.discogs.com/releases/11978482
+Resurrection (The Remixes Part Two) - 2018 - https://api.discogs.com/masters/1358141
+Firewalker EP - 2018 - https://api.discogs.com/masters/2746316
+Defected Presents Most Rated 2019 - 2018 - https://api.discogs.com/masters/1585517
+Nu Disco Selections 06 - 2019 - https://api.discogs.com/releases/13108638
+When I'm Alone - 2019 - https://api.discogs.com/releases/13751468
+Up All Night / If It Was You - 2019 - https://api.discogs.com/masters/1723019
+Children Of The Sun EP - 2019 - https://api.discogs.com/masters/1666384
+Remixes EP - 2020 - https://api.discogs.com/releases/14817440
+I Might Do Something Wrong - 2020 - https://api.discogs.com/releases/15296677
+A Love Like This - 2020 - https://api.discogs.com/releases/15513144
+Ello Koko - 2020 - https://api.discogs.com/releases/15638267
+Tu Me Tues - 2020 - https://api.discogs.com/masters/770223
+Pump The Boogie - 2020 - https://api.discogs.com/masters/1741029
+Strength - 2020 - https://api.discogs.com/masters/260976
+Disco Cuts Volume 3 - 2020 - https://api.discogs.com/masters/3103986
+The Kinda Love (JKriv Remix) - 2021 - https://api.discogs.com/releases/17825092
+Attack The Dancefloor Special Remix EP - 2021 - https://api.discogs.com/releases/18082177
+Agua Remixes - 2021 - https://api.discogs.com/releases/18985114
+Atomico EP  - 2021 - https://api.discogs.com/releases/20019340
+Blurry Dreams Of You - 2021 - https://api.discogs.com/releases/20549059
+Hageby In Your Eyes (JKriv Remix) - 2021 - https://api.discogs.com/releases/21791527
+Jeffa / Reingelaxed - 2021 - https://api.discogs.com/releases/23210858
+Life's Better With Disco - 2021 - https://api.discogs.com/masters/2349445
+Cocaine Blues - 2021 - https://api.discogs.com/masters/391864
+Glitterbox - Where Love Lives - 2021 - https://api.discogs.com/masters/2093158
+Dave Lee's 2021 Essentials - 2021 - https://api.discogs.com/masters/2478577
+10 Years Of Riot Records - 2022 - https://api.discogs.com/releases/22937888
+Sunshine EP - 2022 - https://api.discogs.com/releases/23580380
+Remixes - 2022 - https://api.discogs.com/releases/23717342
+Let's Invade The Amazon - 2022 - https://api.discogs.com/releases/24566252
+The Roundup 8 - 2022 - https://api.discogs.com/releases/30565129
+Sunshine EP - 2022 - https://api.discogs.com/releases/30793725
+Future Disco: Poolside Sounds Vol​.​10 - 2022 - https://api.discogs.com/masters/2693897
+Sam Records Extended Play Vol 3 - 2022 - https://api.discogs.com/masters/2602913
+Chega Mais - 2023 - https://api.discogs.com/releases/26777195
+Adupe / Sou Baiana - 2023 - https://api.discogs.com/releases/27506607
+Beneath The Neon EP - 2023 - https://api.discogs.com/releases/28205848
+Energy (JKriv Remix) - 2023 - https://api.discogs.com/releases/28645480
+Best Of Remixes - 2023 - https://api.discogs.com/releases/30673831
+Habita Remixes - 2024 - https://api.discogs.com/releases/30547582
+Bukom Mashie (JKriv Reworks) - 2024 - https://api.discogs.com/releases/30939667
+Bukom Mashie (JKriv Reworks) - 2024 - https://api.discogs.com/releases/31003096
+Matrixfillmore Two - 2005 - https://api.discogs.com/releases/1639926
+Remember - 2005 - https://api.discogs.com/masters/418960
+A Crack In The Glass - 2005 - https://api.discogs.com/masters/772676
+You Found A Way (Fred Everything Remixes) - 2006 - https://api.discogs.com/masters/76302
+See You More - 2006 - https://api.discogs.com/masters/255413
+Redo:Remixed - 2015 - https://api.discogs.com/releases/12805363
+Be There - 2018 - https://api.discogs.com/releases/12992006
+City Life / Fantasy - 2019 - https://api.discogs.com/releases/13708248
+Slide / Ride  - 2019 - https://api.discogs.com/releases/13871945
+City Life - 2019 - https://api.discogs.com/masters/3397795
+Jump Into The Light - 2020 - https://api.discogs.com/releases/15567654
+ Night Magic Vol. I  - 2020 - https://api.discogs.com/releases/16071076
+ Night Magic Vol. I  - 2020 - https://api.discogs.com/releases/16071115
+ Night Magic Vol. I - The Disco Mixes 2020 - 2020 - https://api.discogs.com/masters/2315347
+Sentimental Animals Volume 01 - 2021 - https://api.discogs.com/releases/18993256
+Love Vibrations EP - 2021 - https://api.discogs.com/releases/19480999
+Love Vibration - 2021 - https://api.discogs.com/releases/19980877
+Love And Dancing - 2021 - https://api.discogs.com/masters/1814709
+Reunite Under Starlight - 2022 - https://api.discogs.com/releases/23227283
+Dance To Keep From Crying - 2022 - https://api.discogs.com/releases/25183165
+Stand - 2023 - https://api.discogs.com/releases/26755031
+Family Affair Vol.2 - 2023 - https://api.discogs.com/masters/3027506
+Remember - 2005 - https://api.discogs.com/masters/418960
+A Crack In The Glass - 2005 - https://api.discogs.com/masters/772676
+You Found A Way (Fred Everything Remixes) - 2006 - https://api.discogs.com/masters/76302
+See You More - 2006 - https://api.discogs.com/masters/255413
+One Shot (Remixes) - 2007 - https://api.discogs.com/masters/1370238
+Fall In Love - 2002 - https://api.discogs.com/masters/140234
+Afterdark - New York City - 2004 - https://api.discogs.com/masters/1047207
+Introducing - 2004 - https://api.discogs.com/masters/140232
+Love Will Take Over (The Remixes) - 2005 - https://api.discogs.com/releases/1388410
+Matrixfillmore Two - 2005 - https://api.discogs.com/releases/1639926
+Remember - 2005 - https://api.discogs.com/masters/418960
+A Crack In The Glass - 2005 - https://api.discogs.com/masters/772676
+I Like It (But I Don't Need It) (Dance Mixes) - 2005 - https://api.discogs.com/masters/261344
+Soul Food - 2006 - https://api.discogs.com/releases/768062
+You Found A Way (Fred Everything Remixes) - 2006 - https://api.discogs.com/masters/76302
+See You More - 2006 - https://api.discogs.com/masters/255413
+Why - 2007 - https://api.discogs.com/releases/1010189
+Did You Miss Me - 2008 - https://api.discogs.com/masters/308195
+Another Lover - 2009 - https://api.discogs.com/releases/5121680
+Have You Got Your Bootz On? / Everybody Get Up - 2011 - https://api.discogs.com/releases/4362451
+Km5 Ibiza Volumen 12 - 2012 - https://api.discogs.com/releases/4214084
+Dreaming Of You - 2014 - https://api.discogs.com/releases/7803243
+Hot Koki Remixes - 2016 - https://api.discogs.com/releases/7948869
+Mobile Disco #2 - 2016 - https://api.discogs.com/releases/8555139
+Michael The Lion - 2017 - https://api.discogs.com/masters/1818603
+Adeline - 2018 - https://api.discogs.com/masters/2797304
+City Life / Fantasy - 2019 - https://api.discogs.com/releases/13708248
+City Life - 2019 - https://api.discogs.com/masters/3397795
+A Love Like This - 2020 - https://api.discogs.com/releases/15133384
+Jump Into The Light - 2020 - https://api.discogs.com/releases/15567654
+ Night Magic Vol. I  - 2020 - https://api.discogs.com/releases/16071076
+ Night Magic Vol. I  - 2020 - https://api.discogs.com/releases/16071115
+Defected Presents Most Rated 2021 - 2020 - https://api.discogs.com/masters/2098726
+ Night Magic Vol. I - The Disco Mixes 2020 - 2020 - https://api.discogs.com/masters/2315347
+Love Vibration - 2021 - https://api.discogs.com/releases/19980877
+Operation Disco - 2021 - https://api.discogs.com/masters/2201347
+Love And Dancing - 2021 - https://api.discogs.com/masters/1814709
+Glitterbox - Where Love Lives - 2021 - https://api.discogs.com/masters/2093158
+Music Saved My Life - 2021 - https://api.discogs.com/masters/2044267
+Dance To Keep From Crying - 2022 - https://api.discogs.com/releases/25183165
+Au Suisse - 2022 - https://api.discogs.com/masters/2771723
+ Smooth Sweet Talker - 2023 - https://api.discogs.com/releases/28798024
+Family Affair Vol.2 - 2023 - https://api.discogs.com/masters/3027506
+I'm Caught Up (In A One Night Love Affair) - 2024 - https://api.discogs.com/masters/3444707
+RA.317 - 2012 - https://api.discogs.com/releases/3695894
+Vin & Vinyl - LateNiteMuzik4LateNiteWineSessionz Pt. I - 2012 - https://api.discogs.com/releases/4007326
+Sunday Brunch - 2013 - https://api.discogs.com/releases/17667436
+Golden Lounge 3 - 2015 - https://api.discogs.com/releases/10661214
+Disco Cuts Volume 1 - 2015 - https://api.discogs.com/releases/18582952
+Editor's Kutz #5  - 2015 - https://api.discogs.com/masters/1379133
+Chill Cuts Volume 1 - 2016 - https://api.discogs.com/releases/9111720
+Barefoot Beats 05 - 2017 - https://api.discogs.com/releases/10501382
+Nu Disco Selections 03 - 2018 - https://api.discogs.com/releases/12326333
+Chill Cuts Volume 2 - 2018 - https://api.discogs.com/releases/12855695
+Barefoot Beats 09 - 2018 - https://api.discogs.com/releases/12881825
+Joey Negro's 2018 Essentials - 2018 - https://api.discogs.com/releases/20800933
+La​Ga​Sta Late Summer Compilation Vol​.​9 - 2019 - https://api.discogs.com/masters/1611793
+Joey Negro's 2019 Essentials - 2019 - https://api.discogs.com/masters/1647254
+Milchbar // Seaside Season 11 - 2019 - https://api.discogs.com/masters/1701791
+Glitterbox (Hotter Than Fire) - 2019 - https://api.discogs.com/masters/1623716
+Defected Presents Most Rated 2020 - 2019 - https://api.discogs.com/masters/2096962
+Fifty Discos Deep - 2020 - https://api.discogs.com/releases/15019848
+Dubstrumentals Volume 2 - 2020 - https://api.discogs.com/releases/17441839
+Sandy Grooves Vol 1 (Part 1) - 2021 - https://api.discogs.com/releases/18785287
+Operation Disco - 2021 - https://api.discogs.com/masters/2201347
+Life's Better With Disco - 2021 - https://api.discogs.com/masters/2349445
+Vinyl Junkie Thangs - 2021 - https://api.discogs.com/masters/2169442
+A Touch Of Love EP2 - 2022 - https://api.discogs.com/releases/24594902
+Dance To Keep From Crying - 2022 - https://api.discogs.com/releases/25183165
+The Roundup 8 - 2022 - https://api.discogs.com/releases/30565129
+Family Affair Vol.2 - 2022 - https://api.discogs.com/masters/3027506
+Barefoot Beats 13 - 2023 - https://api.discogs.com/releases/26832335
+Family Affair Vol.3 - 2023 - https://api.discogs.com/releases/29272474
+Best Of Remixes - 2023 - https://api.discogs.com/releases/30673831
+Family Affair Vol.3 - 2024 - https://api.discogs.com/releases/30483902
+Let's Dance Vol. 4 - 2024 - https://api.discogs.com/releases/30710444
+TVLKINGHEVDITS - 2013 - https://api.discogs.com/masters/924082
+JKriv Edits - 2017 - https://api.discogs.com/releases/10384578
