@@ -1,0 +1,73 @@
+---
+title: "Death and Vanilla - Flicker"
+date: 2024-06-20T18:06:18+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - dreampop
+ - shoegaze
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Death-and-Vanilla - Flicker))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3017504)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/777651d4-c902-441a-8cca-94dcb29270f3)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/42AH0B8JxBoa8d0na8Du70)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLYgLX_Ij3lO7ItnFcRK_m2VYbXtXaWTPi)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2023
+> 
+> **Géneros**: Electronic, Rock
+> 
+> **Estilos**: Synth-pop, Darkwave, Experimental
+> 
+> **Pais:** US
+> 
+> **Sello:** Radex Recording Studios
+> 
+> **Recorded At:** Radex Recording Studios
+> 
+> **Accordion, Tenor Saxophone** - Greg Anderson (11)
+> 
+> **Drums** - Tom Metz
+> 
+> **Engineer** - Dexter Witt
+> 
+> **Horn [Bass Horn]** - Gary Pulver
+> 
+> **Trumpet** - Kevin Finkenbinder
+> 
+> **Trumpet, Organ** - Pam Anderson (2)
+> 
+> **Vocals, Guitar, Banjo** - Craig Brown (5)
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   A1. Out For Magic    
+> 
+>   A2. Baby Snakes    
+> 
+>   A3. Find Another Illusion    
+> 
+>   A4. Perpetuum Mobile    
+> 
+>   B1. Looking Glass    
+> 
+>   B2. Mercury's Rising    
+> 
+>   B3. Fearless    
+> 
+>   B4. Transparent Things    
+> 
+>   B5. Perpetuum Reprise    
+> 

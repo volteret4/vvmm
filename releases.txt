@@ -1,129 +1,29 @@
 Listado de releases del artista:
-Irma Vep / Butterfly - 2000 - https://api.discogs.com/releases/351799
-Small Moments - 2000 - https://api.discogs.com/masters/315051
-Snippets From The Big Romance - 2001 - https://api.discogs.com/releases/737818
-The Big Romance - 2001 - https://api.discogs.com/releases/7927846
-What I Ask ("Ruth Is Here" Remix) - 2001 - https://api.discogs.com/releases/25585516
-Song From Hope St. (Brooklyn, NY) - 2001 - https://api.discogs.com/releases/30252287
-Song From Hope St. (Brooklyn, NY) - 2001 - https://api.discogs.com/masters/373903
-The Big Romance - 2001 - https://api.discogs.com/masters/177736
-You Know What I Want To Know - 2001 - https://api.discogs.com/masters/395627
-Me And My Love - 2003 - https://api.discogs.com/masters/607501
-Dance With You - 2003 - https://api.discogs.com/masters/562022
-Square 1 - 2003 - https://api.discogs.com/masters/395626
-Dancing In The Moonlight - 2004 - https://api.discogs.com/masters/269455
-The Black And Red Notebook - 2004 - https://api.discogs.com/masters/177737
-Pressure Drop - 2005 - https://api.discogs.com/releases/4654268
-Say No More - 2006 - https://api.discogs.com/releases/4506745
-Up To You - 2006 - https://api.discogs.com/releases/5835103
-Irský Den / Irish Day - 2006 - https://api.discogs.com/releases/13572665
-Not Fade Away - 2006 - https://api.discogs.com/masters/315053
-Misfits Vol. 1 - 2007 - https://api.discogs.com/releases/1450492
-Introducing David kitt - 2007 - https://api.discogs.com/releases/14864341
-The Nightsaver - 2009 - https://api.discogs.com/masters/729924
-Yous - 2017 - https://api.discogs.com/masters/1298982
-Still Don't Know - 2018 - https://api.discogs.com/releases/11421461
-LIke Lightning - 2018 - https://api.discogs.com/releases/12359563
-20 - 2021 - https://api.discogs.com/masters/3388846
-Till The End (X-Press 2 Remixes) - 2023 - https://api.discogs.com/releases/28388128
-Idiot Check - 2023 - https://api.discogs.com/masters/3113784
-Not Fade Away - 2024 - https://api.discogs.com/releases/30818733
-You Look Colder (Remixes) - 2010 - https://api.discogs.com/releases/8333397
-The Whisper Of The Departed (Remixes) - 2013 - https://api.discogs.com/releases/7521341
-19-Track Guide To The Month's Best Music - 2001 - https://api.discogs.com/releases/757675
-Kicking Against... Nuggets From The Irish Overground - 2002 - https://api.discogs.com/releases/1198335
-The Monkeys In The Zoo Have More Fun Than Me - 2004 - https://api.discogs.com/releases/406230
-Jape Is Grape E.P. - 2007 - https://api.discogs.com/masters/133512
-Mexico City: GU32 - 2007 - https://api.discogs.com/masters/2447
-Floating - 2007 - https://api.discogs.com/masters/87744
-The Only Way Through Is The Music - 2011 - https://api.discogs.com/masters/1654753
-Sat Around Here Waiting - 2013 - https://api.discogs.com/releases/4332880
-Same Cloth Or Not - 2013 - https://api.discogs.com/masters/1114739
-Made It Mine E.P. - 2014 - https://api.discogs.com/releases/5451558
-Having A Coke With You - 2014 - https://api.discogs.com/releases/6226781
-Romancecar E.P. - 2019 - https://api.discogs.com/releases/13239002
-The Only Way Through Is The Music - 2011 - https://api.discogs.com/masters/1654753
-Same Cloth Or Not - 2013 - https://api.discogs.com/masters/1114739
-19-Track Guide To The Month's Best Music - 2001 - https://api.discogs.com/releases/757675
-A Quiet Riot - 2001 - https://api.discogs.com/releases/1974847
-SPEX CD #16 - 2002 - https://api.discogs.com/releases/103895
-Pure Genius - 2002 - https://api.discogs.com/releases/462681
-Kicking Against... Nuggets From The Irish Overground - 2002 - https://api.discogs.com/releases/1198335
-Dry Land - 2002 - https://api.discogs.com/releases/2402057
-What Would The Clash Have Done? Bright Star Recordings Sampler No.1 - 2002 - https://api.discogs.com/releases/2675077
-Reloaded - 2002 - https://api.discogs.com/releases/3040196
-Something Tells Me (You'd Be Good For Me) / Waiting - 2002 - https://api.discogs.com/masters/1788484
-Protect Yrself From Ghosts - 2003 - https://api.discogs.com/releases/916337
-Hot Valentine - 2003 - https://api.discogs.com/releases/11087111
-The Monkeys In The Zoo Have More Fun Than Me - 2004 - https://api.discogs.com/releases/406230
-We're Smiling  - 2006 - https://api.discogs.com/releases/5022647
-Ritual - 2008 - https://api.discogs.com/masters/257642
-Live In London 2010 - 2010 - https://api.discogs.com/releases/2260591
-Falling Down A Mountain - 2010 - https://api.discogs.com/masters/219572
-The Only Way Through Is The Music - 2011 - https://api.discogs.com/masters/1654753
-The Promised Land: A Swamp Pop Journey! - 2011 - https://api.discogs.com/masters/2654711
-GAFFA Klub CD #30 - 2012 - https://api.discogs.com/releases/3569345
-San Sebastian 2012 - 2012 - https://api.discogs.com/masters/530103
-The Something Rain - 2012 - https://api.discogs.com/masters/408800
-Sat Around Here Waiting - 2013 - https://api.discogs.com/releases/4332880
-Same Cloth Or Not - 2013 - https://api.discogs.com/masters/1114739
-Made It Mine E.P. - 2014 - https://api.discogs.com/releases/5451558
-Ambient Mix 1995 - 2015 Incl. Tracks - 2015 - https://api.discogs.com/masters/1112030
-Permanent Vacation Selected Label Works 5 - 2016 - https://api.discogs.com/masters/1102900
-From Night To Night - 2017 - https://api.discogs.com/masters/1181780
-Permanent Vacation Selected Label Works 6 - 2018 - https://api.discogs.com/masters/1401890
-Romancecar E.P. - 2019 - https://api.discogs.com/releases/13239002
-Distractions - 2021 - https://api.discogs.com/masters/1983745
-Skellig - 2021 - https://api.discogs.com/masters/2121169
-Come On Up To The House... - 1999 - https://api.discogs.com/releases/6159600
-Only One Degree Of Separation - Ireland At SXSW 2000 - 2000 - https://api.discogs.com/releases/13840118
-19-Track Guide To The Month's Best Music - 2001 - https://api.discogs.com/releases/757675
-A Quiet Riot - 2001 - https://api.discogs.com/releases/1974847
-UnderCurrents - 2001 - https://api.discogs.com/releases/6184643
-Never Enough - Warner Sampler Autumn 2001 - 2001 - https://api.discogs.com/releases/25842868
-Fono, Breaking Hits 50 - 2001 - https://api.discogs.com/releases/28116721
-Trouble On The Railway (A Rough Trade/Tugboat Records Compilation) - 2001 - https://api.discogs.com/masters/317873
-Tom Dunne's 30 Best Irish Hits - 2001 - https://api.discogs.com/masters/1426616
-Witnness - Volume 1 - 2001 - https://api.discogs.com/masters/2327410
-SPEX CD #16 - 2002 - https://api.discogs.com/releases/103895
-Collaborations - The Best Of Irish Independent Music - 2002 - https://api.discogs.com/releases/422895
-Pure Genius - 2002 - https://api.discogs.com/releases/462681
-Kicking Against... Nuggets From The Irish Overground - 2002 - https://api.discogs.com/releases/1198335
-Songs 2 (The Best Of The Singer/Songwriters) - 2002 - https://api.discogs.com/releases/1892890
-Reloaded - 2002 - https://api.discogs.com/releases/3040196
-100 % Classic Pop - 40 Grandes Artistas En 2 CD's - 2002 - https://api.discogs.com/releases/10464779
-Songs (The Best Of The Singer/Songwriters) - 2002 - https://api.discogs.com/releases/12682476
-Eurosonic 2002 - 2002 - https://api.discogs.com/releases/15803832
-Anna Loves Looper - 2002 - https://api.discogs.com/releases/22157635
-Simply The Best Songwriters - 2002 - https://api.discogs.com/masters/1053961
-Pure Irish - 2003 - https://api.discogs.com/releases/7349214
-Hot Valentine - 2003 - https://api.discogs.com/releases/11087111
-Donal Lunny's Definitive... Lisdoonvarna - 2003 - https://api.discogs.com/releases/11579898
-Small Hours - 2004 - https://api.discogs.com/releases/1138587
-Playlist: Volume 19 - 2004 - https://api.discogs.com/releases/1860986
-Other Voices - Songs From A Room 2 - 2004 - https://api.discogs.com/releases/4730542
-Playlist - 2004 - https://api.discogs.com/releases/7236438
-All That Chill - 2004 - https://api.discogs.com/releases/8280027
-The Definitive Irish Rock Album - 2004 - https://api.discogs.com/releases/10074899
-The Definitive Irish Love Album - 2004 - https://api.discogs.com/releases/10119612
-A Collection Of Contemporary Irish Music & Film - 2004 - https://api.discogs.com/releases/13612934
-Pc Disc Special For Radio - 2004 - https://api.discogs.com/releases/17189998
-Word Of Mouth (15 Quality New Tracks For Winter 2004) - 2005 - https://api.discogs.com/releases/1259959
-Superсборка (#02'05) - 2005 - https://api.discogs.com/releases/20860114
-Mellow Gold - 2006 - https://api.discogs.com/releases/716910
-Between The Lines Vol. 1 - 2007 - https://api.discogs.com/releases/3795297
-Carhartt Singers & Players. - 2008 - https://api.discogs.com/releases/6645750
-101 Irish Hits - 2008 - https://api.discogs.com/releases/11440249
-An Indiecater Christmas - 2008 - https://api.discogs.com/releases/14254358
-100 Hits Irish Party - 2010 - https://api.discogs.com/releases/2871387
-The Explorer's Club (Episodes 1 to 6) - 2010 - https://api.discogs.com/releases/6477756
-The New Breed - The Best Of New Irish Contemporary Music - 2010 - https://api.discogs.com/releases/12037287
-Ambient Mix 1995 - 2015 Incl. Tracks - 2015 - https://api.discogs.com/masters/1112030
-LovesVinyl - Volume 17 - 2020 - https://api.discogs.com/releases/16349673
-LovesVinyl - Volume 21 - 2022 - https://api.discogs.com/releases/21827818
-Taster #4 Compilation - Desconocido - https://api.discogs.com/releases/7670285
-The Rough Guide To What's New On Rough Trade Records - Desconocido - https://api.discogs.com/releases/15978526
-Breaking Sound Barriers Volume 11 - Desconocido - https://api.discogs.com/releases/22674539
-Q Playlist: Mellow Gold - 15 Soothing Sounds For Summer - Desconocido - https://api.discogs.com/releases/29638528
-Falling Down A Mountain - 2010 - https://api.discogs.com/masters/219572
-The Something Rain - Desconocido - https://api.discogs.com/masters/408800
+Godspeed / Ghosts In The Machine - 2009 - https://api.discogs.com/releases/2262428
+EP - 2010 - https://api.discogs.com/masters/637775
+Death And Vanilla - 2012 - https://api.discogs.com/masters/419497
+Library Goblin (Коля Угрюмов Waves Of Literacy Version) - 2013 - https://api.discogs.com/releases/5438027
+Vampyr - 2013 - https://api.discogs.com/masters/700373
+From Above - 2013 - https://api.discogs.com/masters/538204
+Optic Nerve - 2015 - https://api.discogs.com/releases/7005832
+Time Travel - 2015 - https://api.discogs.com/releases/7005841
+Erté - 2015 - https://api.discogs.com/releases/7012922
+California Owls / Follow The Light - 2015 - https://api.discogs.com/masters/1119846
+To Where The Wild Things Are..... - 2015 - https://api.discogs.com/masters/828268
+A Score For Roman Polanski's The Tenant - 2018 - https://api.discogs.com/masters/1403008
+A Flaw In The Iris - 2019 - https://api.discogs.com/releases/14528695
+Are You A Dreamer? - 2019 - https://api.discogs.com/masters/1546495
+Death And Vanilla Remixed And Reimagined By Civilistjävel! EP - 2023 - https://api.discogs.com/releases/28039836
+Flicker - 2023 - https://api.discogs.com/masters/3017504
+Arcana - Desconocido - https://api.discogs.com/releases/8396415
+Beko_Cs01 - 2010 - https://api.discogs.com/releases/2405121
+Tribute To Beko - 2011 - https://api.discogs.com/releases/15790388
+Beko_100 - 2012 - https://api.discogs.com/releases/3514497
+I Hear A New World: 1958-1962 - 2012 - https://api.discogs.com/releases/4898332
+This Is Not A Drill - 2015 - https://api.discogs.com/releases/7997180
+Mind The Gap #117 - 2015 - https://api.discogs.com/releases/8118430
+Lost Library - 2017 - https://api.discogs.com/masters/1831496
+Outer Limits - 2019 - https://api.discogs.com/masters/1589977
+Mars 2023 → 14 Titres - 2023 - https://api.discogs.com/releases/26196593
+Fact Mix 919 - 2023 - https://api.discogs.com/releases/29328520
+Tunes From The Darkside - 2020 - https://api.discogs.com/releases/16128990
