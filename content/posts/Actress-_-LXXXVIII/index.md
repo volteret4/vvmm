@@ -1,12 +1,12 @@
 ---
 title: "Actress - LXXXVIII"
-date: 2024-06-20T16:33:45+02:00
+date: 2024-06-20T16:43:08+02:00
 image: "image.jpeg"
 draft: false
 tags:
+ - idm
  - techno
  - experimental
- #- tagC
  #- tagD
  #- tagE
 ---
@@ -29,17 +29,55 @@ tags:
 > 
 > **Estilos**: Experimental
 > 
-> **Pais:** Brazil
+> **Pais:** Canada
 > 
-> **Sello:** Not On Label (Terraplana Self-released)
+> Media de 4.43 con 28 votos
 > 
-> **Bass** - Stephani Heuczuk
+> **Sello:** Atlantic
 > 
-> **Drums** - Wendeu Silverio
+> **Compañia** 1: Manufactured By - Warner Music Canada Co.
 > 
-> **Vocals, Guitar** - Matheus Teles
+> **Compañia** 2: Distributed By - Warner Music Canada Co.
 > 
-> **Vocals, Guitar, Synthesizer, Recorded By, Mixed By, Mastered By, Photography By** - Vinícius Lourenço
+> **Compañia** 3: Phonographic Copyright (p) - Atlantic Recording Corporation
+> 
+> **Compañia** 4: Phonographic Copyright (p) - WEA International Inc.
+> 
+> **Compañia** 5: Copyright (c) - Atlantic Recording Corporation
+> 
+> **Compañia** 6: Copyright (c) - WEA International Inc.
+> 
+> **Compañia** 7: Recorded At - Stratosphere Sound
+> 
+> **Compañia** 8: Recorded At - Glennross Studios, Saskatoon, SK, Canada
+> 
+> **Compañia** 9: Mixed At - Stratosphere Sound
+> 
+> **Compañia** 10: Mastered At - The Lacquer Channel
+> 
+> **Compañia** 11: Lacquer Cut At - Lucky Lacquers
+> 
+> **Compañia** 12: Pressed By - Rainbo Records
+> 
+> **Compañia** 13: Pressed By - Rainbo Records
+> 
+> **Engineer** - Geoff Sanoff
+> 
+> **Engineer [Assistant]** - Adam Tilzer
+> 
+> **Engineer [Assistant]** - Darren Magierowski
+> 
+> **Engineer [Assistant]** - Mike Nesci
+> 
+> **Mastered By** - Noah Mintz
+> 
+> **Mixed By** - Adam Schlesinger
+> 
+> **Mixed By** - Geoff Sanoff
+> 
+> **Producer** - Adam Schlesinger
+> 
+> **Written-By** - Ewan Currie
 > 
 > 
 > 
