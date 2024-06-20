@@ -1,55 +1,97 @@
 Listado de releases del artista:
-No Experiences - 2012 - https://api.discogs.com/releases/4474987
-FYTS - 2012 - https://api.discogs.com/releases/4833456
-Duga-3 - 2012 - https://api.discogs.com/masters/658491
-Kings And Them - 2012 - https://api.discogs.com/masters/453884
-RA.404 - 2014 - https://api.discogs.com/releases/5434084
-Waterfall - 2014 - https://api.discogs.com/masters/681442
-Ultra - 2020 - https://api.discogs.com/masters/1813714
-Nobody Else - 2023 - https://api.discogs.com/releases/28411444
-On Embers - 2023 - https://api.discogs.com/releases/28411588
-Yxguden - 2023 - https://api.discogs.com/releases/28651291
-Revanchist - 2023 - https://api.discogs.com/masters/3291598
-Primadonna - 2012 - https://api.discogs.com/masters/429702
-FACT Mix 398 - 2013 - https://api.discogs.com/releases/4954176
-Advent 14 / 15 - 2014 - https://api.discogs.com/releases/6642914
-If You Wait (Remixes 2) - 2014 - https://api.discogs.com/masters/725868
-V A R I A N T - 2014 - https://api.discogs.com/masters/770447
-1833 Mix - 2015 - https://api.discogs.com/releases/9035330
-Elastic Heart (The Remixes) - 2015 - https://api.discogs.com/masters/739952
-Angélico - 2016 - https://api.discogs.com/releases/9339323
-Innocence v2 - 2017 - https://api.discogs.com/releases/10972084
-Exorcism Of The Bridge@Eastham Rake - 2018 - https://api.discogs.com/releases/12861292
-One Life : Four Remixes - 2021 - https://api.discogs.com/releases/18240313
-Good Luck - 2021 - https://api.discogs.com/masters/2053966
-Aquarius  - 2014 - https://api.discogs.com/masters/743065
-RA.488 - 2015 - https://api.discogs.com/releases/7594952
-FACT Mix 520 - 2015 - https://api.discogs.com/releases/7965345
-Riot Boi  - 2015 - https://api.discogs.com/masters/948225
-Welcome To Los Santos - 2015 - https://api.discogs.com/masters/848912
-Atrocity Exhibition - 2016 - https://api.discogs.com/masters/1065536
-9 - 2017 - https://api.discogs.com/masters/1274550
-Yeezus - 2013 - https://api.discogs.com/masters/567491
-Riot Boi  - 2015 - https://api.discogs.com/masters/948225
-Variant - 2014 - https://api.discogs.com/masters/770447
-Cxemcast 085 - 2020 - https://api.discogs.com/releases/27569955
-Weekly Magic Tape #57 - 2012 - https://api.discogs.com/releases/3451399
-RA.327 - 2012 - https://api.discogs.com/releases/3848379
-The Future Is Yet To Come - 2012 - https://api.discogs.com/releases/4696740
-Exceptional - 2012 - https://api.discogs.com/releases/4865451
-Cloud Music Mix 4 Witch Tapes - 2012 - https://api.discogs.com/releases/5179222
-The Suicide Mixtape - 2012 - https://api.discogs.com/releases/12753471
-Black Black Gold Mix For Long Clothing - 2013 - https://api.discogs.com/releases/6264760
-Fuckparade '14 - Edge Of Chaos DJ-Mix - 2014 - https://api.discogs.com/releases/5994416
-The Top 100 Tracks Of 2014 - 2014 - https://api.discogs.com/releases/6627220
-Mix For The Astral Plane - 2014 - https://api.discogs.com/releases/8295627
-RA.488 - 2015 - https://api.discogs.com/releases/7594952
-Tri Angle Records - Five Years - 2015 - https://api.discogs.com/releases/12129877
-Mixtape Para Mun Discos - 2015 - https://api.discogs.com/releases/13461885
-Fact Mix 670 - 2018 - https://api.discogs.com/releases/29393164
-Onhell <3's You - 2020 - https://api.discogs.com/releases/14900943
-FACT Mix 817 - 2021 - https://api.discogs.com/releases/19787809
-Fact Mix 888 - 2022 - https://api.discogs.com/releases/29339200
-RA.900 - 2023 - https://api.discogs.com/releases/29437933
-Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
-Yeezus - 2013 - https://api.discogs.com/masters/567491
+How Strange, Innocence - 2000 - https://api.discogs.com/masters/4185
+Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever - 2001 - https://api.discogs.com/masters/4178
+The Earth Is Not A Cold Dead Place - 2003 - https://api.discogs.com/masters/4202
+The Rescue (Travels In Constants Volume Twenty-One) - 2005 - https://api.discogs.com/masters/311305
+All Of A Sudden I Miss Everyone - 2007 - https://api.discogs.com/masters/4212
+Take Care, Take Care, Take Care - 2011 - https://api.discogs.com/masters/330128
+Lone Survivor (Original Motion Picture Soundtrack) - 2013 - https://api.discogs.com/masters/716456
+Prince Avalanche: An Original Motion Picture Soundtrack - 2013 - https://api.discogs.com/masters/580553
+Manglehorn (Original Motion Picture Soundtrack) - 2015 - https://api.discogs.com/masters/944691
+Disintegration Anxiety - 2016 - https://api.discogs.com/releases/9448094
+The Wilderness - 2016 - https://api.discogs.com/masters/978556
+Big Bend (An Original Soundtrack For Public Television) - 2021 - https://api.discogs.com/masters/2321431
+End - 2023 - https://api.discogs.com/masters/3239233
+Hang Up Sampler 3 - 2003 - https://api.discogs.com/releases/774627
+Rhâââ Lovely Festival 2004 - 2004 - https://api.discogs.com/releases/639907
+Friday Night Lights (Original Motion Picture Soundtrack) - 2004 - https://api.discogs.com/masters/121839
+The Playlist March 2007 - 2007 - https://api.discogs.com/masters/503135
+Last Hope - 2009 - https://api.discogs.com/releases/4546640
+Per_Versions - 2009 - https://api.discogs.com/releases/12300599
+Weekender 2011 - Die CD Zum Festival - 2011 - https://api.discogs.com/releases/3132745
+Winter - 2015 - https://api.discogs.com/releases/13937437
+91.7 KVRX Local Live V.4 Refurbished Robots - 1999 - https://api.discogs.com/releases/10984253
+Dicembre 2001 - 2001 - https://api.discogs.com/releases/5826838
+Hang Up Sampler 3 - 2003 - https://api.discogs.com/releases/774627
+Music With Attitude - Volume 55 - 2003 - https://api.discogs.com/releases/8734860
+The Eye Volume 3 - 2004 - https://api.discogs.com/releases/405583
+Rhâââ Lovely Festival 2004 - 2004 - https://api.discogs.com/releases/639907
+Beneath The Surface Volume 1 - 2004 - https://api.discogs.com/releases/855262
+Accelerator 2004 - 2004 - https://api.discogs.com/releases/2282844
+Today's Best Music - 2004 - https://api.discogs.com/releases/2634970
+Today's Best Music - 2004 - https://api.discogs.com/releases/3356593
+Spunk Under The Sea - 2004 - https://api.discogs.com/releases/9753048
+TRR50 Thank You - 2004 - https://api.discogs.com/masters/1361417
+Americana 2004 - 2004 - https://api.discogs.com/masters/1606615
+Friday Night Lights (Original Motion Picture Soundtrack) - 2004 - https://api.discogs.com/masters/121839
+Bella Union - 2005 - https://api.discogs.com/releases/1486187
+Sinnamon Records - 2005 - https://api.discogs.com/releases/1631850
+Today's Best Music - Το Juke Box Του Rock+Roll - 2005 - https://api.discogs.com/releases/4509169
+Duyster. - 2005 - https://api.discogs.com/masters/769297
+Chill'Em All (The Hi-Lo Tunez Plan: 6th Step) - 2005 - https://api.discogs.com/masters/992110
+Human Highway Records Sampler CD 2006 - 2006 - https://api.discogs.com/releases/657413
+Tempset - (Re)Mix Tape - 2006 - https://api.discogs.com/releases/811806
+出道紀念日 - 2006 - https://api.discogs.com/releases/3586230
+Bank Robber Music Compilation - Volume 6 Winter 2006 - 2006 - https://api.discogs.com/releases/8443780
+A Low Hum > Series 3 > Issue Six - 2006 - https://api.discogs.com/releases/14817089
+Destroy Independent Music! - 2007 - https://api.discogs.com/releases/905761
+CD Side 39 - 2007 - https://api.discogs.com/releases/927847
+HHR Sampler 2007 - 2007 - https://api.discogs.com/releases/937235
+Motel Mozaïque 2007 Sampler - 2007 - https://api.discogs.com/releases/941249
+Cooperative Music - 2007 - https://api.discogs.com/releases/1453442
+Immergutrocken 8 - 2007 - https://api.discogs.com/releases/1732225
+Insound & Le Tigre Present Pushing Product 9 Spring 2007 - 2007 - https://api.discogs.com/releases/1921630
+Spring 2007 Sampler - 2007 - https://api.discogs.com/releases/1939319
+Cooperative Music Sampler Volume 4 - 2007 - https://api.discogs.com/releases/2588691
+Two Steps From The Middles Ages (Another Spunk Sampler) - 2007 - https://api.discogs.com/releases/2831357
+10th Anniversary Label Sampler - 2007 - https://api.discogs.com/releases/3320925
+Beneath The Surface Volume 3 - A Bella Union Sampler - 2007 - https://api.discogs.com/releases/4256644
+A Night On Earth - 2007 - https://api.discogs.com/releases/6957319
+Sound Check No. 94 - 2007 - https://api.discogs.com/releases/7274705
+The 2007 Music Issue - 2007 - https://api.discogs.com/releases/8534591
+Juice - 2007 - https://api.discogs.com/releases/30076024
+The Playlist March 2007 - 2007 - https://api.discogs.com/masters/503135
+Music From Time And Space Vol.23 - 2007 - https://api.discogs.com/masters/1716834
+A Taste Of This Year's End Of The Road Festival 2009 - 2009 - https://api.discogs.com/releases/3320940
+Last Hope - 2009 - https://api.discogs.com/releases/4546640
+Willamette Week's MusicfestNW 2009 - 2009 - https://api.discogs.com/releases/5014120
+White Winter Hymnals (15 Brilliant Tracks From The Bella Union Label) - 2009 - https://api.discogs.com/masters/738068
+Electronic Explorations Mix - 2010 - https://api.discogs.com/releases/2690958
+Friday Night Lights: Original Television Soundtrack - 2010 - https://api.discogs.com/masters/1184897
+All Areas Volume 127 - 2011 - https://api.discogs.com/releases/2909464
+Weekender 2011 - Die CD Zum Festival - 2011 - https://api.discogs.com/releases/3132745
+Ekko Recordings 1986 - 2011 - 2011 - https://api.discogs.com/releases/3221198
+Forest Fire Scuba Diver Spunk Sampler 2011 - 2011 - https://api.discogs.com/releases/3239614
+Veils - 2011 - https://api.discogs.com/releases/3269136
+MFNW 2011 - 2011 - https://api.discogs.com/releases/11917672
+Rough Trade Shops (Green Man '11) - 2011 - https://api.discogs.com/masters/513303
+ Citybirches Photography Works (2006-2011) Compilation - 2012 - https://api.discogs.com/releases/4763441
+Rough Trade Shops - 15 Years Of Bella Union Records - 2012 - https://api.discogs.com/releases/5514362
+Isolatedmix 40 - Away - 2013 - https://api.discogs.com/releases/4771597
+We Deliver The Goods - Cargosampler #161/13 - 2013 - https://api.discogs.com/releases/4982828
+Pianorama 2c - 2014 - https://api.discogs.com/releases/5465462
+Temporary Residence Ltd. 2015 - 2015 - https://api.discogs.com/masters/1660829
+Un Printemps 2016 - 2016 - https://api.discogs.com/releases/8275932
+How Soon Is Now? (Mojo Presents 15 Tracks Of Modern Independent Music...) - 2016 - https://api.discogs.com/releases/8699060
+The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
+Spunk Records April 2016 - Sampler - 2016 - https://api.discogs.com/releases/11128934
+Not So Athletico - Spunk! Records Sampler 2016 - 2016 - https://api.discogs.com/releases/11261638
+TRL 2016 - 2016 - https://api.discogs.com/releases/21258985
+Filmtracks: The Composer's Collection - 2016 - https://api.discogs.com/masters/2498788
+Bella Union - 20 Years - 2017 - https://api.discogs.com/releases/10544283
+Old Bad Mixes - 2021 - https://api.discogs.com/releases/20800681
+TRL 2021 - 2021 - https://api.discogs.com/releases/21236416
+All Areas Volume 265 - 2023 - https://api.discogs.com/releases/28073206
+PROG Presents: Discovering Bella Union - 2024 - https://api.discogs.com/releases/29800714
+The Earth Is Not A Cold Dead Place - 2003 - https://api.discogs.com/masters/4202
+The Birth And Death Of The Day (Eco Bootleg Remix) - 2011 - https://api.discogs.com/releases/4285286
