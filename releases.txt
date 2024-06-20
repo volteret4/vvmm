@@ -1,252 +1,647 @@
 Listado de releases del artista:
-No Tricks - 2004 - https://api.discogs.com/releases/338158
-Hazyville - 2008 - https://api.discogs.com/masters/638330
-Ghosts Have A Heaven - 2009 - https://api.discogs.com/releases/1750960
-Point And Gaze / Freak For You - 2009 - https://api.discogs.com/releases/1809953
-FACT Mix 63 - 2009 - https://api.discogs.com/releases/10019426
-Swarm / Hubble - 2009 - https://api.discogs.com/masters/248521
-Machine And Voice - 2010 - https://api.discogs.com/masters/265775
-Paint, Straw And Bubbles - 2010 - https://api.discogs.com/masters/369081
-Splazsh - 2010 - https://api.discogs.com/masters/251579
-Untitled - 2011 - https://api.discogs.com/releases/3054864
-Actress Meets Shangaan Electro - 2011 - https://api.discogs.com/releases/3340841
-Boiler Room #74 - 2011 - https://api.discogs.com/releases/10019475
-Harrier ATTK / Gershwin - 2011 - https://api.discogs.com/masters/317196
-Rainy Dub - 2011 - https://api.discogs.com/masters/907952
-Metamorphosis - 2012 - https://api.discogs.com/releases/7673277
-ShockTherapy101 - 2012 - https://api.discogs.com/releases/10019466
-Silver Cloud - 2012 - https://api.discogs.com/masters/516379
-R.I.P - 2012 - https://api.discogs.com/masters/429891
-Grey Over Blue - 2013 - https://api.discogs.com/releases/5148695
-Boiler Room x adidas Originals Mix at Primavera Sound - 2013 - https://api.discogs.com/releases/10019485
-Hazyville » Ghettoville - 2013 - https://api.discogs.com/masters/681757
-Untitled - 2014 - https://api.discogs.com/releases/5257733
-Podcast 327: Actress - 2014 - https://api.discogs.com/releases/5540613
-Xoul - 2014 - https://api.discogs.com/releases/5910304
-Miami Retirement Condo - 2014 - https://api.discogs.com/releases/6856683
-Ghettoville - 2014 - https://api.discogs.com/masters/645573
-Bird Matrix (Remixes) - 2015 - https://api.discogs.com/releases/7673708
-DJ-Kicks - 2015 - https://api.discogs.com/masters/830421
-Cosine - 2016 - https://api.discogs.com/releases/8221432
-Bass and Tone - 2017 - https://api.discogs.com/releases/10017284
-13 - 2017 - https://api.discogs.com/releases/10019409
-treF - 2017 - https://api.discogs.com/releases/10019415
-BOYZ - 2017 - https://api.discogs.com/releases/10019419
-X22RME - 2017 - https://api.discogs.com/releases/10079781
-Audio Track 5 - 2017 - https://api.discogs.com/masters/1801302
-AZD - 2017 - https://api.discogs.com/masters/1164391
-LAGEOS - 2018 - https://api.discogs.com/masters/1372101
-88 - 2020 - https://api.discogs.com/masters/1773069
-Karma & Desire - 2020 - https://api.discogs.com/masters/1826216
-Dummy Corporation - 2022 - https://api.discogs.com/releases/25124326
-Dream - 2022 - https://api.discogs.com/releases/25813222
-Azd Surf - 2022 - https://api.discogs.com/releases/25813399
-Jimmy - 2023 - https://api.discogs.com/releases/27488706
-LXXXVIII - 2023 - https://api.discogs.com/masters/3295480
-Rainlines / Cloud Paradox - 2024 - https://api.discogs.com/releases/30509719
-Statik - 2024 - https://api.discogs.com/masters/3508884
-Versus - 2008 - https://api.discogs.com/releases/1400332
-In This / Lost (Remixes) - 2009 - https://api.discogs.com/releases/1704147
-FACT Mix 81 - 2009 - https://api.discogs.com/releases/1920988
-Voyage Direct Remixes - 2009 - https://api.discogs.com/masters/324652
-FACT Mix 190 - 2010 - https://api.discogs.com/releases/2502903
-14 Tracks: Locked Onto Actress - 2010 - https://api.discogs.com/releases/4253663
-You Don't Wash (DJ-Kicks) (Remixes) - 2010 - https://api.discogs.com/masters/266916
-RA.272 - 2011 - https://api.discogs.com/releases/3050770
-Bleep:100 Tracks/2011 - 2011 - https://api.discogs.com/releases/3458262
-White Light 42 (Part 1 & 2) - 2011 - https://api.discogs.com/releases/3627328
-Tomboy - 2011 - https://api.discogs.com/masters/327050
-Give Up The Ghost (Thriller Houseghost RMX) / Codex (Illum Sphere RMX) / Little By Little (Shed RMX) - 2011 - https://api.discogs.com/masters/361395
-Surfers Hymn - 2011 - https://api.discogs.com/masters/642376
-Spreo Superbus - 2012 - https://api.discogs.com/releases/3458107
-RA.301 - 2012 - https://api.discogs.com/releases/3489447
-Tracks From The Vault Vol. 2 - 2012 - https://api.discogs.com/releases/3583710
-Motif - 2012 - https://api.discogs.com/releases/3685585
-14 Tracks: Duppy Slomp - 2012 - https://api.discogs.com/releases/3883416
-The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
-Goodbye Kiss - 2012 - https://api.discogs.com/masters/413272
-Non Stop - 2012 - https://api.discogs.com/masters/514026
-Extra Playful: Transitions - 2012 - https://api.discogs.com/masters/1842680
-Luftbobler Remixed / Remastered - 2013 - https://api.discogs.com/releases/4517798
-El País Mix - 2013 - https://api.discogs.com/releases/4632821
-SSS Podcast #054 - 2013 - https://api.discogs.com/releases/4997110
-Sound Of Thought 13 - 2013 - https://api.discogs.com/releases/6393100
-Elementz Of Houz Music (Actress Rmxs) - 2013 - https://api.discogs.com/masters/548905
-Giant Robot EP - 2013 - https://api.discogs.com/masters/569674
-Never Sleep - 2013 - https://api.discogs.com/masters/898670
-Play Fights / The Two Halves Remixes - 2014 - https://api.discogs.com/releases/5454272
-Sun Down  - 2014 - https://api.discogs.com/masters/783413
-Bones Without You (Remixed) - 2014 - https://api.discogs.com/masters/1667006
-Food - 2014 - https://api.discogs.com/masters/677335
-Rumble (Actress Sixinium Bootleg Mix) - 2014 - https://api.discogs.com/masters/677474
-Wiley X Actress Remix  - 2015 - https://api.discogs.com/masters/881368
-Slam Dunk #2 - 2016 - https://api.discogs.com/releases/9573021
-Era Extraña + Errata Anex - 2016 - https://api.discogs.com/masters/371049
-Slam Dunk Remixes - 2017 - https://api.discogs.com/releases/9983046
-In Tongues (Deluxe)  - 2018 - https://api.discogs.com/masters/1315375
-Slow Fade (Remixes) - 2018 - https://api.discogs.com/masters/1302724
-Song For Alpha B​-​Sides & Remixes - 2019 - https://api.discogs.com/masters/1708415
-Relevant Parties: Ninja Tune - 2020 - https://api.discogs.com/releases/17268565
-Crawling In My Skin / Circle The Drain - 2020 - https://api.discogs.com/releases/18636250
-To Believe (Remixes) - 2020 - https://api.discogs.com/masters/2021686
-To Believe (Remixes) - 2020 - https://api.discogs.com/masters/1916109
-Play Monotonous EP - 2021 - https://api.discogs.com/releases/18081511
-Spectre: Machines Of Loving Grace Remixes (Six Remixes From Para One's Album) - 2021 - https://api.discogs.com/releases/26428934
-Immediately Remixes - 2021 - https://api.discogs.com/masters/2169088
-Spectre: Shin Sekai - 2021 - https://api.discogs.com/masters/2251849
-Let All The Poisons That Lurk In The Mud Seep Out (Actress Remix) - 2021 - https://api.discogs.com/masters/3041270
-Highgrade - 2022 - https://api.discogs.com/masters/2796800
-CV x Actress - 2022 - https://api.discogs.com/masters/2876677
-Smalltown Supersound Remix Anthology Vol. 1-4 2002-2022 - 2023 - https://api.discogs.com/masters/3057302
-Remix Collection - Desconocido - https://api.discogs.com/releases/23180264
-Kinshasa One Two - 2011 - https://api.discogs.com/masters/385346
-Because I’m Worth It. - 2014 - https://api.discogs.com/masters/694058
-Fabric Presents Overmono - 2021 - https://api.discogs.com/masters/2341945
-Eyeline - 2022 - https://api.discogs.com/masters/2576996
-Un/limited Love - 2023 - https://api.discogs.com/releases/29101348
-Snider / Make My Day - 2006 - https://api.discogs.com/masters/1064536
-M⁷ - 2009 - https://api.discogs.com/releases/1680376
-The Shrew Would Have Cushioned The Blow EP - 2010 - https://api.discogs.com/masters/240007
-Hallo - 2011 - https://api.discogs.com/masters/1161720
-Kinshasa One Two - 2011 - https://api.discogs.com/masters/385346
-Because I’m Worth It. - 2014 - https://api.discogs.com/masters/694058
-Young Paint - 2018 - https://api.discogs.com/masters/1432363
-EP Two - 2019 - https://api.discogs.com/masters/1835683
-Two Re​​-​​Medications Volume II - 2021 - https://api.discogs.com/releases/21885904
-Un/limited Love - 2023 - https://api.discogs.com/releases/29101348
-Mercy - 2023 - https://api.discogs.com/masters/2946592
-1st Birthday - 2003 - https://api.discogs.com/releases/300774
-Werk One - 2004 - https://api.discogs.com/masters/1028302
-M⁷ - 2009 - https://api.discogs.com/releases/1680376
-RA.175 - 2009 - https://api.discogs.com/releases/1965889
-Autonomic Podcast Layer 07 - 2009 - https://api.discogs.com/releases/2817973
-14 Tracks: Head In The Clouds: A Discohouse Dream - 2009 - https://api.discogs.com/releases/3320538
-XXJFG Mix - 2009 - https://api.discogs.com/releases/14926843
-Fabric 50 - 2009 - https://api.discogs.com/masters/365208
-Prime Numbers 3 - 2010 - https://api.discogs.com/releases/2114305
-Groove 124 / CD°33 - 2010 - https://api.discogs.com/releases/2263147
-#010: Wax Treatment Podcast - 2010 - https://api.discogs.com/releases/2280199
-FACT Mix 153 - 2010 - https://api.discogs.com/releases/2299466
-RA.216 - 2010 - https://api.discogs.com/releases/2370887
-FACT Mix 200 - 2010 - https://api.discogs.com/releases/2622327
-RA.238 - 2010 - https://api.discogs.com/releases/2629576
-FACT Mix 139 - 2010 - https://api.discogs.com/releases/3253730
-14 Tracks: Locked Onto Actress - 2010 - https://api.discogs.com/releases/4253663
-Line Up 03 (A Proper Sampler) - 2010 - https://api.discogs.com/releases/14465830
-FabricLive. 50 - 2010 - https://api.discogs.com/masters/246840
-Tapes - 2010 - https://api.discogs.com/masters/739682
-Mystery Plays Mixtape #4 Inch-Time - Best Of 2010 - 2011 - https://api.discogs.com/releases/2702135
-Rough Trade Shops (Counter Culture 10) - 2011 - https://api.discogs.com/releases/2725874
-Unclassified - 2011 - https://api.discogs.com/releases/3135443
-PG Podcast 034 - 2011 - https://api.discogs.com/releases/3282320
-#029: Wax Treatment Podcast - 2011 - https://api.discogs.com/releases/3293196
-People Want Sugar - 2011 - https://api.discogs.com/releases/3369865
-SSS Podcast #005 - 2011 - https://api.discogs.com/releases/4355879
-Rhythm Incursions Mixtape - 2011 - https://api.discogs.com/releases/5337092
-A Colourful Storm 003 - 2011 - https://api.discogs.com/releases/5586791
-Phrenic Mix - 2011 - https://api.discogs.com/releases/6282826
-The Top 100 Tracks Of 2010 - 2011 - https://api.discogs.com/releases/7922690
-Rinse: 16 - 2011 - https://api.discogs.com/masters/1554914
-Smoke Machine Podcast 038 - 2012 - https://api.discogs.com/releases/3394078
-Ep.153 - 2012 - https://api.discogs.com/releases/3395491
-RA.308 - 2012 - https://api.discogs.com/releases/3557335
-Tsugi Bonus Digital : Tsugi 53 - 2012 - https://api.discogs.com/releases/3655585
-E.P.159 - 2012 - https://api.discogs.com/releases/3661812
-KOTJ Radio | Episode 33 - 2012 - https://api.discogs.com/releases/3670869
-Symbiosis 86 - Mixtape For Dreamers - 2012 - https://api.discogs.com/releases/3673620
-Electronic Beats ∙ CD N° 1 ∙ Summer 2012 - 2012 - https://api.discogs.com/releases/3685360
-Honest Jon's Spring Sampler - 2012 - https://api.discogs.com/releases/3705484
-Mnml Ssgs Mx Fnl - 2012 - https://api.discogs.com/releases/3745530
-LWE Podcast 130 - 2012 - https://api.discogs.com/releases/3770005
-Mind The Gap #98 - 2012 - https://api.discogs.com/releases/3874819
-A Guide To Electronic Music - 2012 - https://api.discogs.com/releases/3976048
-FACT Mix 355 - 2012 - https://api.discogs.com/releases/4011438
-Offcast #13: Winter Is Coming - 2012 - https://api.discogs.com/releases/4043628
-Electric Deluxe Podcast 085 - 2012 - https://api.discogs.com/releases/4116420
-The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
-M.U. Podcast 46# - 2012 - https://api.discogs.com/releases/4584072
-Egg Box 003 - 2012 - https://api.discogs.com/releases/5301572
-Other People's Poetry Mix - 2012 - https://api.discogs.com/releases/10234339
-The Suicide Mixtape - 2012 - https://api.discogs.com/releases/12753471
-Shangaan Shake - 2012 - https://api.discogs.com/masters/3114468
-14 Tracks: Digital Smoke - 2013 - https://api.discogs.com/releases/4325049
-Easy Associations II - 2013 - https://api.discogs.com/releases/4328088
-Offcast #15 - 2013 - https://api.discogs.com/releases/4334315
-FACT Mix 388 - 2013 - https://api.discogs.com/releases/4701231
-SSS Podcast #054 - 2013 - https://api.discogs.com/releases/4997110
-Rhythm Connection Hot Mix - 2013 - https://api.discogs.com/releases/5026522
-(En)tropic Al Mix - 2013 - https://api.discogs.com/releases/5132365
-Dead Hommes (Mix By Para One) - 2013 - https://api.discogs.com/releases/5226800
-M.U. Podcast 68# - 2013 - https://api.discogs.com/releases/5238367
-FACT Mix 411 - 2013 - https://api.discogs.com/releases/5338762
-Ghettotech 120 - 2013 - https://api.discogs.com/releases/5343645
-Ninja Tune Publishing & Synch Sampler Vol. 21 - 2013 - https://api.discogs.com/releases/5772601
-Sound Of Thought 13 - 2013 - https://api.discogs.com/releases/6393100
-Ninja Tune Publishing & Synch Sampler Vol. 18 - 2013 - https://api.discogs.com/releases/6747061
-Some Interesting Things - 2013 - https://api.discogs.com/releases/6949443
-Partial Extinction - 2013 - https://api.discogs.com/releases/7946750
-Fact Mix 383 - 2013 - https://api.discogs.com/releases/29428300
-RA.404 - 2014 - https://api.discogs.com/releases/5434084
-Secret Thirteen Mix 109 - 2014 - https://api.discogs.com/releases/5444233
-Mindcast Mixtape 04/2014 - 2014 - https://api.discogs.com/releases/5598470
-14 Tracks: Fugged Out - 2014 - https://api.discogs.com/releases/5604490
-I Have Nothing To Say And I'm Saying It - 2014 - https://api.discogs.com/releases/5638811
-Mindcast Mixtape 06/2014 - 2014 - https://api.discogs.com/releases/5799933
-FACT Mix 447 - 2014 - https://api.discogs.com/releases/5820588
-Truancy Volume 100 - 2014 - https://api.discogs.com/releases/6543551
-Truancy Volume 101 - 2014 - https://api.discogs.com/releases/6552499
-The Top 100 Tracks Of 2014 - 2014 - https://api.discogs.com/releases/6627220
-Noisekölln feat. rkss - 2014 - https://api.discogs.com/releases/7230457
-Stray Landings 0030 // rkss - 2014 - https://api.discogs.com/releases/7230502
-Ninja Tune Publishing & Synch Sampler Vol. 22 - 2014 - https://api.discogs.com/releases/7763780
-Ninja Tune Publishing & Synch Sampler Vol. 25 - 2014 - https://api.discogs.com/releases/7772394
-Ninja Tune Publishing & Synch Sampler Vol. 26 - 2014 - https://api.discogs.com/releases/7939805
-Система 12 / Yura.K - 2014 - https://api.discogs.com/releases/10658978
-RSMIX005 - 2014 - https://api.discogs.com/releases/16633017
-The Cybernetic Comeup Of Summer '14 - 2014 - https://api.discogs.com/releases/25745560
-Fabriclive 78 - 2014 - https://api.discogs.com/masters/854850
-My Body Full Of Stars - 2015 - https://api.discogs.com/releases/6622461
-You Couldn't Pay Me To Remix These - 2015 - https://api.discogs.com/releases/6660021
-Black As Midnight On A Moonless Night - 2015 - https://api.discogs.com/releases/7060999
-Mindcast Mixtape 06/2015 - 2015 - https://api.discogs.com/releases/7184629
-soundscape mix 005 - 2015 - https://api.discogs.com/releases/7824583
-Ninja Tune Publishing & Synch Sampler Vol. 30 - 2015 - https://api.discogs.com/releases/10557853
-Long Road with D.NOTE - 2015 - https://api.discogs.com/releases/12488187
-Paradise Goulash Versions - 2015 - https://api.discogs.com/masters/936928
-Paradise Goulash - 2015 - https://api.discogs.com/masters/905083
-DJ Kicks (The Exclusives Bonus Disc) - 2016 - https://api.discogs.com/releases/11043171
-Groove 166 / CD 75 - 2017 - https://api.discogs.com/releases/10138162
-Mix #5 - 2017 - https://api.discogs.com/releases/10199512
-Musik Zur Zeit CD 137 Spex 374 - 2017 - https://api.discogs.com/releases/10269490
-Musikexpress 0517 - Der Soundtrack Zum Heft - 2017 - https://api.discogs.com/releases/10430907
-100 Tracks 2017 - 2017 - https://api.discogs.com/releases/11340884
-Ninja Tune Publishing & Sync Sampler Vol. 39 - 2017 - https://api.discogs.com/releases/11648356
-Ninja Tune Publishing & Sync Sampler Vol. 38 - 2017 - https://api.discogs.com/releases/11652325
-FACT Mix 593 - 2017 - https://api.discogs.com/releases/12279056
-FACT Mix 605 - 2017 - https://api.discogs.com/releases/12544551
-Positive Vibes 4 Your Negative Ass Mix - 2017 - https://api.discogs.com/releases/21245638
-DJ-Kicks (The Exclusives) - 2017 - https://api.discogs.com/masters/1871766
-HC-PvC - Bipolar - 2018 - https://api.discogs.com/releases/11396052
-Modeselektion Vol. 04 - 2018 - https://api.discogs.com/releases/11924209
-Modeselektion Vol.04 #1 - 2018 - https://api.discogs.com/releases/12069721
-The Wire Tapper 47 - 2018 - https://api.discogs.com/releases/12228847
-To Corpse - 2018 - https://api.discogs.com/releases/15801218
-Fact Mix 664 - 2018 - https://api.discogs.com/releases/29397943
-Air Texture Volume VI - 2018 - https://api.discogs.com/masters/1491468
-Modeselektion Vol. 04 - 2018 - https://api.discogs.com/masters/1376827
-Needle Exchange 282 - 2019 - https://api.discogs.com/releases/13611545
-Revera Mix 001 - 2019 - https://api.discogs.com/releases/13665426
-RA.693 - 2019 - https://api.discogs.com/releases/14190996
-Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
-Fabric Presents Overmono - 2021 - https://api.discogs.com/masters/2341945
-Dekmantel Podcast 378 - 2022 - https://api.discogs.com/releases/29454022
-Fact Mix 909 - 2023 - https://api.discogs.com/releases/29332162
-Fact Mix 376 - 2023 - https://api.discogs.com/releases/29428705
-RA.905 - 2023 - https://api.discogs.com/releases/29437369
-Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
-Still Banging - 2010 - https://api.discogs.com/releases/5221639
-LWE Podcast 137 - 2012 - https://api.discogs.com/releases/3916372
-The Home Truths Mix Tape 03.13 - 2013 - https://api.discogs.com/releases/4415576
-Africa In Your Earbuds #36 - 2013 - https://api.discogs.com/releases/6021968
-Asymmetrical Cryptography - 2013 - https://api.discogs.com/releases/7992697
-Alleys of Your Mind - Jan. 10th, 2014 - 2014 - https://api.discogs.com/releases/11873155
+Trouble Child / Dedicated To You - 1964 - https://api.discogs.com/masters/748096
+Come To Me / Girls Have Feelings Too - 1964 - https://api.discogs.com/masters/1118178
+Is It Me? / Don't Ever Want To Lose Your Love - 1965 - https://api.discogs.com/masters/530494
+If You Don't (Love Me, Tell Me So) - 1965 - https://api.discogs.com/masters/604867
+Yes, I'm Ready / Keep Him - 1965 - https://api.discogs.com/masters/476540
+Yes, I'm Ready - 1965 - https://api.discogs.com/masters/356226
+Sad, Sad Girl - 1965 - https://api.discogs.com/masters/881655
+I Need Love / Bobby, Is My Baby - 1966 - https://api.discogs.com/masters/387322
+Poor Girl In Trouble / Hello Baby - 1966 - https://api.discogs.com/masters/1226726
+You Can Depend On Me / Game Of Love - 1967 - https://api.discogs.com/masters/1210541
+Oh, How It Hurts / Ain't Got Nobody - 1967 - https://api.discogs.com/masters/295803
+I'm No Good For You / Don't Ever Go Away - 1968 - https://api.discogs.com/masters/812221
+I Don't Want To Lose You / Dedicated To The One I Love - 1968 - https://api.discogs.com/masters/993548
+(I Can Feel Your Love) Slipping Away / Half A Love - 1968 - https://api.discogs.com/masters/663438
+Oh How It Hurts - 1968 - https://api.discogs.com/masters/467911
+Take It Easy (With My Heart) / You Never Loved Me (At All) - 1969 - https://api.discogs.com/masters/527399
+You Better Stop It - 1969 - https://api.discogs.com/masters/951510
+When You Look At Me - 1970 - https://api.discogs.com/masters/631510
+If You Knew Him Like I Do / Raindrops Keep Fallin' On My Head - 1970 - https://api.discogs.com/masters/678107
+If You Knew Him Like I Do - 1970 - https://api.discogs.com/masters/1041688
+Just A Little Lovin' / Yes, It's You - 1970 - https://api.discogs.com/masters/595818
+I Can't Help It / Jean (Gene) - 1970 - https://api.discogs.com/masters/1589688
+Pow Pow Song - 1971 - https://api.discogs.com/masters/889040
+Hooked On A Feeling / Breaking Up Is Hard To Do - 1972 - https://api.discogs.com/releases/7474920
+Give Me Your Love - 1972 - https://api.discogs.com/masters/263851
+Give Me Your Love - 1972 - https://api.discogs.com/masters/263852
+Bed And Board - 1972 - https://api.discogs.com/masters/448343
+Woman And Man / Who Will You Hurt Next - 1972 - https://api.discogs.com/masters/1399751
+Child Of Tomorrow  - 1973 - https://api.discogs.com/masters/527396
+Yes, I'm Ready - 1973 - https://api.discogs.com/masters/677528
+Lady Love - 1973 - https://api.discogs.com/masters/263854
+Caught In The Middle (Of A One Sided Love Affair) - 1973 - https://api.discogs.com/masters/890672
+All In Love Is Fair - 1974 - https://api.discogs.com/releases/19331329
+Transition - 1974 - https://api.discogs.com/masters/255592
+The Devil Is Busy - 1974 - https://api.discogs.com/masters/352955
+Half Sister, Half Brother / Our Day Will Come - 1974 - https://api.discogs.com/masters/993539
+World War Three - 1974 - https://api.discogs.com/masters/868635
+From His Woman To You - 1974 - https://api.discogs.com/masters/295923
+Miracle Man - 1975 - https://api.discogs.com/releases/20398420
+Love's The Thing - 1975 - https://api.discogs.com/masters/539245
+Shackin' Up - 1975 - https://api.discogs.com/masters/200830
+We Got Each Other / Make It Last - 1975 - https://api.discogs.com/masters/902366
+Love's The Thing - 1975 - https://api.discogs.com/masters/1428799
+Sheba, Baby, Original Motion Picture Soundtrack - 1975 - https://api.discogs.com/masters/416742
+Love Song / Locked In This Position - 1977 - https://api.discogs.com/releases/1887079
+Locked In This Position - 1977 - https://api.discogs.com/masters/2569289
+Yes I'm Ready / Tossin' And Turnin' - 1977 - https://api.discogs.com/masters/917496
+Darling Come Back Home - 1978 - https://api.discogs.com/masters/240313
+I Am Your Woman, She Is Your Wife - 1978 - https://api.discogs.com/masters/157469
+Take Me Tonight - 1978 - https://api.discogs.com/masters/1226727
+A Piece Of My Life - 1980 - https://api.discogs.com/masters/263182
+I'll Never Love The Same Man Twice / You Did Not Stay Last Night - 1980 - https://api.discogs.com/masters/527397
+Yes I'm Ready / On And Off - 1980 - https://api.discogs.com/masters/294306
+Let Me Give You Love - 1981 - https://api.discogs.com/masters/157470
+She's Got The Papers (But I Got The Man) - 1981 - https://api.discogs.com/masters/723374
+On And Off - 1981 - https://api.discogs.com/masters/687565
+Another Man - 1983 - https://api.discogs.com/masters/115060
+Soul On Sound 027 - 1984 - https://api.discogs.com/releases/5142132
+Don't I Ever Cross Your Mind Sometime - 1984 - https://api.discogs.com/masters/157468
+Tied Up - 1984 - https://api.discogs.com/masters/2177431
+I'll Never Love The Same Way Twice - 1985 - https://api.discogs.com/masters/467552
+Philadelphia's Lady Love (The Best Of Barbara Mason) - 1990 - https://api.discogs.com/releases/6161831
+Another Man / You Can't Have Your Cake And Eat It Too - 1993 - https://api.discogs.com/releases/1168646
+The West End Story - 1993 - https://api.discogs.com/releases/3207377
+Sing About Life / Give Me Your Love - 1994 - https://api.discogs.com/releases/4430718
+Another Man / Joy (I Know It) - 1995 - https://api.discogs.com/releases/210977
+Another Man - 1995 - https://api.discogs.com/masters/522801
+The Very Best Of - 1996 - https://api.discogs.com/releases/8726364
+Yes I’m Ready - 1997 - https://api.discogs.com/releases/23628263
+Yes I'm Ready - Best Of Barbara Mason - 2000 - https://api.discogs.com/releases/8108723
+Club Classics 19 - 2001 - https://api.discogs.com/releases/1495884
+The Best Of The Buddah Years - 2001 - https://api.discogs.com/masters/809550
+SoulFul Truth - 2001 - https://api.discogs.com/masters/1740719
+Another Man / Let's Go Dancin' - 2002 - https://api.discogs.com/masters/2224999
+The Greatest Hits - 2003 - https://api.discogs.com/releases/4093107
+Another Man / Dancin' For Your Love - 2006 - https://api.discogs.com/releases/1721380
+Feeling Blue - 2007 - https://api.discogs.com/releases/13185839
+Yes, I'm Ready - 2011 - https://api.discogs.com/releases/20368351
+World In A Crisis / Give Me Your Love - 2014 - https://api.discogs.com/masters/736410
+You Better Stop It / I Do Love You  - 2016 - https://api.discogs.com/releases/7956821
+You Better Stop It / I Do Love You  - 2016 - https://api.discogs.com/releases/30028237
+The Lost 80s Sessions - 2022 - https://api.discogs.com/releases/22898063
+Oh How It Hurts / Daddy's Home - Desconocido - https://api.discogs.com/releases/4701915
+Smile Now Cry Later / Yes, I'm Ready - Desconocido - https://api.discogs.com/releases/5903872
+Bed And Board / Dream Merchant - Desconocido - https://api.discogs.com/releases/10094080
+Shackin' Up / Yes, I'm Ready - Desconocido - https://api.discogs.com/releases/11642460
+Dry Your Eyes / Oh How It Hurts - Desconocido - https://api.discogs.com/releases/11945435
+Soul is Human Pop - Special D.J. Copy - Desconocido - https://api.discogs.com/releases/23291291
+I Believe And Have Not Seen - Desconocido - https://api.discogs.com/releases/26103550
+Yes I'm Ready / Oh How It Hurts - Desconocido - https://api.discogs.com/masters/1507796
+The Best Of WMOT Records (Watch Out) - 1995 - https://api.discogs.com/releases/2501844
+Galaxxy - Desconocido - https://api.discogs.com/masters/588353
+It's Gonna Take A Miracle - 1965 - https://api.discogs.com/masters/333912
+Yes I'm Ready - 1965 - https://api.discogs.com/masters/1505391
+Yes I'm Ready / Band Of Gold - 1966 - https://api.discogs.com/releases/6471110
+Comfort Me - 1966 - https://api.discogs.com/releases/8381714
+Teenage Souvenir = 十代の想い出 - 1966 - https://api.discogs.com/releases/26191490
+Comfort Me - 1966 - https://api.discogs.com/masters/305348
+Keep Him - 1966 - https://api.discogs.com/masters/931250
+Everybody Needs Love - 1967 - https://api.discogs.com/masters/92908
+Sugar, Let's Shing-A-Ling / Soul Time With Shirley Ellis - 1967 - https://api.discogs.com/masters/327409
+Not Only A Girl Knows - 1967 - https://api.discogs.com/masters/1156011
+Groov'y Baby - 1968 - https://api.discogs.com/releases/3034410
+Yes, I'm Ready - 1968 - https://api.discogs.com/releases/5560426
+The Horse - 1968 - https://api.discogs.com/masters/329199
+(Girls Have Feelings) Just Like The Boys Do - 1969 - https://api.discogs.com/masters/1416766
+Soul Summit - 1969 - https://api.discogs.com/masters/678022
+Is This The Way To Treat A Girl (You Bet It Is) - 1969 - https://api.discogs.com/masters/987645
+Ain't Got The Love Of One Girl (On My Mind) - 1969 - https://api.discogs.com/masters/343038
+Pure Soul - 1970 - https://api.discogs.com/releases/14481349
+Sunday's Child - 1970 - https://api.discogs.com/masters/556790
+Love Is Gonna Rain On You - 1970 - https://api.discogs.com/masters/319888
+Soul Black & Beautiful Vol. II - 1971 - https://api.discogs.com/releases/6350349
+The Horse (Instrumental) / If You Don't - 1972 - https://api.discogs.com/masters/1661067
+Maybe - If I Leave You / Back On The Road Again - 1973 - https://api.discogs.com/masters/1270860
+Oldies But Goodies American Hits 1 - 1973 - https://api.discogs.com/masters/2183821
+I Can't Account For My Actions - 1973 - https://api.discogs.com/masters/2470711
+If You Should Ever - 1974 - https://api.discogs.com/masters/1665773
+Ninety Days (In The House Of Love Correction)	 - 1975 - https://api.discogs.com/releases/24664484
+Castles In The Sky - 1975 - https://api.discogs.com/masters/246791
+Gotta Let Some Sunshine Into My Life - 1975 - https://api.discogs.com/masters/763619
+Sheba, Baby - 1975 - https://api.discogs.com/masters/416742
+Strange - 1975 - https://api.discogs.com/masters/558062
+Toby Kang - 1976 - https://api.discogs.com/releases/1642970
+New York Disco Flash - Disco Special Vol.2 - 1976 - https://api.discogs.com/releases/5998403
+Yes, I'm Ready / Smile Me A Song - 1976 - https://api.discogs.com/masters/2073883
+Tom Sullivan - 1976 - https://api.discogs.com/masters/1601921
+1st Prize - 1977 - https://api.discogs.com/releases/13590859
+Moonlight Madness - 1979 - https://api.discogs.com/masters/155722
+Yes, I'm Ready - 1979 - https://api.discogs.com/masters/155724
+Maureen McGovern - 1979 - https://api.discogs.com/masters/552697
+Solid Gold Hits '80 - 1980 - https://api.discogs.com/releases/7422474
+Hitline Volume 2 - 1980 - https://api.discogs.com/masters/1031003
+Hitline - 1980 - https://api.discogs.com/masters/1174912
+Soita Mulle - 1980 - https://api.discogs.com/masters/475107
+He's A Rebel - 1981 - https://api.discogs.com/releases/2784439
+Galaxxy - 1982 - https://api.discogs.com/masters/588353
+Girls Of The 60's - 1983 - https://api.discogs.com/releases/5841979
+If Dreams Were Real - 1983 - https://api.discogs.com/masters/677945
+Music Masters (Volume 1) - 1984 - https://api.discogs.com/releases/173699
+Friday Night Forever - 1984 - https://api.discogs.com/releases/11006879
+On And Off / Go Version - 1984 - https://api.discogs.com/masters/939418
+Nostalgia - 1985 - https://api.discogs.com/masters/1544737
+Is It Alright - 1985 - https://api.discogs.com/masters/600310
+Yes, I'm Ready - 1986 - https://api.discogs.com/masters/1393245
+Everybody Needs Love /  If I Were Your Woman  - 1986 - https://api.discogs.com/masters/1627053
+Yes I'm Ready / Runaround Sue - 1986 - https://api.discogs.com/masters/2563016
+Yes I'm Ready - 1987 - https://api.discogs.com/releases/1517170
+Soul Shots Vol. 5 (La-La Means I Love You - Soul Ballads) - 1987 - https://api.discogs.com/masters/1824218
+Classic Rock 1965: Shakin' All Over - 1989 - https://api.discogs.com/masters/775313
+Motorcity Love Songs - 1990 - https://api.discogs.com/releases/2850790
+Greatest Hits = 精選集 - 1990 - https://api.discogs.com/masters/300842
+Are You Ready To Fall In Love! - 1991 - https://api.discogs.com/releases/7401454
+AM Gold - Mid-'60s Classics - 1992 - https://api.discogs.com/masters/2458726
+Yes, I'm Ready - 1993 - https://api.discogs.com/releases/8838257
+Gettin' It Off • Westbound Funk - 1993 - https://api.discogs.com/masters/121705
+Slow Jams: The 60s Volume One - 1993 - https://api.discogs.com/masters/2617313
+Castles In The Sky / The Legendary Zing Album - 1994 - https://api.discogs.com/releases/11131973
+The Casablanca Records Story - 1994 - https://api.discogs.com/masters/239695
+I Got A Love - 1994 - https://api.discogs.com/masters/39516
+The Main Ingredient - 1994 - https://api.discogs.com/masters/39522
+The West End Story Volume 4 - 1994 - https://api.discogs.com/masters/137497
+Αγάπησέ Με - 1995 - https://api.discogs.com/masters/446793
+Love On My Mind - 1996 - https://api.discogs.com/releases/18032494
+Casablanca Records Greatest Hits - 1996 - https://api.discogs.com/masters/410919
+Beg Scream & Shout! The Big Ol' Box Of '60s Soul - 1997 - https://api.discogs.com/releases/766329
+25th Anniversary Collection - 1999 - https://api.discogs.com/releases/908268
+People Get Ready - 24 Soul Hits - 2001 - https://api.discogs.com/releases/15999062
+The All Time Greatest Duets Of The Millenium - 2001 - https://api.discogs.com/masters/1450369
+MGM Soul Cinema, Volume 1 - 2002 - https://api.discogs.com/releases/1561512
+Autofocus - Original Motion Picture Soundtrack - 2002 - https://api.discogs.com/masters/749675
+Soul Spectacular! - The Greatest Soul Hits Of All Time - 2002 - https://api.discogs.com/masters/1434508
+Diplomatic Immunity - 2003 - https://api.discogs.com/masters/144939
+Duets (The Final Chapter) - 2005 - https://api.discogs.com/masters/58056
+From The Soul - 2005 - https://api.discogs.com/masters/2102491
+The Soul Story - 2006 - https://api.discogs.com/releases/2897233
+Everybody Needs Love + Feelin' Bluesy - 2006 - https://api.discogs.com/releases/4273269
+Mutha Funkin Sonofa Bitch (The Truth Behind The Philly Legend) - 2006 - https://api.discogs.com/masters/1332878
+Sister Funk 2 (The Sound Of The Unknown Soul Sisters) - 2007 - https://api.discogs.com/masters/85979
+03 - Groove 80 - 2008 - https://api.discogs.com/releases/1482311
+Where The Girls Are Volume 7 - 2009 - https://api.discogs.com/releases/4008712
+It's Gonna Take A Miracle: The Complete MGM Recordings - 2010 - https://api.discogs.com/releases/7514105
+Cooler Than Ice: Arctic Records And The Rise Of Philly Soul - 2012 - https://api.discogs.com/releases/4170869
+The Greatest Ever... Divas - 2013 - https://api.discogs.com/releases/22135165
+Prisoner Of Conscious - 2013 - https://api.discogs.com/masters/554571
+Ready To Die - 2013 - https://api.discogs.com/masters/57970
+The Sock Hop Collection: Save The Last Dance For Me - 2014 - https://api.discogs.com/releases/26227133
+Voices - 2014 - https://api.discogs.com/masters/656055
+The Documentary 2 - 2015 - https://api.discogs.com/masters/897094
+Memphis... Yes, I'm Ready - 2017 - https://api.discogs.com/masters/1267972
+We Got Next II -The Revolution Is Here! - 2018 - https://api.discogs.com/releases/19557979
+Studio One Lovers - 2018 - https://api.discogs.com/masters/109543
+Shaolin Soul (Episode 4) - 2018 - https://api.discogs.com/masters/1429491
+Dr. Packer Reworks - 2019 - https://api.discogs.com/releases/14119537
+You Never Loved Me At All - 2020 - https://api.discogs.com/releases/16214847
+A Written Testimony - 2020 - https://api.discogs.com/masters/1870362
+Change Me - 2021 - https://api.discogs.com/releases/20403862
+Are You Ready - Desconocido - https://api.discogs.com/releases/7144704
+Unbelievable - Desconocido - https://api.discogs.com/releases/7518463
+Nobody Wants You (When You're Down & Out) - Desconocido - https://api.discogs.com/releases/14544589
+Donny Brooks (Soul Finger) Presents 20 Great Oldies - 1967 - https://api.discogs.com/masters/3009557
+Groov'y Baby - 1968 - https://api.discogs.com/releases/3034410
+WQAM 560 The Roaring 30 - 1968 - https://api.discogs.com/releases/3939311
+Top Pops #271 - 1968 - https://api.discogs.com/releases/6319631
+Old 'N Golden - 1968 - https://api.discogs.com/masters/2742797
+21 Very Important Platters Vol. #1 - 1968 - https://api.discogs.com/masters/1084588
+68/WRKO 30 Now Goldens - 1968 - https://api.discogs.com/masters/702163
+Music For Young Lovers - Volume 3 - 1968 - https://api.discogs.com/masters/1278698
+24 Solid Hits - 1968 - https://api.discogs.com/masters/856414
+Soul Over The City - 1968 - https://api.discogs.com/masters/614873
+Big 10 Winter Gold - 1969 - https://api.discogs.com/releases/6780540
+93/KHJ: "Sound Of The Sixties" - 1970 - https://api.discogs.com/releases/604698
+The Two Sides Of Donny Brooks - 1970 - https://api.discogs.com/releases/3010064
+Wape Solid Gold Volume 1 - 1971 - https://api.discogs.com/releases/7183082
+KCBQ Super Hits Vol. 2 - 1972 - https://api.discogs.com/releases/5216646
+72 Original Hits - 1972 - https://api.discogs.com/releases/5840466
+20 Electric Hits - 1972 - https://api.discogs.com/releases/23577218
+Super Bad - 1972 - https://api.discogs.com/masters/778818
+20 More Monster Hits - 1972 - https://api.discogs.com/masters/1637957
+Bright Side Of Music - 1972 - https://api.discogs.com/masters/479001
+Super Sellers - 1973 - https://api.discogs.com/releases/2523777
+The American Dream - The London American Legend - 1973 - https://api.discogs.com/releases/3882400
+Dance Party No 7 - 1973 - https://api.discogs.com/releases/9884766
+Super Pop Rock And Soul, Vols. 3 & 4 - 1973 - https://api.discogs.com/releases/25297903
+American Top 40 - 1973 - https://api.discogs.com/releases/25816681
+Super Pop Rock And Soul - 1973 - https://api.discogs.com/masters/1581670
+Oldies But Goodies American Hits 1 - 1973 - https://api.discogs.com/masters/2183821
+Original Motion Picture Soundtrack: Gordon's War - 1973 - https://api.discogs.com/masters/324317
+Soul Train Hits That Made It Happen - 1973 - https://api.discogs.com/masters/366836
+Super Bad - 1973 - https://api.discogs.com/masters/407010
+Soul Collection - 1974 - https://api.discogs.com/releases/22172410
+Super Soul No.6 - 1975 - https://api.discogs.com/releases/4365033
+For Ladies Only - 1975 - https://api.discogs.com/releases/10607974
+For Ladies Only - 1975 - https://api.discogs.com/releases/28010214
+Souled Out - 1975 - https://api.discogs.com/masters/345876
+In Concert (18 Original Hits 18 Original Stars) - 1975 - https://api.discogs.com/masters/1362871
+Solid Gold - 1976 - https://api.discogs.com/releases/3193502
+New York Disco Flash - Disco Special Vol.2 - 1976 - https://api.discogs.com/releases/5998403
+International Power - As 14 Locomotivas - 1976 - https://api.discogs.com/releases/26369393
+35 Golden Hits - 1976 - https://api.discogs.com/masters/3091806
+Music Power - 1977 - https://api.discogs.com/releases/2896444
+Good Old Rock & Roll - 1978 - https://api.discogs.com/masters/715954
+Super Hits: 1965 - 1979 - https://api.discogs.com/releases/15788296
+Music Like Studio 54 - 1979 - https://api.discogs.com/masters/183466
+Discotheque Aquarius - 1979 - https://api.discogs.com/masters/962432
+Memories - 1980 - https://api.discogs.com/releases/7567592
+Music To Park By "20 Romantic Rock & Roll Hits" - 1980 - https://api.discogs.com/masters/1859664
+Momentos... - 1980 - https://api.discogs.com/masters/631514
+Juke Box Revival - Vol. 15 - Año 65 - 1981 - https://api.discogs.com/releases/8832313
+Juke Box Revival - Vol. 15 - Año 65 - 1981 - https://api.discogs.com/releases/29116045
+Cruisin' 1965 - 1981 - https://api.discogs.com/masters/699262
+Radio Active Hits Volume 1 - 1982 - https://api.discogs.com/masters/1462836
+Girls Of The 60's - 1983 - https://api.discogs.com/releases/5841979
+Sweet Soul Music - 1983 - https://api.discogs.com/releases/15933033
+Music Masters (Volume 1) - 1984 - https://api.discogs.com/releases/173699
+Mixtures Volume 2 (Non Stop Mega Master Mixes) - 1984 - https://api.discogs.com/releases/2287678
+Break Dance - 1984 - https://api.discogs.com/releases/5905202
+Friday Night Forever - 1984 - https://api.discogs.com/releases/11006879
+Supermezcla 84 - 1984 - https://api.discogs.com/releases/11846771
+Street Sounds Edition 8 - 1984 - https://api.discogs.com/masters/631512
+Breakdance Special - 1984 - https://api.discogs.com/masters/63717
+Romantic Hits For Lovers (Volume 2) - 1984 - https://api.discogs.com/masters/2515711
+The Heart  Of Rock & Roll - 1985 - https://api.discogs.com/releases/3919190
+The Best Of Rock & Roll Vol. 11 - 1985 - https://api.discogs.com/releases/6088760
+The Kings Of Soul - 1985 - https://api.discogs.com/releases/12492465
+The Kings Of Soul - 1985 - https://api.discogs.com/masters/3050825
+Motor City Sound - 1985 - https://api.discogs.com/masters/2617304
+20 Greatest Hits, 1964: Original Artists - 1986 - https://api.discogs.com/masters/1547788
+Cruisin' 1965 - Robert W. Morgan, KHJ, Los Angeles - 1986 - https://api.discogs.com/masters/715952
+Streetwave - The First Three Years (Vol. 1) - 1986 - https://api.discogs.com/masters/53025
+Hey Love... (The Classic Sounds Of Sexy Soul) - 1986 - https://api.discogs.com/masters/369122
+Just For You - 1987 - https://api.discogs.com/releases/7816663
+Good Old Rock & Roll Volume 1 - 1987 - https://api.discogs.com/releases/15548228
+More Dancing Dirty Vol. I - 1987 - https://api.discogs.com/releases/15560345
+Good Old Rock & Roll • Vol 1 - 1987 - https://api.discogs.com/releases/28389550
+Summer Love - 1987 - https://api.discogs.com/masters/1103900
+Anthems Volume 3 - 1987 - https://api.discogs.com/masters/124045
+Out Of The Blue Vol.1 - 1987 - https://api.discogs.com/masters/1023223
+West End Story - 1987 - https://api.discogs.com/masters/144286
+Soul Shots Vol. 5 (La-La Means I Love You - Soul Ballads) - 1987 - https://api.discogs.com/masters/1824218
+Midnight 101 Super Soul Hits - 1988 - https://api.discogs.com/releases/9111753
+Girls, Girls, Girls - 1988 - https://api.discogs.com/releases/10488195
+Cruising' 1965 - 1988 - https://api.discogs.com/releases/11520146
+Girl Talk - 1988 - https://api.discogs.com/masters/631513
+Juke Box Revival - Vol. 3 - Año 65 - 1989 - https://api.discogs.com/releases/15153206
+The Best Of Jukebox Rock 1965 Vol. II - 1989 - https://api.discogs.com/releases/19871869
+Juke Box Revival - Vol. 3 - Año 65 - 1989 - https://api.discogs.com/releases/29116192
+Tonight's The Night - 1989 - https://api.discogs.com/masters/1815588
+Dream Merchant - 1989 - https://api.discogs.com/masters/583222
+Classic Rock 1965: Shakin' All Over - 1989 - https://api.discogs.com/masters/775313
+Juke-Box Soul Hits Vol.2 - 1989 - https://api.discogs.com/masters/1370276
+Groove Zone Sector Two - 1989 - https://api.discogs.com/masters/603610
+Revival Oldies Volumen 15 - 1990 - https://api.discogs.com/releases/6932078
+Soul Years 1972 - 1990 - https://api.discogs.com/releases/11601401
+Juke-Box Soul Hits #3 - 1990 - https://api.discogs.com/masters/1725004
+Metropolitan (Original Soundtrack Recording) - 1991 - https://api.discogs.com/releases/3542042
+Soul Of The Sixties Week #7 - 1991 - https://api.discogs.com/releases/6620856
+Jukebox Hits Of 1965 Vol. 2 - 1991 - https://api.discogs.com/releases/8271177
+Broken Heart - Ballads For Lovers - 1992 - https://api.discogs.com/releases/4265866
+The World Of The 50s & 60s – Put Your Head On My Shoulder - 1992 - https://api.discogs.com/releases/5432778
+The World Of Soul. 25 Soul Survivors (Sex Machine) - 1992 - https://api.discogs.com/releases/6519145
+Aria / Carmeltree Classified Musical Advertisement - 1992 - https://api.discogs.com/releases/7747265
+Ebb Tide Vol. 2 - 1992 - https://api.discogs.com/releases/11730288
+The World Of Soul. 25 Soul Survivors (Hold On, I'm Comin') - 1992 - https://api.discogs.com/releases/12349692
+The World Of Soul. 100 Soul Survivors  - 1992 - https://api.discogs.com/releases/16583229
+Wishin' & Hopin' Ballads For Lovers - 1992 - https://api.discogs.com/releases/20782603
+Art Laboe's 60 Killer Oldies - 1992 - https://api.discogs.com/releases/25447969
+AM Gold - Mid-'60s Classics - 1992 - https://api.discogs.com/masters/2458726
+The West End Story Vol. 2 - 1992 - https://api.discogs.com/masters/161440
+70 Ounces Of Solid Gold - 1992 - https://api.discogs.com/masters/1039610
+New York Dance Classics (Volume Two) - 1992 - https://api.discogs.com/masters/905984
+The World Of Soul. 25 Soul Survivors (Papa's Got A Brand New Bag) - 1992 - https://api.discogs.com/masters/3183900
+The West End Story (Volumes 1+2) - 1993 - https://api.discogs.com/releases/1120548
+Dedicated To You Vol 2 - 1993 - https://api.discogs.com/releases/10462609
+The Buddah Box - 1993 - https://api.discogs.com/masters/1226888
+Lowrider Oldies Volume One - 1993 - https://api.discogs.com/masters/1742067
+Slow Jams: The 60s Volume One - 1993 - https://api.discogs.com/masters/2617313
+Super Dance Plus 6 - 1994 - https://api.discogs.com/releases/423764
+Essential Funk Classics Volume 1 - 1994 - https://api.discogs.com/releases/803271
+Soul Tracks - 1994 - https://api.discogs.com/releases/7702920
+Mo' Mellow Mo' Sexy More Soul - 1994 - https://api.discogs.com/releases/16023866
+Free Soul Essence - 1994 - https://api.discogs.com/releases/21407020
+Slow Jams - The Timeless Collection Volume 2 - 1994 - https://api.discogs.com/masters/1192470
+Lo Mejor Del Soul 3 - 1994 - https://api.discogs.com/masters/1412680
+The West End Story Volume 4 - 1994 - https://api.discogs.com/masters/137497
+Old School Jams - 1994 - https://api.discogs.com/masters/3389854
+The West End Story Volume 3+4 - 1995 - https://api.discogs.com/releases/510035
+Disco-Fox Vol. 2 - 1995 - https://api.discogs.com/releases/640905
+Gay Classics Vol. V - Heading Out - 1995 - https://api.discogs.com/releases/683720
+Funky Dance Grooves Vol. 1 - 1995 - https://api.discogs.com/releases/913403
+Star-Funk Volume 27 - 1995 - https://api.discogs.com/releases/1743934
+Art Laboe's 60 Killer Oldies - 1995 - https://api.discogs.com/releases/2153471
+The Best Of WMOT Records (Watch Out) - 1995 - https://api.discogs.com/releases/2501844
+Northern Soul - On The Philadelphia Beat Vol. 1 - 1995 - https://api.discogs.com/releases/3436004
+Cheatin': From A Woman's Point Of View - 1995 - https://api.discogs.com/releases/7617050
+The Jamie/Guyden Story - 1995 - https://api.discogs.com/releases/11060696
+Soul Attitude  20 Grands Succès Versions Originales - 1995 - https://api.discogs.com/releases/15527248
+The Soul Box (Disc Three) - 1995 - https://api.discogs.com/releases/16027930
+Charme I = Pop Star - 1995 - https://api.discogs.com/releases/21254041
+Mega Disco - 1995 - https://api.discogs.com/masters/1443987
+Can't Get This No More! Vol. 1 - 1995 - https://api.discogs.com/masters/3134634
+Greatest Love - 1995 - https://api.discogs.com/masters/802594
+The Soul Box - 1995 - https://api.discogs.com/masters/1641778
+Can't Get This No More!  Vol. 1 & 2 - 1996 - https://api.discogs.com/releases/180404
+Soul Classics - 1996 - https://api.discogs.com/releases/966192
+Classic Soul - 50 Classic Soul Hits - 1996 - https://api.discogs.com/releases/990018
+Star-Funk Volume 28 - 1996 - https://api.discogs.com/releases/1868899
+Hits Of The 70s & 80s - 1996 - https://api.discogs.com/releases/5753831
+Only Love 1965-1969 - 1996 - https://api.discogs.com/releases/9578200
+Sweet Soul Classics - 1996 - https://api.discogs.com/releases/10562745
+Disco Dance Dynamite Volume 2 - 1996 - https://api.discogs.com/releases/10793631
+Classic Soul - Volume One - 1996 - https://api.discogs.com/releases/11621871
+I Put A Spell On You - 16 Blues Classics - 1996 - https://api.discogs.com/releases/12167397
+Hits Of The '80s Volume 3 - 1996 - https://api.discogs.com/releases/14396935
+Disco Dance Dynamite - 1996 - https://api.discogs.com/releases/14488138
+Free Soul Wind - 1996 - https://api.discogs.com/releases/15859910
+Street Jams Back 2 The Old Skool - 1996 - https://api.discogs.com/releases/21162736
+Classics R&B Collection Vol.3 - 1996 - https://api.discogs.com/releases/23936492
+Classic Mellow Mastercuts Volume 4 - 1996 - https://api.discogs.com/masters/184871
+The Best Of Society Hill Records - 1996 - https://api.discogs.com/masters/742729
+Beg Scream & Shout! The Big Ol' Box Of '60s Soul - 1997 - https://api.discogs.com/releases/766329
+Tha Mastas "The Classics" Vol. 1 - 1997 - https://api.discogs.com/releases/1046812
+Unidisc Sampler - 1997 - https://api.discogs.com/releases/2716009
+Pure Soul 3 - 1997 - https://api.discogs.com/releases/3065648
+Old School Jams - The History Lesson - 1997 - https://api.discogs.com/releases/3420309
+Gay Dancing - 1997 - https://api.discogs.com/releases/3878014
+Felix Hernandez Presents Rhythm Revue - 1997 - https://api.discogs.com/releases/6704816
+Sweet Soul Music (Volume 3) - 1997 - https://api.discogs.com/releases/8315657
+Soul Collection - 1997 - https://api.discogs.com/releases/10313057
+Lifestyles Of The Slow & Low Vol. 2 - 1997 - https://api.discogs.com/releases/11857762
+Mega Groove - 1997 - https://api.discogs.com/releases/13090688
+Slow Jams From Back In Da Day, Volume 2 - 1997 - https://api.discogs.com/releases/13549695
+To Every Story: (I'm A) Lonely Girl - 1997 - https://api.discogs.com/releases/16130541
+Soul Greats - 1997 - https://api.discogs.com/releases/17165818
+Hits Of The 70's - 1997 - https://api.discogs.com/releases/19590394
+Lifestyles of the Slow & Low vol. 2 - 1997 - https://api.discogs.com/releases/29962939
+East Side Story Vol. 12 - 1997 - https://api.discogs.com/masters/1198724
+East Side Story Vol. 10 - 1997 - https://api.discogs.com/masters/1402655
+Supreme Soul Volume 2 (50 Modern Soul Gems) - 1998 - https://api.discogs.com/releases/3680865
+Hits Of The 80s Volume 2 - 1998 - https://api.discogs.com/releases/3900921
+Supreme Soul Volume 3 (50 Modern Soul Gems) - 1998 - https://api.discogs.com/releases/5675485
+Hits Of the 70's - 1998 - https://api.discogs.com/releases/9289767
+Soulful Divas - Bold Soul Sisters - 1998 - https://api.discogs.com/releases/10479176
+Turn Back The Hands Of Time (Vintage Soul) - 1998 - https://api.discogs.com/releases/24401762
+60's Soul Classics - 1998 - https://api.discogs.com/releases/29386048
+Super Box Of Soul - 1998 - https://api.discogs.com/releases/29646988
+The Girl Group Sound Volume 7 - 1998 - https://api.discogs.com/masters/2655422
+Underground Oldies Vol. 3 - 1999 - https://api.discogs.com/releases/8531724
+Underground Oldies Vol. 5 - 1999 - https://api.discogs.com/releases/8531999
+Underground Oldies Vol. 6 - 1999 - https://api.discogs.com/releases/8533378
+Top Ten Hits Of The 80s - 1999 - https://api.discogs.com/releases/11601066
+Sweet Soul Music - 1999 - https://api.discogs.com/releases/19578229
+Body + Soul - Tender Moments - 1999 - https://api.discogs.com/masters/1839497
+Maximum Dance 2 12" - 2000 - https://api.discogs.com/releases/457070
+80's Love Anthems - Mastercuts Anthems - 2000 - https://api.discogs.com/releases/3191203
+Underground Oldies Vol. 7 - 2000 - https://api.discogs.com/releases/8428702
+Underground Oldies Vol. 8 - 2000 - https://api.discogs.com/releases/8532513
+Love Collection - Flash Back ao vivo - 2000 - https://api.discogs.com/releases/15805481
+Blast Presents Diggin' From The Vaults Disco Spectrum Non-Stop Mix By Maki The Magic - 2000 - https://api.discogs.com/releases/16872369
+The Jukebox Collection - 2000 - https://api.discogs.com/releases/29279821
+Jesus' Son (Original Motion Picture Soundtrack) - 2000 - https://api.discogs.com/masters/1422117
+People Get Ready - 24 Soul Hits - 2001 - https://api.discogs.com/releases/15999062
+East Side Story: Limited Edition CD Box Set Volumes 1-12 - 2001 - https://api.discogs.com/releases/29386414
+Lowrider Oldies Volume 9 - 2001 - https://api.discogs.com/masters/3343963
+Funky Collector - Volume Nº14 - 2001 - https://api.discogs.com/masters/952221
+MGM Soul Cinema, Volume 1 - 2002 - https://api.discogs.com/releases/1561512
+Original Divas - 2002 - https://api.discogs.com/releases/4935535
+Body + Soul Of The ‘60s - 2002 - https://api.discogs.com/releases/14701520
+Autofocus - Original Motion Picture Soundtrack - 2002 - https://api.discogs.com/masters/749675
+The Spirit Of Philadelphia - 2002 - https://api.discogs.com/masters/276102
+Up On Soul Train - 2002 - https://api.discogs.com/masters/3329671
+Dance For Life - 2002 - https://api.discogs.com/masters/631516
+Soul Spectacular! - The Greatest Soul Hits Of All Time - 2002 - https://api.discogs.com/masters/1434508
+Lifestyles Of The Slow & Low - Anthology Chapter 2 - 2003 - https://api.discogs.com/releases/8304714
+Girls! Girls! Girls! 25 All-Time Classics of the Girl Group Sound - 2003 - https://api.discogs.com/releases/8316908
+Real 70's R&B - 2003 - https://api.discogs.com/releases/10930992
+Lowriders Oldies Box Set · Volumes 7-9 - 2003 - https://api.discogs.com/releases/17819992
+Rhythm, Love And Soul - 2003 - https://api.discogs.com/masters/2576957
+Rhythm, Love, And Soul Live - 2003 - https://api.discogs.com/masters/1892925
+Rhythm Love And Soul - 2003 - https://api.discogs.com/masters/1961710
+Soul Highway - 2003 - https://api.discogs.com/masters/2523619
+Queer For The Ear - Vol 1 (Extreme Make-Overs For Disco Dance Classics) - 2004 - https://api.discogs.com/releases/540190
+120% Soul - 2004 - https://api.discogs.com/releases/645804
+Disco - The Climax - 2004 - https://api.discogs.com/releases/2144094
+Soul Train - 2004 - https://api.discogs.com/releases/2615803
+Lucky Charms - Selected By Dj Kaori - 2004 - https://api.discogs.com/releases/3629048
+Old School Jams - 2004 - https://api.discogs.com/releases/4405746
+Rock & Roll - The First 50 Years - The Mid-'60s - 25 Top 10 Hits - 2004 - https://api.discogs.com/releases/6234344
+Soul Train - 2004 - https://api.discogs.com/releases/20157880
+Soul Sensations - 24 Essential Soul Classics - 2004 - https://api.discogs.com/releases/28352401
+Slow Jams 3 - 2005 - https://api.discogs.com/releases/7684723
+The Best Of Love - 2005 - https://api.discogs.com/releases/7888930
+Philly Steps - 2005 - https://api.discogs.com/releases/8314308
+Soul Selections - 2005 - https://api.discogs.com/releases/9468277
+Soul Explosion  - 2005 - https://api.discogs.com/releases/11941378
+100 Mp3 Hits Disco - 2005 - https://api.discogs.com/releases/11963630
+A Million Dollars Worth Of Soul Vol. 2 - 2005 - https://api.discogs.com/releases/13273120
+Catch A Falling Star Vol. 2 - 2005 - https://api.discogs.com/releases/14704714
+Old School Oldies 2 - 2005 - https://api.discogs.com/releases/15418504
+Presents eVolution - 2005 - https://api.discogs.com/releases/15906061
+Soul Celebration, Volume 5: Rhythm, Love And Soul - 2005 - https://api.discogs.com/releases/27552390
+Monica's Feelin' Bitchy (2005 WFMU Marathon Premium) - 2005 - https://api.discogs.com/releases/29461171
+Strange Funky Games And Things - Solid Rare Grooves And Smoking Seventies Soul - 2005 - https://api.discogs.com/masters/157701
+The Wants List 2 (Another 18 Soulful Rare Grooves) - 2005 - https://api.discogs.com/masters/81684
+Ce Soir On Danse! - 2006 - https://api.discogs.com/releases/794987
+Soul Sisters V - 2006 - https://api.discogs.com/releases/2175694
+The Soul Story - 2006 - https://api.discogs.com/releases/2897233
+A Soulful Tale of Two Cities - 2006 - https://api.discogs.com/releases/6739246
+The Girls' Sound - 2006 - https://api.discogs.com/releases/6995978
+We Men Of Talent - 2006 - https://api.discogs.com/releases/10321270
+Rites Of Rhythm & Blues - Rhythm & Blues Foundation 2006 Pioneer Awards - 2006 - https://api.discogs.com/releases/14121309
+Blaxploitation - 2007 - https://api.discogs.com/releases/987547
+A Yankee In The Court Of Northern Soul - 2007 - https://api.discogs.com/releases/1098072
+Nighttime Lovers Volume 5 - 2007 - https://api.discogs.com/releases/1250905
+VSV - Mixed Live By Volcov In Verona 2007 - 2007 - https://api.discogs.com/releases/1954892
+Soul Sisters IV - 2007 - https://api.discogs.com/releases/2151229
+Killer Soul Volume 11 - 2007 - https://api.discogs.com/releases/6273541
+Smooth Sounds: Sunday Morning - 2007 - https://api.discogs.com/releases/13058910
+Harlem Shuffle - 2007 - https://api.discogs.com/releases/13642225
+Soul Legends CD5 - 2007 - https://api.discogs.com/releases/15139468
+Soul Legends CD8 - 2007 - https://api.discogs.com/releases/15140691
+Unicas - 2007 - https://api.discogs.com/releases/16209289
+Soul Sisters IV - 2007 - https://api.discogs.com/releases/28448068
+Soul Legends (Original Artists) - 2007 - https://api.discogs.com/releases/28865665
+The West End New York City Classics Mix - 2007 - https://api.discogs.com/masters/2456704
+Sister Funk 2 (The Sound Of The Unknown Soul Sisters) - 2007 - https://api.discogs.com/masters/85979
+03 - Groove 80 - 2008 - https://api.discogs.com/releases/1482311
+Philadelphia Soul Rarities - 2008 - https://api.discogs.com/releases/4018520
+Rap History 1983 - 2008 - https://api.discogs.com/releases/9182468
+Forever Lentos - 2008 - https://api.discogs.com/releases/11973681
+Simply Disco - 2008 - https://api.discogs.com/releases/12110870
+Prom Night: So Much In Love - 2008 - https://api.discogs.com/releases/14150211
+Roll To Dance - 2008 - https://api.discogs.com/releases/15180791
+Disco Giants 6 - 2009 - https://api.discogs.com/releases/1950368
+Where The Girls Are Volume 7 - 2009 - https://api.discogs.com/releases/4008712
+Philadelphia Soul Rarities Vol. 2 - 2009 - https://api.discogs.com/releases/4019277
+Check Da Sample - 2009 - https://api.discogs.com/releases/7949835
+Golden Eighties The Rare Funky Selection Volume 6 - 2009 - https://api.discogs.com/releases/9375446
+Hot Classics Jam #02 - 2009 - https://api.discogs.com/releases/9755593
+The Masters: Rare Groove - 2009 - https://api.discogs.com/masters/631515
+Keep On Dancin': A Tribute To The Godfather Of Disco Mel Cheren - 2010 - https://api.discogs.com/releases/2190096
+A Summer In 3/4 Time - 2010 - https://api.discogs.com/releases/2378714
+Field Recording 012 - 2010 - https://api.discogs.com/releases/2502645
+Actual Pain - 2010 - https://api.discogs.com/releases/3021015
+Pure... Disco/Funk - 2010 - https://api.discogs.com/releases/4581822
+Disco Για Πάντα - 2010 - https://api.discogs.com/releases/9880794
+Simply The Girls (4 CDs Of Essential Songs) - 2010 - https://api.discogs.com/releases/11264985
+Sweet Soul Rolas Vol. 4 - 2010 - https://api.discogs.com/releases/13657745
+Les 100 Plus Grands Titres Disco - 2010 - https://api.discogs.com/releases/14100007
+As Melhores Do Século - 2010 - https://api.discogs.com/releases/16629582
+Jumpin' (Original Full Length Classics From The Disco Underground) - 2010 - https://api.discogs.com/masters/1027077
+G.I. Disco (The History Of The Cold War's Hottest 80's Club Music In West Germany) - 2010 - https://api.discogs.com/masters/323731
+Pure... Soul - 2010 - https://api.discogs.com/masters/3331762
+The Spirit Of Philadelphia 3 - 2011 - https://api.discogs.com/releases/2828268
+Grand 12-Inches 8 - 2011 - https://api.discogs.com/releases/2926373
+Planter's Club V - 2011 - https://api.discogs.com/releases/3228119
+Nighttime Lovers Collectors Box Volume 1 – 10 - 2011 - https://api.discogs.com/releases/3798369
+Pure... Chillout - 2011 - https://api.discogs.com/releases/6746244
+Hawthorne Radio, Episode 3 - 2011 - https://api.discogs.com/releases/12795456
+105 Disco Hits - 2011 - https://api.discogs.com/releases/20388616
+Cooler Than Ice: Arctic Records And The Rise Of Philly Soul - 2012 - https://api.discogs.com/releases/4170869
+Lifetime Lover - 2012 - https://api.discogs.com/releases/7129299
+Music For Young Lovers Vol. 6 - 2012 - https://api.discogs.com/releases/11827555
+300 Hits: Soul - 2012 - https://api.discogs.com/releases/27716967
+West End Records Classics - 2012 - https://api.discogs.com/masters/1423132
+WR 008 - 2013 - https://api.discogs.com/releases/4730429
+Psycho Soul - 2013 - https://api.discogs.com/releases/4766346
+Disco Wonderland - 2013 - https://api.discogs.com/releases/4805418
+Philly Gems - More Philly Disco Floor-Fillers - 2013 - https://api.discogs.com/releases/4893187
+Disco Giants Volume 1-10 (200 Full Length Disco Classics Of The 80's) - 2013 - https://api.discogs.com/releases/7610609
+Disco & Boogie In NYC Vol:1 - 2013 - https://api.discogs.com/releases/10214388
+Siesta & The City - 2013 - https://api.discogs.com/releases/10783848
+Hawthorne Radio, Episode 5 - 2013 - https://api.discogs.com/releases/12806772
+The Greatest Ever... Divas - 2013 - https://api.discogs.com/releases/22135165
+Sample This! The Foundation Of Modern Classics - 2013 - https://api.discogs.com/masters/1068034
+Sweet Soul Music - 24 Scorching Classics From 1975 - 2014 - https://api.discogs.com/releases/6433106
+Free Soul. The Treasure Of West End - 2014 - https://api.discogs.com/releases/6535891
+Real Side Records Presents Soul On The Real Side #2 - 2014 - https://api.discogs.com/releases/7377365
+The London American Label Year By Year: 1965 - 2014 - https://api.discogs.com/releases/12048051
+The Sock Hop Collection: Save The Last Dance For Me - 2014 - https://api.discogs.com/releases/26227133
+100 Hits Ultimate Soul - 2014 - https://api.discogs.com/masters/1284226
+100 Hits Disco Fever - 2014 - https://api.discogs.com/masters/1089895
+30 Years And Still Counting - 2015 - https://api.discogs.com/releases/6870331
+You Are The Star (Soulful Sounds Of West End) - 2015 - https://api.discogs.com/releases/7094374
+Back To The River (More Southern Soul Stories 1961-1978) - 2015 - https://api.discogs.com/releases/7781612
+Double Trouble - Kensei's West End Super 7" Delites - 2015 - https://api.discogs.com/releases/7786851
+Everybody Get Dancin' (Daniel Wang's Personal West End Records Megamix) - 2015 - https://api.discogs.com/releases/8184954
+Soul Music Lovers Only Vol.3 - 2016 - https://api.discogs.com/releases/9218100
+Classic Love Songs Of Rock 'N' Roll - 2016 - https://api.discogs.com/releases/15764356
+Nothing But A House Party (The Birth Of The Philly Sound 1967-71) - 2017 - https://api.discogs.com/releases/10385743
+100 Hits: Supersonic 70's - 2017 - https://api.discogs.com/releases/11282386
+80s Groove (The Ultimate Collection) - 2017 - https://api.discogs.com/releases/11789058
+Good Old Rock 'N' Roll - 56 Great Hits Original Artists - 2017 - https://api.discogs.com/releases/19575859
+Ultimate Soul - 2017 - https://api.discogs.com/masters/1560346
+100 Hits The Best Soul Album - 2018 - https://api.discogs.com/releases/11852884
+Ultimate Disco - 2018 - https://api.discogs.com/releases/11900258
+Shaolin Soul Episode 4 - 2018 - https://api.discogs.com/masters/1429491
+This Is Lowrider Soul 1962-1970 - 2019 - https://api.discogs.com/releases/13129597
+Dr. Packer Reworks - 2019 - https://api.discogs.com/releases/14119537
+Move On Up (The Songs of Curtis Mayfield) - 2019 - https://api.discogs.com/releases/14419388
+100 Disco Classics (The Sound Of My Life) - 2019 - https://api.discogs.com/releases/14814999
+Breezin' - 100 Smooth Pop Songs (The Ultimate Collection) - 2019 - https://api.discogs.com/releases/26857028
+A Mixed Tape Made By Black Marble - 2020 - https://api.discogs.com/releases/15755811
+Salsoul Meets West End Reworks - 2020 - https://api.discogs.com/releases/16559331
+Greatest Ever Decade 80s - 2021 - https://api.discogs.com/releases/19879438
+Greatest Ever Soul & Disco - 2021 - https://api.discogs.com/releases/20076556
+People Get Ready (The Curtis Mayfield Songbook) - 2021 - https://api.discogs.com/releases/20799811
+This Is Lowrider Soul Vol 2 - 2021 - https://api.discogs.com/releases/21195262
+Soul - 2021 - https://api.discogs.com/releases/25980499
+DMC - Producer Mixes - Pete Le Freq (Vol.1) (Nu Soul & Disco Remixes) - 2022 - https://api.discogs.com/releases/21824602
+Groove Diggin' - 2023 - https://api.discogs.com/releases/28091185
+A Different World (The Holland-Dozier-Holland Songbook) - 2024 - https://api.discogs.com/releases/30597160
+The Winners Of The West End Mix Contest - Desconocido - https://api.discogs.com/releases/259103
+Pure Groove 80's - 80's Hits Volume 2 - Desconocido - https://api.discogs.com/releases/1466244
+WOLF / The Big 15: Double Golden - Desconocido - https://api.discogs.com/releases/2952852
+The Best Of Biggie Beats (Original Samples Used By B.I.G.) - Desconocido - https://api.discogs.com/releases/3132084
+Georgie Woods And His Girls - Desconocido - https://api.discogs.com/releases/3753558
+WDAS Charities Presents 22 Original Soul Sounds - Desconocido - https://api.discogs.com/releases/4270928
+Soul & Blues On CD Vol1 No1 - Desconocido - https://api.discogs.com/releases/4571439
+30 Klassics 30 - Desconocido - https://api.discogs.com/releases/4765426
+Curtisom Rio - Flash Backs Implacaveis - Desconocido - https://api.discogs.com/releases/4998056
+KAKC Solid Gold - Desconocido - https://api.discogs.com/releases/5053079
+Sounds Of Solid Soul Volume 7 - Desconocido - https://api.discogs.com/releases/5333179
+Soul's Greatest Hits - Desconocido - https://api.discogs.com/releases/5426264
+Party Dolls - Desconocido - https://api.discogs.com/releases/5680902
+WKBW · 30 Klassics - Desconocido - https://api.discogs.com/releases/6587085
+Soul's Greatest Hits / Kings And Queens Of Soul - Desconocido - https://api.discogs.com/releases/6762896
+20 Golden Nuggets (...Because You Dugget) - Desconocido - https://api.discogs.com/releases/7916175
+Black Horse Discoteca - Desconocido - https://api.discogs.com/releases/7975935
+The Heart Of Rock 'N' Roll - 1965-1966 - Desconocido - https://api.discogs.com/releases/8055618
+30 Golden Souvenirs - Desconocido - https://api.discogs.com/releases/8133476
+Sounds Of Solid Soul Volume 6 - Desconocido - https://api.discogs.com/releases/8377240
+Blue Soul - Desconocido - https://api.discogs.com/releases/8689133
+SOUL 16 - Desconocido - https://api.discogs.com/releases/9069352
+Sounds Of Solid Soul Vol. 3 - Desconocido - https://api.discogs.com/releases/9630620
+Butterball: Of WDAS Presents 20 Oldies Designed With Young Lovers In Mind! - Desconocido - https://api.discogs.com/releases/10001893
+Heavy Soul! Club Sounds Volume 2 - Desconocido - https://api.discogs.com/releases/10224318
+Lowrider Oldies Box Set Volumes 1-9 - Desconocido - https://api.discogs.com/releases/10713538
+Rock 'N' Roll Reunion Class Of 65 - Desconocido - https://api.discogs.com/releases/10881828
+The Sock Hop Collection - Desconocido - https://api.discogs.com/releases/11278814
+Black Horse Discoteca - Desconocido - https://api.discogs.com/releases/11305890
+Koil - 22 Golden Classics - Desconocido - https://api.discogs.com/releases/11402528
+Soul - Desconocido - https://api.discogs.com/releases/11782753
+More Dancing Dirty Vol. I - Desconocido - https://api.discogs.com/releases/14111349
+Eternamente Elas Volume 2 - Desconocido - https://api.discogs.com/releases/14325600
+Kerby Scott Presents 22 Original Golden Galaxies - Desconocido - https://api.discogs.com/releases/15382161
+Golden Hits From 1965  Vol. 3 - Desconocido - https://api.discogs.com/releases/15479995
+Untitled  - Desconocido - https://api.discogs.com/releases/15555014
+WMID Souvenir Album 22 Boss Oldies - Desconocido - https://api.discogs.com/releases/16305303
+Funky Divas - Do You Funk? - Desconocido - https://api.discogs.com/releases/17416915
+City Of Soul Vol 4 - Desconocido - https://api.discogs.com/releases/20521216
+Summer Love 45 Original Hits Original Stars - Desconocido - https://api.discogs.com/releases/22302235
+B-Boy Park 99 Presents / 80s...Club Hits - Desconocido - https://api.discogs.com/releases/22610765
+Untitled - Desconocido - https://api.discogs.com/releases/22988060
+Cheap Beat Collective Vol.1 - Desconocido - https://api.discogs.com/releases/23087159
+Throwback Oldies Volume 2 - Desconocido - https://api.discogs.com/releases/24017678
+Roots Of Soul Vol. 2 - Desconocido - https://api.discogs.com/releases/24344291
+Sweet Soul Rolas Vol. 6 - Desconocido - https://api.discogs.com/releases/25730599
+Golden Rhythm & Blues Hits - Desconocido - https://api.discogs.com/releases/26610341
+Rock Party - Desconocido - https://api.discogs.com/releases/27408609
+Jet Black Vol. 9 Internacional - Desconocido - https://api.discogs.com/releases/27582942
+Year 1965 Super Hits - Desconocido - https://api.discogs.com/releases/27650427
+South Side Soul 25 Rare Soul Classics Vol.6 - Desconocido - https://api.discogs.com/releases/28908880
+To Every Story Vol.2 - Desconocido - https://api.discogs.com/releases/28913542
+To Every Story Vol.3 - Desconocido - https://api.discogs.com/releases/28914472
+To Every Story Vol.4 - Desconocido - https://api.discogs.com/releases/28914844
+World Famous Oldies Mid Tempo Soul Rolas Vol.1 - Desconocido - https://api.discogs.com/releases/28928572
+Soulside The Best Of Underground Oldies - Desconocido - https://api.discogs.com/releases/28949176
+Soulside The Best Of Underground Souldies Vol.2 - Desconocido - https://api.discogs.com/releases/28949272
+Gangster Of Love Killer Souldies Vol.4 - Desconocido - https://api.discogs.com/releases/29022037
+Chicano Sweet Soundz "Natural High" - Desconocido - https://api.discogs.com/releases/29100172
+Rockin' Jukebox 1965 - Desconocido - https://api.discogs.com/releases/29981992
+Theory Of Old School - Desconocido - https://api.discogs.com/masters/1630321
+East Side Story Vol. 4 - Desconocido - https://api.discogs.com/masters/1511821
+West End Mix - Desconocido - https://api.discogs.com/masters/177131
+24 Top Pop February 1973 - 1973 - https://api.discogs.com/releases/11235760
+Give Me Your Love - 1973 - https://api.discogs.com/masters/263852
+Maureen McGovern - 1979 - https://api.discogs.com/masters/552697
+Techno Dance 3 - 1994 - https://api.discogs.com/releases/5030640
+Charme Collection Vol. 2 - 1996 - https://api.discogs.com/releases/4244446
+The Premo Collection - 1999 - https://api.discogs.com/releases/771671
+Charme Classic's R & B - 1999 - https://api.discogs.com/releases/4660237
+Sound Of Gold 7 - 2003 - https://api.discogs.com/releases/2712428
+Soulful Thangs Vol. 3 - 2005 - https://api.discogs.com/releases/12739592
+Electrik Company - 2010 - https://api.discogs.com/releases/2214280
+Ain't Got The Love Of One Girl (On My Mind) - 2010 - https://api.discogs.com/masters/343038
+Eros - 2011 - https://api.discogs.com/releases/3027858
+20 More Monster Hits - 2013 - https://api.discogs.com/masters/1637957
+Unofficial Edits, Overdubs & Unreleased Remixes (Promo Sampler Two) - 2014 - https://api.discogs.com/releases/5739437
+Moonlight Madness - 2017 - https://api.discogs.com/masters/155722
+WFMU Side Story (Vol. 1) - 2018 - https://api.discogs.com/releases/12284494
+Old-School Party Jams: Vol. 9 - Desconocido - https://api.discogs.com/releases/1037315
+A B.I.G. Sack - Desconocido - https://api.discogs.com/releases/1104807
+Milk Crate Collection Vol. 6 - Part II Of The Biggie Collection (R.I.P.) - Desconocido - https://api.discogs.com/releases/1677042
+Gangsta Soul 9 To Be Gangsta Or Not Be ... - Desconocido - https://api.discogs.com/releases/3115155
+Arthur King's Slowly But Surely: The Best Slow Jams In Town - Desconocido - https://api.discogs.com/releases/3456754
+Soul Mastercuts - Desconocido - https://api.discogs.com/releases/5316032
+1984 Buick Regal Deluxe Edition - Desconocido - https://api.discogs.com/releases/9021079
+Girls Girls Girls - The Girlfriends - Vol. 1 - Desconocido - https://api.discogs.com/releases/9784690
+Untitled - Desconocido - https://api.discogs.com/releases/15126406
+Lost Jukebox Vol. 173 - Desconocido - https://api.discogs.com/releases/16065997
+Lost Jukebox Vol. 177 - Desconocido - https://api.discogs.com/releases/16135709
+Shiny Funk Vol.1 - Desconocido - https://api.discogs.com/releases/19946152
+Somebody Been Messin' - R&B / Soul / Funk Women 45s - Desconocido - https://api.discogs.com/releases/30321212
+Gordon's War (Original Motion Picture Soundtrack) - Desconocido - https://api.discogs.com/masters/324317
+East Side Story Vol. 4 - Desconocido - https://api.discogs.com/masters/1511821

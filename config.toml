@@ -4,10 +4,22 @@ languageCode = 'es-ES'
 title = 'vvmm'
 theme = 'm10c'
 
-[[menu.main]]
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     identifier = 'tags'
     name = "Tags"
     url = "/tags/"
+    weight= 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
 
 #[menu]
 #  [[menu.main]]
