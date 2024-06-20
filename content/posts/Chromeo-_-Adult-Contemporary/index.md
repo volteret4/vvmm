@@ -1,0 +1,77 @@
+---
+title: "Chromeo - Adult Contemporary"
+date: 2024-06-20T17:51:50+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - disco
+ - funk
+ - soul
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Chromeo - Adult-Contemporary))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://chromeoduo.bandcamp.com/album/adult-contemporary)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3400117)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5c8d4500-8436-4ba2-af60-1c3025dfb53c)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Chromeo)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLDhajrZgo0TIvfv2BPjexWD7crUToB39m)
+ 
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2024
+> 
+> **Géneros**: Electronic, Rock, Funk / Soul, Pop
+> 
+> **Estilos**: Funk
+> 
+> **Pais:** Europe
+> 
+> **Votos:** Media de 5.0 con 1 votos
+> 
+> **Sello:** Mercury
+> 
+> **Phonographic Copyright (p):** Phonogram GmbH
+> 
+> **Photography By** - Markus Amon
+> 
+> **Producer** - Glen P. Stone
+> 
+> **Producer** - Tex Taylor
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   1. (I Don’t Need A) New Girl     
+> 
+>   2. Got it Good     
+> 
+>   3. Lost And Found     
+> 
+>   4. BTS    
+> 
+>   5. Replacements Feat. La Roux    
+> 
+>   6. Lonesome Nights     
+> 
+>   7. Personal Effects     
+> 
+>   8. She Knows It (Personal Effects PT. 2)    
+> 
+>   9. Ballad Of The Insommniacs    
+> 
+>   10. Coda    
+> 
+>   11. Words With You    
+> 
+>   12. A Cut Above    
+> 
+>   13. Friendsnlovers    
+> 
+>   14. Two Of Us ( Friendsnlovers PT. 2)    
+> 
