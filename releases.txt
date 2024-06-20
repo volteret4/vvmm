@@ -1,739 +1,379 @@
 Listado de releases del artista:
-Upside Down - 1984 - https://api.discogs.com/masters/5321
-Never Understand - 1985 - https://api.discogs.com/masters/5324
-Just Like Honey - 1985 - https://api.discogs.com/masters/5326
-Psychocandy - 1985 - https://api.discogs.com/masters/5332
-You Trip Me Up - 1985 - https://api.discogs.com/masters/5430
-The Videos - 1986 - https://api.discogs.com/releases/14528339
-Spin Radio Underground - 1986 - https://api.discogs.com/masters/1460231
-Some Candy Talking E.P. - 1986 - https://api.discogs.com/masters/5339
-Music View Show #14 - 1987 - https://api.discogs.com/releases/8326099
-Kill Surf City - 1987 - https://api.discogs.com/releases/8796503
-Darklands - 1987 - https://api.discogs.com/masters/5355
-April Skies - 1987 - https://api.discogs.com/masters/5401
-Darklands - 1987 - https://api.discogs.com/masters/5415
-Happy When It Rains - 1987 - https://api.discogs.com/masters/5437
-Daytime JAMC - 1988 - https://api.discogs.com/releases/2476010
-Barbed Wire Kisses (B-Sides And More) - 1988 - https://api.discogs.com/masters/5367
-The Jesus And Mary Chain - 1988 - https://api.discogs.com/masters/641328
-Sidewalking - 1988 - https://api.discogs.com/masters/5463
-Surfin' USA • Summer Mix - 1988 - https://api.discogs.com/masters/155600
-Her Way Of Praying - 1989 - https://api.discogs.com/releases/849550
-Automatic - 1989 - https://api.discogs.com/masters/5385
-Blues From A Gun - 1989 - https://api.discogs.com/masters/5469
-Head On - 1989 - https://api.discogs.com/masters/5475
-Videos 1985 To 1989 - 1990 - https://api.discogs.com/masters/784566
-Rollercoaster E.P. - 1990 - https://api.discogs.com/masters/5630
-The Peel Sessions - 1991 - https://api.discogs.com/masters/71480
-Live - 1992 - https://api.discogs.com/releases/726440
-7 Years On The Leading Edge / 10 Smash Hits 1985 - 1992 - 1992 - https://api.discogs.com/releases/849586
-Soil X Samples 7 - 1992 - https://api.discogs.com/releases/1407306
-Honey's Dead - 1992 - https://api.discogs.com/masters/5374
-Almost Gold - 1992 - https://api.discogs.com/masters/5488
-Far Gone And Out - 1992 - https://api.discogs.com/masters/5497
-Reverence - 1992 - https://api.discogs.com/masters/5515
-The Sound Of Speed - 1992 - https://api.discogs.com/masters/5561
-Sound Of Speed E.P. - 1993 - https://api.discogs.com/masters/5538
-KROQ Acoustic X-Mas - 1994 - https://api.discogs.com/releases/5722720
-Sampler - 1994 - https://api.discogs.com/releases/23063675
-4 Track Album Sampler - 1994 - https://api.discogs.com/masters/2053837
-Stoned & Dethroned - 1994 - https://api.discogs.com/masters/5525
-Sometimes Always - 1994 - https://api.discogs.com/masters/5548
-Come On - 1994 - https://api.discogs.com/masters/5570
-Westwood One In Concert - 1995 - https://api.discogs.com/releases/1356032
-Hate Rock 'N' Roll - 1995 - https://api.discogs.com/masters/552753
-I Hate Rock 'N' Roll - 1995 - https://api.discogs.com/masters/5579
-Birthday / Hide Myself - 1998 - https://api.discogs.com/releases/735325
-'98 Tour EP - 1998 - https://api.discogs.com/releases/894556
-Iloverocknroll - 1998 - https://api.discogs.com/masters/5635
-Cracking Up - 1998 - https://api.discogs.com/masters/5593
-Munki - 1998 - https://api.discogs.com/masters/5610
-The Complete John Peel Sessions - 2000 - https://api.discogs.com/masters/142197
-21 Singles - 2002 - https://api.discogs.com/masters/5698
-Live In Concert - 2003 - https://api.discogs.com/releases/1400967
-Video Clips From Upcoming DualDisc Reissues - 2006 - https://api.discogs.com/releases/9642086
-Lost In Translation - 2007 - https://api.discogs.com/masters/63683
-The Power Of Negative Thinking: B-Sides & Rarities - 2008 - https://api.discogs.com/masters/807838
-Original Album Series - 2009 - https://api.discogs.com/masters/857393
-Upside Down (The Best Of The Jesus And Mary Chain) - 2010 - https://api.discogs.com/releases/2810349
-All Things Must Pass - 2012 - https://api.discogs.com/masters/1502890
-The Vinyl Collection - 2013 - https://api.discogs.com/masters/3468082
-Barrowlands Live - 2015 - https://api.discogs.com/masters/825616
-Amputation - 2016 - https://api.discogs.com/releases/9600160
-The Two Of Us - 2017 - https://api.discogs.com/masters/1502870
-Damage And Joy - 2017 - https://api.discogs.com/masters/1153351
-Ono Yoko - 2021 - https://api.discogs.com/releases/21792670
-Live At The Fox Theatre In Detroit - 2021 - https://api.discogs.com/masters/2319460
-Jamcod - 2023 - https://api.discogs.com/releases/29478970
-Chemical Animal - 2023 - https://api.discogs.com/releases/30051640
-Sunset 666 - 2023 - https://api.discogs.com/masters/3193209
-Glasgow Eyes - 2024 - https://api.discogs.com/masters/3432647
-The Music of The Jesus & Mary Chain (1984-1990) - Desconocido - https://api.discogs.com/releases/18198103
-The Music of The Jesus & Mary Chain (1984-1991) - Desconocido - https://api.discogs.com/releases/23019620
-The Music of The Jesus & Mary Chain (1985-1990) - Desconocido - https://api.discogs.com/releases/23029856
-Birthday Christmas Mix - 1988 - https://api.discogs.com/masters/35172
-12•11 - 1989 - https://api.discogs.com/releases/922205
-CD•6 - 1989 - https://api.discogs.com/masters/173111
-Soul In A Jar - 1993 - https://api.discogs.com/masters/637277
-Flood 13… And Other Disasters - A PolyGram New Music Sampler - 1994 - https://api.discogs.com/releases/8506028
-Free At Last 4 - 1994 - https://api.discogs.com/masters/724222
-Afrodisiac - 1994 - https://api.discogs.com/masters/71645
-Why America Will Go To Hell - 1999 - https://api.discogs.com/masters/42371
-The Hit RED Hot EP - 1985 - https://api.discogs.com/releases/1079308
-NME's Big Four - 1986 - https://api.discogs.com/releases/418365
-Modern Girls (Original Motion Picture Soundtrack) - 1986 - https://api.discogs.com/masters/834787
-New Wave Riders - 1998 - https://api.discogs.com/releases/12844251
-Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/475795
-Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/28575928
-Alternative NRG - 1994 - https://api.discogs.com/masters/11965
-Rock Over London #421 May 24, 1987 - 1987 - https://api.discogs.com/releases/29620756
-Some Kind Of Wonderful - 1987 - https://api.discogs.com/masters/67495
-An Unholy Montage - 1990 - https://api.discogs.com/masters/532874
-Camping In France - 1991 - https://api.discogs.com/masters/42357
-Little Baby Sour Puss - 1992 - https://api.discogs.com/releases/3299595
-Bootleger (Bye, Bye Liver) - 1993 - https://api.discogs.com/releases/3418167
-Headless /Ex-Cess - 1993 - https://api.discogs.com/releases/9583411
-Pedestrian  - 1993 - https://api.discogs.com/releases/11735818
-Headless - 1993 - https://api.discogs.com/masters/182895
-Boots And Bras - 1994 - https://api.discogs.com/masters/450824
-The Crow (Original Motion Picture Soundtrack) - 1994 - https://api.discogs.com/masters/61278
-A Tribute To The Jamc Vol.2 - 1995 - https://api.discogs.com/releases/4650305
-1967 - 1995 - https://api.discogs.com/releases/14718598
-Amiral Recrosial - 1996 - https://api.discogs.com/releases/2090269
-Screw - 1997 - https://api.discogs.com/releases/23233931
-The New Frontier - 1998 - https://api.discogs.com/releases/3708722
-Morto Vivente - 1998 - https://api.discogs.com/releases/22493516
-Chronology Of A Love-Affair - 2000 - https://api.discogs.com/masters/114198
-Nothing's Going To Happen - 2002 - https://api.discogs.com/masters/602848
-Rewound - 2004 - https://api.discogs.com/releases/495798
-Live Tracks & Rarities - 2004 - https://api.discogs.com/releases/1381615
-You Already Have Way Too Many CDRs - 2005 - https://api.discogs.com/releases/9713845
-Breathe - 2006 - https://api.discogs.com/releases/1755376
-A Place To Bury Strangers - 2006 - https://api.discogs.com/releases/16815510
-Das Oath / Ampere - 2006 - https://api.discogs.com/masters/466945
-Gleam Garden / Dan Padilla - 2007 - https://api.discogs.com/masters/507227
-Get To Third Base - 2009 - https://api.discogs.com/releases/3930324
-E.P. No. 1 - 2009 - https://api.discogs.com/releases/4853581
-High Heels Fuzz - 2010 - https://api.discogs.com/releases/8965984
-Teenage Lust - 2011 - https://api.discogs.com/releases/2936404
-COVERs - 2011 - https://api.discogs.com/releases/6586440
-Shoelaces ep - 2011 - https://api.discogs.com/releases/27792636
-Boombox + X - 2011 - https://api.discogs.com/masters/309754
-El Jueves Anterior a la Primavera - 2012 - https://api.discogs.com/releases/7991914
-I Find No Love In Poison, And There Is No God, I Know This Now. - 2013 - https://api.discogs.com/releases/5179515
-Birthday Tapes MMXII - 2013 - https://api.discogs.com/releases/6577061
-This Is Not A Love Song Comp.02 - 2013 - https://api.discogs.com/releases/7687918
-Tiny Dead Things - 2013 - https://api.discogs.com/releases/11391181
-Temp Est Ep - 2014 - https://api.discogs.com/releases/6109399
-Vile / Process - 2014 - https://api.discogs.com/releases/6297435
-Aurelian: The Collected Works - 2014 - https://api.discogs.com/releases/6993910
-VERA/LIVE001 - 2015 - https://api.discogs.com/masters/783457
-Psychocandy Revisited - 2015 - https://api.discogs.com/masters/899277
-Raw Punk Attack - 2016 - https://api.discogs.com/releases/9135383
-Just Like Honey - 2016 - https://api.discogs.com/releases/9381208
-Broadway - 2016 - https://api.discogs.com/releases/9913120
-Tape​-​Gun: Issues 1​-​5 Collected 1997​-​2016 - 2016 - https://api.discogs.com/releases/21042904
-Kein Platz / Remnants Of The Arcane - 2016 - https://api.discogs.com/masters/1018760
-Rhyming Slang Covers - 2017 - https://api.discogs.com/releases/12272844
-Janedriver - 2018 - https://api.discogs.com/releases/12250513
-Teenage Superstars: The Sound Of Young Scotland - 2019 - https://api.discogs.com/releases/15972706
-Be Gay, Do Crime! - 2020 - https://api.discogs.com/masters/1922946
-Covers - 2021 - https://api.discogs.com/releases/19241278
-Green Wave - 2021 - https://api.discogs.com/releases/20520340
-The Forgotten Ones 2 (The Free Music, 2009​-​2021) - 2021 - https://api.discogs.com/releases/30805860
-The Hit RED Hot EP - 1985 - https://api.discogs.com/releases/1079308
-Tape Worm - 1985 - https://api.discogs.com/releases/1254220
-Spin Radio Underground - 1985 - https://api.discogs.com/releases/5928920
-WEA-News Christmas/New Year 1985/86 - 1985 - https://api.discogs.com/releases/28649539
-The Hits Video Take 2 - 1985 - https://api.discogs.com/releases/30901419
-NME's Big Four - 1986 - https://api.discogs.com/releases/418365
-Bizz Melhores De 86 - 1986 - https://api.discogs.com/releases/3025797
-Promo - Disco Internacional No. 10 - 1986 - https://api.discogs.com/releases/7215952
-What Do The Critics Know? - 1986 - https://api.discogs.com/releases/8896736
-The Great 1¢ Cassette Sampler - 1986 - https://api.discogs.com/releases/12491117
-Supercuts - 1986 - https://api.discogs.com/releases/16072728
-The January 1986 Guide - 1986 - https://api.discogs.com/releases/26142299
-Modern Girls (Original Motion Picture Soundtrack) - 1986 - https://api.discogs.com/masters/834787
-British Hit Parade - 1987 - https://api.discogs.com/releases/3836051
-Jackpot 87 - 1987 - https://api.discogs.com/releases/3854464
-WEA New Releases No4 - 1987 - https://api.discogs.com/releases/5043962
-CMJ Presents Certain Damage! - Volume 2 - 1987 - https://api.discogs.com/releases/5211588
-The Hits Video Selection 7  - 1987 - https://api.discogs.com/releases/11183559
-Video Show #65 - 1987 - https://api.discogs.com/releases/12088466
-The Video Hits Collection Vol.3 - 1987 - https://api.discogs.com/releases/12566052
-Promo WEA Nº 41 - 1987 - https://api.discogs.com/releases/13314066
-Rock Over London #447 - 1987 - https://api.discogs.com/releases/13943278
-Jackpot 87 TAPE2 - 1987 - https://api.discogs.com/releases/14774989
-Top Of The Pops - 1188 - 1987 - https://api.discogs.com/releases/15327847
-The Hits Video 6 - 1987 - https://api.discogs.com/releases/18947752
-WEA New Releases No 3 - 1987 - https://api.discogs.com/releases/24067679
-The Best Of New Music  - 1987 - https://api.discogs.com/masters/3166299
-The Hits Album 6 - 1987 - https://api.discogs.com/masters/11667
-Some Kind Of Wonderful (Music From The Motion Picture Soundtrack) - 1987 - https://api.discogs.com/masters/67495
-Gimme Shelter - 1987 - https://api.discogs.com/masters/1072602
-The Hits Album 7 - 1987 - https://api.discogs.com/masters/71653
-Sounds - Waves 2 - 1988 - https://api.discogs.com/releases/523517
-Tutti Frutti 88 - Promo Nº 42 - Disco 03 - 1988 - https://api.discogs.com/releases/3630540
-Tutti Frutti 88 - Promo Nº 52 - Disco 04 - 1988 - https://api.discogs.com/releases/3637885
-Music View Show #13 & #14 - 1988 - https://api.discogs.com/releases/8326079
-CMJ Presents Certain Damage! Volume 9 - 1988 - https://api.discogs.com/releases/8896952
-Happy 10th Anniversary KROQ 106.7 The ROQ of the 90's - 1988 - https://api.discogs.com/releases/13985433
-Top Of The Pops-1223 - 1988 - https://api.discogs.com/releases/15197091
-The Album Network CD Tune Up #13 Disc 2 - 1988 - https://api.discogs.com/releases/22078582
-91X Happy 5th Anniversary Sampler - 1988 - https://api.discogs.com/releases/24741083
-A WEA Music of Canada Sampler - 1988 - https://api.discogs.com/releases/27044748
-Shock Vanguarda 88 Tutti Frutti - 1988 - https://api.discogs.com/masters/1127976
-Under The Covers (Other People Sing Other People's Songs) - 1988 - https://api.discogs.com/masters/29227
-The Hits Album 8 - 1988 - https://api.discogs.com/masters/133212
-CD Tune Up 19 - 1988 - https://api.discogs.com/masters/1810019
-21 Years Of Alternative Radio 1 - 1988 - https://api.discogs.com/masters/348904
-Les Inrockuptibles Un Automne 88 - 1988 - https://api.discogs.com/masters/546186
-Follow Our Trax Volume III - Off The Beaten Tracks - 1989 - https://api.discogs.com/releases/3783231
-Carry On Disarming - 1989 - https://api.discogs.com/releases/4456850
-WEA New Releases No45 - 1989 - https://api.discogs.com/releases/5071897
-WEA New Releases No40 - 1989 - https://api.discogs.com/releases/5072059
-WEA New Releases No41 - 1989 - https://api.discogs.com/releases/9845118
-WEA Promotional Compact Disc (December 1989) - 1989 - https://api.discogs.com/releases/10051299
-CMJ 10 - The Best Of CMJ 1979 - 1989 Box set - 1989 - https://api.discogs.com/releases/10910724
-WEA Promotional Compact Disc (October 1989) - 1989 - https://api.discogs.com/releases/11614141
-81A Progressive - 1989 - https://api.discogs.com/releases/15924967
-Top Of The Pops 1306 - 1989 - https://api.discogs.com/releases/25708477
-Earth Girls Are Easy (Vestron Presents An Original Motion Picture Soundtrack) - 1989 - https://api.discogs.com/masters/18193
-Monster Hits - 1989 - https://api.discogs.com/masters/71553
-CMJ Presents Certain Damage! - Volume 31 - 1990 - https://api.discogs.com/releases/1126953
-Tune Up - Rock 44 - 1990 - https://api.discogs.com/releases/1662745
-Follow Our Trax (Volume IV) - 1990 - https://api.discogs.com/releases/3333402
-Skate Surf Music - 1990 - https://api.discogs.com/releases/10229710
-The Breneman Review Meeting #2  - 1990 - https://api.discogs.com/releases/11187877
-WEA Promotional Compact Disc - Volume 69 - October 1990 - 1990 - https://api.discogs.com/releases/11674912
-WEA Promotional Compact Disc - Volume 48 - May 1990 - 1990 - https://api.discogs.com/releases/11766868
-Rock Star Special 9 Promo 37 - 1990 - https://api.discogs.com/releases/13689589
-83A Progressive - 1990 - https://api.discogs.com/releases/15925196
-WEA Promotional CD Volume 65 September 1990 - 1990 - https://api.discogs.com/releases/17203477
-Rock Stars - 1990 - https://api.discogs.com/releases/18753457
-WEA Instore Cassette - WEA New Releases No 61 - 1990 - https://api.discogs.com/releases/20547253
-Tune Up - Rock 40 #21 - 1990 - https://api.discogs.com/releases/25025902
-WBCN The Rock Of Boston Compact Disc Sampler #9, Winter '90 - 1990 - https://api.discogs.com/releases/25438468
-Les Inrockuptibles Un Printemps 90 - 1990 - https://api.discogs.com/masters/92282
-Rock The Planet: Cutting Edge - 1990 - https://api.discogs.com/masters/792190
-Tune Up - Rock 50 - 1990 - https://api.discogs.com/masters/1915134
-Product 2378 - 1990 - https://api.discogs.com/masters/71516
-The Last Temptation Of Elvis - 1990 - https://api.discogs.com/masters/29587
-Where The Pyramid Meets The Eye (A Tribute To Roky Erickson) - 1990 - https://api.discogs.com/masters/54739
-Radio FFN Powerstation 2 - 1990 - https://api.discogs.com/masters/71642
-Absolution - Rock The Alternative Way - 1991 - https://api.discogs.com/masters/126640
-Never Mind The Mainstream...The Best Of MTV's 120 Minutes Vol. 2 - 1991 - https://api.discogs.com/masters/471968
-New Season - The Peel Sessions - 1991 - https://api.discogs.com/masters/330713
-Rollercoaster U.S. - 1992 - https://api.discogs.com/releases/393705
-Rollercoaster EP - 1992 - https://api.discogs.com/releases/659005
-Heck On Wheels (Songs Suitable For In-Store Play) - 1992 - https://api.discogs.com/releases/1972100
-Great Movement - 1992 - https://api.discogs.com/releases/2362493
-Rollercoaster 92 - 1992 - https://api.discogs.com/releases/2735421
-Check It Out! From Warner/Elektra/Atlantic - 1992 - https://api.discogs.com/releases/2818052
-Stolar Tracks Vol.1 - 1992 - https://api.discogs.com/releases/2911735
-WEA/East West Instore Video Compilation March 1992 - 1992 - https://api.discogs.com/releases/3623597
-Warner Music Canada Promotional CD Vol. 134 - April 1992 - 1992 - https://api.discogs.com/releases/4932647
-Expand-O CD Tune Up 22 - 1992 - https://api.discogs.com/releases/6304619
-Follow Our Trax Volume Eight (Cue It Up!) - 1992 - https://api.discogs.com/releases/7681168
-Rock Over London - 1992 - https://api.discogs.com/releases/8254872
-AOR Sept. 1992 - 1992 - https://api.discogs.com/releases/10159374
-Warner Music Canada July 1992 - Vol. 144 - 1992 - https://api.discogs.com/releases/11696939
-WEA Top Hits October 1992 - 1992 - https://api.discogs.com/releases/12884920
-WB ALT. Marketing Compilation "August 1992" - 1992 - https://api.discogs.com/releases/13396781
-Post Modern - 1992 - https://api.discogs.com/releases/13875889
-Warner Bros. Alt. Marketing Compilation "March 1992" - 1992 - https://api.discogs.com/releases/15000764
-Warner Music March 1992 - Volume 130 - 1992 - https://api.discogs.com/releases/15052477
-Warner Canada Promotional CD November 1992 (Vol 155) - 1992 - https://api.discogs.com/releases/16532265
-February 92 - 1992 - https://api.discogs.com/releases/18758332
-110A Progressive - 1992 - https://api.discogs.com/releases/19116145
-114A Progressive - 1992 - https://api.discogs.com/releases/19225036
-Stars On Video Show No. 112 Mai 1992 - 1992 - https://api.discogs.com/releases/21561667
-Top Of The Pops 1424 - 1992 - https://api.discogs.com/releases/26646869
-Radio On! - 1992 - https://api.discogs.com/masters/69177
-Spin This - 1992 - https://api.discogs.com/masters/2830418
-The 1992 Mercury Music Prize Sampler - 1992 - https://api.discogs.com/masters/801553
-The Best Of Bizarre Festival (1987–1992) - 1992 - https://api.discogs.com/masters/868173
-Encino Man (Music From The Original Motion Picture Soundtrack) - 1992 - https://api.discogs.com/masters/441680
-Ruby Trax - The NME's Roaring Forty - 1992 - https://api.discogs.com/masters/25429
-Lollapalooza '92 - 1992 - https://api.discogs.com/masters/1038707
-Freejack Soundtrack - 1992 - https://api.discogs.com/masters/163273
-Now That's What I Call Music! 21 - 1992 - https://api.discogs.com/masters/260581
-RCD July Collection 13 - 1993 - https://api.discogs.com/releases/1151308
-Soy Tan Feliz Que Me Cortaria Las Venas No. 3 - 1993 - https://api.discogs.com/releases/4037452
-Singing In Tongues - 1993 - https://api.discogs.com/releases/4940810
-DEF 793 # (South By Southwest) - 1993 - https://api.discogs.com/releases/5416667
-WEA Records Video Compilation (July 1993) - 1993 - https://api.discogs.com/releases/10635670
-X Years Of The X. 1983-1993 - 1993 - https://api.discogs.com/releases/12105323
-Warner Music Canada July 1993 -Vol.180 - 1993 - https://api.discogs.com/releases/12300016
-Rock Over London # 93/28 - 1993 - https://api.discogs.com/releases/15335627
-Acoustic Favourites - 1993 - https://api.discogs.com/releases/16636218
-Promo - 1993 - https://api.discogs.com/releases/21142993
-Top Of The Pops - 1497 - 1993 - https://api.discogs.com/releases/26440439
-The Crow (Original Motion Picture Soundtrack) - 1993 - https://api.discogs.com/masters/61278
-Sub Rock (The Best Of Independent And Grunge) - 1993 - https://api.discogs.com/masters/1335787
-Zillo 5 1989-1994 Jubiläums Compilation  - 1994 - https://api.discogs.com/releases/132049
-WEA NME C30 - 1994 - https://api.discogs.com/releases/779823
-De Afrekening Volume 8 - 1994 - https://api.discogs.com/releases/1021201
-RockVideo Monthly - Alternative Releases - Winter 1994 - 1994 - https://api.discogs.com/releases/1560447
-The Patron Saints Of Teenage - 1994 - https://api.discogs.com/releases/1782373
-Alternative Summer - 1994 - https://api.discogs.com/releases/1838306
-Tower Rocks - The Warner Years - 1994 - https://api.discogs.com/releases/2221096
-Hard! - 1994 - https://api.discogs.com/releases/5291035
-Home Hypnosis Kit (Warner Bros. Alternative Sampler) - 1994 - https://api.discogs.com/releases/5961355
-Pc Disc - 1994 - https://api.discogs.com/releases/6382834
-Promo Only Radio Series: October 94 - 1994 - https://api.discogs.com/releases/6747021
-Warner Rocks - Vol 1 - 1994 - https://api.discogs.com/releases/9357565
-Heck On Wheels Volume 5 - 1994 - https://api.discogs.com/releases/9624513
-Promo - 1994 - https://api.discogs.com/releases/9740868
-ET/Videolink - Progressive Hits Sept 1994 - 1994 - https://api.discogs.com/releases/10146154
-Progressive Hits December 1994 - 1994 - https://api.discogs.com/releases/10146638
-Hearing Is Believing - 1994 - https://api.discogs.com/releases/10331553
-WEA Japan Top Hits Selections September 1994 - 1994 - https://api.discogs.com/releases/10858190
-Hearing Is Believing Vol 4 - 1994 - https://api.discogs.com/releases/11054780
-Warner Music Canada Promotional CD - Volume 228 - November 1994 - 1994 - https://api.discogs.com/releases/12753594
-WEA News # 7+8/94 - 1994 - https://api.discogs.com/releases/14256485
-Alternative Marketing Reel Fall '94 - 1994 - https://api.discogs.com/releases/14389260
-Warner Music Canada Promotional CD - Volume 217 - August 1994 - 1994 - https://api.discogs.com/releases/15057287
-The Mix - 29 - 1994 - https://api.discogs.com/releases/15145950
-EuroXclusive - 94-14 - 1994 - https://api.discogs.com/releases/15269762
-On The Edge - 1994 - https://api.discogs.com/releases/17808955
-The Album Network TuneUp In-Store Play Edition 30 - 1994 - https://api.discogs.com/releases/17855386
-138A Progressive - 1994 - https://api.discogs.com/releases/19957891
-Alternative NRG - 1994 - https://api.discogs.com/releases/20600899
-Epic Audio Buyways 904/1001/'94 - 1994 - https://api.discogs.com/releases/25989910
-On The Edge - 1994 - https://api.discogs.com/releases/26236451
-The August 1994 Guide - 1994 - https://api.discogs.com/releases/28950658
-Alternative NRG - 1994 - https://api.discogs.com/masters/11965
-Now That's What I Call Music 100% Alternate - 1994 - https://api.discogs.com/masters/1187526
-Once In A Lifetime - 1994 - https://api.discogs.com/masters/1436376
-hu H (CD 1) - 1994 - https://api.discogs.com/masters/1260310
-The Trip 4 - 1994 - https://api.discogs.com/masters/1445785
-Das Wahre Leben - 1994 - https://api.discogs.com/masters/773034
-Music From The Motion Picture Love & A .45 - 1994 - https://api.discogs.com/masters/71595
-Generation Rock - 1994 - https://api.discogs.com/masters/862164
-American Recordings 1995 CD Sampler - 1995 - https://api.discogs.com/releases/310169
-The Fall Of American - 1995 - https://api.discogs.com/releases/1553497
-Dance Disc - Vol. 28 - 1995 - https://api.discogs.com/releases/5386781
-Monitor This! - The Record Exchange Sampler  - 1995 - https://api.discogs.com/releases/6201131
-WEA Japan Top Hits Selections February 1995 - 1995 - https://api.discogs.com/releases/12676752
-Your Ulterior Motives Dept. Presents Our Favorite WB and Reprise Videos September '95 - 1995 - https://api.discogs.com/releases/14397785
-Warner Music Canada Promotional CD - Volume 251 - July 1995 - 1995 - https://api.discogs.com/releases/15664550
-Vertigo - 1995 - https://api.discogs.com/releases/16113203
-Alternative (November 1995) - 1995 - https://api.discogs.com/releases/20140117
-The September 1995 Guide - 1995 - https://api.discogs.com/releases/28695301
-The September 1995 Guide - 1995 - https://api.discogs.com/releases/28932352
-The Best...Album In The World...Ever! - 1995 - https://api.discogs.com/masters/1105441
-Vértigo - 1995 - https://api.discogs.com/masters/735283
-The Doom Generation - Music From The Motion Picture - 1995 - https://api.discogs.com/masters/196783
-Unlaced - 1995 - https://api.discogs.com/masters/1165021
-104.9 (An XFM Compilation Album) - 1995 - https://api.discogs.com/masters/535397
-The X Factor - Alternative Rock - 1995 - https://api.discogs.com/masters/1378738
-Sem Limites - 1996 - https://api.discogs.com/releases/1448375
-Hang The DJ - Modern Rock 1987 - 1996 - https://api.discogs.com/releases/2494698
-Pride II - The Very Best Of Scotland - 1996 - https://api.discogs.com/releases/4215512
-Express Ready Mix '97 - 1996 - https://api.discogs.com/releases/12616208
-Rokkveisla Aldarinnar - 1996 - https://api.discogs.com/releases/21576058
-Triple J Live - 1996 - https://api.discogs.com/masters/1827375
-Lost Property (An Alternative History 1979 - 1992) - 1996 - https://api.discogs.com/masters/1238347
-Alternator - 1996 - https://api.discogs.com/masters/1005399
-The Best... Album In The World...Ever! - 1996 - https://api.discogs.com/masters/838533
-Les Inrockuptibles - 10 Ans - 100 Chansons - 1997 - https://api.discogs.com/releases/3859559
-Lollipop 1997 - 1997 - https://api.discogs.com/releases/5973876
-Loaded: Indie Sounds Of The U.K. - 1997 - https://api.discogs.com/releases/7579485
-Rebel Yell - Vol I & II  - 1997 - https://api.discogs.com/releases/9860564
-Head-On - 1997 - https://api.discogs.com/releases/12454521
-Panic On The Street Of UK - 1997 - https://api.discogs.com/releases/17919610
-The Vault - 1997 - https://api.discogs.com/releases/23015957
-Trackspotting - 1997 - https://api.discogs.com/masters/189744
-The Ongoing History Of New Music - Volume 2 - 1997 - https://api.discogs.com/masters/1317256
-Buzz Mix 3 Go! - 1998 - https://api.discogs.com/releases/841002
-Sound: Check - 1998 - https://api.discogs.com/releases/877576
-Musikexpress 16 - Creation Records - 1998 - https://api.discogs.com/releases/895801
-Zoo Magazine CD Sampler 14 - 1998 - https://api.discogs.com/releases/1043050
-Rock Sound Volume 21 - 1998 - https://api.discogs.com/releases/1217339
-Was Het Nu 70 Of 80? Vol 7 - 1998 - https://api.discogs.com/releases/1223294
-CMJ New Music Monthly Volume 58 June 1998 - 1998 - https://api.discogs.com/releases/2277405
-April 98 - 1998 - https://api.discogs.com/releases/2291370
-Darkness: Best Of Wave & Independent - 1998 - https://api.discogs.com/releases/2310574
-The Big Issue 5th Anniversary CD - 1998 - https://api.discogs.com/releases/2410399
-Creation Para Rockdelux - 1998 - https://api.discogs.com/releases/2581880
+The River Of Water - 1985 - https://api.discogs.com/releases/390616
+Closing Time - 1986 - https://api.discogs.com/releases/17784625
+Ride The Tiger - 1986 - https://api.discogs.com/masters/32457
+The Asparagus Song - 1987 - https://api.discogs.com/releases/390617
+House Fall Down / Little Rage - 1987 - https://api.discogs.com/releases/3166649
+New Wave Hot Dogs - 1987 - https://api.discogs.com/masters/32449
+President Yo La Tengo / New Wave Hot Dogs - 1989 - https://api.discogs.com/masters/32482
+President Yo La Tengo - 1989 - https://api.discogs.com/masters/246210
+Here Comes My Baby - 1990 - https://api.discogs.com/releases/2763775
+The Summer / Emulsified - 1990 - https://api.discogs.com/releases/3084743
+Fakebook - 1990 - https://api.discogs.com/masters/32451
+Speeding Motorcycle! - 1990 - https://api.discogs.com/masters/222198
+Walking Away From You / Cast A Shadow - 1991 - https://api.discogs.com/releases/390614
+That Is Yo La Tengo - 1991 - https://api.discogs.com/masters/157973
+3 From - 1992 - https://api.discogs.com/releases/8307322
+May I Sing With Me - 1992 - https://api.discogs.com/masters/32453
+Upside-Down - 1992 - https://api.discogs.com/masters/229576
+Painful - 1993 - https://api.discogs.com/masters/32460
+Shaker - 1993 - https://api.discogs.com/masters/32463
+Big Day Coming - 1993 - https://api.discogs.com/masters/518524
+From A Motel 6 - 1993 - https://api.discogs.com/masters/407948
+Evanescent Psychic Pez Drop / The Long Hair Of Death - 1995 - https://api.discogs.com/releases/230085
+Camp Yo La Tengo - 1995 - https://api.discogs.com/masters/32462
+Electr-O-Pura - 1995 - https://api.discogs.com/masters/32465
+Tom Courtenay - 1995 - https://api.discogs.com/masters/32471
+Selections From - 1996 - https://api.discogs.com/releases/3514908
+Blue-Green Arrow / Watching The Sun Set Or Johnny Carson - 1996 - https://api.discogs.com/masters/32474
+Genius + Love = Yo La Tengo - 1996 - https://api.discogs.com/masters/32478
+Rocket # 9 - 1997 - https://api.discogs.com/releases/245083
+Autumn Sweater - 1997 - https://api.discogs.com/masters/32483
+I Can Hear The Heart Beating As One - 1997 - https://api.discogs.com/masters/32485
+Little Honda - 1997 - https://api.discogs.com/masters/32486
+Sugarcube - 1997 - https://api.discogs.com/masters/257283
+Run Run Run - 1998 - https://api.discogs.com/releases/1682375
+Strange But True - 1998 - https://api.discogs.com/masters/32488
+Some Other Dimensions In Yo La Tengo - 1999 - https://api.discogs.com/releases/740752
+Sampler 1993-1997 - 2000 - https://api.discogs.com/releases/6807388
+Selections From "And Then Nothing Turned Itself Inside-Out" - 2000 - https://api.discogs.com/releases/30593764
+And Then Nothing Turned Itself Inside-Out - 2000 - https://api.discogs.com/masters/32489
+Danelectro - 2000 - https://api.discogs.com/masters/32492
+Saturday - 2000 - https://api.discogs.com/masters/32493
+You Can Have It All - 2000 - https://api.discogs.com/masters/32500
+The Sounds Of The Sounds Of Science - 2002 - https://api.discogs.com/masters/1737286
+Nuclear War - 2002 - https://api.discogs.com/masters/32497
+Merry Christmas From Yo La Tengo - 2002 - https://api.discogs.com/masters/1992136
+The Sounds Of Science - 2003 - https://api.discogs.com/releases/1883461
+Summer Sun - 2003 - https://api.discogs.com/masters/32496
+Today Is The Day! - 2003 - https://api.discogs.com/masters/32502
+V.O.T.E. - 2004 - https://api.discogs.com/masters/1088561
+A Question Of Temperature - 2004 - https://api.discogs.com/masters/1499449
+Prisoners Of Love (A Smattering Of Scintillating Senescent Songs 1985-2003) - 2005 - https://api.discogs.com/masters/32506
+Is Murdering The Classics - 2006 - https://api.discogs.com/releases/1389442
+Mr. Tough - 2006 - https://api.discogs.com/masters/360591
+I Am Not Afraid Of You And I Will Beat Your Ass - 2006 - https://api.discogs.com/masters/32504
+Beanbag Chair - 2006 - https://api.discogs.com/masters/893847
+Live Session EP - 2007 - https://api.discogs.com/releases/3394960
+They Shoot, We Score - 2008 - https://api.discogs.com/masters/1737281
+Nothing To Hide - 2009 - https://api.discogs.com/releases/2093995
+Adventureland (The Original Score From The Motion Picture) - 2009 - https://api.discogs.com/masters/3097134
+Popular Songs - 2009 - https://api.discogs.com/masters/177964
+Matador At 21 (Young Suave Bold Rocker) - 2010 - https://api.discogs.com/releases/2481640
+Here To Fall Remixes - 2010 - https://api.discogs.com/masters/264103
+Stupid Things - 2012 - https://api.discogs.com/masters/884195
+Well You Better - 2013 - https://api.discogs.com/releases/4552121
+Super Kiwi  - 2013 - https://api.discogs.com/releases/5102566
+The Sounds Of Science - 2013 - https://api.discogs.com/releases/7639746
+Fade Deluxe - 2013 - https://api.discogs.com/releases/11683564
+Daytrotter Studio 9/4/2013 - 2013 - https://api.discogs.com/releases/12174644
+Fade - 2013 - https://api.discogs.com/masters/511321
+Ohm - 2013 - https://api.discogs.com/masters/874364
+Tree - 2014 - https://api.discogs.com/releases/5339229
+Friday I'm In Love - 2015 - https://api.discogs.com/releases/7670371
+My Heart's Not In It - 2015 - https://api.discogs.com/releases/8718556
+Can't Forget (Live 8/28/2015) - 2015 - https://api.discogs.com/releases/9489370
+Parallelogram - 2015 - https://api.discogs.com/masters/998456
+Stuff Like That There - 2015 - https://api.discogs.com/masters/876742
+Murder In The Second Degree - 2016 - https://api.discogs.com/releases/9027244
+There's A Riot Going On - 2018 - https://api.discogs.com/masters/1330835
+Bermuda / Room Got Heavy - 2018 - https://api.discogs.com/masters/1439479
+We Have Amnesia Sometimes - 2020 - https://api.discogs.com/masters/1796135
+Sleepless Night - 2020 - https://api.discogs.com/masters/1818818
+The Bunker Sessions - 2023 - https://api.discogs.com/releases/29968045
+This Stupid World - 2023 - https://api.discogs.com/masters/2971105
+Freedom Of Choice - 1992 - https://api.discogs.com/masters/29871
+Dark Was The Night - 2009 - https://api.discogs.com/masters/44661
+Speeding Motorcycle - 1990 - https://api.discogs.com/masters/222198
+Labels Epoque - 1995 - https://api.discogs.com/releases/2145135
+Audio CD - 1995 - https://api.discogs.com/releases/4081399
+The Lounge Ax Defense & Relocation Compact Disc - 1996 - https://api.discogs.com/masters/577703
+Kids In The Hall - Brain Candy (Music From The Motion Picture Soundtrack) - 1996 - https://api.discogs.com/masters/28080
+New Voices Vol. 10 - 1997 - https://api.discogs.com/releases/507459
+Musikexpress 12 - Matador Records - 1997 - https://api.discogs.com/releases/648127
+Audio CD - 1997 - https://api.discogs.com/releases/3467209
+What's Up Matador - 1997 - https://api.discogs.com/masters/145519
+The Wire Tapper 2 - 1998 - https://api.discogs.com/masters/1796626
+Everything Is Nice - The Matador Records 10th Anniversary Anthology - 1999 - https://api.discogs.com/masters/323469
+Everything Is Nice - The Matador Records 10th Anniversary Anthology - 1999 - https://api.discogs.com/masters/55781
+New Voices Vol. 34 - 2000 - https://api.discogs.com/releases/1528587
+Unconditionally Guaranteed 2000.2 (Uncut's Guide To The Month's Best Music) - 2000 - https://api.discogs.com/releases/1975282
+The Wire Tapper 5 - 2000 - https://api.discogs.com/masters/2571593
+Full Swing Edits (#4) - 2001 - https://api.discogs.com/releases/415948
+18-Track Guide To The Month's Best Music - 2001 - https://api.discogs.com/releases/976426
+Live Music & The Voice Of Strangers - 2001 - https://api.discogs.com/releases/3199419
+A To B - 2001 - https://api.discogs.com/releases/4166488
+All Tomorrow's Parties 1.0 - 2001 - https://api.discogs.com/masters/82780
+Sónar 2002 - 2002 - https://api.discogs.com/masters/538189
+It's Alright Mate, You're In A Western - 2003 - https://api.discogs.com/releases/1418343
+Absolutely Live 2003 - 2003 - https://api.discogs.com/releases/1587629
+Matador At Fifteen - 2004 - https://api.discogs.com/releases/651630
+The 2005 Music Issue - 2005 - https://api.discogs.com/releases/1335556
+Covers Cassette (R.I.P. Chris Acland) - 2006 - https://api.discogs.com/releases/3394299
+Chapter 1 - 2007 - https://api.discogs.com/masters/951204
+New York Hospitals - 2008 - https://api.discogs.com/masters/553307
+SCORE! Twenty Years Of Merge Records - 2009 - https://api.discogs.com/releases/2077085
+Do They Know It's Christmas? - 2009 - https://api.discogs.com/releases/12494080
+Dark Was The Night - 2009 - https://api.discogs.com/masters/44661
+David's Plan - 2010 - https://api.discogs.com/masters/3137439
+April To April - 2011 - https://api.discogs.com/releases/15820946
+Christmas In Haworth: An Advent Calendar From Darren Hayman, Fika Recordings And Friends - 2011 - https://api.discogs.com/masters/1755111
+Roadcase 018 / June 21, 2013 / Solid Sound - 2013 - https://api.discogs.com/releases/4707456
+KK + TM Vol. 2 - 2013 - https://api.discogs.com/releases/4849842
+Suburban Fortress - 2013 - https://api.discogs.com/releases/8718751
+Rustic Sky - 2014 - https://api.discogs.com/releases/28604188
+2776 - A Levinson Brothers & Rob Kutner Presentation - 2014 - https://api.discogs.com/masters/3235861
+Untitled - 2014 - https://api.discogs.com/masters/2650754
+Heart Star Gift - 2014 - https://api.discogs.com/masters/699534
+Tears Are In Your Eyes - 2016 - https://api.discogs.com/releases/8739904
+The Hustle (15 Tracks Curated By Kurt Wagner Of Lambchop) - 2016 - https://api.discogs.com/releases/9243130
+Play What They Want - 2017 - https://api.discogs.com/masters/1188953
+Under Cover Summer - 2018 - https://api.discogs.com/releases/12351292
+Room307 - 2018 - https://api.discogs.com/masters/2063968
+El Tiempo Lo Destruye Todo - 2019 - https://api.discogs.com/releases/19000258
+Tunes In Our Rooms - 2020 - https://api.discogs.com/releases/15532356
+Covered​-​19 (A Benefit Compilation for Willows Animal Sanctuary) - 2020 - https://api.discogs.com/releases/15556226
+Yo la Tengo C​(​L​)​overs  - 2020 - https://api.discogs.com/releases/15584194
+Going To Georgia - 2020 - https://api.discogs.com/releases/16326657
+Treat You Good: Ryan Allen Sings The 90s - 2020 - https://api.discogs.com/releases/17332219
+Belo Horizonte / É O Que Hai - 2020 - https://api.discogs.com/releases/18476881
+Always The Shadows - 2021 - https://api.discogs.com/releases/20097439
+The Sound Of Yourself - 2021 - https://api.discogs.com/masters/2307082
+10 - 2022 - https://api.discogs.com/masters/2848762
+We Dance - 2024 - https://api.discogs.com/releases/30720638
+For Your Ears Only - Jersey Beat Comp. Vol. 2 - 1984 - https://api.discogs.com/masters/1452290
+Luxury Condos Coming To Your Neighborhood Soon - 1985 - https://api.discogs.com/masters/332974
+Eastern Shores - An American Compilation - 1986 - https://api.discogs.com/releases/3891705
+Happiness Is Dry Pants - 1987 - https://api.discogs.com/masters/1712205
+Mouthful Of Sweat: The Chemical Imbalance Video Compilation - 1988 - https://api.discogs.com/releases/5758150
+Human Music - 1988 - https://api.discogs.com/masters/55369
+How To Tell The Boys From The Girls - 1989 - https://api.discogs.com/releases/24506174
+CMJ Presents Certain Damage! - Volume 29 - 1990 - https://api.discogs.com/releases/1138988
+Disc Drive: Week 5 - 1990 - https://api.discogs.com/releases/6078513
+Expand-O CD Tune Up 6 - 1990 - https://api.discogs.com/releases/10076671
+Life Is Too Short For Boring Music - 1991 - https://api.discogs.com/releases/2168410
+Smell The Luv - 1991 - https://api.discogs.com/releases/14383665
+A Matter Of Degrees - Original Motion Picture Soundtrack - 1991 - https://api.discogs.com/masters/449540
+Slanged! - 1991 - https://api.discogs.com/masters/3232642
+The Ruta 66 Album - 1991 - https://api.discogs.com/masters/707486
+Delicacy & Nourishment (Lyrics By Ernest Noyes Brookings Vol. 3) - 1992 - https://api.discogs.com/releases/698922
+Love Is Like A Poke In The Eye With A Sharp Stick - 1992 - https://api.discogs.com/releases/13265002
+120 Minutes Left Of The Dial Weeks 1 & 2 Shows 1 - 10 - 1992 - https://api.discogs.com/releases/27423126
+Freedom Of Choice - 1992 - https://api.discogs.com/masters/29871
+The Best Of Mountain Stage Volume Three - 1992 - https://api.discogs.com/masters/909200
+They Came, They Played, They Blocked The Driveway - 1993 - https://api.discogs.com/releases/1390764
+Going Underground Vol. II - 1993 - https://api.discogs.com/releases/1844173
+This Is Art (A Hoboken Compilation) - 1993 - https://api.discogs.com/releases/2862308
+Alias w/ A Bullet - 1993 - https://api.discogs.com/releases/4972933
+Happy Whatever - 1993 - https://api.discogs.com/releases/5815650
+Hot! Cinnamon Churros - 1993 - https://api.discogs.com/releases/6578890
+Remember... Life Is Too Short For Boring Music - 1993 - https://api.discogs.com/releases/7114556
+De Cadix - 1993 - https://api.discogs.com/releases/7615152
+A Love Like Lead! - 1993 - https://api.discogs.com/releases/8267565
+This One Goes To 11+ - 1993 - https://api.discogs.com/releases/11191940
+Don't Eat Yellow Snow - 1993 - https://api.discogs.com/releases/16109896
+Release #10 1993 The Atlantic Group - 1993 - https://api.discogs.com/releases/26585723
+Spew 4th - 1993 - https://api.discogs.com/masters/604600
+Music From The Films Of Hal Hartley - 1993 - https://api.discogs.com/masters/689101
+Real Underground Vol.1&2 - 1994 - https://api.discogs.com/releases/1453752
+Brush Your Ears - 1994 - https://api.discogs.com/releases/2421013
+Neil Young   Under Cover - 1994 - https://api.discogs.com/releases/13185942
+Progressivision: Winter 1994 - 1994 - https://api.discogs.com/releases/14398146
+Amateur Soundtrack - A Film By Hal Hartley - 1994 - https://api.discogs.com/masters/149566
+Spew 5 - 1994 - https://api.discogs.com/masters/1250092
+Lo-Fi - ~Electric Acoustic & Radical~ - 1995 - https://api.discogs.com/releases/860900
+Introducing Vol. 1 - 1995 - https://api.discogs.com/releases/909582
+Listen Now! - 1995 - https://api.discogs.com/releases/1775329
+Listen Now! - Volume 2 - 1995 - https://api.discogs.com/releases/1775347
+Labels Epoque - 1995 - https://api.discogs.com/releases/2145135
+Audio CD - 1995 - https://api.discogs.com/releases/4081399
+Alias 101 - 1996 - https://api.discogs.com/releases/2631004
+No Vacancy (American Alternatives) - 1996 - https://api.discogs.com/releases/8786686
+The Lounge Ax Defense & Relocation Compact Disc - 1996 - https://api.discogs.com/masters/577703
+I Shot Andy Warhol - Music From And Inspired By The Motion Picture - 1996 - https://api.discogs.com/masters/315649
+Kids In The Hall - Brain Candy (Music From The Motion Picture Soundtrack) - 1996 - https://api.discogs.com/masters/28080
+New Voices Vol. 10 - 1997 - https://api.discogs.com/releases/507459
+Musikexpress 12 - Matador Records - 1997 - https://api.discogs.com/releases/648127
+Spooky Sounds Of Now - 1997 - https://api.discogs.com/releases/1541697
+Rare Trax Vol. 2 (Guess Who? Coole Cover-Versionen, Die Keiner Kennt) - 1997 - https://api.discogs.com/releases/1712464
+Audio CD - 1997 - https://api.discogs.com/releases/3467209
+Intended Play Winter / Spring '97 - 1997 - https://api.discogs.com/releases/4778558
+What's Up Matador - 1997 - https://api.discogs.com/releases/8250980
+Auto CD - 5 12 Top Albums November '97 - 1997 - https://api.discogs.com/releases/10144435
+Virtually Alternative 81 - 1997 - https://api.discogs.com/releases/11131218
+The Mix - 174 - 1997 - https://api.discogs.com/releases/15337733
+What's Up Matador - 1997 - https://api.discogs.com/masters/145519
+Opscene Promo CD  #5 - 1998 - https://api.discogs.com/releases/1006795
 Benicàssim'98 - 1998 - https://api.discogs.com/releases/3309631
-Pop #7 - Creation Vol 1 - 1998 - https://api.discogs.com/releases/6973276
-Sampler Sony Music Entertainment Polska Vol. 3 - 1998 - https://api.discogs.com/releases/10039902
-Sampler Vol. 2  Sony Music 1998 - 1998 - https://api.discogs.com/releases/10422966
-Live Volume 1 - 1998 - https://api.discogs.com/releases/10452664
-Warner Music Canada May 1998 - Vol. 360 - 1998 - https://api.discogs.com/releases/10687072
-Epic/Sony Single Collection April, 1998 - 1998 - https://api.discogs.com/releases/12256319
-Une Histoire Du Rock Indépendant - 1998 - https://api.discogs.com/releases/12392251
-Novinky 06/98 - 1998 - https://api.discogs.com/releases/12463255
-New Wave Riders - 1998 - https://api.discogs.com/releases/12844251
-No More Tears - 1998 - https://api.discogs.com/releases/13175155
-Epic-cd - 1998 - https://api.discogs.com/releases/14571249
-Sony Music Monthly Sampler June 1998 - 1998 - https://api.discogs.com/releases/15047923
-The Mix - 220 - 1998 - https://api.discogs.com/releases/15139165
-朋克时代 VOL.1 - 1998 - https://api.discogs.com/releases/19219072
-EuroXclusive 98-12 (March 20, 1998) - 1998 - https://api.discogs.com/releases/22925660
-Gromfest 98 - 1998 - https://api.discogs.com/releases/28770583
-Alternative Distribution Alliance Monthly New Release Sampler June '98 - 1998 - https://api.discogs.com/releases/29169364
-Sanctuary · 28 Gothic Anthems - 1998 - https://api.discogs.com/masters/2251798
-Vampiri - 1998 - https://api.discogs.com/masters/2102542
-Nocturnal - 1998 - https://api.discogs.com/masters/153446
-Dressed In Black (Best Of 80's New Wave/Gothic) - 1999 - https://api.discogs.com/releases/458129
-Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/475795
-Priceless Creation - 1999 - https://api.discogs.com/releases/1423479
-Rage - More Of The Songs Most Chosen By Rage Guest Programmers - 1999 - https://api.discogs.com/releases/1465648
-Guitar Pop Jamboree - Starting (Here) - 1999 - https://api.discogs.com/releases/1678586
-The Power Of Love: 1986 - 1988 - 1999 - https://api.discogs.com/releases/9512668
-Impacto TV (La Música Del Programa De TV) - 1999 - https://api.discogs.com/releases/10587842
-Sony Rock 'N Promo - 1999 - https://api.discogs.com/releases/12204526
-Barney Simon 1980-2000 (20 Years In Modern Rock) - 1999 - https://api.discogs.com/releases/15269729
-Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/28575928
-Priceless Creation - 1999 - https://api.discogs.com/masters/1707620
-Ever Fallen In Love (20 Classics From The New Wave Era) - 1999 - https://api.discogs.com/masters/1727092
-London Nite - 1999 - https://api.discogs.com/masters/1929336
-On The Edge - 1999 - https://api.discogs.com/masters/2352097
-Doubleshot: Modern Rock - 2000 - https://api.discogs.com/releases/2836522
-New Breed Of Rock - 2000 - https://api.discogs.com/releases/11725854
-The Best Of Rockwave Festival - 2000 - https://api.discogs.com/releases/14292956
-Vamos Como Motos - 2000 - https://api.discogs.com/masters/2599832
-Creation Records • International Guardians Of Rock 'N' Roll 1983-1999 - 2000 - https://api.discogs.com/masters/20918
-Dressed In Black 3 - 2001 - https://api.discogs.com/releases/509591
-Was Het Nu 70, 80 Of 90?  File 2 - 2001 - https://api.discogs.com/releases/987694
-Glorious - 36 Essential Modern Anthems - 2001 - https://api.discogs.com/releases/2991832
-Oor 1981 - 1990 10 Jaar Popmuziek - 2001 - https://api.discogs.com/releases/4387192
-The 90's Decade: New Breed Of Rock - 2001 - https://api.discogs.com/releases/12861605
-Psycho Waves - 2001 - https://api.discogs.com/releases/14901497
-The Best ALTERNATIV3 Album... Ever! - 2002 - https://api.discogs.com/releases/655452
-Alternative Eighties Vol. 01 - 2002 - https://api.discogs.com/releases/3601016
-Platinum 2 - The Best Hits Selection - 2002 - https://api.discogs.com/releases/4728634
-The Best B Sides Of All Time - 2002 - https://api.discogs.com/releases/8912804
-Halloween Compilation 2002 - 2002 - https://api.discogs.com/releases/11297907
-Warner Music Japan Vol. 8 - 2002 - 2002 - https://api.discogs.com/releases/12853702
-Goth (A Collection Taking You For A Walk On The Dark Side) - 2003 - https://api.discogs.com/releases/589525
-Essential 80's (New.Wave) - 2003 - https://api.discogs.com/releases/622058
-Luis Filipe Barros Apresenta Ondas Luisianas - 2003 - https://api.discogs.com/releases/6207349
-All That Rock - 2003 - https://api.discogs.com/releases/8120645
-Shake Some Action (39 Alternative Classics 1976-1991) - 2003 - https://api.discogs.com/releases/8803585
-The 90s Collection - 90s Hot Hits - 2003 - https://api.discogs.com/releases/9669009
-Me Gusta Conducir - 2003 - https://api.discogs.com/releases/13663001
-Later...With Jools Holland Louder - 2003 - https://api.discogs.com/masters/533133
-Dark Side Of The 80's - 2003 - https://api.discogs.com/masters/17207
-Lost In Translation (Music From The Motion Picture Soundtrack) - 2003 - https://api.discogs.com/masters/71496
-Rough Trade Shops (Indiepop 1) - 2004 - https://api.discogs.com/releases/353151
-Crash! Indie Anthems - 2004 - https://api.discogs.com/releases/1171217
-Essential Music Videos: '80s UK - 2004 - https://api.discogs.com/releases/1963141
-The Dark Side (Forty Alternative Anthems) - 2004 - https://api.discogs.com/releases/2193681
-BMG Synctank - Sync-2-Fit Catalog 06-04 - 2004 - https://api.discogs.com/releases/3710659
-All That Alternative - 2004 - https://api.discogs.com/releases/5360054
-Diesel Greatest Hips: Bumix - Too Hot To Handle - 2004 - https://api.discogs.com/releases/5622850
-Rock & Techno Pop - 2004 - https://api.discogs.com/releases/6425033
-The Old Grey Whistle Test Volume 3 - 2004 - https://api.discogs.com/releases/9968299
-Diesel Greatest Hips: Dardy - Return To Oz - 2004 - https://api.discogs.com/masters/567567
-Left Of The Dial: Dispatches From The 80s Underground - 2004 - https://api.discogs.com/masters/206191
-1985 (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/993705
-10 Of The Best Scottish Bands Of All Time - 2005 - https://api.discogs.com/releases/2410444
-Up Where We Belong - 80s Movie Hits - 2005 - https://api.discogs.com/releases/4161465
-Band In The World - God Save The Queen - 2005 - https://api.discogs.com/releases/5998941
-The Other Side Of The 80s Edition - 2005 - https://api.discogs.com/releases/7384597
-Band In The World - You're The Best - 2005 - https://api.discogs.com/releases/7919495
-All That Punk - 2005 - https://api.discogs.com/releases/9364513
-Rock TV  Classic 2 - 2005 - https://api.discogs.com/releases/10458907
-Band In The World - Always The Sun - 2005 - https://api.discogs.com/releases/10854419
-Γιάννης Πετρίδης - 30 Χρόνια Απογεύματα Στην ΕΡΤ -  Από Τις 4 Στις 5 - Warner Years - 2005 - https://api.discogs.com/releases/11059232
-Fab 50 - 2005 - https://api.discogs.com/releases/11433032
-Halloween Party - 2005 - https://api.discogs.com/releases/12258427
-New Wave Essentials - 2005 - https://api.discogs.com/masters/1306686
-John Peel - A Tribute - 2005 - https://api.discogs.com/masters/2360014
-The Old Grey Whistle Test  (The Definitive Collection) - 2005 - https://api.discogs.com/masters/300754
-Essential New Wave - Volume 3 - 2006 - https://api.discogs.com/releases/844362
-Rhino SXSW Sampler - 2006 - https://api.discogs.com/releases/1488652
-Uncut: The Playlist August 2006 - 2006 - https://api.discogs.com/releases/1613924
+Roadsongs - 1998 - https://api.discogs.com/releases/7990699
+Scraps / Photographs By Michael Galinsky - 1998 - https://api.discogs.com/releases/9636282
+Midline Catalog Sampler Summer '98 - 1998 - https://api.discogs.com/releases/11917781
+Structure35 - 1998 - https://api.discogs.com/releases/12058062
+The Wire Tapper 2 - 1998 - https://api.discogs.com/masters/1796626
+The Book Of Life Soundtrack: A Film By Hal Hartley - 1999 - https://api.discogs.com/releases/1537607
+Our Secret - 1999 - https://api.discogs.com/releases/12356069
+Everything Is Nice - The Matador Records 10th Anniversary Anthology - 1999 - https://api.discogs.com/masters/323469
+Everything Is Nice - The Matador Records 10th Anniversary Anthology - 1999 - https://api.discogs.com/masters/55781
+Communication: 10 Years Of City Slang - 2000 - https://api.discogs.com/releases/215931
+Intended Play Spring/Summer 2000 - 2000 - https://api.discogs.com/releases/691579
+Open Ends: Musical Exploration In New York - 1960 To 2000 - 2000 - https://api.discogs.com/releases/725722
+Opscene CD#13 - 2000 - https://api.discogs.com/releases/1407027
+New Voices Vol. 34 - 2000 - https://api.discogs.com/releases/1528587
+Unconditionally Guaranteed 2000.2 (Uncut's Guide To The Month's Best Music) - 2000 - https://api.discogs.com/releases/1975282
+Rock Sound Volumen 25 - 2000 - https://api.discogs.com/releases/2532831
+Sonically Speaking (Vol 1: 2000) - 2000 - https://api.discogs.com/releases/2770408
+Hear Music Volume 1 - A Look Homeward - 2000 - https://api.discogs.com/releases/4096897
+Gimme Indie Rock V.1 - 2000 - https://api.discogs.com/releases/5843247
+Le Printemps De Bourges Du 19 Au 24 Avril 2000 - 2000 - https://api.discogs.com/releases/7752488
+Marzo 2000 - 2000 - https://api.discogs.com/releases/9826232
+Now That's Italian - 2000 - https://api.discogs.com/releases/9991244
+You Are Here [Number Eight] - 2000 - https://api.discogs.com/releases/11712022
+The Wire Tapper 5 - 2000 - https://api.discogs.com/masters/2571593
+Grand Slang - 2000 - https://api.discogs.com/masters/54610
+18-Track Guide To The Month's Best Music - 2001 - https://api.discogs.com/releases/976426
+Momentos 2000 - 2001 - https://api.discogs.com/releases/1891977
+Los Inrockuptibles' Matador Records Sampler - 2001 - https://api.discogs.com/releases/10239427
+Draw Me A Riot - 2001 - https://api.discogs.com/masters/42656
+Full Swing Edits - 2001 - https://api.discogs.com/masters/313528
+The Invisible Circus (Original Motion Picture Soundtrack) - 2001 - https://api.discogs.com/masters/1159471
+All Tomorrow's Parties 1.0 - 2001 - https://api.discogs.com/masters/82780
+Hard Rain Vol Two (A Tribute To Bob Dylan) - 2002 - https://api.discogs.com/releases/1409133
+Cheaply Made, Cheaply Priced - 2002 - https://api.discogs.com/releases/3352927
+Twilight World 2.0 - 2002 - https://api.discogs.com/releases/4353719
+The Beggars Channel - 2002 - https://api.discogs.com/releases/5243751
+Greasy Kid Stuff: Songs From Inside The Radio - 2002 - https://api.discogs.com/releases/10749746
+Artist's Choice: Lucinda Williams - 2002 - https://api.discogs.com/releases/11298083
+Radio Cookie Scene 0009 December 2002 - 2002 - https://api.discogs.com/releases/12543166
+While Basking In Daylight - 2002 - https://api.discogs.com/releases/24090557
+Sónar 2002 - 2002 - https://api.discogs.com/masters/538189
+Our Little Corner Of The World (Music From Gilmore Girls) - 2002 - https://api.discogs.com/masters/310066
+This Is Where I Belong: The Songs Of Ray Davies & The Kinks - 2002 - https://api.discogs.com/masters/321848
+Matador Records: Intended Play 2003 - 2003 - https://api.discogs.com/releases/696750
+Matador Records:Intended Play Spring 2003 - 2003 - https://api.discogs.com/releases/698675
+Absolutely Live 2003 - 2003 - https://api.discogs.com/releases/1587629
+Vital Music - Chain With No Name - 2003 - https://api.discogs.com/releases/5466745
+Radio Cookie Scene 0011 April / May 2003 - 2003 - https://api.discogs.com/releases/12542883
+Super Сборка №5 03 - 2003 - https://api.discogs.com/releases/13738015
+No Bull! (A Matador Sampler 2003) - 2003 - https://api.discogs.com/releases/14644858
+Hear Music  Volume 10  Reveal - 2003 - https://api.discogs.com/releases/14932244
+Ocotillo Junction  - 2003 - https://api.discogs.com/releases/22158010
+Wig In A Box – Songs From And Inspired By Hedwig And The Angry Inch - 2003 - https://api.discogs.com/masters/880388
+Another Night, Just Yet Not Another Day (The Hi-Lo Tunez Plan: 3rd Step) - 2003 - https://api.discogs.com/masters/992071
+Peace Not War - 2003 - https://api.discogs.com/masters/1121250
+Matador At Fifteen - 2004 - https://api.discogs.com/releases/651630
+Intended Play Spring/Summer 2004 - 2004 - https://api.discogs.com/releases/696723
+Small Hours - 2004 - https://api.discogs.com/releases/1138587
+Mix IASTAR - 2004 - https://api.discogs.com/releases/1908273
+The Q People - A Tribute To NRBQ - 2004 - https://api.discogs.com/releases/15283495
+InRadio 10: Creek Cats - 2004 - https://api.discogs.com/releases/15435902
+The Q People - A Tribute To NRBQ - 2004 - https://api.discogs.com/masters/1580105
+La Route Du Rock 15 - 2005 - https://api.discogs.com/releases/505117
+1990  (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/801961
+Benicàssim 2005 - 2005 - https://api.discogs.com/releases/1490229
+East Of Broadway: A Benefit For Fourth Arts Block - 2005 - https://api.discogs.com/releases/2438221
+[15 Aniversario PopStock! - Everlasting] - 2005 - https://api.discogs.com/releases/2632697
+Intended Play 2005: The Wrongs Of Spring - 2005 - https://api.discogs.com/releases/5877941
+CCTI ABRIL 2005 - 2005 - https://api.discogs.com/releases/15962147
+Matador Spring 2005 AAA Sampler - 2005 - https://api.discogs.com/releases/23309729
+The Modern Genius Of Ray Davies (15 Track Mojo Tribute) - 2006 - https://api.discogs.com/releases/636427
+Everything Is Nicer - 2006 - https://api.discogs.com/releases/755684
+Paris Don't Cry - 2006 - https://api.discogs.com/releases/937287
+Les Inrockuptibles Présentent : Best Of 2006, Les 50 Meilleures Chansons De L'Année - 2006 - https://api.discogs.com/releases/1604562
+1997 (Ein Jahr Und Seine 20 Songs)  - 2006 - https://api.discogs.com/releases/2133512
 THISISNOTANEXIT Vol. 5 - 2006 - https://api.discogs.com/releases/2198910
-The Old Grey Whistle Test - The Complete Collection - 2006 - https://api.discogs.com/releases/2755018
-Les Inrockuptibles Présentent 20 Ans ~ 100 Chansons 1986-2006 - 2006 - https://api.discogs.com/releases/2944063
-Albums του αιώνα - Warner Tracks - 2006 - https://api.discogs.com/releases/10870031
-100% Alternative Classics - 2006 - https://api.discogs.com/releases/13167898
-Fab 50 (Vol.2) - 2006 - https://api.discogs.com/releases/16024087
-2 X Later...With Jools Holland - Louder & Even Louder - 2006 - https://api.discogs.com/releases/16202850
-Too Lazy To Download 14 - August '06 - 2006 - https://api.discogs.com/releases/27483642
-John Peel - Right Time, Wrong Speed 1977-1987 - 2006 - https://api.discogs.com/masters/1051752
-CD86 (48 Tracks From The Birth Of Indie Pop) - 2006 - https://api.discogs.com/masters/212600
-A Life Less Lived (The Gothic Box) - 2006 - https://api.discogs.com/masters/381258
-Tribute To National Noise Day - 2007 - https://api.discogs.com/releases/1055072
-Selections From The Brit Box: U.K. Indie, Shoegaze, And Brit-Pop Gems Of The Last Millennium - 2007 - https://api.discogs.com/releases/1636694
-The Anthems 07 - 2007 - https://api.discogs.com/releases/3472033
-Off Your Box - 2007 - https://api.discogs.com/releases/12047603
-The Ultimate Rock Ballads Collection 1986-1988 - 2007 - https://api.discogs.com/releases/14262519
-Chrysalis Music Group USA Artist Catalog Sampler - 2007 - https://api.discogs.com/releases/27539862
-The Triptych - 2007 - https://api.discogs.com/masters/242950
-The Brit Box (UK Indie, Shoegaze, And Brit-Pop Gems Of The Last Millennium) - 2007 - https://api.discogs.com/masters/363324
-100 Hits 80s (100 Classic Tracks Of The Decade) - 2007 - https://api.discogs.com/masters/489367
-20 Years Of Rage - 2007 - https://api.discogs.com/masters/1510869
-The Second Wave - 2008 - https://api.discogs.com/releases/1401992
-Mannen Som Elsket Yngve - 2008 - https://api.discogs.com/releases/1448562
-100 Hits 80s Pop - 2008 - https://api.discogs.com/releases/1781619
-Newbury Comics 30th Anniversary - 2008 - https://api.discogs.com/releases/1989260
-Mannen Som Elsket Yngve - 2008 - https://api.discogs.com/releases/2444121
-Mastermix 80s Retro  Mixes Volume 2 - 2008 - https://api.discogs.com/releases/2560376
-NME Classics - 2008 - https://api.discogs.com/releases/3472106
-MISF*TS Mixtape #002 - 2008 - https://api.discogs.com/releases/4971739
-Return Of The Shoegaze - 2008 - https://api.discogs.com/releases/5962892
-Rage: Most Chosen - 2008 - https://api.discogs.com/releases/8753740
-British - 2008 - https://api.discogs.com/releases/17589991
-Heroes Original Soundtrack - 2008 - https://api.discogs.com/masters/356920
-Buzz Ballads 2 - 2008 - https://api.discogs.com/masters/3227233
-Revolutions In Sound: Warner Bros. Records The First Fifty Years - 2008 - https://api.discogs.com/masters/634590
-Zack And Miri Make A Porno: Music From The Motion Picture - 2008 - https://api.discogs.com/masters/1777377
-Sci-Fi-Lo-Fi Vol. 3 (Shoegazing 1985 - 2009) - 2008 - https://api.discogs.com/masters/67313
-Vox Pops Presents 1980s - 2009 - https://api.discogs.com/releases/2381279
-Smash Hits 1986 - 2009 - https://api.discogs.com/releases/3083172
-Smash Hits 1987 - 2009 - https://api.discogs.com/releases/3083332
-Top Of The Pops - Punk & New Wave - 2009 - https://api.discogs.com/releases/3907242
-After Dark (The Alternative Gothic Rock Collection) - 2009 - https://api.discogs.com/releases/4935335
-Born Into The 90s - 2009 - https://api.discogs.com/releases/6768301
-Bombora (The Soundtrack To Australian Surfing) - 2009 - https://api.discogs.com/releases/11073243
-Dark Cuts (The Evolution Of Emotional Rock) - 2009 - https://api.discogs.com/releases/11160178
-White Noise 2 - 2009 - https://api.discogs.com/releases/12296574
-Lo Esencial de Rock 101 - 2009 - https://api.discogs.com/releases/15360051
-Guinness- Music From The TV Ads - 2009 - https://api.discogs.com/releases/17356054
-V Festival Presents - 2009 - https://api.discogs.com/releases/29916955
-Retro Rage - 2009 - https://api.discogs.com/masters/1495169
-PostPunk (Original Anthems From The 70's And 80's Post-Punk Scene) - 2009 - https://api.discogs.com/masters/715539
-25 Years Pukkelpop - 2010 - https://api.discogs.com/releases/2384069
+Playlist September 2006 - 2006 - https://api.discogs.com/releases/5326965
+Independent Innovative Creative - 2006 - https://api.discogs.com/releases/8317373
+Radio Cookie Scene 0031 September / August 2006 - 2006 - https://api.discogs.com/releases/12532594
+Stay Tuned - ADA Sampler Fall 2006 - 2006 - https://api.discogs.com/releases/26485325
+Now Hear This! (15 Great Tunes Hand-Picked By The Word) (October 2006) - 2006 - https://api.discogs.com/masters/922202
+Shortbus (Original Soundtrack) - 2006 - https://api.discogs.com/masters/529188
+A Lazarus Taxon - 2006 - https://api.discogs.com/masters/4485
+Reprises Inrocks - 2007 - https://api.discogs.com/releases/1365535
+Momentos 2006 Volumen I Canciones Internacionales - 2007 - https://api.discogs.com/releases/2626881
+Postales Desde El Filo. Las Mejores Canciones Del 2006 - 2007 - https://api.discogs.com/releases/12240426
+A Tribute To No: 18 @ Atlas Pasaj Where Thrilling Music Meets With Nonsensible Business - 2007 - https://api.discogs.com/releases/15959381
+Beggars Cuvée 2006 / 2007 - 2007 - https://api.discogs.com/releases/27779124
+Sex drugs & Rock’n Roll - 2007 - https://api.discogs.com/releases/28630003
+Discos Matador Intended Play 2007 - 2007 - https://api.discogs.com/masters/2603129
+I'm Not There (Original Soundtrack) - 2007 - https://api.discogs.com/masters/44671
+Rough Trade Shops (Counter Culture 06) - 2007 - https://api.discogs.com/masters/400608
+Juno - Music From The Motion Picture (Deluxe Edition) - 2008 - https://api.discogs.com/masters/56882
+Wolf Diesel Mountain - 2008 - https://api.discogs.com/masters/255115
+Duyster.3 - 2008 - https://api.discogs.com/masters/769404
+RA.178 - 2009 - https://api.discogs.com/releases/1983127
+Type Mix - 2009 - https://api.discogs.com/releases/2242815
+Årsbeste 2009 - 2009 - https://api.discogs.com/releases/3422710
+Matador Music - Volume Two - 2009 - https://api.discogs.com/releases/4014939
+Dark Was The Night - 2009 - https://api.discogs.com/releases/26944424
+Stroke Songs For Chris Knox - 2009 - https://api.discogs.com/masters/350232
+Adventureland (Original Soundtrack) - 2009 - https://api.discogs.com/masters/2061877
+Dark Was The Night - 2009 - https://api.discogs.com/masters/44661
+Sweetheart (Our Favorite Artists Sing Their Favorite Love Songs) - 2010 - https://api.discogs.com/releases/2124375
 Ning Nong Typecast II - 2010 - https://api.discogs.com/releases/2457056
-80s Hits - 2010 - https://api.discogs.com/releases/2546401
-Ποπ+Ροκ Mixtape - 2010 - https://api.discogs.com/releases/3196239
-100 Hits Electric Eighties - 2010 - https://api.discogs.com/releases/4373977
-RocKwiz Uncovered - 2010 - https://api.discogs.com/releases/4953222
-Shooting From The Hip - 2010 - https://api.discogs.com/releases/5070671
-Under The Influence Of Alice - 2010 - https://api.discogs.com/releases/5211104
-100 Hits Dad - 2010 - https://api.discogs.com/releases/8477381
-Music For Vampires - 2010 - https://api.discogs.com/releases/11300399
-Triple J: Live At The Wireless: From The Vaults, Volume 3 - 2010 - https://api.discogs.com/releases/13119763
-'80s Halloween - 2010 - https://api.discogs.com/releases/16195116
-Krautrock - Masters + Echoes - 2010 - https://api.discogs.com/masters/408031
-100 Hits 80s Rewind - 2011 - https://api.discogs.com/releases/2867726
-New Wave Club Class•X - Sinner's Day 11 - 2011 - https://api.discogs.com/releases/3150323
-FACT PT Mix 040 - 2011 - https://api.discogs.com/releases/3304062
-Sonic Cathedrals Vol. XVI - 2011 - https://api.discogs.com/releases/3319253
-A Mass Of Blackness - Sonic Cathedrals Mixtapes Series - 2011 - https://api.discogs.com/releases/3333436
-100 Hits Rock Anthems - 2011 - https://api.discogs.com/releases/3412856
-Drivetime - 2011 - https://api.discogs.com/releases/6693930
-Alternative Nation - 100 Alternative Classics - 2011 - https://api.discogs.com/releases/8916897
-The Essential Movies - The Cool, The Cult And The Classic - 2011 - https://api.discogs.com/releases/11890971
-The Eighties - 2011 - https://api.discogs.com/releases/14041452
-80s Alternative - 2011 - https://api.discogs.com/releases/14719130
-I Melt With You (Original Motion Picture Soundtrack) - 2011 - https://api.discogs.com/releases/28933750
-12"/80s Alternative - 2011 - https://api.discogs.com/masters/376036
-Upside Down - The Creation Records Story - 2011 - https://api.discogs.com/masters/1689907
-80s Mixtape - 2011 - https://api.discogs.com/masters/681937
-80s The Collection - 60 Definitive Hits - 2012 - https://api.discogs.com/releases/5155186
-Classic Rock • The Collection  - 2012 - https://api.discogs.com/releases/11197244
-'80s Alternative - 2012 - https://api.discogs.com/releases/15101780
-Rockwiz Uncovered Volume Two - 2012 - https://api.discogs.com/releases/15728052
-Wild Edits 001 - 2013 - https://api.discogs.com/releases/4526411
-Nr. 250 - Die Besten Coversongs Aus 25 Jahren - 2013 - https://api.discogs.com/releases/5207378
-5 Classic Soundtracks - 2013 - https://api.discogs.com/releases/9218051
-Born To Rock Sixty Essential Rock Classics - 2013 - https://api.discogs.com/releases/12555195
-Dad The Collection - 2013 - https://api.discogs.com/releases/15973954
-Scared To Get Happy (A Story Of Indie-Pop 1980-1989) - 2013 - https://api.discogs.com/masters/1169430
-L'Inrockuptible - 2013 - https://api.discogs.com/masters/540357
-100x New Wave - 2014 - https://api.discogs.com/releases/6463927
-White Bird In A Blizzard (Songs From The Film) - 2014 - https://api.discogs.com/releases/6739301
-Svengali - Soundtrack Of The Motion Picture - 2014 - https://api.discogs.com/releases/8019061
-Made In Scotland - 2014 - https://api.discogs.com/releases/8167559
-Coffret 60 Ans De Musique - 2014 - https://api.discogs.com/releases/9707829
-Original New Wave - 2014 - https://api.discogs.com/releases/10361989
-Indie Anthems - The Collection - 2014 - https://api.discogs.com/releases/11486529
-Original Alternative - 2014 - https://api.discogs.com/releases/12014901
-Sonic Cathedrals Vol. CXXXIX - 2014 - https://api.discogs.com/releases/13761291
-C86 - 2014 - https://api.discogs.com/masters/90677
-Indie Anthems - 2014 - https://api.discogs.com/masters/3000317
-Classic 80s - 2015 - https://api.discogs.com/releases/8333573
-Smash Hits Years 1986 - 2015 - https://api.discogs.com/releases/8549317
-Smash Hits Years 1987 - 2015 - https://api.discogs.com/releases/8549564
-Greatest Ever! Alternative 80s (The Definitive Collection) - 2015 - https://api.discogs.com/releases/12321470
+Matador At 21 - 2010 - https://api.discogs.com/releases/2505849
+Matador At 21 - Matador Today (2008-2010) - 2010 - https://api.discogs.com/releases/2546328
+Matador At 21 - 2010 - https://api.discogs.com/releases/2575731
+Chrysalis Music 2010 Coachella - 2010 - https://api.discogs.com/releases/2614078
+February 2010 Chrysalis Music Singles Sampler - 2010 - https://api.discogs.com/releases/27629433
+Beautiful Songs (The Best Of Jad Fair) - 2011 - https://api.discogs.com/masters/662718
+My Last Mix Tape - 2012 - https://api.discogs.com/releases/4460061
+Occupy This Album - 2012 - https://api.discogs.com/releases/5776764
+Dislocated Balladry - 2012 - https://api.discogs.com/releases/6375729
+Superhits Of The Seventies  - 2012 - https://api.discogs.com/releases/9184348
+Secret Thirteen Mix 071 - 2013 - https://api.discogs.com/releases/4692995
+Songs In The Key Of Paul - 2013 - https://api.discogs.com/releases/4927818
+Duyster.4 - 2013 - https://api.discogs.com/releases/5212661
+Two Tones - 2013 - https://api.discogs.com/releases/11846639
+Remote Control January 2013 - 2013 - https://api.discogs.com/releases/15009841
+Matador Records 2013: It's Been A Business Doing Pleasure With You - 2013 - https://api.discogs.com/masters/678273
+Momentos 2013 Vol. I Canciones Internacionales - 2014 - https://api.discogs.com/releases/5253283
+FACT Mix 430 - 2014 - https://api.discogs.com/releases/5481510
+Bar/None Sampler 2014 - 2014 - https://api.discogs.com/releases/5715535
+Rough Trade Shops (End Of The Road Festival 2014) - 2014 - https://api.discogs.com/releases/9796505
+2776 - A Levinson Brothers & Rob Kutner Presentation - 2014 - https://api.discogs.com/masters/3235861
+Summer Of The 90s - 2014 - https://api.discogs.com/masters/805956
+Boyhood (Music From The Motion Picture) - 2014 - https://api.discogs.com/masters/936157
+For Thom - 2015 - https://api.discogs.com/releases/7812361
+Parallelogram - 2015 - https://api.discogs.com/releases/8331369
+Beggars Collection Automne-Hiver 2015 - 2015 - https://api.discogs.com/releases/14199700
 Rock & Folk 100% Rock Indé - 2015 - https://api.discogs.com/releases/15180781
-80 Hits of the... 80s - 2015 - https://api.discogs.com/masters/927396
-Creation Artifact: The Dawn Of Creation Records 1983-1985 - 2015 - https://api.discogs.com/masters/3477802
-Greatest Ever! Indie Disco - 2016 - https://api.discogs.com/releases/8113036
-Son-Of-A-Gun And More From The Lee Hazlewood Songbook - 2016 - https://api.discogs.com/releases/9006819
-The Other Side Of The 80s - 2016 - https://api.discogs.com/releases/10347539
-80s - The Ultimate 80s Anthems - 2016 - https://api.discogs.com/releases/10577861
-Simply Rock - 2016 - https://api.discogs.com/releases/11796091
-Simply Indie Anthems (4 CDs Of Indie Anthems) - 2016 - https://api.discogs.com/releases/15381294
-Simply Eighties - 2016 - https://api.discogs.com/releases/28712737
+Hostess Sampler 2015 Sep-Oct - 2015 - https://api.discogs.com/releases/15968625
+Christmas Time Again - 2015 - https://api.discogs.com/masters/982180
+Fifty@50 - 2015 - https://api.discogs.com/masters/1269167
+The Hustle (15 Tracks Curated By Kurt Wagner Of Lambchop) - 2016 - https://api.discogs.com/releases/9243130
+Cover Girls Vol. 3 - 2016 - https://api.discogs.com/releases/9908001
 30 Ans Des InRocKuptibles  - 2016 - https://api.discogs.com/masters/1482505
-Still In A Dream: A Story Of Shoegaze 1988-1995 - 2016 - https://api.discogs.com/masters/1066991
-New Noises Vol. 133 - Love Soldiers - Neue Songs Für März - 2017 - https://api.discogs.com/releases/9883759
-ME-CD Nr. 0417 - 2017 - https://api.discogs.com/releases/10010712
-Najlepsze Hity Dla Ciebie-Covery - 2017 - https://api.discogs.com/releases/10559268
-80s Classics: The Collection - 2017 - https://api.discogs.com/releases/10616780
-Rock Classics - The Ultimate Rock Anthems - 2017 - https://api.discogs.com/releases/11325409
-Smash Hits: Heartthrobs - 2017 - https://api.discogs.com/releases/11602594
-100 Greatest Rock - 2017 - https://api.discogs.com/releases/11655128
-Smash Hits 80s Mixtape - 2017 - https://api.discogs.com/releases/11759708
-100 Greatest Driving Songs - 2017 - https://api.discogs.com/releases/11803992
-100 Greatest Eighties - 2017 - https://api.discogs.com/releases/11841209
-Smash Hits Strange 80s - 2017 - https://api.discogs.com/releases/12464931
-Halloween Songs - 2017 - https://api.discogs.com/releases/12766643
-Throwback 80s - 2017 - https://api.discogs.com/releases/13353325
-Warner Time 01 International Hits Compilation 2017 - 2017 - https://api.discogs.com/releases/28576318
-Throwback Covers - 2017 - https://api.discogs.com/releases/30985291
-Smash Hits: Punk & New Wave - 2017 - https://api.discogs.com/masters/1384610
-The Early Days (Post Punk, New Wave, Brit Pop & Beyond 1980 - 2010) - 2017 - https://api.discogs.com/masters/1212322
-I Wanna Be Sedated: From The Underground - Celebrating 60 Years Of Warner Bros. Records - 2018 - https://api.discogs.com/releases/12514164
-Just A Bad Dream: Sixty British Garage And Trash Nuggets 1981-89 - 2018 - https://api.discogs.com/releases/13004134
-80 Smash Hits Of The 80s - 2018 - https://api.discogs.com/releases/13095465
-Fucked Up Present: Scotch Tape - 2018 - https://api.discogs.com/releases/13162053
-The Greatest Eighties Album - 2018 - https://api.discogs.com/releases/13306124
-Fact Mix 666 - 2018 - https://api.discogs.com/releases/29397787
-Big Gold Dreams - A Story of Scottish Independent Music 1977-1989 - 2019 - https://api.discogs.com/releases/13324795
-Vernon Subutex (La Bande Originale De La Série) - 2019 - https://api.discogs.com/releases/13670927
-Ultimate Eighties (The Classics) - 2019 - https://api.discogs.com/releases/14058754
-Awesone 80s New Wave - 2019 - https://api.discogs.com/releases/15237124
-Take On Me - 80s Anthems (The Ultimate Collection) - 2019 - https://api.discogs.com/releases/16099515
-Ultimate Rock (The Classics) - 2019 - https://api.discogs.com/releases/19851100
-80's & 90's - 2019 - https://api.discogs.com/masters/1798872
-80s (The Ultimate Collection) - 2020 - https://api.discogs.com/releases/15714833
-Greatest Ever Rock - 2020 - https://api.discogs.com/releases/17435554
-Greatest Ever 90s - 2020 - https://api.discogs.com/releases/22231690
-Fact Mix 778 - 2020 - https://api.discogs.com/releases/29372029
-Forgotten Hits (The Ultimate Collection) - 2021 - https://api.discogs.com/releases/17659828
-80s (The Ultimate Collection) - 2021 - https://api.discogs.com/releases/17972809
-Rock And New Wave (The Ultimate Collection) - 2021 - https://api.discogs.com/releases/19548019
-Greatest Ever Decade 80s - 2021 - https://api.discogs.com/releases/19879438
-The Sun Shines Here (The Roots Of Indie-Pop 1980-1984) - 2021 - https://api.discogs.com/masters/2417221
-I.D (Music Inspired By The Film) - 2022 - https://api.discogs.com/releases/22921283
-90s Anthems - The Ultimate Collection - 2022 - https://api.discogs.com/releases/24493181
-Spaceships Over Glasgow - 2022 - https://api.discogs.com/releases/25163890
-C85 - 2022 - https://api.discogs.com/releases/25229557
-Third Man Records Mix CD 2022 Vol. 1 - 2022 - https://api.discogs.com/releases/29348671
-Life Moves Pretty Fast. (The John Hughes Mixtapes) - 2022 - https://api.discogs.com/masters/2862382
-Fear Of The Dawn - 2022 - https://api.discogs.com/masters/2580311
-Jon Savage's 1983-1985 (Welcome To Techno City) - 2024 - https://api.discogs.com/releases/29642845
-Real Live Wire (15 Tracks Of The Month's Best New Music) - 2024 - https://api.discogs.com/releases/29652277
-Mars 2024 - 2024 - https://api.discogs.com/releases/29874226
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3139807
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3140635
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3140722
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3140864
-Songs Katie Taught Us - Desconocido - https://api.discogs.com/releases/3283246
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/5208607
-Best Of 102 Music ( Volume Four )  - Desconocido - https://api.discogs.com/releases/5234372
-Lollapalooza Special Tin Can  - Desconocido - https://api.discogs.com/releases/7083708
-Into The Future - Desconocido - https://api.discogs.com/releases/8076777
-Dance Trax - Desconocido - https://api.discogs.com/releases/10124091
-Rough Trade Compilation MCA / Geffen Convention - Desconocido - https://api.discogs.com/releases/10687355
-Glorious - Desconocido - https://api.discogs.com/releases/11475415
-Acoustic Favourites - Desconocido - https://api.discogs.com/releases/11808250
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/12976349
-Surfin' USA - Desconocido - https://api.discogs.com/releases/13127235
-Uncovered 18 Classic Songs, 18 Unique Artists - Desconocido - https://api.discogs.com/releases/13738239
-Rough Trade Exclusive Bonus CD  - Desconocido - https://api.discogs.com/releases/15240675
-The 80's Underground: Resurfacing Volume 2 - Desconocido - https://api.discogs.com/releases/20773306
-Summer Case - Desconocido - https://api.discogs.com/releases/24107747
-Flavour - Desconocido - https://api.discogs.com/releases/27157821
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/29735527
-Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/30059293
-Warner Music UK New Releases - Desconocido - https://api.discogs.com/masters/2923699
-Cutmedeadnailmedownandkickmyhead - 1985 - https://api.discogs.com/releases/859563
-Velvet Speed - 1985 - https://api.discogs.com/releases/2386838
-Taste The Floor - 1985 - https://api.discogs.com/releases/6586156
-Riot - 1985 - https://api.discogs.com/masters/346682
-Fuck - 1985 - https://api.discogs.com/masters/621433
-Give Me The Noise - 1986 - https://api.discogs.com/releases/2109509
-Shine On You Crazy Diamond - 1986 - https://api.discogs.com/releases/2109535
-Telling Their Beads - 1986 - https://api.discogs.com/releases/2386849
-Wall Of Psycho - 1986 - https://api.discogs.com/releases/2386859
-Searching For The Mary Chain - 1986 - https://api.discogs.com/releases/3124840
-Good-Bye Miss Marple - Konzerte Im AJZ Biel (83-85) - 1986 - https://api.discogs.com/releases/20953555
-You Trip Me Up - 1986 - https://api.discogs.com/masters/2615294
-Interview Picture Disc Limited Edition - 1987 - https://api.discogs.com/releases/1091590
-Interview Picture Disc - 1987 - https://api.discogs.com/releases/1209264
-Untitled - 1987 - https://api.discogs.com/releases/2952471
-Mouthcrazy - 1987 - https://api.discogs.com/releases/3085152
-Suck On This - 1987 - https://api.discogs.com/releases/3163605
-Live @ Markthalle, Hamburg, Germany, 1987-10-10 - 1987 - https://api.discogs.com/releases/9635634
-Rockin' Umbria 87 - 1987 - https://api.discogs.com/masters/625524
-Εντροπία 3η  - 1988 - https://api.discogs.com/releases/7741648
-University Of London 29.4.88 - 1988 - https://api.discogs.com/releases/21684916
-Who The Fuck Is - 1989 - https://api.discogs.com/masters/1817305
-Estadio Obras, 7 Julio 1990 - 1990 - https://api.discogs.com/releases/22559330
-Live In Heaven 1987 - 1991 - https://api.discogs.com/releases/660199
-Surfin' USA - 1991 - https://api.discogs.com/releases/1200698
-Suck On This - 1991 - https://api.discogs.com/releases/4291143
-Psychocandy - 1991 - https://api.discogs.com/masters/5332
-Lollapalooza '92 - 1992 - https://api.discogs.com/releases/1017048
-Vengeance - 1992 - https://api.discogs.com/releases/1440854
-Lollapalooza '92 Vol. 1 - 1992 - https://api.discogs.com/releases/10136170
-Honey's Dead  - 1992 - https://api.discogs.com/masters/5374
-Walk And Crawl - 1992 - https://api.discogs.com/masters/663476
-Catch Fire - 1993 - https://api.discogs.com/releases/3179007
-Teenage Lust - 1993 - https://api.discogs.com/releases/3522513
-Alternative Live Vol. 2 - 1994 - https://api.discogs.com/releases/2643337
-Generation Rock - 1994 - https://api.discogs.com/masters/862164
-The Best...Album In The World...Ever! Vol.2 - 1995 - https://api.discogs.com/masters/1105441
-The Crow (Music From The Original Motion Picture) - 1995 - https://api.discogs.com/masters/61278
-Electricity - 1998 - https://api.discogs.com/releases/1562542
-Roskilde Festival - Roskilde Denmark -  28 jun. 1998 - 1998 - https://api.discogs.com/releases/24675974
-Munki - 1998 - https://api.discogs.com/masters/5610
-I’m Cult Hero -Chapter Two  - 1999 - https://api.discogs.com/masters/848667
-Peel - 2001 - https://api.discogs.com/masters/142197
-The History Of Dark & Gothic Music Scene - 2002 - https://api.discogs.com/releases/6586149
-Kilt By Death: The Sound Of Old Scotland (1977-1984) - 2005 - https://api.discogs.com/releases/3772594
-Sounds Of The 80s - 2006 - https://api.discogs.com/releases/4213509
-Lost In Translation (Music From The Motion Picture Soundtrack) - 2008 - https://api.discogs.com/masters/71496
-The Black Sessions - 2009 - https://api.discogs.com/releases/2358006
-FYF Members Mix Tape - 2010 - https://api.discogs.com/releases/2361034
-The Black Sessions - 2011 - https://api.discogs.com/releases/23016095
-The Complete John Peel Sessions - 2011 - https://api.discogs.com/masters/591667
-Send Me Away - Early Demos - 2011 - https://api.discogs.com/masters/681920
-The Black Sessions - 2012 - https://api.discogs.com/releases/23018135
-U4 Club, Wien, Austria April 10th, 1987 - 2014 - https://api.discogs.com/releases/7123817
-Pomona-Ca-Usa 2015 - 2015 - https://api.discogs.com/releases/9725440
-Live At The U4 Club, Wien, Austria April 10th, 1987 Fm Broadcast - 2017 - https://api.discogs.com/releases/10114877
-The Edge Of A Knife: Live At The U4 Club, Wien, Austria, Apr 10th 1987 - FM Broadcast - 2023 - https://api.discogs.com/releases/26616740
-Peel Sessions 84/86 - 2024 - https://api.discogs.com/releases/30350894
-Ultra Rare Trax - Desconocido - https://api.discogs.com/releases/545179
-Mushroom Head / Some Candy Talking - Desconocido - https://api.discogs.com/releases/853690
-ULU - Desconocido - https://api.discogs.com/releases/1099138
-Sex - Desconocido - https://api.discogs.com/releases/2263179
-Amsterdam Paradiso 13.10.87 + More - Desconocido - https://api.discogs.com/releases/2477593
-Pixies - Desconocido - https://api.discogs.com/releases/2587462
-Providence R.I. 09.03.90 - Desconocido - https://api.discogs.com/releases/3110839
-Self-titled - Desconocido - https://api.discogs.com/releases/3689085
-Live In Spain 1998 - Desconocido - https://api.discogs.com/releases/4502042
-Saltlagret, Copenhagen 1985.04.12 - Desconocido - https://api.discogs.com/releases/4589950
-Endevina Endevinalla - Desconocido - https://api.discogs.com/releases/5085735
-Mushroom - Desconocido - https://api.discogs.com/releases/6586164
-Spanish Honey 2013 - Desconocido - https://api.discogs.com/releases/8778445
-The Hardest Walk In Boston 1990 - Desconocido - https://api.discogs.com/releases/8779564
-Live At Early West Hollywood '88 - Desconocido - https://api.discogs.com/releases/8882891
-Live At Heaven, London 1987 - Desconocido - https://api.discogs.com/releases/10178783
-Untitled - Desconocido - https://api.discogs.com/releases/11621021
-Various Live & John Peel Sessions - Desconocido - https://api.discogs.com/releases/13425281
-Imaginary Friends - Tape - Desconocido - https://api.discogs.com/releases/19313404
-L.A 1986, Paris 03/85, Am’dam 03/85 - Desconocido - https://api.discogs.com/releases/20498224
-Swindle - Desconocido - https://api.discogs.com/releases/23017775
-Cookies - Desconocido - https://api.discogs.com/releases/23017949
-Glasgow, The Venue (Sessions) - Desconocido - https://api.discogs.com/releases/28087504
-Sessions + Brighton Pavilion 2.2.85 - Desconocido - https://api.discogs.com/releases/30249785
-Demos, Sessions, Live, Interviews - Desconocido - https://api.discogs.com/releases/30249932
-Black Session Sat 6th Aug 1994 - Desconocido - https://api.discogs.com/releases/30250079
-Nottingham 11-2-86 - Desconocido - https://api.discogs.com/releases/30250166
-N.London Poly 15:3:85/Brighton '85' - Desconocido - https://api.discogs.com/releases/30250217
-Gigant Apeldoorn 8-3-1985 - Desconocido - https://api.discogs.com/releases/30250262
-I.C.A London 29.12.84/Ambulance Station 23.11.84/John Peel Session 31.10.84 - Desconocido - https://api.discogs.com/releases/30250298
-Electric Ballroom 9.9.85 & Edin.Coasters 5.9.85 - Desconocido - https://api.discogs.com/releases/30250313
-Burgerweeshuis Deventer 17-10-'85 - Desconocido - https://api.discogs.com/releases/30250346
-Demos/Liverpool Sphinx Bar 30/1/85 - Desconocido - https://api.discogs.com/releases/30250382
-Hammersmith Palais 8.5.86/New York The World 7.12.85 - Desconocido - https://api.discogs.com/releases/30250439
-The Hits Album 8 Part-I - Desconocido - https://api.discogs.com/masters/133212
-Darklands - Desconocido - https://api.discogs.com/masters/5355
-Barbed Wire Kisses (B-Sides And More) - Desconocido - https://api.discogs.com/masters/5367
-Automatic - Desconocido - https://api.discogs.com/masters/5385
-Live LA Roxy 1985  - Desconocido - https://api.discogs.com/masters/3008273
-Trip U Up + - Desconocido - https://api.discogs.com/masters/1724256
-The Hits Album 7 (Part-II) - Desconocido - https://api.discogs.com/masters/71653
-Sub Rock - The Best Of Independent And Grunge - Desconocido - https://api.discogs.com/masters/1335787
+Tracks For New Neighbors - 2017 - https://api.discogs.com/releases/18662848
+Remote Control February Sampler 2018 - 2018 - https://api.discogs.com/releases/11600364
+Remote Control March Sampler 2018 - 2018 - https://api.discogs.com/releases/11702421
+2018 Joyful Noise VIP 7" Singles Series - 2018 - https://api.discogs.com/releases/16379364
+Beat Records Radio Sampler  - 2018 - https://api.discogs.com/releases/25770379
+25 Km/h (Der Original Soundtrack Zum Kinofilm) - 2018 - https://api.discogs.com/masters/1706835
+Superhits Of The Seventies - Super Hit Tsunami - 2019 - https://api.discogs.com/releases/13434629
+The Boaty Weekender Vol. 1 - 2019 - https://api.discogs.com/releases/13993983
+Hanukkah + - 2019 - https://api.discogs.com/masters/1700753
+Chord X: A Selection Of Songs Chosen By Peel Dream Magazine - 2020 - https://api.discogs.com/releases/15919032
+Wilcovered - 2020 - https://api.discogs.com/masters/1745148
+What Goes On (The Songs Of Lou Reed) - 2021 - https://api.discogs.com/releases/18687247
+Other Music: Soundtrack From The Documentary - 2021 - https://api.discogs.com/releases/18967108
+Snockument - Songs By Michael Hurley - 2021 - https://api.discogs.com/releases/20008597
+Allen Ginsberg's The Fall Of America - 2021 - https://api.discogs.com/masters/3051038
+Ocean Child : Songs Of Yoko Ono - 2022 - https://api.discogs.com/masters/2536930
+The Sound Of 2023 (15 Tracks Of The Year's Greatest Music) - 2023 - https://api.discogs.com/releases/28827568
+The Year Of The Wagon - Desconocido - https://api.discogs.com/releases/6512509
+The Year Of The Wagon: Alias Records Mail Order Catalogue - Desconocido - https://api.discogs.com/releases/13044736
+20 - Desconocido - https://api.discogs.com/releases/14454822
+Sessun Songs Collection - Desconocido - https://api.discogs.com/releases/17427586
+Disturbingly Entertaining - Desconocido - https://api.discogs.com/releases/20057521
+Wedding Album - 2000 - https://api.discogs.com/releases/1951596
+This Strange Effect - 2000 - https://api.discogs.com/releases/6622754
+Live At Sesc Pompéia - 2001 - https://api.discogs.com/releases/12553303
+The Complete MBV Works & Sessions - 2005 - https://api.discogs.com/releases/7556616
+The Black Sessions - 2009 - https://api.discogs.com/releases/2355883
+The Black Sessions, 1993 - 2009 - https://api.discogs.com/releases/2385892
+I Swear I'm A Metalhead But I Got Dumped - 2013 - https://api.discogs.com/releases/25396159
+Fade - 2013 - https://api.discogs.com/masters/511321
+Andalucia Live - 2015 - https://api.discogs.com/masters/988846
+New York, New York - Desconocido - https://api.discogs.com/releases/5927261
+Complete Rarities Extra - Desconocido - https://api.discogs.com/releases/6211730
+The Freewheeling Yo La Tengo - October 30, 2007 - Seattle, WA - Desconocido - https://api.discogs.com/releases/26215517
