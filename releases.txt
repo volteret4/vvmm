@@ -1,76 +1,470 @@
 Listado de releases del artista:
-Sending My Love - 2008 - https://api.discogs.com/masters/1544722
-Colour Yes - 2009 - https://api.discogs.com/masters/1544740
-On The Go - 2011 - https://api.discogs.com/masters/941362
-Fletcher Moss Park - 2012 - https://api.discogs.com/masters/482445
-When The World Was One - 2014 - https://api.discogs.com/masters/703743
-Journey In Satchidananda / Blue Nile - 2015 - https://api.discogs.com/masters/807712
-Into Forever - 2015 - https://api.discogs.com/masters/905450
-Inspirations - 2017 - https://api.discogs.com/masters/1213517
-Oneness - 2019 - https://api.discogs.com/masters/1614653
-What The World Needs Now Is Love / Tryin' Times - 2020 - https://api.discogs.com/masters/3222304
-Badder Weather / As I Walk - 2020 - https://api.discogs.com/masters/2204077
-Joyful Spirits Of The Universe - 2020 - https://api.discogs.com/masters/1861170
-Salute To The Sun - 2020 - https://api.discogs.com/masters/1843039
-Salute To The Sun (Live At Hallé St. Peter's) - 2021 - https://api.discogs.com/masters/2412826
-The Temple Within - 2022 - https://api.discogs.com/releases/30718001
-Changing Earth EP - 2022 - https://api.discogs.com/masters/2876380
-The Temple Within - 2022 - https://api.discogs.com/masters/2772590
-Bright Sparkling Light - 2023 - https://api.discogs.com/masters/3412798
-An Ever Changing View - 2023 - https://api.discogs.com/masters/3232888
-Akhenaten - 2009 - https://api.discogs.com/masters/353903
-Guiding Spirit - 2010 - https://api.discogs.com/masters/1002213
-Animalia - 2014 - https://api.discogs.com/masters/1102555
-Floa - 2016 - https://api.discogs.com/masters/1039872
-Horizons - 2022 - https://api.discogs.com/masters/2711153
-River Of Light - 2023 - https://api.discogs.com/masters/3322390
-Rising - 2024 - https://api.discogs.com/masters/3473278
-LateNightTales - 2013 - https://api.discogs.com/masters/623335
-Animalia - 2014 - https://api.discogs.com/masters/1102555
-Floa - 2016 - https://api.discogs.com/masters/1039872
-Humdrum Virtue - 2007 - https://api.discogs.com/masters/703901
-The Change EP - 2007 - https://api.discogs.com/masters/672174
-Dragon's Breath - 2009 - https://api.discogs.com/releases/1768023
-Wrought Iron - 2009 - https://api.discogs.com/masters/219317
-Akhenaten - 2009 - https://api.discogs.com/masters/353903
-Time - 2010 - https://api.discogs.com/releases/2228312
-Red + Yellow = - 2010 - https://api.discogs.com/releases/2985606
-Turn That Light Out - 2010 - https://api.discogs.com/masters/843213
-Guiding Spirit - 2010 - https://api.discogs.com/masters/1002213
-Girl And Robot With Flowers - 2012 - https://api.discogs.com/masters/497380
-Fragments - 2012 - https://api.discogs.com/masters/691440
-LateNightTales - 2013 - https://api.discogs.com/masters/623335
-Friendly Bacteria - 2014 - https://api.discogs.com/masters/688527
-v2.0 - 2014 - https://api.discogs.com/masters/694120
-Brownswood Bubblers Eleven - 2014 - https://api.discogs.com/masters/814827
-If You Knew Her - 2014 - https://api.discogs.com/masters/648304
-Evolution : Seed & Streams - 2016 - https://api.discogs.com/releases/9494504
+Streichelfisch - 2005 - https://api.discogs.com/masters/2604182
+My First EP - 2008 - https://api.discogs.com/releases/1760662
+Library Tapes / Nils Frahm - 2008 - https://api.discogs.com/releases/1883575
+Live at NBI Berlin - 2008 - https://api.discogs.com/releases/2056113
+Electric Piano - 2008 - https://api.discogs.com/masters/2604185
+Perform 'Dauw' - 2009 - https://api.discogs.com/releases/2044719
+Record Release Concert "The Bells" - 2009 - https://api.discogs.com/releases/2247855
+More Bells For You - 2009 - https://api.discogs.com/releases/3030435
+The Bells - 2009 - https://api.discogs.com/masters/183375
+Wintermusik - 2009 - https://api.discogs.com/masters/209204
+7fingers - 2009 - https://api.discogs.com/masters/262572
+Dauw - 2010 - https://api.discogs.com/releases/2086743
+Music For Lovers   Music Versus Time - 2010 - https://api.discogs.com/releases/2329279
+Unter | Über - 2010 - https://api.discogs.com/masters/284321
+Explorer's Club: 7. Belfast- Reykjavik - 2010 - https://api.discogs.com/masters/1809880
+Mort-Aux+Vaches - 2011 - https://api.discogs.com/releases/2759592
+Seeljocht - 2011 - https://api.discogs.com/releases/3089703
+Felt (Outtakes) - 2011 - https://api.discogs.com/releases/5487922
+Felt - 2011 - https://api.discogs.com/masters/382643
+Juno - 2011 - https://api.discogs.com/masters/441729
+Plagiat - 2012 - https://api.discogs.com/releases/5144950
+Stare - 2012 - https://api.discogs.com/masters/475395
+Screws - 2012 - https://api.discogs.com/masters/503180
+Juno Reworked - 2013 - https://api.discogs.com/masters/860307
+Spaces - 2013 - https://api.discogs.com/masters/620726
+Music For Wobbling Music Versus Gravity - 2013 - https://api.discogs.com/masters/2661050
+Music For Lovers Music Versus Time / Music For Wobbling Music Versus Gravity - 2013 - https://api.discogs.com/masters/531921
+Says (Vessels Remix) - 2014 - https://api.discogs.com/releases/8639964
+Si (Sleep Orchestra Rework) - 2014 - https://api.discogs.com/releases/15021491
+Machine (John Talabot's Synthedit) / Peter (The Drifter Edit) - 2015 - https://api.discogs.com/releases/6846793
+Me (Julien Marchal Rework) - 2015 - https://api.discogs.com/releases/8001630
+Says (Monolink Edit) - 2015 - https://api.discogs.com/releases/16177856
+Life Story Love And Glory - 2015 - https://api.discogs.com/masters/879194
+Screws Reworked - 2015 - https://api.discogs.com/masters/985216
+Solo - 2015 - https://api.discogs.com/masters/816265
+Collaborative Works - 2015 - https://api.discogs.com/masters/1606381
+Loon - 2015 - https://api.discogs.com/masters/893227
+Music For The Motion Picture Victoria - 2015 - https://api.discogs.com/masters/847779
+LateNightTales - 2015 - https://api.discogs.com/masters/884701
+Says (Akob Remix) - 2016 - https://api.discogs.com/releases/15596557
+Tag Eins Tag Zwei - 2016 - https://api.discogs.com/masters/973837
+Solo - Remains - 2016 - https://api.discogs.com/masters/979023
+Ellis - 2016 - https://api.discogs.com/masters/1026285
+Trance Frendz - An Evening With Ólafur Arnalds And Nils Frahm - 2016 - https://api.discogs.com/masters/968089
+Hammers (D.NOTE filtered rework) - 2017 - https://api.discogs.com/releases/12488506
+0026 (Rêve Remix) - 2017 - https://api.discogs.com/releases/25769260
+All Melody - 2018 - https://api.discogs.com/masters/1304626
+Encores 1 - 2018 - https://api.discogs.com/masters/1376005
+All Encores - 2019 - https://api.discogs.com/masters/1623652
+Encores 2 - 2019 - https://api.discogs.com/masters/1494179
+Encores 3 - 2019 - https://api.discogs.com/masters/1609987
+Ad Astra (Original Motion Picture Soundtrack) - 2019 - https://api.discogs.com/masters/1641457
+Tripping With Nils Frahm - 2020 - https://api.discogs.com/masters/1953904
+Empty - 2020 - https://api.discogs.com/masters/1706907
+O I End - 2021 - https://api.discogs.com/releases/17676112
+Old Friends New Friends - 2021 - https://api.discogs.com/masters/2423623
+2X1=4 - 2021 - https://api.discogs.com/masters/2286973
+Graz - 2021 - https://api.discogs.com/masters/2049952
+Durton - 2022 - https://api.discogs.com/masters/2702297
+Music For Animals - 2022 - https://api.discogs.com/masters/2797532
+Day - 2024 - https://api.discogs.com/masters/3412888
+Soundscape - 2010 - https://api.discogs.com/releases/7645829
+Paper Canyon Recycled - 2010 - https://api.discogs.com/masters/3010655
+Erased Tapes Collection II - 2010 - https://api.discogs.com/masters/392941
+And The World Is Still Yawning Remixes - 2011 - https://api.discogs.com/releases/3258592
+Promises (Remixes) - 2012 - https://api.discogs.com/masters/788757
+Ambient Modern Classical - 2013 - https://api.discogs.com/releases/5024250
+For Now I Am Winter (Bonus Track Version) - 2013 - https://api.discogs.com/masters/527641
+Pacifica - 2013 - https://api.discogs.com/masters/471431
+Lost Tribe Sound – Without Darkness - 2014 - https://api.discogs.com/releases/6386601
+Day Zero: Countdown To Zero - 2014 - https://api.discogs.com/releases/7932823
+Balmorhea - 2014 - https://api.discogs.com/masters/750690
+Music Industry 3. Fitness Industry 1. - 2014 - https://api.discogs.com/masters/764273
+Light - 2015 - https://api.discogs.com/releases/15710561
+I Remember - 2015 - https://api.discogs.com/masters/848390
+LateNightTales - 2015 - https://api.discogs.com/masters/805674
+Night Falls (Nils Frahm Rework) - 2016 - https://api.discogs.com/releases/8876610
+Movements 10 - 2016 - https://api.discogs.com/masters/1073848
+Remixes - 2017 - https://api.discogs.com/masters/1244647
+Isolatedmix 100 - 2020 - https://api.discogs.com/releases/15564834
+Flow - 2020 - https://api.discogs.com/masters/1871988
+Pingipung Blows: The Brass - 2007 - https://api.discogs.com/releases/919213
+Edwyn Speaks Louder Than Kirk - 2008 - https://api.discogs.com/releases/1409761
+The Abelha Mestra Tapes - 2008 - https://api.discogs.com/releases/10930808
+Two View - 2009 - https://api.discogs.com/releases/1760680
+Tripping The Light Fantastic - 2009 - https://api.discogs.com/releases/2147294
+Trivia About - 2011 - https://api.discogs.com/releases/2698612
+Owl Splinters - 2011 - https://api.discogs.com/masters/307368
+A Lullaby Hum For Tired Streets - 2011 - https://api.discogs.com/masters/639313
+Wer Bist Du? - 2011 - https://api.discogs.com/masters/695677
+Slay Me In My Sleep - 2012 - https://api.discogs.com/masters/1055992
+http://www.itstartshear.com - 2012 - https://api.discogs.com/masters/413165
+Show Talked Windows - 2013 - https://api.discogs.com/releases/7525753
+Hero Brother - 2013 - https://api.discogs.com/masters/597086
+Sumie - 2013 - https://api.discogs.com/masters/640827
+Gravity - 2013 - https://api.discogs.com/masters/566611
+The Lost - 2017 - https://api.discogs.com/masters/1276002
+Exin - 2024 - https://api.discogs.com/masters/3516064
+We're Off Air - 2007 - https://api.discogs.com/masters/1935690
+Portland Stories - 2009 - https://api.discogs.com/masters/946747
+Same Sights, New Light - 2009 - https://api.discogs.com/masters/619650
+Keys (A Comprehensive Collection Of Contemporary Piano Compositions) - 2010 - https://api.discogs.com/masters/845871
+Until The Point Of Hushed Support - 2010 - https://api.discogs.com/masters/235883
+An Island - 2011 - https://api.discogs.com/masters/965382
+Wer Bist Du? - 2011 - https://api.discogs.com/masters/695677
+Slay Me In My Sleep - 2012 - https://api.discogs.com/masters/1055992
+Digressions - 2012 - https://api.discogs.com/masters/1040143
+The Alvaret Ensemble - 2012 - https://api.discogs.com/masters/507228
+Spirit Of Talk Talk - 2012 - https://api.discogs.com/masters/496618
+http://www.itstartshear.com - 2012 - https://api.discogs.com/masters/413165
+Corollaries - 2013 - https://api.discogs.com/masters/557615
+2006-2012 - 2013 - https://api.discogs.com/masters/574008
+Hero Brother - 2013 - https://api.discogs.com/masters/597086
+Vora - 2013 - https://api.discogs.com/masters/565871
+Let Your Hands Be My Guide - 2013 - https://api.discogs.com/masters/692029
+Gravity - 2013 - https://api.discogs.com/masters/566611
+Where We Were - 2013 - https://api.discogs.com/masters/564569
+Impetus - 2013 - https://api.discogs.com/masters/645100
+Pinô - 2014 - https://api.discogs.com/masters/644702
+Lambert - 2014 - https://api.discogs.com/masters/719509
+Journeys - Escape. Sleep. Relax. Repeat. - 2015 - https://api.discogs.com/releases/6746433
+Teeth Out - 2015 - https://api.discogs.com/masters/1112954
+33/45 - 2016 - https://api.discogs.com/releases/8412418
+The Gamble - 2016 - https://api.discogs.com/masters/954424
+Oddments Of The Gamble - 2016 - https://api.discogs.com/masters/1034046
+Spells - 2016 - https://api.discogs.com/masters/1013617
+The Lost - 2017 - https://api.discogs.com/masters/1276002
+ Mirall - 2018 - https://api.discogs.com/masters/1380749
+Onomatopoetika - 2020 - https://api.discogs.com/masters/1727044
+Exin - 2024 - https://api.discogs.com/masters/3516064
+Opinion Leader - 2006 - https://api.discogs.com/masters/1935582
+Pingipung Blows: The Brass - 2007 - https://api.discogs.com/releases/919213
+Cold Comfort - 2007 - https://api.discogs.com/releases/1780693
+We're Off Air - 2007 - https://api.discogs.com/masters/1935690
+It Tends To Flow From High To Low - 2007 - https://api.discogs.com/masters/288680
+The Story Is Complete, But I Think We've Lost The Book - 2007 - https://api.discogs.com/masters/671664
+Edwyn Speaks Louder Than Kirk - 2008 - https://api.discogs.com/releases/1409761
+The Abelha Mestra Tapes - 2008 - https://api.discogs.com/releases/10930808
+Everybody Loves - 2008 - https://api.discogs.com/masters/241836
+Unreleased Tracks 2009 - 2009 - https://api.discogs.com/releases/1986505
+Music For A Sleeping Sculpture Of Peter Broderick - 2009 - https://api.discogs.com/masters/657439
+Not Given Lightly - A Tribute To The Giant Golden Book Of New Zealands Alternative Music Scene - 2009 - https://api.discogs.com/masters/175141
+Blank Grey Canvas Sky - 2009 - https://api.discogs.com/masters/201258
+Portland Stories - 2009 - https://api.discogs.com/masters/946747
+Misery Box - 2009 - https://api.discogs.com/masters/1996375
+Same Sights, New Light - 2009 - https://api.discogs.com/masters/619650
+Spies In The Trees - 2009 - https://api.discogs.com/masters/1998145
+Circle The Yes - 2009 - https://api.discogs.com/masters/331177
+Numbers: A Project By Peter Broderick - 2010 - https://api.discogs.com/releases/2567754
+A Little Big - 2010 - https://api.discogs.com/releases/3249817
+Dear Friends (Piano Version) - 2010 - https://api.discogs.com/releases/6341599
+Dear Friends - 2010 - https://api.discogs.com/masters/762372
+Photograph - 2010 - https://api.discogs.com/masters/1996294
+Keys (A Comprehensive Collection Of Contemporary Piano Compositions) - 2010 - https://api.discogs.com/masters/845871
+Paper Canyon Recycled - 2010 - https://api.discogs.com/masters/3010655
+Flare - 2010 - https://api.discogs.com/masters/287344
+Music And Migration - 2010 - https://api.discogs.com/masters/3288259
+Music For Contemporary Dance - 2010 - https://api.discogs.com/masters/338262
+Until The Point Of Hushed Support - 2010 - https://api.discogs.com/masters/235883
+Vorleben - 2010 - https://api.discogs.com/masters/355817
+Glimmer - 2011 - https://api.discogs.com/releases/2668634
+Depart, Repeat - 2011 - https://api.discogs.com/releases/2710408
+Cuatro Covers - 2011 - https://api.discogs.com/releases/2929730
+For Nihon - 2011 - https://api.discogs.com/releases/2934675
+And The World Is Still Yawning Remixes - 2011 - https://api.discogs.com/releases/3258592
+Blue - 2011 - https://api.discogs.com/releases/3281366
+Moss - 2011 - https://api.discogs.com/releases/4208852
+Piano Solos Vol 1 and 2 - 2011 - https://api.discogs.com/releases/5683202
+Pan Tone - 2011 - https://api.discogs.com/masters/371745
+Acoustic Tales - 2011 - https://api.discogs.com/masters/350262
+Winter Lady - 2011 - https://api.discogs.com/masters/395876
+Highwaymen In Midnight Masks - 2011 - https://api.discogs.com/masters/395878
+Svefns Og Vöku Skil - 2011 - https://api.discogs.com/masters/568423
+Limousine To The Guillotine - 2011 - https://api.discogs.com/masters/404084
+Wonders - 2011 - https://api.discogs.com/masters/396528
+As The Spirit Wanes - 2011 - https://api.discogs.com/masters/312561
+Distal - 2011 - https://api.discogs.com/masters/388338
+Lumiere - 2011 - https://api.discogs.com/masters/316676
+An Island - 2011 - https://api.discogs.com/masters/965382
+Grimoire - 2011 - https://api.discogs.com/masters/347932
+Barra Barra - 2011 - https://api.discogs.com/masters/330013
+Music For Confluence - 2011 - https://api.discogs.com/masters/982856
+Like Crazy (Music From The Motion Picture) - 2011 - https://api.discogs.com/masters/1232718
+A Lullaby Hum For Tired Streets - 2011 - https://api.discogs.com/masters/639313
+Causeway - 2011 - https://api.discogs.com/masters/652119
+Erased Tapes Collection III - 2011 - https://api.discogs.com/masters/1537391
+Dear And Unfamiliar - 2011 - https://api.discogs.com/masters/381306
+Wer Bist Du? - 2011 - https://api.discogs.com/masters/695677
+Old Time / Solace In Gala - 2011 - https://api.discogs.com/masters/1525630
+Réplica - 2011 - https://api.discogs.com/masters/332677
+Kid Velo - 2011 - https://api.discogs.com/masters/2000797
+Grower - 2011 - https://api.discogs.com/masters/1166757
+A Winged Victory For The Sullen - 2011 - https://api.discogs.com/masters/367545
+The Side Of Her Inexhaustible Heart - 2011 - https://api.discogs.com/masters/396282
+And So I Place You In The Setting Sun - 2012 - https://api.discogs.com/releases/3561733
+Cordophony - 2012 - https://api.discogs.com/releases/3585405
+Of Use - 2012 - https://api.discogs.com/releases/3636927
+Insomnie Joyeuse - 2012 - https://api.discogs.com/releases/3882243
+A Model Life - 2012 - https://api.discogs.com/releases/4019353
+Harmony From The Past - 2012 - https://api.discogs.com/releases/4034035
+Adhere - 2012 - https://api.discogs.com/releases/4051016
+Bãthroom Stories - 2012 - https://api.discogs.com/releases/8739437
+I Have Beautiful Eyes - 2012 - https://api.discogs.com/releases/14622213
+Preliminary Script - 2012 - https://api.discogs.com/releases/16185366
+Feathermagnetik - 2012 - https://api.discogs.com/masters/482843
+Moments Eluding - 2012 - https://api.discogs.com/masters/555553
+The World Without Us - 2012 - https://api.discogs.com/masters/486994
+These Walls Of Mine - 2012 - https://api.discogs.com/masters/488024
+Works For Abattoir Fermé 2007 - 2011 - 2012 - https://api.discogs.com/masters/488573
+Erased Tapes Collection IV - 2012 - https://api.discogs.com/masters/1452687
+Home - 2012 - https://api.discogs.com/masters/863442
+For Ingar Gustavsson - 2012 - https://api.discogs.com/masters/1027290
+Slay Me In My Sleep - 2012 - https://api.discogs.com/masters/1055992
+Two By Four - 2012 - https://api.discogs.com/masters/543482
+Digressions - 2012 - https://api.discogs.com/masters/1040143
+Piramida - 2012 - https://api.discogs.com/masters/474401
+Gramercy - 2012 - https://api.discogs.com/masters/439600
+Another Happy Day (Original Motion Picture Soundtrack) - 2012 - https://api.discogs.com/masters/414539
+Poems From A Rooftop - 2012 - https://api.discogs.com/masters/426322
+Peoria - 2012 - https://api.discogs.com/masters/792404
+The Alvaret Ensemble - 2012 - https://api.discogs.com/masters/507228
+Escapement - 2012 - https://api.discogs.com/masters/493926
+The Boy Who Cried Wolf - 2012 - https://api.discogs.com/masters/2497903
+Ghostwoods - 2012 - https://api.discogs.com/masters/742837
+Moon Ate The Dark - 2012 - https://api.discogs.com/masters/969161
+Spirit Of Talk Talk - 2012 - https://api.discogs.com/masters/496618
+Accompanying Music From Other Rooms - 2012 - https://api.discogs.com/masters/1374699
+http://www.itstartshear.com - 2012 - https://api.discogs.com/masters/413165
+An Almost Silent Life - 2012 - https://api.discogs.com/masters/504816
+Don't Forget Me, Petula! Don't Forget Everything, Petula! - 2013 - https://api.discogs.com/releases/4215607
+Endless Endings - 2013 - https://api.discogs.com/releases/4569851
+The Freemartin Calf - 2013 - https://api.discogs.com/releases/4883600
+...And Then In The Morning - 2013 - https://api.discogs.com/releases/4906030
+Eclettica - 2013 - https://api.discogs.com/releases/5072276
+Duyster.4 - 2013 - https://api.discogs.com/releases/5212661
+Musicworks #117: Winter 2013 - 2013 - https://api.discogs.com/releases/5315581
+Corollaries - 2013 - https://api.discogs.com/masters/557615
+2006-2012 - 2013 - https://api.discogs.com/masters/574008
+Hokus Fokus - 2013 - https://api.discogs.com/masters/593476
+Fatalist: The Repetition Of History - 2013 - https://api.discogs.com/masters/525400
+Hero Brother - 2013 - https://api.discogs.com/masters/597086
+Vora - 2013 - https://api.discogs.com/masters/565871
+Soldier's Requiem - 2013 - https://api.discogs.com/masters/625315
+People Do - 2013 - https://api.discogs.com/masters/598700
+Stories - 2013 - https://api.discogs.com/masters/563404
+Molt And Grow - 2013 - https://api.discogs.com/masters/579332
+Novembre - 2013 - https://api.discogs.com/masters/608521
+Float 2013 - 2013 - https://api.discogs.com/masters/58162
+Let Your Hands Be My Guide - 2013 - https://api.discogs.com/masters/692029
+Mother Nature - 2013 - https://api.discogs.com/masters/551240
+Gravity - 2013 - https://api.discogs.com/masters/566611
+Where We Were - 2013 - https://api.discogs.com/masters/564569
+Half Moon - 2013 - https://api.discogs.com/masters/1612639
+Black Tie - 2013 - https://api.discogs.com/masters/545124
+Walizka - 2013 - https://api.discogs.com/masters/710521
+Float 2013 Addendum - 2013 - https://api.discogs.com/masters/1525629
+Lavandula - 2013 - https://api.discogs.com/masters/894848
+Feast / Beast - 2013 - https://api.discogs.com/masters/597395
+Le Café Abstrait Vol. 10 - 2013 - https://api.discogs.com/masters/1476506
+The Beauty Inside (Original Film Score) - 2013 - https://api.discogs.com/masters/784284
+Brick Mask - 2013 - https://api.discogs.com/masters/527778
+Impetus - 2013 - https://api.discogs.com/masters/645100
+SonneMondSterne.X8 - 2014 - https://api.discogs.com/releases/5820561
+Electronic Architecture 3 - 2014 - https://api.discogs.com/masters/710726
+Recount - 2014 - https://api.discogs.com/masters/717894
+Pinô - 2014 - https://api.discogs.com/masters/644702
+Lambert - 2014 - https://api.discogs.com/masters/719509
+Fabric 76 - 2014 - https://api.discogs.com/masters/1643518
+The Nutcracker Sessions - 2014 - https://api.discogs.com/masters/3427994
+The Soundgarden - Volume One - 2014 - https://api.discogs.com/masters/695533
+Sprang - 2014 - https://api.discogs.com/masters/671986
+Shivers - 2014 - https://api.discogs.com/masters/704846
+Flare / Flame - 2014 - https://api.discogs.com/masters/1670603
+Natura Morta - 2014 - https://api.discogs.com/masters/805345
+Stay Tuned - 2014 - https://api.discogs.com/masters/1540606
+Journeys - Escape. Sleep. Relax. Repeat. - 2015 - https://api.discogs.com/releases/6746433
+ME-CD Nr. 1215 - 2015 - https://api.discogs.com/releases/7764270
+Like A Hike - 2015 - https://api.discogs.com/releases/7904598
+Nils Frahm - Me (Julien Marchal Rework) - 2015 - https://api.discogs.com/releases/15023553
+The Summoner - 2015 - https://api.discogs.com/masters/814121
+Moon Ate The Dark I + II  - 2015 - https://api.discogs.com/masters/856298
+Yellow Bell - 2015 - https://api.discogs.com/masters/787705
+LateNightTales - 2015 - https://api.discogs.com/masters/805674
+The Chopin Project - 2015 - https://api.discogs.com/masters/820598
+Teeth Out - 2015 - https://api.discogs.com/masters/1112954
+Z - 2015 - https://api.discogs.com/masters/785798
+33/45 - 2016 - https://api.discogs.com/releases/8412418
+Bergschrund / Ubu - 2016 - https://api.discogs.com/releases/9186358
+Studio - 2016 - https://api.discogs.com/releases/9332032
+Dream Forever (A Dream Pop Compendium) - 2016 - https://api.discogs.com/releases/9386695
+Headlines (N.E.W.S. Distribution 2017) - 2016 - https://api.discogs.com/releases/10174586
+The Complete Chopin - 2016 - https://api.discogs.com/releases/10986873
+The Glass Effect (The Music Of Philip Glass) - 2016 - https://api.discogs.com/masters/1208839
+The Gamble - 2016 - https://api.discogs.com/masters/954424
+Grunewald - 2016 - https://api.discogs.com/masters/1118354
+Movements 10 - 2016 - https://api.discogs.com/masters/1073848
+Oddments Of The Gamble - 2016 - https://api.discogs.com/masters/1034046
+Tomorrow Eyes - 2016 - https://api.discogs.com/masters/1081713
+Spells - 2016 - https://api.discogs.com/masters/1013617
+Erased Tapes Collection VII - 2016 - https://api.discogs.com/masters/988051
 The Mountain Will Fall - 2016 - https://api.discogs.com/masters/1019338
-Ten - 2017 - https://api.discogs.com/releases/10286698
-Days Past - 2018 - https://api.discogs.com/releases/12324840
-Gondwana 10: The Best Of Gondwana Records - 2018 - https://api.discogs.com/releases/16216275
-Shamal Wind - 2018 - https://api.discogs.com/masters/1362561
-Gondwana Best Of 2020 - 2020 - https://api.discogs.com/releases/17469433
-Truly - 2021 - https://api.discogs.com/masters/2236666
-Tremors in the Static  - 2022 - https://api.discogs.com/masters/2622731
-The Cradle - 2022 - https://api.discogs.com/masters/1780078
-Horizons - 2022 - https://api.discogs.com/masters/2711153
-Octava - 2023 - https://api.discogs.com/masters/3154281
-Modern Brit-Jazz - 2024 - https://api.discogs.com/releases/29863129
-Rising - 2024 - https://api.discogs.com/masters/3473278
-Mostly Jazz Festival - 2011 - https://api.discogs.com/releases/5204602
-Label Love Vol. 5: The Jazz Edition - 2012 - https://api.discogs.com/releases/6030309
-Stac Presents Volume Three Of Allo Love - 2013 - https://api.discogs.com/releases/6549179
-LateNightTales - 2013 - https://api.discogs.com/masters/623335
+For Seasons - 2017 - https://api.discogs.com/releases/10131322
+Darklight - 2017 - https://api.discogs.com/releases/10473943
+Glastonbury (24 June 2017) - 2017 - https://api.discogs.com/releases/11191234
+You Live Inside My Heart - 2017 - https://api.discogs.com/releases/11574469
+Max Richter - Piano Works - 2017 - https://api.discogs.com/releases/12471454
+Piano Works - 2017 - https://api.discogs.com/releases/12471469
+Secret Places - 2017 - https://api.discogs.com/releases/13068262
+Eighty-Eight Days - 2017 - https://api.discogs.com/releases/18966241
+The Lost - 2017 - https://api.discogs.com/masters/1276002
+Golden Times 1 - 2017 - https://api.discogs.com/masters/1203342
+The Mountain Has Fallen EP - 2017 - https://api.discogs.com/masters/1216687
+Eulogy For Evolution 2017 - 2017 - https://api.discogs.com/masters/58166
+Ore - 2017 - https://api.discogs.com/masters/1214817
+Erased Tapes Collection VIII - 2017 - https://api.discogs.com/masters/1151384
+Ghost In The Shell (Music Inspired By The Motion Picture) - 2017 - https://api.discogs.com/masters/1874415
+Feico Solo - 2018 - https://api.discogs.com/releases/12692025
+Miles Left Behind - 2018 - https://api.discogs.com/releases/16549905
+Plus - 2018 - https://api.discogs.com/masters/1450044
+1 + 1 = X - 2018 - https://api.discogs.com/masters/1407769
+ Mirall - 2018 - https://api.discogs.com/masters/1380749
+Minimal Works - 2019 - https://api.discogs.com/releases/22081738
+Collection - 2019 - https://api.discogs.com/masters/1747105
+Nimbostratus - 2020 - https://api.discogs.com/releases/18132103
+Onomatopoetika - 2020 - https://api.discogs.com/masters/1727044
+LateNightTales - 2020 - https://api.discogs.com/masters/1814292
+Wonderful World - 2021 - https://api.discogs.com/releases/21573886
+Tree - 2021 - https://api.discogs.com/releases/25376284
+Chapter 1: Forever, For Now - 2023 - https://api.discogs.com/releases/28545295
+Nothing Left But Silence - 2023 - https://api.discogs.com/masters/3278989
+Winter - 2024 - https://api.discogs.com/releases/30445811
+Exin - 2024 - https://api.discogs.com/masters/3516064
+Pingipung Plays: The Piano - 2005 - https://api.discogs.com/releases/891622
+Oh-Ha! 16 Stunden Dekompressionskammer - 2005 - https://api.discogs.com/releases/7541077
+Unreleased Tracks 2009 - 2009 - https://api.discogs.com/releases/1986505
+Fluidmix - 2009 - https://api.discogs.com/releases/2262272
+The Silent Ballet Volume XIV - 2010 - https://api.discogs.com/releases/2495823
+Variations Of Shade - 2010 - https://api.discogs.com/releases/6037738
+The Sleepless EP - 2010 - https://api.discogs.com/releases/6911824
+Keys (A Comprehensive Collection Of Contemporary Piano Compositions) - 2010 - https://api.discogs.com/masters/845871
+Erased Tapes Collection II - 2010 - https://api.discogs.com/masters/392941
+Raincoats - 2010 - https://api.discogs.com/masters/339785
+Best Of Modern Classical 2010 - 2011 - https://api.discogs.com/releases/2637594
+Erik Satie Et Les Nouveaux Jeunes - 2011 - https://api.discogs.com/releases/2768319
+Tomorrow's Conversations - 2011 - https://api.discogs.com/releases/2882860
+For Nihon - 2011 - https://api.discogs.com/releases/2934675
+Mind The Gap #92 - 2011 - https://api.discogs.com/releases/3107585
+Mix - 2011 - https://api.discogs.com/releases/3584498
+Moss - 2011 - https://api.discogs.com/releases/4208852
+Erased Tapes Collection III - 2011 - https://api.discogs.com/masters/1537391
+Sequence2 - 2011 - https://api.discogs.com/masters/422841
+Neblina4 - 2012 - https://api.discogs.com/releases/3639385
+Podcast 246 - 2012 - https://api.discogs.com/releases/3644668
+Sgustok Magazine Podcast 030 - 2012 - https://api.discogs.com/releases/3768538
+Secret Thirteen Mix 037 - 2012 - https://api.discogs.com/releases/3940724
+Decibel 2012 Showcase - 2012 - https://api.discogs.com/releases/3986850
+Headphone Commute Mix - 2012 - https://api.discogs.com/releases/4136496
+The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
+Decibel Mix - 2012 - https://api.discogs.com/releases/4333273
+The Coldest Nights Mix - 2012 - https://api.discogs.com/releases/6481191
+Kontor Sunset Chill 2012 - 2012 - https://api.discogs.com/releases/11023737
+Erased Tapes - 2012 - https://api.discogs.com/releases/26323295
+Restive - 2012 - https://api.discogs.com/masters/449078
+Erased Tapes Collection IV - 2012 - https://api.discogs.com/masters/1452687
+LateNightTales - 2012 - https://api.discogs.com/masters/496379
+... And Darkness Came - 2012 - https://api.discogs.com/masters/613246
+Spirit Of Talk Talk - 2012 - https://api.discogs.com/masters/496618
+Isolatedmix 37 - Substrata Edition - 2013 - https://api.discogs.com/releases/4459249
+Secret Thirteen Mix 066 - 2013 - https://api.discogs.com/releases/4541256
+Isolatedmix 38 - Stereogamia - 2013 - https://api.discogs.com/releases/4601874
+RA.369 - 2013 - https://api.discogs.com/releases/4685401
+The Wire Tapper 32 - 2013 - https://api.discogs.com/releases/4744734
+Isolatedmix 40 - Away - 2013 - https://api.discogs.com/releases/4771597
+Denovali Swingfest 2013 Essen Sampler - 2013 - https://api.discogs.com/releases/4880772
+Black Haines - 2013 - https://api.discogs.com/releases/4901209
+Deathmetaldiscoclub #014 - 2013 - https://api.discogs.com/releases/4912770
+Deathmetaldiscoclub #026 - 2013 - https://api.discogs.com/releases/4912844
+Eclettica - 2013 - https://api.discogs.com/releases/5072276
+A Strangely Isolated Place SpacesFM Guest Mix - 2013 - https://api.discogs.com/releases/5142323
+Duyster.4 - 2013 - https://api.discogs.com/releases/5212661
+Reflections: 2013 - 2013 - https://api.discogs.com/releases/5272953
+Optic Echo Presents Best Vinyl of 2013 - 2013 - https://api.discogs.com/releases/5348146
+RHIZOME - 2013 - https://api.discogs.com/releases/5889785
+Erased Tapes Showcase - 2013 - https://api.discogs.com/releases/6523423
+Narrative Mixing, First Movement, Land - 2013 - https://api.discogs.com/releases/6781355
+The Musical Odyssey – Matinee At The Eyelid Cinema - 2013 - https://api.discogs.com/releases/6781489
+Kning Disk 2005-2012  - 2013 - https://api.discogs.com/releases/10799731
+Reworks 2012 - 2013 - 2013 - https://api.discogs.com/releases/15154361
+Erased Tapes Collection V - 2013 - https://api.discogs.com/masters/1801219
+Feast / Beast - 2013 - https://api.discogs.com/masters/597395
+Le Café Abstrait Vol. 10 - 2013 - https://api.discogs.com/masters/1476506
 Pianorama 2a - 2014 - https://api.discogs.com/releases/5390745
-La Escollera Session Two - 2015 - https://api.discogs.com/releases/7127731
-Coffret Fip Vol.2 - 2016 - https://api.discogs.com/releases/14206300
-Sonar Kollekting Vol.02 - 2017 - https://api.discogs.com/releases/11910284
-Gondwana Best Of 2020 - 2020 - https://api.discogs.com/releases/17469433
-Kaleidoscope (New Spirits Known & Unknown) - 2020 - https://api.discogs.com/masters/1778931
-The Sound Of 2023 (15 Tracks Of The Year's Greatest Music) - 2023 - https://api.discogs.com/releases/28827568
-Piccadilly Records Sampler 2023 - 2023 - https://api.discogs.com/releases/29140003
-The Resident Sampler 2023 - 2023 - https://api.discogs.com/releases/29173168
-Piccadilly Records Compilation 2023 - 2023 - https://api.discogs.com/releases/29221432
-Modern Brit-Jazz - 2024 - https://api.discogs.com/releases/29863129
+FACT Mix 424 - 2014 - https://api.discogs.com/releases/5391015
+Chronik Consoles - 2014 - https://api.discogs.com/releases/5415870
+Pianorama 2b - 2014 - https://api.discogs.com/releases/5426293
+Pianorama 2c - 2014 - https://api.discogs.com/releases/5465462
+Headphone Commute Mix - 2014 - https://api.discogs.com/releases/5537679
+Two Songs For Dance · Stare · Thrown EP - 2014 - https://api.discogs.com/releases/5608558
+Moments Of Yesteryear - 2014 - https://api.discogs.com/releases/5736725
+SonneMondSterne.X8 - 2014 - https://api.discogs.com/releases/5820561
+Healing Emplinx - 2014 - https://api.discogs.com/releases/5879638
+Isolatedmix 48 - 2014 - https://api.discogs.com/releases/6194491
+Øresundsbroen | 05:50 | tåge - 2014 - https://api.discogs.com/releases/6243655
+Coming Home - 2014 - https://api.discogs.com/releases/6286636
+El Laberinto (Cap.13 "Se Acerca El Invierno")  - 2014 - https://api.discogs.com/releases/7234793
+High Five - 2014 - https://api.discogs.com/releases/14842846
+Hexporium VOL#1 - 2014 - https://api.discogs.com/releases/24079370
+Electronic Architecture 3 - 2014 - https://api.discogs.com/masters/710726
+Fabric 76 - 2014 - https://api.discogs.com/masters/1643518
+The Soundgarden (Volume One) - 2014 - https://api.discogs.com/masters/695533
+Nice Girls Don't Stay For Breakfast - La Bande Son De L'Hôtel Bourg Tibourg - 2014 - https://api.discogs.com/masters/2789141
+Ultimatum (Special Mix For Unline) - 2015 - https://api.discogs.com/releases/6488936
+Womblabel Podcast #7 - 2015 - https://api.discogs.com/releases/6546119
+Journeys - Escape. Sleep. Relax. Repeat. - 2015 - https://api.discogs.com/releases/6746433
+Miero (Unline Special) - 2015 - https://api.discogs.com/releases/7087107
+Erik Satie Et Les Nouveaux Jeunes Version 2 - 2015 - https://api.discogs.com/releases/7170992
+El Laberinto (Cap.18 "Lo Mejor De 2014" Parte 2) - 2015 - https://api.discogs.com/releases/7241438
+PoleGroup Radio 13.03 - 2015 - https://api.discogs.com/releases/7712376
+Shanti Float 2015 - 2015 - https://api.discogs.com/releases/7716757
+ME-CD Nr. 1215 - 2015 - https://api.discogs.com/releases/7764270
+The Brian Box - 2015 - https://api.discogs.com/releases/7974087
+Piccadilly Records 2015 Sampler - 2015 - https://api.discogs.com/releases/10483947
+Fact Mix 496 - 2015 - https://api.discogs.com/releases/29412256
+Erased Tapes Collection VI - 2015 - https://api.discogs.com/masters/824403
+Rough Trade Shops Counter Culture 15 - 2015 - https://api.discogs.com/masters/1005211
+Balearic - 2015 - https://api.discogs.com/masters/852136
+LateNightTales - 2015 - https://api.discogs.com/masters/805674
+Calabi - Yau Manifold Mix - 2016 - https://api.discogs.com/releases/8756644
+Autotroph Mix - 2016 - https://api.discogs.com/releases/8880613
+Sad Face Mixtape - 2016 - https://api.discogs.com/releases/9072054
+Dream Forever (A Dream Pop Compendium) - 2016 - https://api.discogs.com/releases/9386695
+Kontor Sunset Chill 2016 - 2016 - https://api.discogs.com/releases/9480176
+Beau Paysage La Montagne 2017 - 2016 - https://api.discogs.com/releases/9777964
+The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
+Messerli 16 - 2016 - https://api.discogs.com/releases/12876115
+Balance Presents Patrice Bäumel - 2016 - https://api.discogs.com/masters/1451151
+Touched 3 - 2016 - https://api.discogs.com/masters/1142434
+DJ-Kicks - 2016 - https://api.discogs.com/masters/1126583
+Piano Cloud Series (Volume One) - 2016 - https://api.discogs.com/masters/1313606
+Erased Tapes Collection VII - 2016 - https://api.discogs.com/masters/988051
+The Voynich Manuscript Mix - 2016 - https://api.discogs.com/masters/983017
+Untold Story (Unline Special Mix) - 2017 - https://api.discogs.com/releases/9954313
+Sonic Pieces - A Boutique Record Label From Berlin - 2017 - https://api.discogs.com/releases/10296291
+Isolatedmix 72 - 2017 - https://api.discogs.com/releases/10865919
+Glastonbury (24 June 2017) - 2017 - https://api.discogs.com/releases/11191234
+Daybreak Sessions By Tomorrowland  - 2017 Selection - 2017 - https://api.discogs.com/releases/11340049
+Ambient Seascapes - 2017 - https://api.discogs.com/releases/12495318
+Seek Feeling Jazzy Mode 4 - Music For V90 - 2017 - https://api.discogs.com/releases/15698936
+Music For A Newborn Babe - 2017 - https://api.discogs.com/masters/1341136
+Music For A Newborn Babe Vol. 2 - 2017 - https://api.discogs.com/masters/1341179
+Mamihlapinatapai - 2017 - https://api.discogs.com/masters/1627997
+LateNightTales - The Cover Versions (2017 Edition) - 2017 - https://api.discogs.com/masters/650637
+Erased Tapes Collection VIII - 2017 - https://api.discogs.com/masters/1151384
+Ghost In The Shell (Music Inspired By The Motion Picture) - 2017 - https://api.discogs.com/masters/1874415
+Mix For Unline - 2018 - https://api.discogs.com/releases/7894130
+Isolatedmix 77 - A Winter Of Listening - 2018 - https://api.discogs.com/releases/11741361
+FWD113 - 2018 - https://api.discogs.com/releases/13026837
+La Route Du Rock - La Compilation 2018 - 2018 - https://api.discogs.com/releases/13630427
+Balance 030 - 2018 - https://api.discogs.com/masters/1365051
+Fragments Du Monde Flottant - 2018 - https://api.discogs.com/masters/1516781
+1 + 1 = X - 2018 - https://api.discogs.com/masters/1407769
+Erased Tapes Collection IX - 2018 - https://api.discogs.com/masters/1324333
+FWD131 - 2019 - https://api.discogs.com/releases/14032700
+Flow - 2020 - https://api.discogs.com/masters/1871988
+LateNightTales - 2020 - https://api.discogs.com/masters/1814292
+Erased Tapes 十五 - 2022 - https://api.discogs.com/masters/2919964
+Piano Day Vol. 1 - 2022 - https://api.discogs.com/masters/2682221
 The Mountain Will Fall + The Mountain Has Fallen EP - 2018 - https://api.discogs.com/masters/1019338
+The OA (Original Television Series Soundtrack) - 2019 - https://api.discogs.com/releases/29399737
