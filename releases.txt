@@ -1,50 +1,16 @@
 Listado de releases del artista:
-Beverly Copeland - 1970 - https://api.discogs.com/masters/1405258
-Together For Us All / Color Of Anyhow - 1971 - https://api.discogs.com/releases/9665750
-Beverly Glenn-Copeland - 1971 - https://api.discogs.com/masters/1287338
-At Last! - 1983 - https://api.discogs.com/masters/1768963
-...Keyboard Fantasies... - 1986 - https://api.discogs.com/masters/1073875
-Primal Prayer - 2019 - https://api.discogs.com/masters/1591704
-Transmissions: The Music Of Beverly Glenn-Copeland - 2020 - https://api.discogs.com/masters/1828382
-Live At Le Guess Who? - 2020 - https://api.discogs.com/masters/1848251
-Luckey - 2021 - https://api.discogs.com/releases/17495056
-Keyboard Fantasies Reimagined - 2021 - https://api.discogs.com/masters/2430856
-Song About The Country - 2022 - https://api.discogs.com/releases/25276756
-The Ones Ahead - 2023 - https://api.discogs.com/masters/3182424
-Concert: Canadien - A Ten Part Radio Documentary - 1974 - https://api.discogs.com/releases/5406856
-Joy Will Find A Way - 1975 - https://api.discogs.com/masters/284271
-Further Adventures Of - 1978 - https://api.discogs.com/masters/404856
-Humans - 1980 - https://api.discogs.com/masters/282267
-Quick As Silver - 1980 - https://api.discogs.com/masters/1015867
-One - 1981 - https://api.discogs.com/releases/5330992
-Camping in Canada - 1981 - https://api.discogs.com/releases/8037278
-Camping in Canada - 1981 - https://api.discogs.com/releases/27623259
-Mummy Dust - 1981 - https://api.discogs.com/masters/434199
-Rumours Of Glory - 1985 - https://api.discogs.com/masters/574116
-Waiting For A Miracle, Singles 1970-1987 - 1987 - https://api.discogs.com/masters/286557
-Nature's Glory (Inspirational Hymns) - 1999 - https://api.discogs.com/releases/11383378
-Banjo Suite - 2000 - https://api.discogs.com/releases/17560084
-Space, Energy & Light (Experimental Electronic And Acoustic Soundscapes 1961-88) - 2017 - https://api.discogs.com/masters/1203848
-Waterzone EP - 2018 - https://api.discogs.com/releases/12387698
-To All My Friends - 2021 - https://api.discogs.com/masters/2410009
-Province​ /​ Ever New - 2022 - https://api.discogs.com/releases/22835075
-Clarinet & Piano: Selected Works, Vol. 2  - 2022 - https://api.discogs.com/masters/2789279
-Now Playing (15 Tracks Of The Month's Best Music) - 2023 - https://api.discogs.com/releases/27671181
-Mid Air - 2023 - https://api.discogs.com/masters/3230470
-Enjoy Your Life - 2023 - https://api.discogs.com/masters/3213639
-Musical Portrait - Desconocido - https://api.discogs.com/masters/3303853
-Concert: Canadien - A Ten Part Radio Documentary - 1974 - https://api.discogs.com/releases/5406856
-Sappyfest 12 - 2017 - https://api.discogs.com/releases/10559343
-Space, Energy & Light (Experimental Electronic And Acoustic Soundscapes 1961-88) - 2017 - https://api.discogs.com/masters/1203848
-Good Music To Avert The Collapse Of American Democracy - 2020 - https://api.discogs.com/releases/15865690
-Finger Foods Vol. 3 - 2020 - https://api.discogs.com/releases/15885585
-The Wire Tapper 54 - 2020 - https://api.discogs.com/releases/16052548
-Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
-Origins Mix - 2021 - https://api.discogs.com/releases/18563788
-Origins Of Time - 2022 - https://api.discogs.com/releases/24707600
-Incantations - 2022 - https://api.discogs.com/masters/2650373
-Now Playing (15 Tracks Of The Month's Best Music) - 2023 - https://api.discogs.com/releases/27671181
-Mid Air - 2023 - https://api.discogs.com/masters/3230470
-Thorens - New Reference Collection - 2024 - https://api.discogs.com/releases/30907911
-Zound-Expo-Dish-On Vol. 7 - Desconocido - https://api.discogs.com/releases/24186617
-Tape Of The Same Name Vol. G - Desconocido - https://api.discogs.com/releases/24992971
+Sun Theme / Moon Theme - 2016 - https://api.discogs.com/releases/8519531
+Wèi? / Teknow - 2017 - https://api.discogs.com/masters/1388185
+Neon Buddha - 2022 - https://api.discogs.com/releases/23179307
+Topical Dancer - 2022 - https://api.discogs.com/masters/2535370
+Letter To Yu - 2024 - https://api.discogs.com/masters/3420691
+Essential - 2018 - https://api.discogs.com/masters/1382325
+DEEWEE Sessions Vol. 01 - 2020 - https://api.discogs.com/masters/1746918
+Camping Belgica - 2020 - https://api.discogs.com/releases/17158363
+Rough Trade Shops: Counter Culture 21 - 2021 - https://api.discogs.com/masters/2635373
+Foundations - 2021 - https://api.discogs.com/masters/2120317
+Mars 2022 -> 16 Titres - 2022 - https://api.discogs.com/releases/22493174
+EP 1 - 2022 - https://api.discogs.com/releases/23953895
+Best Of Musique 2022 → 15 titres - 2022 - https://api.discogs.com/releases/25490398
+Small World (Special Edition) - 2023 - https://api.discogs.com/releases/26843855
+Mars 2024 - 2024 - https://api.discogs.com/releases/29874226
