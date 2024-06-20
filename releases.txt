@@ -1,756 +1,739 @@
 Listado de releases del artista:
-Add Some Music To Your Day - 1972 - https://api.discogs.com/masters/1151213
-Windy Lady / 夏の陽 - 1976 - https://api.discogs.com/releases/11516491
-Circus Town - 1976 - https://api.discogs.com/masters/778495
-Spacy - 1977 - https://api.discogs.com/masters/567245
-Space Crush/Marie - 1978 - https://api.discogs.com/releases/13274359
-Pacific - 1978 - https://api.discogs.com/masters/408982
-Go Ahead! - 1978 - https://api.discogs.com/masters/802637
-It's A Poppin' Time - 1978 - https://api.discogs.com/masters/1257324
-レッツ・ダンス・ベイビー = Let's Dance Baby / ボンバー Bomber - 1979 - https://api.discogs.com/masters/1435896
-永遠のFull Moon / Funky Flushin' - 1979 - https://api.discogs.com/masters/3009347
-Come Along - 1979 - https://api.discogs.com/masters/1221609
-愛を描いて = Let's Kiss The Sun / 潮騒 - 1979 - https://api.discogs.com/masters/3351922
-Moonglow = ムーングロウ - 1979 - https://api.discogs.com/masters/966626
-Ride On Time キャンペーン - 1980 - https://api.discogs.com/releases/11310338
-My Sugar Babe / Daydream - 1980 - https://api.discogs.com/masters/2169157
-Ride On Time - 1980 - https://api.discogs.com/masters/1455185
-Tatsuro Yamashita From Niagara = 山下達郎 From ナイアガラ  - 1980 - https://api.discogs.com/masters/2184700
-Ride On Time = ライドオン・タイム - 1980 - https://api.discogs.com/masters/966502
-On The Street Corner - 1980 - https://api.discogs.com/masters/567247
-あまく危険な香り / Music Book - 1982 - https://api.discogs.com/releases/5703983
-Best - 1982 - https://api.discogs.com/masters/1681632
-9 Minutes Of Tatsuro Yamashita - 1982 - https://api.discogs.com/masters/2902894
-Loveland, Island - 1982 - https://api.discogs.com/masters/1203073
-For You - 1982 - https://api.discogs.com/masters/351396
-Greatest Hits! Of - 1982 - https://api.discogs.com/masters/1047926
-Down Town - 1982 - https://api.discogs.com/masters/1660477
-スプリンクラー - 1983 - https://api.discogs.com/releases/7402110
-Off Shore - 1983 - https://api.discogs.com/masters/637809
-高気圧ガール - 1983 - https://api.discogs.com/masters/1455182
-Christmas Eve - 1983 - https://api.discogs.com/masters/1139817
-Melodies - 1983 - https://api.discogs.com/masters/427891
-Big Wave = ビッグウェイブ - 1984 - https://api.discogs.com/masters/742675
-CM全集 Vol. 1 (First Selection) - 1984 - https://api.discogs.com/masters/1951015
-Big Wave - 1984 - https://api.discogs.com/masters/3243562
-Come Along II - 1984 - https://api.discogs.com/masters/847682
-Big Wave - 1984 - https://api.discogs.com/masters/1624051
-土曜日の恋人 / Mermaid - 1985 - https://api.discogs.com/masters/2662451
-風の回廊(コリドー) / 潮騒 - 1985 - https://api.discogs.com/masters/1563765
-Tatsuro Collection - 1985 - https://api.discogs.com/masters/1071067
-僕の中の少年 - 1986 - https://api.discogs.com/releases/9744641
-Pocket Music - 1986 - https://api.discogs.com/releases/12835598
-Amapola / You Make Me Feel Brand New - 1986 - https://api.discogs.com/releases/12835625
-On The Street Corner - 1986 - https://api.discogs.com/releases/17823181
-Best Pack I <1976-1978> - 1986 - https://api.discogs.com/masters/1568922
-Best Pack II <1979-1982> - 1986 - https://api.discogs.com/masters/1568923
-Ballad For You - 1986 - https://api.discogs.com/masters/1367504
-On The Street Corner 2 = オン ・ ザ ・ ストリート ・ コーナー 第二集 - 1986 - https://api.discogs.com/masters/456328
-Pocket Music = ポケット・ミュージック - 1986 - https://api.discogs.com/masters/626487
-Rock'N Funk Tatsu - 1986 - https://api.discogs.com/masters/1071066
-Southward Bound - 1987 - https://api.discogs.com/masters/1640994
-踊ろよ、フィッシュ (Single Version) - 1987 - https://api.discogs.com/masters/1455183
-全アルバム集 (Special CD Box) - 1987 - https://api.discogs.com/masters/1568549
-僕の中の少年/The Girl In White - 1988 - https://api.discogs.com/releases/12862584
-僕の中の少年 - 1988 - https://api.discogs.com/masters/781161
-Get Back In Love - 1988 - https://api.discogs.com/masters/1590467
-新(ネオ)・東京ラプソディ / ザ・ガール・イン・ホワイト - 1989 - https://api.discogs.com/masters/2020276
-おやすみロージー ーAngel Babyへのオマージュー - 1989 - https://api.discogs.com/masters/1612794
-Joy - 1989 - https://api.discogs.com/masters/1259195
-Spring Campaign '90 - 1990 - https://api.discogs.com/releases/20319073
-Sweet Message of Tatsuro Yamashita -Acoustic Version- - 1990 - https://api.discogs.com/releases/24873929
-Endless Game - 1990 - https://api.discogs.com/masters/2377810
-Christmas In New York - 1991 - https://api.discogs.com/masters/1624498
-ターナーの汽罐車ーTurner's Steamrollerー - 1991 - https://api.discogs.com/masters/2021815
-Artisan = アルチザン - 1991 - https://api.discogs.com/masters/1303509
-さよなら夏の日 / Without You - 1991 - https://api.discogs.com/masters/3236827
-さよなら夏の日 / モーニング・シャイン - 1991 - https://api.discogs.com/masters/2667683
-X'mas Message from Tatsuro Yamashita - 1992 - https://api.discogs.com/releases/12688391
-アトムの子 - 1992 - https://api.discogs.com/masters/2020432
-X'mas Message from Tatsuro Yamashita - 1993 - https://api.discogs.com/releases/12688380
-Magic Touch - 1993 - https://api.discogs.com/releases/14574209
-ジャングル・スウィング = Jungle Swing - 1993 - https://api.discogs.com/masters/2021428
-Season's Greetings - 1993 - https://api.discogs.com/masters/1255211
-X'mas Message from Tatsuro Yamashita - 1994 - https://api.discogs.com/releases/12688385
-世界の果てまで - 1995 - https://api.discogs.com/releases/6531220
-X'mas Message from Tatsuro Yamashita - 1995 - https://api.discogs.com/releases/12688317
-Treasures - 1995 - https://api.discogs.com/masters/1564257
-愛の灯～スタンド・イン・ザ・ライト = Stand In The Light - 1996 - https://api.discogs.com/releases/10503115
-Dreaming Girl - 1996 - https://api.discogs.com/releases/12231237
-X'mas Message from Tatsuro Yamashita - 1996 - https://api.discogs.com/releases/12688341
-X'mas Message from Tatsuro Yamashita - 1997 - https://api.discogs.com/releases/12688362
-X'mas Message from Tatsuro Yamashita - 1998 - https://api.discogs.com/releases/12688373
-Heron = ヘロン - 1998 - https://api.discogs.com/masters/1979194
-いつか晴れた日に - 1998 - https://api.discogs.com/masters/1979920
-Cozy - 1998 - https://api.discogs.com/masters/816884
-Tatsuro Yamashita Presents X'mas Songs - 1999 - https://api.discogs.com/masters/1698241
-Love Can Go The Distance - 1999 - https://api.discogs.com/masters/1444868
-On The Street Corner 3 - 1999 - https://api.discogs.com/masters/796404
-X'mas Message from Tatsuro Yamashita - 2000 - https://api.discogs.com/releases/12688297
-On The Street Corner (Special Sampler) - 2000 - https://api.discogs.com/releases/17079912
-On The Street Corner 0 Analog - 2000 - https://api.discogs.com/masters/2111101
-Juvenileのテーマ～瞳の中のRainbow～ - 2000 - https://api.discogs.com/masters/2191195
-X'mas Message from Tatsuro Yamashita - 2001 - https://api.discogs.com/releases/12688667
-Tatsuro Yamashita CM Collection Vol.2 - 2001 - https://api.discogs.com/releases/14019800
-- Rca / Air Years 1976-1982 - Special Sampler - 2001 - https://api.discogs.com/releases/28828672
-君の声に恋してる = Kimi No Koe Ni Koishiteru - 2001 - https://api.discogs.com/masters/3137193
-The RCA/Air Years LP Box 1976-1982 - 2002 - https://api.discogs.com/releases/11662505
-Merry Christmas from Tatsuro Yamashita - 2002 - https://api.discogs.com/releases/12688679
-Love Goes On (その瞳は女神) - 2002 - https://api.discogs.com/releases/17808133
-Loveland, Island - 2002 - https://api.discogs.com/releases/19301365
-Rarities = レアリティーズ - 2002 - https://api.discogs.com/masters/1202927
-Tatsuro Yamashita Official Fan Club 10th Anniversary Meeting 2003 - 2003 - https://api.discogs.com/releases/12087146
-Merry Christmas from Tatsuro Yamashita - 2003 - https://api.discogs.com/releases/12688690
-2000トンの雨（2003ニュー・ヴォーカル・リミックス）／フェニックス = 2000t Of Rain (2003 New Vocal Remix)／Phoenix - 2003 - https://api.discogs.com/masters/3390931
-Merry Christmas from Tatsuro Yamashita - 2004 - https://api.discogs.com/releases/12688696
-忘れないで - 2004 - https://api.discogs.com/releases/14594143
-Merry Christmas from Tatsuro Yamashita - 2005 - https://api.discogs.com/releases/12688699
-白いアンブレラ / ラッキー・ガールに花束を - 2005 - https://api.discogs.com/masters/3334216
-太陽のえくぼ - 2005 - https://api.discogs.com/masters/2371999
-Sonorite - 2005 - https://api.discogs.com/masters/140590
-Forever Mine / Midas Touch - 2005 - https://api.discogs.com/masters/2020849
-Merry Christmas from Tatsuro Yamashita - 2006 - https://api.discogs.com/releases/12690012
-Merry Christmas from Tatsuro Yamashita - 2007 - https://api.discogs.com/releases/12690027
-Merry Christmas from Tatsuro Yamashita - 2008 - https://api.discogs.com/releases/12690167
-ずっと一緒さ - 2008 - https://api.discogs.com/masters/2020909
-Merry Christmas from Tatsuro Yamashita - 2009 - https://api.discogs.com/releases/12690177
-僕らの夏の夢／ミューズ - 2009 - https://api.discogs.com/masters/2296264
-Merry Christmas from Tatsuro Yamashita - 2010 - https://api.discogs.com/releases/12690190
-希望という名の光 / Happy Gathering Day - 2010 - https://api.discogs.com/releases/17809057
-街物語（まちものがたり） - 2010 - https://api.discogs.com/masters/2382178
-Merry Christmas from Tatsuro Yamashita - 2011 - https://api.discogs.com/releases/12690198
-愛してるって言えなくたって - 2011 - https://api.discogs.com/releases/17804509
-Ray Of Hope - 2011 - https://api.discogs.com/releases/30008728
-Ray Of Hope - 2011 - https://api.discogs.com/masters/1065257
-Merry Christmas from Tatsuro Yamashita - 2012 - https://api.discogs.com/releases/12690215
-Opus All Time Best 1975-2012 - 2012 - https://api.discogs.com/masters/1259361
-Merry Christmas from Tatsuro Yamashita - 2013 - https://api.discogs.com/releases/12690232
-Christmas Eve (30th Anniversary Edition) - 2013 - https://api.discogs.com/releases/29169556
-光と君へのレクイエム - 2013 - https://api.discogs.com/masters/2822957
-Merry Christmas from Tatsuro Yamashita - 2014 - https://api.discogs.com/releases/12690252
-Merry Christmas from Tatsuro Yamashita - 2015 - https://api.discogs.com/releases/12690269
-She's A Super Lady / Love Talkin' - 2015 - https://api.discogs.com/masters/852024
-Cheer Up! The Summer - 2016 - https://api.discogs.com/releases/9170162
-Merry Christmas from Tatsuro Yamashita - 2016 - https://api.discogs.com/releases/12690282
-Merry Christmas from Tatsuro Yamashita - 2017 - https://api.discogs.com/releases/12690307
-Come Along 3 - 2017 - https://api.discogs.com/masters/1825618
-Reborn - 2017 - https://api.discogs.com/masters/2733509
-Come Along - 2017 - https://api.discogs.com/masters/1414662
-Merry Christmas from Tatsuro Yamashita - 2018 - https://api.discogs.com/releases/13006309
-ミライのテーマ / うたのきしゃ  - 2018 - https://api.discogs.com/masters/1606768
-MF DOOM X Tatsuro Yamashita - 2018 - https://api.discogs.com/masters/1699109
- Love Talkin'​(​Honey It's You) (FabioLous Midnight Cocktail Mix) - 2019 - https://api.discogs.com/releases/15159117
-Recipe（レシピ） - 2019 - https://api.discogs.com/masters/2734097
-Merry Christmas From Tatsuro Yamashita - 2020 - https://api.discogs.com/releases/16922142
-Misty Mauve (Alexis744 Remix) = ミスティモーブ (Alexis744 Remix) - 2021 - https://api.discogs.com/releases/20372266
-Merry Christmas from Tatsuro Yamashita - 2022 - https://api.discogs.com/releases/26838434
-Softly = ソフトリー - 2022 - https://api.discogs.com/masters/2680979
-Sync Of Summer = シンク・オブ・サマー - 2023 - https://api.discogs.com/releases/27789742
-棘 / Your Eyes - Desconocido - https://api.discogs.com/releases/14085179
-New Music Instrumental - Desconocido - https://api.discogs.com/releases/24918110
-Songs (40th Anniversary Ultimate Edition) - 2015 - https://api.discogs.com/masters/398344
-Songs = ソングス - 1975 - https://api.discogs.com/masters/398344
-Twilight Zone - 1977 - https://api.discogs.com/masters/484483
-Pink Pussycat - 1979 - https://api.discogs.com/masters/823583
-ジェラシー = Jealousy - 1979 - https://api.discogs.com/masters/1295109
-灯りを消して = Turn Off The Lights, Turn On Your Radio - 1980 - https://api.discogs.com/releases/25157980
-Black Or White - 1980 - https://api.discogs.com/masters/1524032
-Someday, Somewhere - 1983 - https://api.discogs.com/releases/19298401
-ひとかけらの夏 - 1983 - https://api.discogs.com/masters/1211688
-マージービートで唄わせて - 1984 - https://api.discogs.com/releases/9559799
-Variety = ヴァラエティ - 1984 - https://api.discogs.com/masters/606606
-もう一度 - 1984 - https://api.discogs.com/masters/1975060
-From Variety ～ウエストコーストの風の中で～ - 1985 - https://api.discogs.com/masters/1641583
-Plastic Love - 1985 - https://api.discogs.com/masters/1347548
-時空の旅人 - 1986 - https://api.discogs.com/releases/9869043
-恋の嵐 - 1986 - https://api.discogs.com/masters/1153838
-Request = リクエスト - 1987 - https://api.discogs.com/masters/1024147
-元気を出して - 1987 - https://api.discogs.com/masters/1974625
-Hawaiian Dream = ハワイアン・ドリーム - 1987 - https://api.discogs.com/masters/1419708
-駅 / After Years - 1987 - https://api.discogs.com/masters/1424080
-The Girl In White - 1988 - https://api.discogs.com/masters/952659
-The Girl In White - 1988 - https://api.discogs.com/masters/2227273
-Radio Days - 1988 - https://api.discogs.com/masters/1402145
-夢の続き ('89 Remix) - 1989 - https://api.discogs.com/masters/1644586
-シングル・アゲイン - 1989 - https://api.discogs.com/masters/1608739
-告白  - 1990 - https://api.discogs.com/masters/1976170
-Martini Insturmental Collection - 1991 - https://api.discogs.com/releases/27409566
-The Very Best Of 大貫妙子 - 1991 - https://api.discogs.com/masters/1370600
-家に帰ろう (マイ・スイート・ホーム) - 1992 - https://api.discogs.com/masters/1976488
-マンハッタン・キス - 1992 - https://api.discogs.com/masters/2670878
-Quiet Life = クワイエット・ライフ - 1992 - https://api.discogs.com/masters/1587653
-New Japan Pro Wrestling VI Masahiro Chono Out - 1993 - https://api.discogs.com/releases/12656341
-幸せの探し方 - 1993 - https://api.discogs.com/releases/12683141
-純愛ラプソディ - 1994 - https://api.discogs.com/releases/4411941
-明日の私 - 1994 - https://api.discogs.com/releases/12227144
-本気でオンリーユー (Let's Get Married) - 1994 - https://api.discogs.com/releases/17404387
-Impressions = インプレッションズ - 1994 - https://api.discogs.com/masters/1028726
-今夜はHearty Party - 1995 - https://api.discogs.com/masters/3401284
-Best Tracks On The Moon - 1996 - https://api.discogs.com/releases/14996710
-Lonely Woman - 1996 - https://api.discogs.com/masters/1975354
-硝子の少年 - 1997 - https://api.discogs.com/masters/2398546
-A Album - 1997 - https://api.discogs.com/masters/2052589
-ジェットコースター・ロマンス - 1998 - https://api.discogs.com/releases/9779021
-Happy Happy Greeting / シンデレラ・クリスマス - 1998 - https://api.discogs.com/releases/13684029
-B Album - 1998 - https://api.discogs.com/masters/2052592
-カムフラージュ - 1998 - https://api.discogs.com/masters/1976908
-天使のため息  - 1999 - https://api.discogs.com/masters/1977187
-Souvenir = スーベニール - 2000 - https://api.discogs.com/masters/1767705
-KinKi Single Selection - 2000 - https://api.discogs.com/masters/1808261
-Everyday Is A Special Day = 毎日がスペシャル　 - 2001 - https://api.discogs.com/releases/17424955
-Midnight Nightingale - 2001 - https://api.discogs.com/masters/1977220
-Bon Appetit! = ボナペティ - 2001 - https://api.discogs.com/masters/1310269
-New York City, N.Y. - 2002 - https://api.discogs.com/masters/1877946
-返信 - 2006 - https://api.discogs.com/masters/1975429
-Denim = デニム - 2007 - https://api.discogs.com/masters/1329621
-Expressions = エクスプレッションズ - 2008 - https://api.discogs.com/masters/1823359
-たそがれダイアリー - 2013 - https://api.discogs.com/releases/17461177
-Dear Angie ~あなたは負けない / それぞれの夜 - 2013 - https://api.discogs.com/masters/1689081
-Trad = トラッド - 2014 - https://api.discogs.com/masters/1265408
-Dream In The Street / ひとねむり - 2015 - https://api.discogs.com/releases/10072205
-Turntable = ターンテーブル - 2019 - https://api.discogs.com/releases/14081773
-センチメンタル・ニューヨーク / 風がかわる前に (7") - 2019 - https://api.discogs.com/masters/1786003
-Niagara Triangle Vol. 1 - 1976 - https://api.discogs.com/masters/587886
-恋は流星 Part I・II - 1995 - https://api.discogs.com/masters/1764002
-Body Mind Soul - 2022 - https://api.discogs.com/masters/45883
-Plastic Love - 2021 - https://api.discogs.com/masters/1347548
-Misslim = ミスリム - 1974 - https://api.discogs.com/masters/181272
-Touch Me, Yuka - 1974 - https://api.discogs.com/masters/1578743
-12のらくがき - 1975 - https://api.discogs.com/releases/26062342
-Minako - 1975 - https://api.discogs.com/masters/1019957
-海や山の神様たち　ここでも今でもない話 - 1975 - https://api.discogs.com/masters/1700107
-いくつかの場面 - 1975 - https://api.discogs.com/masters/1861923
-Horo - 1975 - https://api.discogs.com/masters/531077
-Cobalt Hour = コバルト・アワー - 1975 - https://api.discogs.com/masters/473998
-Songs = ソングス - 1975 - https://api.discogs.com/masters/398344
-Niagara Moon - 1975 - https://api.discogs.com/masters/922856
-風 - ファースト・アルバム - 1975 - https://api.discogs.com/masters/3353860
-懐しいくらし - 1975 - https://api.discogs.com/masters/3039098
-キャラメル・ママ - 1975 - https://api.discogs.com/masters/815070
-Down Town - 1975 - https://api.discogs.com/masters/471013
-幸せにさよなら - 1976 - https://api.discogs.com/releases/18640336
-Niagara Triangle Vol. 1 - 1976 - https://api.discogs.com/masters/587886
-Flapper = フラッパー - 1976 - https://api.discogs.com/masters/916075
-The 14th Moon = 14番目の月 - 1976 - https://api.discogs.com/masters/945184
-Grey Skies - 1976 - https://api.discogs.com/masters/492681
-黄昏めもりぃ - 1976 - https://api.discogs.com/masters/1219787
-愛は幻 / One's Love - 1976 - https://api.discogs.com/masters/2602259
-Minako II - Live At Sun Plaza Hall October 3, 1975 - 1976 - https://api.discogs.com/masters/1224106
-どうぞこのまま - 1976 - https://api.discogs.com/masters/2055883
-Haruomi Hosono Produced 細野晴臣 製作 リンダ・カリエール - 1977 - https://api.discogs.com/releases/9974042
-夢で逢えたら - 1977 - https://api.discogs.com/releases/14786266
-ときどき私は...... - 1977 - https://api.discogs.com/masters/805148
-恋は流星 = Shooting Star Of Love - 1977 - https://api.discogs.com/masters/1764002
-夢で逢えたら - 1977 - https://api.discogs.com/masters/1348647
-Our Connection = アワー・コネクション - 1977 - https://api.discogs.com/masters/1008689
-青空のように - 1977 - https://api.discogs.com/masters/2894962
-Twilight Zone - 1977 - https://api.discogs.com/masters/484483
-Tokyo Special - 1977 - https://api.discogs.com/masters/861369
-Sunshower - 1977 - https://api.discogs.com/masters/742672
-バイブレイション = Love Celebration - 1977 - https://api.discogs.com/masters/1750447
-Guitar Work Shop - 1977 - https://api.discogs.com/masters/1314583
-ムーンライト・シンギィング - 1978 - https://api.discogs.com/releases/14081692
-Sunshine Surfin' Sound - 1978 - https://api.discogs.com/releases/22183300
-Thousand Knives Of = 千のナイフ - 1978 - https://api.discogs.com/masters/47218
-Beginning = ビギニング - 1978 - https://api.discogs.com/masters/1391096
-流線形'80 - 1978 - https://api.discogs.com/masters/666205
-Saravah! - 1978 - https://api.discogs.com/masters/121633
-Touch Me - 1978 - https://api.discogs.com/masters/1307671
-Love Heart = ラヴ・ハート - 1978 - https://api.discogs.com/masters/941155
-Moonlight Singing - 1978 - https://api.discogs.com/masters/1785033
-ブルー・ヴァレンタイン・デイ - 1978 - https://api.discogs.com/masters/2981399
-Killing Me - 1978 - https://api.discogs.com/masters/1908330
-夢で逢えたら / ラスト・ステップ - 1978 - https://api.discogs.com/masters/1670857
-愛は思うまま (Let's Do It) - 1978 - https://api.discogs.com/masters/1052380
-Loft Sessions Vol.1 - 1978 - https://api.discogs.com/masters/1535728
-Debut = 大滝詠一デビュー - 1978 - https://api.discogs.com/masters/1689556
-Minako Favorites =ミナコ・フェイヴァリッツ - 1978 - https://api.discogs.com/masters/655329
-気まぐれハイウェイ - 1979 - https://api.discogs.com/releases/3667163
-Pink Specials - 1979 - https://api.discogs.com/releases/4926236
-Hamlet Rock Musical - 1979 - https://api.discogs.com/releases/15448501
-愛しているからさよならを - 1979 - https://api.discogs.com/releases/15550759
-Meet Mariya, Come September!! Mariya Special DJ Copy - 1979 - https://api.discogs.com/releases/17325046
-おもちゃ箱 第1幕  - 1979 - https://api.discogs.com/masters/297021
-Pink Pussycat - 1979 - https://api.discogs.com/masters/823583
-L.A. (Light Album) = L.A（ライト・アルバム） - 1979 - https://api.discogs.com/masters/78299
-University Street = ユニヴァーシティ・ストリート - 1979 - https://api.discogs.com/masters/1391097
-Loving You b/w Camouflage - 1979 - https://api.discogs.com/masters/1997494
-ジェラシー = Jealousy - 1979 - https://api.discogs.com/masters/1295109
-東京は夜の７時 - 1979 - https://api.discogs.com/masters/453512
-Olive - 1979 - https://api.discogs.com/masters/666551
-恋のブギウギトレイン = Boogie Oogie Love Train - 1979 - https://api.discogs.com/masters/2370490
-Maria - 1979 - https://api.discogs.com/masters/781611
-パーティー・イズ・オーバー = Party Is Over - 1979 - https://api.discogs.com/masters/3215058
-September - 1979 - https://api.discogs.com/masters/2164603
-Mellow Guitar Vibration - 1980 - https://api.discogs.com/releases/2975446
-Down Town - 1980 - https://api.discogs.com/releases/3544828
-リンダ = Linda - 1980 - https://api.discogs.com/releases/11193167
-New Music: Best Karaoke - 1980 - https://api.discogs.com/releases/15965499
-あとはもう気分 - 1980 - https://api.discogs.com/releases/21999496
-Linda (English Version) - 1980 - https://api.discogs.com/releases/22457041
-灯りを消して = Turn Off The Lights, Turn On Your Radio - 1980 - https://api.discogs.com/releases/25157980
-Keepin' The Summer Alive = キーピン・ザ・サマー - 1980 - https://api.discogs.com/masters/247927
-Black Or White - 1980 - https://api.discogs.com/masters/1524032
-不思議なピーチパイ - 1980 - https://api.discogs.com/masters/1424082
-Love Songs = ラヴ・ソングス - 1980 - https://api.discogs.com/masters/1254126
-Sweetest Music - 1980 - https://api.discogs.com/masters/1975063
-Linda - 1980 - https://api.discogs.com/masters/2763584
-Big Game '80 Hideki Jumping Summer In Stadium - 1980 - https://api.discogs.com/masters/3317011
-Monochrome = モノクローム - 1980 - https://api.discogs.com/masters/675183
-Dream In The Street - 1980 - https://api.discogs.com/masters/833019
-Miss M - 1980 - https://api.discogs.com/masters/1005067
-Boogie Woogie Love Train / Koi No Boogie Woogie Train - 1980 - https://api.discogs.com/masters/1220110
-Goodies = グッディーズ - 1980 - https://api.discogs.com/masters/1568603
-偽りのDJ - 1980 - https://api.discogs.com/masters/2731928
-Down Town = ダウン・タウン - 1980 - https://api.discogs.com/masters/1277930
-あしたこそ、あなた - 1981 - https://api.discogs.com/releases/2075870
-ギンギラギンにさりげなく - 1981 - https://api.discogs.com/releases/4977846
-Niagara Vox - 1981 - https://api.discogs.com/releases/14836943
-Party Tonight - 1981 - https://api.discogs.com/masters/823509
-Joepo~1981Khz - 1981 - https://api.discogs.com/masters/1605981
-Nights (Feel Like Getting Down) - 1981 - https://api.discogs.com/masters/139655
-Aventure = アヴァンチュール - 1981 - https://api.discogs.com/masters/383497
-Island Music - 1981 - https://api.discogs.com/masters/518725
-恋人達の明日 - 1981 - https://api.discogs.com/masters/1983238
-Portrait = ポートレイト - 1981 - https://api.discogs.com/masters/932826
-Niagara Fall Stars - 1981 - https://api.discogs.com/masters/1397940
-Monsters In Town - 1981 - https://api.discogs.com/masters/675181
-イチゴの誘惑 - 1981 - https://api.discogs.com/masters/2164609
-スペシャル・デリヴァリー 特別航空便 = Special Delivery - 1981 - https://api.discogs.com/masters/2164612
-ハイティーン・ブギ - 1982 - https://api.discogs.com/releases/6352347
-Girl In Me - 1982 - https://api.discogs.com/releases/13878431
-Catching The Sun - 1982 - https://api.discogs.com/releases/17534461
-う・わ・さ・に・な・り・た・い = Rumor - 1982 - https://api.discogs.com/masters/1558623
-Woman - 1982 - https://api.discogs.com/masters/2934892
-The Takechan-マン: タケちゃんマンの歌 / Down Town - 1982 - https://api.discogs.com/masters/2058679
-Viva Mariya - 1982 - https://api.discogs.com/masters/1384901
-愛得太苛 - 1982 - https://api.discogs.com/masters/2802353
-Awakening = アウェイクニング - 1982 - https://api.discogs.com/masters/793346
-Off Shore - 1982 - https://api.discogs.com/masters/637809
-飛行船の上のシンセサイザー弾き - 1982 - https://api.discogs.com/masters/601035
-電話しても - 1982 - https://api.discogs.com/masters/3032282
-Mata Ashita - 1982 - https://api.discogs.com/masters/1404543
-Town / Monster Stomp - 1982 - https://api.discogs.com/masters/622443
-Moonlight Island - 1982 - https://api.discogs.com/masters/1191832
-Love Connection - 1982 - https://api.discogs.com/masters/1492949
-一本の音楽 - 1983 - https://api.discogs.com/releases/10848424
-RVC 日本紅星精選盤 - 1983 - https://api.discogs.com/releases/17232184
-マホガニーのカウンター - 1983 - https://api.discogs.com/releases/24287705
-Your Eyes - 1983 - https://api.discogs.com/masters/2535586
-WoManiac - 1983 - https://api.discogs.com/masters/2777855
-Favorite Visions - 1983 - https://api.discogs.com/masters/288023
-ひとかけらの夏 - 1983 - https://api.discogs.com/masters/1211688
-マージービートで唄わせて - 1984 - https://api.discogs.com/releases/9559799
-永遠に秘密さ - 1984 - https://api.discogs.com/releases/11210700
-Best 12 = ベスト１２ - 1984 - https://api.discogs.com/releases/13285296
-Moon Records Special '84 - 1984 - https://api.discogs.com/releases/13878294
-Self Portrait / 羽の林で - 1984 - https://api.discogs.com/releases/15255814
-Niagara Black Vox - 1984 - https://api.discogs.com/releases/15298754
-青春共和国 = Tropical Mystery - 1984 - https://api.discogs.com/releases/15734241
-Sunrise Twist - 1984 - https://api.discogs.com/releases/25310113
-Drivin' Fusion Sounds 60 = ドライヴィン・フュージョン・サウンズ 60 - 1984 - https://api.discogs.com/releases/26738489
-Grey Skies / Sunshower - 1984 - https://api.discogs.com/masters/899169
-Re-Collection - 1984 - https://api.discogs.com/masters/1175808
-Variety = ヴァラエティ - 1984 - https://api.discogs.com/masters/606606
-Run To Live, Live To Run - 1984 - https://api.discogs.com/masters/2599532
-もう一度 - 1984 - https://api.discogs.com/masters/1975060
-Hi·Touch-Hi·Tech - 1984 - https://api.discogs.com/masters/1198909
-Big Wave = ビッグウェーブ - 1984 - https://api.discogs.com/masters/1211397
-オーエス オーエス - 1984 - https://api.discogs.com/masters/388454
-音楽図鑑 - 1984 - https://api.discogs.com/masters/368293
-The Best Station JOEPO 1980~1984 - 1984 - https://api.discogs.com/masters/1144721
-Summer Campaign '85 - 1985 - https://api.discogs.com/releases/3100987
-Ann Lewis - 全曲集 - 1985 - https://api.discogs.com/masters/3078170
-The Matchy - Best Songs For You - 1985 - https://api.discogs.com/masters/2244772
-Aru First - 1985 - https://api.discogs.com/masters/1183921
-Annie's Mix '85 (Special English Version) - 1985 - https://api.discogs.com/masters/1411306
-トライ・アゲイン = Try Again - 1985 - https://api.discogs.com/masters/3385681
-This Boy - 1985 - https://api.discogs.com/masters/1281044
-From Variety ～ウエストコーストの風の中で～ - 1985 - https://api.discogs.com/masters/1641583
-Summer In Tears - 1985 - https://api.discogs.com/masters/1090986
-アーリー大瀧詠一 - 1985 - https://api.discogs.com/masters/1255085
-Sunshine Dream - 1986 - https://api.discogs.com/releases/9143459
-時空の旅人 - 1986 - https://api.discogs.com/releases/9869043
-Showdown - 1986 - https://api.discogs.com/masters/1527912
-恋の嵐 - 1986 - https://api.discogs.com/masters/1153838
-不思議なピーチパイ〜う、ふ、ふ、ふ - 1986 - https://api.discogs.com/masters/2012290
-音楽図鑑 Illustrated Musical Encyclopedia - 1986 - https://api.discogs.com/masters/52459
-時空の旅人 = Time Stranger (Original Soundtrack) - 1986 - https://api.discogs.com/masters/1416986
-Elegance - 1986 - https://api.discogs.com/masters/1349610
-夢の続き - 1987 - https://api.discogs.com/releases/12224774
-Fly Away - 1987 - https://api.discogs.com/releases/14438809
-Request = リクエスト - 1987 - https://api.discogs.com/masters/1024147
-Light'n Up - 1987 - https://api.discogs.com/masters/866534
-17 Songs - 1987 - https://api.discogs.com/masters/1374559
-元気を出して - 1987 - https://api.discogs.com/masters/1974625
-駅 / After Years - 1987 - https://api.discogs.com/masters/1424080
-全アルバム集 (Special CD Box) - 1987 - https://api.discogs.com/masters/1586062
-三番目の幸せ - 1987 - https://api.discogs.com/masters/3022127
-Poptracks - 1987 - https://api.discogs.com/masters/1084834
-Guilty - 1988 - https://api.discogs.com/releases/11554774
-The Girl In White - 1988 - https://api.discogs.com/masters/952659
-Pet Sounds = ペット・サウンズ - 1988 - https://api.discogs.com/masters/17217
-Radio Days - 1988 - https://api.discogs.com/masters/1402145
-夢の続き ('89 Remix) - 1989 - https://api.discogs.com/masters/1644586
-Forever - 1989 - https://api.discogs.com/masters/1312822
-シングル・アゲイン - 1989 - https://api.discogs.com/masters/1608739
-Home Music II - 1989 - https://api.discogs.com/masters/1631637
-Champagne Breakfast - 1990 - https://api.discogs.com/releases/4984817
-Tatsuro Songs From L.A. - 1990 - https://api.discogs.com/releases/6739816
-Music Wave Kiss - Black Contemporary Pops - 1990 - https://api.discogs.com/releases/15049266
-Wonderful Life～君がいたから～ - 1990 - https://api.discogs.com/releases/17512249
-Best Pack - 1990 - https://api.discogs.com/masters/1568930
-Angel Touch - 1990 - https://api.discogs.com/masters/1487295
-Summer Nerves - 1990 - https://api.discogs.com/masters/185051
-Love Storm - 1990 - https://api.discogs.com/masters/1102711
-Anything Is Possible = エニシング・イズ・ポッシブル - 1990 - https://api.discogs.com/masters/134012
-Without You = ウィズアウト・ユー - 1990 - https://api.discogs.com/masters/3236827
-Morning Glory = モーニング・グローリー - 1990 - https://api.discogs.com/masters/1961143
-Blue Coast Inn - 1990 - https://api.discogs.com/masters/2901379
-ベスト・セレクション = Best Selection - 1990 - https://api.discogs.com/masters/1777119
-Melody Go Round - 1990 - https://api.discogs.com/masters/2670188
-告白 - 1990 - https://api.discogs.com/masters/1976170
-Akiko Yano - 1990 - https://api.discogs.com/masters/493537
-Lovers - 1991 - https://api.discogs.com/releases/3863033
-Silent Night Music Box - 1991 - https://api.discogs.com/releases/8185253
-Tatsuro Songs From L.A. 2 - 1991 - https://api.discogs.com/releases/8898369
-New Music Jazz Christmas - 1991 - https://api.discogs.com/releases/15627362
-Tatsuro Songs From L.A. Special - 1991 - https://api.discogs.com/releases/19826119
-The Very Best Of 大貫妙子 - 1991 - https://api.discogs.com/masters/1370600
-History - 1991 - https://api.discogs.com/masters/1964872
-Last Christmas - Crystal Jewels - 1991 - https://api.discogs.com/masters/967560
-奇跡の人 - 1992 - https://api.discogs.com/releases/1423645
-Crystalsound Last Christmas - 1992 - https://api.discogs.com/releases/3931043
-ライド・オン・タイム - 1992 - https://api.discogs.com/releases/5580833
-New Interior Music - Crystalsounds I Love You (Instrumental) - 1992 - https://api.discogs.com/releases/6729331
-Erotic & Pain - 1992 - https://api.discogs.com/releases/6737564
-Christmas - 1992 - https://api.discogs.com/releases/8362016
-捨不得的感覺 - 1992 - https://api.discogs.com/releases/13497578
-Blow = ブロウ - 1992 - https://api.discogs.com/releases/17750536
-家に帰ろう (マイ・スイート・ホーム) - 1992 - https://api.discogs.com/masters/1976488
-マンハッタン・キス - 1992 - https://api.discogs.com/masters/2670878
-Better Days Of - 1992 - https://api.discogs.com/masters/833849
-Quiet Life = クワイエット・ライフ - 1992 - https://api.discogs.com/masters/1587653
-Christmas Today - 1992 - https://api.discogs.com/masters/3306112
-Visions - 1992 - https://api.discogs.com/masters/2077558
-Super Folk Song - 1992 - https://api.discogs.com/masters/1640045
-Eyes Of The Child = アイズ・オブ・ザ・チャイルド - 1993 - https://api.discogs.com/releases/932409
-History Box Vol. 3 - 1993 - https://api.discogs.com/releases/10234722
-幸せの探し方 - 1993 - https://api.discogs.com/releases/12683141
-Merry Christmas Wish - 1993 - https://api.discogs.com/releases/18035266
-Bon Voyage Co. = 泰安洋行 - 1993 - https://api.discogs.com/masters/444443
-The Ballads - 1993 - https://api.discogs.com/masters/2850874
-Gruppo Musicale - 1993 - https://api.discogs.com/masters/246914
-Soundbytes - 1994 - https://api.discogs.com/releases/343789
-純愛ラプソディ - 1994 - https://api.discogs.com/releases/4411941
-Christmas Eve ~ Sweet Reggae Xmas - 1994 - https://api.discogs.com/releases/6872020
-Christmas Eve - 1994 - https://api.discogs.com/releases/9110598
-明日の私 - 1994 - https://api.discogs.com/releases/12227144
-Caribbean Christmas - 1994 - https://api.discogs.com/releases/15509271
-本気でオンリーユー (Let's Get Married) - 1994 - https://api.discogs.com/releases/17404387
-The Little Singers Of Paris - 1994 - https://api.discogs.com/releases/24949897
-Impressions = インプレッションズ - 1994 - https://api.discogs.com/masters/1028726
-Green Water - 1994 - https://api.discogs.com/masters/1749729
-ユーミン・ブランド・パート2 = Yuming Brand Part 2 - 1994 - https://api.discogs.com/masters/1234846
-Heartful Christmas ~Angel's Bell~ - 1995 - https://api.discogs.com/releases/7882936
-Homesick - 1995 - https://api.discogs.com/releases/9588293
-Paradise Door - 1995 - https://api.discogs.com/releases/16869360
-Yellow Magic Carnival -  Greatest Hits - 1995 - https://api.discogs.com/masters/1126612
-Eiichi Ohtaki Song Book II 大瀧詠一作品集 Vol.2 (1971-1988) - 1995 - https://api.discogs.com/masters/2115934
-Highway 70 - 1995 - https://api.discogs.com/masters/1737746
-Extreme Beauty - 1995 - https://api.discogs.com/masters/2841691
-Da Reggae Christmas! - 1995 - https://api.discogs.com/masters/1889478
-今夜はHearty Party - 1995 - https://api.discogs.com/masters/3401284
-Best Tracks On The Moon - 1996 - https://api.discogs.com/releases/14996710
-Living With Joy - 1996 - https://api.discogs.com/releases/15395899
-はるかな Home Town - 1996 - https://api.discogs.com/releases/17450929
-EPOCHA 1980~1986 - 1996 - https://api.discogs.com/releases/17897203
-Champ - 1996 - https://api.discogs.com/releases/18940660
-Harry Up Hosono - Haruomi Hosono Best Selections - 1996 - https://api.discogs.com/masters/606257
-Thru My Window - 1996 - https://api.discogs.com/masters/920089
-離愛出走 - 1996 - https://api.discogs.com/masters/3011159
-Lonely Woman - 1996 - https://api.discogs.com/masters/1975354
-Modern Juzz - 1997 - https://api.discogs.com/masters/2695244
-硝子の少年 - 1997 - https://api.discogs.com/masters/2398546
-A Album - 1997 - https://api.discogs.com/masters/2052589
-~Atlantic Years~  - 1998 - https://api.discogs.com/releases/6024412
-ジェットコースター・ロマンス - 1998 - https://api.discogs.com/releases/9779021
-In My Life - 1998 - https://api.discogs.com/releases/11756500
-Get Along [ ようこそ ] - 1998 - https://api.discogs.com/releases/13413464
-Happy Happy Greeting / シンデレラ・クリスマス - 1998 - https://api.discogs.com/releases/13684029
-Feel Alright! - 1998 - https://api.discogs.com/releases/18374179
-60年代の60曲 漣健児のワンダーランド: ルーツ・シックスティ・シックスティーズ = Sazanami Kenji Roots 60-60's - 1998 - https://api.discogs.com/releases/19709107
-クリスマス・イヴ - 1998 - https://api.discogs.com/releases/22064587
-とびきりの笑顔  〜Amor Sin Medidia - 1998 - https://api.discogs.com/masters/3045578
-B Album - 1998 - https://api.discogs.com/masters/2052592
-カムフラージュ - 1998 - https://api.discogs.com/masters/1976908
-Windy Lady EP - 1998 - https://api.discogs.com/masters/2335696
-Welcome To My Life - 1998 - https://api.discogs.com/masters/2709134
-坂本龍一の音楽 Early Best Songs  - 1999 - https://api.discogs.com/releases/2282047
-Friends - 1999 - https://api.discogs.com/releases/9399380
-紙ひこうき - 1999 - https://api.discogs.com/releases/17910739
-RCA Best Collection - 1999 - https://api.discogs.com/masters/1807153
-天使のため息  - 1999 - https://api.discogs.com/masters/1977187
-青春歌年鑑 '82 Best 30 - 2000 - https://api.discogs.com/releases/7547564
-無人島 - 2000 - https://api.discogs.com/releases/17911540
-Souvenir = スーベニール - 2000 - https://api.discogs.com/masters/1767705
-The World Shopping With Space Ponch - 2000 - https://api.discogs.com/masters/365449
-KinKi Single Selection - 2000 - https://api.discogs.com/masters/1808261
-Pink - 2001 - https://api.discogs.com/releases/1538506
-Sweet Soul - 2001 - https://api.discogs.com/releases/15949790
-Everyday Is A Special Day = 毎日がスペシャル　 - 2001 - https://api.discogs.com/releases/17424955
-クリスマス・イブ Rap - 2001 - https://api.discogs.com/masters/1470608
-Midnight Nightingale - 2001 - https://api.discogs.com/masters/1977220
-ノスタルジア = Nostalgia - 2001 - https://api.discogs.com/masters/1977715
-Bon Appetit! = ボナペティ - 2001 - https://api.discogs.com/masters/1310269
-Pacific / エーゲ海 (The Aegean Sea) - 2002 - https://api.discogs.com/releases/13911586
-Rhythm Celebrity - 2002 - https://api.discogs.com/releases/14930171
-Kissing You - 2002 - https://api.discogs.com/releases/30355370
-Funky Flushin' - 2002 - https://api.discogs.com/masters/2604926
-The Hit Parade - 2002 - https://api.discogs.com/masters/1855452
-Tintarella Di Luna - 2003 - https://api.discogs.com/releases/735745
-Christmas Chai / Suntory Oolong-Cha CM Song Collection = 烏龍歌集 [クリスマスチャイ] / サントリーウーロン茶CMソングコレクション - 2003 - https://api.discogs.com/releases/6571820
-Tributes & Rarities - 2003 - https://api.discogs.com/releases/9218876
-City Pop ~ Warner Music Japan Edition - 2003 - https://api.discogs.com/releases/13636728
-Everything - 2003 - https://api.discogs.com/releases/15843516
-TBS-Kei Nichijou Gekijou "Good Luck!!" Original Soundtrack - 2003 - https://api.discogs.com/releases/15973618
-First Breath - 2003 - https://api.discogs.com/releases/17058387
-Show Wa! バラエティー・レボリューション - 2003 - https://api.discogs.com/releases/20942293
-Christmas Chai / Suntory Oolong-Cha CM Song Collection = 烏龍歌集 [クリスマスチャイ] / サントリーウーロン茶CMソングコレクション - 2003 - https://api.discogs.com/releases/28758652
-Best Album 2001-2003 - 2003 - https://api.discogs.com/masters/2209978
-Longtime Favorites - 2003 - https://api.discogs.com/masters/1210924
-Ponta 30 Years Anniversary "My Pleasure" Featuring Greatest Musicians - 2003 - https://api.discogs.com/masters/2709143
-The Hit Parade - 2003 - https://api.discogs.com/masters/1924872
-Christmas Eve - 2004 - https://api.discogs.com/releases/4847118
-Memories - Best Cover Collection - 2004 - https://api.discogs.com/releases/8162209
-沈黙の薔薇 - 2004 - https://api.discogs.com/releases/11678132
-The Works Of Tatsuro Yamashita Vol. 1 - 2004 - https://api.discogs.com/releases/13558054
-Yumi Arai 1972-1976 - 2004 - https://api.discogs.com/releases/14147660
-Shibuya Jazz Clash - No Wave In Jap Jazz And Funk '75-'86 - 2004 - https://api.discogs.com/masters/1923987
-Colors -Single Collection Vol.1- - 2005 - https://api.discogs.com/releases/1540793
-Golden☆Best - 2005 - https://api.discogs.com/releases/9176127
-Reminiscence - 2005 - https://api.discogs.com/releases/10445916
-Dramage The Morning  ドラマージュ ザ・モーニング～ＮＨＫ連続テレビ小説テーマ集～ - 2005 - https://api.discogs.com/releases/17282425
-月夜のタンゴ  - 2005 - https://api.discogs.com/releases/17509978
-Non Vintage | Tatsuo Hayashi Selection - 2005 - https://api.discogs.com/releases/25889746
-インディアン・サマー - 2005 - https://api.discogs.com/masters/1696237
-Panorama House - 2005 - https://api.discogs.com/masters/1748153
-ついておいで - 2005 - https://api.discogs.com/masters/877923
-White Christmas - 2005 - https://api.discogs.com/masters/1519398
-Free Soul - 2006 - https://api.discogs.com/releases/989515
-Matchy Tribute / 25th Anniversary - 2006 - https://api.discogs.com/releases/8382274
-今日までそして明日から - 2006 - https://api.discogs.com/releases/10368341
-Matchy★Best (The Best Of Masahiko Kondo) - 2006 - https://api.discogs.com/releases/18576913
-うたポン - 2006 - https://api.discogs.com/releases/25856479
-うたポン - 2006 - https://api.discogs.com/releases/28849138
-Weekend Shuffle = ウィークエンド • シャッフル - 2006 - https://api.discogs.com/masters/1581843
-返信 - 2006 - https://api.discogs.com/masters/1975429
-Slow Love  - 2006 - https://api.discogs.com/masters/1976125
-Down Town～色彩都市 - 2007 - https://api.discogs.com/releases/3806447
-Diary ～フツウの一日～ - 2007 - https://api.discogs.com/releases/22379005
-Hopeless Love - 2007 - https://api.discogs.com/masters/1693898
-Denim = デニム - 2007 - https://api.discogs.com/masters/1329621
-チャンスの前髪 - 2007 - https://api.discogs.com/masters/1977142
-Toki Asako Remixies Weekend Shuffle = 土岐麻子 • リミックス • ウィークエンド • シャッフル - 2007 - https://api.discogs.com/masters/1594376
-渚レゲエ - 2008 - https://api.discogs.com/releases/7870026
-Heavenly U - 2008 - https://api.discogs.com/releases/9557342
-Love Electro - 2008 - https://api.discogs.com/releases/10439385
-J-Pop ベストヒットカヴァー - 2008 - https://api.discogs.com/releases/10628858
-コトノハ / Japanese Standard Songs - 2008 - https://api.discogs.com/releases/11651258
-虹色のハーモニー - 2008 - https://api.discogs.com/releases/13127837
-幸せのものさし - 2008 - https://api.discogs.com/masters/1976458
-縁の糸 - 2008 - https://api.discogs.com/masters/2108194
-III - 2008 - https://api.discogs.com/masters/179016
-Middle & Mellow Of Asako Toki - 2009 - https://api.discogs.com/releases/13713683
-Songs & Voice - 2009 - https://api.discogs.com/releases/14418042
-Diary Remake - 2009 - https://api.discogs.com/releases/15935512
-Domani ～明日をつかまえて～ - 2009 - https://api.discogs.com/releases/17631298
-Legenda The Concert - 2009 - https://api.discogs.com/masters/867748
-歌姫たちのヒット・パレード 1980 - 2010 - https://api.discogs.com/releases/8194290
-Sandii Beach - 2010 - https://api.discogs.com/masters/1573527
-Joy To The World - 2010 - https://api.discogs.com/masters/336687
-男歌II ~20世紀ノスタルジア~ - 2010 - https://api.discogs.com/masters/226417
-Down Town / やさしさに包まれたなら - 2010 - https://api.discogs.com/masters/2133118
-Happy Holidays! ～City Pops Covers～ - 2011 - https://api.discogs.com/releases/7653075
-Smooch !! - 2011 - https://api.discogs.com/releases/13321253
-Christmas In July - 2011 - https://api.discogs.com/releases/30683161
-Luv Songs - 2011 - https://api.discogs.com/masters/1303066
-You Can't Catch Me - 2011 - https://api.discogs.com/masters/2862340
-Cover Red / Wish - 2012 - https://api.discogs.com/releases/7120304
-Christmas Chorus Songs - 2012 - https://api.discogs.com/releases/13151579
-Covers 2 - 2012 - https://api.discogs.com/masters/1450008
-My Crew - 2012 - https://api.discogs.com/masters/1211690
-いのちの歌 - 2012 - https://api.discogs.com/masters/1977925
-愛しきわが出雲 - 2013 - https://api.discogs.com/releases/17404915
-たそがれダイアリー - 2013 - https://api.discogs.com/releases/17461177
-坂本真綾 Countdown Live 2012→2013 ～Tour”ミツバチ”Final～ - 2013 - https://api.discogs.com/masters/3424709
-15th Anniversary Super Best - 2013 - https://api.discogs.com/masters/756420
-Corner Top - 2013 - https://api.discogs.com/masters/998177
-熱風 - 2013 - https://api.discogs.com/masters/1514771
-Dear Angie ~あなたは負けない / それぞれの夜 - 2013 - https://api.discogs.com/masters/1689081
-Mariya's Songbook - 2013 - https://api.discogs.com/masters/2043727
-Cat Vibes EP - 2014 - https://api.discogs.com/releases/7406520
-夢で逢えたら - 2014 - https://api.discogs.com/releases/15192880
-Pleasure - 2014 - https://api.discogs.com/releases/15497084
-That's Christmas To Me - 2014 - https://api.discogs.com/masters/749618
-静かな伝説 (レジェンド) - 2014 - https://api.discogs.com/masters/1976926
-Best Always - 2014 - https://api.discogs.com/masters/1672107
-Christmas Hearts - 2014 - https://api.discogs.com/masters/3314947
-悲しき夏バテ - 2014 - https://api.discogs.com/masters/1191441
-Trad = トラッド - 2014 - https://api.discogs.com/masters/1265408
-Complete Collection 2013-1015 - 2015 - https://api.discogs.com/releases/7458254
-Yumede Aetera - 2015 - https://api.discogs.com/releases/7779691
-Prologue - 2015 - https://api.discogs.com/releases/15059632
-Sahashi Works 1983-2015  Time Passes On - 2015 - https://api.discogs.com/releases/16893264
-Pacific Oasis (Kamasami Kong DJ Show) - 2015 - https://api.discogs.com/releases/28586746
-Classic Harmony - 2015 - https://api.discogs.com/masters/1472750
-What The World Needs Now Is Love (世界は愛を求めてる。) - 2015 - https://api.discogs.com/masters/922337
-都会 / くすりをたくさん - 2015 - https://api.discogs.com/masters/3186600
-Down Town - 2016 - https://api.discogs.com/releases/9622681
-Year Book 1971-1979 - 2016 - https://api.discogs.com/releases/10654386
-The Best Of Jeffrey Foskett - 2016 - https://api.discogs.com/releases/11851291
-復活Love - 2016 - https://api.discogs.com/releases/17909818
-Sweet Song Covers - 2016 - https://api.discogs.com/masters/1524232
-真っ赤な太陽 = Makka Na Taiyo - 2017 - https://api.discogs.com/releases/10055012
-Fish! / This Could Be The Night  - 2017 - https://api.discogs.com/releases/10084173
-Alone in the Dark / Imagination - 2017 - https://api.discogs.com/releases/10092412
-ヴァカンス渋谷系を歌う。〜Wonderful Summer〜 - 2017 - https://api.discogs.com/releases/10221393
-Japanese Sounds 和音 - 2017 - https://api.discogs.com/releases/10353425
-ヴァカンス渋谷系を歌う。〜Wonderful Summer〜 - 2017 - https://api.discogs.com/releases/10785029
-The Singles A's & B's - 2017 - https://api.discogs.com/releases/10937388
-You Remind Me Of The Sun - 2017 - https://api.discogs.com/releases/11680936
-Jody / You Remind Me Of The Sun - 2017 - https://api.discogs.com/releases/11941888
-Songs Of Tatsuro Yamashita On Brass ～山下達郎作品集　ブラスアレンジ～ - 2017 - https://api.discogs.com/masters/2831015
-Yume de Aetara, Song Book III - 2018 - https://api.discogs.com/releases/11909078
-いかれたBaby - 2018 - https://api.discogs.com/releases/12578016
-Deserie - 2018 - https://api.discogs.com/releases/15248511
-Your Tender Lips - 2018 - https://api.discogs.com/releases/15248649
-That's My Desire - 2018 - https://api.discogs.com/releases/15248738
-Pop Virus - 2018 - https://api.discogs.com/masters/1577064
-Heliotrope - 2018 - https://api.discogs.com/masters/1442388
-小さな願い - 2018 - https://api.discogs.com/masters/3415375
-Saravah Saravah! - 2018 - https://api.discogs.com/masters/1447630
-Turntable = ターンテーブル - 2019 - https://api.discogs.com/releases/14081773
-Soul Food Edits Vol 2 - 2019 - https://api.discogs.com/releases/14321077
-Love Songs - 2019 - https://api.discogs.com/releases/14587754
-Vibration/Yours - 2019 - https://api.discogs.com/releases/18844996
-Igor - 2019 - https://api.discogs.com/masters/1591877
-旅のつづき - 2019 - https://api.discogs.com/masters/2638883
-Pacific Breeze: Japanese City Pop, AOR And Boogie 1976-1986 - 2019 - https://api.discogs.com/masters/1539822
-A Christmas We'll Remember: Music from the DRP Music Christmas Concert - 2020 - https://api.discogs.com/releases/17649682
-Sparkle  - 2020 - https://api.discogs.com/releases/23727899
-Pacific Breeze 2: Japanese City Pop, AOR And Boogie 1972-1986 - 2020 - https://api.discogs.com/masters/1730078
-Night Rhyder Part.2 - 2021 - https://api.discogs.com/releases/18789001
-Sparkle / 秘密  - 2021 - https://api.discogs.com/releases/20021707
-伊勢正三の世界 (Panamレーベルの時代) - 2021 - https://api.discogs.com/releases/20592883
-Sparkle / Love Space - 2021 - https://api.discogs.com/releases/20660044
-Watching Over You - 2021 - https://api.discogs.com/releases/20881975
-あまく危険な香り / 透明なひとときを - 2021 - https://api.discogs.com/releases/21038200
-Sparlke / アロハ・オエ・ブルース - 2021 - https://api.discogs.com/releases/21561175
-Make Waves - 2021 - https://api.discogs.com/masters/2320981
-Flowers Bloom, Birds Tweet, Wind Blows & Moon Shining - 2021 - https://api.discogs.com/masters/2491327
-Plastic Love - 2021 - https://api.discogs.com/masters/1347548
-あまく危険な香り / 海を見ていた午後 - 2022 - https://api.discogs.com/releases/24031898
-Yume De Aetara - 2022 - https://api.discogs.com/releases/24073466
-Our Favourite Pop II ~Tokyo Style~ - 2022 - https://api.discogs.com/releases/25285582
-Bomber / ゼロ地点 - 2022 - https://api.discogs.com/releases/25305946
-Ride On Time - 2022 - https://api.discogs.com/releases/25344889
-Terzo - 2022 - https://api.discogs.com/releases/27562749
-Amazing Love - 2022 - https://api.discogs.com/masters/2724329
-Trust Me - 2022 - https://api.discogs.com/masters/2798114
-Next Destination - 2022 - https://api.discogs.com/masters/3292246
-Hometown - 2022 - https://api.discogs.com/masters/3190032
-The Ultimate Best - 2023 - https://api.discogs.com/releases/27574671
-君の居場所 (Have A Good Time Here) - 2023 - https://api.discogs.com/releases/29264407
-Christmas Eve - Desconocido - https://api.discogs.com/releases/6844189
-Christmas Time For You - Desconocido - https://api.discogs.com/releases/29286100
-Full Moon Tonight - Desconocido - https://api.discogs.com/masters/1260381
-Opera - Desconocido - https://api.discogs.com/masters/2206804
-限りなく透明に近いブルー - 1979 - https://api.discogs.com/masters/1506508
-乗りおくれるな！今！Ride On Time  RCA Big New Wave '80 - 1980 - https://api.discogs.com/releases/12699463
-Niagara Vox - 1981 - https://api.discogs.com/releases/14836943
-Big New Wave '80 ~ '81 Part II - 1981 - https://api.discogs.com/releases/30885024
-Island Music - 1981 - https://api.discogs.com/masters/518725
-Niagara Fall Stars - 1981 - https://api.discogs.com/masters/1397940
-Moon Records Special - 1983 - https://api.discogs.com/releases/13724329
-RVC 日本紅星精選盤 - 1983 - https://api.discogs.com/releases/17232184
-Moon Records Special '84 - 1984 - https://api.discogs.com/releases/13878294
-Drivin' Fusion Sounds 60 = ドライヴィン・フュージョン・サウンズ 60 - 1984 - https://api.discogs.com/releases/26738489
-Summer Campaign '85 - 1985 - https://api.discogs.com/releases/3100987
-Jazz Of Japan 2 - 1985 - https://api.discogs.com/releases/7596230
-Jazz Exhibition '86 - 1986 - https://api.discogs.com/releases/7386443
-I Love Compact Disc Vol. 3 - Warner-Pioneer Demonstration C.D. - 1986 - https://api.discogs.com/releases/10855823
-Moon Records Spring Campaign '86 - 1986 - https://api.discogs.com/releases/13878960
-Hits All Over The World - 1987 - https://api.discogs.com/releases/18258391
-Hawaiian Dream = ハワイアン・ドリーム - 1987 - https://api.discogs.com/masters/1419708
-Super Original Hits & The Best - 1991 - https://api.discogs.com/releases/13406966
-抒情特賞 (二) 日翻中原曲 - 1991 - https://api.discogs.com/releases/23141654
-Original Soundtrack From TBS America's Cup - 1992 - https://api.discogs.com/releases/8124389
-MMG Sound Dictionary (May '92) - 1992 - https://api.discogs.com/releases/27317112
-ポンキッキーズ・メロディ - 1995 - https://api.discogs.com/releases/14967339
-The Christmas Songs - 1996 - https://api.discogs.com/releases/24817619
-Friends・Love・Believing~ぬくもりをありがとう - 1999 - https://api.discogs.com/releases/17582908
-Warner Music Japan Top Hits Selections November 1999 - 1999 - https://api.discogs.com/releases/30885000
-Warner Music Japan Top Hits Selections January 2000 Faith Hill  - 2000 - https://api.discogs.com/releases/13457589
-Summer Connection Ver 2.0.4 - 2001 - https://api.discogs.com/releases/30063412
-BMG Hits Attack 2003. 04 Sampler - 2003 - https://api.discogs.com/releases/11749125
-Freaks Vol.1 - 2005 - https://api.discogs.com/releases/5998193
-Soul On Ice - 2005 - https://api.discogs.com/releases/15191004
-シティーポップ Mix Vol. 3 -アーバン＆ダンディー - - 2006 - https://api.discogs.com/releases/29928799
-Jazz Cats Mix 4.10 - 2007 - https://api.discogs.com/releases/1797465
-Over The Mountain, Across The Sea Vol. 1 - 2007 - https://api.discogs.com/releases/15680955
-Over The Mountain, Across The Sea Vol. 2 - 2007 - https://api.discogs.com/masters/2179876
-Niagara CD Book I - 2011 - https://api.discogs.com/releases/12973707
-Rare Funk & Disco Vol.7 & Vol.8 - 2013 - https://api.discogs.com/releases/16181782
-III - 2013 - https://api.discogs.com/masters/554432
-Japanese Sunday Soul - Volume 1 - 2014 - https://api.discogs.com/releases/26926955
-Best Always - 2014 - https://api.discogs.com/masters/1672107
-Organ B. Suite No. 1 - Classic Series - A Tatsuo Sunaga Live Mix - 2015 - https://api.discogs.com/releases/7523314
-Niagara CD Book II - 2015 - https://api.discogs.com/releases/14100531
-Sahashi Works 1983-2015  Time Passes On - 2015 - https://api.discogs.com/releases/16893264
-Presents, Vol. 2 - 2015 - https://api.discogs.com/releases/17894398
-RA.507 - 2016 - https://api.discogs.com/releases/8472244
-Virgin Galaxy Ver 1.0 - 2016 - https://api.discogs.com/releases/23562728
-Wine And Cheese Mix - 2017 - https://api.discogs.com/releases/10495065
-Niagara 45RPM Vox - 2017 - https://api.discogs.com/releases/18682372
-RobClemz - The Sunset Mix - 2018 - https://api.discogs.com/releases/12266159
-シティポップ III - 2018 - https://api.discogs.com/releases/13191961
-Ma 80's Babies - 2019 - https://api.discogs.com/releases/16587966
-J-Groove (Part One) - 2020 - https://api.discogs.com/releases/15861044
-Japanese Pop Edit - 2020 - https://api.discogs.com/releases/16227179
-Unofficial Tribute Edit - 2020 - https://api.discogs.com/releases/19480675
-VCRSLOT @ Unaffiliated.fun - 2021 - https://api.discogs.com/releases/16474092
-"Kill Them All" Summer Mix - 2022 - https://api.discogs.com/releases/25463464
-Touch Of Jazz Part 2 - Desconocido - https://api.discogs.com/releases/10830458
-Fonky Sen-Seî - Desconocido - https://api.discogs.com/releases/15268364
-Japan Jazz Vocal - Desconocido - https://api.discogs.com/releases/21472105
-Jazz Of Japan - 1982 - https://api.discogs.com/releases/7892816
-Dusty Fingers Volume Six - 1999 - https://api.discogs.com/masters/626488
-Can't Get Out Of The Game / Dancer - 2005 - https://api.discogs.com/releases/1503859
-Dusty Fingers The Complete Collection - 2008 - https://api.discogs.com/releases/1963084
-Joy To The World - 2010 - https://api.discogs.com/masters/336687
-Japanese Grooves & Re-Edits - 2014 - https://api.discogs.com/releases/6767365
-Pacific - 2016 - https://api.discogs.com/masters/408982
-ティーポップ - 2017 - https://api.discogs.com/releases/14644248
-City Pop シティポップ SUMMER EDITION II - 2018 - https://api.discogs.com/releases/12539945
-シティーポップ 3 - 2018 - https://api.discogs.com/releases/13230217
-シティポップ Summer Edition - 2018 - https://api.discogs.com/releases/14639313
-City Pop シティポップ VIII  - 2018 - https://api.discogs.com/releases/14644345
-ミライのテーマ / うたのきしゃ - 2018 - https://api.discogs.com/releases/20309431
-MF DOOM X Tatsuro Yamashita / Westside Doom - 2018 - https://api.discogs.com/masters/1699109
-シティポップ IV - 2019 - https://api.discogs.com/releases/13727100
-City Pop シティポップ Summer Edition III: Goodbye Season - 2019 - https://api.discogs.com/releases/14289145
-Merry Christmas From Tatsuro Yamashita - 2019 - https://api.discogs.com/releases/15542188
-Summer Break! City Pop Classics - Mixed by Van Paugam  - 2019 - https://api.discogs.com/masters/1484786
-100円CDミックス① - 2023 - https://api.discogs.com/releases/29329606
-The Future Vibes Vol. One - Desconocido - https://api.discogs.com/releases/2334319
-J-Groove! - Desconocido - https://api.discogs.com/releases/3615661
-Jazz Of Japan 3 - Desconocido - https://api.discogs.com/releases/8015177
-Christmas Concert (December 25, 1974) - Desconocido - https://api.discogs.com/releases/14494896
-日翻中原唱金曲 2 - Desconocido - https://api.discogs.com/releases/14978858
-The Very Best Of Tatsuro Yamashita - Desconocido - https://api.discogs.com/releases/17549473
-Rare Funk & Disco 45 - Desconocido - https://api.discogs.com/releases/27330729
-Rare Funk & Disco 13 - Desconocido - https://api.discogs.com/releases/27524178
-Mariya Takeuchi Live - Souvenir - Desconocido - https://api.discogs.com/masters/1767705
-Come Along - Desconocido - https://api.discogs.com/masters/1221609
-For You - Desconocido - https://api.discogs.com/masters/351396
+Upside Down - 1984 - https://api.discogs.com/masters/5321
+Never Understand - 1985 - https://api.discogs.com/masters/5324
+Just Like Honey - 1985 - https://api.discogs.com/masters/5326
+Psychocandy - 1985 - https://api.discogs.com/masters/5332
+You Trip Me Up - 1985 - https://api.discogs.com/masters/5430
+The Videos - 1986 - https://api.discogs.com/releases/14528339
+Spin Radio Underground - 1986 - https://api.discogs.com/masters/1460231
+Some Candy Talking E.P. - 1986 - https://api.discogs.com/masters/5339
+Music View Show #14 - 1987 - https://api.discogs.com/releases/8326099
+Kill Surf City - 1987 - https://api.discogs.com/releases/8796503
+Darklands - 1987 - https://api.discogs.com/masters/5355
+April Skies - 1987 - https://api.discogs.com/masters/5401
+Darklands - 1987 - https://api.discogs.com/masters/5415
+Happy When It Rains - 1987 - https://api.discogs.com/masters/5437
+Daytime JAMC - 1988 - https://api.discogs.com/releases/2476010
+Barbed Wire Kisses (B-Sides And More) - 1988 - https://api.discogs.com/masters/5367
+The Jesus And Mary Chain - 1988 - https://api.discogs.com/masters/641328
+Sidewalking - 1988 - https://api.discogs.com/masters/5463
+Surfin' USA • Summer Mix - 1988 - https://api.discogs.com/masters/155600
+Her Way Of Praying - 1989 - https://api.discogs.com/releases/849550
+Automatic - 1989 - https://api.discogs.com/masters/5385
+Blues From A Gun - 1989 - https://api.discogs.com/masters/5469
+Head On - 1989 - https://api.discogs.com/masters/5475
+Videos 1985 To 1989 - 1990 - https://api.discogs.com/masters/784566
+Rollercoaster E.P. - 1990 - https://api.discogs.com/masters/5630
+The Peel Sessions - 1991 - https://api.discogs.com/masters/71480
+Live - 1992 - https://api.discogs.com/releases/726440
+7 Years On The Leading Edge / 10 Smash Hits 1985 - 1992 - 1992 - https://api.discogs.com/releases/849586
+Soil X Samples 7 - 1992 - https://api.discogs.com/releases/1407306
+Honey's Dead - 1992 - https://api.discogs.com/masters/5374
+Almost Gold - 1992 - https://api.discogs.com/masters/5488
+Far Gone And Out - 1992 - https://api.discogs.com/masters/5497
+Reverence - 1992 - https://api.discogs.com/masters/5515
+The Sound Of Speed - 1992 - https://api.discogs.com/masters/5561
+Sound Of Speed E.P. - 1993 - https://api.discogs.com/masters/5538
+KROQ Acoustic X-Mas - 1994 - https://api.discogs.com/releases/5722720
+Sampler - 1994 - https://api.discogs.com/releases/23063675
+4 Track Album Sampler - 1994 - https://api.discogs.com/masters/2053837
+Stoned & Dethroned - 1994 - https://api.discogs.com/masters/5525
+Sometimes Always - 1994 - https://api.discogs.com/masters/5548
+Come On - 1994 - https://api.discogs.com/masters/5570
+Westwood One In Concert - 1995 - https://api.discogs.com/releases/1356032
+Hate Rock 'N' Roll - 1995 - https://api.discogs.com/masters/552753
+I Hate Rock 'N' Roll - 1995 - https://api.discogs.com/masters/5579
+Birthday / Hide Myself - 1998 - https://api.discogs.com/releases/735325
+'98 Tour EP - 1998 - https://api.discogs.com/releases/894556
+Iloverocknroll - 1998 - https://api.discogs.com/masters/5635
+Cracking Up - 1998 - https://api.discogs.com/masters/5593
+Munki - 1998 - https://api.discogs.com/masters/5610
+The Complete John Peel Sessions - 2000 - https://api.discogs.com/masters/142197
+21 Singles - 2002 - https://api.discogs.com/masters/5698
+Live In Concert - 2003 - https://api.discogs.com/releases/1400967
+Video Clips From Upcoming DualDisc Reissues - 2006 - https://api.discogs.com/releases/9642086
+Lost In Translation - 2007 - https://api.discogs.com/masters/63683
+The Power Of Negative Thinking: B-Sides & Rarities - 2008 - https://api.discogs.com/masters/807838
+Original Album Series - 2009 - https://api.discogs.com/masters/857393
+Upside Down (The Best Of The Jesus And Mary Chain) - 2010 - https://api.discogs.com/releases/2810349
+All Things Must Pass - 2012 - https://api.discogs.com/masters/1502890
+The Vinyl Collection - 2013 - https://api.discogs.com/masters/3468082
+Barrowlands Live - 2015 - https://api.discogs.com/masters/825616
+Amputation - 2016 - https://api.discogs.com/releases/9600160
+The Two Of Us - 2017 - https://api.discogs.com/masters/1502870
+Damage And Joy - 2017 - https://api.discogs.com/masters/1153351
+Ono Yoko - 2021 - https://api.discogs.com/releases/21792670
+Live At The Fox Theatre In Detroit - 2021 - https://api.discogs.com/masters/2319460
+Jamcod - 2023 - https://api.discogs.com/releases/29478970
+Chemical Animal - 2023 - https://api.discogs.com/releases/30051640
+Sunset 666 - 2023 - https://api.discogs.com/masters/3193209
+Glasgow Eyes - 2024 - https://api.discogs.com/masters/3432647
+The Music of The Jesus & Mary Chain (1984-1990) - Desconocido - https://api.discogs.com/releases/18198103
+The Music of The Jesus & Mary Chain (1984-1991) - Desconocido - https://api.discogs.com/releases/23019620
+The Music of The Jesus & Mary Chain (1985-1990) - Desconocido - https://api.discogs.com/releases/23029856
+Birthday Christmas Mix - 1988 - https://api.discogs.com/masters/35172
+12•11 - 1989 - https://api.discogs.com/releases/922205
+CD•6 - 1989 - https://api.discogs.com/masters/173111
+Soul In A Jar - 1993 - https://api.discogs.com/masters/637277
+Flood 13… And Other Disasters - A PolyGram New Music Sampler - 1994 - https://api.discogs.com/releases/8506028
+Free At Last 4 - 1994 - https://api.discogs.com/masters/724222
+Afrodisiac - 1994 - https://api.discogs.com/masters/71645
+Why America Will Go To Hell - 1999 - https://api.discogs.com/masters/42371
+The Hit RED Hot EP - 1985 - https://api.discogs.com/releases/1079308
+NME's Big Four - 1986 - https://api.discogs.com/releases/418365
+Modern Girls (Original Motion Picture Soundtrack) - 1986 - https://api.discogs.com/masters/834787
+New Wave Riders - 1998 - https://api.discogs.com/releases/12844251
+Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/475795
+Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/28575928
+Alternative NRG - 1994 - https://api.discogs.com/masters/11965
+Rock Over London #421 May 24, 1987 - 1987 - https://api.discogs.com/releases/29620756
+Some Kind Of Wonderful - 1987 - https://api.discogs.com/masters/67495
+An Unholy Montage - 1990 - https://api.discogs.com/masters/532874
+Camping In France - 1991 - https://api.discogs.com/masters/42357
+Little Baby Sour Puss - 1992 - https://api.discogs.com/releases/3299595
+Bootleger (Bye, Bye Liver) - 1993 - https://api.discogs.com/releases/3418167
+Headless /Ex-Cess - 1993 - https://api.discogs.com/releases/9583411
+Pedestrian  - 1993 - https://api.discogs.com/releases/11735818
+Headless - 1993 - https://api.discogs.com/masters/182895
+Boots And Bras - 1994 - https://api.discogs.com/masters/450824
+The Crow (Original Motion Picture Soundtrack) - 1994 - https://api.discogs.com/masters/61278
+A Tribute To The Jamc Vol.2 - 1995 - https://api.discogs.com/releases/4650305
+1967 - 1995 - https://api.discogs.com/releases/14718598
+Amiral Recrosial - 1996 - https://api.discogs.com/releases/2090269
+Screw - 1997 - https://api.discogs.com/releases/23233931
+The New Frontier - 1998 - https://api.discogs.com/releases/3708722
+Morto Vivente - 1998 - https://api.discogs.com/releases/22493516
+Chronology Of A Love-Affair - 2000 - https://api.discogs.com/masters/114198
+Nothing's Going To Happen - 2002 - https://api.discogs.com/masters/602848
+Rewound - 2004 - https://api.discogs.com/releases/495798
+Live Tracks & Rarities - 2004 - https://api.discogs.com/releases/1381615
+You Already Have Way Too Many CDRs - 2005 - https://api.discogs.com/releases/9713845
+Breathe - 2006 - https://api.discogs.com/releases/1755376
+A Place To Bury Strangers - 2006 - https://api.discogs.com/releases/16815510
+Das Oath / Ampere - 2006 - https://api.discogs.com/masters/466945
+Gleam Garden / Dan Padilla - 2007 - https://api.discogs.com/masters/507227
+Get To Third Base - 2009 - https://api.discogs.com/releases/3930324
+E.P. No. 1 - 2009 - https://api.discogs.com/releases/4853581
+High Heels Fuzz - 2010 - https://api.discogs.com/releases/8965984
+Teenage Lust - 2011 - https://api.discogs.com/releases/2936404
+COVERs - 2011 - https://api.discogs.com/releases/6586440
+Shoelaces ep - 2011 - https://api.discogs.com/releases/27792636
+Boombox + X - 2011 - https://api.discogs.com/masters/309754
+El Jueves Anterior a la Primavera - 2012 - https://api.discogs.com/releases/7991914
+I Find No Love In Poison, And There Is No God, I Know This Now. - 2013 - https://api.discogs.com/releases/5179515
+Birthday Tapes MMXII - 2013 - https://api.discogs.com/releases/6577061
+This Is Not A Love Song Comp.02 - 2013 - https://api.discogs.com/releases/7687918
+Tiny Dead Things - 2013 - https://api.discogs.com/releases/11391181
+Temp Est Ep - 2014 - https://api.discogs.com/releases/6109399
+Vile / Process - 2014 - https://api.discogs.com/releases/6297435
+Aurelian: The Collected Works - 2014 - https://api.discogs.com/releases/6993910
+VERA/LIVE001 - 2015 - https://api.discogs.com/masters/783457
+Psychocandy Revisited - 2015 - https://api.discogs.com/masters/899277
+Raw Punk Attack - 2016 - https://api.discogs.com/releases/9135383
+Just Like Honey - 2016 - https://api.discogs.com/releases/9381208
+Broadway - 2016 - https://api.discogs.com/releases/9913120
+Tape​-​Gun: Issues 1​-​5 Collected 1997​-​2016 - 2016 - https://api.discogs.com/releases/21042904
+Kein Platz / Remnants Of The Arcane - 2016 - https://api.discogs.com/masters/1018760
+Rhyming Slang Covers - 2017 - https://api.discogs.com/releases/12272844
+Janedriver - 2018 - https://api.discogs.com/releases/12250513
+Teenage Superstars: The Sound Of Young Scotland - 2019 - https://api.discogs.com/releases/15972706
+Be Gay, Do Crime! - 2020 - https://api.discogs.com/masters/1922946
+Covers - 2021 - https://api.discogs.com/releases/19241278
+Green Wave - 2021 - https://api.discogs.com/releases/20520340
+The Forgotten Ones 2 (The Free Music, 2009​-​2021) - 2021 - https://api.discogs.com/releases/30805860
+The Hit RED Hot EP - 1985 - https://api.discogs.com/releases/1079308
+Tape Worm - 1985 - https://api.discogs.com/releases/1254220
+Spin Radio Underground - 1985 - https://api.discogs.com/releases/5928920
+WEA-News Christmas/New Year 1985/86 - 1985 - https://api.discogs.com/releases/28649539
+The Hits Video Take 2 - 1985 - https://api.discogs.com/releases/30901419
+NME's Big Four - 1986 - https://api.discogs.com/releases/418365
+Bizz Melhores De 86 - 1986 - https://api.discogs.com/releases/3025797
+Promo - Disco Internacional No. 10 - 1986 - https://api.discogs.com/releases/7215952
+What Do The Critics Know? - 1986 - https://api.discogs.com/releases/8896736
+The Great 1¢ Cassette Sampler - 1986 - https://api.discogs.com/releases/12491117
+Supercuts - 1986 - https://api.discogs.com/releases/16072728
+The January 1986 Guide - 1986 - https://api.discogs.com/releases/26142299
+Modern Girls (Original Motion Picture Soundtrack) - 1986 - https://api.discogs.com/masters/834787
+British Hit Parade - 1987 - https://api.discogs.com/releases/3836051
+Jackpot 87 - 1987 - https://api.discogs.com/releases/3854464
+WEA New Releases No4 - 1987 - https://api.discogs.com/releases/5043962
+CMJ Presents Certain Damage! - Volume 2 - 1987 - https://api.discogs.com/releases/5211588
+The Hits Video Selection 7  - 1987 - https://api.discogs.com/releases/11183559
+Video Show #65 - 1987 - https://api.discogs.com/releases/12088466
+The Video Hits Collection Vol.3 - 1987 - https://api.discogs.com/releases/12566052
+Promo WEA Nº 41 - 1987 - https://api.discogs.com/releases/13314066
+Rock Over London #447 - 1987 - https://api.discogs.com/releases/13943278
+Jackpot 87 TAPE2 - 1987 - https://api.discogs.com/releases/14774989
+Top Of The Pops - 1188 - 1987 - https://api.discogs.com/releases/15327847
+The Hits Video 6 - 1987 - https://api.discogs.com/releases/18947752
+WEA New Releases No 3 - 1987 - https://api.discogs.com/releases/24067679
+The Best Of New Music  - 1987 - https://api.discogs.com/masters/3166299
+The Hits Album 6 - 1987 - https://api.discogs.com/masters/11667
+Some Kind Of Wonderful (Music From The Motion Picture Soundtrack) - 1987 - https://api.discogs.com/masters/67495
+Gimme Shelter - 1987 - https://api.discogs.com/masters/1072602
+The Hits Album 7 - 1987 - https://api.discogs.com/masters/71653
+Sounds - Waves 2 - 1988 - https://api.discogs.com/releases/523517
+Tutti Frutti 88 - Promo Nº 42 - Disco 03 - 1988 - https://api.discogs.com/releases/3630540
+Tutti Frutti 88 - Promo Nº 52 - Disco 04 - 1988 - https://api.discogs.com/releases/3637885
+Music View Show #13 & #14 - 1988 - https://api.discogs.com/releases/8326079
+CMJ Presents Certain Damage! Volume 9 - 1988 - https://api.discogs.com/releases/8896952
+Happy 10th Anniversary KROQ 106.7 The ROQ of the 90's - 1988 - https://api.discogs.com/releases/13985433
+Top Of The Pops-1223 - 1988 - https://api.discogs.com/releases/15197091
+The Album Network CD Tune Up #13 Disc 2 - 1988 - https://api.discogs.com/releases/22078582
+91X Happy 5th Anniversary Sampler - 1988 - https://api.discogs.com/releases/24741083
+A WEA Music of Canada Sampler - 1988 - https://api.discogs.com/releases/27044748
+Shock Vanguarda 88 Tutti Frutti - 1988 - https://api.discogs.com/masters/1127976
+Under The Covers (Other People Sing Other People's Songs) - 1988 - https://api.discogs.com/masters/29227
+The Hits Album 8 - 1988 - https://api.discogs.com/masters/133212
+CD Tune Up 19 - 1988 - https://api.discogs.com/masters/1810019
+21 Years Of Alternative Radio 1 - 1988 - https://api.discogs.com/masters/348904
+Les Inrockuptibles Un Automne 88 - 1988 - https://api.discogs.com/masters/546186
+Follow Our Trax Volume III - Off The Beaten Tracks - 1989 - https://api.discogs.com/releases/3783231
+Carry On Disarming - 1989 - https://api.discogs.com/releases/4456850
+WEA New Releases No45 - 1989 - https://api.discogs.com/releases/5071897
+WEA New Releases No40 - 1989 - https://api.discogs.com/releases/5072059
+WEA New Releases No41 - 1989 - https://api.discogs.com/releases/9845118
+WEA Promotional Compact Disc (December 1989) - 1989 - https://api.discogs.com/releases/10051299
+CMJ 10 - The Best Of CMJ 1979 - 1989 Box set - 1989 - https://api.discogs.com/releases/10910724
+WEA Promotional Compact Disc (October 1989) - 1989 - https://api.discogs.com/releases/11614141
+81A Progressive - 1989 - https://api.discogs.com/releases/15924967
+Top Of The Pops 1306 - 1989 - https://api.discogs.com/releases/25708477
+Earth Girls Are Easy (Vestron Presents An Original Motion Picture Soundtrack) - 1989 - https://api.discogs.com/masters/18193
+Monster Hits - 1989 - https://api.discogs.com/masters/71553
+CMJ Presents Certain Damage! - Volume 31 - 1990 - https://api.discogs.com/releases/1126953
+Tune Up - Rock 44 - 1990 - https://api.discogs.com/releases/1662745
+Follow Our Trax (Volume IV) - 1990 - https://api.discogs.com/releases/3333402
+Skate Surf Music - 1990 - https://api.discogs.com/releases/10229710
+The Breneman Review Meeting #2  - 1990 - https://api.discogs.com/releases/11187877
+WEA Promotional Compact Disc - Volume 69 - October 1990 - 1990 - https://api.discogs.com/releases/11674912
+WEA Promotional Compact Disc - Volume 48 - May 1990 - 1990 - https://api.discogs.com/releases/11766868
+Rock Star Special 9 Promo 37 - 1990 - https://api.discogs.com/releases/13689589
+83A Progressive - 1990 - https://api.discogs.com/releases/15925196
+WEA Promotional CD Volume 65 September 1990 - 1990 - https://api.discogs.com/releases/17203477
+Rock Stars - 1990 - https://api.discogs.com/releases/18753457
+WEA Instore Cassette - WEA New Releases No 61 - 1990 - https://api.discogs.com/releases/20547253
+Tune Up - Rock 40 #21 - 1990 - https://api.discogs.com/releases/25025902
+WBCN The Rock Of Boston Compact Disc Sampler #9, Winter '90 - 1990 - https://api.discogs.com/releases/25438468
+Les Inrockuptibles Un Printemps 90 - 1990 - https://api.discogs.com/masters/92282
+Rock The Planet: Cutting Edge - 1990 - https://api.discogs.com/masters/792190
+Tune Up - Rock 50 - 1990 - https://api.discogs.com/masters/1915134
+Product 2378 - 1990 - https://api.discogs.com/masters/71516
+The Last Temptation Of Elvis - 1990 - https://api.discogs.com/masters/29587
+Where The Pyramid Meets The Eye (A Tribute To Roky Erickson) - 1990 - https://api.discogs.com/masters/54739
+Radio FFN Powerstation 2 - 1990 - https://api.discogs.com/masters/71642
+Absolution - Rock The Alternative Way - 1991 - https://api.discogs.com/masters/126640
+Never Mind The Mainstream...The Best Of MTV's 120 Minutes Vol. 2 - 1991 - https://api.discogs.com/masters/471968
+New Season - The Peel Sessions - 1991 - https://api.discogs.com/masters/330713
+Rollercoaster U.S. - 1992 - https://api.discogs.com/releases/393705
+Rollercoaster EP - 1992 - https://api.discogs.com/releases/659005
+Heck On Wheels (Songs Suitable For In-Store Play) - 1992 - https://api.discogs.com/releases/1972100
+Great Movement - 1992 - https://api.discogs.com/releases/2362493
+Rollercoaster 92 - 1992 - https://api.discogs.com/releases/2735421
+Check It Out! From Warner/Elektra/Atlantic - 1992 - https://api.discogs.com/releases/2818052
+Stolar Tracks Vol.1 - 1992 - https://api.discogs.com/releases/2911735
+WEA/East West Instore Video Compilation March 1992 - 1992 - https://api.discogs.com/releases/3623597
+Warner Music Canada Promotional CD Vol. 134 - April 1992 - 1992 - https://api.discogs.com/releases/4932647
+Expand-O CD Tune Up 22 - 1992 - https://api.discogs.com/releases/6304619
+Follow Our Trax Volume Eight (Cue It Up!) - 1992 - https://api.discogs.com/releases/7681168
+Rock Over London - 1992 - https://api.discogs.com/releases/8254872
+AOR Sept. 1992 - 1992 - https://api.discogs.com/releases/10159374
+Warner Music Canada July 1992 - Vol. 144 - 1992 - https://api.discogs.com/releases/11696939
+WEA Top Hits October 1992 - 1992 - https://api.discogs.com/releases/12884920
+WB ALT. Marketing Compilation "August 1992" - 1992 - https://api.discogs.com/releases/13396781
+Post Modern - 1992 - https://api.discogs.com/releases/13875889
+Warner Bros. Alt. Marketing Compilation "March 1992" - 1992 - https://api.discogs.com/releases/15000764
+Warner Music March 1992 - Volume 130 - 1992 - https://api.discogs.com/releases/15052477
+Warner Canada Promotional CD November 1992 (Vol 155) - 1992 - https://api.discogs.com/releases/16532265
+February 92 - 1992 - https://api.discogs.com/releases/18758332
+110A Progressive - 1992 - https://api.discogs.com/releases/19116145
+114A Progressive - 1992 - https://api.discogs.com/releases/19225036
+Stars On Video Show No. 112 Mai 1992 - 1992 - https://api.discogs.com/releases/21561667
+Top Of The Pops 1424 - 1992 - https://api.discogs.com/releases/26646869
+Radio On! - 1992 - https://api.discogs.com/masters/69177
+Spin This - 1992 - https://api.discogs.com/masters/2830418
+The 1992 Mercury Music Prize Sampler - 1992 - https://api.discogs.com/masters/801553
+The Best Of Bizarre Festival (1987–1992) - 1992 - https://api.discogs.com/masters/868173
+Encino Man (Music From The Original Motion Picture Soundtrack) - 1992 - https://api.discogs.com/masters/441680
+Ruby Trax - The NME's Roaring Forty - 1992 - https://api.discogs.com/masters/25429
+Lollapalooza '92 - 1992 - https://api.discogs.com/masters/1038707
+Freejack Soundtrack - 1992 - https://api.discogs.com/masters/163273
+Now That's What I Call Music! 21 - 1992 - https://api.discogs.com/masters/260581
+RCD July Collection 13 - 1993 - https://api.discogs.com/releases/1151308
+Soy Tan Feliz Que Me Cortaria Las Venas No. 3 - 1993 - https://api.discogs.com/releases/4037452
+Singing In Tongues - 1993 - https://api.discogs.com/releases/4940810
+DEF 793 # (South By Southwest) - 1993 - https://api.discogs.com/releases/5416667
+WEA Records Video Compilation (July 1993) - 1993 - https://api.discogs.com/releases/10635670
+X Years Of The X. 1983-1993 - 1993 - https://api.discogs.com/releases/12105323
+Warner Music Canada July 1993 -Vol.180 - 1993 - https://api.discogs.com/releases/12300016
+Rock Over London # 93/28 - 1993 - https://api.discogs.com/releases/15335627
+Acoustic Favourites - 1993 - https://api.discogs.com/releases/16636218
+Promo - 1993 - https://api.discogs.com/releases/21142993
+Top Of The Pops - 1497 - 1993 - https://api.discogs.com/releases/26440439
+The Crow (Original Motion Picture Soundtrack) - 1993 - https://api.discogs.com/masters/61278
+Sub Rock (The Best Of Independent And Grunge) - 1993 - https://api.discogs.com/masters/1335787
+Zillo 5 1989-1994 Jubiläums Compilation  - 1994 - https://api.discogs.com/releases/132049
+WEA NME C30 - 1994 - https://api.discogs.com/releases/779823
+De Afrekening Volume 8 - 1994 - https://api.discogs.com/releases/1021201
+RockVideo Monthly - Alternative Releases - Winter 1994 - 1994 - https://api.discogs.com/releases/1560447
+The Patron Saints Of Teenage - 1994 - https://api.discogs.com/releases/1782373
+Alternative Summer - 1994 - https://api.discogs.com/releases/1838306
+Tower Rocks - The Warner Years - 1994 - https://api.discogs.com/releases/2221096
+Hard! - 1994 - https://api.discogs.com/releases/5291035
+Home Hypnosis Kit (Warner Bros. Alternative Sampler) - 1994 - https://api.discogs.com/releases/5961355
+Pc Disc - 1994 - https://api.discogs.com/releases/6382834
+Promo Only Radio Series: October 94 - 1994 - https://api.discogs.com/releases/6747021
+Warner Rocks - Vol 1 - 1994 - https://api.discogs.com/releases/9357565
+Heck On Wheels Volume 5 - 1994 - https://api.discogs.com/releases/9624513
+Promo - 1994 - https://api.discogs.com/releases/9740868
+ET/Videolink - Progressive Hits Sept 1994 - 1994 - https://api.discogs.com/releases/10146154
+Progressive Hits December 1994 - 1994 - https://api.discogs.com/releases/10146638
+Hearing Is Believing - 1994 - https://api.discogs.com/releases/10331553
+WEA Japan Top Hits Selections September 1994 - 1994 - https://api.discogs.com/releases/10858190
+Hearing Is Believing Vol 4 - 1994 - https://api.discogs.com/releases/11054780
+Warner Music Canada Promotional CD - Volume 228 - November 1994 - 1994 - https://api.discogs.com/releases/12753594
+WEA News # 7+8/94 - 1994 - https://api.discogs.com/releases/14256485
+Alternative Marketing Reel Fall '94 - 1994 - https://api.discogs.com/releases/14389260
+Warner Music Canada Promotional CD - Volume 217 - August 1994 - 1994 - https://api.discogs.com/releases/15057287
+The Mix - 29 - 1994 - https://api.discogs.com/releases/15145950
+EuroXclusive - 94-14 - 1994 - https://api.discogs.com/releases/15269762
+On The Edge - 1994 - https://api.discogs.com/releases/17808955
+The Album Network TuneUp In-Store Play Edition 30 - 1994 - https://api.discogs.com/releases/17855386
+138A Progressive - 1994 - https://api.discogs.com/releases/19957891
+Alternative NRG - 1994 - https://api.discogs.com/releases/20600899
+Epic Audio Buyways 904/1001/'94 - 1994 - https://api.discogs.com/releases/25989910
+On The Edge - 1994 - https://api.discogs.com/releases/26236451
+The August 1994 Guide - 1994 - https://api.discogs.com/releases/28950658
+Alternative NRG - 1994 - https://api.discogs.com/masters/11965
+Now That's What I Call Music 100% Alternate - 1994 - https://api.discogs.com/masters/1187526
+Once In A Lifetime - 1994 - https://api.discogs.com/masters/1436376
+hu H (CD 1) - 1994 - https://api.discogs.com/masters/1260310
+The Trip 4 - 1994 - https://api.discogs.com/masters/1445785
+Das Wahre Leben - 1994 - https://api.discogs.com/masters/773034
+Music From The Motion Picture Love & A .45 - 1994 - https://api.discogs.com/masters/71595
+Generation Rock - 1994 - https://api.discogs.com/masters/862164
+American Recordings 1995 CD Sampler - 1995 - https://api.discogs.com/releases/310169
+The Fall Of American - 1995 - https://api.discogs.com/releases/1553497
+Dance Disc - Vol. 28 - 1995 - https://api.discogs.com/releases/5386781
+Monitor This! - The Record Exchange Sampler  - 1995 - https://api.discogs.com/releases/6201131
+WEA Japan Top Hits Selections February 1995 - 1995 - https://api.discogs.com/releases/12676752
+Your Ulterior Motives Dept. Presents Our Favorite WB and Reprise Videos September '95 - 1995 - https://api.discogs.com/releases/14397785
+Warner Music Canada Promotional CD - Volume 251 - July 1995 - 1995 - https://api.discogs.com/releases/15664550
+Vertigo - 1995 - https://api.discogs.com/releases/16113203
+Alternative (November 1995) - 1995 - https://api.discogs.com/releases/20140117
+The September 1995 Guide - 1995 - https://api.discogs.com/releases/28695301
+The September 1995 Guide - 1995 - https://api.discogs.com/releases/28932352
+The Best...Album In The World...Ever! - 1995 - https://api.discogs.com/masters/1105441
+Vértigo - 1995 - https://api.discogs.com/masters/735283
+The Doom Generation - Music From The Motion Picture - 1995 - https://api.discogs.com/masters/196783
+Unlaced - 1995 - https://api.discogs.com/masters/1165021
+104.9 (An XFM Compilation Album) - 1995 - https://api.discogs.com/masters/535397
+The X Factor - Alternative Rock - 1995 - https://api.discogs.com/masters/1378738
+Sem Limites - 1996 - https://api.discogs.com/releases/1448375
+Hang The DJ - Modern Rock 1987 - 1996 - https://api.discogs.com/releases/2494698
+Pride II - The Very Best Of Scotland - 1996 - https://api.discogs.com/releases/4215512
+Express Ready Mix '97 - 1996 - https://api.discogs.com/releases/12616208
+Rokkveisla Aldarinnar - 1996 - https://api.discogs.com/releases/21576058
+Triple J Live - 1996 - https://api.discogs.com/masters/1827375
+Lost Property (An Alternative History 1979 - 1992) - 1996 - https://api.discogs.com/masters/1238347
+Alternator - 1996 - https://api.discogs.com/masters/1005399
+The Best... Album In The World...Ever! - 1996 - https://api.discogs.com/masters/838533
+Les Inrockuptibles - 10 Ans - 100 Chansons - 1997 - https://api.discogs.com/releases/3859559
+Lollipop 1997 - 1997 - https://api.discogs.com/releases/5973876
+Loaded: Indie Sounds Of The U.K. - 1997 - https://api.discogs.com/releases/7579485
+Rebel Yell - Vol I & II  - 1997 - https://api.discogs.com/releases/9860564
+Head-On - 1997 - https://api.discogs.com/releases/12454521
+Panic On The Street Of UK - 1997 - https://api.discogs.com/releases/17919610
+The Vault - 1997 - https://api.discogs.com/releases/23015957
+Trackspotting - 1997 - https://api.discogs.com/masters/189744
+The Ongoing History Of New Music - Volume 2 - 1997 - https://api.discogs.com/masters/1317256
+Buzz Mix 3 Go! - 1998 - https://api.discogs.com/releases/841002
+Sound: Check - 1998 - https://api.discogs.com/releases/877576
+Musikexpress 16 - Creation Records - 1998 - https://api.discogs.com/releases/895801
+Zoo Magazine CD Sampler 14 - 1998 - https://api.discogs.com/releases/1043050
+Rock Sound Volume 21 - 1998 - https://api.discogs.com/releases/1217339
+Was Het Nu 70 Of 80? Vol 7 - 1998 - https://api.discogs.com/releases/1223294
+CMJ New Music Monthly Volume 58 June 1998 - 1998 - https://api.discogs.com/releases/2277405
+April 98 - 1998 - https://api.discogs.com/releases/2291370
+Darkness: Best Of Wave & Independent - 1998 - https://api.discogs.com/releases/2310574
+The Big Issue 5th Anniversary CD - 1998 - https://api.discogs.com/releases/2410399
+Creation Para Rockdelux - 1998 - https://api.discogs.com/releases/2581880
+Benicàssim'98 - 1998 - https://api.discogs.com/releases/3309631
+Pop #7 - Creation Vol 1 - 1998 - https://api.discogs.com/releases/6973276
+Sampler Sony Music Entertainment Polska Vol. 3 - 1998 - https://api.discogs.com/releases/10039902
+Sampler Vol. 2  Sony Music 1998 - 1998 - https://api.discogs.com/releases/10422966
+Live Volume 1 - 1998 - https://api.discogs.com/releases/10452664
+Warner Music Canada May 1998 - Vol. 360 - 1998 - https://api.discogs.com/releases/10687072
+Epic/Sony Single Collection April, 1998 - 1998 - https://api.discogs.com/releases/12256319
+Une Histoire Du Rock Indépendant - 1998 - https://api.discogs.com/releases/12392251
+Novinky 06/98 - 1998 - https://api.discogs.com/releases/12463255
+New Wave Riders - 1998 - https://api.discogs.com/releases/12844251
+No More Tears - 1998 - https://api.discogs.com/releases/13175155
+Epic-cd - 1998 - https://api.discogs.com/releases/14571249
+Sony Music Monthly Sampler June 1998 - 1998 - https://api.discogs.com/releases/15047923
+The Mix - 220 - 1998 - https://api.discogs.com/releases/15139165
+朋克时代 VOL.1 - 1998 - https://api.discogs.com/releases/19219072
+EuroXclusive 98-12 (March 20, 1998) - 1998 - https://api.discogs.com/releases/22925660
+Gromfest 98 - 1998 - https://api.discogs.com/releases/28770583
+Alternative Distribution Alliance Monthly New Release Sampler June '98 - 1998 - https://api.discogs.com/releases/29169364
+Sanctuary · 28 Gothic Anthems - 1998 - https://api.discogs.com/masters/2251798
+Vampiri - 1998 - https://api.discogs.com/masters/2102542
+Nocturnal - 1998 - https://api.discogs.com/masters/153446
+Dressed In Black (Best Of 80's New Wave/Gothic) - 1999 - https://api.discogs.com/releases/458129
+Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/475795
+Priceless Creation - 1999 - https://api.discogs.com/releases/1423479
+Rage - More Of The Songs Most Chosen By Rage Guest Programmers - 1999 - https://api.discogs.com/releases/1465648
+Guitar Pop Jamboree - Starting (Here) - 1999 - https://api.discogs.com/releases/1678586
+The Power Of Love: 1986 - 1988 - 1999 - https://api.discogs.com/releases/9512668
+Impacto TV (La Música Del Programa De TV) - 1999 - https://api.discogs.com/releases/10587842
+Sony Rock 'N Promo - 1999 - https://api.discogs.com/releases/12204526
+Barney Simon 1980-2000 (20 Years In Modern Rock) - 1999 - https://api.discogs.com/releases/15269729
+Postpunk Chronicles: Going Underground - 1999 - https://api.discogs.com/releases/28575928
+Priceless Creation - 1999 - https://api.discogs.com/masters/1707620
+Ever Fallen In Love (20 Classics From The New Wave Era) - 1999 - https://api.discogs.com/masters/1727092
+London Nite - 1999 - https://api.discogs.com/masters/1929336
+On The Edge - 1999 - https://api.discogs.com/masters/2352097
+Doubleshot: Modern Rock - 2000 - https://api.discogs.com/releases/2836522
+New Breed Of Rock - 2000 - https://api.discogs.com/releases/11725854
+The Best Of Rockwave Festival - 2000 - https://api.discogs.com/releases/14292956
+Vamos Como Motos - 2000 - https://api.discogs.com/masters/2599832
+Creation Records • International Guardians Of Rock 'N' Roll 1983-1999 - 2000 - https://api.discogs.com/masters/20918
+Dressed In Black 3 - 2001 - https://api.discogs.com/releases/509591
+Was Het Nu 70, 80 Of 90?  File 2 - 2001 - https://api.discogs.com/releases/987694
+Glorious - 36 Essential Modern Anthems - 2001 - https://api.discogs.com/releases/2991832
+Oor 1981 - 1990 10 Jaar Popmuziek - 2001 - https://api.discogs.com/releases/4387192
+The 90's Decade: New Breed Of Rock - 2001 - https://api.discogs.com/releases/12861605
+Psycho Waves - 2001 - https://api.discogs.com/releases/14901497
+The Best ALTERNATIV3 Album... Ever! - 2002 - https://api.discogs.com/releases/655452
+Alternative Eighties Vol. 01 - 2002 - https://api.discogs.com/releases/3601016
+Platinum 2 - The Best Hits Selection - 2002 - https://api.discogs.com/releases/4728634
+The Best B Sides Of All Time - 2002 - https://api.discogs.com/releases/8912804
+Halloween Compilation 2002 - 2002 - https://api.discogs.com/releases/11297907
+Warner Music Japan Vol. 8 - 2002 - 2002 - https://api.discogs.com/releases/12853702
+Goth (A Collection Taking You For A Walk On The Dark Side) - 2003 - https://api.discogs.com/releases/589525
+Essential 80's (New.Wave) - 2003 - https://api.discogs.com/releases/622058
+Luis Filipe Barros Apresenta Ondas Luisianas - 2003 - https://api.discogs.com/releases/6207349
+All That Rock - 2003 - https://api.discogs.com/releases/8120645
+Shake Some Action (39 Alternative Classics 1976-1991) - 2003 - https://api.discogs.com/releases/8803585
+The 90s Collection - 90s Hot Hits - 2003 - https://api.discogs.com/releases/9669009
+Me Gusta Conducir - 2003 - https://api.discogs.com/releases/13663001
+Later...With Jools Holland Louder - 2003 - https://api.discogs.com/masters/533133
+Dark Side Of The 80's - 2003 - https://api.discogs.com/masters/17207
+Lost In Translation (Music From The Motion Picture Soundtrack) - 2003 - https://api.discogs.com/masters/71496
+Rough Trade Shops (Indiepop 1) - 2004 - https://api.discogs.com/releases/353151
+Crash! Indie Anthems - 2004 - https://api.discogs.com/releases/1171217
+Essential Music Videos: '80s UK - 2004 - https://api.discogs.com/releases/1963141
+The Dark Side (Forty Alternative Anthems) - 2004 - https://api.discogs.com/releases/2193681
+BMG Synctank - Sync-2-Fit Catalog 06-04 - 2004 - https://api.discogs.com/releases/3710659
+All That Alternative - 2004 - https://api.discogs.com/releases/5360054
+Diesel Greatest Hips: Bumix - Too Hot To Handle - 2004 - https://api.discogs.com/releases/5622850
+Rock & Techno Pop - 2004 - https://api.discogs.com/releases/6425033
+The Old Grey Whistle Test Volume 3 - 2004 - https://api.discogs.com/releases/9968299
+Diesel Greatest Hips: Dardy - Return To Oz - 2004 - https://api.discogs.com/masters/567567
+Left Of The Dial: Dispatches From The 80s Underground - 2004 - https://api.discogs.com/masters/206191
+1985 (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/993705
+10 Of The Best Scottish Bands Of All Time - 2005 - https://api.discogs.com/releases/2410444
+Up Where We Belong - 80s Movie Hits - 2005 - https://api.discogs.com/releases/4161465
+Band In The World - God Save The Queen - 2005 - https://api.discogs.com/releases/5998941
+The Other Side Of The 80s Edition - 2005 - https://api.discogs.com/releases/7384597
+Band In The World - You're The Best - 2005 - https://api.discogs.com/releases/7919495
+All That Punk - 2005 - https://api.discogs.com/releases/9364513
+Rock TV  Classic 2 - 2005 - https://api.discogs.com/releases/10458907
+Band In The World - Always The Sun - 2005 - https://api.discogs.com/releases/10854419
+Γιάννης Πετρίδης - 30 Χρόνια Απογεύματα Στην ΕΡΤ -  Από Τις 4 Στις 5 - Warner Years - 2005 - https://api.discogs.com/releases/11059232
+Fab 50 - 2005 - https://api.discogs.com/releases/11433032
+Halloween Party - 2005 - https://api.discogs.com/releases/12258427
+New Wave Essentials - 2005 - https://api.discogs.com/masters/1306686
+John Peel - A Tribute - 2005 - https://api.discogs.com/masters/2360014
+The Old Grey Whistle Test  (The Definitive Collection) - 2005 - https://api.discogs.com/masters/300754
+Essential New Wave - Volume 3 - 2006 - https://api.discogs.com/releases/844362
+Rhino SXSW Sampler - 2006 - https://api.discogs.com/releases/1488652
+Uncut: The Playlist August 2006 - 2006 - https://api.discogs.com/releases/1613924
+THISISNOTANEXIT Vol. 5 - 2006 - https://api.discogs.com/releases/2198910
+The Old Grey Whistle Test - The Complete Collection - 2006 - https://api.discogs.com/releases/2755018
+Les Inrockuptibles Présentent 20 Ans ~ 100 Chansons 1986-2006 - 2006 - https://api.discogs.com/releases/2944063
+Albums του αιώνα - Warner Tracks - 2006 - https://api.discogs.com/releases/10870031
+100% Alternative Classics - 2006 - https://api.discogs.com/releases/13167898
+Fab 50 (Vol.2) - 2006 - https://api.discogs.com/releases/16024087
+2 X Later...With Jools Holland - Louder & Even Louder - 2006 - https://api.discogs.com/releases/16202850
+Too Lazy To Download 14 - August '06 - 2006 - https://api.discogs.com/releases/27483642
+John Peel - Right Time, Wrong Speed 1977-1987 - 2006 - https://api.discogs.com/masters/1051752
+CD86 (48 Tracks From The Birth Of Indie Pop) - 2006 - https://api.discogs.com/masters/212600
+A Life Less Lived (The Gothic Box) - 2006 - https://api.discogs.com/masters/381258
+Tribute To National Noise Day - 2007 - https://api.discogs.com/releases/1055072
+Selections From The Brit Box: U.K. Indie, Shoegaze, And Brit-Pop Gems Of The Last Millennium - 2007 - https://api.discogs.com/releases/1636694
+The Anthems 07 - 2007 - https://api.discogs.com/releases/3472033
+Off Your Box - 2007 - https://api.discogs.com/releases/12047603
+The Ultimate Rock Ballads Collection 1986-1988 - 2007 - https://api.discogs.com/releases/14262519
+Chrysalis Music Group USA Artist Catalog Sampler - 2007 - https://api.discogs.com/releases/27539862
+The Triptych - 2007 - https://api.discogs.com/masters/242950
+The Brit Box (UK Indie, Shoegaze, And Brit-Pop Gems Of The Last Millennium) - 2007 - https://api.discogs.com/masters/363324
+100 Hits 80s (100 Classic Tracks Of The Decade) - 2007 - https://api.discogs.com/masters/489367
+20 Years Of Rage - 2007 - https://api.discogs.com/masters/1510869
+The Second Wave - 2008 - https://api.discogs.com/releases/1401992
+Mannen Som Elsket Yngve - 2008 - https://api.discogs.com/releases/1448562
+100 Hits 80s Pop - 2008 - https://api.discogs.com/releases/1781619
+Newbury Comics 30th Anniversary - 2008 - https://api.discogs.com/releases/1989260
+Mannen Som Elsket Yngve - 2008 - https://api.discogs.com/releases/2444121
+Mastermix 80s Retro  Mixes Volume 2 - 2008 - https://api.discogs.com/releases/2560376
+NME Classics - 2008 - https://api.discogs.com/releases/3472106
+MISF*TS Mixtape #002 - 2008 - https://api.discogs.com/releases/4971739
+Return Of The Shoegaze - 2008 - https://api.discogs.com/releases/5962892
+Rage: Most Chosen - 2008 - https://api.discogs.com/releases/8753740
+British - 2008 - https://api.discogs.com/releases/17589991
+Heroes Original Soundtrack - 2008 - https://api.discogs.com/masters/356920
+Buzz Ballads 2 - 2008 - https://api.discogs.com/masters/3227233
+Revolutions In Sound: Warner Bros. Records The First Fifty Years - 2008 - https://api.discogs.com/masters/634590
+Zack And Miri Make A Porno: Music From The Motion Picture - 2008 - https://api.discogs.com/masters/1777377
+Sci-Fi-Lo-Fi Vol. 3 (Shoegazing 1985 - 2009) - 2008 - https://api.discogs.com/masters/67313
+Vox Pops Presents 1980s - 2009 - https://api.discogs.com/releases/2381279
+Smash Hits 1986 - 2009 - https://api.discogs.com/releases/3083172
+Smash Hits 1987 - 2009 - https://api.discogs.com/releases/3083332
+Top Of The Pops - Punk & New Wave - 2009 - https://api.discogs.com/releases/3907242
+After Dark (The Alternative Gothic Rock Collection) - 2009 - https://api.discogs.com/releases/4935335
+Born Into The 90s - 2009 - https://api.discogs.com/releases/6768301
+Bombora (The Soundtrack To Australian Surfing) - 2009 - https://api.discogs.com/releases/11073243
+Dark Cuts (The Evolution Of Emotional Rock) - 2009 - https://api.discogs.com/releases/11160178
+White Noise 2 - 2009 - https://api.discogs.com/releases/12296574
+Lo Esencial de Rock 101 - 2009 - https://api.discogs.com/releases/15360051
+Guinness- Music From The TV Ads - 2009 - https://api.discogs.com/releases/17356054
+V Festival Presents - 2009 - https://api.discogs.com/releases/29916955
+Retro Rage - 2009 - https://api.discogs.com/masters/1495169
+PostPunk (Original Anthems From The 70's And 80's Post-Punk Scene) - 2009 - https://api.discogs.com/masters/715539
+25 Years Pukkelpop - 2010 - https://api.discogs.com/releases/2384069
+Ning Nong Typecast II - 2010 - https://api.discogs.com/releases/2457056
+80s Hits - 2010 - https://api.discogs.com/releases/2546401
+Ποπ+Ροκ Mixtape - 2010 - https://api.discogs.com/releases/3196239
+100 Hits Electric Eighties - 2010 - https://api.discogs.com/releases/4373977
+RocKwiz Uncovered - 2010 - https://api.discogs.com/releases/4953222
+Shooting From The Hip - 2010 - https://api.discogs.com/releases/5070671
+Under The Influence Of Alice - 2010 - https://api.discogs.com/releases/5211104
+100 Hits Dad - 2010 - https://api.discogs.com/releases/8477381
+Music For Vampires - 2010 - https://api.discogs.com/releases/11300399
+Triple J: Live At The Wireless: From The Vaults, Volume 3 - 2010 - https://api.discogs.com/releases/13119763
+'80s Halloween - 2010 - https://api.discogs.com/releases/16195116
+Krautrock - Masters + Echoes - 2010 - https://api.discogs.com/masters/408031
+100 Hits 80s Rewind - 2011 - https://api.discogs.com/releases/2867726
+New Wave Club Class•X - Sinner's Day 11 - 2011 - https://api.discogs.com/releases/3150323
+FACT PT Mix 040 - 2011 - https://api.discogs.com/releases/3304062
+Sonic Cathedrals Vol. XVI - 2011 - https://api.discogs.com/releases/3319253
+A Mass Of Blackness - Sonic Cathedrals Mixtapes Series - 2011 - https://api.discogs.com/releases/3333436
+100 Hits Rock Anthems - 2011 - https://api.discogs.com/releases/3412856
+Drivetime - 2011 - https://api.discogs.com/releases/6693930
+Alternative Nation - 100 Alternative Classics - 2011 - https://api.discogs.com/releases/8916897
+The Essential Movies - The Cool, The Cult And The Classic - 2011 - https://api.discogs.com/releases/11890971
+The Eighties - 2011 - https://api.discogs.com/releases/14041452
+80s Alternative - 2011 - https://api.discogs.com/releases/14719130
+I Melt With You (Original Motion Picture Soundtrack) - 2011 - https://api.discogs.com/releases/28933750
+12"/80s Alternative - 2011 - https://api.discogs.com/masters/376036
+Upside Down - The Creation Records Story - 2011 - https://api.discogs.com/masters/1689907
+80s Mixtape - 2011 - https://api.discogs.com/masters/681937
+80s The Collection - 60 Definitive Hits - 2012 - https://api.discogs.com/releases/5155186
+Classic Rock • The Collection  - 2012 - https://api.discogs.com/releases/11197244
+'80s Alternative - 2012 - https://api.discogs.com/releases/15101780
+Rockwiz Uncovered Volume Two - 2012 - https://api.discogs.com/releases/15728052
+Wild Edits 001 - 2013 - https://api.discogs.com/releases/4526411
+Nr. 250 - Die Besten Coversongs Aus 25 Jahren - 2013 - https://api.discogs.com/releases/5207378
+5 Classic Soundtracks - 2013 - https://api.discogs.com/releases/9218051
+Born To Rock Sixty Essential Rock Classics - 2013 - https://api.discogs.com/releases/12555195
+Dad The Collection - 2013 - https://api.discogs.com/releases/15973954
+Scared To Get Happy (A Story Of Indie-Pop 1980-1989) - 2013 - https://api.discogs.com/masters/1169430
+L'Inrockuptible - 2013 - https://api.discogs.com/masters/540357
+100x New Wave - 2014 - https://api.discogs.com/releases/6463927
+White Bird In A Blizzard (Songs From The Film) - 2014 - https://api.discogs.com/releases/6739301
+Svengali - Soundtrack Of The Motion Picture - 2014 - https://api.discogs.com/releases/8019061
+Made In Scotland - 2014 - https://api.discogs.com/releases/8167559
+Coffret 60 Ans De Musique - 2014 - https://api.discogs.com/releases/9707829
+Original New Wave - 2014 - https://api.discogs.com/releases/10361989
+Indie Anthems - The Collection - 2014 - https://api.discogs.com/releases/11486529
+Original Alternative - 2014 - https://api.discogs.com/releases/12014901
+Sonic Cathedrals Vol. CXXXIX - 2014 - https://api.discogs.com/releases/13761291
+C86 - 2014 - https://api.discogs.com/masters/90677
+Indie Anthems - 2014 - https://api.discogs.com/masters/3000317
+Classic 80s - 2015 - https://api.discogs.com/releases/8333573
+Smash Hits Years 1986 - 2015 - https://api.discogs.com/releases/8549317
+Smash Hits Years 1987 - 2015 - https://api.discogs.com/releases/8549564
+Greatest Ever! Alternative 80s (The Definitive Collection) - 2015 - https://api.discogs.com/releases/12321470
+Rock & Folk 100% Rock Indé - 2015 - https://api.discogs.com/releases/15180781
+80 Hits of the... 80s - 2015 - https://api.discogs.com/masters/927396
+Creation Artifact: The Dawn Of Creation Records 1983-1985 - 2015 - https://api.discogs.com/masters/3477802
+Greatest Ever! Indie Disco - 2016 - https://api.discogs.com/releases/8113036
+Son-Of-A-Gun And More From The Lee Hazlewood Songbook - 2016 - https://api.discogs.com/releases/9006819
+The Other Side Of The 80s - 2016 - https://api.discogs.com/releases/10347539
+80s - The Ultimate 80s Anthems - 2016 - https://api.discogs.com/releases/10577861
+Simply Rock - 2016 - https://api.discogs.com/releases/11796091
+Simply Indie Anthems (4 CDs Of Indie Anthems) - 2016 - https://api.discogs.com/releases/15381294
+Simply Eighties - 2016 - https://api.discogs.com/releases/28712737
+30 Ans Des InRocKuptibles  - 2016 - https://api.discogs.com/masters/1482505
+Still In A Dream: A Story Of Shoegaze 1988-1995 - 2016 - https://api.discogs.com/masters/1066991
+New Noises Vol. 133 - Love Soldiers - Neue Songs Für März - 2017 - https://api.discogs.com/releases/9883759
+ME-CD Nr. 0417 - 2017 - https://api.discogs.com/releases/10010712
+Najlepsze Hity Dla Ciebie-Covery - 2017 - https://api.discogs.com/releases/10559268
+80s Classics: The Collection - 2017 - https://api.discogs.com/releases/10616780
+Rock Classics - The Ultimate Rock Anthems - 2017 - https://api.discogs.com/releases/11325409
+Smash Hits: Heartthrobs - 2017 - https://api.discogs.com/releases/11602594
+100 Greatest Rock - 2017 - https://api.discogs.com/releases/11655128
+Smash Hits 80s Mixtape - 2017 - https://api.discogs.com/releases/11759708
+100 Greatest Driving Songs - 2017 - https://api.discogs.com/releases/11803992
+100 Greatest Eighties - 2017 - https://api.discogs.com/releases/11841209
+Smash Hits Strange 80s - 2017 - https://api.discogs.com/releases/12464931
+Halloween Songs - 2017 - https://api.discogs.com/releases/12766643
+Throwback 80s - 2017 - https://api.discogs.com/releases/13353325
+Warner Time 01 International Hits Compilation 2017 - 2017 - https://api.discogs.com/releases/28576318
+Throwback Covers - 2017 - https://api.discogs.com/releases/30985291
+Smash Hits: Punk & New Wave - 2017 - https://api.discogs.com/masters/1384610
+The Early Days (Post Punk, New Wave, Brit Pop & Beyond 1980 - 2010) - 2017 - https://api.discogs.com/masters/1212322
+I Wanna Be Sedated: From The Underground - Celebrating 60 Years Of Warner Bros. Records - 2018 - https://api.discogs.com/releases/12514164
+Just A Bad Dream: Sixty British Garage And Trash Nuggets 1981-89 - 2018 - https://api.discogs.com/releases/13004134
+80 Smash Hits Of The 80s - 2018 - https://api.discogs.com/releases/13095465
+Fucked Up Present: Scotch Tape - 2018 - https://api.discogs.com/releases/13162053
+The Greatest Eighties Album - 2018 - https://api.discogs.com/releases/13306124
+Fact Mix 666 - 2018 - https://api.discogs.com/releases/29397787
+Big Gold Dreams - A Story of Scottish Independent Music 1977-1989 - 2019 - https://api.discogs.com/releases/13324795
+Vernon Subutex (La Bande Originale De La Série) - 2019 - https://api.discogs.com/releases/13670927
+Ultimate Eighties (The Classics) - 2019 - https://api.discogs.com/releases/14058754
+Awesone 80s New Wave - 2019 - https://api.discogs.com/releases/15237124
+Take On Me - 80s Anthems (The Ultimate Collection) - 2019 - https://api.discogs.com/releases/16099515
+Ultimate Rock (The Classics) - 2019 - https://api.discogs.com/releases/19851100
+80's & 90's - 2019 - https://api.discogs.com/masters/1798872
+80s (The Ultimate Collection) - 2020 - https://api.discogs.com/releases/15714833
+Greatest Ever Rock - 2020 - https://api.discogs.com/releases/17435554
+Greatest Ever 90s - 2020 - https://api.discogs.com/releases/22231690
+Fact Mix 778 - 2020 - https://api.discogs.com/releases/29372029
+Forgotten Hits (The Ultimate Collection) - 2021 - https://api.discogs.com/releases/17659828
+80s (The Ultimate Collection) - 2021 - https://api.discogs.com/releases/17972809
+Rock And New Wave (The Ultimate Collection) - 2021 - https://api.discogs.com/releases/19548019
+Greatest Ever Decade 80s - 2021 - https://api.discogs.com/releases/19879438
+The Sun Shines Here (The Roots Of Indie-Pop 1980-1984) - 2021 - https://api.discogs.com/masters/2417221
+I.D (Music Inspired By The Film) - 2022 - https://api.discogs.com/releases/22921283
+90s Anthems - The Ultimate Collection - 2022 - https://api.discogs.com/releases/24493181
+Spaceships Over Glasgow - 2022 - https://api.discogs.com/releases/25163890
+C85 - 2022 - https://api.discogs.com/releases/25229557
+Third Man Records Mix CD 2022 Vol. 1 - 2022 - https://api.discogs.com/releases/29348671
+Life Moves Pretty Fast. (The John Hughes Mixtapes) - 2022 - https://api.discogs.com/masters/2862382
+Fear Of The Dawn - 2022 - https://api.discogs.com/masters/2580311
+Jon Savage's 1983-1985 (Welcome To Techno City) - 2024 - https://api.discogs.com/releases/29642845
+Real Live Wire (15 Tracks Of The Month's Best New Music) - 2024 - https://api.discogs.com/releases/29652277
+Mars 2024 - 2024 - https://api.discogs.com/releases/29874226
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3139807
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3140635
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3140722
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/3140864
+Songs Katie Taught Us - Desconocido - https://api.discogs.com/releases/3283246
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/5208607
+Best Of 102 Music ( Volume Four )  - Desconocido - https://api.discogs.com/releases/5234372
+Lollapalooza Special Tin Can  - Desconocido - https://api.discogs.com/releases/7083708
+Into The Future - Desconocido - https://api.discogs.com/releases/8076777
+Dance Trax - Desconocido - https://api.discogs.com/releases/10124091
+Rough Trade Compilation MCA / Geffen Convention - Desconocido - https://api.discogs.com/releases/10687355
+Glorious - Desconocido - https://api.discogs.com/releases/11475415
+Acoustic Favourites - Desconocido - https://api.discogs.com/releases/11808250
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/12976349
+Surfin' USA - Desconocido - https://api.discogs.com/releases/13127235
+Uncovered 18 Classic Songs, 18 Unique Artists - Desconocido - https://api.discogs.com/releases/13738239
+Rough Trade Exclusive Bonus CD  - Desconocido - https://api.discogs.com/releases/15240675
+The 80's Underground: Resurfacing Volume 2 - Desconocido - https://api.discogs.com/releases/20773306
+Summer Case - Desconocido - https://api.discogs.com/releases/24107747
+Flavour - Desconocido - https://api.discogs.com/releases/27157821
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/29735527
+Warner Music United Kingdom New Releases - Desconocido - https://api.discogs.com/releases/30059293
+Warner Music UK New Releases - Desconocido - https://api.discogs.com/masters/2923699
+Cutmedeadnailmedownandkickmyhead - 1985 - https://api.discogs.com/releases/859563
+Velvet Speed - 1985 - https://api.discogs.com/releases/2386838
+Taste The Floor - 1985 - https://api.discogs.com/releases/6586156
+Riot - 1985 - https://api.discogs.com/masters/346682
+Fuck - 1985 - https://api.discogs.com/masters/621433
+Give Me The Noise - 1986 - https://api.discogs.com/releases/2109509
+Shine On You Crazy Diamond - 1986 - https://api.discogs.com/releases/2109535
+Telling Their Beads - 1986 - https://api.discogs.com/releases/2386849
+Wall Of Psycho - 1986 - https://api.discogs.com/releases/2386859
+Searching For The Mary Chain - 1986 - https://api.discogs.com/releases/3124840
+Good-Bye Miss Marple - Konzerte Im AJZ Biel (83-85) - 1986 - https://api.discogs.com/releases/20953555
+You Trip Me Up - 1986 - https://api.discogs.com/masters/2615294
+Interview Picture Disc Limited Edition - 1987 - https://api.discogs.com/releases/1091590
+Interview Picture Disc - 1987 - https://api.discogs.com/releases/1209264
+Untitled - 1987 - https://api.discogs.com/releases/2952471
+Mouthcrazy - 1987 - https://api.discogs.com/releases/3085152
+Suck On This - 1987 - https://api.discogs.com/releases/3163605
+Live @ Markthalle, Hamburg, Germany, 1987-10-10 - 1987 - https://api.discogs.com/releases/9635634
+Rockin' Umbria 87 - 1987 - https://api.discogs.com/masters/625524
+Εντροπία 3η  - 1988 - https://api.discogs.com/releases/7741648
+University Of London 29.4.88 - 1988 - https://api.discogs.com/releases/21684916
+Who The Fuck Is - 1989 - https://api.discogs.com/masters/1817305
+Estadio Obras, 7 Julio 1990 - 1990 - https://api.discogs.com/releases/22559330
+Live In Heaven 1987 - 1991 - https://api.discogs.com/releases/660199
+Surfin' USA - 1991 - https://api.discogs.com/releases/1200698
+Suck On This - 1991 - https://api.discogs.com/releases/4291143
+Psychocandy - 1991 - https://api.discogs.com/masters/5332
+Lollapalooza '92 - 1992 - https://api.discogs.com/releases/1017048
+Vengeance - 1992 - https://api.discogs.com/releases/1440854
+Lollapalooza '92 Vol. 1 - 1992 - https://api.discogs.com/releases/10136170
+Honey's Dead  - 1992 - https://api.discogs.com/masters/5374
+Walk And Crawl - 1992 - https://api.discogs.com/masters/663476
+Catch Fire - 1993 - https://api.discogs.com/releases/3179007
+Teenage Lust - 1993 - https://api.discogs.com/releases/3522513
+Alternative Live Vol. 2 - 1994 - https://api.discogs.com/releases/2643337
+Generation Rock - 1994 - https://api.discogs.com/masters/862164
+The Best...Album In The World...Ever! Vol.2 - 1995 - https://api.discogs.com/masters/1105441
+The Crow (Music From The Original Motion Picture) - 1995 - https://api.discogs.com/masters/61278
+Electricity - 1998 - https://api.discogs.com/releases/1562542
+Roskilde Festival - Roskilde Denmark -  28 jun. 1998 - 1998 - https://api.discogs.com/releases/24675974
+Munki - 1998 - https://api.discogs.com/masters/5610
+I’m Cult Hero -Chapter Two  - 1999 - https://api.discogs.com/masters/848667
+Peel - 2001 - https://api.discogs.com/masters/142197
+The History Of Dark & Gothic Music Scene - 2002 - https://api.discogs.com/releases/6586149
+Kilt By Death: The Sound Of Old Scotland (1977-1984) - 2005 - https://api.discogs.com/releases/3772594
+Sounds Of The 80s - 2006 - https://api.discogs.com/releases/4213509
+Lost In Translation (Music From The Motion Picture Soundtrack) - 2008 - https://api.discogs.com/masters/71496
+The Black Sessions - 2009 - https://api.discogs.com/releases/2358006
+FYF Members Mix Tape - 2010 - https://api.discogs.com/releases/2361034
+The Black Sessions - 2011 - https://api.discogs.com/releases/23016095
+The Complete John Peel Sessions - 2011 - https://api.discogs.com/masters/591667
+Send Me Away - Early Demos - 2011 - https://api.discogs.com/masters/681920
+The Black Sessions - 2012 - https://api.discogs.com/releases/23018135
+U4 Club, Wien, Austria April 10th, 1987 - 2014 - https://api.discogs.com/releases/7123817
+Pomona-Ca-Usa 2015 - 2015 - https://api.discogs.com/releases/9725440
+Live At The U4 Club, Wien, Austria April 10th, 1987 Fm Broadcast - 2017 - https://api.discogs.com/releases/10114877
+The Edge Of A Knife: Live At The U4 Club, Wien, Austria, Apr 10th 1987 - FM Broadcast - 2023 - https://api.discogs.com/releases/26616740
+Peel Sessions 84/86 - 2024 - https://api.discogs.com/releases/30350894
+Ultra Rare Trax - Desconocido - https://api.discogs.com/releases/545179
+Mushroom Head / Some Candy Talking - Desconocido - https://api.discogs.com/releases/853690
+ULU - Desconocido - https://api.discogs.com/releases/1099138
+Sex - Desconocido - https://api.discogs.com/releases/2263179
+Amsterdam Paradiso 13.10.87 + More - Desconocido - https://api.discogs.com/releases/2477593
+Pixies - Desconocido - https://api.discogs.com/releases/2587462
+Providence R.I. 09.03.90 - Desconocido - https://api.discogs.com/releases/3110839
+Self-titled - Desconocido - https://api.discogs.com/releases/3689085
+Live In Spain 1998 - Desconocido - https://api.discogs.com/releases/4502042
+Saltlagret, Copenhagen 1985.04.12 - Desconocido - https://api.discogs.com/releases/4589950
+Endevina Endevinalla - Desconocido - https://api.discogs.com/releases/5085735
+Mushroom - Desconocido - https://api.discogs.com/releases/6586164
+Spanish Honey 2013 - Desconocido - https://api.discogs.com/releases/8778445
+The Hardest Walk In Boston 1990 - Desconocido - https://api.discogs.com/releases/8779564
+Live At Early West Hollywood '88 - Desconocido - https://api.discogs.com/releases/8882891
+Live At Heaven, London 1987 - Desconocido - https://api.discogs.com/releases/10178783
+Untitled - Desconocido - https://api.discogs.com/releases/11621021
+Various Live & John Peel Sessions - Desconocido - https://api.discogs.com/releases/13425281
+Imaginary Friends - Tape - Desconocido - https://api.discogs.com/releases/19313404
+L.A 1986, Paris 03/85, Am’dam 03/85 - Desconocido - https://api.discogs.com/releases/20498224
+Swindle - Desconocido - https://api.discogs.com/releases/23017775
+Cookies - Desconocido - https://api.discogs.com/releases/23017949
+Glasgow, The Venue (Sessions) - Desconocido - https://api.discogs.com/releases/28087504
+Sessions + Brighton Pavilion 2.2.85 - Desconocido - https://api.discogs.com/releases/30249785
+Demos, Sessions, Live, Interviews - Desconocido - https://api.discogs.com/releases/30249932
+Black Session Sat 6th Aug 1994 - Desconocido - https://api.discogs.com/releases/30250079
+Nottingham 11-2-86 - Desconocido - https://api.discogs.com/releases/30250166
+N.London Poly 15:3:85/Brighton '85' - Desconocido - https://api.discogs.com/releases/30250217
+Gigant Apeldoorn 8-3-1985 - Desconocido - https://api.discogs.com/releases/30250262
+I.C.A London 29.12.84/Ambulance Station 23.11.84/John Peel Session 31.10.84 - Desconocido - https://api.discogs.com/releases/30250298
+Electric Ballroom 9.9.85 & Edin.Coasters 5.9.85 - Desconocido - https://api.discogs.com/releases/30250313
+Burgerweeshuis Deventer 17-10-'85 - Desconocido - https://api.discogs.com/releases/30250346
+Demos/Liverpool Sphinx Bar 30/1/85 - Desconocido - https://api.discogs.com/releases/30250382
+Hammersmith Palais 8.5.86/New York The World 7.12.85 - Desconocido - https://api.discogs.com/releases/30250439
+The Hits Album 8 Part-I - Desconocido - https://api.discogs.com/masters/133212
+Darklands - Desconocido - https://api.discogs.com/masters/5355
+Barbed Wire Kisses (B-Sides And More) - Desconocido - https://api.discogs.com/masters/5367
+Automatic - Desconocido - https://api.discogs.com/masters/5385
+Live LA Roxy 1985  - Desconocido - https://api.discogs.com/masters/3008273
+Trip U Up + - Desconocido - https://api.discogs.com/masters/1724256
+The Hits Album 7 (Part-II) - Desconocido - https://api.discogs.com/masters/71653
+Sub Rock - The Best Of Independent And Grunge - Desconocido - https://api.discogs.com/masters/1335787
