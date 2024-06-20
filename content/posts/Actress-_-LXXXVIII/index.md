@@ -1,6 +1,6 @@
 ---
 title: "Actress - LXXXVIII"
-date: 2024-06-20T16:44:44+02:00
+date: 2024-06-20T16:48:25+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -35,31 +35,31 @@ tags:
 > 
 > **Sello:** Atlantic
 > 
-> **Manufactured By** 1: Warner Music Canada Co.
+> **Manufactured By:** Warner Music Canada Co.
 > 
-> **Distributed By** 2: Warner Music Canada Co.
+> **Distributed By:** Warner Music Canada Co.
 > 
-> **Phonographic Copyright (p)** 3: Atlantic Recording Corporation
+> **Phonographic Copyright (p):** Atlantic Recording Corporation
 > 
-> **Phonographic Copyright (p)** 4: WEA International Inc.
+> **Phonographic Copyright (p):** WEA International Inc.
 > 
-> **Copyright (c)** 5: Atlantic Recording Corporation
+> **Copyright (c):** Atlantic Recording Corporation
 > 
-> **Copyright (c)** 6: WEA International Inc.
+> **Copyright (c):** WEA International Inc.
 > 
-> **Recorded At** 7: Stratosphere Sound
+> **Recorded At:** Stratosphere Sound
 > 
-> **Recorded At** 8: Glennross Studios, Saskatoon, SK, Canada
+> **Recorded At:** Glennross Studios, Saskatoon, SK, Canada
 > 
-> **Mixed At** 9: Stratosphere Sound
+> **Mixed At:** Stratosphere Sound
 > 
-> **Mastered At** 10: The Lacquer Channel
+> **Mastered At:** The Lacquer Channel
 > 
-> **Lacquer Cut At** 11: Lucky Lacquers
+> **Lacquer Cut At:** Lucky Lacquers
 > 
-> **Pressed By** 12: Rainbo Records
+> **Pressed By:** Rainbo Records
 > 
-> **Pressed By** 13: Rainbo Records
+> **Pressed By:** Rainbo Records
 > 
 > **Engineer** - Geoff Sanoff
 > 
