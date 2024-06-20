@@ -1,6 +1,6 @@
 ---
 title: "Terraplana - Olhar Pra Tras"
-date: 2024-06-20T15:53:29+02:00
+date: 2024-06-20T16:03:40+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -39,14 +39,10 @@ tags:
 > **Tracklist:**
 > 
 >   1. Intro    1:21
-> 
 >   2. Ambedo    3:50
-> 
 >   3. Lamento    4:13
-> 
 >   4. Interlúdio    1:29
-> 
 >   5. Virou Crime    3:48
-> 
 >   6. Fall    4:32
+> 
 > 
