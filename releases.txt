@@ -1,29 +1,55 @@
 Listado de releases del artista:
-Godspeed / Ghosts In The Machine - 2009 - https://api.discogs.com/releases/2262428
-EP - 2010 - https://api.discogs.com/masters/637775
-Death And Vanilla - 2012 - https://api.discogs.com/masters/419497
-Library Goblin (Коля Угрюмов Waves Of Literacy Version) - 2013 - https://api.discogs.com/releases/5438027
-Vampyr - 2013 - https://api.discogs.com/masters/700373
-From Above - 2013 - https://api.discogs.com/masters/538204
-Optic Nerve - 2015 - https://api.discogs.com/releases/7005832
-Time Travel - 2015 - https://api.discogs.com/releases/7005841
-Erté - 2015 - https://api.discogs.com/releases/7012922
-California Owls / Follow The Light - 2015 - https://api.discogs.com/masters/1119846
-To Where The Wild Things Are..... - 2015 - https://api.discogs.com/masters/828268
-A Score For Roman Polanski's The Tenant - 2018 - https://api.discogs.com/masters/1403008
-A Flaw In The Iris - 2019 - https://api.discogs.com/releases/14528695
-Are You A Dreamer? - 2019 - https://api.discogs.com/masters/1546495
-Death And Vanilla Remixed And Reimagined By Civilistjävel! EP - 2023 - https://api.discogs.com/releases/28039836
-Flicker - 2023 - https://api.discogs.com/masters/3017504
-Arcana - Desconocido - https://api.discogs.com/releases/8396415
-Beko_Cs01 - 2010 - https://api.discogs.com/releases/2405121
-Tribute To Beko - 2011 - https://api.discogs.com/releases/15790388
-Beko_100 - 2012 - https://api.discogs.com/releases/3514497
-I Hear A New World: 1958-1962 - 2012 - https://api.discogs.com/releases/4898332
-This Is Not A Drill - 2015 - https://api.discogs.com/releases/7997180
-Mind The Gap #117 - 2015 - https://api.discogs.com/releases/8118430
-Lost Library - 2017 - https://api.discogs.com/masters/1831496
-Outer Limits - 2019 - https://api.discogs.com/masters/1589977
-Mars 2023 → 14 Titres - 2023 - https://api.discogs.com/releases/26196593
-Fact Mix 919 - 2023 - https://api.discogs.com/releases/29328520
-Tunes From The Darkside - 2020 - https://api.discogs.com/releases/16128990
+No Experiences - 2012 - https://api.discogs.com/releases/4474987
+FYTS - 2012 - https://api.discogs.com/releases/4833456
+Duga-3 - 2012 - https://api.discogs.com/masters/658491
+Kings And Them - 2012 - https://api.discogs.com/masters/453884
+RA.404 - 2014 - https://api.discogs.com/releases/5434084
+Waterfall - 2014 - https://api.discogs.com/masters/681442
+Ultra - 2020 - https://api.discogs.com/masters/1813714
+Nobody Else - 2023 - https://api.discogs.com/releases/28411444
+On Embers - 2023 - https://api.discogs.com/releases/28411588
+Yxguden - 2023 - https://api.discogs.com/releases/28651291
+Revanchist - 2023 - https://api.discogs.com/masters/3291598
+Primadonna - 2012 - https://api.discogs.com/masters/429702
+FACT Mix 398 - 2013 - https://api.discogs.com/releases/4954176
+Advent 14 / 15 - 2014 - https://api.discogs.com/releases/6642914
+If You Wait (Remixes 2) - 2014 - https://api.discogs.com/masters/725868
+V A R I A N T - 2014 - https://api.discogs.com/masters/770447
+1833 Mix - 2015 - https://api.discogs.com/releases/9035330
+Elastic Heart (The Remixes) - 2015 - https://api.discogs.com/masters/739952
+Angélico - 2016 - https://api.discogs.com/releases/9339323
+Innocence v2 - 2017 - https://api.discogs.com/releases/10972084
+Exorcism Of The Bridge@Eastham Rake - 2018 - https://api.discogs.com/releases/12861292
+One Life : Four Remixes - 2021 - https://api.discogs.com/releases/18240313
+Good Luck - 2021 - https://api.discogs.com/masters/2053966
+Aquarius  - 2014 - https://api.discogs.com/masters/743065
+RA.488 - 2015 - https://api.discogs.com/releases/7594952
+FACT Mix 520 - 2015 - https://api.discogs.com/releases/7965345
+Riot Boi  - 2015 - https://api.discogs.com/masters/948225
+Welcome To Los Santos - 2015 - https://api.discogs.com/masters/848912
+Atrocity Exhibition - 2016 - https://api.discogs.com/masters/1065536
+9 - 2017 - https://api.discogs.com/masters/1274550
+Yeezus - 2013 - https://api.discogs.com/masters/567491
+Riot Boi  - 2015 - https://api.discogs.com/masters/948225
+Variant - 2014 - https://api.discogs.com/masters/770447
+Cxemcast 085 - 2020 - https://api.discogs.com/releases/27569955
+Weekly Magic Tape #57 - 2012 - https://api.discogs.com/releases/3451399
+RA.327 - 2012 - https://api.discogs.com/releases/3848379
+The Future Is Yet To Come - 2012 - https://api.discogs.com/releases/4696740
+Exceptional - 2012 - https://api.discogs.com/releases/4865451
+Cloud Music Mix 4 Witch Tapes - 2012 - https://api.discogs.com/releases/5179222
+The Suicide Mixtape - 2012 - https://api.discogs.com/releases/12753471
+Black Black Gold Mix For Long Clothing - 2013 - https://api.discogs.com/releases/6264760
+Fuckparade '14 - Edge Of Chaos DJ-Mix - 2014 - https://api.discogs.com/releases/5994416
+The Top 100 Tracks Of 2014 - 2014 - https://api.discogs.com/releases/6627220
+Mix For The Astral Plane - 2014 - https://api.discogs.com/releases/8295627
+RA.488 - 2015 - https://api.discogs.com/releases/7594952
+Tri Angle Records - Five Years - 2015 - https://api.discogs.com/releases/12129877
+Mixtape Para Mun Discos - 2015 - https://api.discogs.com/releases/13461885
+Fact Mix 670 - 2018 - https://api.discogs.com/releases/29393164
+Onhell <3's You - 2020 - https://api.discogs.com/releases/14900943
+FACT Mix 817 - 2021 - https://api.discogs.com/releases/19787809
+Fact Mix 888 - 2022 - https://api.discogs.com/releases/29339200
+RA.900 - 2023 - https://api.discogs.com/releases/29437933
+Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
+Yeezus - 2013 - https://api.discogs.com/masters/567491
