@@ -1,5 +1,0 @@
-Listado de releases del artista:
-Exílio - 2017 - https://api.discogs.com/releases/23685131
-olhar pra trás - 2023 - https://api.discogs.com/releases/29376847
-ao vivo na vin​í​cola - 2023 - https://api.discogs.com/releases/30468239
-You're Still In A Dream II - 2018 - https://api.discogs.com/releases/18970378
