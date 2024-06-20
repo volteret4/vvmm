@@ -1,65 +1,252 @@
 Listado de releases del artista:
-4 Degrees - 2015 - https://api.discogs.com/releases/7907378
-Hopelessness - 2016 - https://api.discogs.com/releases/9531493
-Hopelessness - 2016 - https://api.discogs.com/masters/995466
-Paradise - 2017 - https://api.discogs.com/masters/1149491
-Paradise - 2017 - https://api.discogs.com/masters/1756872
-Karma - 2019 - https://api.discogs.com/masters/2944762
-I Will Survive b​/​w R​.​N​.​C. 2020 - 2020 - https://api.discogs.com/masters/2944738
-It's All Over Now, Baby Blue - 2020 - https://api.discogs.com/masters/2944759
-One (The Remixes) - 2022 - https://api.discogs.com/releases/23930573
-Watch Me - Desconocido - https://api.discogs.com/releases/15176985
-In Amber - 2022 - https://api.discogs.com/masters/2678801
-Sliver Of Ice / Without Me - 2023 - https://api.discogs.com/releases/28393432
-My Back Was A Bridge For You To Cross - 2023 - https://api.discogs.com/masters/3159966
-Blacklips Bar: Androgyns And Deviants - Industrial Romance For Bruised And Battered Angels, 1992–1995 - 2023 - https://api.discogs.com/masters/3020627
-Smoke 'Em Out - 2017 - https://api.discogs.com/releases/10498280
-Celestine+ - 2017 - https://api.discogs.com/releases/11290737
-We'll Take It - 2018 - https://api.discogs.com/releases/12274058
-The Mojo Anthology - 2018 - https://api.discogs.com/releases/12593961
-You Will Not Die - 2018 - https://api.discogs.com/masters/1331592
-Whistle Down The Wind - 2018 - https://api.discogs.com/masters/1324699
-Age Of - 2018 - https://api.discogs.com/masters/1372331
-Change EP - 2019 - https://api.discogs.com/masters/1705475
-Live - 2020 - https://api.discogs.com/masters/1895175
-Good Night Songs For Rebel Girls - 2020 - https://api.discogs.com/masters/1854819
-Impermanence​/​Disintegration - 2021 - https://api.discogs.com/releases/19114414
-The Night Has Rushed In - 2021 - https://api.discogs.com/masters/2527864
-The Night Has Rushed In - 2022 - https://api.discogs.com/releases/23595254
-Novembre 2022 → 17 titres - 2022 - https://api.discogs.com/releases/24989326
-My Father's Dragon (Soundtrack From The Netflix Film) - 2022 - https://api.discogs.com/releases/28526017
-In Amber - 2022 - https://api.discogs.com/masters/2678801
-The Versions - 2022 - https://api.discogs.com/masters/2667155
-Hi​-​Def Femme - 2022 - https://api.discogs.com/masters/3305026
-Stay Close To Music - 2022 - https://api.discogs.com/masters/2884051
-It Must Change - 2023 - https://api.discogs.com/releases/28046229
-Sliver Of Ice / Without Me - 2023 - https://api.discogs.com/releases/28393432
-Folkocracy - 2023 - https://api.discogs.com/masters/3120285
-My Back Was A Bridge For You To Cross - 2023 - https://api.discogs.com/masters/3159966
-Blacklips Bar: Androgyns And Deviants — Industrial Romance For Bruised And Battered Angels, 1992​–​1995 - 2023 - https://api.discogs.com/masters/3020627
-The Top 100 Tracks Of 2015 - 2015 - https://api.discogs.com/releases/7912029
-Racing Extinction (Original Motion Picture Soundtrack) - 2015 - https://api.discogs.com/releases/15212991
-30 Sweet Harmony Compilation - 2016 - https://api.discogs.com/releases/9046445
-Annie Mac Presents 2016 - 2016 - https://api.discogs.com/releases/9189889
-Beggars Collection Printemps - Été 2016 - 2016 - https://api.discogs.com/releases/10072822
-The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
-City Lounge - The Deep Session 02 - - 2016 - https://api.discogs.com/releases/14833240
-Hostess Sampler 2016 Dec - 2017 Feb - 2016 - https://api.discogs.com/releases/25798234
-Hostess Sampler 2016 Mar - May - 2016 - https://api.discogs.com/releases/26050261
-Day of the Dead - 2016 - https://api.discogs.com/masters/1049963
-Remote Control February Sampler [2017] - 2017 - https://api.discogs.com/releases/10037158
-Björk & Anohni Remixes - 2017 - https://api.discogs.com/releases/10197115
-Void Of Reason - 2017 - https://api.discogs.com/releases/10431844
-Secretly Summer Sizzlers - 2017 - https://api.discogs.com/releases/10673340
+No Tricks - 2004 - https://api.discogs.com/releases/338158
+Hazyville - 2008 - https://api.discogs.com/masters/638330
+Ghosts Have A Heaven - 2009 - https://api.discogs.com/releases/1750960
+Point And Gaze / Freak For You - 2009 - https://api.discogs.com/releases/1809953
+FACT Mix 63 - 2009 - https://api.discogs.com/releases/10019426
+Swarm / Hubble - 2009 - https://api.discogs.com/masters/248521
+Machine And Voice - 2010 - https://api.discogs.com/masters/265775
+Paint, Straw And Bubbles - 2010 - https://api.discogs.com/masters/369081
+Splazsh - 2010 - https://api.discogs.com/masters/251579
+Untitled - 2011 - https://api.discogs.com/releases/3054864
+Actress Meets Shangaan Electro - 2011 - https://api.discogs.com/releases/3340841
+Boiler Room #74 - 2011 - https://api.discogs.com/releases/10019475
+Harrier ATTK / Gershwin - 2011 - https://api.discogs.com/masters/317196
+Rainy Dub - 2011 - https://api.discogs.com/masters/907952
+Metamorphosis - 2012 - https://api.discogs.com/releases/7673277
+ShockTherapy101 - 2012 - https://api.discogs.com/releases/10019466
+Silver Cloud - 2012 - https://api.discogs.com/masters/516379
+R.I.P - 2012 - https://api.discogs.com/masters/429891
+Grey Over Blue - 2013 - https://api.discogs.com/releases/5148695
+Boiler Room x adidas Originals Mix at Primavera Sound - 2013 - https://api.discogs.com/releases/10019485
+Hazyville » Ghettoville - 2013 - https://api.discogs.com/masters/681757
+Untitled - 2014 - https://api.discogs.com/releases/5257733
+Podcast 327: Actress - 2014 - https://api.discogs.com/releases/5540613
+Xoul - 2014 - https://api.discogs.com/releases/5910304
+Miami Retirement Condo - 2014 - https://api.discogs.com/releases/6856683
+Ghettoville - 2014 - https://api.discogs.com/masters/645573
+Bird Matrix (Remixes) - 2015 - https://api.discogs.com/releases/7673708
+DJ-Kicks - 2015 - https://api.discogs.com/masters/830421
+Cosine - 2016 - https://api.discogs.com/releases/8221432
+Bass and Tone - 2017 - https://api.discogs.com/releases/10017284
+13 - 2017 - https://api.discogs.com/releases/10019409
+treF - 2017 - https://api.discogs.com/releases/10019415
+BOYZ - 2017 - https://api.discogs.com/releases/10019419
+X22RME - 2017 - https://api.discogs.com/releases/10079781
+Audio Track 5 - 2017 - https://api.discogs.com/masters/1801302
+AZD - 2017 - https://api.discogs.com/masters/1164391
+LAGEOS - 2018 - https://api.discogs.com/masters/1372101
+88 - 2020 - https://api.discogs.com/masters/1773069
+Karma & Desire - 2020 - https://api.discogs.com/masters/1826216
+Dummy Corporation - 2022 - https://api.discogs.com/releases/25124326
+Dream - 2022 - https://api.discogs.com/releases/25813222
+Azd Surf - 2022 - https://api.discogs.com/releases/25813399
+Jimmy - 2023 - https://api.discogs.com/releases/27488706
+LXXXVIII - 2023 - https://api.discogs.com/masters/3295480
+Rainlines / Cloud Paradox - 2024 - https://api.discogs.com/releases/30509719
+Statik - 2024 - https://api.discogs.com/masters/3508884
+Versus - 2008 - https://api.discogs.com/releases/1400332
+In This / Lost (Remixes) - 2009 - https://api.discogs.com/releases/1704147
+FACT Mix 81 - 2009 - https://api.discogs.com/releases/1920988
+Voyage Direct Remixes - 2009 - https://api.discogs.com/masters/324652
+FACT Mix 190 - 2010 - https://api.discogs.com/releases/2502903
+14 Tracks: Locked Onto Actress - 2010 - https://api.discogs.com/releases/4253663
+You Don't Wash (DJ-Kicks) (Remixes) - 2010 - https://api.discogs.com/masters/266916
+RA.272 - 2011 - https://api.discogs.com/releases/3050770
+Bleep:100 Tracks/2011 - 2011 - https://api.discogs.com/releases/3458262
+White Light 42 (Part 1 & 2) - 2011 - https://api.discogs.com/releases/3627328
+Tomboy - 2011 - https://api.discogs.com/masters/327050
+Give Up The Ghost (Thriller Houseghost RMX) / Codex (Illum Sphere RMX) / Little By Little (Shed RMX) - 2011 - https://api.discogs.com/masters/361395
+Surfers Hymn - 2011 - https://api.discogs.com/masters/642376
+Spreo Superbus - 2012 - https://api.discogs.com/releases/3458107
+RA.301 - 2012 - https://api.discogs.com/releases/3489447
+Tracks From The Vault Vol. 2 - 2012 - https://api.discogs.com/releases/3583710
+Motif - 2012 - https://api.discogs.com/releases/3685585
+14 Tracks: Duppy Slomp - 2012 - https://api.discogs.com/releases/3883416
+The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
+Goodbye Kiss - 2012 - https://api.discogs.com/masters/413272
+Non Stop - 2012 - https://api.discogs.com/masters/514026
+Extra Playful: Transitions - 2012 - https://api.discogs.com/masters/1842680
+Luftbobler Remixed / Remastered - 2013 - https://api.discogs.com/releases/4517798
+El País Mix - 2013 - https://api.discogs.com/releases/4632821
+SSS Podcast #054 - 2013 - https://api.discogs.com/releases/4997110
+Sound Of Thought 13 - 2013 - https://api.discogs.com/releases/6393100
+Elementz Of Houz Music (Actress Rmxs) - 2013 - https://api.discogs.com/masters/548905
+Giant Robot EP - 2013 - https://api.discogs.com/masters/569674
+Never Sleep - 2013 - https://api.discogs.com/masters/898670
+Play Fights / The Two Halves Remixes - 2014 - https://api.discogs.com/releases/5454272
+Sun Down  - 2014 - https://api.discogs.com/masters/783413
+Bones Without You (Remixed) - 2014 - https://api.discogs.com/masters/1667006
+Food - 2014 - https://api.discogs.com/masters/677335
+Rumble (Actress Sixinium Bootleg Mix) - 2014 - https://api.discogs.com/masters/677474
+Wiley X Actress Remix  - 2015 - https://api.discogs.com/masters/881368
+Slam Dunk #2 - 2016 - https://api.discogs.com/releases/9573021
+Era Extraña + Errata Anex - 2016 - https://api.discogs.com/masters/371049
+Slam Dunk Remixes - 2017 - https://api.discogs.com/releases/9983046
+In Tongues (Deluxe)  - 2018 - https://api.discogs.com/masters/1315375
+Slow Fade (Remixes) - 2018 - https://api.discogs.com/masters/1302724
+Song For Alpha B​-​Sides & Remixes - 2019 - https://api.discogs.com/masters/1708415
+Relevant Parties: Ninja Tune - 2020 - https://api.discogs.com/releases/17268565
+Crawling In My Skin / Circle The Drain - 2020 - https://api.discogs.com/releases/18636250
+To Believe (Remixes) - 2020 - https://api.discogs.com/masters/2021686
+To Believe (Remixes) - 2020 - https://api.discogs.com/masters/1916109
+Play Monotonous EP - 2021 - https://api.discogs.com/releases/18081511
+Spectre: Machines Of Loving Grace Remixes (Six Remixes From Para One's Album) - 2021 - https://api.discogs.com/releases/26428934
+Immediately Remixes - 2021 - https://api.discogs.com/masters/2169088
+Spectre: Shin Sekai - 2021 - https://api.discogs.com/masters/2251849
+Let All The Poisons That Lurk In The Mud Seep Out (Actress Remix) - 2021 - https://api.discogs.com/masters/3041270
+Highgrade - 2022 - https://api.discogs.com/masters/2796800
+CV x Actress - 2022 - https://api.discogs.com/masters/2876677
+Smalltown Supersound Remix Anthology Vol. 1-4 2002-2022 - 2023 - https://api.discogs.com/masters/3057302
+Remix Collection - Desconocido - https://api.discogs.com/releases/23180264
+Kinshasa One Two - 2011 - https://api.discogs.com/masters/385346
+Because I’m Worth It. - 2014 - https://api.discogs.com/masters/694058
+Fabric Presents Overmono - 2021 - https://api.discogs.com/masters/2341945
+Eyeline - 2022 - https://api.discogs.com/masters/2576996
+Un/limited Love - 2023 - https://api.discogs.com/releases/29101348
+Snider / Make My Day - 2006 - https://api.discogs.com/masters/1064536
+M⁷ - 2009 - https://api.discogs.com/releases/1680376
+The Shrew Would Have Cushioned The Blow EP - 2010 - https://api.discogs.com/masters/240007
+Hallo - 2011 - https://api.discogs.com/masters/1161720
+Kinshasa One Two - 2011 - https://api.discogs.com/masters/385346
+Because I’m Worth It. - 2014 - https://api.discogs.com/masters/694058
+Young Paint - 2018 - https://api.discogs.com/masters/1432363
+EP Two - 2019 - https://api.discogs.com/masters/1835683
+Two Re​​-​​Medications Volume II - 2021 - https://api.discogs.com/releases/21885904
+Un/limited Love - 2023 - https://api.discogs.com/releases/29101348
+Mercy - 2023 - https://api.discogs.com/masters/2946592
+1st Birthday - 2003 - https://api.discogs.com/releases/300774
+Werk One - 2004 - https://api.discogs.com/masters/1028302
+M⁷ - 2009 - https://api.discogs.com/releases/1680376
+RA.175 - 2009 - https://api.discogs.com/releases/1965889
+Autonomic Podcast Layer 07 - 2009 - https://api.discogs.com/releases/2817973
+14 Tracks: Head In The Clouds: A Discohouse Dream - 2009 - https://api.discogs.com/releases/3320538
+XXJFG Mix - 2009 - https://api.discogs.com/releases/14926843
+Fabric 50 - 2009 - https://api.discogs.com/masters/365208
+Prime Numbers 3 - 2010 - https://api.discogs.com/releases/2114305
+Groove 124 / CD°33 - 2010 - https://api.discogs.com/releases/2263147
+#010: Wax Treatment Podcast - 2010 - https://api.discogs.com/releases/2280199
+FACT Mix 153 - 2010 - https://api.discogs.com/releases/2299466
+RA.216 - 2010 - https://api.discogs.com/releases/2370887
+FACT Mix 200 - 2010 - https://api.discogs.com/releases/2622327
+RA.238 - 2010 - https://api.discogs.com/releases/2629576
+FACT Mix 139 - 2010 - https://api.discogs.com/releases/3253730
+14 Tracks: Locked Onto Actress - 2010 - https://api.discogs.com/releases/4253663
+Line Up 03 (A Proper Sampler) - 2010 - https://api.discogs.com/releases/14465830
+FabricLive. 50 - 2010 - https://api.discogs.com/masters/246840
+Tapes - 2010 - https://api.discogs.com/masters/739682
+Mystery Plays Mixtape #4 Inch-Time - Best Of 2010 - 2011 - https://api.discogs.com/releases/2702135
+Rough Trade Shops (Counter Culture 10) - 2011 - https://api.discogs.com/releases/2725874
+Unclassified - 2011 - https://api.discogs.com/releases/3135443
+PG Podcast 034 - 2011 - https://api.discogs.com/releases/3282320
+#029: Wax Treatment Podcast - 2011 - https://api.discogs.com/releases/3293196
+People Want Sugar - 2011 - https://api.discogs.com/releases/3369865
+SSS Podcast #005 - 2011 - https://api.discogs.com/releases/4355879
+Rhythm Incursions Mixtape - 2011 - https://api.discogs.com/releases/5337092
+A Colourful Storm 003 - 2011 - https://api.discogs.com/releases/5586791
+Phrenic Mix - 2011 - https://api.discogs.com/releases/6282826
+The Top 100 Tracks Of 2010 - 2011 - https://api.discogs.com/releases/7922690
+Rinse: 16 - 2011 - https://api.discogs.com/masters/1554914
+Smoke Machine Podcast 038 - 2012 - https://api.discogs.com/releases/3394078
+Ep.153 - 2012 - https://api.discogs.com/releases/3395491
+RA.308 - 2012 - https://api.discogs.com/releases/3557335
+Tsugi Bonus Digital : Tsugi 53 - 2012 - https://api.discogs.com/releases/3655585
+E.P.159 - 2012 - https://api.discogs.com/releases/3661812
+KOTJ Radio | Episode 33 - 2012 - https://api.discogs.com/releases/3670869
+Symbiosis 86 - Mixtape For Dreamers - 2012 - https://api.discogs.com/releases/3673620
+Electronic Beats ∙ CD N° 1 ∙ Summer 2012 - 2012 - https://api.discogs.com/releases/3685360
+Honest Jon's Spring Sampler - 2012 - https://api.discogs.com/releases/3705484
+Mnml Ssgs Mx Fnl - 2012 - https://api.discogs.com/releases/3745530
+LWE Podcast 130 - 2012 - https://api.discogs.com/releases/3770005
+Mind The Gap #98 - 2012 - https://api.discogs.com/releases/3874819
+A Guide To Electronic Music - 2012 - https://api.discogs.com/releases/3976048
+FACT Mix 355 - 2012 - https://api.discogs.com/releases/4011438
+Offcast #13: Winter Is Coming - 2012 - https://api.discogs.com/releases/4043628
+Electric Deluxe Podcast 085 - 2012 - https://api.discogs.com/releases/4116420
+The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
+M.U. Podcast 46# - 2012 - https://api.discogs.com/releases/4584072
+Egg Box 003 - 2012 - https://api.discogs.com/releases/5301572
+Other People's Poetry Mix - 2012 - https://api.discogs.com/releases/10234339
+The Suicide Mixtape - 2012 - https://api.discogs.com/releases/12753471
+Shangaan Shake - 2012 - https://api.discogs.com/masters/3114468
+14 Tracks: Digital Smoke - 2013 - https://api.discogs.com/releases/4325049
+Easy Associations II - 2013 - https://api.discogs.com/releases/4328088
+Offcast #15 - 2013 - https://api.discogs.com/releases/4334315
+FACT Mix 388 - 2013 - https://api.discogs.com/releases/4701231
+SSS Podcast #054 - 2013 - https://api.discogs.com/releases/4997110
+Rhythm Connection Hot Mix - 2013 - https://api.discogs.com/releases/5026522
+(En)tropic Al Mix - 2013 - https://api.discogs.com/releases/5132365
+Dead Hommes (Mix By Para One) - 2013 - https://api.discogs.com/releases/5226800
+M.U. Podcast 68# - 2013 - https://api.discogs.com/releases/5238367
+FACT Mix 411 - 2013 - https://api.discogs.com/releases/5338762
+Ghettotech 120 - 2013 - https://api.discogs.com/releases/5343645
+Ninja Tune Publishing & Synch Sampler Vol. 21 - 2013 - https://api.discogs.com/releases/5772601
+Sound Of Thought 13 - 2013 - https://api.discogs.com/releases/6393100
+Ninja Tune Publishing & Synch Sampler Vol. 18 - 2013 - https://api.discogs.com/releases/6747061
+Some Interesting Things - 2013 - https://api.discogs.com/releases/6949443
+Partial Extinction - 2013 - https://api.discogs.com/releases/7946750
+Fact Mix 383 - 2013 - https://api.discogs.com/releases/29428300
+RA.404 - 2014 - https://api.discogs.com/releases/5434084
+Secret Thirteen Mix 109 - 2014 - https://api.discogs.com/releases/5444233
+Mindcast Mixtape 04/2014 - 2014 - https://api.discogs.com/releases/5598470
+14 Tracks: Fugged Out - 2014 - https://api.discogs.com/releases/5604490
+I Have Nothing To Say And I'm Saying It - 2014 - https://api.discogs.com/releases/5638811
+Mindcast Mixtape 06/2014 - 2014 - https://api.discogs.com/releases/5799933
+FACT Mix 447 - 2014 - https://api.discogs.com/releases/5820588
+Truancy Volume 100 - 2014 - https://api.discogs.com/releases/6543551
+Truancy Volume 101 - 2014 - https://api.discogs.com/releases/6552499
+The Top 100 Tracks Of 2014 - 2014 - https://api.discogs.com/releases/6627220
+Noisekölln feat. rkss - 2014 - https://api.discogs.com/releases/7230457
+Stray Landings 0030 // rkss - 2014 - https://api.discogs.com/releases/7230502
+Ninja Tune Publishing & Synch Sampler Vol. 22 - 2014 - https://api.discogs.com/releases/7763780
+Ninja Tune Publishing & Synch Sampler Vol. 25 - 2014 - https://api.discogs.com/releases/7772394
+Ninja Tune Publishing & Synch Sampler Vol. 26 - 2014 - https://api.discogs.com/releases/7939805
+Система 12 / Yura.K - 2014 - https://api.discogs.com/releases/10658978
+RSMIX005 - 2014 - https://api.discogs.com/releases/16633017
+The Cybernetic Comeup Of Summer '14 - 2014 - https://api.discogs.com/releases/25745560
+Fabriclive 78 - 2014 - https://api.discogs.com/masters/854850
+My Body Full Of Stars - 2015 - https://api.discogs.com/releases/6622461
+You Couldn't Pay Me To Remix These - 2015 - https://api.discogs.com/releases/6660021
+Black As Midnight On A Moonless Night - 2015 - https://api.discogs.com/releases/7060999
+Mindcast Mixtape 06/2015 - 2015 - https://api.discogs.com/releases/7184629
+soundscape mix 005 - 2015 - https://api.discogs.com/releases/7824583
+Ninja Tune Publishing & Synch Sampler Vol. 30 - 2015 - https://api.discogs.com/releases/10557853
+Long Road with D.NOTE - 2015 - https://api.discogs.com/releases/12488187
+Paradise Goulash Versions - 2015 - https://api.discogs.com/masters/936928
+Paradise Goulash - 2015 - https://api.discogs.com/masters/905083
+DJ Kicks (The Exclusives Bonus Disc) - 2016 - https://api.discogs.com/releases/11043171
+Groove 166 / CD 75 - 2017 - https://api.discogs.com/releases/10138162
+Mix #5 - 2017 - https://api.discogs.com/releases/10199512
+Musik Zur Zeit CD 137 Spex 374 - 2017 - https://api.discogs.com/releases/10269490
+Musikexpress 0517 - Der Soundtrack Zum Heft - 2017 - https://api.discogs.com/releases/10430907
 100 Tracks 2017 - 2017 - https://api.discogs.com/releases/11340884
-The Mojo Anthology - 2018 - https://api.discogs.com/releases/12593961
+Ninja Tune Publishing & Sync Sampler Vol. 39 - 2017 - https://api.discogs.com/releases/11648356
+Ninja Tune Publishing & Sync Sampler Vol. 38 - 2017 - https://api.discogs.com/releases/11652325
+FACT Mix 593 - 2017 - https://api.discogs.com/releases/12279056
+FACT Mix 605 - 2017 - https://api.discogs.com/releases/12544551
+Positive Vibes 4 Your Negative Ass Mix - 2017 - https://api.discogs.com/releases/21245638
+DJ-Kicks (The Exclusives) - 2017 - https://api.discogs.com/masters/1871766
+HC-PvC - Bipolar - 2018 - https://api.discogs.com/releases/11396052
+Modeselektion Vol. 04 - 2018 - https://api.discogs.com/releases/11924209
+Modeselektion Vol.04 #1 - 2018 - https://api.discogs.com/releases/12069721
+The Wire Tapper 47 - 2018 - https://api.discogs.com/releases/12228847
+To Corpse - 2018 - https://api.discogs.com/releases/15801218
+Fact Mix 664 - 2018 - https://api.discogs.com/releases/29397943
+Air Texture Volume VI - 2018 - https://api.discogs.com/masters/1491468
+Modeselektion Vol. 04 - 2018 - https://api.discogs.com/masters/1376827
+Needle Exchange 282 - 2019 - https://api.discogs.com/releases/13611545
+Revera Mix 001 - 2019 - https://api.discogs.com/releases/13665426
+RA.693 - 2019 - https://api.discogs.com/releases/14190996
 Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
-Life - 2022 - https://api.discogs.com/releases/24328808
-For The Birds: The Birdsong Project - 2022 - https://api.discogs.com/masters/2911105
-In Amber - 2022 - https://api.discogs.com/masters/2678801
-The Versions - 2022 - https://api.discogs.com/masters/2667155
-Now Playing (15 Tracks Of The Month's Best Music) - 2023 - https://api.discogs.com/releases/27303834
+Fabric Presents Overmono - 2021 - https://api.discogs.com/masters/2341945
+Dekmantel Podcast 378 - 2022 - https://api.discogs.com/releases/29454022
+Fact Mix 909 - 2023 - https://api.discogs.com/releases/29332162
+Fact Mix 376 - 2023 - https://api.discogs.com/releases/29428705
+RA.905 - 2023 - https://api.discogs.com/releases/29437369
 Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
-Blacklips Bar: Androgyns And Deviants — Industrial Romance For Bruised And Battered Angels, 1992​–​1995 - 2023 - https://api.discogs.com/masters/3020627
-Remote Control May Sampler - Desconocido - https://api.discogs.com/releases/27680385
-Volta Tour 2007 - 2007 - https://api.discogs.com/releases/11534468
+Still Banging - 2010 - https://api.discogs.com/releases/5221639
+LWE Podcast 137 - 2012 - https://api.discogs.com/releases/3916372
+The Home Truths Mix Tape 03.13 - 2013 - https://api.discogs.com/releases/4415576
+Africa In Your Earbuds #36 - 2013 - https://api.discogs.com/releases/6021968
+Asymmetrical Cryptography - 2013 - https://api.discogs.com/releases/7992697
+Alleys of Your Mind - Jan. 10th, 2014 - 2014 - https://api.discogs.com/releases/11873155
