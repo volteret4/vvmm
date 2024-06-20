@@ -1,0 +1,45 @@
+---
+title: "Nia Archives - Forbidden Feelingz"
+date: 2024-06-20T12:57:15+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - dnb
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Nia-Archives - Forbidden-Feelingz))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2704013)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/90864d7a-e0d6-4181-8bff-c2a2a986adbf)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](None)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLj7-a_8wjLyNj2MIC8_Z2B8O5PeTv7Lp9)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2022
+> 
+> **Géneros**: Electronic
+> 
+> **Estilos**: Jungle
+> 
+> **Tracklist:**
+> 
+>   A1. Ode 2 Maya Angelou    2:23
+> 
+>   A2. Forbidden Feelingz     2:46
+> 
+>   A3. 18 & Over     3:38
+> 
+>   B1. Luv Like     3:06
+> 
+>   B2. Part Of Me     2:09
+> 
+>   B3. Gud Gudbyez     2:49
+> 
