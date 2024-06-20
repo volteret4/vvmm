@@ -1,178 +1,65 @@
 Listado de releases del artista:
-Music From The Penguin Café - 1976 - https://api.discogs.com/masters/25053
-Air À Danser / Walk Don't Run - 1981 - https://api.discogs.com/releases/3972343
-Penguin Cafe Orchestra - 1981 - https://api.discogs.com/masters/25060
-Walk Don't Run - 1982 - https://api.discogs.com/masters/2065447
-Music From The Penguin Cafe / Penguin Cafe Orchestra - 1982 - https://api.discogs.com/masters/693558
-The Penguin Cafe Orchestra Mini Album - 1983 - https://api.discogs.com/masters/25082
-Yodel 2 / Telephone And Rubber Band - 1984 - https://api.discogs.com/releases/10731257
-Broadcasting From Home - 1984 - https://api.discogs.com/masters/25075
-Music For A Found Harmonium - 1985 - https://api.discogs.com/masters/25090
-Signs Of Life - 1987 - https://api.discogs.com/masters/25099
-Dirt - 1987 - https://api.discogs.com/masters/843737
-When In Rome... - 1988 - https://api.discogs.com/masters/25118
-'Still Life' At The Penguin Café & The Penguin Café Orchestra-A Profile - 1991 - https://api.discogs.com/masters/1064622
-Union Cafe "Shorts" - 1993 - https://api.discogs.com/releases/18943633
-Union Cafe - 1993 - https://api.discogs.com/masters/259060
-Selections From A Different Noise / Selections From Concert Program - 1995 - https://api.discogs.com/releases/24811700
-Concert Program - 1995 - https://api.discogs.com/masters/25126
-Preludes, Airs & Yodels (A Penguin Cafe Primer) - 1996 - https://api.discogs.com/masters/484117
-Oskar Und Leni (Motion Picture Soundtrack) - 1999 - https://api.discogs.com/releases/2126602
-Telephone And Rubber Band - 2000 - https://api.discogs.com/masters/1214939
-A History - 2001 - https://api.discogs.com/masters/510350
-A Brief History - 2001 - https://api.discogs.com/masters/670776
-The Penguin Cafe Orchestra Collection - 2002 - https://api.discogs.com/releases/9067979
-The Second Penguin Cafe Orchestra Sampler - 2004 - https://api.discogs.com/releases/9067727
-Best - 2007 - https://api.discogs.com/releases/13779252
-A Sampler - 2008 - https://api.discogs.com/releases/1443172
-Remastered Reissues - 2008 - https://api.discogs.com/releases/29539837
-Terraforming In Analogue Space - 2016 - https://api.discogs.com/masters/1418996
-Hideaway - 1978 - https://api.discogs.com/masters/447116
-Miniatures (A Sequence Of Fifty-One Tiny Masterpieces Edited By Morgan-Fisher) - 1980 - https://api.discogs.com/masters/32838
-Sportpädagogik - Tanzen Bewegen Darstellen - 1983 - https://api.discogs.com/releases/8075210
-One World One Voice - 1990 - https://api.discogs.com/masters/90289
-Torvill & Dean "Face The Music" - 1994 - https://api.discogs.com/masters/1229145
-Penguin - 1995 - https://api.discogs.com/releases/681089
-Best Of Irish Fiddle Tunes - 1995 - https://api.discogs.com/masters/1619371
-Windham Hill Records Sampler '96 - 1996 - https://api.discogs.com/masters/760120
-Legends - 1997 - https://api.discogs.com/masters/637783
-Classical Chillout - 2001 - https://api.discogs.com/masters/297545
-Classical Chillout 2 - 2002 - https://api.discogs.com/masters/1529948
-Year Of The Dog: Music From The Motion Picture - 2007 - https://api.discogs.com/masters/3386338
-Classical Chillout 2009 - 2009 - https://api.discogs.com/releases/19848385
-Cloudlands - 2009 - https://api.discogs.com/masters/1967353
-The Founder - 2016 - https://api.discogs.com/releases/11044424
-Routes - 2017 - https://api.discogs.com/releases/15697622
-In A Landscape - 2019 - https://api.discogs.com/releases/13225926
-Perpetuum - 2023 - https://api.discogs.com/releases/26562242
-The Complete Obscure Records Collection  - 2023 - https://api.discogs.com/masters/3327100
-May New Releases - 1982 - https://api.discogs.com/releases/29926315
-First Edition - 1982 - https://api.discogs.com/masters/77118
-Womad Talking Book Volume One: An Introduction To World Music - 1985 - https://api.discogs.com/masters/1042364
-Sense Of Beauty - 1985 - https://api.discogs.com/masters/702286
-Leben - Humming Voices - 1985 - https://api.discogs.com/masters/441322
-Passport Records Summer Sampler 1987 - 1987 - https://api.discogs.com/releases/17585407
-Angels In The Architecture - 1987 - https://api.discogs.com/releases/28951078
-Angels In The Architecture - 1987 - https://api.discogs.com/masters/28418
-Rock 80's Vol. 7 - 1988 - https://api.discogs.com/releases/3560521
-1989 - 1989 - https://api.discogs.com/releases/7845826
-"The Later Years" - 1989 - https://api.discogs.com/masters/1323599
-"The Early Years " - 1989 - https://api.discogs.com/masters/1323598
-The 20th Anniversary Album - 1989 - https://api.discogs.com/masters/1848788
-1989 - 1989 - https://api.discogs.com/masters/1324513
-1989 - 1989 - https://api.discogs.com/masters/814436
-One World One Voice - 1990 - https://api.discogs.com/masters/90289
-Ritual - 1991 - https://api.discogs.com/releases/232198
-Música Sin Fronteras Vol. II - 1991 - https://api.discogs.com/masters/483323
-RFCD 7 - 1993 - https://api.discogs.com/releases/444141
-A Brief History Of Ambient Volume 2: Imaginary Landscapes - 1993 - https://api.discogs.com/masters/22555
-Mixing It - 1994 - https://api.discogs.com/masters/865734
-Café Del Mar (Ibiza) - 1994 - https://api.discogs.com/masters/260724
-Night Collection 2 - 1994 - https://api.discogs.com/masters/880886
-Open Music - 1995 - https://api.discogs.com/releases/14119014
-Select Sounds (Audio Companion To The Windham Hill Occasional) - 1995 - https://api.discogs.com/releases/15099224
-Universos - 1995 - https://api.discogs.com/masters/2119102
-New Age - 1996 - https://api.discogs.com/releases/8038314
-High Fidelity Reference CD No. 20  - 1996 - https://api.discogs.com/releases/8150028
-Windham Hill Records Sampler '96 - 1996 - https://api.discogs.com/masters/760120
-Ambient - 1997 - https://api.discogs.com/releases/6458667
-Οι Μουσικές του Κόσμου - 1997 - https://api.discogs.com/releases/14130932
-Paraísos (Lo Mejor De Las Nuevas Musicas) - 1998 - https://api.discogs.com/releases/8862638
-Peregrina World - 1998 - https://api.discogs.com/releases/28094374
-The Oliver Stone Connection - 1998 - https://api.discogs.com/masters/446669
-Café Ibiza - 1999 - https://api.discogs.com/releases/425915
-Mystic Moods II - 1999 - https://api.discogs.com/releases/7289423
-Reflections Of Silence - 1999 - https://api.discogs.com/releases/28900834
-Nocturna - 1999 - https://api.discogs.com/masters/2593175
-Ambient Moods: An Album Of Chill-Out Tunes - 2000 - https://api.discogs.com/releases/3835497
-The White Disc Volume 70 - 2000 - https://api.discogs.com/releases/14796457
-Future Hits - 177 - 2000 - https://api.discogs.com/releases/15422016
-Eterea (La Musica Dell'Anima Più Bella Del Mondo) - 2000 - https://api.discogs.com/masters/3373096
-Miniatures 2 - 2000 - https://api.discogs.com/masters/1467903
-Café Del Mar Dreams - 2000 - https://api.discogs.com/masters/578559
-Ochenta Y Pop Volumen Dos - 2001 - https://api.discogs.com/releases/1698242
-Chillout Moods - Another Green World - 2001 - https://api.discogs.com/releases/1727521
-NPR: All Songs Considered - 2001 - https://api.discogs.com/releases/14694703
-Auntie Aubrey's Excursions Beyond The Call Of Duty Part 2: The Orb Remix Project - 2001 - https://api.discogs.com/masters/7524
-Chillout Moods - 2001 - https://api.discogs.com/masters/205690
-Technodubfest - 2002 - https://api.discogs.com/releases/52313
-Metrópolis. Laboratorio 84.02 - 2002 - https://api.discogs.com/releases/3954218
-Eternity II L'Album Più Rilassante Del Mondo - 2002 - https://api.discogs.com/masters/2888482
-CreamCollect Balearic - 2002 - https://api.discogs.com/masters/618949
-Ibiza - The History Of Chillout - 2003 - https://api.discogs.com/releases/451418
-Smala Sussie (Filmmusik) - 2003 - https://api.discogs.com/releases/7933098
-Es.sentially - The Es.Hotel Music Selection - 2003 - https://api.discogs.com/releases/10593255
-Lady Melancolica - 2003 - https://api.discogs.com/releases/11264116
-Unknown Public 15 - Dancing/Listening - 2003 - https://api.discogs.com/releases/11384574
-Keep It Quiet! Classic Chill Out Sounds - 2003 - https://api.discogs.com/releases/15539365
-Aqua Mundi - 2003 - https://api.discogs.com/releases/20408584
-MIDEM Sampler 2003 - 2003 - https://api.discogs.com/masters/3140382
-Café Del Mar - The Best Of - Compiled By José Padilla - 2003 - https://api.discogs.com/masters/8754
-Chiller Cabinet - 2003 - https://api.discogs.com/masters/1955650
-Γιάννης Πετρίδης - 30 Χρόνια Απογεύματα Στην ΕΡΤ Από Τις 4 Στις 5 - EMI Years - 2004 - https://api.discogs.com/releases/3204539
-Ultimate Chillout - 2004 - https://api.discogs.com/releases/7345446
-Best Of Chillout - 2004 - https://api.discogs.com/releases/8054591
-Tutto Spot Compilation Inverno 2004 - 2004 - https://api.discogs.com/releases/21019936
-Boomkat Selected Mixtapes Volume 9 - "Save Your Raps, Say Gas" - 2005 - https://api.discogs.com/releases/480444
-Hollywood Cool - 2005 - https://api.discogs.com/releases/13992341
-It's All Gone Pete Tong: Original Soundtrack Recording - 2005 - https://api.discogs.com/masters/95588
-Illusions - 2006 - https://api.discogs.com/releases/3580747
-Ethnica - The Ultimate Ethnic Collection Vol. 4 - 2006 - https://api.discogs.com/releases/10279212
-Life Gallery Athens - Awake Your Senses - Music Gallery 1 - 2006 - https://api.discogs.com/releases/11973887
-The Lounge Classics Volume 1 - 2006 - https://api.discogs.com/releases/12133588
-The Art Of Chill 4 - 2007 - https://api.discogs.com/releases/1090729
-25 Ans De Musique D'avant Nova - 2007 - https://api.discogs.com/releases/1291688
-The Original Chillout Box Set - 2007 - https://api.discogs.com/releases/4691361
-The Triptych - 2007 - https://api.discogs.com/masters/242950
-Rough Trade Shops: Counter Culture 1976 - 2007 - https://api.discogs.com/masters/366780
-Rough Trade Shops - Counter Culture 06 / Counter Culture 1976 - 2007 - https://api.discogs.com/masters/400608
-100 Trésors Cachés Volume 2 (Chansons Rares & Indispensables) - 2008 - https://api.discogs.com/releases/6915875
- Lullabies With No Words - 2008 - https://api.discogs.com/releases/15981938
-Miniatures One+Two - 2008 - https://api.discogs.com/masters/1733668
-The Art Of Chill 5 - 2008 - https://api.discogs.com/masters/121697
-Louisiana - 2009 - https://api.discogs.com/releases/3776905
-Mary And Max: Music From The Motion Picture - 2009 - https://api.discogs.com/releases/9362618
-Sundays In The Park - 2009 - https://api.discogs.com/releases/25908355
-FACT Mix 113 - 2010 - https://api.discogs.com/releases/2089052
-Collection: The Best Songs Of Ibiza's Sunset - 2010 - https://api.discogs.com/releases/4519226
-101 Ibiza Anthems - 2010 - https://api.discogs.com/releases/5513535
-Original Hits - Chillout - 2010 - https://api.discogs.com/releases/8017298
-Café Del Mar Ibiza (Volumen Uno Y Dos) - 2010 - https://api.discogs.com/masters/284176
-Pacha Ibiza Chillout Classics - 2011 - https://api.discogs.com/releases/2970378
-100 Hits Dance Classics - 2011 - https://api.discogs.com/releases/8636780
-Chilling Air - 2011 - https://api.discogs.com/releases/16350651
-Balearic Blend - 2012 - https://api.discogs.com/releases/4104416
-Balearic Ambient - 2012 - https://api.discogs.com/releases/4106786
-Balearic World - 2012 - https://api.discogs.com/releases/4109472
-Massive Hits! Chillout - 2013 - https://api.discogs.com/releases/4695102
-FACT Mix 463 - 2014 - https://api.discogs.com/releases/6882943
-Café Del Mar ~ Ibiza (Volumen Uno, Dos Y Tres) - 20th Anniversary - 2014 - https://api.discogs.com/releases/11404579
-XPLAYMIX 12 | 2015: Petr Dorůžka × Respect Festival - 2015 - https://api.discogs.com/releases/7105780
-Illusions - 2015 - https://api.discogs.com/releases/11363914
-Pure Moods - 2015 - https://api.discogs.com/releases/11967615
-LateNightTales - 2015 - https://api.discogs.com/masters/884701
-La Torre Volumen Uno - 2016 - https://api.discogs.com/masters/1059191
-Puur Genieten 2 (Pascale Naessens) - 2017 - https://api.discogs.com/releases/30394418
-Countryfile - The Album - 2018 - https://api.discogs.com/releases/13533060
-Erased Tapes Collection IX - 2018 - https://api.discogs.com/masters/1324333
-Isolatedmix 91 - Dream Collar - 2019 - https://api.discogs.com/releases/13903219
-Life Moves Pretty Fast. (The John Hughes Mixtapes) - 2022 - https://api.discogs.com/masters/2862382
-Moods 2 - Desconocido - https://api.discogs.com/releases/10112082
-A Musical Trip Into The Celluloid World Of Oliver Stone - 1998 - https://api.discogs.com/releases/24084668
-Café Del Mar - Ibiza - Volumen Uno - 1998 - https://api.discogs.com/masters/260724
-Ambient - Around The World '99 - 1999 - https://api.discogs.com/releases/1963231
-Signs Of Life - 2001 - https://api.discogs.com/masters/25099
-Café Del Mar - Ultimate Collection - 2002 - https://api.discogs.com/releases/6307780
-Lounge Volume 3 - 2003 - https://api.discogs.com/releases/6753630
-Happy New Year Band. Trip Orchestra. 2003 - 2003 - https://api.discogs.com/releases/19245382
-Café Del Mar - The Best Of - Compiled By José Padilla - 2003 - https://api.discogs.com/masters/8754
-Cafe Del Mar. Часть 1-2 - 2004 - https://api.discogs.com/releases/8321710
-1981 - 2004 - https://api.discogs.com/releases/10096281
-Café Del Mar Collection MP3 - 2004 - https://api.discogs.com/releases/24420473
-Café Del Mar Ibiza (Volumen Uno Y Dos) - 2010 - https://api.discogs.com/masters/284176
-White Light 104 - 2014 - https://api.discogs.com/releases/5929476
-Roentgen Diary Music - Desconocido - https://api.discogs.com/releases/15107311
-The Best Of Café Del Mar Part 1 - Desconocido - https://api.discogs.com/releases/16900980
-Music From The Penguin Cafe - Desconocido - https://api.discogs.com/masters/25053
-Penguin Cafe Orchestra - Desconocido - https://api.discogs.com/masters/25060
-Broadcasting From Home - Desconocido - https://api.discogs.com/masters/25075
+Rosé, A Fine Wine To Be Enjoyed By Couples Or Friends At Any Occasion - 2012 - https://api.discogs.com/releases/3873679
+Colpi Proibiti - 2012 - https://api.discogs.com/releases/4033374
+Dreads 85 84 - 2012 - https://api.discogs.com/masters/690435
+No Passion All Technique - 2012 - https://api.discogs.com/masters/535250
+Vari-Speed Mithridates  - 2013 - https://api.discogs.com/releases/5229971
+Scum, Rise! - 2014 - https://api.discogs.com/releases/10033108
+Under Color Of Official Right - 2014 - https://api.discogs.com/masters/671224
+580 Memories - 2015 - https://api.discogs.com/releases/7506828
+A Half Of Seven - 2015 - https://api.discogs.com/releases/7550805
+Dredging The Grotto - 2015 - https://api.discogs.com/releases/7586681
+Jumbo's (Live) - 2015 - https://api.discogs.com/releases/7990588
+Dope Cloud - 2015 - https://api.discogs.com/releases/8007089
+580 Memories - 2015 - https://api.discogs.com/releases/27501096
+The Agent Intellect - 2015 - https://api.discogs.com/masters/895647
+Born To Be Wine - 2016 - https://api.discogs.com/releases/8863980
+Don't Go To Anacita - 2017 - https://api.discogs.com/releases/11414846
+My Children - 2017 - https://api.discogs.com/releases/11414864
+Live At Vera - 2017 - https://api.discogs.com/masters/1286089
+Relatives In Descent  - 2017 - https://api.discogs.com/masters/1243383
+Irony Prompts A Party Rat - 2018 - https://api.discogs.com/masters/1407277
+Consolation E.P. - 2018 - https://api.discogs.com/masters/1378479
+Telemetry At Howe Bridge - 2018 - https://api.discogs.com/masters/1452853
+Security By Shadow - 2020 - https://api.discogs.com/releases/16672131
+Processed By The Boys  - 2020 - https://api.discogs.com/releases/17277793
+Ultimate Success Today - 2020 - https://api.discogs.com/masters/1772987
+How He Lived After He Died (Live At Sugar Hill Supper Club) - 2023 - https://api.discogs.com/releases/27479652
+Formal Growth In The Desert - 2023 - https://api.discogs.com/masters/3118365
+The Dirty Nil Record Club Volume 6 - 2017 - https://api.discogs.com/releases/9837952
+Musik Zur Zeit  CD 139  Spex No.376 - 2017 - https://api.discogs.com/releases/10735472
+Reality - 2024 - https://api.discogs.com/masters/3436247
+Duck Punk Compilation - 2013 - https://api.discogs.com/releases/5445239
+Sub Pop 1000 - 2013 - https://api.discogs.com/masters/674547
+Isthebest - 2014 - https://api.discogs.com/releases/5903039
+La Route du Rock - La Compilation 2014 - 2014 - https://api.discogs.com/releases/6178368
+Rough Trade Shops (Counter Culture 14) - 2014 - https://api.discogs.com/releases/6626158
+50 Bands & A Cat For Indiana Equality - 2015 - https://api.discogs.com/releases/6929429
+Fiends In Low Places - 2015 - https://api.discogs.com/releases/7027398
+2015 Joyful Noise Flexi-Disc Series Limited Box Set - 2015 - https://api.discogs.com/releases/7363704
+The Hardly Art Sampler Thing Vol. One - 2015 - https://api.discogs.com/releases/7657476
+We Deliver The Goods (Cargosampler #179/15) - 2015 - https://api.discogs.com/releases/7754955
+The Current Sampler Of Music From Hardly Art Records (December 2015) - 2015 - https://api.discogs.com/releases/8146142
+The Current Sampler Of Music From Hardly Art Records (September 2015) - 2015 - https://api.discogs.com/releases/8146209
+Friendly Enemies (The Hi-Lo Tunez Plan: 21st Step) - 2015 - https://api.discogs.com/masters/1784497
+Mind The Gap #120 - 2016 - https://api.discogs.com/releases/8518764
+Adult Swim Singles Program 2016 - 2016 - https://api.discogs.com/releases/13643336
+Start Your Own Fucking Show Space - 2016 - https://api.discogs.com/masters/1133963
+Hardly Art Hardly Released. Bedroom Recordings, Demos, Rarities, Unreleased, And Widely Ignored Material - 2017 - https://api.discogs.com/releases/10373096
+Musik Zur Zeit  CD 139  Spex No.376 - 2017 - https://api.discogs.com/releases/10735472
+Roll Up! Roll Up! (15 Tracks Of The Month's Best Music) - 2017 - https://api.discogs.com/releases/10843249
+All Areas Volume 200 - 2017 - https://api.discogs.com/releases/10949211
+Hostess Sampler 2017 Oct - Nov - 2017 - https://api.discogs.com/releases/14080317
+Our First 100 Days - 2017 - https://api.discogs.com/masters/1174271
+La Route Du Rock - La Compilation 2018 - 2018 - https://api.discogs.com/releases/13630427
+Atmospheres (Mojo Presents Post-Punk 2020) - 2020 - https://api.discogs.com/releases/14686594
+Got A Feeling (15 Tracks Of The Month's Best Music) - 2020 - https://api.discogs.com/releases/15494761
+Ultra Mono - 2020 - https://api.discogs.com/masters/1809205
+Musikexpress 06/23 - 2023 - https://api.discogs.com/releases/27033801
+DMC - Rock Indie Radio (Vol.14) - May 2023 - 2023 - https://api.discogs.com/releases/27066144
+All Areas Volume 262 - 2023 - https://api.discogs.com/releases/27194991
+Juin 2023 - 2023 - https://api.discogs.com/releases/27256206
+DMC - Rock Indie Radio (Vol.16) - July 2023 - 2023 - https://api.discogs.com/releases/27672846
+(917) 471-2855 - 2013 - https://api.discogs.com/releases/4997659
+(917) 471-2855 - 2013 - https://api.discogs.com/releases/26334704
+"Life Changing Tribute" - Desconocido - https://api.discogs.com/releases/29898874
