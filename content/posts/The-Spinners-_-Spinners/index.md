@@ -1,0 +1,63 @@
+---
+title: "The Spinners - Spinners"
+date: 2024-06-20T13:15:15+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - soul
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (The-Spinners - Spinners))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://buffcatrecords.bandcamp.com/album/the-spinners)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/220115)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/cda576df-8313-423a-9029-9426c6f664f9)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Spinners)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PL6E13CFAEE3894CFD)
+ 
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 1978
+> 
+> **Géneros**: Funk / Soul
+> 
+> **Estilos**: Soul
+> 
+> **Tracklist:**
+> 
+>   A1. I'll Be Around 
+> (feat. Phil Hurtt & Thom Bell)   3:10
+> 
+>   A2. How Could I Let You Get Away 
+> (feat. Yvette Davis)   3:45
+> 
+>   A3. One Of A Kind (Love Affair) 
+> (feat. Joseph Jefferson)   3:19
+> 
+>   A4. Mighty Love 
+> (feat. Bruce Hawes & Charles Simmons (2) & Joseph Jefferson)   4:56
+> 
+>   A5. Ghetto Child 
+> (feat. Linda Creed & Thom Bell)   3:47
+> 
+>   B1. Then Came You 
+> (feat. Dionne Warwick & Phillip T. Pugh & Sherman Marshall)   3:57
+> 
+>   B2. Sadie 
+> (feat. Bruce Hawes & Charles Simmons (2) & Joseph Jefferson)   3:30
+> 
+>   B3. Could It Be I'm Falling In Love 
+> (feat. Mervin And Melvin Steals)   4:12
+> 
+>   B4. They Just Can't Stop It The (Games People Play) 
+> (feat. Bruce Hawes & Charles Simmons (2) & Joseph Jefferson)   3:28
+> 
+>   B5. The Rubberband Man 
+> (feat. Linda Creed & Thom Bell)   3:32
+> 
