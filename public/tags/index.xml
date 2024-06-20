@@ -6,25 +6,7 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 20 Jun 2024 22:47:23 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>deep</title>
-      <link>/tags/deep/</link>
-      <pubDate>Thu, 20 Jun 2024 22:47:23 +0200</pubDate>
-      
-      <guid>/tags/deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech-house</title>
-      <link>/tags/tech-house/</link>
-      <pubDate>Thu, 20 Jun 2024 22:47:23 +0200</pubDate>
-      
-      <guid>/tags/tech-house/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 20 Jun 2024 22:43:16 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>electro</title>
       <link>/tags/electro/</link>
@@ -103,6 +85,15 @@
       <pubDate>Thu, 20 Jun 2024 21:48:21 +0200</pubDate>
       
       <guid>/tags/shoegaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep</title>
+      <link>/tags/deep/</link>
+      <pubDate>Thu, 20 Jun 2024 21:35:50 +0200</pubDate>
+      
+      <guid>/tags/deep/</guid>
       <description></description>
     </item>
     
