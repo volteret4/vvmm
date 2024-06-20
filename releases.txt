@@ -1,32 +1,5 @@
 Listado de releases del artista:
-Baianá - 2022 - https://api.discogs.com/releases/25004005
-Forbidden Feelingz  - 2022 - https://api.discogs.com/masters/2704013
-Mash Up The Dance - 2022 - https://api.discogs.com/masters/2903608
-Sunrise Bang Ur Head Against Tha Wall (Remixes) - 2023 - https://api.discogs.com/releases/27082296
-Sunrise Bang Ur Head Against Tha Wall - 2023 - https://api.discogs.com/releases/30398114
-Sunrise Bang Ur Head Against Tha Wall - 2023 - https://api.discogs.com/masters/3010811
-Crowded Roomz - 2024 - https://api.discogs.com/releases/29555260
-Silence Is Loud - 2024 - https://api.discogs.com/releases/30919221
-Silence Is Loud - 2024 - https://api.discogs.com/masters/3455408
-Conveniency - Desconocido - https://api.discogs.com/releases/27214995
-DMC - Cool Grooves 82 - Feb 2022 - 2022 - https://api.discogs.com/releases/22117978
-DMC DJ Promo 287 - Jan 2023 - 2022 - https://api.discogs.com/releases/25516456
-Harlecore Remixes - 2022 - https://api.discogs.com/masters/3088281
-To Hell With It (Remixes) - 2022 - https://api.discogs.com/masters/2638778
-Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
-Little Things (Nia Archives Remix) - 2023 - https://api.discogs.com/masters/3189069
-USB - 2024 - https://api.discogs.com/masters/3379432
-Mash Up The Dance / Out The Gate - 2022 - https://api.discogs.com/masters/2903608
-Future Symptoms - 2021 - https://api.discogs.com/releases/18089788
-Outside - 2021 - https://api.discogs.com/masters/2255518
-Hospital Mixtape: Lens - 2022 - https://api.discogs.com/releases/22732529
-What I Breathe - 2022 - https://api.discogs.com/masters/2740331
-Mash Up The Dance / Out The Gate - 2022 - https://api.discogs.com/masters/2903608
-Pro Disc 266 - 2022 - https://api.discogs.com/releases/27230637
-Pro Disc 266 - 2022 - https://api.discogs.com/releases/27420987
-The Annual 2023 - 2022 - https://api.discogs.com/masters/2891959
-Mash Up The Dance / Out The Gate - 2022 - https://api.discogs.com/masters/2903608
-DMC - Cool Grooves 95 - March 2023 - 2023 - https://api.discogs.com/releases/26436155
-Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
-The Annual 2024 - 2023 - https://api.discogs.com/releases/29473525
-Mai 2024 - 2024 - https://api.discogs.com/releases/30546310
+Knob - 2019 - https://api.discogs.com/masters/1740946
+Haven - 2020 - https://api.discogs.com/masters/1826362
+Over Tage - 2022 - https://api.discogs.com/masters/2857264
+At Home (An NPR Tiny Desk Concert) - 2023 - https://api.discogs.com/masters/3376504

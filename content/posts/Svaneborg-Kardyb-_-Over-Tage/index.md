@@ -1,0 +1,53 @@
+---
+title: "Svaneborg Kardyb - Over Tage"
+date: 2024-06-20T13:03:57+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - jazz
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Svaneborg-Kardyb - Over-Tage))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2857264)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f55d89fb-bc0d-4d89-a222-895f386bf9a8)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/44pjaIp79cn38UjiGts0Cb)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](None)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLeaDFYdAXTNYDg5_3mytEKdje4k0ULBk5)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2022
+> 
+> **Géneros**: Jazz
+> 
+> **Estilos**: Contemporary Jazz
+> 
+> **Tracklist:**
+> 
+>   A1. Op    
+> 
+>   A2. Fragt    
+> 
+>   A3. Orbit    
+> 
+>   A4. Farvel    
+> 
+>   A5. Island    
+> 
+>   B1. Orkaner    
+> 
+>   B2. Blik    
+> 
+>   B3. Everything Possible    
+> 
+>   B4. Ubemærket    
+> 
+>   B5. Over Tage    
+> 

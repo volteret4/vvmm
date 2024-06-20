@@ -6,7 +6,16 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 20 Jun 2024 12:57:15 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 13:03:57 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jazz</title>
+      <link>/tags/jazz/</link>
+      <pubDate>Thu, 20 Jun 2024 13:03:57 +0200</pubDate>
+      
+      <guid>/tags/jazz/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dnb</title>
       <link>/tags/dnb/</link>
@@ -130,15 +139,6 @@
       <pubDate>Sun, 16 Jun 2024 16:35:06 +0200</pubDate>
       
       <guid>/tags/funk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jazz</title>
-      <link>/tags/jazz/</link>
-      <pubDate>Sun, 16 Jun 2024 16:35:06 +0200</pubDate>
-      
-      <guid>/tags/jazz/</guid>
       <description></description>
     </item>
     
