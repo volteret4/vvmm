@@ -1,6 +1,6 @@
 ---
 title: "Terraplana - Olhar Pra Tras"
-date: 2024-06-20T16:10:46+02:00
+date: 2024-06-20T16:14:16+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -33,10 +33,14 @@ tags:
 > 
 > **Sello:** Not On Label (Terraplana Self-released)
 > 
-> **Colaborador 1:** Stephani Heuczuk - Bass
-> **Colaborador 2:** Wendeu Silverio - Drums
-> **Colaborador 3:** Matheus Teles - Vocals, Guitar
-> **Colaborador 4:** Vinícius Lourenço - Vocals, Guitar, Synthesizer, Recorded By, Mixed By, Mastered By, Photography By
+> **Stephani** - Bass
+> 
+> **Wendeu** - Drums
+> 
+> **Matheus** - Vocals, Guitar
+> 
+> **Vinícius** - Vocals, Guitar, Synthesizer, Recorded By, Mixed By, Mastered By, Photography By
+> 
 > 
 > 
 > **Tracklist:**
