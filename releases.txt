@@ -1,138 +1,98 @@
 Listado de releases del artista:
-Journey Into Sound / Respect It - 1996 - https://api.discogs.com/releases/399622
-Hyponosis / Philosofy - 1996 - https://api.discogs.com/releases/3878847
-Lessons / Times Out - 1996 - https://api.discogs.com/masters/854096
-Beware / Crazy Juice - 1996 - https://api.discogs.com/masters/300776
-Live And Direct - 1996 - https://api.discogs.com/masters/300779
-Voodoo - 1997 - https://api.discogs.com/releases/1069177
-Beings / Bolted - 1997 - https://api.discogs.com/masters/472792
-The Smokers Inc. (Remixes) - 1997 - https://api.discogs.com/masters/408484
-Low Down / Octane - 1998 - https://api.discogs.com/masters/395941
-Wreckage / Asylum - 1998 - https://api.discogs.com/masters/250042
-Cazms / Dekweef - 1998 - https://api.discogs.com/masters/172306
-Beings (Remix) / Philosophy - 1998 - https://api.discogs.com/masters/206123
-Rupture / Cryptix - 1998 - https://api.discogs.com/masters/203667
-Whole Car / Fat Cap - 1998 - https://api.discogs.com/masters/14844
-Stutter / Kromedome - 1999 - https://api.discogs.com/masters/14849
-Capture / Stark - 2000 - https://api.discogs.com/releases/5105
-Studly / Terrordome - 2001 - https://api.discogs.com/releases/9393
-Contagious Drum And Bass Volume 2 - 2001 - https://api.discogs.com/releases/690912
-Beings - 2003 - https://api.discogs.com/releases/4797348
-Mantra / Immeasurable Minds - 2003 - https://api.discogs.com/masters/231475
-Paperclip / Incendry - 2004 - https://api.discogs.com/masters/231415
-Asylum / Intro Toon / Kiss 100 FM Jingles - 2008 - https://api.discogs.com/releases/4797353
-The Ghost E.P. - 2009 - https://api.discogs.com/masters/14852
-Demon Eyes / Bass Come Out So Clear - 2010 - https://api.discogs.com/masters/413256
-Koga / Beat Dis - 2012 - https://api.discogs.com/masters/729860
-Biotic 13 - 2018 - https://api.discogs.com/releases/13874183
-Biotic 14 - 2019 - https://api.discogs.com/releases/13874170
-Lab Tests Vol​. ​2 - 2021 - https://api.discogs.com/releases/19588948
-Invasions EP - 2021 - https://api.discogs.com/releases/20299411
-XXX 11 (Demon Eyes Remixes) - 2021 - https://api.discogs.com/releases/22632665
-Killa Bullet / Stutter - Desconocido - https://api.discogs.com/releases/4329874
-Somebody / Need You Now - Desconocido - https://api.discogs.com/releases/13151388
-Smokers Inc - Volume One - The No Smoking Selection - 1996 - https://api.discogs.com/masters/6680
-East Side Jamz Volume One Sampler - 1998 - https://api.discogs.com/masters/571766
-East Side Jamz Volume One - 1998 - https://api.discogs.com/masters/45008
-EXIST​​:​​ENCE 2021 - 2022 - https://api.discogs.com/releases/22738733
-Dog Style / Beware Of .. - 1995 - https://api.discogs.com/releases/283964
-Step 2 Me / Payback - 1995 - https://api.discogs.com/masters/360199
-Just Roll / Gang Related - 1995 - https://api.discogs.com/masters/3177255
-The Berlin Connection - 1996 - https://api.discogs.com/releases/408410
-Smokers Inc - Volume One - The No Smoking Selection - 1996 - https://api.discogs.com/masters/6680
-Funkula - 1996 - https://api.discogs.com/masters/6693
-Gangsta Boogie / Dont Play - 1996 - https://api.discogs.com/masters/6708
-Badself / Flipside - 1996 - https://api.discogs.com/masters/470161
-Far Away - 1996 - https://api.discogs.com/masters/1555095
-Buttfucker - 1996 - https://api.discogs.com/masters/517808
-Smokers Vol II - 1996 - https://api.discogs.com/masters/1405122
-Mixdat (Run It) / Beeside - 1996 - https://api.discogs.com/masters/554247
-Like Dis / Applebum - 1996 - https://api.discogs.com/masters/152859
-Work Dat Sucker / Some DJ's - 1996 - https://api.discogs.com/masters/404295
-Rock Da Funky Beat / Check The Method (Remix) - 1996 - https://api.discogs.com/masters/542604
-Chemistry / Don't Be Afraid - 1996 - https://api.discogs.com/masters/31116
-Gettin' Busy - 1996 - https://api.discogs.com/masters/333718
-Dogz On Da Set / Step - 1996 - https://api.discogs.com/masters/296418
-Stand Bold / Jazz Creation - 1996 - https://api.discogs.com/masters/322019
-Scuzzy / This DJ - 1997 - https://api.discogs.com/releases/247222
-Armed Robbery / Oscillate - 1997 - https://api.discogs.com/releases/253653
-It Is Real / Society - 1997 - https://api.discogs.com/masters/301667
-Col' Rock Stuff / Player Hater - 1997 - https://api.discogs.com/masters/209691
-Volume 5 - 1998 - https://api.discogs.com/masters/301671
-Dogz (Remix) / Ghettomusic - 1998 - https://api.discogs.com/masters/72393
-Dual Action - 1998 - https://api.discogs.com/masters/206121
-East Side Jamz Volume One - 1998 - https://api.discogs.com/masters/45008
-Chemical Generation Volume 2 - 1999 - https://api.discogs.com/releases/396988
-High Density / Another World - 1999 - https://api.discogs.com/masters/155783
-Resistance / Silverfish - 1999 - https://api.discogs.com/masters/945817
-Voodoo Doll / Bitch - 1999 - https://api.discogs.com/masters/500918
-Pink Factor / Keep Stepping - 1999 - https://api.discogs.com/masters/455101
-Contagious Drum And Bass Volume 1 - 2000 - https://api.discogs.com/releases/690905
-Segments / Imposter - 2000 - https://api.discogs.com/masters/444433
-Corkscrew / Landmine - 2000 - https://api.discogs.com/masters/614474
-Awareness / Terminal - 2000 - https://api.discogs.com/masters/45180
-Scope / Deal It - 2000 - https://api.discogs.com/masters/97922
-Grip / Luminous - 2000 - https://api.discogs.com/masters/201904
-Hydrogen / Shifter - 2000 - https://api.discogs.com/masters/201913
-The Cage - 2000 - https://api.discogs.com/masters/194768
-First Contact - 2000 - https://api.discogs.com/masters/173297
-Underpass / Prologue - 2000 - https://api.discogs.com/masters/204083
-Drama / Burner - 2000 - https://api.discogs.com/masters/512901
-Return (Remix) / Images - 2000 - https://api.discogs.com/masters/14767
-Trapped In Beats EP - 2000 - https://api.discogs.com/masters/385485
-Mechanize / Battle Angel - 2000 - https://api.discogs.com/masters/440304
-Mayday / Two Thirds - 2001 - https://api.discogs.com/releases/21627
-Break Em Up / Cracked OPX - 2001 - https://api.discogs.com/masters/281125
-Bomb Squad / Freefall - 2001 - https://api.discogs.com/masters/201912
-Closer / Motion - 2001 - https://api.discogs.com/masters/201914
-Just Wont Stop / Earth - 2001 - https://api.discogs.com/masters/204084
-Steel / Sleepwalking - 2001 - https://api.discogs.com/masters/2071375
-SpeedBall (60 Minutes Jungle DrumAndBass Mix) - 2002 - https://api.discogs.com/releases/406735
-Contagious Drum And Bass Volume 3 - 2002 - https://api.discogs.com/releases/600208
-Contagious Drum And Bass Volume 4 - 2003 - https://api.discogs.com/releases/179659
-Wow - What A Rush!! 9 - 2003 - https://api.discogs.com/releases/333631
-Candy Flip / Existence - 2003 - https://api.discogs.com/masters/553076
-Drama / Ignition Sequence - 2003 - https://api.discogs.com/masters/324359
-Scar / Twilight - 2003 - https://api.discogs.com/masters/276301
-Screaming Soul - 2003 - https://api.discogs.com/masters/324014
-Feedback (Back 2 Basics Remix) / My Nation - 2004 - https://api.discogs.com/masters/445981
-Commercial Length Cuts 67 - 2006 - https://api.discogs.com/releases/24552842
-Lab Tests Vol​.​3 - 2021 - https://api.discogs.com/releases/19588852
-The Rozzer EP - 2022 - https://api.discogs.com/releases/25238737
-Essential Drum & Bass ('Exclusive Tracks From The UK Underground') - 1997 - https://api.discogs.com/releases/105884
-Criminology - 1997 - https://api.discogs.com/releases/3358427
-Drums Doctrine - 1997 - https://api.discogs.com/releases/13692797
-Beings / Rollin Beats - 1997 - https://api.discogs.com/releases/27354675
-Jungle Talk - 1997 - https://api.discogs.com/masters/259402
-The Lowdown 2 - 1998 - https://api.discogs.com/releases/14942
-Tech Jazz - 1998 - https://api.discogs.com/releases/3431934
-JumpUpThrowDown - 1998 - https://api.discogs.com/masters/24157
-Sixeleven DJ Mixseries Volume One - 1998 - https://api.discogs.com/masters/9499
-Bootleggers Volume Two - 1999 - https://api.discogs.com/releases/75714
-Back In Black - 1999 - https://api.discogs.com/releases/3358528
-The Mile High Club - 1999 - https://api.discogs.com/releases/3899891
-Ruffneckz - 1999 - https://api.discogs.com/releases/12875367
-Type IV: Funk - 1999 - https://api.discogs.com/releases/27029262
-Essential Drum & Bass Six-Pack - 2000 - https://api.discogs.com/releases/6973
-Contagious Drum And Bass Volume 1 - 2000 - https://api.discogs.com/releases/690905
-20th Century Dust E.P. - 2000 - https://api.discogs.com/masters/65620
-SPB Drum And Bass Volume 2 - 2001 - https://api.discogs.com/releases/3387577
-Penitentiary EP - 2001 - https://api.discogs.com/masters/71280
-Hip Hop 2023 - 2001 - https://api.discogs.com/masters/45021
-Preservation - 2002 - https://api.discogs.com/releases/3432043
-EXIST​:​ENCE 2002 - 2002 - https://api.discogs.com/releases/14671633
-Resonance - 2002 - https://api.discogs.com/masters/471062
-XXX The Making Of... - 2003 - https://api.discogs.com/releases/179653
-The Prophet EP - 2003 - https://api.discogs.com/masters/71277
-RESIST:ED FIVE - 2020 - https://api.discogs.com/masters/1887609
-RESIST:ED SIX - 2021 - https://api.discogs.com/masters/2166517
-EXIST​​:​​ENCE 2021 - 2022 - https://api.discogs.com/releases/22738733
-Untitled - Desconocido - https://api.discogs.com/releases/2805652
-Drum 'N' Bass - Desconocido - https://api.discogs.com/releases/3157188
-Hardstep Jungle - 1997 - https://api.discogs.com/masters/259402
-Club Express Jungle '99 - 1999 - https://api.discogs.com/releases/1206667
-Narcotic Jungle Drum 'N Bass - 1999 - https://api.discogs.com/releases/5398794
-Precision - 2000 - https://api.discogs.com/releases/743649
-Drum'n'Bass - 2000 - https://api.discogs.com/releases/3709598
-Jungle - 2001 - https://api.discogs.com/releases/9529668
-Entertainment For Ravers - Desconocido - https://api.discogs.com/releases/6402198
+Mermaids - 1991 - https://api.discogs.com/masters/67438
+Rankine - 1992 - https://api.discogs.com/releases/133503
+Fila Funk / Rankine (Live At Bounce) - 1993 - https://api.discogs.com/masters/358811
+Slacker - 1994 - https://api.discogs.com/masters/236712
+Old Codes New Chaos - 1994 - https://api.discogs.com/masters/67447
+Pots & Pans / The Sheriff - 1994 - https://api.discogs.com/masters/35229
+Brazilification - 1994 - https://api.discogs.com/masters/35237
+Maim That Tune - 1995 - https://api.discogs.com/masters/67440
+A Zed & Two L's / Harmonicas Are Shite - 1995 - https://api.discogs.com/masters/389060
+Soft Music Under Stars / Blood - 1996 - https://api.discogs.com/releases/129243
+Pelé / Sócrates - 1996 - https://api.discogs.com/masters/146614
+Mess - 1996 - https://api.discogs.com/masters/67441
+Black Market Gardening - 1996 - https://api.discogs.com/masters/67448
+Sycot Motion EP - 1996 - https://api.discogs.com/masters/35245
+Wigs, Bifocals And Nurishment - 1997 - https://api.discogs.com/masters/1446739
+Luck Be A Weirdo Tonight - 1997 - https://api.discogs.com/masters/67446
+Throwing Down A Shape - 1998 - https://api.discogs.com/releases/72695
+Bovine Funk / Here Comes Pissy Willy - 1998 - https://api.discogs.com/releases/94222
+The Speewah / Feathery Legs - 1998 - https://api.discogs.com/masters/322704
+Power Clown - 1998 - https://api.discogs.com/masters/67451
+Bitten Bugs - 1999 - https://api.discogs.com/masters/2437639
+Brazilification (Remixes 95-99) - 1999 - https://api.discogs.com/masters/79020
+A Touch Of Cloth - 1999 - https://api.discogs.com/masters/67439
+Ridden Pony - 1999 - https://api.discogs.com/masters/35253
+Spill The Beans - 2001 - https://api.discogs.com/releases/70840
+Nature Boy (AnotherLateNight) - 2001 - https://api.discogs.com/releases/96334
+FB@V&A - 2001 - https://api.discogs.com/releases/184605
+AnotherLateNight - 2001 - https://api.discogs.com/masters/193080
+We Build Arks (Remixes) - 2002 - https://api.discogs.com/masters/193081
+Three White Roses & A Budd - 2002 - https://api.discogs.com/masters/449261
+Jump Leads - 2002 - https://api.discogs.com/masters/67445
+Saucy Joints EP - 2002 - https://api.discogs.com/masters/67462
+Fila Brazillia Versus A Certain Ratio - 2003 - https://api.discogs.com/masters/107087
+B2 - 2003 - https://api.discogs.com/masters/535474
+The Life And Times Of Phoebus Brumal - 2004 - https://api.discogs.com/releases/284675
+Dicks - 2004 - https://api.discogs.com/releases/324401
+The Goggle Box EP - 2004 - https://api.discogs.com/releases/338788
+Another Fine Mess - 2004 - https://api.discogs.com/masters/125112
+The Garden Compilation Volume One - 2005 - https://api.discogs.com/masters/322208
+Retrospective 1990-2006 - 2006 - https://api.discogs.com/masters/67443
+Neanderthal - 2007 - https://api.discogs.com/releases/1070652
+One Track Mind - 2007 - https://api.discogs.com/masters/1269782
+Play It Again, SIM. - 2009 - https://api.discogs.com/releases/2067334
+Played In Japan (Live / 30.7.2000) - 2018 - https://api.discogs.com/masters/1412003
+From The DATs - 2020 - https://api.discogs.com/releases/16004612
+From The DATs - 2020 - https://api.discogs.com/releases/21440464
+Jesus Saves, Pele Nets The Rebound  - 2020 - https://api.discogs.com/releases/21503410
+Kingsblood Royale  - 2020 - https://api.discogs.com/releases/21503482
+MMXX EP - 2020 - https://api.discogs.com/masters/1697522
+Bitten Bugs - 2021 - https://api.discogs.com/releases/17518978
+Apollyon - 2021 - https://api.discogs.com/releases/21503059
+Bulls Dozing - 2021 - https://api.discogs.com/releases/21503545
+All Worlds, All Times - 2021 - https://api.discogs.com/releases/23386241
+Mermaids - 2022 - https://api.discogs.com/releases/30639256
+Toro De Fuego  - 2023 - https://api.discogs.com/releases/26737445
+Beatless - 2023 - https://api.discogs.com/releases/29144542
+Retrospective Redux 90 → 22 - 2023 - https://api.discogs.com/masters/3120210
+Beatless - 2023 - https://api.discogs.com/masters/3353749
+Subtle Body - 2023 - https://api.discogs.com/masters/3064817
+Barefoot E.P. - 1994 - https://api.discogs.com/masters/33377
+Japanese Flute Remixes - 1995 - https://api.discogs.com/releases/71649
+Flippin' Tha Bird - 1995 - https://api.discogs.com/releases/107132
+Freedom - 1995 - https://api.discogs.com/masters/284182
+Tosh - 1995 - https://api.discogs.com/masters/116430
+Salt Peter Remixed (Revenge, The Sweetest Fruit.) - 1995 - https://api.discogs.com/masters/70383
+Shopping EP - 1995 - https://api.discogs.com/masters/408362
+Watch Me Now (All The Mixes And More) - 1995 - https://api.discogs.com/masters/84405
+The Chase EP - 1995 - https://api.discogs.com/masters/313295
+Refried Food Pts. 1 And 2 - 1996 - https://api.discogs.com/releases/17262
+The Night Shift - 1996 - https://api.discogs.com/releases/32547
+Middle Class Lady - 1996 - https://api.discogs.com/releases/47616
+A Gavin Hardkiss Mix "Weekend" - 1996 - https://api.discogs.com/releases/91888
+Fast Forward - 1996 - https://api.discogs.com/releases/805237
+Cool Vibes Volume 2 - 1996 - https://api.discogs.com/releases/1170928
+Trip Hop Sampler 2 - 1996 - https://api.discogs.com/releases/1305406
+Sonneti Sound Cuts '97 - 1996 - https://api.discogs.com/releases/3734037
+Salt Peter, Salt Peter Remixed - 1996 - https://api.discogs.com/releases/12567516
+Refried Food Lunchbox - 1996 - https://api.discogs.com/releases/14333752
+The Great Lotus Eaters Mix-Up Pt. 2 - 1996 - https://api.discogs.com/releases/19862203
+Dance Attack - 1996 - https://api.discogs.com/releases/28833634
+The Cream Of Trip Hop (Issue 4) - 1996 - https://api.discogs.com/masters/142854
+Vocal Versions - 1996 - https://api.discogs.com/masters/54306
+Dreams Aside - 1996 - https://api.discogs.com/masters/121961
+Flipmode Remixes - 1996 - https://api.discogs.com/masters/568443
+Slack Hands - 1996 - https://api.discogs.com/masters/269959
+Future Funk - 1996 - https://api.discogs.com/masters/1759383
+Woo Hah!! Got You All In Check - 1996 - https://api.discogs.com/masters/50851
+Bend - 1996 - https://api.discogs.com/masters/122532
+Batucada - 1996 - https://api.discogs.com/masters/146614
+Brazilian Explosion - 1996 - https://api.discogs.com/masters/149181
+Salt Peter - 1996 - https://api.discogs.com/masters/70377
+The Rebirth Of Cool Six - 1996 - https://api.discogs.com/masters/109804
+Cotton Wool - 1996 - https://api.discogs.com/masters/44782
+Lamb - 1996 - https://api.discogs.com/masters/44802
+Altered States - 1996 - https://api.discogs.com/masters/7981
+6 Underground - 1996 - https://api.discogs.com/masters/28483
+Truth Theme - 1996 - https://api.discogs.com/masters/367463

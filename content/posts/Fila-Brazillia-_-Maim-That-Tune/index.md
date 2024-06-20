@@ -1,0 +1,59 @@
+---
+title: "Fila Brazillia - Maim That Tune"
+date: 2024-06-20T19:02:45+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - downtempo
+ - acidjazz
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Fila-Brazillia - Maim-That-Tune))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/67440)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/da2432b3-0a57-494a-9233-f8c1356681f6)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLv0cmZ5d1IDGpTZZOzQENK1JARe3StUhd)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 1995
+> 
+> **Géneros**: Electronic
+> 
+> **Estilos**: Downtempo, Ambient, Trip Hop
+> 
+> **Pais:** Finland
+> 
+> **Votos:** Media de 4.6 con 5 votos
+> 
+> **Sello:** Luumu Recordings
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   1. Dave Yang & Steve Yin De-Swish T' Swish    6:42
+> 
+>   2. A Zed And Two L's    9:26
+> 
+>   3. Leggy    6:40
+> 
+>   4. At Home In Space    10:28
+> 
+>   5. 6ft Wasp    9:25
+> 
+>   6. Slacker    11:11
+> 
+>   7. Harmonicas Are Shite    6:31
+> 
+>   8. Extract Of Pineal Gland    7:14
+> 
+>   9. Subtle Body    9:04
+> 
