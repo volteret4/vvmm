@@ -1,0 +1,133 @@
+---
+title: "Jonny Nash - Point of Entry"
+date: 2024-06-20T22:17:06+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - ambient
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Jonny-Nash - Point-of-Entry))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3175785)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f95cdd5e-c559-4812-a79b-72b2eea69842)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=OLAK5uy_nrvFfUuv7EG61fs5p_ShH6UT4-b8DUSzg)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2023
+> 
+> **Géneros**: Electronic, Jazz
+> 
+> **Estilos**: Ambient, Dream Pop, Balearic
+> 
+> **Pais:** US
+> 
+> **Votos:** Media de 5.0 con 2 votos
+> 
+> **Sello:** Columbia
+> 
+> **Alto Saxophone** - Johnny Dodds
+> 
+> **Banjo** - Eddie Condon
+> 
+> **Banjo** - Johnny St. Cyr
+> 
+> **Banjo** - Mancy Carr
+> 
+> **Bass** - Pops Foster
+> 
+> **Clarinet** - Don Redman
+> 
+> **Clarinet** - Jimmie Noone
+> 
+> **Clarinet** - Jimmy Strong
+> 
+> **Clarinet** - Johnny Dodds
+> 
+> **Compilation Producer** - Phil Schaap
+> 
+> **Cornet** - Louis Armstrong
+> 
+> **Drums** - Baby Dodds
+> 
+> **Drums** - Kaiser Marshall
+> 
+> **Drums** - Paul Barbarin
+> 
+> **Drums** - Zutty Singleton
+> 
+> **Guitar** - Eddie Lang
+> 
+> **Guitar** - Lonnie Johnson (2)
+> 
+> **Piano** - Carroll Dickerson
+> 
+> **Piano** - Earl Hines
+> 
+> **Piano** - Joe Sullivan
+> 
+> **Piano** - Lil Hardin
+> 
+> **Piano** - Luis Russel
+> 
+> **Producer** - Richard M. Jones
+> 
+> **Producer** - Tommy Rockwell
+> 
+> **Tenor Saxophone** - Barney Bigard
+> 
+> **Tenor Saxophone** - Happy Caldwell
+> 
+> **Trombone** - Fred Robinson
+> 
+> **Trombone** - Honore Dutrey
+> 
+> **Trombone** - J.C. Higginbotham
+> 
+> **Trombone** - Jack Teagarden
+> 
+> **Trombone** - Kid Ory
+> 
+> **Tuba** - Pete Briggs
+> 
+> **Vocals** - Butterbeans
+> 
+> **Vocals** - Louis Armstrong
+> 
+> **Vocals** - Susie Edwards
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   A1. Eternal Life    4:08
+> 
+>   A2. Theories    2:12
+> 
+>   A3. October Song    4:08
+> 
+>   A4. All I Ever Needed    6:24
+> 
+>   A5. Light From Three Sides    4:16
+> 
+>   B1. Silver Sand    3:25
+> 
+>   B2. Ditto    5:00
+> 
+>   B3. Face Of Another    3:38
+> 
+>   B4. Low Tide    3:30
+> 
+>   B5. Golden Hour    4:46
+> 
+>   B6. Future Friends    2:38
+> 
