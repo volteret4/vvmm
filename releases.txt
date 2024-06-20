@@ -1,185 +1,22 @@
 Listado de releases del artista:
-Green Grow The Rushes O / On Ilkla Moor Baht'at - 1957 - https://api.discogs.com/masters/1594619
-The "I Had A Dream Dear" Rock - 1959 - https://api.discogs.com/releases/10199784
-Richard Pry, Private Eye - 1960 - https://api.discogs.com/releases/19532221
-Songs Spun In Liverpool - 1961 - https://api.discogs.com/masters/610062
-Quayside Songs Old & New - 1962 - https://api.discogs.com/masters/2534713
-The Spinners - 1963 - https://api.discogs.com/releases/4021690
-Dirty Old Town - 1964 - https://api.discogs.com/releases/6819265
-Maggie May - 1964 - https://api.discogs.com/releases/7435259
-Folk At The Phil! - 1964 - https://api.discogs.com/masters/466448
-The Orange And The Green - 1965 - https://api.discogs.com/releases/4083484
-I've Been On The Road/Blue Noise - 1965 - https://api.discogs.com/masters/1986571
-Amen  - 1965 - https://api.discogs.com/masters/1577685
-More Folk At The Phil - 1965 - https://api.discogs.com/masters/869853
-Seth Davey - 1966 - https://api.discogs.com/releases/10630614
-The Singing City - 1966 - https://api.discogs.com/masters/807345
-The Family Of Man - 1966 - https://api.discogs.com/masters/576226
-Uncle Sigmund's Clockwork Storybook (Stop, Look, Listen) - 1967 - https://api.discogs.com/releases/5300443
-The City Sings Back - 1967 - https://api.discogs.com/releases/10714632
-Flowers Of Manchester  - 1967 - https://api.discogs.com/releases/13591195
-Theme From "Funeral In Berlin" - 1967 - https://api.discogs.com/releases/14217060
-Another LP By The Spinners - 1967 - https://api.discogs.com/masters/2589701
-Ten Of The Best With The Spinners - 1967 - https://api.discogs.com/masters/1745334
-Not Quite Folk - 1969 - https://api.discogs.com/releases/2297331
-When The Old Dun Cow Caught Fire - 1969 - https://api.discogs.com/releases/13246496
-Clockwork Storybook - 1969 - https://api.discogs.com/releases/13999357
-Why-O - 1969 - https://api.discogs.com/releases/23722871
-Black And White - 1970 - https://api.discogs.com/releases/2843445
-The Spinners Are In Town - 1970 - https://api.discogs.com/masters/690029
-Vol. 3 Adam In The Garden - 1971 - https://api.discogs.com/releases/7728696
-Live Performance - 1971 - https://api.discogs.com/masters/1155750
-Vol. 2 Black And White - 1971 - https://api.discogs.com/masters/2254051
-An Evening With The Spinners - 1972 - https://api.discogs.com/masters/453504
-The Singing City - 1972 - https://api.discogs.com/masters/585000
-Love Is Teasing - 1972 - https://api.discogs.com/masters/807347
-Sing Out, Shout With Joy - 1972 - https://api.discogs.com/masters/1298139
-Malaika - 1972 - https://api.discogs.com/masters/3268711
-Here's To The Couple - 1973 - https://api.discogs.com/releases/10619243
-Everybody Loves Saturday Night - 1973 - https://api.discogs.com/releases/26207246
-By Arrangement - 1973 - https://api.discogs.com/masters/731042
-Wavendon '74 - 1974 - https://api.discogs.com/releases/8324765
-The Spinners At The London Palladium - 1974 - https://api.discogs.com/masters/2589659
-Castles In The Air / Lamorna - 1975 - https://api.discogs.com/releases/4911373
-Liverpool To Coney Island - 1976 - https://api.discogs.com/releases/3240599
-English Collection - 1976 - https://api.discogs.com/masters/618024
-18 Golden Favourites - 1977 - https://api.discogs.com/releases/2878193
-The Last Thing On My Mind - 1977 - https://api.discogs.com/masters/1379661
-All Day Singing - The Spinners In Concert - 1977 - https://api.discogs.com/masters/1007315
-The Best Of The Spinners - 1978 - https://api.discogs.com/releases/9876002
-Sing Songs Of The Tall Ships - 1978 - https://api.discogs.com/masters/1362595
-Your 20 Favourite Christmas Carols - 1978 - https://api.discogs.com/masters/1578951
-Meet The Spinners - 1979 - https://api.discogs.com/releases/5110874
-This Is The Spinners - 1980 - https://api.discogs.com/releases/5109089
-The Spinners - 1980 - https://api.discogs.com/releases/14820733
-Around The World... And Back Again - 1981 - https://api.discogs.com/releases/5331219
-Caribbean Sunshine Hits And Other Favourites - 1981 - https://api.discogs.com/masters/1127910
-Here's To You...From The Spinners - 1982 - https://api.discogs.com/releases/5436905
-Here's To The Spinners - 1983 - https://api.discogs.com/releases/5324038
-In Our Liverpool Home - 1983 - https://api.discogs.com/releases/8582878
-The Spinners Album - 1983 - https://api.discogs.com/releases/8900283
-The Wind Is Blowing - 1984 - https://api.discogs.com/releases/2253672
-Last Night We Had A Do - 1984 - https://api.discogs.com/releases/14173288
-Golden Greats - 1985 - https://api.discogs.com/releases/29828737
-The Spinners - 1986 - https://api.discogs.com/releases/12589933
-The Very Best Of The Spinners - Spun Gold - 1986 - https://api.discogs.com/releases/13883723
-The Songs Of The World Folkdance Festival - 1987 - https://api.discogs.com/releases/12844474
-Final Fling - 1988 - https://api.discogs.com/releases/10791513
-The Best Of The Spinners - 1989 - https://api.discogs.com/releases/10268211
-The Best Of - 1991 - https://api.discogs.com/releases/22773890
-Best Of The Spinners In Concert - 1992 - https://api.discogs.com/masters/1841565
-The Spinners - 1994 - https://api.discogs.com/masters/2905423
-Best Of The Spinners - 1997 - https://api.discogs.com/releases/4023469
-The Very Best Of - 2004 - https://api.discogs.com/releases/10399713
-The Spinners Collection - 2016 - https://api.discogs.com/masters/1442464
-The Spinners - Volume 2 - Desconocido - https://api.discogs.com/releases/2290846
-The Best Of The Spinners - Desconocido - https://api.discogs.com/releases/3148060
-In My Liverpool Home - Desconocido - https://api.discogs.com/releases/10726436
-This Old Man - Desconocido - https://api.discogs.com/releases/12286777
-20 Golden Folk Songs - Desconocido - https://api.discogs.com/releases/14746334
-The Spinners Christmas CD - Desconocido - https://api.discogs.com/releases/22418314
-Stop, Look, Listen - Desconocido - https://api.discogs.com/masters/2729348
-16 Startracks - Desconocido - https://api.discogs.com/masters/691520
-Spotlight On - Desconocido - https://api.discogs.com/masters/3268687
-The Spinners - Volume One - Desconocido - https://api.discogs.com/masters/1543548
-Top Pop Hits - 1974 - https://api.discogs.com/releases/29452174
-Dry Bed - 1975 - https://api.discogs.com/releases/5900682
-Rap N' Rhythm (Programs #233 - 236) - 1975 - https://api.discogs.com/releases/24606863
-Startime - 1978 - https://api.discogs.com/masters/1146119
-Back To Back - 1980 - https://api.discogs.com/releases/12163778
-The Complete Thom Bell Sessions - 1989 - https://api.discogs.com/masters/303419
-An Old Fashioned Christmas - 1992 - https://api.discogs.com/masters/1678460
-The Best Christmas Album In The World...Ever! - 1996 - https://api.discogs.com/masters/108736
-Absolute Christmas - 1999 - https://api.discogs.com/masters/776806
-The Best Christmas Album In The World...Ever! New Edition - 2000 - https://api.discogs.com/masters/825138
-The Best Christmas Album In The World...Ever! - 2004 - https://api.discogs.com/releases/3813006
-Now That's What I Call Xmas - 2006 - https://api.discogs.com/masters/878394
-101 Christmas Songs - 2007 - https://api.discogs.com/releases/3518017
-Heartbeat Christmas - 2007 - https://api.discogs.com/releases/8532901
-The Three Bells (The Jimmy Brown Song) - 1959 - https://api.discogs.com/masters/595129
-Top Of The Pops-94 - 1966 - https://api.discogs.com/releases/16297909
-Folk Songs - 1966 - https://api.discogs.com/masters/798852
-Christmas With The Stars - 1968 - https://api.discogs.com/releases/8533684
-Folk In Focus - 1968 - https://api.discogs.com/releases/9713196
-The Big Folk - 1969 - https://api.discogs.com/releases/2795958
-Shades Of Folk - 1972 - https://api.discogs.com/masters/859013
-Rap N' Rhythm (Programs #121 - 140) - 1973 - https://api.discogs.com/releases/22244245
-The United States Air Force Presents Roger Carroll, Series #23 - 1973 - https://api.discogs.com/releases/25646941
-Country Meets Folk 1/2 - 1973 - https://api.discogs.com/releases/27332166
-American Top 40: Week Ending 25 October 1975 - 1975 - https://api.discogs.com/releases/15855472
-Soul Music - 1975 - https://api.discogs.com/releases/17188375
-Rap N' Rhythm (Programs #233 - 236) - 1975 - https://api.discogs.com/releases/24606863
-Note - The Key To Success - 1977 - https://api.discogs.com/releases/12803987
-Souvenir Of The West Country - 1977 - https://api.discogs.com/releases/20329123
-Startime - 1978 - https://api.discogs.com/masters/1146119
-Here's To The Couple - 1981 - https://api.discogs.com/releases/4660017
-The Sounds of England - 1988 - https://api.discogs.com/masters/2498779
-An Old Fashioned Christmas - 1992 - https://api.discogs.com/masters/1678460
-Hits Of The Fifties - 1992 - https://api.discogs.com/masters/3008615
-Geoff Love With Friends - 1993 - https://api.discogs.com/releases/14590328
-The Best Christmas...Ever! - 1993 - https://api.discogs.com/masters/1024431
-Greatest Hits Of The Fifties - 1994 - https://api.discogs.com/masters/1904427
-Merry Christmas Everybody! - 1995 - https://api.discogs.com/masters/1603882
-The Folk Box - 1995 - https://api.discogs.com/masters/1623211
-The Best Christmas Album In The World...Ever! - 1996 - https://api.discogs.com/masters/108736
-Unforgettable Hits Of The Fifties - 1997 - https://api.discogs.com/releases/4462002
-Vánoční Album = Christmas Album - 1997 - https://api.discogs.com/releases/12434114
-I'd Like To Teach The World To Sing - 1997 - https://api.discogs.com/masters/1517542
-Best Of Folk - 1998 - https://api.discogs.com/releases/9063996
-Some People Are On The Pitch - Songs From Football's Archives - 1999 - https://api.discogs.com/releases/14346927
-Absolute Christmas - 1999 - https://api.discogs.com/masters/776806
-The Ultimate Folk Collection - 1999 - https://api.discogs.com/masters/1658360
-The Best Ever Christmas Album - 2000 - https://api.discogs.com/releases/4992153
-Good Sport! (Musical Own Goals And Foul Play From The 60s And 70s) - 2000 - https://api.discogs.com/releases/5096146
-Folk - 2000 - https://api.discogs.com/releases/12078477
-Cheek to Cheek - 2000 - https://api.discogs.com/releases/29863192
-The Best Christmas Album In The World...Ever! New Edition - 2000 - https://api.discogs.com/masters/825138
-This Label Is Not Removable - 2002 - https://api.discogs.com/releases/6202561
-The Best Of Christmas - 2002 - https://api.discogs.com/releases/12179541
-The Best Christmas Album In The World...Ever! - 2004 - https://api.discogs.com/releases/3813006
-The Best Folk Album In The World...Ever! - 2004 - https://api.discogs.com/releases/11594279
-Best Christmas 100 - 2005 - https://api.discogs.com/masters/1015409
-Scarborough Fair The Best Of English Folk - 2006 - https://api.discogs.com/releases/2278444
-The Best Christmas ...Ever! - 2006 - https://api.discogs.com/releases/2711976
-Grandmaster Football - 2006 - https://api.discogs.com/releases/8172970
-Best Ever Christmas Mix 2 - 2006 - https://api.discogs.com/releases/17665720
-Casey Kasem Presents Number One Hits: The Love Songs - 2006 - https://api.discogs.com/releases/28799788
-Simply Seventies - 2006 - https://api.discogs.com/releases/30110363
-Now That's What I Call Xmas - 2006 - https://api.discogs.com/masters/878394
-101 Christmas Songs - 2007 - https://api.discogs.com/releases/3518017
-Heartbeat Christmas - 2007 - https://api.discogs.com/releases/8532901
-A Nostalgic Christmas-Chestnuts Roasting - 2008 - https://api.discogs.com/masters/3084521
-Three Score & Ten: A Voice To The People - 2009 - https://api.discogs.com/releases/2114418
-Christmas With The Stars - 2009 - https://api.discogs.com/releases/3279394
-The Greatest Hits - 2009 - https://api.discogs.com/releases/8489832
-Christmas : 115 Original Hits - 2009 - https://api.discogs.com/releases/27276450
-Me to You at Christmas - 2011 - https://api.discogs.com/releases/15202913
-101 Christmas Songs - 2012 - https://api.discogs.com/releases/18578545
-僕たちの洋楽ヒット Deluxe 1970→1972　Vol.3 - 2012 - https://api.discogs.com/releases/28359160
-Top Of The Pops Volume 94 - 2012 - https://api.discogs.com/releases/30055774
-Now That's What I Call Christmas - 2012 - https://api.discogs.com/masters/1788312
-Christmas - 2013 - https://api.discogs.com/releases/8722794
-Essential British Folk - 2014 - https://api.discogs.com/releases/7765954
-The Best Of British Folk - 2014 - https://api.discogs.com/releases/10957610
-White Christmas (3 CDs Of The Ultimate Festive Tracks) - 2014 - https://api.discogs.com/masters/1533289
-Liverpool Sounds (75 Classics From The Singing City) - 2015 - https://api.discogs.com/releases/11146307
-The Best Ever Christmas - 2015 - https://api.discogs.com/masters/2898211
-Christmas: The Collection - 2017 - https://api.discogs.com/releases/12961779
-100 Greatest: Christmas - 2017 - https://api.discogs.com/releases/13219898
-The Reflex 73 Track Pack - 2019 - https://api.discogs.com/releases/26997705
-Now 100 Hits Christmas - 2020 - https://api.discogs.com/releases/16139682
-Hullabaloo • The Complete Series - 2020 - https://api.discogs.com/releases/24631895
-20 Folk Favourites - Desconocido - https://api.discogs.com/releases/2180889
-Folk Favourites - Desconocido - https://api.discogs.com/releases/5940843
-Focus On Folk - Desconocido - https://api.discogs.com/releases/6527034
-It's Sampled Vol.2 - Eastern Hip Hip Sample Lesson - - Desconocido - https://api.discogs.com/releases/27078927
-1972 Top Hits - Desconocido - https://api.discogs.com/releases/28815322
-South Side Soul 26 Sweet Soul Classics Vol.5 - Desconocido - https://api.discogs.com/releases/28908790
-GoldDisc 208 - Desconocido - https://api.discogs.com/releases/30138893
-GoldDisc 210 - Desconocido - https://api.discogs.com/releases/30147983
-GoldDisc 213 - Desconocido - https://api.discogs.com/releases/30148208
-GoldDisc 219 - Desconocido - https://api.discogs.com/releases/30157487
-GoldDisc 220 - Desconocido - https://api.discogs.com/releases/30157571
-Christmas Cuts - Desconocido - https://api.discogs.com/masters/1836648
-Golden Goodies - Desconocido - https://api.discogs.com/masters/1791982
-DJ Pinu's Apresenta... Baile Charme - Desconocido - https://api.discogs.com/releases/25205146
+Hybrid - 2007 - https://api.discogs.com/masters/58620
+Hybrid Remixes - 2009 - https://api.discogs.com/releases/5208618
+Mend - 2012 - https://api.discogs.com/releases/3815157
+Mechanics Of Emotion - 2012 - https://api.discogs.com/masters/426712
+Remix Contest Powered By Sennheiser - 2013 - https://api.discogs.com/releases/4534653
+Unstable - 2016 - https://api.discogs.com/releases/10240714
+Unstable (Remixes) - 2017 - https://api.discogs.com/releases/10240673
+Space Between Us - 2017 - https://api.discogs.com/releases/10240697
+Trilogy - 2017 - https://api.discogs.com/releases/11158800
+Death Of The Artist - 2017 - https://api.discogs.com/masters/1212090
+Rin, Tongue And Dorner - 2018 - https://api.discogs.com/masters/2176933
+Elsiane - 2023 - https://api.discogs.com/releases/28782235
+Mirrors Of Perception - 2021 - https://api.discogs.com/masters/2176951
+Silent Wonder - 2007 - https://api.discogs.com/releases/1137203
+M For/ Pour Montréal 2007 - 2007 - https://api.discogs.com/releases/9080098
+Autumn Sampler 2008 - 2008 - https://api.discogs.com/releases/7176576
+Big Sur Life Formentera ● 2 - 2008 - https://api.discogs.com/releases/13654767
+Bones Original Television Soundtrack - 2008 - https://api.discogs.com/masters/1051625
+Voice: An Acoustic Collection - 2010 - https://api.discogs.com/masters/372228
+Jockey Club Salinas Ibiza Sessions 11 - 2014 - https://api.discogs.com/releases/26256674
+Zaraz Wracam: Przedstawia Artur Orzech - 2015 - https://api.discogs.com/releases/14233387
