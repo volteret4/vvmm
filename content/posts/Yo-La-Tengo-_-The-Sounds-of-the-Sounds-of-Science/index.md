@@ -1,6 +1,6 @@
 ---
 title: "Yo La Tengo - The Sounds of the Sounds of Science"
-date: 2024-06-20T14:16:51+02:00
+date: 2024-06-20T14:20:03+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -36,7 +36,7 @@ tags:
 >   2. Hyas And Stenorhynchus    9:12
 > 
 >   3. Shrimp Stories 
-> (feat. [John Agnello](https://www.discogs.com/artist/85454 'Recording and mixing engineer.  Starting his recording career as an assistant engineer at the [l265540], John was able to work on some legendary early 80's albums including [m101681], [m36940], [m46999], [m68247], [m28859] and [m99891]. As he went out on his own, John had a string of successes recording albums with [a288982], [a317696], [a267857] and [a137751]. He has made a name for himself working with hard rock bands such as [a17199], [a55965], [a76753], [a39778], [a252314], [a190553], and [a463597].'))   6:43
+> (feat. [John Agnello](https://www.discogs.com/artist/85454 'Recording and mixing engineer. Starting his recording'))   6:43
 > 
 >   4. How Some Jellyfish Are Born    8:22
 > 
@@ -48,5 +48,5 @@ tags:
 >   7. Acera Or The Witches' Dance    8:15
 > 
 >   8. The Sea Horse 
-> (feat. [John Agnello](https://www.discogs.com/artist/85454 'Recording and mixing engineer.  Starting his recording career as an assistant engineer at the [l265540], John was able to work on some legendary early 80's albums including [m101681], [m36940], [m46999], [m68247], [m28859] and [m99891]. As he went out on his own, John had a string of successes recording albums with [a288982], [a317696], [a267857] and [a137751]. He has made a name for himself working with hard rock bands such as [a17199], [a55965], [a76753], [a39778], [a252314], [a190553], and [a463597].'))   13:18
+> (feat. [John Agnello](https://www.discogs.com/artist/85454 'Recording and mixing engineer. Starting his recording'))   13:18
 > 
