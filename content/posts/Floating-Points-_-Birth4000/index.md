@@ -1,0 +1,35 @@
+---
+title: "Floating Points - Birth4000"
+date: 2024-06-20T13:09:56+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - idm
+ - techno
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Floating-Points - Birth4000))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3295228)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/0879a6e0-d800-47c8-808e-dee78d9a8206)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](None)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLTkgEsgaUwbL3DoADvESDMKTztzSXbfuu)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2023
+> 
+> **Géneros**: Electronic
+> 
+> **Estilos**: Electro, Leftfield, Techno
+> 
+> **Tracklist:**
+> 
+>   A1. Birth 4000    
+> 
