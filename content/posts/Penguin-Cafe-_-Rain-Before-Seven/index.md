@@ -1,0 +1,65 @@
+---
+title: "Penguin Cafe - Rain Before Seven"
+date: 2024-06-20T23:06:57+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - chamber-music
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Penguin-Cafe - Rain-Before-Seven))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3161781)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/6816f258-ba8a-4fa4-8bbb-3859e383d7c5)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4gGmqjw64211B9R3p2ikne)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLVjWWIQMML6AdMAZDQfB4J5WcnUTr2iAO)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2023
+> 
+> **Géneros**: Rock, Pop
+> 
+> **Estilos**: Indie Rock
+> 
+> **Pais:** Denmark
+> 
+> **Votos:** Media de 2.0 con 1 votos
+> 
+> **Sello:** Mega Records
+> 
+> **Phonographic Copyright (p):** ARS Productions Belgium
+> 
+> **Copyright (c):** ARS Productions Belgium
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   A1. Welcome to London    4:49
+> 
+>   A2. Temporary Shelter from the Storm    4:56
+> 
+>   A3. In Re Budd    4:23
+> 
+>   A4. Second Variety    3:54
+> 
+>   A5. Galahad    6:11
+> 
+>   B1. Might Be Something    6:30
+> 
+>   B2. No One Really Leaves…    4:55
+> 
+>   B3. Find Your Feet    4:18
+> 
+>   B4. Lamborghini 754    4:24
+> 
+>   B5. Goldfinch Yodel    4:50
+> 
