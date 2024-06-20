@@ -1,98 +1,398 @@
 Listado de releases del artista:
-Mermaids - 1991 - https://api.discogs.com/masters/67438
-Rankine - 1992 - https://api.discogs.com/releases/133503
-Fila Funk / Rankine (Live At Bounce) - 1993 - https://api.discogs.com/masters/358811
-Slacker - 1994 - https://api.discogs.com/masters/236712
-Old Codes New Chaos - 1994 - https://api.discogs.com/masters/67447
-Pots & Pans / The Sheriff - 1994 - https://api.discogs.com/masters/35229
-Brazilification - 1994 - https://api.discogs.com/masters/35237
-Maim That Tune - 1995 - https://api.discogs.com/masters/67440
-A Zed & Two L's / Harmonicas Are Shite - 1995 - https://api.discogs.com/masters/389060
-Soft Music Under Stars / Blood - 1996 - https://api.discogs.com/releases/129243
-Pelé / Sócrates - 1996 - https://api.discogs.com/masters/146614
-Mess - 1996 - https://api.discogs.com/masters/67441
-Black Market Gardening - 1996 - https://api.discogs.com/masters/67448
-Sycot Motion EP - 1996 - https://api.discogs.com/masters/35245
-Wigs, Bifocals And Nurishment - 1997 - https://api.discogs.com/masters/1446739
-Luck Be A Weirdo Tonight - 1997 - https://api.discogs.com/masters/67446
-Throwing Down A Shape - 1998 - https://api.discogs.com/releases/72695
-Bovine Funk / Here Comes Pissy Willy - 1998 - https://api.discogs.com/releases/94222
-The Speewah / Feathery Legs - 1998 - https://api.discogs.com/masters/322704
-Power Clown - 1998 - https://api.discogs.com/masters/67451
-Bitten Bugs - 1999 - https://api.discogs.com/masters/2437639
-Brazilification (Remixes 95-99) - 1999 - https://api.discogs.com/masters/79020
-A Touch Of Cloth - 1999 - https://api.discogs.com/masters/67439
-Ridden Pony - 1999 - https://api.discogs.com/masters/35253
-Spill The Beans - 2001 - https://api.discogs.com/releases/70840
-Nature Boy (AnotherLateNight) - 2001 - https://api.discogs.com/releases/96334
-FB@V&A - 2001 - https://api.discogs.com/releases/184605
-AnotherLateNight - 2001 - https://api.discogs.com/masters/193080
-We Build Arks (Remixes) - 2002 - https://api.discogs.com/masters/193081
-Three White Roses & A Budd - 2002 - https://api.discogs.com/masters/449261
-Jump Leads - 2002 - https://api.discogs.com/masters/67445
-Saucy Joints EP - 2002 - https://api.discogs.com/masters/67462
-Fila Brazillia Versus A Certain Ratio - 2003 - https://api.discogs.com/masters/107087
-B2 - 2003 - https://api.discogs.com/masters/535474
-The Life And Times Of Phoebus Brumal - 2004 - https://api.discogs.com/releases/284675
-Dicks - 2004 - https://api.discogs.com/releases/324401
-The Goggle Box EP - 2004 - https://api.discogs.com/releases/338788
-Another Fine Mess - 2004 - https://api.discogs.com/masters/125112
-The Garden Compilation Volume One - 2005 - https://api.discogs.com/masters/322208
-Retrospective 1990-2006 - 2006 - https://api.discogs.com/masters/67443
-Neanderthal - 2007 - https://api.discogs.com/releases/1070652
-One Track Mind - 2007 - https://api.discogs.com/masters/1269782
-Play It Again, SIM. - 2009 - https://api.discogs.com/releases/2067334
-Played In Japan (Live / 30.7.2000) - 2018 - https://api.discogs.com/masters/1412003
-From The DATs - 2020 - https://api.discogs.com/releases/16004612
-From The DATs - 2020 - https://api.discogs.com/releases/21440464
-Jesus Saves, Pele Nets The Rebound  - 2020 - https://api.discogs.com/releases/21503410
-Kingsblood Royale  - 2020 - https://api.discogs.com/releases/21503482
-MMXX EP - 2020 - https://api.discogs.com/masters/1697522
-Bitten Bugs - 2021 - https://api.discogs.com/releases/17518978
-Apollyon - 2021 - https://api.discogs.com/releases/21503059
-Bulls Dozing - 2021 - https://api.discogs.com/releases/21503545
-All Worlds, All Times - 2021 - https://api.discogs.com/releases/23386241
-Mermaids - 2022 - https://api.discogs.com/releases/30639256
-Toro De Fuego  - 2023 - https://api.discogs.com/releases/26737445
-Beatless - 2023 - https://api.discogs.com/releases/29144542
-Retrospective Redux 90 → 22 - 2023 - https://api.discogs.com/masters/3120210
-Beatless - 2023 - https://api.discogs.com/masters/3353749
-Subtle Body - 2023 - https://api.discogs.com/masters/3064817
-Barefoot E.P. - 1994 - https://api.discogs.com/masters/33377
-Japanese Flute Remixes - 1995 - https://api.discogs.com/releases/71649
-Flippin' Tha Bird - 1995 - https://api.discogs.com/releases/107132
-Freedom - 1995 - https://api.discogs.com/masters/284182
-Tosh - 1995 - https://api.discogs.com/masters/116430
-Salt Peter Remixed (Revenge, The Sweetest Fruit.) - 1995 - https://api.discogs.com/masters/70383
-Shopping EP - 1995 - https://api.discogs.com/masters/408362
-Watch Me Now (All The Mixes And More) - 1995 - https://api.discogs.com/masters/84405
-The Chase EP - 1995 - https://api.discogs.com/masters/313295
-Refried Food Pts. 1 And 2 - 1996 - https://api.discogs.com/releases/17262
-The Night Shift - 1996 - https://api.discogs.com/releases/32547
-Middle Class Lady - 1996 - https://api.discogs.com/releases/47616
-A Gavin Hardkiss Mix "Weekend" - 1996 - https://api.discogs.com/releases/91888
-Fast Forward - 1996 - https://api.discogs.com/releases/805237
-Cool Vibes Volume 2 - 1996 - https://api.discogs.com/releases/1170928
-Trip Hop Sampler 2 - 1996 - https://api.discogs.com/releases/1305406
-Sonneti Sound Cuts '97 - 1996 - https://api.discogs.com/releases/3734037
-Salt Peter, Salt Peter Remixed - 1996 - https://api.discogs.com/releases/12567516
-Refried Food Lunchbox - 1996 - https://api.discogs.com/releases/14333752
-The Great Lotus Eaters Mix-Up Pt. 2 - 1996 - https://api.discogs.com/releases/19862203
-Dance Attack - 1996 - https://api.discogs.com/releases/28833634
-The Cream Of Trip Hop (Issue 4) - 1996 - https://api.discogs.com/masters/142854
-Vocal Versions - 1996 - https://api.discogs.com/masters/54306
-Dreams Aside - 1996 - https://api.discogs.com/masters/121961
-Flipmode Remixes - 1996 - https://api.discogs.com/masters/568443
-Slack Hands - 1996 - https://api.discogs.com/masters/269959
-Future Funk - 1996 - https://api.discogs.com/masters/1759383
-Woo Hah!! Got You All In Check - 1996 - https://api.discogs.com/masters/50851
-Bend - 1996 - https://api.discogs.com/masters/122532
-Batucada - 1996 - https://api.discogs.com/masters/146614
-Brazilian Explosion - 1996 - https://api.discogs.com/masters/149181
-Salt Peter - 1996 - https://api.discogs.com/masters/70377
-The Rebirth Of Cool Six - 1996 - https://api.discogs.com/masters/109804
-Cotton Wool - 1996 - https://api.discogs.com/masters/44782
-Lamb - 1996 - https://api.discogs.com/masters/44802
-Altered States - 1996 - https://api.discogs.com/masters/7981
-6 Underground - 1996 - https://api.discogs.com/masters/28483
-Truth Theme - 1996 - https://api.discogs.com/masters/367463
+Fink Funk - 1997 - https://api.discogs.com/releases/58521
+Front Side, Blunt Side EP - 1999 - https://api.discogs.com/releases/30262
+Ever Since I Was A Kid It Seemed I Collected Something - 2000 - https://api.discogs.com/releases/41206
+Fink About It - 2000 - https://api.discogs.com/releases/1481259
+Fresh Produce - 2000 - https://api.discogs.com/masters/50517
+Threesome - 2001 - https://api.discogs.com/releases/1207566
+BBC Collective Ninja Special - 2002 - https://api.discogs.com/releases/1258094
+Sound Of Today - 2002 - https://api.discogs.com/masters/1132172
+@ Watergate, Berlin - 2003 - https://api.discogs.com/releases/1352510
+Solid Steel China Special - 2004 - https://api.discogs.com/releases/1352504
+Acoustic Soul - 2005 - https://api.discogs.com/releases/863967
+A Selection Of Tracks From Upcoming Album "Biscuits For Breakfast" - 2006 - https://api.discogs.com/releases/826301
+Biscuits For Breakfast - Radio Sampler - 2006 - https://api.discogs.com/releases/1252374
+Selector & Flo Motion Sessions - 2006 - https://api.discogs.com/releases/1495209
+Live (Napster Session) - 2006 - https://api.discogs.com/releases/1496728
+Biscuits For Breakfast - 2006 - https://api.discogs.com/masters/50520
+Pretty Little Thing - 2006 - https://api.discogs.com/masters/50526
+So Long - 2006 - https://api.discogs.com/masters/50532
+This Is The Thing - 2007 - https://api.discogs.com/releases/2839326
+Distance And Time - 2007 - https://api.discogs.com/masters/50536
+Little Blue Mailbox - 2007 - https://api.discogs.com/masters/50574
+This Is The Thing - 2007 - https://api.discogs.com/masters/50577
+If Only - 2008 - https://api.discogs.com/masters/401264
+See It All... - 2009 - https://api.discogs.com/masters/400908
+Sort Of Revolution - 2009 - https://api.discogs.com/masters/401029
+Sort Of Versions - 2009 - https://api.discogs.com/masters/3154791
+Sort Of Revolution - 2009 - https://api.discogs.com/masters/129438
+KCRW Presents...Fink In Session. - 2010 - https://api.discogs.com/masters/400753
+Move On Me (Marcus Worgull Edit) / Kalimba - 2011 - https://api.discogs.com/releases/3129044
+Perfect Darkness Instrumentals - 2011 - https://api.discogs.com/releases/3646621
+Dubs - 2011 - https://api.discogs.com/releases/5136433
+Spinning Out - 2011 - https://api.discogs.com/releases/6054610
+Perfect Darkness - Radio Sampler - 2011 - https://api.discogs.com/releases/11839638
+Perfect Darkness - 2011 - https://api.discogs.com/masters/345636
+Yesterday Was Hard On All Of Us - 2011 - https://api.discogs.com/masters/491573
+Perfect Darkness / Berlin Sunrise (Remixes) - 2011 - https://api.discogs.com/masters/416889
+Perfect Darkness / Sort Of Revolution - 2012 - https://api.discogs.com/releases/21940525
+Wheels Turn Beneath My Feet - 2012 - https://api.discogs.com/masters/484337
+Wallflower - 2013 - https://api.discogs.com/releases/5084226
+Warm Shadow - 2013 - https://api.discogs.com/masters/542342
+Live In Concert - 2013 - https://api.discogs.com/masters/611308
+Hard Believer - 2014 - https://api.discogs.com/releases/6164774
+The Hard Believer Sessions - 2014 - https://api.discogs.com/releases/6415009
+Looking Too Closely - 2014 - https://api.discogs.com/masters/710763
+Hard Believer - 2014 - https://api.discogs.com/masters/709785
+Shakespeare - 2014 - https://api.discogs.com/masters/1083352
+/ I A / MIX 165 - 2015 - https://api.discogs.com/releases/6754917
+RA.EX256 Fink - 2015 - https://api.discogs.com/releases/9238021
+Too Late - 2015 - https://api.discogs.com/masters/934485
+Horizontalism - 2015 - https://api.discogs.com/masters/846976
+Pilgrim Remix - 2015 - https://api.discogs.com/masters/2036557
+Fall Into The Light - 2015 - https://api.discogs.com/masters/875402
+Fall Into The Light / Pilgrim - 2015 - https://api.discogs.com/masters/1129415
+Boneyard - 2017 - https://api.discogs.com/releases/10165914
+Not Everything Was Better In The Past - 2017 - https://api.discogs.com/releases/10805321
+Cracks Appear - 2017 - https://api.discogs.com/releases/10977282
+Resurgam Acoustic Session - 2017 - https://api.discogs.com/releases/11298608
+Get Inside - 2017 - https://api.discogs.com/releases/22357375
+Fink's Sunday Night Blues Dubs  - 2017 - https://api.discogs.com/masters/1182749
+Resurgam - 2017 - https://api.discogs.com/masters/1238202
+Fink's Sunday Night Blues Club, Vol. 1 - 2017 - https://api.discogs.com/masters/1171171
+Certain Angles - 2017 - https://api.discogs.com/masters/1366326
+Bloom Innocent - 2019 - https://api.discogs.com/masters/1626153
+We Watch The Stars - 2019 - https://api.discogs.com/masters/1663154
+Bloom Innocent - 2019 - https://api.discogs.com/masters/1719773
+Rocking Chair (Acoustic) - 2020 - https://api.discogs.com/releases/15133088
+Out Loud (Acoustic) - 2020 - https://api.discogs.com/releases/15133105
+Bloom Innocent (Horizontalism Sessions) - 2020 - https://api.discogs.com/masters/3349051
+Bloom Innocent - Acoustic - 2020 - https://api.discogs.com/masters/3337447
+Warm Shadow (IIUII) - 2021 - https://api.discogs.com/releases/18523312
+Sort of Revolution (IIUII) - 2021 - https://api.discogs.com/releases/19412671
+Iiuii (It Isn't Until It Is) - 2021 - https://api.discogs.com/masters/2264191
+Studio Live Session - 2021 - https://api.discogs.com/masters/2110720
+What Would You Call Yourself - 2024 - https://api.discogs.com/releases/30279743
+The Lowswing Sessions - 2024 - https://api.discogs.com/releases/30279875
+The LowSwing Sessions  - 2024 - https://api.discogs.com/masters/3363829
+Ninja Tune Production Music Presents Fink - Desconocido - https://api.discogs.com/releases/27454269
+Drinking In L.A. - 1997 - https://api.discogs.com/masters/51800
+Prayer / Salvation - 1998 - https://api.discogs.com/masters/135236
+Glee - 1998 - https://api.discogs.com/masters/51802
+Discord (Gütninja Remixes) - 1999 - https://api.discogs.com/masters/352702
+We Are Ninja - 2000 - https://api.discogs.com/masters/56839
+(Hey) Whats That You Do - 2001 - https://api.discogs.com/masters/162845
+Mad About You - 2001 - https://api.discogs.com/masters/47214
+The Conversationalist - 2001 - https://api.discogs.com/masters/20463
+Breakin Point Presents Tru Thoughts Recordings - 2002 - https://api.discogs.com/releases/1329966
+Coming Second - 2002 - https://api.discogs.com/masters/81201
+Fast Lane - 2003 - https://api.discogs.com/releases/156477
+Simple Records Catalogue - 2003 - https://api.discogs.com/releases/7042650
+Big Issue Festival Sounds - 2003 - https://api.discogs.com/releases/11318823
+Simple Sounds Vol. 1 - 2003 - https://api.discogs.com/masters/788085
+24:7 - 2003 - https://api.discogs.com/masters/79053
+Exclusive Nitin Sawhney Mix - 2004 - https://api.discogs.com/releases/6991625
+We Don't Know How - 2004 - https://api.discogs.com/masters/104985
+For Your Love - 2004 - https://api.discogs.com/masters/3421828
+All Mixed Up - 2004 - https://api.discogs.com/masters/46754
+Seasons - 2004 - https://api.discogs.com/masters/252806
+Midnight Soul - 2005 - https://api.discogs.com/releases/809400
+Downtempo Beats To Enjoy Tuaca To - 2005 - https://api.discogs.com/releases/1825080
+Journey / Dead Man - 2005 - https://api.discogs.com/masters/410164
+One Off's Remixes And B Sides - 2005 - https://api.discogs.com/masters/2351920
+Candy Lounge (The Bedroom Tapes) - 2006 - https://api.discogs.com/releases/752015
+Alone Again - 2006 - https://api.discogs.com/releases/927015
+Brighton Treats With Jamaican Beats - 2006 - https://api.discogs.com/releases/1270861
+Bar Lounge Classics (Sunset Edition) - 2006 - https://api.discogs.com/releases/1411145
+RA.019 - 2006 - https://api.discogs.com/releases/2459021
+Sound Affects: Africa - 2006 - https://api.discogs.com/masters/220743
+Superstar - 2006 - https://api.discogs.com/masters/2036974
+Nightless Night - 2007 - https://api.discogs.com/masters/302616
+Sound Affects Brazil - 2007 - https://api.discogs.com/masters/3172632
+Sound Affects: Brazil - Deep In Brasil (Remixes) - 2008 - https://api.discogs.com/releases/1224678
+Solar : Puls - 2008 - https://api.discogs.com/releases/10686864
+Verve Remixed Christmas - 2008 - https://api.discogs.com/masters/202514
+Record Store Day 18/04/09 - 2009 - https://api.discogs.com/releases/2139798
+Untitled - 2009 - https://api.discogs.com/releases/8093679
+A NOUS -  Le Magazine Urbain L'original - 10 Ans! Vol.10  - 2009 - https://api.discogs.com/releases/13172386
+Red States - 2009 - https://api.discogs.com/masters/387646
+Amiss - 2009 - https://api.discogs.com/masters/298971
+Complete Güt Box - 2012 - https://api.discogs.com/releases/8218962
+Diamonds  - 2013 - https://api.discogs.com/masters/938117
+Kitty Hawk - 2014 - https://api.discogs.com/masters/683896
+Dig Down Deep (Fink Tape Remix) - 2016 - https://api.discogs.com/releases/15133239
+Everyone Was A Bird - Remixed - 2016 - https://api.discogs.com/masters/995456
+One On One - 2016 - https://api.discogs.com/masters/1900707
+Dig Down Deep EP - 2016 - https://api.discogs.com/masters/1126093
+Ninja Tune Publishing & Sync Sampler Vol. 37 - 2017 - https://api.discogs.com/releases/16232544
+The Magnificent Tree Remixes - 2021 - https://api.discogs.com/releases/20447812
+Simple Catalogue CD Volume One - Desconocido - https://api.discogs.com/releases/29415652
+Cloud Nine - Desconocido - https://api.discogs.com/masters/912303
+Drinking In L.A. - 1998 - https://api.discogs.com/masters/51800
+Xen Cuts - 2000 - https://api.discogs.com/masters/43000
+Breakin Point Presents Tru Thoughts Recordings - 2002 - https://api.discogs.com/releases/1329966
+The Six Million Names Of God - 2003 - https://api.discogs.com/masters/42428
+One Off's Remixes And B Sides - 2005 - https://api.discogs.com/masters/2351920
+Space Between - 2005 - https://api.discogs.com/masters/1636266
+Now Hear This! (15 Great Tunes Hand-Picked By The Word) (May 2006) - 2006 - https://api.discogs.com/masters/1037848
+In The House - 2012 - https://api.discogs.com/releases/3501497
+Waiting For You - 2013 - https://api.discogs.com/releases/4908688
+Good Things Come To Those Who Don't Wait - 2013 - https://api.discogs.com/masters/684054
+No Love Lost EP - 2014 - https://api.discogs.com/releases/6075719
+Dig Down Deep EP - 2016 - https://api.discogs.com/masters/1126093
+Frozen waters - Desconocido - https://api.discogs.com/releases/15017764
+...Obviamente!! (16 Grandes Éxitos) - 1986 - https://api.discogs.com/releases/15537113
+Wanna Smash Sensation! - 1993 - https://api.discogs.com/masters/326662
+Drinking In L.A. - 1997 - https://api.discogs.com/masters/51800
+Mad About You - 2001 - https://api.discogs.com/masters/47214
+Nitelife - 2001 - https://api.discogs.com/masters/825563
+Asleep In The Back / Coming Second - 2002 - https://api.discogs.com/masters/81201
+The Six Million Names Of God - 2003 - https://api.discogs.com/masters/42428
+Dead Man - 2005 - https://api.discogs.com/releases/2551982
+Journey / Dead Man - 2005 - https://api.discogs.com/masters/410164
+Sound Affects Malmaison - 2005 - https://api.discogs.com/masters/220743
+Simple One - 2005 - https://api.discogs.com/masters/627363
+Philtre - 2005 - https://api.discogs.com/masters/46769
+Space Between - 2005 - https://api.discogs.com/masters/1636266
+One Dream Closer - 2006 - https://api.discogs.com/releases/847398
+B*ll*cks To Cancer - 2006 - https://api.discogs.com/releases/2709147
+Secret Love 3 (Not A Secret Anymore) - 2006 - https://api.discogs.com/masters/33282
+Space Tranquil - Volumen Dos - 2006 - https://api.discogs.com/masters/1845168
+Days To Come - 2006 - https://api.discogs.com/masters/29637
+Nightlite / Recurring / If You Stayed Over - 2006 - https://api.discogs.com/masters/29660
+Nightless Night - 2007 - https://api.discogs.com/masters/302616
+African Cheri - 2007 - https://api.discogs.com/masters/1422575
+Other World - Remixes & Rarities - 2007 - https://api.discogs.com/masters/292742
+Second To None - 2008 - https://api.discogs.com/releases/1327731
+Verve // Remixed Christmas - 2008 - https://api.discogs.com/masters/202514
+Sweater Weather - 2010 - https://api.discogs.com/releases/3954322
+Fink Dubs EP - 2010 - https://api.discogs.com/masters/1590588
+Alive Till I'm Dead - 2010 - https://api.discogs.com/masters/1064263
+Black Sands : Licensing Edition - 2010 - https://api.discogs.com/masters/235989
+Chagall - 2011 - https://api.discogs.com/releases/4918609
+Color In Your Hands - 2011 - https://api.discogs.com/releases/15538751
+Dream Service - 2011 - https://api.discogs.com/masters/1008980
+At Your Inconvenience - 2011 - https://api.discogs.com/masters/460208
+Zuzoom - 2012 - https://api.discogs.com/masters/1648518
+2 - 2012 - https://api.discogs.com/masters/1035685
+Ninja Tune Publishing & Synch Sampler Vol. 20 - 2013 - https://api.discogs.com/releases/7387717
+Good Things Come To Those Who Don't Wait - 2013 - https://api.discogs.com/masters/684054
+Getting Closer - 2013 - https://api.discogs.com/masters/603898
+Ninja Tune & If Music Present: If (If Music Is 10) - 2013 - https://api.discogs.com/masters/2799587
+No Love Lost EP - 2014 - https://api.discogs.com/releases/6075719
+Rudderless (Original Motion Picture Soundtrack) - 2014 - https://api.discogs.com/releases/7085546
+Lilac Time - 2014 - https://api.discogs.com/releases/22370863
+Walls And Dimensions - 2015 - https://api.discogs.com/masters/916589
+DJ-Kicks - 2015 - https://api.discogs.com/masters/847561
+One On One - 2016 - https://api.discogs.com/masters/1900707
+Dig Down Deep EP - 2016 - https://api.discogs.com/masters/1126093
+Il Secondo Cuore - 2017 - https://api.discogs.com/masters/1163827
+Doppelgänger 01 - 2017 - https://api.discogs.com/masters/1243127
+Broad Horizons - 2018 - https://api.discogs.com/releases/11512773
+Fabric 99 - 2018 - https://api.discogs.com/masters/1384487
+Square 1 - 2018 - https://api.discogs.com/masters/1430393
+Shadows - 2019 - https://api.discogs.com/masters/1505593
+LateNightTales - 2021 - https://api.discogs.com/masters/2071579
+A Tribute To Neu! - 2024 - https://api.discogs.com/releases/30462254
+Funkungfusion - 1998 - https://api.discogs.com/releases/28381483
+Ninja Cuts: Funkungfusion - 1998 - https://api.discogs.com/masters/43024
+Trax Sampler 033 - 2000 - https://api.discogs.com/releases/104316
+2000 Ninja Sampler - Phase 1 - 2000 - https://api.discogs.com/releases/863930
+L'Age D'Or / The Golden Age / Das Goldene Zeitalter / El Siglo Del Oro / 金の時代 - 2000 - https://api.discogs.com/releases/3311008
+Abstract Funk Theory - 2000 - https://api.discogs.com/masters/32129
+Sounds Like Inertia Vol.#2 - 2000 - https://api.discogs.com/masters/880086
+Xen Cuts - 2000 - https://api.discogs.com/masters/43000
+The Art Of Zen Relaxation Volume 3 - 2001 - https://api.discogs.com/releases/969354
+Own Numéro 2 Double - 2002 - https://api.discogs.com/releases/8931414
+Coldcut Solid Steel 22.07.2002 - 2002 - https://api.discogs.com/releases/10877951
+Reworks - 2002 - https://api.discogs.com/masters/157555
+Utazás A Koponyám Körül (A Journey Round My Skull) - 2005 - https://api.discogs.com/releases/594359
+LADO FM Classix - 2005 - https://api.discogs.com/releases/4590595
+Radioplay - Euro Express - 616U - May 6, 2005 - 2005 - https://api.discogs.com/releases/11584390
+Zentertainment 2006 - 2006 - https://api.discogs.com/releases/719772
+Independent Innovative Creative - 2006 - https://api.discogs.com/releases/770044
+The Big Chill - 2006 - https://api.discogs.com/releases/856973
+Music Inside - PIAS Sampler 2006 - 2006 - https://api.discogs.com/releases/896673
+Music Mania Summer Sampler Volume 7 - 2006 - https://api.discogs.com/releases/955496
+Ninja Tune - You Don't Know Us - 2006 - https://api.discogs.com/releases/1333550
+Métissages Vol. 1 - 2006 - https://api.discogs.com/releases/1987585
+Music For Urban Lovers 2006 - 2006 - https://api.discogs.com/releases/2318969
+For Films - Selected Tracks For Moving Pictures: Edit. 11 - 2006 - https://api.discogs.com/releases/2448087
+Brighton New Music Showcase Sampler CD No. 01 - 2006 - https://api.discogs.com/releases/4210096
+OpenMindedMusic 06 - 2006 - https://api.discogs.com/releases/24707036
+Lounge Classics - 2006 - https://api.discogs.com/releases/29932207
+Secret Love 3 (Not A Secret Anymore) - 2006 - https://api.discogs.com/masters/33282
+Now Hear This! (15 Great Tunes Hand-Picked By The Word) (May 2006) - 2006 - https://api.discogs.com/masters/1037848
+25 Ans Radio Nova - 2006 - https://api.discogs.com/masters/852514
+Las Vegas - The Sex, The City, The Music - 2006 - https://api.discogs.com/masters/1921830
+The Standard 4:19 - Volume 4 - 2007 - https://api.discogs.com/releases/1062853
+Music Mania Autumn Sampler Volume 10 - 2007 - https://api.discogs.com/releases/1182068
+FM4 Soundselection: 17 - 2007 - https://api.discogs.com/releases/1226032
+Mastercuts Life..Style Chilled Lounge - 2007 - https://api.discogs.com/releases/1228309
+Mulligan & O'Hare Present Folk Favourites - 2007 - https://api.discogs.com/releases/1437900
+This Year I Have Mostly Been Listening To - 2007 - https://api.discogs.com/releases/1437911
+Nu Folk - A Selection Of New Rare Tunes With A Folk Flavour - 2007 - https://api.discogs.com/releases/1481375
+Ninja Tune Licensing Sampler Summer 2007 - 2007 - https://api.discogs.com/releases/1607516
+Independent Innovative Creative - 2007 - https://api.discogs.com/releases/1710592
+'You Don't Know' Summer Sampler 2007 - 2007 - https://api.discogs.com/releases/1884097
+The Standard 4:19 - Volume 4 - 2007 - https://api.discogs.com/releases/9876246
+This Not Yet Limit - 2007 - https://api.discogs.com/releases/15444437
+Jazz Lounge Cinema 3 - 2007 - https://api.discogs.com/releases/20713675
+Ibiza Fever 2007 - 2007 - https://api.discogs.com/releases/26033272
+Best Of British '07 - 2007 - https://api.discogs.com/releases/30089339
+City Lounge 3 - 2007 - https://api.discogs.com/masters/279463
+In The Mind Of Nitin Sawhney - 2007 - https://api.discogs.com/masters/236466
+City Lounge 4 - 2008 - https://api.discogs.com/releases/1430466
+2008 Upfront - 2008 - https://api.discogs.com/releases/1437924
+Brazilectro: Latin Flavoured Club Tunes Session 10 - 2008 - https://api.discogs.com/releases/1493737
+Nova En 25 CD (La Boite Bleue) - 2008 - https://api.discogs.com/releases/1586108
+Supperclub Jealousy - 2008 - https://api.discogs.com/releases/1638530
+In The Air - 2008 - https://api.discogs.com/releases/1667998
+Chine Collection - The Sixth - 2008 - https://api.discogs.com/releases/6466354
+Solar : Puls - 2008 - https://api.discogs.com/releases/10686864
+Earcandy - 16 Delicious Tracks - 2008 - https://api.discogs.com/releases/10798875
+Cool Tributes Vol.2: Pop Standards Revisited - 2008 - https://api.discogs.com/masters/3080843
+Livingroom.fm Broadcasted One - 2008 - https://api.discogs.com/masters/1423509
+You Don't Know: Ninja Cuts - 2008 - https://api.discogs.com/masters/102082
+You Don't Know Ninja Cuts DJ Food's 1000 Masks Mix - 2008 - https://api.discogs.com/masters/78735
+Select Ninja Tune Instrumentals - 2009 - https://api.discogs.com/releases/1909942
+Ninja Tune Big Dada Counter Sampler 2009 - 2009 - https://api.discogs.com/releases/1997923
+Livingroom.fm Broadcasted Two - 2009 - https://api.discogs.com/releases/2010733
+Chillout Sessions XII - 2009 - https://api.discogs.com/releases/2337949
+On The Way - 2009 - https://api.discogs.com/releases/2438781
+Nova 24h - 2009 - https://api.discogs.com/releases/2552526
+B Side - 2009 - https://api.discogs.com/releases/5206801
+Jazzadelic 09.4 High-Fidelic Jazz Vibes - 2009 - https://api.discogs.com/releases/8403016
+Independent Innovative Creative - 2009 - https://api.discogs.com/releases/23167472
+Have You Heard? (Fresh Sounds Handpicked By Starbucks: Spring '09) - 2009 - https://api.discogs.com/releases/25497388
+City Lounge  6 - 2009 - https://api.discogs.com/masters/2158567
+Chill Music 10 - 2010 - https://api.discogs.com/releases/2224708
+Chill Music 11 - 2010 - https://api.discogs.com/releases/2224893
+Chill Music 12 Pop Edition - 2010 - https://api.discogs.com/releases/2238331
+Spirit Of Lounge - 2010 - https://api.discogs.com/releases/2280326
+Ninja Tune XX Vol. 6 - 2010 - https://api.discogs.com/releases/2458837
+Ninja Tune XX Vol. 1 - 2010 - https://api.discogs.com/releases/2536870
+Do Not Disturb 4 - 2010 - https://api.discogs.com/releases/2648918
+Kulturkantine - A Different Kind Of Chillout Session - 2010 - https://api.discogs.com/releases/3073716
+Ninja Tune XX Publishing & Licensing Sampler 3 - 2010 - https://api.discogs.com/releases/3107437
+Acoustic Session Vol. 1 - 2010 - https://api.discogs.com/releases/3216558
+Friday Night Lights: Original Television Soundtrack Vol. 2 - 2010 - https://api.discogs.com/releases/6578709
+Perfect Moods 2 - 2010 - https://api.discogs.com/releases/10431051
+Blackjoy Presents Versions A Cool Remixes Collection - 2010 - https://api.discogs.com/releases/10636940
+Sensuality Lounge - 2010 - https://api.discogs.com/releases/14103544
+Jazz Lounge Cinema 4 - 2010 - https://api.discogs.com/releases/19729276
+Ninja Tune XX (20 Years Of Beats & Pieces) - 2010 - https://api.discogs.com/masters/283194
+Silke Wilhelm I. (Audiovisual Couture Vol. I) - 2010 - https://api.discogs.com/masters/669793
+The Way Of The Ninja - 2010 - https://api.discogs.com/masters/288486
+Ninja Tune XX Presents: A Ninja Tune Label Sampler - 2010 - https://api.discogs.com/masters/463754
+Dear John (Original Motion Picture Soundtrack) - 2010 - https://api.discogs.com/masters/1346514
+Ninja Tune XX Rarities - 2011 - https://api.discogs.com/releases/2808918
+Indie Chill 4 - 2011 - https://api.discogs.com/releases/2922865
+La Bande-son De L'été 2011 - 2011 - https://api.discogs.com/releases/2987998
+Indie Chill 5 - 2011 - https://api.discogs.com/releases/3037165
+Late Night Sessions - 2011 - https://api.discogs.com/releases/3134390
+A Tribute To Nevermind - 2011 - https://api.discogs.com/releases/3137379
+Ninja Tune Sing A Simple Song (Publishing & Licensing Sampler VI) - 2011 - https://api.discogs.com/releases/3149026
+RA.283 - 2011 - https://api.discogs.com/releases/3214132
+Ninja Tune Publishing & Licensing Sampler Nine - 2011 - https://api.discogs.com/releases/3513847
+Double D Town Podcast 13 - 2011 - https://api.discogs.com/releases/3945823
+Ninja Tune Publishing + Licensing Sampler 8 - 2011 - https://api.discogs.com/releases/5260043
+Air France Music Volume 1 - 2011 - https://api.discogs.com/releases/11001293
+The Sound Of September - 2011 - https://api.discogs.com/releases/16195723
+Nihon Kizuna - 2011 - https://api.discogs.com/masters/1795598
+Winter Chill 2012 - 2012 - https://api.discogs.com/releases/3405526
+In The House - 2012 - https://api.discogs.com/releases/3501497
+Ninja Tune Publishing & Licensing Sampler 10 - 2012 - https://api.discogs.com/releases/3786610
+Ninja Tune Publishing & Licensing Sampler Vol 11 - 2012 - https://api.discogs.com/releases/3786709
+Get Ready For The Olympics (Ninja Tune Sport Sweat & Tears Licensing Sampler) - 2012 - https://api.discogs.com/releases/3922370
+Ninja Tune Publishing & Synch Sampler Vol.15 - 2012 - https://api.discogs.com/releases/4008377
+36 Serious Tracks - 2012 - https://api.discogs.com/releases/7421331
+Lounge Anthology - 2012 - https://api.discogs.com/releases/9814943
+Mało Obiektywnie - 2012 - https://api.discogs.com/releases/11483898
+Colours Of Ostrava 12.–15. 7. 2012 - 2012 - https://api.discogs.com/releases/12726822
+I ❤ Lounge - 2012 - https://api.discogs.com/releases/26824541
+Ninja Tune Publishing & Synch Sampler Vol. 17 - 2013 - https://api.discogs.com/releases/4760981
+NCIS: Benchmark (Official TV Soundtrack) - 2013 - https://api.discogs.com/releases/5027998
+Ninja Tune Publishing & Synch Sampler 16 - 2013 - https://api.discogs.com/releases/5219296
+For Films - Selected Tracks For Moving Pictures: Edit. 16 - 2013 - https://api.discogs.com/releases/5315131
+Ninja Tune Publishing & Synch Sampler Vol. 18 - 2013 - https://api.discogs.com/releases/6747061
+Ninja Tune Publishing & Synch Sampler Vol. 20 - 2013 - https://api.discogs.com/releases/7387717
+Tarifa Groove Collections 13 - 2013 - https://api.discogs.com/releases/12070750
+Klassik Lounge Nightflight Vol.6 (Compiled By DJ Nartak) - 2013 - https://api.discogs.com/releases/16874880
+12 Years A Slave (Music From And Inspired By) - 2013 - https://api.discogs.com/releases/22384615
+Silence Please! - 2013 - https://api.discogs.com/masters/541849
+12 Years A Slave (Music From And Inspired By) - 2013 - https://api.discogs.com/masters/651949
+The Walking Dead (AMC Original Soundtrack – Vol. 1) - 2013 - https://api.discogs.com/masters/676314
+Ninja Tune Publishing & Synch Sampler Vol. 23 - 2014 - https://api.discogs.com/releases/5773205
+Radio 538 - Hitzone 70 - 2014 - https://api.discogs.com/releases/5865946
+ME-CD Nr. 0814 - 2014 - https://api.discogs.com/releases/5951177
+36 Serious Tracks - 2014 - https://api.discogs.com/releases/6323815
+Honig Im Kopf (Original Motion Picture Soundtrack) - 2014 - https://api.discogs.com/releases/6897959
+Ninja Tune Publishing & Synch Sampler Vol. 24 - 2014 - https://api.discogs.com/releases/7721049
+Ninja Tune Publishing & Synch Sampler Vol. 25 - 2014 - https://api.discogs.com/releases/7772394
+Ninja Tune Publishing & Synch Sampler Vol. 26 - 2014 - https://api.discogs.com/releases/7939805
+Nextpop's Tunnel Vision Vol. 1 Slow Burning - 2014 - https://api.discogs.com/releases/9486533
+Nextpop's Tunnel Vision vol.1 Slow Burning - 2014 - https://api.discogs.com/releases/10145950
+100x Winter 2014 - 2014 - https://api.discogs.com/releases/13565308
+Vergeten Liedjes Voor Vergeten Kinderen - 2014 - https://api.discogs.com/releases/14205333
+Café Mambo - 20 Years Of Ibiza Chillout - 2014 - https://api.discogs.com/masters/768918
+Ninja Tune Publishing & Synch Sampler Vol. 27 - 2015 - https://api.discogs.com/releases/6802211
+100x Liefde 2015 - 2015 - https://api.discogs.com/releases/7141459
+Unline Special Mix - 2015 - https://api.discogs.com/releases/7314194
+Shanti Float 2015 - 2015 - https://api.discogs.com/releases/7716757
+Épicerie Moderne Dix Ans De Live 2005-2015 - 2015 - https://api.discogs.com/releases/7794972
+ Selma (Music from the Motion Picture) - 2015 - https://api.discogs.com/releases/7816713
+FM4 Soundselection 31 - 2015 - https://api.discogs.com/releases/8467116
+Ninja Tune Publishing & Synch Sampler Vol. 30 - 2015 - https://api.discogs.com/releases/10557853
+Ninja Tune Publishing & Synch Sampler Vol. 29 - 2015 - https://api.discogs.com/releases/10828871
+Abschussfahrt (Original Soundtrack) - 2015 - https://api.discogs.com/releases/13567074
+Ninja Tune Publishing & Sync Sampler Vol. 36 - 2016 - https://api.discogs.com/releases/9843817
+Ninja Tune Publishing & Sync Sampler Vol. 35 - 2016 - https://api.discogs.com/releases/9849432
+For Films - Selected Tracks For Moving Pictures: Edit. 18 - 2016 - https://api.discogs.com/releases/10351333
+Ninja Tune Publishing & Synch Sampler Vol.32 - 2016 - https://api.discogs.com/releases/12329289
+Pause 2016 - 2016 - https://api.discogs.com/releases/25637980
+Everyone Was A Bird - Remixed - 2016 - https://api.discogs.com/masters/995456
+Musikexpress 10/17 - 2017 - https://api.discogs.com/releases/10986600
+The Art Of Sysyphus Vol. 95 - 2017 - https://api.discogs.com/releases/11108865
+Coffret FIP Vol.3 - 2017 - https://api.discogs.com/releases/11190687
+Ninja Tune Publishing & Sync Sampler Vol. 39 - 2017 - https://api.discogs.com/releases/11648356
+Ninja Tune Publishing & Sync Sampler Vol. 40 - 2017 - https://api.discogs.com/releases/11652019
+Ninja Tune Publishing & Sync Sampler Vol. 38 - 2017 - https://api.discogs.com/releases/11652325
+Ninja Tune Publishing & Sync Sampler Vol. 41 - 2017 - https://api.discogs.com/releases/14048543
+DJ-Kicks - 2017 - https://api.discogs.com/masters/1218049
+Teen Wolf (Original Television Soundtrack) - 2017 - https://api.discogs.com/masters/1578842
+Doppelgänger 01 - 2017 - https://api.discogs.com/masters/1243127
+Watergate 24 - 2018 - https://api.discogs.com/releases/12312694
+O Outro Lado Do Paraíso Vol. 2 - 2018 - https://api.discogs.com/releases/12785563
+Ninja Tune Publishing & Sync Sampler Vol. 44 - 2018 - https://api.discogs.com/releases/14098401
+Ninja Tune Publishing & Sync Sampler Vol.45 - 2018 - https://api.discogs.com/releases/14800726
+Ninja Tune Publishing & Sync Sampler Vol. 42 - 2018 - https://api.discogs.com/releases/16511928
+Synths (Publishing & Sync Sampler Vol. 42) - 2018 - https://api.discogs.com/releases/24469307
+Loro - Colonna Sonora Originale - 2018 - https://api.discogs.com/masters/1699451
+Edits - 2019 - https://api.discogs.com/releases/14334949
+Musikexpress 11/19 - 2019 - https://api.discogs.com/releases/14338937
+Sorties d'Octobre 2019 - 2019 - https://api.discogs.com/releases/14459214
+Take it Funky (Mashup Edit) - 2019 - https://api.discogs.com/releases/15109966
+Z66 - Hitzroad By Zegut - 2019 - https://api.discogs.com/releases/20491600
+For Films - Selected Tracks For Moving Pictures: Edit. 20 - 2020 - https://api.discogs.com/releases/19076635
+Die Radioeins Wohnzimmerkonzerte (Die Corona Sessions] - 2020 - https://api.discogs.com/masters/3410884
+Celebrating 95 Years Of Elac - 2021 - https://api.discogs.com/releases/20998426
+Celebrating 95 Years Of Elac - 2021 - https://api.discogs.com/releases/21531379
+LateNightTales - 2021 - https://api.discogs.com/masters/2071579
+Berlin Songs - 2022 - https://api.discogs.com/releases/22981109
+DJ-Kicks (The Exclusives Vol. 4) - 2023 - https://api.discogs.com/releases/28051377
+Earth/Percent x Earth Day 2023 Compilation Album - 2023 - https://api.discogs.com/masters/3069656
+A Tribute To Neu! - 2024 - https://api.discogs.com/releases/30462254
+Reference Soundcheck Vol. 2 - 2024 - https://api.discogs.com/masters/3402196
+Tamber - Eliminating Conformity - Desconocido - https://api.discogs.com/releases/1075032
+Mophonic Sync - Desconocido - https://api.discogs.com/releases/5269605
+Future Brazil - Desconocido - https://api.discogs.com/releases/17926318
+Peugeot Music Volume One - Desconocido - https://api.discogs.com/releases/19460089
+Edits - Desconocido - https://api.discogs.com/releases/21965494
+Cloud Nine - Desconocido - https://api.discogs.com/masters/912303
+Fresh Produce - 2000 - https://api.discogs.com/masters/50517
+24:7 - 2003 - https://api.discogs.com/masters/79053
+Bar Lounge Classics. Часть 5-6 - 2004 - https://api.discogs.com/releases/8317821
+Kraftwerk Kover Kollektion 5 - 2009 - https://api.discogs.com/releases/3531548
+He Touched Me - 2012 - https://api.discogs.com/releases/5237387
+Nitelife - Desconocido - https://api.discogs.com/masters/825563
