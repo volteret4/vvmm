@@ -1,0 +1,65 @@
+Listado de releases del artista:
+4 Degrees - 2015 - https://api.discogs.com/releases/7907378
+Hopelessness - 2016 - https://api.discogs.com/releases/9531493
+Hopelessness - 2016 - https://api.discogs.com/masters/995466
+Paradise - 2017 - https://api.discogs.com/masters/1149491
+Paradise - 2017 - https://api.discogs.com/masters/1756872
+Karma - 2019 - https://api.discogs.com/masters/2944762
+I Will Survive b​/​w R​.​N​.​C. 2020 - 2020 - https://api.discogs.com/masters/2944738
+It's All Over Now, Baby Blue - 2020 - https://api.discogs.com/masters/2944759
+One (The Remixes) - 2022 - https://api.discogs.com/releases/23930573
+Watch Me - Desconocido - https://api.discogs.com/releases/15176985
+In Amber - 2022 - https://api.discogs.com/masters/2678801
+Sliver Of Ice / Without Me - 2023 - https://api.discogs.com/releases/28393432
+My Back Was A Bridge For You To Cross - 2023 - https://api.discogs.com/masters/3159966
+Blacklips Bar: Androgyns And Deviants - Industrial Romance For Bruised And Battered Angels, 1992–1995 - 2023 - https://api.discogs.com/masters/3020627
+Smoke 'Em Out - 2017 - https://api.discogs.com/releases/10498280
+Celestine+ - 2017 - https://api.discogs.com/releases/11290737
+We'll Take It - 2018 - https://api.discogs.com/releases/12274058
+The Mojo Anthology - 2018 - https://api.discogs.com/releases/12593961
+You Will Not Die - 2018 - https://api.discogs.com/masters/1331592
+Whistle Down The Wind - 2018 - https://api.discogs.com/masters/1324699
+Age Of - 2018 - https://api.discogs.com/masters/1372331
+Change EP - 2019 - https://api.discogs.com/masters/1705475
+Live - 2020 - https://api.discogs.com/masters/1895175
+Good Night Songs For Rebel Girls - 2020 - https://api.discogs.com/masters/1854819
+Impermanence​/​Disintegration - 2021 - https://api.discogs.com/releases/19114414
+The Night Has Rushed In - 2021 - https://api.discogs.com/masters/2527864
+The Night Has Rushed In - 2022 - https://api.discogs.com/releases/23595254
+Novembre 2022 → 17 titres - 2022 - https://api.discogs.com/releases/24989326
+My Father's Dragon (Soundtrack From The Netflix Film) - 2022 - https://api.discogs.com/releases/28526017
+In Amber - 2022 - https://api.discogs.com/masters/2678801
+The Versions - 2022 - https://api.discogs.com/masters/2667155
+Hi​-​Def Femme - 2022 - https://api.discogs.com/masters/3305026
+Stay Close To Music - 2022 - https://api.discogs.com/masters/2884051
+It Must Change - 2023 - https://api.discogs.com/releases/28046229
+Sliver Of Ice / Without Me - 2023 - https://api.discogs.com/releases/28393432
+Folkocracy - 2023 - https://api.discogs.com/masters/3120285
+My Back Was A Bridge For You To Cross - 2023 - https://api.discogs.com/masters/3159966
+Blacklips Bar: Androgyns And Deviants — Industrial Romance For Bruised And Battered Angels, 1992​–​1995 - 2023 - https://api.discogs.com/masters/3020627
+The Top 100 Tracks Of 2015 - 2015 - https://api.discogs.com/releases/7912029
+Racing Extinction (Original Motion Picture Soundtrack) - 2015 - https://api.discogs.com/releases/15212991
+30 Sweet Harmony Compilation - 2016 - https://api.discogs.com/releases/9046445
+Annie Mac Presents 2016 - 2016 - https://api.discogs.com/releases/9189889
+Beggars Collection Printemps - Été 2016 - 2016 - https://api.discogs.com/releases/10072822
+The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
+City Lounge - The Deep Session 02 - - 2016 - https://api.discogs.com/releases/14833240
+Hostess Sampler 2016 Dec - 2017 Feb - 2016 - https://api.discogs.com/releases/25798234
+Hostess Sampler 2016 Mar - May - 2016 - https://api.discogs.com/releases/26050261
+Day of the Dead - 2016 - https://api.discogs.com/masters/1049963
+Remote Control February Sampler [2017] - 2017 - https://api.discogs.com/releases/10037158
+Björk & Anohni Remixes - 2017 - https://api.discogs.com/releases/10197115
+Void Of Reason - 2017 - https://api.discogs.com/releases/10431844
+Secretly Summer Sizzlers - 2017 - https://api.discogs.com/releases/10673340
+100 Tracks 2017 - 2017 - https://api.discogs.com/releases/11340884
+The Mojo Anthology - 2018 - https://api.discogs.com/releases/12593961
+Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
+Life - 2022 - https://api.discogs.com/releases/24328808
+For The Birds: The Birdsong Project - 2022 - https://api.discogs.com/masters/2911105
+In Amber - 2022 - https://api.discogs.com/masters/2678801
+The Versions - 2022 - https://api.discogs.com/masters/2667155
+Now Playing (15 Tracks Of The Month's Best Music) - 2023 - https://api.discogs.com/releases/27303834
+Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
+Blacklips Bar: Androgyns And Deviants — Industrial Romance For Bruised And Battered Angels, 1992​–​1995 - 2023 - https://api.discogs.com/masters/3020627
+Remote Control May Sampler - Desconocido - https://api.discogs.com/releases/27680385
+Volta Tour 2007 - 2007 - https://api.discogs.com/releases/11534468
