@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/pop/</loc>
-    <lastmod>2024-06-20T14:25:04+02:00</lastmod>
-  </url><url>
     <loc>/posts/</loc>
+    <lastmod>2024-06-20T15:53:29+02:00</lastmod>
+  </url><url>
+    <loc>/tags/shoegaze/</loc>
+    <lastmod>2024-06-20T15:53:29+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-20T15:53:29+02:00</lastmod>
+  </url><url>
+    <loc>/posts/terraplana-_-olhar-pra-tras/</loc>
+    <lastmod>2024-06-20T15:53:29+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-06-20T15:53:29+02:00</lastmod>
+  </url><url>
+    <loc>/tags/pop/</loc>
     <lastmod>2024-06-20T14:25:04+02:00</lastmod>
   </url><url>
     <loc>/tags/rock/</loc>
     <lastmod>2024-06-20T14:25:04+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-06-20T14:25:04+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-06-20T14:25:04+02:00</lastmod>
-  </url><url>
     <loc>/posts/yo-la-tengo-_-the-sounds-of-the-sounds-of-science/</loc>
     <lastmod>2024-06-20T14:25:04+02:00</lastmod>
-  </url><url>
-    <loc>/tags/shoegaze/</loc>
-    <lastmod>2024-06-20T13:59:50+02:00</lastmod>
   </url><url>
     <loc>/posts/the-jesus-and-mary-chain-_-psychocandy/</loc>
     <lastmod>2024-06-20T13:59:50+02:00</lastmod>
@@ -174,8 +177,6 @@
     <lastmod>2024-05-25T02:09:34+02:00</lastmod>
   </url><url>
     <loc>/posts/john-tejada-_-resound/</loc>
-  </url><url>
-    <loc>/posts/terraplana-_-olhar-pra-tras/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
