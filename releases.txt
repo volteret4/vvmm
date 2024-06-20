@@ -1,37 +1,112 @@
 Listado de releases del artista:
-Cardrive EP - 2017 - https://api.discogs.com/releases/16949610
-Sideways - 2017 - https://api.discogs.com/releases/16949664
-Awomen Amen - 2018 - https://api.discogs.com/releases/16949670
-Wit' Da Team - 2018 - https://api.discogs.com/releases/16949679
-WUTD + Vultures - 2019 - https://api.discogs.com/releases/16949685
-Good Times + Simmer Down - 2019 - https://api.discogs.com/releases/16949703
-Whip Cracker - 2020 - https://api.discogs.com/releases/16949724
-I Am - 2020 - https://api.discogs.com/releases/16949769
-The Other Black Dog - 2020 - https://api.discogs.com/releases/16949781
-Coliseum - 2020 - https://api.discogs.com/releases/22080673
-Coliseum (Sig Nu Gris Remix) - 2020 - https://api.discogs.com/releases/22093771
-Don't Need You - 2020 - https://api.discogs.com/masters/2077696
-Waitin' On Ya (Remix) - 2021 - https://api.discogs.com/releases/24529775
-Gold Chains (Remix) - 2021 - https://api.discogs.com/releases/24529883
-Same Thing - 2021 - https://api.discogs.com/releases/24530015
-Smiling With No Teeth - 2021 - https://api.discogs.com/masters/2017183
-Anarchy In The UK - 2022 - https://api.discogs.com/releases/22976213
-Get Inspired - 2022 - https://api.discogs.com/masters/3048416
-GTFO - 2022 - https://api.discogs.com/masters/2803133
-Struggler - 2023 - https://api.discogs.com/masters/3208080
-Shades - 2014 - https://api.discogs.com/releases/9005302
-With The People - 2016 - https://api.discogs.com/releases/8448729
-Kindred Spirits 3 - 2020 - https://api.discogs.com/releases/22171153
-The Jacknife Lee - 2020 - https://api.discogs.com/masters/2907040
-Distractions One - 2021 - https://api.discogs.com/releases/22094233
-Panna Cotta - 2022 - https://api.discogs.com/masters/2964628
-Endless Summer - 2023 - https://api.discogs.com/masters/3139842
-Bose x NME: C23 - 2023 - https://api.discogs.com/masters/3129492
-Nova Tunes 4.0 - 2019 - https://api.discogs.com/masters/1648407
-Nova Tunes 3.1_4.0 [2015-2019] - 2020 - https://api.discogs.com/releases/20689303
-Triple J's Hottest 100 Volume 28 - 2021 - https://api.discogs.com/releases/17637382
-DMC DJ Promo 278 - April 2022 - 2022 - https://api.discogs.com/releases/22715198
-Endless Summer - 2023 - https://api.discogs.com/masters/3139842
-Bose x NME: C23 - 2023 - https://api.discogs.com/masters/3129492
-A Colour Undone - 2024 - https://api.discogs.com/releases/30490426
-B-Sides - 2022 - https://api.discogs.com/releases/24603476
+Wind - 1986 - https://api.discogs.com/masters/874497
+Les Nouvelles Musiques De Chambre Volume 2 - 1989 - https://api.discogs.com/masters/289223
+The Wind Collector - 1991 - https://api.discogs.com/masters/1125949
+Lontano - 2001 - https://api.discogs.com/releases/663861
+Moltitudine In Labirinto - 2003 - https://api.discogs.com/releases/663394
+The Last DJ - 2008 - https://api.discogs.com/releases/1288800
+Hoshi - 2014 - https://api.discogs.com/masters/705694
+Talk To The Sea - 2014 - https://api.discogs.com/masters/693111
+Hoshi (Remixed) - 2015 - https://api.discogs.com/releases/7352299
+Tuvalu - 2015 - https://api.discogs.com/releases/7828290
+Stella  - 2016 - https://api.discogs.com/releases/8282171
+Plays Hazkarà - 2016 - https://api.discogs.com/releases/8377091
+Live at 'Superbudda' - Torino, Italy May 3rd,2015 - 2016 - https://api.discogs.com/releases/8631742
+Venezia 2016 - 2016 - https://api.discogs.com/releases/9133948
+Clouds - 2016 - https://api.discogs.com/releases/9251325
+Tsuki (Remixes) - 2016 - https://api.discogs.com/releases/9500596
+Tsuki - 2016 - https://api.discogs.com/masters/1012775
+Gigi Masin For Good Mellows - 2017 - https://api.discogs.com/releases/10150394
+Gigi Masin For Good Mellows Extra - 2017 - https://api.discogs.com/releases/13681740
+Corner Song - 2018 - https://api.discogs.com/releases/11400882
+Kite - 2018 - https://api.discogs.com/releases/12753804
+Kite - 2018 - https://api.discogs.com/masters/1524439
+Anemone - 2019 - https://api.discogs.com/releases/14706729
+Postcards From Nowhere - 2019 - https://api.discogs.com/masters/1835529
+Calypso - 2020 - https://api.discogs.com/masters/1691351
+Plays Venezia - 2021 - https://api.discogs.com/masters/2389042
+Vahinè - 2022 - https://api.discogs.com/releases/25171525
+Dolphin - 2023 - https://api.discogs.com/masters/3136266
+Red Hair Girl At Lighthouse Beach - 2023 - https://api.discogs.com/masters/3245794
+The Fish Factory Sessions - 2024 - https://api.discogs.com/releases/30421574
+Falling Leaves - 2014 - https://api.discogs.com/masters/677781
+Bella Ciao Gigi Masin & Leo Mas & Fabrice Remixes - 2016 - https://api.discogs.com/masters/976758
+Planetarium   - 2017 - https://api.discogs.com/releases/10350462
+Peaks Remixes One - 2017 - https://api.discogs.com/masters/1246097
+Dig It, Understand It - 2017 - https://api.discogs.com/masters/1509289
+Infinite Avenue - 2017 - https://api.discogs.com/masters/1242725
+Remixes - 2017 - https://api.discogs.com/masters/1244647
+Smalltown Supersound 25: The Movement Of The Free Spirit - 2018 - https://api.discogs.com/masters/1464010
+Spaciousness 2: Music Without Horizons - 2021 - https://api.discogs.com/releases/20527678
+The Distance - 2017 - https://api.discogs.com/masters/1165992
+Fragile - Maneggiare Con Cura - 1990 - https://api.discogs.com/releases/3125058
+Les Mystères Des Voix Vulgaires - 1990 - https://api.discogs.com/masters/305221
+Imago Sonora 1 - 1991 - https://api.discogs.com/releases/17178166
+Greatest Hits - 2002 - https://api.discogs.com/masters/34601
+Unfolk - 2006 - https://api.discogs.com/masters/1313581
+Expanding Sound - 2008 - https://api.discogs.com/releases/27981072
+What Remains In A Breath - 2009 - https://api.discogs.com/releases/1940247
+The Venetian Book Of The Dead - 2010 - https://api.discogs.com/releases/2152970
+Salicornie (Topofonie Vol. 2) - 2010 - https://api.discogs.com/releases/2511631
+Clouds - 2014 - https://api.discogs.com/masters/783743
+1 - 2015 - https://api.discogs.com/masters/827722
+(The Microcosm) Visionary Music Of Continental Europe, 1970-1986 - 2016 - https://api.discogs.com/masters/1106146
+Peaks Remixes One - 2017 - https://api.discogs.com/masters/1246097
+The Distance - 2017 - https://api.discogs.com/masters/1165992
+La Calle Roja  - 2018 - https://api.discogs.com/masters/1771264
+Anne - 2018 - https://api.discogs.com/masters/1460106
+Framed Space: Selected Works 2014​-​2017 - 2018 - https://api.discogs.com/masters/1607528
+Cosmic Cratedigging (15 Tracks Chosen Exclusively For Uncut From The Vaults Of Light In The Attic Records) - 2020 - https://api.discogs.com/releases/15352683
+What Do The Stars Say To You - 2022 - https://api.discogs.com/masters/2682674
+Clouds / Waterland  - 2024 - https://api.discogs.com/releases/30784596
+Winter Sun / Fever Dream - 2024 - https://api.discogs.com/masters/3433217
+Fragile - Maneggiare Con Cura - 1990 - https://api.discogs.com/releases/3125058
+Les Mystères Des Voix Vulgaires - 1990 - https://api.discogs.com/masters/305221
+Just Before Dawn - 2005 - https://api.discogs.com/releases/663411
+Nocturnal Emission 1st Flight - 2007 - https://api.discogs.com/releases/1288623
+Remembering - 2009 - https://api.discogs.com/releases/2061092
+Late Night Broadcast - 2010 - https://api.discogs.com/releases/2334347
+Lav:NEXT - 2011 - https://api.discogs.com/releases/3085064
+Underwater Noises - 2011 - https://api.discogs.com/masters/572548
+Café Mambo - The Sunset Sessions - 2013 - https://api.discogs.com/releases/8138334
+Klassik Lounge Nightflight Vol.6 (Compiled By DJ Nartak) - 2013 - https://api.discogs.com/releases/16874880
+Moon Rock 2 - 2014 - https://api.discogs.com/masters/762041
+Diplocomp - 2014 - https://api.discogs.com/masters/866659
+La Escollera Session Two - 2015 - https://api.discogs.com/releases/7127731
+Discipula - Secret Thirteen Mix 164 - 2015 - https://api.discogs.com/releases/7868156
+Canblaster X-Mas Mixtape Vol. 3 - The Coldest Winter - 2015 - https://api.discogs.com/releases/7908929
+100 Release Compilation - 2015 - https://api.discogs.com/releases/13638436
+Soundscapes For Escape Vol. 2 - 2015 - https://api.discogs.com/masters/804394
+Good Mellows For Sunset Feeling - 2015 - https://api.discogs.com/masters/2975545
+Perspective/Prospective: 10 Years Of Laverna - 2015 - https://api.discogs.com/masters/1209064
+The Sunrise Sessions - 2016 - https://api.discogs.com/releases/8326289
+Music City Lovers - Soundtrack For Comfortable Life - 2016 - https://api.discogs.com/releases/23515058
+Good Mellows For Stardust Memory - 2016 - https://api.discogs.com/masters/2975560
+(The Microcosm) Visionary Music Of Continental Europe, 1970-1986 - 2016 - https://api.discogs.com/masters/1106146
+Hell Yeah Recordings 01.2017 - 2017 - https://api.discogs.com/releases/10416061
+Music from Memory  - 2017 - https://api.discogs.com/releases/10443891
+Isolatedmix 72 - 2017 - https://api.discogs.com/releases/10865919
+EXO3 - 2017 - https://api.discogs.com/releases/10943962
+Jesus Is A Flower - 2017 - https://api.discogs.com/releases/11052853
+Klassik Lounge Summer Vol.2 - 2017 - https://api.discogs.com/releases/11212578
+Ambient Seascapes - 2017 - https://api.discogs.com/releases/12495318
+We Got The Jazz - 2017 - https://api.discogs.com/releases/23785568
+Fact Mix 588 - 2017 - https://api.discogs.com/releases/29410078
+Air Texture Volume V - 2017 - https://api.discogs.com/masters/1176221
+Dekmantel 10 Years 01 - 2017 - https://api.discogs.com/masters/1209065
+Puerto Rico Relief - 2018 - https://api.discogs.com/releases/11410058
+Dance With Me (Rare Trax Vol. 110) - 2018 - https://api.discogs.com/releases/11485316
+Nubreed Global Underground - 2018 - https://api.discogs.com/masters/1476264
+Ibossim Selection - 2019 - https://api.discogs.com/releases/13614625
+In My Memory Remains - 2019 - https://api.discogs.com/releases/15395225
+Cosmic Cratedigging (15 Tracks Chosen Exclusively For Uncut From The Vaults Of Light In The Attic Records) - 2020 - https://api.discogs.com/releases/15352683
+MixCult Radio Podcast # 235 - Alpha Centauri  - 2020 - https://api.discogs.com/releases/15395402
+The Diplodisc Years 2006-2014 - Diplobag - 2020 - https://api.discogs.com/releases/15714166
+Hell Yeah MixTape - 2021 - https://api.discogs.com/releases/17589880
+The Maldives: The Coral Reef Project - 2021 - https://api.discogs.com/releases/23966981
+Earth/Percent x Earth Day Compilation Album - 2022 - https://api.discogs.com/releases/24528998
+Here We Grow (A Charity Project with Clima Now) - 2023 - https://api.discogs.com/releases/26829059
+Transmission From The Cave ~ VI - 2023 - https://api.discogs.com/releases/27473013
+Organic Oscillation Mix - 2023 - https://api.discogs.com/releases/28430737
+Piccadilly Records Sampler 2023 - 2023 - https://api.discogs.com/releases/29140003
+10 - 2023 - https://api.discogs.com/masters/3341509

@@ -1,0 +1,66 @@
+---
+title: "Gigi Masin - Dolphin"
+date: 2024-06-20T19:41:30+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - ambient
+ - jazz
+ - deep
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Gigi-Masin - Dolphin))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3136266)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d43f90d8-93f1-4bb9-a541-964518cca9cd)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLSBBquzanOT1OcjixarbxtzOZArWVcNWE)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+<!-- [![spotify](../links/svg/spotify.png (putify))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2023
+> 
+> **Géneros**: Electronic, Jazz
+> 
+> **Estilos**: Jazz-Funk, Ambient, Downtempo, Modern Classical
+> 
+> **Pais:** UK
+> 
+> **Votos:** Media de 4.0 con 1 votos
+> 
+> **Sello:** Pipsqueak Records
+> 
+> **Bass Guitar, Backing Vocals** - Gary Doyle
+> 
+> **Electric Guitar, Vocals, Music By, Lyrics By** - Michael Baines
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   A1. Lee 
+> (feat. [Gigi Masin](https://www.discogs.com/artist/491206 'Italian musician. Born: 24 October 1955 in...') & [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   8:26
+> 
+>   A2. London Nights 
+> (feat. [Tom Herbert](https://www.discogs.com/artist/420149 'Jazz/groove bass player from London. He's also...') & [Moses Boyd](https://www.discogs.com/artist/4316913 'British drummer, composer, producer, and electronic musician....') & [Gigi Masin](https://www.discogs.com/artist/491206 'Italian musician. Born: 24 October 1955 in...') & [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   7:08
+> 
+>   A3. Love Theme 
+> (feat. [Tom Herbert](https://www.discogs.com/artist/420149 'Jazz/groove bass player from London. He's also...') & [Moses Boyd](https://www.discogs.com/artist/4316913 'British drummer, composer, producer, and electronic musician....') & [Siobhan Cosgrove](https://www.discogs.com/artist/9714685 '') & [Gigi Masin](https://www.discogs.com/artist/491206 'Italian musician. Born: 24 October 1955 in...') & [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   5:58
+> 
+>   B1. Dolphin 
+> (feat. [Siobhan Cosgrove](https://www.discogs.com/artist/9714685 '') & [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   1:59
+> 
+>   B2. Sabena 
+> (feat. [Gigi Masin](https://www.discogs.com/artist/491206 'Italian musician. Born: 24 October 1955 in...') & [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   9:33
+> 
+>   B3. Leo Theo 
+> (feat. [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   1:51
+> 
+>   B4. Viento Calido 
+> (feat. [Tom Herbert](https://www.discogs.com/artist/420149 'Jazz/groove bass player from London. He's also...') & [Moses Boyd](https://www.discogs.com/artist/4316913 'British drummer, composer, producer, and electronic musician....') & [Gigi Masin](https://www.discogs.com/artist/491206 'Italian musician. Born: 24 October 1955 in...') & [Greg Foat](https://www.discogs.com/artist/2228280 'British jazz pianist, composer and arranger, founded...'))   6:42
+> 
