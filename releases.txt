@@ -1,22 +1,130 @@
 Listado de releases del artista:
-Hybrid - 2007 - https://api.discogs.com/masters/58620
-Hybrid Remixes - 2009 - https://api.discogs.com/releases/5208618
-Mend - 2012 - https://api.discogs.com/releases/3815157
-Mechanics Of Emotion - 2012 - https://api.discogs.com/masters/426712
-Remix Contest Powered By Sennheiser - 2013 - https://api.discogs.com/releases/4534653
-Unstable - 2016 - https://api.discogs.com/releases/10240714
-Unstable (Remixes) - 2017 - https://api.discogs.com/releases/10240673
-Space Between Us - 2017 - https://api.discogs.com/releases/10240697
-Trilogy - 2017 - https://api.discogs.com/releases/11158800
-Death Of The Artist - 2017 - https://api.discogs.com/masters/1212090
-Rin, Tongue And Dorner - 2018 - https://api.discogs.com/masters/2176933
-Elsiane - 2023 - https://api.discogs.com/releases/28782235
-Mirrors Of Perception - 2021 - https://api.discogs.com/masters/2176951
-Silent Wonder - 2007 - https://api.discogs.com/releases/1137203
-M For/ Pour Montréal 2007 - 2007 - https://api.discogs.com/releases/9080098
-Autumn Sampler 2008 - 2008 - https://api.discogs.com/releases/7176576
-Big Sur Life Formentera ● 2 - 2008 - https://api.discogs.com/releases/13654767
-Bones Original Television Soundtrack - 2008 - https://api.discogs.com/masters/1051625
-Voice: An Acoustic Collection - 2010 - https://api.discogs.com/masters/372228
-Jockey Club Salinas Ibiza Sessions 11 - 2014 - https://api.discogs.com/releases/26256674
-Zaraz Wracam: Przedstawia Artur Orzech - 2015 - https://api.discogs.com/releases/14233387
+The Raven - 1994 - https://api.discogs.com/masters/537474
+The New York Girls Club - 1996 - https://api.discogs.com/masters/649346
+Four Marys - 1998 - https://api.discogs.com/masters/1076821
+Retrospective - 2003 - https://api.discogs.com/masters/625584
+Tough On Crime - 2005 - https://api.discogs.com/releases/2302291
+ Learn To Pray - 2006 - https://api.discogs.com/masters/273769
+Behind The Velvet Curtain - 2008 - https://api.discogs.com/releases/6596925
+Slingshot - 2011 - https://api.discogs.com/masters/2443279
+Mean Mr Mustard - 2012 - https://api.discogs.com/releases/3621234
+I Loved No-One - 2012 - https://api.discogs.com/releases/3856793
+Blue Dress On - 2013 - https://api.discogs.com/releases/9943087
+Bad Poetry - 2014 - https://api.discogs.com/releases/6596728
+Get Up Get Out / Disintegration Man - Desconocido - https://api.discogs.com/releases/3554310
+Tough On Crime EPK - Desconocido - https://api.discogs.com/releases/10185991
+Parts of Speech Pieces of Sound - Desconocido - https://api.discogs.com/releases/25070044
+Give Us Our Flag Back - 1987 - https://api.discogs.com/releases/1440590
+So Unlike Me - 1987 - https://api.discogs.com/masters/410886
+Because... - 1988 - https://api.discogs.com/masters/346764
+Glances Askances - 1991 - https://api.discogs.com/masters/257982
+Give Us Our Flag Back - 1987 - https://api.discogs.com/releases/1440590
+So Unlike Me - 1987 - https://api.discogs.com/masters/410886
+Ashes And Diamonds (The Underground Educational Entertainment Program 2) - 1988 - https://api.discogs.com/releases/417174
+Because... - 1988 - https://api.discogs.com/masters/346764
+Bloomsbury Blue - 1988 - https://api.discogs.com/masters/467412
+Stand Together - 1989 - https://api.discogs.com/masters/1110681
+Select 12 - 1990 - https://api.discogs.com/releases/2571616
+Primitive Man - 1990 - https://api.discogs.com/masters/822174
+Just Say Yes To Another Excess - 1990 - https://api.discogs.com/masters/1518536
+The Quiet Mind - For Joe - 1990 - https://api.discogs.com/masters/467410
+Can It Be - 1990 - https://api.discogs.com/masters/257757
+Focus / May '91 PolyGram Compilation - 1991 - https://api.discogs.com/releases/12715041
+Focus / March '91 PolyGram Compilation - 1991 - https://api.discogs.com/releases/15705254
+Glances Askances - 1991 - https://api.discogs.com/masters/257982
+Broken Water - 1992 - https://api.discogs.com/releases/2337399
+Consonant Please Carol - 1992 - https://api.discogs.com/masters/1056927
+The Vocal Collection - 1994 - https://api.discogs.com/releases/12679708
+Best Of Chesky Classics & Jazz And Audiophile Test Disc Volume 3 - 1994 - https://api.discogs.com/masters/2336152
+Gold Stereo And Surround Sound Set-Up Disc - 1997 - https://api.discogs.com/masters/1556801
+T+A Präsentiert: 20 Jahre Stereoplay - 1998 - https://api.discogs.com/releases/11582860
+Chesky 2 K Sampler - 2000 - https://api.discogs.com/releases/4588948
+Chesky 2 K Sampler - 2000 - https://api.discogs.com/releases/15641713
+Through All These Years - 2001 - https://api.discogs.com/releases/14855568
+Defected Presents Charles Webster - 2007 - https://api.discogs.com/masters/265319
+Tide - 2009 - https://api.discogs.com/masters/877186
+Bare Bones - 2009 - https://api.discogs.com/masters/257105
+AudiogoN The Wake Up Your Ears Sampler - 2013 - https://api.discogs.com/releases/14396949
+Decibels From Heart - 2015 - https://api.discogs.com/releases/7758108
+Celtic Women - 2020 - https://api.discogs.com/masters/1788065
+Grooves Volume Five - 1994 - https://api.discogs.com/releases/686082
+Female Voices - 1994 - https://api.discogs.com/releases/15724891
+Best Of Chesky Classics & Jazz And Audiophile Test Disc Volume 3 - 1994 - https://api.discogs.com/masters/2336152
+Audio CD - 1995 - https://api.discogs.com/releases/2540470
+TDK's Ultimate Guide To Great Sound - 1995 - https://api.discogs.com/releases/5364934
+Ladies' Choice - 1995 - https://api.discogs.com/releases/7449103
+BMW Audiophile Demonstration Disc - 1995 - https://api.discogs.com/releases/10437262
+The Ultimate Demonstration Disc (The Chesky Guide To Critical Listening) - 1995 - https://api.discogs.com/masters/1103010
+Hifi Check - 1995 - https://api.discogs.com/masters/1673314
+Die Stereo Hörtest CD - 1996 - https://api.discogs.com/releases/7596614
+Bose Acoustimass Speaker Technology Demonstration - 1996 - https://api.discogs.com/releases/14699469
+Technics Edition VII - 1996 - https://api.discogs.com/releases/14959659
+Disque De Démonstration Focal Numéro Un - 1996 - https://api.discogs.com/releases/27429117
+Disque De Demonstration Focal - № 1 - 1996 - https://api.discogs.com/releases/28446637
+Disque de Démonstration Focal Audiomobile Numéro Un - 1996 - https://api.discogs.com/releases/30655984
+BMW Audiophile Demonstration Disc - 1996 - https://api.discogs.com/masters/1536656
+Chesky Records 10th Anniversary Special Edition - 1996 - https://api.discogs.com/masters/3496677
+Women Of Song - 1997 - https://api.discogs.com/releases/2136961
+20 Jahre Audio - 1997 - https://api.discogs.com/releases/3793993
+Die Stereo Hörtest CD Vol. 2 - 1997 - https://api.discogs.com/releases/7600205
+Women Of Song - 1997 - https://api.discogs.com/releases/8939621
+ALR/Jordan 1 - Voices - The Collection - 1997 - https://api.discogs.com/releases/9808901
+Vocal Heroes - 1997 - https://api.discogs.com/releases/10956853
+The Super Audio Collection & Professional Test Disc - 1998 - https://api.discogs.com/releases/4602624
+Audiophile Top-Hits - 1998 - https://api.discogs.com/releases/9473320
+T+A Präsentiert: 20 Jahre Stereoplay - 1998 - https://api.discogs.com/releases/11582860
+Music For A New World - 1998 - https://api.discogs.com/releases/13515398
+Focal-JMlab CD №  3 - 1998 - https://api.discogs.com/releases/17337637
+CD Test N°10 - La Nouvelle Revue Du Son - 1998 - https://api.discogs.com/releases/25035688
+Celtic Sisters - The Women Of Ireland - 1998 - https://api.discogs.com/masters/1724090
+Chesky Records - 1998 - https://api.discogs.com/masters/1536969
+Die Chesky Story - 1999 - https://api.discogs.com/releases/7461136
+Acoustic Magic - 1999 - https://api.discogs.com/releases/7907200
+High Fidelity Reference CD No. 42 - 1999 - https://api.discogs.com/releases/8132142
+Bravo! - 1999 - https://api.discogs.com/releases/8939782
+Jazz For A Literary Mind - 1999 - https://api.discogs.com/releases/9881519
+"24 Hours Of Love" With Chesky Records  - 1999 - https://api.discogs.com/releases/12549768
+Philips Präsentiert Audiophile Top-CD - 1999 - https://api.discogs.com/releases/12801072
+BMW Audiophile Demonstration Disc - 1999 - https://api.discogs.com/masters/2335870
+An Introduction To SACD - 2000 - https://api.discogs.com/releases/997524
+Chesky 2 K Sampler - 2000 - https://api.discogs.com/releases/4588948
+Starbucks Songs of the Siren: Her Own Story - 2000 - https://api.discogs.com/releases/12054468
+Chesky 2 K Sampler - 2000 - https://api.discogs.com/releases/15641713
+BMW Audiophile Demonstration Disc - 2001 - https://api.discogs.com/masters/1485484
+The Best Of Chesky Records - 2002 - https://api.discogs.com/releases/9839404
+A Taste Of Jazz - 2002 - https://api.discogs.com/releases/21716740
+Night Songs She Sings - 2004 - https://api.discogs.com/releases/14892339
+Chesky Acoustic Jazz - 2004 - https://api.discogs.com/releases/26721608
+Best Audiophile Voices III - 2004 - https://api.discogs.com/masters/1292505
+More Voices & Instruments - 2005 - https://api.discogs.com/releases/15481216
+Feeling Music - 2005 - https://api.discogs.com/releases/28103332
+20th Anniversary Chesky Records - 2006 - https://api.discogs.com/masters/1746437
+The Worlds Greatest Audiophile Vocal Recordings - 2006 - https://api.discogs.com/masters/1605142
+FoReal House Styles 3 'Marokolo' - 2007 - https://api.discogs.com/releases/1202034
+Cielo - Seventh Heaven - 2007 - https://api.discogs.com/releases/1329358
+18 Female Shake The World - 2007 - https://api.discogs.com/releases/7689910
+Celtic Sisters - 2007 - https://api.discogs.com/releases/19485244
+Defected Presents Charles Webster - 2007 - https://api.discogs.com/masters/265319
+Defected Presents The Charles Webster EPs Part 2 - 2008 - https://api.discogs.com/releases/3171841
+Singer Songwriters - 2008 - https://api.discogs.com/releases/9939502
+Wine & Vocals - 2009 - https://api.discogs.com/releases/18190912
+Jazz Edition Vol. 1 - 2009 - https://api.discogs.com/releases/19242508
+Champagne & Songs - 2010 - https://api.discogs.com/releases/14045920
+Head-Fi And HDtracks - Open Your Ears - 2010 - https://api.discogs.com/releases/16497657
+Best Audiophile Voices VI - 2010 - https://api.discogs.com/masters/2986196
+Our Music Is A Bit Eclectic (Just Like You): Decca Record Store Day 2012 Sampler - 2012 - https://api.discogs.com/releases/3596093
+Abbey Road - 2012 - https://api.discogs.com/releases/6725665
+Die Stereo Hörtest-Edition Vol. III - 2014 - https://api.discogs.com/releases/5789413
+Bargrooves: Deluxe Edition 2016 - 2015 - https://api.discogs.com/masters/1724421
+Stereoplay: Audiophile Meisterstücke - 2016 - https://api.discogs.com/releases/8802629
+The Pinnacle Of Chesky Voice - 2016 - https://api.discogs.com/masters/1804638
+The Definitive Audiophile Female Vocal Collection - 2017 - https://api.discogs.com/releases/12500394
+ House Masters Bonus Tracks-1  - 2020 - https://api.discogs.com/releases/15353000
+Celtic Women - 2020 - https://api.discogs.com/masters/1788065
+The World's Greatest Audiophile Vocal Recordings - 2023 - https://api.discogs.com/releases/28266709
+Abbey Road Reimagined: A Tribute To The Beatles - 2023 - https://api.discogs.com/masters/3233527
+Top Audio Selection Vol. 1 - Top Audio 1994 - Desconocido - https://api.discogs.com/releases/10604803
+Romantic Collection. Espanol - 2000 - https://api.discogs.com/releases/7606714
+Этническая Музыка Мира Vol.5 - Аргентина, Венгрия, Греция, Перу... - 2002 - https://api.discogs.com/releases/30714839
+Best Audiophile Voices III - 2005 - https://api.discogs.com/releases/21320647
+Español & Latino - Desconocido - https://api.discogs.com/masters/1647937
