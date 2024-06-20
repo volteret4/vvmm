@@ -1,5 +1,5 @@
 Listado de releases del artista:
-Knob - 2019 - https://api.discogs.com/masters/1740946
-Haven - 2020 - https://api.discogs.com/masters/1826362
-Over Tage - 2022 - https://api.discogs.com/masters/2857264
-At Home (An NPR Tiny Desk Concert) - 2023 - https://api.discogs.com/masters/3376504
+The Village Headman Pleading With The Old Ferryman - 2021 - https://api.discogs.com/releases/20912359
+Environment - 2022 - https://api.discogs.com/releases/26036197
+The Twenty​-​three Views - 2022 - https://api.discogs.com/masters/2917729
+Floating World Pictures With Ocean Moon - 2024 - https://api.discogs.com/releases/30971578
