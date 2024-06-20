@@ -1,97 +1,138 @@
 Listado de releases del artista:
-How Strange, Innocence - 2000 - https://api.discogs.com/masters/4185
-Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever - 2001 - https://api.discogs.com/masters/4178
-The Earth Is Not A Cold Dead Place - 2003 - https://api.discogs.com/masters/4202
-The Rescue (Travels In Constants Volume Twenty-One) - 2005 - https://api.discogs.com/masters/311305
-All Of A Sudden I Miss Everyone - 2007 - https://api.discogs.com/masters/4212
-Take Care, Take Care, Take Care - 2011 - https://api.discogs.com/masters/330128
-Lone Survivor (Original Motion Picture Soundtrack) - 2013 - https://api.discogs.com/masters/716456
-Prince Avalanche: An Original Motion Picture Soundtrack - 2013 - https://api.discogs.com/masters/580553
-Manglehorn (Original Motion Picture Soundtrack) - 2015 - https://api.discogs.com/masters/944691
-Disintegration Anxiety - 2016 - https://api.discogs.com/releases/9448094
-The Wilderness - 2016 - https://api.discogs.com/masters/978556
-Big Bend (An Original Soundtrack For Public Television) - 2021 - https://api.discogs.com/masters/2321431
-End - 2023 - https://api.discogs.com/masters/3239233
-Hang Up Sampler 3 - 2003 - https://api.discogs.com/releases/774627
-Rhâââ Lovely Festival 2004 - 2004 - https://api.discogs.com/releases/639907
-Friday Night Lights (Original Motion Picture Soundtrack) - 2004 - https://api.discogs.com/masters/121839
-The Playlist March 2007 - 2007 - https://api.discogs.com/masters/503135
-Last Hope - 2009 - https://api.discogs.com/releases/4546640
-Per_Versions - 2009 - https://api.discogs.com/releases/12300599
-Weekender 2011 - Die CD Zum Festival - 2011 - https://api.discogs.com/releases/3132745
-Winter - 2015 - https://api.discogs.com/releases/13937437
-91.7 KVRX Local Live V.4 Refurbished Robots - 1999 - https://api.discogs.com/releases/10984253
-Dicembre 2001 - 2001 - https://api.discogs.com/releases/5826838
-Hang Up Sampler 3 - 2003 - https://api.discogs.com/releases/774627
-Music With Attitude - Volume 55 - 2003 - https://api.discogs.com/releases/8734860
-The Eye Volume 3 - 2004 - https://api.discogs.com/releases/405583
-Rhâââ Lovely Festival 2004 - 2004 - https://api.discogs.com/releases/639907
-Beneath The Surface Volume 1 - 2004 - https://api.discogs.com/releases/855262
-Accelerator 2004 - 2004 - https://api.discogs.com/releases/2282844
-Today's Best Music - 2004 - https://api.discogs.com/releases/2634970
-Today's Best Music - 2004 - https://api.discogs.com/releases/3356593
-Spunk Under The Sea - 2004 - https://api.discogs.com/releases/9753048
-TRR50 Thank You - 2004 - https://api.discogs.com/masters/1361417
-Americana 2004 - 2004 - https://api.discogs.com/masters/1606615
-Friday Night Lights (Original Motion Picture Soundtrack) - 2004 - https://api.discogs.com/masters/121839
-Bella Union - 2005 - https://api.discogs.com/releases/1486187
-Sinnamon Records - 2005 - https://api.discogs.com/releases/1631850
-Today's Best Music - Το Juke Box Του Rock+Roll - 2005 - https://api.discogs.com/releases/4509169
-Duyster. - 2005 - https://api.discogs.com/masters/769297
-Chill'Em All (The Hi-Lo Tunez Plan: 6th Step) - 2005 - https://api.discogs.com/masters/992110
-Human Highway Records Sampler CD 2006 - 2006 - https://api.discogs.com/releases/657413
-Tempset - (Re)Mix Tape - 2006 - https://api.discogs.com/releases/811806
-出道紀念日 - 2006 - https://api.discogs.com/releases/3586230
-Bank Robber Music Compilation - Volume 6 Winter 2006 - 2006 - https://api.discogs.com/releases/8443780
-A Low Hum > Series 3 > Issue Six - 2006 - https://api.discogs.com/releases/14817089
-Destroy Independent Music! - 2007 - https://api.discogs.com/releases/905761
-CD Side 39 - 2007 - https://api.discogs.com/releases/927847
-HHR Sampler 2007 - 2007 - https://api.discogs.com/releases/937235
-Motel Mozaïque 2007 Sampler - 2007 - https://api.discogs.com/releases/941249
-Cooperative Music - 2007 - https://api.discogs.com/releases/1453442
-Immergutrocken 8 - 2007 - https://api.discogs.com/releases/1732225
-Insound & Le Tigre Present Pushing Product 9 Spring 2007 - 2007 - https://api.discogs.com/releases/1921630
-Spring 2007 Sampler - 2007 - https://api.discogs.com/releases/1939319
-Cooperative Music Sampler Volume 4 - 2007 - https://api.discogs.com/releases/2588691
-Two Steps From The Middles Ages (Another Spunk Sampler) - 2007 - https://api.discogs.com/releases/2831357
-10th Anniversary Label Sampler - 2007 - https://api.discogs.com/releases/3320925
-Beneath The Surface Volume 3 - A Bella Union Sampler - 2007 - https://api.discogs.com/releases/4256644
-A Night On Earth - 2007 - https://api.discogs.com/releases/6957319
-Sound Check No. 94 - 2007 - https://api.discogs.com/releases/7274705
-The 2007 Music Issue - 2007 - https://api.discogs.com/releases/8534591
-Juice - 2007 - https://api.discogs.com/releases/30076024
-The Playlist March 2007 - 2007 - https://api.discogs.com/masters/503135
-Music From Time And Space Vol.23 - 2007 - https://api.discogs.com/masters/1716834
-A Taste Of This Year's End Of The Road Festival 2009 - 2009 - https://api.discogs.com/releases/3320940
-Last Hope - 2009 - https://api.discogs.com/releases/4546640
-Willamette Week's MusicfestNW 2009 - 2009 - https://api.discogs.com/releases/5014120
-White Winter Hymnals (15 Brilliant Tracks From The Bella Union Label) - 2009 - https://api.discogs.com/masters/738068
-Electronic Explorations Mix - 2010 - https://api.discogs.com/releases/2690958
-Friday Night Lights: Original Television Soundtrack - 2010 - https://api.discogs.com/masters/1184897
-All Areas Volume 127 - 2011 - https://api.discogs.com/releases/2909464
-Weekender 2011 - Die CD Zum Festival - 2011 - https://api.discogs.com/releases/3132745
-Ekko Recordings 1986 - 2011 - 2011 - https://api.discogs.com/releases/3221198
-Forest Fire Scuba Diver Spunk Sampler 2011 - 2011 - https://api.discogs.com/releases/3239614
-Veils - 2011 - https://api.discogs.com/releases/3269136
-MFNW 2011 - 2011 - https://api.discogs.com/releases/11917672
-Rough Trade Shops (Green Man '11) - 2011 - https://api.discogs.com/masters/513303
- Citybirches Photography Works (2006-2011) Compilation - 2012 - https://api.discogs.com/releases/4763441
-Rough Trade Shops - 15 Years Of Bella Union Records - 2012 - https://api.discogs.com/releases/5514362
-Isolatedmix 40 - Away - 2013 - https://api.discogs.com/releases/4771597
-We Deliver The Goods - Cargosampler #161/13 - 2013 - https://api.discogs.com/releases/4982828
-Pianorama 2c - 2014 - https://api.discogs.com/releases/5465462
-Temporary Residence Ltd. 2015 - 2015 - https://api.discogs.com/masters/1660829
-Un Printemps 2016 - 2016 - https://api.discogs.com/releases/8275932
-How Soon Is Now? (Mojo Presents 15 Tracks Of Modern Independent Music...) - 2016 - https://api.discogs.com/releases/8699060
-The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
-Spunk Records April 2016 - Sampler - 2016 - https://api.discogs.com/releases/11128934
-Not So Athletico - Spunk! Records Sampler 2016 - 2016 - https://api.discogs.com/releases/11261638
-TRL 2016 - 2016 - https://api.discogs.com/releases/21258985
-Filmtracks: The Composer's Collection - 2016 - https://api.discogs.com/masters/2498788
-Bella Union - 20 Years - 2017 - https://api.discogs.com/releases/10544283
-Old Bad Mixes - 2021 - https://api.discogs.com/releases/20800681
-TRL 2021 - 2021 - https://api.discogs.com/releases/21236416
-All Areas Volume 265 - 2023 - https://api.discogs.com/releases/28073206
-PROG Presents: Discovering Bella Union - 2024 - https://api.discogs.com/releases/29800714
-The Earth Is Not A Cold Dead Place - 2003 - https://api.discogs.com/masters/4202
-The Birth And Death Of The Day (Eco Bootleg Remix) - 2011 - https://api.discogs.com/releases/4285286
+Journey Into Sound / Respect It - 1996 - https://api.discogs.com/releases/399622
+Hyponosis / Philosofy - 1996 - https://api.discogs.com/releases/3878847
+Lessons / Times Out - 1996 - https://api.discogs.com/masters/854096
+Beware / Crazy Juice - 1996 - https://api.discogs.com/masters/300776
+Live And Direct - 1996 - https://api.discogs.com/masters/300779
+Voodoo - 1997 - https://api.discogs.com/releases/1069177
+Beings / Bolted - 1997 - https://api.discogs.com/masters/472792
+The Smokers Inc. (Remixes) - 1997 - https://api.discogs.com/masters/408484
+Low Down / Octane - 1998 - https://api.discogs.com/masters/395941
+Wreckage / Asylum - 1998 - https://api.discogs.com/masters/250042
+Cazms / Dekweef - 1998 - https://api.discogs.com/masters/172306
+Beings (Remix) / Philosophy - 1998 - https://api.discogs.com/masters/206123
+Rupture / Cryptix - 1998 - https://api.discogs.com/masters/203667
+Whole Car / Fat Cap - 1998 - https://api.discogs.com/masters/14844
+Stutter / Kromedome - 1999 - https://api.discogs.com/masters/14849
+Capture / Stark - 2000 - https://api.discogs.com/releases/5105
+Studly / Terrordome - 2001 - https://api.discogs.com/releases/9393
+Contagious Drum And Bass Volume 2 - 2001 - https://api.discogs.com/releases/690912
+Beings - 2003 - https://api.discogs.com/releases/4797348
+Mantra / Immeasurable Minds - 2003 - https://api.discogs.com/masters/231475
+Paperclip / Incendry - 2004 - https://api.discogs.com/masters/231415
+Asylum / Intro Toon / Kiss 100 FM Jingles - 2008 - https://api.discogs.com/releases/4797353
+The Ghost E.P. - 2009 - https://api.discogs.com/masters/14852
+Demon Eyes / Bass Come Out So Clear - 2010 - https://api.discogs.com/masters/413256
+Koga / Beat Dis - 2012 - https://api.discogs.com/masters/729860
+Biotic 13 - 2018 - https://api.discogs.com/releases/13874183
+Biotic 14 - 2019 - https://api.discogs.com/releases/13874170
+Lab Tests Vol​. ​2 - 2021 - https://api.discogs.com/releases/19588948
+Invasions EP - 2021 - https://api.discogs.com/releases/20299411
+XXX 11 (Demon Eyes Remixes) - 2021 - https://api.discogs.com/releases/22632665
+Killa Bullet / Stutter - Desconocido - https://api.discogs.com/releases/4329874
+Somebody / Need You Now - Desconocido - https://api.discogs.com/releases/13151388
+Smokers Inc - Volume One - The No Smoking Selection - 1996 - https://api.discogs.com/masters/6680
+East Side Jamz Volume One Sampler - 1998 - https://api.discogs.com/masters/571766
+East Side Jamz Volume One - 1998 - https://api.discogs.com/masters/45008
+EXIST​​:​​ENCE 2021 - 2022 - https://api.discogs.com/releases/22738733
+Dog Style / Beware Of .. - 1995 - https://api.discogs.com/releases/283964
+Step 2 Me / Payback - 1995 - https://api.discogs.com/masters/360199
+Just Roll / Gang Related - 1995 - https://api.discogs.com/masters/3177255
+The Berlin Connection - 1996 - https://api.discogs.com/releases/408410
+Smokers Inc - Volume One - The No Smoking Selection - 1996 - https://api.discogs.com/masters/6680
+Funkula - 1996 - https://api.discogs.com/masters/6693
+Gangsta Boogie / Dont Play - 1996 - https://api.discogs.com/masters/6708
+Badself / Flipside - 1996 - https://api.discogs.com/masters/470161
+Far Away - 1996 - https://api.discogs.com/masters/1555095
+Buttfucker - 1996 - https://api.discogs.com/masters/517808
+Smokers Vol II - 1996 - https://api.discogs.com/masters/1405122
+Mixdat (Run It) / Beeside - 1996 - https://api.discogs.com/masters/554247
+Like Dis / Applebum - 1996 - https://api.discogs.com/masters/152859
+Work Dat Sucker / Some DJ's - 1996 - https://api.discogs.com/masters/404295
+Rock Da Funky Beat / Check The Method (Remix) - 1996 - https://api.discogs.com/masters/542604
+Chemistry / Don't Be Afraid - 1996 - https://api.discogs.com/masters/31116
+Gettin' Busy - 1996 - https://api.discogs.com/masters/333718
+Dogz On Da Set / Step - 1996 - https://api.discogs.com/masters/296418
+Stand Bold / Jazz Creation - 1996 - https://api.discogs.com/masters/322019
+Scuzzy / This DJ - 1997 - https://api.discogs.com/releases/247222
+Armed Robbery / Oscillate - 1997 - https://api.discogs.com/releases/253653
+It Is Real / Society - 1997 - https://api.discogs.com/masters/301667
+Col' Rock Stuff / Player Hater - 1997 - https://api.discogs.com/masters/209691
+Volume 5 - 1998 - https://api.discogs.com/masters/301671
+Dogz (Remix) / Ghettomusic - 1998 - https://api.discogs.com/masters/72393
+Dual Action - 1998 - https://api.discogs.com/masters/206121
+East Side Jamz Volume One - 1998 - https://api.discogs.com/masters/45008
+Chemical Generation Volume 2 - 1999 - https://api.discogs.com/releases/396988
+High Density / Another World - 1999 - https://api.discogs.com/masters/155783
+Resistance / Silverfish - 1999 - https://api.discogs.com/masters/945817
+Voodoo Doll / Bitch - 1999 - https://api.discogs.com/masters/500918
+Pink Factor / Keep Stepping - 1999 - https://api.discogs.com/masters/455101
+Contagious Drum And Bass Volume 1 - 2000 - https://api.discogs.com/releases/690905
+Segments / Imposter - 2000 - https://api.discogs.com/masters/444433
+Corkscrew / Landmine - 2000 - https://api.discogs.com/masters/614474
+Awareness / Terminal - 2000 - https://api.discogs.com/masters/45180
+Scope / Deal It - 2000 - https://api.discogs.com/masters/97922
+Grip / Luminous - 2000 - https://api.discogs.com/masters/201904
+Hydrogen / Shifter - 2000 - https://api.discogs.com/masters/201913
+The Cage - 2000 - https://api.discogs.com/masters/194768
+First Contact - 2000 - https://api.discogs.com/masters/173297
+Underpass / Prologue - 2000 - https://api.discogs.com/masters/204083
+Drama / Burner - 2000 - https://api.discogs.com/masters/512901
+Return (Remix) / Images - 2000 - https://api.discogs.com/masters/14767
+Trapped In Beats EP - 2000 - https://api.discogs.com/masters/385485
+Mechanize / Battle Angel - 2000 - https://api.discogs.com/masters/440304
+Mayday / Two Thirds - 2001 - https://api.discogs.com/releases/21627
+Break Em Up / Cracked OPX - 2001 - https://api.discogs.com/masters/281125
+Bomb Squad / Freefall - 2001 - https://api.discogs.com/masters/201912
+Closer / Motion - 2001 - https://api.discogs.com/masters/201914
+Just Wont Stop / Earth - 2001 - https://api.discogs.com/masters/204084
+Steel / Sleepwalking - 2001 - https://api.discogs.com/masters/2071375
+SpeedBall (60 Minutes Jungle DrumAndBass Mix) - 2002 - https://api.discogs.com/releases/406735
+Contagious Drum And Bass Volume 3 - 2002 - https://api.discogs.com/releases/600208
+Contagious Drum And Bass Volume 4 - 2003 - https://api.discogs.com/releases/179659
+Wow - What A Rush!! 9 - 2003 - https://api.discogs.com/releases/333631
+Candy Flip / Existence - 2003 - https://api.discogs.com/masters/553076
+Drama / Ignition Sequence - 2003 - https://api.discogs.com/masters/324359
+Scar / Twilight - 2003 - https://api.discogs.com/masters/276301
+Screaming Soul - 2003 - https://api.discogs.com/masters/324014
+Feedback (Back 2 Basics Remix) / My Nation - 2004 - https://api.discogs.com/masters/445981
+Commercial Length Cuts 67 - 2006 - https://api.discogs.com/releases/24552842
+Lab Tests Vol​.​3 - 2021 - https://api.discogs.com/releases/19588852
+The Rozzer EP - 2022 - https://api.discogs.com/releases/25238737
+Essential Drum & Bass ('Exclusive Tracks From The UK Underground') - 1997 - https://api.discogs.com/releases/105884
+Criminology - 1997 - https://api.discogs.com/releases/3358427
+Drums Doctrine - 1997 - https://api.discogs.com/releases/13692797
+Beings / Rollin Beats - 1997 - https://api.discogs.com/releases/27354675
+Jungle Talk - 1997 - https://api.discogs.com/masters/259402
+The Lowdown 2 - 1998 - https://api.discogs.com/releases/14942
+Tech Jazz - 1998 - https://api.discogs.com/releases/3431934
+JumpUpThrowDown - 1998 - https://api.discogs.com/masters/24157
+Sixeleven DJ Mixseries Volume One - 1998 - https://api.discogs.com/masters/9499
+Bootleggers Volume Two - 1999 - https://api.discogs.com/releases/75714
+Back In Black - 1999 - https://api.discogs.com/releases/3358528
+The Mile High Club - 1999 - https://api.discogs.com/releases/3899891
+Ruffneckz - 1999 - https://api.discogs.com/releases/12875367
+Type IV: Funk - 1999 - https://api.discogs.com/releases/27029262
+Essential Drum & Bass Six-Pack - 2000 - https://api.discogs.com/releases/6973
+Contagious Drum And Bass Volume 1 - 2000 - https://api.discogs.com/releases/690905
+20th Century Dust E.P. - 2000 - https://api.discogs.com/masters/65620
+SPB Drum And Bass Volume 2 - 2001 - https://api.discogs.com/releases/3387577
+Penitentiary EP - 2001 - https://api.discogs.com/masters/71280
+Hip Hop 2023 - 2001 - https://api.discogs.com/masters/45021
+Preservation - 2002 - https://api.discogs.com/releases/3432043
+EXIST​:​ENCE 2002 - 2002 - https://api.discogs.com/releases/14671633
+Resonance - 2002 - https://api.discogs.com/masters/471062
+XXX The Making Of... - 2003 - https://api.discogs.com/releases/179653
+The Prophet EP - 2003 - https://api.discogs.com/masters/71277
+RESIST:ED FIVE - 2020 - https://api.discogs.com/masters/1887609
+RESIST:ED SIX - 2021 - https://api.discogs.com/masters/2166517
+EXIST​​:​​ENCE 2021 - 2022 - https://api.discogs.com/releases/22738733
+Untitled - Desconocido - https://api.discogs.com/releases/2805652
+Drum 'N' Bass - Desconocido - https://api.discogs.com/releases/3157188
+Hardstep Jungle - 1997 - https://api.discogs.com/masters/259402
+Club Express Jungle '99 - 1999 - https://api.discogs.com/releases/1206667
+Narcotic Jungle Drum 'N Bass - 1999 - https://api.discogs.com/releases/5398794
+Precision - 2000 - https://api.discogs.com/releases/743649
+Drum'n'Bass - 2000 - https://api.discogs.com/releases/3709598
+Jungle - 2001 - https://api.discogs.com/releases/9529668
+Entertainment For Ravers - Desconocido - https://api.discogs.com/releases/6402198
