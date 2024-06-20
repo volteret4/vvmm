@@ -1,6 +1,6 @@
 ---
 title: "Terraplana - Olhar Pra Tras"
-date: 2024-06-20T16:04:59+02:00
+date: 2024-06-20T16:06:42+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -25,12 +25,9 @@ tags:
 > 
 > **Fecha de lanzamiento**: 2017
 > 
-> 
 > **Géneros**: Rock
 > 
-> 
 > **Estilos**: Shoegaze, Dream Pop
-> 
 > 
 > **Pais:** Brazil
 > **Sello:** Not On Label (Terraplana Self-released)
@@ -47,7 +44,6 @@ tags:
 >   4. Interlúdio    1:29
 >   5. Virou Crime    3:48
 >   6. Fall    4:32
-> 
 > 
 > 
 > 
