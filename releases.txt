@@ -1,69 +1,43 @@
 Listado de releases del artista:
-Os Temas Instrumentais Da Novela Baila Comigo - 1981 - https://api.discogs.com/releases/4431876
-Aleluya - 1982 - https://api.discogs.com/releases/7843146
-Robson Jorge & Lincoln Olivetti - 1982 - https://api.discogs.com/masters/839590
-Babilônia Rock - 1983 - https://api.discogs.com/releases/2564792
-Baila Conmigo/Fiesta Brava / A Danzar Mambole - 1983 - https://api.discogs.com/masters/2499646
-Siri Que Marca A Onda Leva - 1984 - https://api.discogs.com/releases/3861415
-Estrelar / Aleluia - 2015 - https://api.discogs.com/releases/7314498
-E Novamente Mas Que Nada / Ginga - 2017 - https://api.discogs.com/releases/10680307
-Déjà Vu - 2023 - https://api.discogs.com/masters/3225727
-Dancin' Days (Trilha Sonora Original Da Novela) - 1978 - https://api.discogs.com/masters/1450897
-Deixa - 1981 - https://api.discogs.com/releases/7298133
-Sonhos Dentro Da Cabeça - 1983 - https://api.discogs.com/releases/3860772
-Estou Livre - 1983 - https://api.discogs.com/releases/4090038
-Fique Mais Eu - 1983 - https://api.discogs.com/releases/4116566
-Tributo A Lamartine Babo - 1983 - https://api.discogs.com/releases/8763347
-Monday/Caipira Train - 1983 - https://api.discogs.com/masters/1404341
-Agua Viva  - 1983 - https://api.discogs.com/masters/1211606
-Festa Funk / Raça - 1984 - https://api.discogs.com/releases/2171705
-Tempero Latino - 1984 - https://api.discogs.com/releases/8990321
-Ar De Molecagem - 1984 - https://api.discogs.com/releases/13648088
-Vier Fäuste Gegen Rio (Original Motion Picture Soundtrack) - 1984 - https://api.discogs.com/masters/255877
-Mix Samba - 1984 - https://api.discogs.com/masters/1346061
-Promocional Nacional - 1985 - https://api.discogs.com/releases/9229350
-Especial Para "Juke Box" - 1985 - https://api.discogs.com/releases/9842615
-Untitled - 1985 - https://api.discogs.com/releases/27986262
-Angel - 1986 - https://api.discogs.com/releases/8165864
-Roda, Roda Pião - 1986 - https://api.discogs.com/releases/10765884
-Sandra Sá - 1986 - https://api.discogs.com/masters/303547
-Roberto Carlos - 1986 - https://api.discogs.com/masters/266360
-Especial Para "Juke Box" - 1987 - https://api.discogs.com/releases/9450478
-Gilliard - 1987 - https://api.discogs.com/releases/11650852
-Mandala (Nacional) - 1987 - https://api.discogs.com/masters/1167066
-Roberto Carlos - 1987 - https://api.discogs.com/masters/767091
-Fera Radical - 1988 - https://api.discogs.com/releases/2506453
-De Um Jeito Que É Só Seu - 1988 - https://api.discogs.com/releases/8746081
-Patricia - 1988 - https://api.discogs.com/masters/766875
-Paixão De D'Artagnan - 1988 - https://api.discogs.com/masters/1747102
-Trem Da Alegria - 1988 - https://api.discogs.com/masters/1740458
-Fera Radical - 1990 - https://api.discogs.com/releases/29248099
-Raiza - 1993 - https://api.discogs.com/releases/12519621
-Velho Camarada - 1993 - https://api.discogs.com/masters/1220963
-Informer / Você Mentiu - 1994 - https://api.discogs.com/releases/11346442
-Funk & Samba Rock - 1994 - https://api.discogs.com/masters/2303971
-Promo Dial 9 - Junho/Julho 95 - 1995 - https://api.discogs.com/releases/15152034
-Carinhos - 1995 - https://api.discogs.com/masters/1339590
-Babado Novo - 2002 - https://api.discogs.com/masters/788852
-Pra Sempre - Anos 80 - 2005 - https://api.discogs.com/releases/13372531
-Recorda - Funk Retrô - 2018 - https://api.discogs.com/releases/13960832
-Festa Funk - 2018 - https://api.discogs.com/masters/1321532
-Brazil45: Mr Bongo x DJ Marky - 2021 - https://api.discogs.com/masters/3338422
-Baila Comigo (Trilha Sonora Original Da Novela) - 1981 - https://api.discogs.com/masters/1131414
-Dancin' Days En Español - 1982 - https://api.discogs.com/masters/1458550
-Baila Conmigo (Banda Sonora De La Telenovela) - 1982 - https://api.discogs.com/masters/1072760
-Cometa Loucura - 1983 - https://api.discogs.com/releases/5543676
-Agua Viva  - 1983 - https://api.discogs.com/masters/1211606
-Partido Alto (Nacional) - 1984 - https://api.discogs.com/releases/2812001
-Funk Brasileiro - 1984 - https://api.discogs.com/releases/6247299
-Bande Originale Du Feuilleton Tv "Danse Avec Moi" - 1984 - https://api.discogs.com/releases/9876449
-Tropclip - 1985 - https://api.discogs.com/releases/5829424
-Agua Viva (Banda Sonora De La Telenovela) - 1985 - https://api.discogs.com/masters/3185097
-Mixtokent - 1987 - https://api.discogs.com/releases/6035107
-Telenovelas Brasileiras - 2004 - https://api.discogs.com/releases/15688570
-Brasilian Soul & Disco Terça Sapphire - 2007 - https://api.discogs.com/releases/7903342
-Brazilian Funk Affair - Latin Vibration Vol. 1 - 2014 - https://api.discogs.com/releases/8526198
-The Brazilian Boogie Connection: From Rio To São Paulo (1976-1983) - 2015 - https://api.discogs.com/masters/795862
-Soul Funk Brazil  - 2018 - https://api.discogs.com/releases/13379036
-Brazil45: Mr Bongo x DJ Marky - 2021 - https://api.discogs.com/masters/3338422
-É Soul Cultura - 2022 - https://api.discogs.com/masters/2627894
+Maracas D'Or - 1986 - https://api.discogs.com/masters/993514
+Trouble - 1988 - https://api.discogs.com/masters/610720
+John Boxingo - 1989 - https://api.discogs.com/releases/4931625
+Super Soukous - 1989 - https://api.discogs.com/masters/259586
+Mondo Ry - 1989 - https://api.discogs.com/masters/867418
+Explosion - 1989 - https://api.discogs.com/masters/1112539
+Maluo - 1991 - https://api.discogs.com/releases/22147642
+Extra Ball - 1991 - https://api.discogs.com/masters/1564741
+Comme Un... - 1991 - https://api.discogs.com/masters/839848
+Embargo - 1991 - https://api.discogs.com/masters/1157229
+King Of Soukous - 1991 - https://api.discogs.com/masters/2833013
+Choc A Distance - 1992 - https://api.discogs.com/releases/25461466
+Choc A Distance - 1993 - https://api.discogs.com/masters/610721
+Génération-Wachiwa Encaisse Tout - 1994 - https://api.discogs.com/masters/1112540
+Qui Dit Mieux ? - 1996 - https://api.discogs.com/releases/11355691
+Proteïne 4 - 1997 - https://api.discogs.com/releases/4675894
+En Afrique - Génération Wachiwa - 2006 - https://api.discogs.com/releases/18661231
+Réconciliation - 2007 - https://api.discogs.com/releases/11100996
+Qui Dit Mieux ? - 2007 - https://api.discogs.com/releases/16113491
+Acte II : Confirmation - 2008 - https://api.discogs.com/releases/17015508
+Explosion  - Desconocido - https://api.discogs.com/releases/10919882
+Embargo - Desconocido - https://api.discogs.com/releases/18223378
+Trouble - Desconocido - https://api.discogs.com/releases/26655878
+Untitled - Desconocido - https://api.discogs.com/releases/29077117
+Super K / Amour Et Souvenir - Desconocido - https://api.discogs.com/masters/1167705
+Stop, Arrêtez ! - Desconocido - https://api.discogs.com/masters/839856
+Baila Terapia - 1988 - https://api.discogs.com/releases/9646270
+African Song's - 1988 - https://api.discogs.com/masters/1668094
+Discover A Whole New World Of Music - 1991 - https://api.discogs.com/releases/12685295
+African Stars Hit Parade - 1992 - https://api.discogs.com/releases/17845054
+Africa - Never Stand Still - 1994 - https://api.discogs.com/masters/353257
+Soukouss Mix Party Vol II - 1998 - https://api.discogs.com/releases/9946069
+African Heartbeat - 1998 - https://api.discogs.com/releases/16035862
+African Ambience - 1998 - https://api.discogs.com/masters/2741936
+Africa - Congo. Da Kinshasa A Parigi, I Leoni Del Soukous: Papa Wemba, Ray Lema E Pepe Kalle - 2001 - https://api.discogs.com/releases/11953361
+Les Plus Grands Succès Du Club Balattou - 2011 - https://api.discogs.com/releases/11865628
+FACT Mix 718 - 2019 - https://api.discogs.com/releases/14266647
+Terapia Erótica - Desconocido - https://api.discogs.com/releases/15235366
+Zairean Masters - Desconocido - https://api.discogs.com/releases/19969366
+Soukouss Mix-Party - Desconocido - https://api.discogs.com/releases/23866766
+World Beat Vol. 2 - Afrique Centrale/Central Africa - Desconocido - https://api.discogs.com/masters/1850164
+Explosion - Desconocido - https://api.discogs.com/masters/1112539
