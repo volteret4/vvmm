@@ -1,12 +1,12 @@
 ---
 title: "Actress - LXXXVIII"
-date: 2024-06-20T16:43:08+02:00
+date: 2024-06-20T16:44:44+02:00
 image: "image.jpeg"
 draft: false
 tags:
  - idm
  - techno
- - experimental
+ #- tagC
  #- tagD
  #- tagE
 ---
@@ -35,31 +35,31 @@ tags:
 > 
 > **Sello:** Atlantic
 > 
-> **Compañia** 1: Manufactured By - Warner Music Canada Co.
+> **Manufactured By** 1: Warner Music Canada Co.
 > 
-> **Compañia** 2: Distributed By - Warner Music Canada Co.
+> **Distributed By** 2: Warner Music Canada Co.
 > 
-> **Compañia** 3: Phonographic Copyright (p) - Atlantic Recording Corporation
+> **Phonographic Copyright (p)** 3: Atlantic Recording Corporation
 > 
-> **Compañia** 4: Phonographic Copyright (p) - WEA International Inc.
+> **Phonographic Copyright (p)** 4: WEA International Inc.
 > 
-> **Compañia** 5: Copyright (c) - Atlantic Recording Corporation
+> **Copyright (c)** 5: Atlantic Recording Corporation
 > 
-> **Compañia** 6: Copyright (c) - WEA International Inc.
+> **Copyright (c)** 6: WEA International Inc.
 > 
-> **Compañia** 7: Recorded At - Stratosphere Sound
+> **Recorded At** 7: Stratosphere Sound
 > 
-> **Compañia** 8: Recorded At - Glennross Studios, Saskatoon, SK, Canada
+> **Recorded At** 8: Glennross Studios, Saskatoon, SK, Canada
 > 
-> **Compañia** 9: Mixed At - Stratosphere Sound
+> **Mixed At** 9: Stratosphere Sound
 > 
-> **Compañia** 10: Mastered At - The Lacquer Channel
+> **Mastered At** 10: The Lacquer Channel
 > 
-> **Compañia** 11: Lacquer Cut At - Lucky Lacquers
+> **Lacquer Cut At** 11: Lucky Lacquers
 > 
-> **Compañia** 12: Pressed By - Rainbo Records
+> **Pressed By** 12: Rainbo Records
 > 
-> **Compañia** 13: Pressed By - Rainbo Records
+> **Pressed By** 13: Rainbo Records
 > 
 > **Engineer** - Geoff Sanoff
 > 
