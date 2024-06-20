@@ -1,6 +1,6 @@
 ---
 title: "Yo La Tengo - The Sounds of the Sounds of Science"
-date: 2024-06-20T14:11:38+02:00
+date: 2024-06-20T14:12:50+02:00
 image: "image.jpeg"
 draft: false
 tags:
