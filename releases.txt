@@ -1,16 +1,56 @@
 Listado de releases del artista:
-Sun Theme / Moon Theme - 2016 - https://api.discogs.com/releases/8519531
-Wèi? / Teknow - 2017 - https://api.discogs.com/masters/1388185
-Neon Buddha - 2022 - https://api.discogs.com/releases/23179307
-Topical Dancer - 2022 - https://api.discogs.com/masters/2535370
-Letter To Yu - 2024 - https://api.discogs.com/masters/3420691
-Essential - 2018 - https://api.discogs.com/masters/1382325
-DEEWEE Sessions Vol. 01 - 2020 - https://api.discogs.com/masters/1746918
-Camping Belgica - 2020 - https://api.discogs.com/releases/17158363
-Rough Trade Shops: Counter Culture 21 - 2021 - https://api.discogs.com/masters/2635373
-Foundations - 2021 - https://api.discogs.com/masters/2120317
-Mars 2022 -> 16 Titres - 2022 - https://api.discogs.com/releases/22493174
-EP 1 - 2022 - https://api.discogs.com/releases/23953895
-Best Of Musique 2022 → 15 titres - 2022 - https://api.discogs.com/releases/25490398
-Small World (Special Edition) - 2023 - https://api.discogs.com/releases/26843855
-Mars 2024 - 2024 - https://api.discogs.com/releases/29874226
+It Makes No Difference - 2012 - https://api.discogs.com/masters/760770
+I Wonder - 2013 - https://api.discogs.com/masters/535567
+Stay High b/w History Repeats - 2019 - https://api.discogs.com/releases/13944254
+Jaime - 2019 - https://api.discogs.com/masters/1608870
+Live at Sound Emporium - 2020 - https://api.discogs.com/releases/15838019
+Jaime (Reimagined) - 2021 - https://api.discogs.com/releases/20308279
+What Now - 2023 - https://api.discogs.com/releases/29399824
+What Now - 2024 - https://api.discogs.com/masters/3391306
+[in-di-pen-duhnt] - 2012 - https://api.discogs.com/releases/10407316
+This Is BBC Radio 6 Music Live - 2012 - https://api.discogs.com/masters/1286144
+Boys & Girls - 2012 - https://api.discogs.com/masters/425438
+FluxFM Vol. 1 (Popkultur Kompakt) - 2013 - https://api.discogs.com/releases/5841911
+True Blood Music From The HBO Original Series Volume 4 - 2013 - https://api.discogs.com/masters/586795
+Triple J's Hottest 100 Volume 20 - 2013 - https://api.discogs.com/masters/1673772
+Test Your Love - 2013 - https://api.discogs.com/masters/1063529
+Here We Are Now (15 Tracks Of The Month's Best New Music) - 2015 - https://api.discogs.com/releases/7641950
+Sound & Color - 2015 - https://api.discogs.com/masters/824772
+The Waterfall - 2015 - https://api.discogs.com/masters/830834
+Oh My Goodness - 2015 - https://api.discogs.com/masters/1037819
+Visions Of The Blues: Southern Music Issue No. 18 - 2016 - https://api.discogs.com/releases/9417477
+Cautionary Tale - 2016 - https://api.discogs.com/releases/28467166
+Cautionary Tale - 2016 - https://api.discogs.com/masters/973100
+Darkness And Light - 2016 - https://api.discogs.com/masters/1099240
+We're All Gonna Die - 2016 - https://api.discogs.com/masters/1058288
+Ram Café 12 - 2017 - https://api.discogs.com/releases/13064749
+The American Epic Sessions (Original Motion Picture Soundtrack) - 2017 - https://api.discogs.com/masters/1200158
+Somebody's Doin' Something - 2017 - https://api.discogs.com/masters/1482829
+Big Little Lies (Music From The HBO Limited Series) - 2017 - https://api.discogs.com/masters/1304791
+Let's Shake Hands (A Third Man Records Anthology) - 2019 - https://api.discogs.com/releases/13794513
+Mojo The Best Of 2019 - 2019 - https://api.discogs.com/releases/14406989
+If In Case You Feel The Same - 2020 - https://api.discogs.com/masters/1780373
+The Waterfall II - 2020 - https://api.discogs.com/masters/1794910
+A Beautiful Revolution (Pt 2) - 2021 - https://api.discogs.com/releases/21901942
+Prelude No. 1 - 2021 - https://api.discogs.com/releases/24205205
+A Beautiful Revolution (Pt 2) - 2021 - https://api.discogs.com/masters/2416207
+Kinfolk 2: See The Birds - 2021 - https://api.discogs.com/masters/2375143
+A Beautiful Revolution Pt. 1 & 2 - 2021 - https://api.discogs.com/masters/2533885
+Magnolia Record Club Presents: NPR Tiny Desk Concerts - 2022 - https://api.discogs.com/masters/2690726
+Book Of Queens - 2023 - https://api.discogs.com/masters/3265900
+Red Hot + Fela - 2013 - https://api.discogs.com/masters/625073
+Music From The Motion Picture Joy  - 2015 - https://api.discogs.com/masters/1157609
+44 Hits Spring 2017 - 2017 - https://api.discogs.com/releases/14702060
+Mojo The Best Of 2019 - 2019 - https://api.discogs.com/releases/14406989
+Hit's A Sony Oct. 2019 - 2019 - https://api.discogs.com/releases/16116094
+Relix 2019 October/November CD Sampler - 2019 - https://api.discogs.com/releases/17452954
+Silence Is Not An Option (Turn This Up) - 2020 - https://api.discogs.com/releases/16095157
+89.3 The Current | Live Current Volume 16 - 2020 - https://api.discogs.com/releases/17365198
+Fact Mix 770 - 2020 - https://api.discogs.com/releases/29372773
+Live At KEXP Volume 10 - 2022 - https://api.discogs.com/releases/25241029
+The Independent 88.5 FM Studio Sessions Volume 2 - 2022 - https://api.discogs.com/releases/27598935
+Minions: The Rise Of Gru (Original Motion Picture Soundtrack) - 2022 - https://api.discogs.com/masters/2696582
+Magnolia Record Club Presents: NPR Tiny Desk Concerts - 2022 - https://api.discogs.com/masters/2690726
+Left Hand - 2023 - https://api.discogs.com/masters/3226963
+Lollapalooza 2015 - 2015 - https://api.discogs.com/masters/1342636
+Save Us - The Complete Promo Clip Collection 2011-2016 - 2017 - https://api.discogs.com/releases/11572095
