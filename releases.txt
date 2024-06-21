@@ -1,2 +1,137 @@
 Listado de releases del artista:
-Water Seeds - 2024 - https://api.discogs.com/releases/30411197
+Hangin' Around '02 - 2002 - https://api.discogs.com/masters/157992
+A New Bassline For José / Superyou - 2002 - https://api.discogs.com/masters/157993
+Hangin' Around '03 - 2002 - https://api.discogs.com/masters/37428
+We Love Music - 2002 - https://api.discogs.com/masters/37454
+Leaving Home - 2002 - https://api.discogs.com/masters/126188
+My Mouth - 2003 - https://api.discogs.com/masters/37399
+Remixes - 2003 - https://api.discogs.com/masters/886761
+International Snootleg - 2003 - https://api.discogs.com/masters/1084522
+Bass Is Boss - The First Remix & Video Collection - 2003 - https://api.discogs.com/masters/323962
+Pony The Funk / Superyou (Remixes) - 2004 - https://api.discogs.com/releases/222298
+Our House - 2005 - https://api.discogs.com/masters/37418
+Mit Dir Sind Wir Vier - 2006 - https://api.discogs.com/masters/37409
+Gothic Girl - 2006 - https://api.discogs.com/masters/157994
+The Sweet Madness EP - 2008 - https://api.discogs.com/releases/1445433
+Blow My Mind - 2000 - https://api.discogs.com/masters/123452
+Ich Rocke (Part Two Of Two) - 2001 - https://api.discogs.com/masters/49867
+Since You're Gone - 2002 - https://api.discogs.com/masters/86580
+Remixes Volume 1 (Promo CD For Radio) - 2003 - https://api.discogs.com/releases/198710
+Mannheim Residents In The Mix 02 - 2003 - https://api.discogs.com/releases/15119570
+Remixes Volume 1 - 2003 - https://api.discogs.com/masters/104631
+Hotel Byblos Saint Tropez Since 1967 Volume 2 - 2004 - https://api.discogs.com/releases/3519116
+We Are Escalator Records Part 4 - 2004 - https://api.discogs.com/releases/12525901
+Mastercuts Chilled - 2006 - https://api.discogs.com/releases/2320273
+RMXD - 2006 - https://api.discogs.com/masters/747096
+Destroy Minimal - 2006 - https://api.discogs.com/masters/1119100
+A Bugged Out Mix - 2009 - https://api.discogs.com/masters/1376758
+Late Night Sessions (Autumn Collection) - 2003 - https://api.discogs.com/releases/446966
+Since You're Gone - 2002 - https://api.discogs.com/masters/86580
+Ein Freund Von Mir - Der Soundtrack - 2006 - https://api.discogs.com/releases/819094
+Boogybytes Vol.02 - 2006 - https://api.discogs.com/masters/49243
+Setembro #124 - 2007 - https://api.discogs.com/releases/1075405
+Un - 2007 - https://api.discogs.com/releases/1099320
+Fabric 51 - 2010 - https://api.discogs.com/masters/514620
+SPEX CD #21 - 2002 - https://api.discogs.com/releases/103873
+Plastiks Sampler 20 - 2002 - https://api.discogs.com/releases/107467
+Introduced 100 - 100 Issues Intro | Essential Music Videos 1991 - 2002 - 2002 - https://api.discogs.com/releases/226910
+20 International Tophits - CHART BOXX 6/2002 - 2002 - https://api.discogs.com/releases/1093202
+Wie Die Karnickel - Die Musik Zum Film (Original Soundtrack) - 2002 - https://api.discogs.com/releases/1564268
+Hitbreaker 1•2003 - Die Aktuellen Radiohits - 2002 - https://api.discogs.com/releases/1968301
+Sunny Side Up 2 (Another 19 Sunday Morning Songs) - 2002 - https://api.discogs.com/releases/1980770
+Radioplay - Euro Express - 481U - October 4, 2002 - 2002 - https://api.discogs.com/releases/10759847
+Pc Disc Special For Radio - 2002 - https://api.discogs.com/releases/14642773
+PC Disc Special For Radio - 2002 - https://api.discogs.com/releases/14644952
+We Are Skint - 2002 - https://api.discogs.com/masters/69420
+Disco Pogo For Punks In Pumps Vol. 4 - 2003 - https://api.discogs.com/releases/120070
+Schaffelfieber 2 - 2003 - https://api.discogs.com/releases/169128
+Moon Harbour Flights Volume Two - 2003 - https://api.discogs.com/releases/195173
+Pacha 4 - The World's Most Famous Club Sound - 2003 - https://api.discogs.com/releases/197360
+Late Night Sessions (Autumn Collection) - 2003 - https://api.discogs.com/releases/446966
+Alternative Club - The Universal Language Of Music - 2003 - https://api.discogs.com/releases/488704
+Bar Lounge Classics (DeluxEdition) - 2003 - https://api.discogs.com/releases/837754
+Festivalguide 2003 - 2003 - https://api.discogs.com/releases/843312
+The Chillout Session Summer Collection 2003 - 2003 - https://api.discogs.com/releases/1033458
+The White Disc Volume WD00140 - 2003 - https://api.discogs.com/releases/3043621
+Diary - 2003 - https://api.discogs.com/releases/3132784
+German Nights - 2003 - https://api.discogs.com/releases/3548361
+House XL Volume Two - The Best Of Vocal Club Tunes  - 2003 - https://api.discogs.com/releases/4145375
+Anatomie 2 - Regeln Sind Für Schwache (Original Soundtrack) - 2003 - https://api.discogs.com/releases/8662654
+ElectronicaX - 2003 - https://api.discogs.com/releases/11546620
+Radioplay - Euro Express - 495U - January 10, 2003 - 2003 - https://api.discogs.com/releases/11579081
+Bar Lounge Classics - 2003 - https://api.discogs.com/releases/15185452
+Underground Beats (Series 6 Volume 12) - 2003 - https://api.discogs.com/releases/15362909
+1 Jahr Harpune (Es Kommt Von Herzen...) - 2003 - https://api.discogs.com/releases/16047516
+Topshop Topman International #10B - 2003 - https://api.discogs.com/releases/19624288
+Topshop Topman #026 - 2003 - https://api.discogs.com/releases/19756519
+Topshop Topman #036 - 2003 - https://api.discogs.com/releases/19756639
+Neue Heimat 3 (Electronic Music Made In Germany) - 2003 - https://api.discogs.com/masters/395738
+Bar Lounge Classics (Weekend Edition) - 2004 - https://api.discogs.com/releases/753567
+For Promotional Use Only #2 - 2004 - https://api.discogs.com/releases/1078222
+Wir (Original Soundtrack) - 2004 - https://api.discogs.com/releases/2405707
+Festivalguide DVD 2004 - 2004 - https://api.discogs.com/releases/6893047
+We Are Escalator Records Part 4 - 2004 - https://api.discogs.com/releases/12525901
+Treffer Der Festival Sampler - 2004 - https://api.discogs.com/releases/17645551
+I Hate Dancing - 2004 - https://api.discogs.com/masters/292375
+This Is Bungalow - A DJ Mix By Le Hammond Inferno - 2004 - https://api.discogs.com/masters/884922
+Famous When Dead III - 2004 - https://api.discogs.com/masters/82910
+SonneMondSterne Compilation 05 - 2005 - https://api.discogs.com/releases/489870
+Ambient Lounge 7 - 2005 - https://api.discogs.com/releases/562965
+Lounge Connection - 2005 - https://api.discogs.com/releases/771722
+Erotic Lounge 4  (Bare Jewels) - 2005 - https://api.discogs.com/releases/800179
+Lago - 2005 - https://api.discogs.com/releases/878143
+Worldleague 1 - 2005 - https://api.discogs.com/releases/1055907
+Pro Asyl On The Run - 2005 - https://api.discogs.com/releases/1170434
+2002 (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/2135202
+Acid House Division - Spring Summer 2005 - 2005 - https://api.discogs.com/releases/2143249
+The Best Of Ambient Lounge - 2005 - https://api.discogs.com/releases/4256568
+Летняя Терасса, Летнее Настроение - 2005 - https://api.discogs.com/releases/6097439
+The Caliente Compilation Vol. 2 - Très Très Chic! Otoño-Invierno 2005/06 - 2005 - https://api.discogs.com/releases/9974683
+We Are Esclator Records Part 5 - 2005 - https://api.discogs.com/releases/12525959
+This Is Everybody! On Tour - 2005 - https://api.discogs.com/masters/47415
+SPEX CD #65 - 2006 - https://api.discogs.com/releases/739006
+Lounge For Lovers Vol. 3 - 2006 - https://api.discogs.com/releases/752045
+25 Jahre Spex - 2006 - https://api.discogs.com/releases/769201
+Groove #102/N°11 - 2006 - https://api.discogs.com/releases/772759
+SPEX DVD #09 - 2006 - https://api.discogs.com/releases/791453
+Musikexpress 116 - Sounds Now! - 2006 - https://api.discogs.com/releases/814127
+Ein Freund Von Mir - Der Soundtrack - 2006 - https://api.discogs.com/releases/819094
+FM4 Soundselection: 15 - 2006 - https://api.discogs.com/releases/8116344
+Boogybytes Vol.02 - 2006 - https://api.discogs.com/masters/49243
+Destroy Minimal - 2006 - https://api.discogs.com/masters/1119100
+Setembro #124 - 2007 - https://api.discogs.com/releases/1075405
+Un - 2007 - https://api.discogs.com/releases/1099320
+Mastercuts Life..Style: After Hours - 2007 - https://api.discogs.com/releases/1388619
+A.N.D. N.O.W... / I Hate Dancing (Box Mix DJ 2 CD) - 2007 - https://api.discogs.com/releases/2362839
+News 06/2007 - 2007 - https://api.discogs.com/releases/6032656
+Collectables Volume One - 2007 - https://api.discogs.com/releases/7585248
+Radioplay - Euro Express - 710U - February 23, 2007 - 2007 - https://api.discogs.com/releases/11592572
+News 06 - 2007 - 2007 - https://api.discogs.com/releases/14693832
+Pc Disc Only For Radio Marzo 2007 - 2007 - https://api.discogs.com/releases/17359927
+Please Please Please - 2007 - https://api.discogs.com/masters/389254
+Kontor Sunset Chill Ibiza Edition - 2008 - https://api.discogs.com/releases/2304757
+Dirty French Psychedelics: The Lost Tapes - 2009 - https://api.discogs.com/releases/1774271
+Präsentiert Papa Professionell - 2009 - https://api.discogs.com/masters/1375054
+A Bugged Out Mix - 2009 - https://api.discogs.com/masters/1376758
+Confiote De Bits / A Remix Collection - 2009 - https://api.discogs.com/masters/291071
+Do Not Disturb 3 - 2010 - https://api.discogs.com/releases/2190913
+FACT Mix 137 - 2010 - https://api.discogs.com/releases/2262830
+The Best Of The Lounge Area - 2010 - https://api.discogs.com/releases/2331261
+Skint Remixes - 2010 - https://api.discogs.com/releases/2544051
+Fashion Music - 2010 - https://api.discogs.com/releases/16776315
+100% Summer Anthems - 2010 - https://api.discogs.com/releases/21774661
+DJ-Mix @ Secret Party - 2010 - https://api.discogs.com/releases/22324366
+Zur Rettung Der Popkultur (Experimentelle Deutsche Musikvideos 2003-2007) - 2010 - https://api.discogs.com/releases/26219615
+Fabric 51 - 2010 - https://api.discogs.com/masters/514620
+Krautrock - Masters + Echoes - 2010 - https://api.discogs.com/masters/408031
+Double D Town Podcast 16 - 2011 - https://api.discogs.com/releases/3951063
+Kontor Sunset Chill - All Time Classics - 2013 - https://api.discogs.com/releases/6013576
+Red Room - Vibration Room Vol. Six Mixed By Donnie Ross - Desconocido - https://api.discogs.com/releases/8870315
+Untitled - Desconocido - https://api.discogs.com/releases/14711816
+Remixes Volume 1 - 2003 - https://api.discogs.com/masters/104631
+Bar Lounge Classics. Часть 3-4  - 2004 - https://api.discogs.com/releases/8317553
+This Is Bungalow - A DJ Mix By Le Hammond Inferno - 2004 - https://api.discogs.com/masters/884922
+Destroy Minimal - 2006 - https://api.discogs.com/masters/1119100
+Please Please Please - 2007 - https://api.discogs.com/masters/389254
+Radio Slave Meets Skint Volume 2 - 2010 - https://api.discogs.com/releases/2609369
+Mp3 Collection - 2012 - https://api.discogs.com/releases/7446047

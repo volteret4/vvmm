@@ -34,6 +34,8 @@ _Actualizado el 21-06-2024_
 
 [Albums_HiFi_Vocal](https://open.spotify.com/playlist/6A2DsRAhP9X2x3KfhmtlKQ) Playlists creada el 20-02-24
 
+[deephouse](https://open.spotify.com/playlist/3IM0zBIdD29aUTonLoItN8)
+
 [Jazz discos clasicos](https://open.spotify.com/playlist/2vP8Z7RpECG1zLPO4rlm7E) 
 
 [Techno](https://open.spotify.com/playlist/6ANZn8DUuvZkLjRQ99jEua) 
