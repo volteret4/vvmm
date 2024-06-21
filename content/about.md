@@ -6,7 +6,7 @@ menu: main
 weight: 3
 ---
 
-_Actualizado el 20-06-2024_
+_Actualizado el 21-06-2024_
 
 [Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) Selección variada filtrada por el mejor gusto existente.
 
