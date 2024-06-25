@@ -1,0 +1,90 @@
+---
+title: "Cristalli Liquidi - Cristalli Liquidi"
+date: 2024-06-25T21:14:38+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - italo-disco
+ - disco
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Cristalli-Liquidi - Cristalli-Liquidi))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bottin.bandcamp.com/album/cristalli-liquidi-lp)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1278908)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b33a4a05-0af9-47d2-ada5-7751eefcc406)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1LuUX7qSLmfUbMPiQownO0)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLWGO1s-SUtI-vWXpcyYDXthDtjfD36ZS-)
+ 
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2017
+> 
+> **Géneros**: Electronic
+> 
+> **Estilos**: Disco, Italo-Disco, Synth-pop
+> 
+> **Pais:** UK
+> 
+> **Votos:** Media de 4.49 con 156 votos
+> 
+> **Sello:** Moving Shadow
+> 
+> **Phonographic Copyright (p):** Moving Shadow Ltd.
+> 
+> **Copyright (c):** Moving Shadow Ltd.
+> 
+> **Published By:** Moving Shadow Music Ltd.
+> 
+> **Published By:** Copyright Control
+> 
+> **Lacquer Cut At:** The Exchange
+> 
+> **Pressed By:** SNA
+> 
+> **Distributed By:** EFA Medien GmbH
+> 
+> **Design, Art Direction** - Dominic Angus
+> 
+> **Design, Art Direction** - Process Studios
+> 
+> **Lacquer Cut By** - Simon Davey
+> 
+> **Written-By, Producer** - Dominic Angus
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   A1. Volevi Una Hit 
+> (feat. [Roberto Benozzo](https://www.discogs.com/artist/470597 '') & [Bottin](https://www.discogs.com/artist/1181868 'Italian artist, producer, DJ, and sound designer....'))   4:26
+> 
+>   A2. Questa Insostenibile Leggerezza Dell'Essere 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Italian musician and sound engineer. He is...') & [Bottin](https://www.discogs.com/artist/1181868 'Italian artist, producer, DJ, and sound designer....') & [Polosid](https://www.discogs.com/artist/1583510 'Italian duo.') & [Antonello Venditti](https://www.discogs.com/artist/380858 'Italian singer and songwriter, born 8 March...'))   3:21
+> 
+>   A3. Canzone Registrata 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Italian musician and sound engineer. He is...') & [Bottin](https://www.discogs.com/artist/1181868 'Italian artist, producer, DJ, and sound designer....') & [Adriano Pappalardo](https://www.discogs.com/artist/967476 'Italian actor and singer, born 25 March...') & [Vanera](https://www.discogs.com/artist/1271298 ''))   4:09
+> 
+>   A4. Incubo Assoluto 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Italian musician and sound engineer. He is...') & [Bottin](https://www.discogs.com/artist/1181868 'Italian artist, producer, DJ, and sound designer....') & [Freak Antoni](https://www.discogs.com/artist/1344723 'Roberto "Freak" Antoni (Bologna, April 16, 1954...') & [Gaetano Curreri](https://www.discogs.com/artist/445896 'Born in Bertinoro (Forlì, Italy) Voice and...'))   5:07
+> 
+>   A5. Restare Andare 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Italian musician and sound engineer. He is...') & [Beatrice Scarpa](https://www.discogs.com/artist/5451880 '') & [Bottin](https://www.discogs.com/artist/1181868 'Italian artist, producer, DJ, and sound designer....'))   4:02
+> 
+>   B1. Tubinga 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Italian musician and sound engineer. He is...') & [Alexander Robotnick](https://www.discogs.com/artist/15975 'Alexander Robotnick, alias [a=Maurizio Dami], is an...') & [Bottin](https://www.discogs.com/artist/1181868 'Italian artist, producer, DJ, and sound designer....'))   5:26
+> 
+>   B2. Sciame 
+> (feat. [Alexander Robotnick](https://www.discogs.com/artist/15975 'Alexander Robotnick, alias [a=Maurizio Dami], is an...') & [Bottin](https://www.discogs.com/artist/1181868 'Perfil no disponible') & [Maurizio Dami](https://www.discogs.com/artist/190230 'Perfil no disponible'))   3:54
+> 
+>   B3. Miti Ellenici 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Perfil no disponible') & [Bottin](https://www.discogs.com/artist/1181868 'Perfil no disponible'))   5:53
+> 
+>   B4. Assolvi Lei 
+> (feat. [Cristiano Verardo](https://www.discogs.com/artist/973183 'Perfil no disponible') & [Maurizio Dami](https://www.discogs.com/artist/190230 'Perfil no disponible') & [Bottin](https://www.discogs.com/artist/1181868 'Perfil no disponible'))   3:25
+> 
