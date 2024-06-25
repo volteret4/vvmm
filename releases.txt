@@ -1,14 +1,252 @@
 Listado de releases del artista:
-Volevi Una Hit - 2012 - https://api.discogs.com/masters/430116
-Canzone Registrata - 2013 - https://api.discogs.com/masters/579853
-Incubo Assoluto  - 2014 - https://api.discogs.com/releases/5666377
-Sciame - 2016 - https://api.discogs.com/releases/8329269
-Q.I.L.D.E. - 2017 - https://api.discogs.com/releases/9952850
-Cristalli Liquidi - 2017 - https://api.discogs.com/masters/1278908
-Ecco I Remix  - 2018 - https://api.discogs.com/releases/11818015
-Ragazza / Madre EP - 2020 - https://api.discogs.com/masters/1724267
-Rosso Carnale - 2023 - https://api.discogs.com/releases/28513675
-Mind Warp Minimix 22 - 2012 - https://api.discogs.com/releases/5094704
-LB/R La Bellezza Riunita - 2018 - https://api.discogs.com/masters/1333728
-LB/E La Bellezza Eccetera - 2020 - https://api.discogs.com/releases/14375882
-Mutazioni 3: Italian Disco​-​Wave Edits - 2021 - https://api.discogs.com/releases/26483972
+After The Love - 1989 - https://api.discogs.com/masters/71218
+Generations Of Love - 1990 - https://api.discogs.com/masters/71222
+One On One - 1990 - https://api.discogs.com/masters/71223
+The Martyr Mantras - 1990 - https://api.discogs.com/masters/71226
+Bow Down Mister - 1991 - https://api.discogs.com/masters/71220
+Sweet Toxic Love - 1992 - https://api.discogs.com/masters/71224
+The Devil In Sister George EP - 1994 - https://api.discogs.com/masters/71308
+Love Your Brother - 2005 - https://api.discogs.com/releases/573076
+Love's Gonna Let You Down (Popcorn Mix) - Desconocido - https://api.discogs.com/releases/15391797
+Doesn't Mean That Much To Me - 1991 - https://api.discogs.com/masters/160944
+Relax (Edition Seven) - 2012 - https://api.discogs.com/masters/496231
+Untitled - 1989 - https://api.discogs.com/releases/3659993
+Radio Virgin (DJ's Jesse & Mankie) - 1989 - https://api.discogs.com/releases/11793791
+Rhythm Stick 1-10 - 1989 - https://api.discogs.com/masters/2505460
+Rhythm Stick 2-2 - 1990 - https://api.discogs.com/releases/1354770
+Only For Dee Jays - 1990 - https://api.discogs.com/releases/2212340
+Now Dance Again - 1990 - https://api.discogs.com/releases/6374800
+Video Show Februar´90 - 1990 - https://api.discogs.com/releases/6686920
+No Virgin No Christmas - 1990 - https://api.discogs.com/releases/12547100
+The Original Dancefloor Hits 1990 Vol. 1 - 1990 - https://api.discogs.com/masters/79538
+Danza! (120 Bpm)  - 1990 - https://api.discogs.com/masters/1064881
+Danza! (98 BPM) - 1990 - https://api.discogs.com/masters/1064882
+The End-Of-The-Century Man - 1990 - https://api.discogs.com/masters/1320931
+Remixed Records 47 - 1991 - https://api.discogs.com/releases/342101
+Remixed Records 50 - 1991 - https://api.discogs.com/releases/352027
+Repertoire Service No. 36 - 1991 - https://api.discogs.com/releases/4598186
+Repertoire Service No. 50 - 1991 - https://api.discogs.com/releases/4762713
+Only For Dee Jays - 1991 - https://api.discogs.com/releases/6075844
+The Video Pool No. 84 (June '91) - 1991 - https://api.discogs.com/releases/10282000
+Video Show April'91 - 1991 - https://api.discogs.com/releases/11133281
+Sahnestücke'91 - Die Besten Internationalen Stücke - 1991 - https://api.discogs.com/releases/12431010
+Virgin Club Nouveau Vol. 3 - 1991 - https://api.discogs.com/releases/13070860
+Music Show On Video September 1991 Teil 1 - 1991 - https://api.discogs.com/releases/26474048
+Top Of The Pops - 1391 - 1991 - https://api.discogs.com/releases/26554127
+Stars On Video Charts No. 11 Juli/August 1991 - 1991 - https://api.discogs.com/releases/29619598
+Now That's What I Call Music! 19 - 1991 - https://api.discogs.com/masters/76331
+21 Jump Street Vol. 2 - 1991 - https://api.discogs.com/masters/220759
+Clubhits 11 - 1991 - 1991 - https://api.discogs.com/masters/869495
+Coconuts - Die Hits Des Jahres - 1991 - https://api.discogs.com/masters/41607
+Banana Jack - 32 Frisch Geschälte Chartbreaker - 1991 - https://api.discogs.com/masters/813709
+Dance Energy 2 - 1991 - https://api.discogs.com/masters/137875
+Smash Hits - 1991 - https://api.discogs.com/masters/813717
+The Greatest Hits 1991 - 3 - 1991 - https://api.discogs.com/masters/78488
+Hit Fascination 5/91 - 1991 - https://api.discogs.com/masters/333993
+Dance Box - 1991 - https://api.discogs.com/masters/844464
+Sahnestücke '91 - Die Besten Internationalen Stücke - 1991 - https://api.discogs.com/masters/478992
+Hit News 91 Volume 3 - 1991 - https://api.discogs.com/masters/1234712
+Danze Daze 2 - 1991 - https://api.discogs.com/masters/2855710
+Formel Eins - Mega-Hits! - 1991 - https://api.discogs.com/masters/208161
+Schmucke Mucke - 1991 - https://api.discogs.com/masters/826662
+Closet Classics Volume 1 - 1991 - https://api.discogs.com/masters/131897
+Daydreams - Vol. 2 - 1991 - https://api.discogs.com/masters/1174881
+La Musica Di Moda International N. 2 - 1991 - https://api.discogs.com/masters/1484174
+Ultra Hot Razor Disc 1 - 1991 - https://api.discogs.com/masters/2556821
+Ronny's Pop Show 18 - Brandneue Hits Vom Letzten Raubzug - 1991 - https://api.discogs.com/masters/371640
+Wimbledon Hits '91 - 1991 - https://api.discogs.com/masters/254393
+Pop News 4/91 - 1991 - https://api.discogs.com/masters/1408471
+Banana Jack -  32 Gigantische Gipfelstürmer - 1991 - https://api.discogs.com/masters/818144
+More Protein Video Compilation - 1992 - https://api.discogs.com/releases/2235023
+More Protein Sampler - 1992 - https://api.discogs.com/releases/2235026
+Music-Show On Video April 1992 Teil 2 FNL - 1992 - https://api.discogs.com/releases/7690835
+Rockamerica July 1992 - 1992 - https://api.discogs.com/releases/10180883
+Dispo-Charts No. I - 1992 - https://api.discogs.com/releases/18967246
+113D Dance Plus - 1992 - https://api.discogs.com/releases/19224907
+Kendo Edition No.3 - 1992 - https://api.discogs.com/releases/21450310
+Do You Really Want To Hurt Me - 1992 - https://api.discogs.com/masters/48149
+Hit Mix '92 - 1992 - https://api.discogs.com/masters/254551
+Let's Dance Now - 1992 - https://api.discogs.com/masters/1074410
+Pop News 2/92 - 1992 - https://api.discogs.com/masters/1714015
+The Voice Of Dance 2 - 1993 - https://api.discogs.com/releases/590791
+Mr Music Hits 3•93 - 1993 - https://api.discogs.com/releases/2072942
+Virgin 21st Anniversary - 1993 - https://api.discogs.com/releases/2079942
+Super Mega Dance - 1993 - https://api.discogs.com/releases/9382638
+Superstar Festival 16 Super Hits - 1993 - https://api.discogs.com/releases/19273021
+Virgin Präsentiert Die Neuheiten Frühjahr'93 - 1993 - https://api.discogs.com/releases/26141285
+Bravo Hits 3 - 1993 - https://api.discogs.com/masters/1439246
+The Best Of 1990-1992 vol. 1 - 1993 - https://api.discogs.com/masters/2332852
+At Worst... The Best Of - 1993 - https://api.discogs.com/masters/48391
+Now That's What I Call Music Vol. 18 - 1993 - https://api.discogs.com/masters/1446735
+Mr Music Hits 3•93 - 1993 - https://api.discogs.com/masters/1558493
+Sunshine Dance '94 - 1994 - https://api.discogs.com/releases/13186562
+Bravo Hits Best Of '91 - 1995 - https://api.discogs.com/releases/2342063
+New Collection (MTV's Most Wanted) - 1995 - https://api.discogs.com/releases/2720497
+The Fast 90's - 1995 - https://api.discogs.com/releases/4266608
+The Fast 90s - 1995 - https://api.discogs.com/releases/7213316
+The Fast 90s CD3 - 1995 - https://api.discogs.com/releases/23919614
+Magnificent 80's CD2 - 1995 - https://api.discogs.com/masters/569425
+Hits & Heroes - 1995 - https://api.discogs.com/masters/1673901
+Magnificent 80's - 1995 - https://api.discogs.com/masters/578874
+Ερωτικές Μπαλλάντες - 1995 - https://api.discogs.com/masters/1844649
+1996 Sydney Gay & Lesbian Mardi Gras (The Party Anthems 2) - 1996 - https://api.discogs.com/releases/1172478
+Hot Hits Of The 90's Vol.1 - 1996 - https://api.discogs.com/releases/2237794
+80's Super Hits - 1996 - https://api.discogs.com/releases/2429980
+90's Super Hits - 1996 - https://api.discogs.com/releases/2430864
+Lifeblood - Pluggin 2 - 1996 - https://api.discogs.com/releases/5564732
+Klub-Spotting - 1996 - https://api.discogs.com/releases/7326577
+Radio Danze Hits '97 - 1996 - https://api.discogs.com/releases/11590103
+Clube Massivo - The Best Disco In Town - 1996 - https://api.discogs.com/releases/11661902
+House Vibes 2000 - 1996 - https://api.discogs.com/releases/15156826
+Dance The Ultimate Dance Party - 1996 - https://api.discogs.com/releases/16209195
+Hot Hits Of The 90's Vol. 3 - 1996 - https://api.discogs.com/releases/20073262
+Hero 1996 - 1996 - https://api.discogs.com/releases/23709914
+In The Mix Ninety Six - 1996 - https://api.discogs.com/releases/25095472
+Pure Hits - 1996 - https://api.discogs.com/releases/30069757
+Full Speed Three - 1996 - https://api.discogs.com/masters/1159722
+Housefloor - Volume 5 - 1997 - https://api.discogs.com/releases/650561
+Ride The Bassline - The Real Speedgarage Collection - 1997 - https://api.discogs.com/releases/659720
+Now The Music • The 90's Generation - 1997 - https://api.discogs.com/releases/3878446
+Free To Be Volume 10 - 1997 - https://api.discogs.com/releases/4647971
+Superhits 90's Volume 2 - 1997 - https://api.discogs.com/releases/26863100
+Greatest Fame Music Popsongs, Part 3 - 1997 - https://api.discogs.com/releases/29321254
+Trance House - 1997 - https://api.discogs.com/masters/3213909
+Classics Mixed By Judge Jules - 1997 - https://api.discogs.com/masters/1210619
+Closet Classics Volume Two - 1997 - https://api.discogs.com/masters/129917
+VMP Best 97 - 1997 - https://api.discogs.com/masters/1438643
+Dance Grooves - 1998 - https://api.discogs.com/releases/73689
+Love, Peace & Unity '98 - 1998 - https://api.discogs.com/releases/221266
+Mix Mania Vol. 3 - 1998 - https://api.discogs.com/releases/376486
+Club Vibes Vol.4 (A Byte Compilation) - 1998 - https://api.discogs.com/releases/479850
+HouseBox Vol. I - 1998 - https://api.discogs.com/releases/645766
+Boccacio Life - Boccaccio Beach - 1998 - https://api.discogs.com/releases/665666
+Culture House - 1998 - https://api.discogs.com/releases/821082
+Summer Dance Classics '98 Vol. 1 - 1998 - https://api.discogs.com/releases/915490
+House*Matic Club Hits EP - 1998 - https://api.discogs.com/releases/973060
+Free Volume Three - 1998 - https://api.discogs.com/releases/1033336
+Totally Dance Vol4 - 1998 - https://api.discogs.com/releases/2303136
+Dockside 10 Years - A Decade Of Dance - 1998 - https://api.discogs.com/releases/2728673
+Free To Be - 1998 - https://api.discogs.com/releases/3021018
+Dance Phenomena - 1998 - https://api.discogs.com/releases/3327507
+Passion Traxx Vol 4 - 1998 - https://api.discogs.com/releases/7645848
+1998 Dance VMP Best Dance 98 .1 - 1998 - https://api.discogs.com/releases/9072238
+Le Club 2001 - 1998 - https://api.discogs.com/releases/13252882
+Corti Tour - Summer 98 - 1998 - https://api.discogs.com/releases/13433702
+House Masters - 1998 - https://api.discogs.com/releases/13821319
+Brilliant Eighties Dance - 1998 - https://api.discogs.com/releases/24602312
+Deutsche Tanz Charts 98 - 1998 - https://api.discogs.com/releases/25152925
+Technics: The Original Sessions - 1998 - https://api.discogs.com/masters/1566223
+Blue - 1998 - https://api.discogs.com/masters/488476
+Greatest Moments - 1998 - https://api.discogs.com/masters/289949
+In The Mix - 1998 - https://api.discogs.com/masters/1547954
+IZAM Presents The Best Of Boy George & Culture Club - For Children's Children - 1998 - https://api.discogs.com/masters/1016038
+House*Matic Club Hits Vol.1. - 1998 - https://api.discogs.com/masters/875392
+The Sound Of A Decade - 1999 - https://api.discogs.com/releases/557699
+Electric 80s - 1999 - https://api.discogs.com/releases/2740988
+Sexy Tunes Vol.2 - 1999 - https://api.discogs.com/releases/4185229
+Ten ΚΛΙΚ Years After - 1999 - https://api.discogs.com/releases/10547694
+Get Up 'N' Dance - 1999 - https://api.discogs.com/releases/11941990
+Houseplosion - 1999 - https://api.discogs.com/masters/357773
+Dance Train Classics Vinyl 6 - 2000 - https://api.discogs.com/releases/31796
+Dance Train Classics Platform 2 - 2000 - https://api.discogs.com/releases/110384
+Greatest Hits Of The 70's, 80's & 90's - 2000 - https://api.discogs.com/releases/373229
+Pop @ Planet Earth - 2000 - https://api.discogs.com/releases/726817
+Nachtschicht Vol. 3 - 2000 - https://api.discogs.com/releases/2828512
+More Greatest Hits Of The 80's 2 - 2000 - https://api.discogs.com/releases/6830322
+Schmetterlinge Im Bauch - Volume 4 - 2000 - https://api.discogs.com/releases/19054825
+More Greatest Hits Of The 80's - 2000 - https://api.discogs.com/masters/348494
+Loved Up - 2001 - https://api.discogs.com/releases/168016
+Brilliant 80's - Keep On Moving - 2001 - https://api.discogs.com/releases/692866
+Was Het Nu 70, 80 Of 90?  File 3 - 2001 - https://api.discogs.com/releases/970148
+One Hit Wonders - 2001 - https://api.discogs.com/releases/3463613
+Top 40 Hitdossier 1991-1992 - 2001 - https://api.discogs.com/releases/3716017
+On A Night Like This Mardi Gras Celebration - 2001 - https://api.discogs.com/releases/4379656
+1000 Original Hits 1989 - 2001 - https://api.discogs.com/releases/6789244
+Alex Nyborg Madsen's 90'er Favoritter - 2001 - https://api.discogs.com/releases/8102990
+Power Dance - 2001 - https://api.discogs.com/releases/9170488
+The Famous Grouse Dance Collection - 2001 - https://api.discogs.com/releases/11923956
+Pop Gold - 2001 - https://api.discogs.com/releases/14835402
+1000 Original Hits 80's - 2001 - https://api.discogs.com/releases/30852687
+More New Wave - 2001 - https://api.discogs.com/masters/380978
+Dance Classics - 2001 - https://api.discogs.com/masters/380980
+The Art Of Pop - Wild Wild Life - 2001 - https://api.discogs.com/masters/726142
+Lucky For Some (A More Protein Compilation) - 2001 - https://api.discogs.com/masters/669377
+New Waves In Music - 2002 - https://api.discogs.com/releases/784846
+Something Old Something New: A More Protein Compilation - 2002 - https://api.discogs.com/releases/1309534
+Dance Collection - Vocal Group - 2002 - https://api.discogs.com/releases/1747011
+More New Wave (Original Hits & Video Clips) - 2002 - https://api.discogs.com/releases/5183757
+80's Generation - 2002 - https://api.discogs.com/releases/7738795
+Super Hits - 2002 - https://api.discogs.com/releases/7950077
+Golfstreem - 2003 - https://api.discogs.com/releases/6913680
+Die Geilsten 90er Hits Saturn Party Edition - 2003 - https://api.discogs.com/releases/7523170
+Best Of 80's (1988-1989)  - 2003 - https://api.discogs.com/releases/7713780
+Classic Beats V.19 - 2003 - https://api.discogs.com/releases/9929193
+Chivas Regal Collection No6 Chill - 2003 - https://api.discogs.com/releases/18059269
+Nachtschicht Summerfeelings - 2003 - https://api.discogs.com/releases/29905744
+Hits Of The 90's - 2003 - https://api.discogs.com/masters/2605061
+Ces Années-Là Hits 1991 N° 27 - 2004 - https://api.discogs.com/releases/9264998
+Back To Mine - 2004 - https://api.discogs.com/masters/39333
+Freitag Nacht - Mega-Maxi-Edition Volume 5 - 2005 - https://api.discogs.com/releases/3373036
+Dance Machine '89 '90 - 2006 - https://api.discogs.com/releases/1365124
+Classic Cuts 69 - One Hit Wonders - 2006 - https://api.discogs.com/masters/1721071
+90s Maximum - 2007 - https://api.discogs.com/releases/1234206
+Bud:01 - 2007 - https://api.discogs.com/releases/28417399
+GU33: Rio - 2007 - https://api.discogs.com/masters/45497
+The Dance Years 1991 - 2009 - https://api.discogs.com/releases/1699407
+LWE Podcast 14 - 2009 - https://api.discogs.com/releases/1868863
+Alle 40 Goed - 90's - 2010 - https://api.discogs.com/releases/3449094
+Disco 90х - 2010 - https://api.discogs.com/releases/11536357
+Heetste Homo Hits - 2011 - https://api.discogs.com/masters/1703779
+Balearic House - 2012 - https://api.discogs.com/releases/4106719
+Balearic World - 2012 - https://api.discogs.com/releases/4109472
+So90s (Sonineties) - 2012 - https://api.discogs.com/masters/3350239
+Fascinating Rhythms (Sound Systems & Dancefloor) - 2013 - https://api.discogs.com/masters/985555
+I Love House (Classic Mixes) (Volume 2) - 2017 - https://api.discogs.com/releases/9993937
+Top Of The Pops - Dance - 2017 - https://api.discogs.com/releases/11910063
+AAHZ The Lost Tapes 001 - 2019 - https://api.discogs.com/releases/29352643
+Fetenhits 90s Maxi Classics - 2020 - https://api.discogs.com/masters/2394475
+The Best 90s Album In The World...Ever! - 2021 - https://api.discogs.com/releases/22758338
+Nineties Collected Vol. 2 - 2023 - https://api.discogs.com/releases/25748266
+DJ - MAXI "55" - Desconocido - https://api.discogs.com/releases/2455427
+Dance! - Desconocido - https://api.discogs.com/releases/4604507
+The 90's Generation - Desconocido - https://api.discogs.com/releases/8560671
+Virgin 21 - The Greatest Hits Of Virgin Records - Desconocido - https://api.discogs.com/releases/11044743
+The 90s - MediaMarkt Collection - Desconocido - https://api.discogs.com/releases/11237346
+In Da Mix - Desconocido - https://api.discogs.com/releases/11270665
+Top Request - Desconocido - https://api.discogs.com/releases/11980206
+Trance 4 A Journey To Underground - Desconocido - https://api.discogs.com/releases/15078017
+Hot Spot - Desconocido - https://api.discogs.com/masters/2577449
+Dance Summer Mix - Desconocido - https://api.discogs.com/masters/855236
+The Hits Of The International Gay Happening - Desconocido - https://api.discogs.com/masters/2661734
+More Protein - Compile 2 - 1990 - https://api.discogs.com/releases/25860235
+Master Beats 3 - 1991 - https://api.discogs.com/releases/10346809
+Hit Mix'92 Non Stop Mix Part. 2 - 1992 - https://api.discogs.com/masters/254551
+Coca Cola Hits '93 - 1993 - https://api.discogs.com/releases/13426647
+Reggae '93 Summer Hits - 1993 - https://api.discogs.com/releases/20052982
+D.J. Hits Vol. II - 1993 - https://api.discogs.com/masters/1751840
+Super Discothek Hits 72 - 1994 - https://api.discogs.com/releases/2921143
+Super Hits Vol.1 - 1994 - https://api.discogs.com/releases/23541101
+Deep Magic Dance 12½ - The Magic Sound Of Deep - 1996 - https://api.discogs.com/masters/503714
+Singles Collection - 1997 - https://api.discogs.com/masters/1061966
+Deep Magic Dance 50 - The Best Of 10 Years - 1997 - https://api.discogs.com/masters/428422
+Remix Volume 2 - 1999 - https://api.discogs.com/masters/900434
+T.Rexx Presents: The Millenium Summer Sunshine Holiday Mega Mix - 2000 - https://api.discogs.com/releases/2244317
+Explosion!! - The Rock'N'Roll Ghosts Of Soho - 2000 - https://api.discogs.com/releases/13198029
+Massive Mixes - 2002 - https://api.discogs.com/releases/2038638
+At Worst... The Best Of - 2002 - https://api.discogs.com/masters/48391
+Back To Mine - 2004 - https://api.discogs.com/masters/39333
+Digital Collection - 2006 - https://api.discogs.com/releases/8462237
+MP3 Collection - 2006 - https://api.discogs.com/masters/1507155
+Pool Mix 1990's - 2007 - https://api.discogs.com/releases/1578164
+Original Hits 80's 2 - 2007 - https://api.discogs.com/releases/10109304
+After The Love - 2007 - https://api.discogs.com/masters/71218
+GU33: Rio - 2007 - https://api.discogs.com/masters/45497
+MP3 Collection - 2011 - https://api.discogs.com/releases/8315397
+DJ Maxi Single 79 - Desconocido - https://api.discogs.com/releases/1223447
+DJ Maxi Single 189 - Desconocido - https://api.discogs.com/releases/1435169
+Banana Jack Presents - Desconocido - https://api.discogs.com/releases/2596301
+Popularity Breeds Contempt - Desconocido - https://api.discogs.com/releases/7987128
+The Very Best Of Phoenix Vol. 6 Banana Jack 3 - Desconocido - https://api.discogs.com/releases/14062245
+Elbo's Disco 52 - Desconocido - https://api.discogs.com/releases/15772476
+Hit News '91 - Desconocido - https://api.discogs.com/releases/22901912
+The Martyr Mantras - Desconocido - https://api.discogs.com/masters/71226
