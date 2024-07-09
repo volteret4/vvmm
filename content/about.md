@@ -6,11 +6,13 @@ menu: main
 weight: 3
 ---
 
-_Actualizado el 26-06-2024_
+_Actualizado el 09-07-2024_
 
 [Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) Selección variada filtrada por el mejor gusto existente.
 
 [sobrinos](https://open.spotify.com/playlist/12yW7n4rxrKwRLQDHnUTWh) insuperables
+
+[primos](https://open.spotify.com/playlist/2hhfLEU3b5HK2TjyyjUDt1)
 
 [Remember](https://open.spotify.com/playlist/03VlNYFXZ6evLWvLMNKHk8) 
 
@@ -56,7 +58,7 @@ _Actualizado el 26-06-2024_
 
 [Periquito](https://open.spotify.com/playlist/0hdLD49I022RjFonUfY0Be) 
 
-[Pumuki Electrónico](https://open.spotify.com/playlist/5TtAucXLDCVkcjCJJS4edN) 
+[Pumuki](https://open.spotify.com/playlist/5TtAucXLDCVkcjCJJS4edN) 
 
 [Silvino](https://open.spotify.com/playlist/7lHRRbNuxGwLx7R09ZAVQx)
 
