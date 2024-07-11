@@ -1,16 +1,62 @@
 Listado de releases del artista:
-Last Place You Look EP - 2017 - https://api.discogs.com/releases/9909139
-Minus One - 2019 - https://api.discogs.com/releases/13412104
-Initial Ascent - 2019 - https://api.discogs.com/releases/13490315
-Broken Signals - 2019 - https://api.discogs.com/releases/14273582
-Nowhere But Here - 2020 - https://api.discogs.com/releases/15714238
-Lost Connection - 2022 - https://api.discogs.com/releases/23300897
-Don't Let Me / Air - 2023 - https://api.discogs.com/releases/28043592
-Fracture - 2024 - https://api.discogs.com/releases/30269783
-Flare (Otik Remix) - 2024 - https://api.discogs.com/releases/30752706
-My Favourite Stranger (Remixes) - 2023 - https://api.discogs.com/masters/3281536
-The Smoke EP - 2016 - https://api.discogs.com/releases/9590988
-Super Tuff 002 - 2017 - https://api.discogs.com/releases/11185558
-Odoru Tori EP - 2018 - https://api.discogs.com/releases/12387249
-Fabric Presents Maribou State - 2020 - https://api.discogs.com/masters/1706954
-Anniversary Sampler 03 - 2021 - https://api.discogs.com/masters/2268895
+L'Impératrice EP - 2012 - https://api.discogs.com/masters/1764470
+Sonate Pacifique - 2014 - https://api.discogs.com/masters/1352457
+Odyssée - 2015 - https://api.discogs.com/masters/1219269
+Vanille Fraise - 2015 - https://api.discogs.com/masters/2603408
+Dreaming Of You  - 2017 - https://api.discogs.com/masters/1514383
+Séquences - 2017 - https://api.discogs.com/masters/1229237
+Vacances (Yuksek Remix) - 2018 - https://api.discogs.com/releases/12182004
+Histoire d'un soir - Souvenirs d'été - 2018 - https://api.discogs.com/releases/12185998
+Geisha - 2018 - https://api.discogs.com/releases/13783655
+Stand On The Word - 2018 - https://api.discogs.com/releases/13783692
+Matahari - 2018 - https://api.discogs.com/masters/1365170
+Loverini - 2021 - https://api.discogs.com/releases/19183117
+Live À Paris 2020 - 2021 - https://api.discogs.com/releases/19527715
+Submarine (Remixes) - 2021 - https://api.discogs.com/releases/21560173
+Tako Tsubo - 2021 - https://api.discogs.com/masters/2065918
+Je Danse - 2022 - https://api.discogs.com/releases/23589512
+Everything Eventually Ends - 2022 - https://api.discogs.com/releases/29757163
+Pulsar - 2024 - https://api.discogs.com/masters/3508878
+Mango Pickle - 2013 - https://api.discogs.com/releases/4718157
+Children Of The Night - 2014 - https://api.discogs.com/masters/1767843
+Super Disco Sound - 2015 - https://api.discogs.com/releases/6911168
+Cerrone IV / Cerrone VII / Give Me Remixes - 2015 - https://api.discogs.com/releases/7081879
+Give Me Remixes - 2015 - https://api.discogs.com/masters/862580
+La Piscine EP - 2016 - https://api.discogs.com/masters/1214984
+Hideout EP Remixed - 2017 - https://api.discogs.com/releases/10189761
+Gamesofluck (L'Imperatrice Remix) - 2017 - https://api.discogs.com/masters/1230593
+Les Bateaux Remixes  - 2018 - https://api.discogs.com/releases/12186094
+We Love Dogs! - 2021 - https://api.discogs.com/releases/20656348
+Haute Musique II Nova - 2017 - https://api.discogs.com/releases/11217064
+Séquences - 2017 - https://api.discogs.com/masters/1229237
+La Bande-son Du Printemps 2018 - 2018 - https://api.discogs.com/releases/11709859
+Matahari - 2018 - https://api.discogs.com/masters/1365170
+Odyssée Deluxe - 2019 - https://api.discogs.com/masters/1219269
+I Feel High - 2021 - https://api.discogs.com/releases/20684113
+High Season - 2021 - https://api.discogs.com/masters/2502199
+Tako Tsubo - 2021 - https://api.discogs.com/masters/2065918
+Nova 40 Ans De Grand Mix - 2023 - https://api.discogs.com/releases/29066911
+Trax 161 Hiver 2012/13 - 2012 - https://api.discogs.com/releases/4164166
+Mémoires D'éléphant #01 - 2014 - https://api.discogs.com/releases/5296750
+Play Your Day (Collection Vol. I) - 2015 - https://api.discogs.com/releases/10272917
+French Touch Vol. 02 (Electronic Music Made In France) - 2016 - https://api.discogs.com/releases/9351667
+France Rocks - Volume 4 - 2016 - https://api.discogs.com/releases/9458950
+Saint-Germain-Des-Prés Café Vol. 18 - 2016 - https://api.discogs.com/releases/13233386
+L'esprit Inter 05 - Le Son De France Inter  - 2016 - https://api.discogs.com/releases/25123750
+Sunday Mixtape - 2016 - https://api.discogs.com/masters/1101446
+Memoires d'Elephant #02 - 2016 - https://api.discogs.com/masters/1249239
+Disco 2.0 (Fever's Risin' Again) - 2016 - https://api.discogs.com/masters/1026589
+Haute Musique II Nova - 2017 - https://api.discogs.com/releases/11217064
+La Bande-son Du Printemps 2018 - 2018 - https://api.discogs.com/releases/11709859
+Terres Du Son 2018 - 2018 - https://api.discogs.com/releases/15230592
+Pure Volume 9 - 2018 - https://api.discogs.com/releases/15357849
+Souvenirs D'été - 2018 - https://api.discogs.com/releases/15959660
+Dreaming Of You  - 2018 - https://api.discogs.com/masters/1514383
+Too Slow To Disco Neo - En France - 2019 - https://api.discogs.com/releases/21900943
+Too Slow To Disco Neo - En France - 2019 - https://api.discogs.com/masters/1543593
+Appletree Garden 202020 - 2020 - https://api.discogs.com/releases/16212973
+Nova Tunes 4.2 - 2021 - https://api.discogs.com/releases/20351749
+Suena En Ibero Vol. 1 - 2021 - https://api.discogs.com/releases/26217830
+Pete The Monkey - Songs From The Jungle - Desconocido - https://api.discogs.com/releases/22981460
+Les Victoires de la Musique 2022 - Desconocido - https://api.discogs.com/releases/25555303
+Give Me Remixes - 2023 - https://api.discogs.com/masters/862580

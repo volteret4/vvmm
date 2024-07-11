@@ -8,13 +8,13 @@ weight: 3
 
 _Actualizado el 11-07-2024_
 
-[Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) Selección variada filtrada por el mejor gusto existente.
+[Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) ni playlist ni playlisto
 
 [sobrinos](https://open.spotify.com/playlist/12yW7n4rxrKwRLQDHnUTWh) insuperables
 
 [Canijera](https://open.spotify.com/playlist/58N5S0tWarVmvfTlv2JdCM)
 
-[cena](https://open.spotify.com/playlist/3j6Hp6Ikt1ioOZbw6xouJT)
+[cena para tres](https://open.spotify.com/playlist/3j6Hp6Ikt1ioOZbw6xouJT) a tener de fondo de una conversación
 
 [primos](https://open.spotify.com/playlist/2hhfLEU3b5HK2TjyyjUDt1)
 
@@ -26,7 +26,7 @@ _Actualizado el 11-07-2024_
 
 [awakenings](https://open.spotify.com/playlist/3SMJF8liZFhWUX4uAV2xwF) Perfectas para despertarse
 
-[Floating](https://open.spotify.com/playlist/38onpFeWMwMrGePaTes7F0) 
+[Floating](https://open.spotify.com/playlist/38onpFeWMwMrGePaTes7F0) ladies and gentlemen we are floating in space
 
 [Zuerta ar perro, Paco](https://open.spotify.com/playlist/1GME9Y5nWzOM6t5g1eRZ1a) desfoga animal
 
@@ -34,11 +34,11 @@ _Actualizado el 11-07-2024_
 
 [balearic](https://open.spotify.com/playlist/6YCNVAkIyrKOUItxv3tRxe) noches de verano
 
-[Albums_HiFi](https://open.spotify.com/playlist/4R1Q00icNWjLZhUaTphBYW) Playlists creada el 20-02-24
+[Albums_HiFi](https://open.spotify.com/playlist/4R1Q00icNWjLZhUaTphBYW) Discos que suenan especialmente bien.
 
-[test_sonido](https://open.spotify.com/playlist/1UTFLjWEUI0tQDw9YY8Xov) Playlists creada el 21-02-24
+[test_sonido](https://open.spotify.com/playlist/1UTFLjWEUI0tQDw9YY8Xov) Canciones para probar tu nuevo juguete.
 
-[Albums_HiFi_Vocal](https://open.spotify.com/playlist/6A2DsRAhP9X2x3KfhmtlKQ) Playlists creada el 20-02-24
+[Albums_HiFi_Vocal](https://open.spotify.com/playlist/6A2DsRAhP9X2x3KfhmtlKQ) Voces grabadas con mimo.
 
 [deephouse](https://open.spotify.com/playlist/3IM0zBIdD29aUTonLoItN8) can you feel it?
 
