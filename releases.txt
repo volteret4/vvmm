@@ -1,135 +1,16 @@
 Listado de releases del artista:
-European EP - 2002 - https://api.discogs.com/releases/629513
-European EP - 2002 - https://api.discogs.com/releases/30857961
-Cognac / Queen Bee - 2003 - https://api.discogs.com/releases/522820
-Turn It Up - 2004 - https://api.discogs.com/releases/620466
-Hater / Biker Walk - 2004 - https://api.discogs.com/masters/332005
-I'm Really Hot / Where I Belong - 2005 - https://api.discogs.com/releases/478064
-Foller / Home - 2005 - https://api.discogs.com/masters/197708
-Sir / In This - 2005 - https://api.discogs.com/masters/717009
-Mr Clever / Lost (Dub) - 2006 - https://api.discogs.com/releases/715275
-Today / Go Beat - 2006 - https://api.discogs.com/releases/715525
-Breezeblock Mix - 2006 - https://api.discogs.com/releases/793034
-Luv U - 2006 - https://api.discogs.com/releases/863856
-The World Is Gone - 2006 - https://api.discogs.com/releases/932622
-Bruk / Home Edit - 2006 - https://api.discogs.com/releases/932624
-Hater - 2006 - https://api.discogs.com/releases/1771463
-The World Is Gone - 2006 - https://api.discogs.com/masters/125000
-110420 - 2007 - https://api.discogs.com/releases/1045976
-Took - 2007 - https://api.discogs.com/releases/1052025
-Boy - 2007 - https://api.discogs.com/releases/1060060
-Byker Walk - 2007 - https://api.discogs.com/releases/1060099
-Home - 2007 - https://api.discogs.com/releases/1060105
-Nothing Left - 2007 - https://api.discogs.com/releases/1498979
-SQR Sessions Mix - 2007 - https://api.discogs.com/releases/2556594
-Diver - 2007 - https://api.discogs.com/masters/197709
-Chief EP - 2007 - https://api.discogs.com/masters/197711
-Phortune / Limbs - 2007 - https://api.discogs.com/masters/197712
-Versus - 2008 - https://api.discogs.com/releases/1400332
-Meskman / Wot You Say - 2008 - https://api.discogs.com/releases/1423469
-Without U - 2008 - https://api.discogs.com/releases/1687928
-Warchild - 2008 - https://api.discogs.com/releases/1687938
-Haven - 2008 - https://api.discogs.com/releases/1687991
-Puff Rider - 2008 - https://api.discogs.com/masters/525602
-Apollo / Neva Argue - 2008 - https://api.discogs.com/masters/1061423
-Something For Thee Soft Verge - 2009 - https://api.discogs.com/releases/1687830
-Something - 2009 - https://api.discogs.com/releases/1687865
-Trycycle (Extended) - 2009 - https://api.discogs.com/releases/1687894
-Clerks - 2009 - https://api.discogs.com/releases/1687917
-In This / Lost (Remixes) - 2009 - https://api.discogs.com/releases/1704147
-Treat Her Right - 2009 - https://api.discogs.com/releases/1706213
-Trycycle EP - 2009 - https://api.discogs.com/releases/1784135
-MKC - 2009 - https://api.discogs.com/releases/2556413
-Punish You (Various Production Remix) - 2009 - https://api.discogs.com/releases/2556438
-Mina - 2009 - https://api.discogs.com/releases/2556462
-The Invisible Lodger - 2009 - https://api.discogs.com/masters/152769
-How Can You Stand? - 2009 - https://api.discogs.com/masters/280030
-I Want You To Sleep - 2009 - https://api.discogs.com/masters/447982
-Buds - 2009 - https://api.discogs.com/masters/447983
-As It Stops Raining - 2009 - https://api.discogs.com/masters/447984
-VA1 - 2010 - https://api.discogs.com/releases/2556519
-Infinity - 2010 - https://api.discogs.com/masters/421292
-Drink It / Dan's Time - 2011 - https://api.discogs.com/releases/20475418
-Learn Faster / Air - 2011 - https://api.discogs.com/masters/3176043
-Moving On / Bolts - 2012 - https://api.discogs.com/masters/3176046
-VA7 - 2013 - https://api.discogs.com/releases/4426369
-Worse - 2013 - https://api.discogs.com/releases/25215928
-Opus - 2013 - https://api.discogs.com/releases/25216063
-Shed - 2013 - https://api.discogs.com/releases/25216105
-Rush - 2013 - https://api.discogs.com/masters/3176058
-Sampling Again - 2014 - https://api.discogs.com/releases/9360112
-Spacegirl - Desconocido - https://api.discogs.com/releases/29022574
-All This Love - 2002 - https://api.discogs.com/masters/113139
-Hey Papi - 2004 - https://api.discogs.com/masters/233646
-I Think of You As Miss Universe - 2005 - https://api.discogs.com/releases/5349857
-Feasting On My Heart - 2007 - https://api.discogs.com/releases/1087140
-And It Rained All Night (Burial Remix) / Skip Divided (Modeselektor Remix) / Analyse (Various Remix) - 2007 - https://api.discogs.com/masters/11991
-Sister Rose (Remix) - Single - 2007 - https://api.discogs.com/masters/46430
-The Mischief Of Cloud 6 - 2007 - https://api.discogs.com/masters/100716
-Real Thing - 2008 - https://api.discogs.com/releases/1394836
-Sick Pay - 2008 - https://api.discogs.com/masters/226345
-Butterfingers - 2008 - https://api.discogs.com/masters/200363
-Winter Music Conference 2008 Chrysalis Music Sampler - 2008 - https://api.discogs.com/masters/3089973
-Red Socks Pugie - 2008 - https://api.discogs.com/masters/8259
-Future Chaos - 2008 - https://api.discogs.com/masters/67658
-Something - 2008 - https://api.discogs.com/masters/167643
-The Graveyard Shift - 2009 - https://api.discogs.com/masters/244604
-Commercial Collection 331 - 2010 - https://api.discogs.com/releases/2575586
-Kick With !K7 - 2010 - https://api.discogs.com/releases/21875917
-Stuck (Remixes) - 2010 - https://api.discogs.com/masters/890371
-Dressed In Dresden - 2010 - https://api.discogs.com/masters/263710
-XXXO (The Remixes) - 2010 - https://api.discogs.com/masters/263846
-I Gotta Rokk - 2011 - https://api.discogs.com/masters/340566
-Space Girl / ODSM - 2014 - https://api.discogs.com/releases/12303002
-Mophonic Sync - Desconocido - https://api.discogs.com/releases/5269605
-Future Chaos - 2008 - https://api.discogs.com/masters/67658
-The Eraser Rmxs - 2008 - https://api.discogs.com/masters/11991
-In Los Angeles, 10/31/09 - 2009 - https://api.discogs.com/masters/218906
-XXXO (The Remixes) - 2010 - https://api.discogs.com/masters/263846
-Now That's What I Call Hip-Hop at 50 - 2023 - https://api.discogs.com/releases/28555195
-Now That's What I Call Hip-Hop at 50 - 2023 - https://api.discogs.com/releases/28720405
-Top Of The Pops-949 - 1983 - https://api.discogs.com/releases/29682796
-Dale Un Mordisco Al Disco Vol.3 - 1993 - https://api.discogs.com/releases/29145928
-Dale Un Mordisco Al Disco Vol.4 - 1994 - https://api.discogs.com/releases/29146042
-Dale Un Mordisco Al Disco Vol.6 - 1996 - https://api.discogs.com/releases/29146126
-TeleVøid - 1997 - https://api.discogs.com/masters/1629109
-Dubnyt - 2006 - https://api.discogs.com/releases/873897
-Talvipäiväntasaus - 2006 - https://api.discogs.com/releases/873903
-Warrior Dubz - 2006 - https://api.discogs.com/masters/17924
-Analog For Architecture - 2006 - https://api.discogs.com/masters/85201
-Shotgun Wedding Volume Six - 2007 - https://api.discogs.com/releases/1191203
-Pure Fire! 2007 Summer Megamix - 2007 - https://api.discogs.com/releases/1298602
-Momentos 2006 Volumen I Canciones Internacionales - 2007 - https://api.discogs.com/releases/2626881
-Mix 01 - 2007 - https://api.discogs.com/releases/8338235
-Spirit Of The Bush - 2007 - https://api.discogs.com/releases/23254868
-Beggars Cuvée 2006 / 2007 - 2007 - https://api.discogs.com/releases/27779124
-Boogybytes Vol.03 - 2007 - https://api.discogs.com/masters/744198
-Rough Trade Shops (Counter Culture 06) - 2007 - https://api.discogs.com/masters/400608
-Vexille - The Soundtrack / ベクシル 2077日本鎖国 - 2007 - https://api.discogs.com/masters/31456
-Meets Her Soulmates At Faust Studio Deejay Laboratory - 2008 - https://api.discogs.com/releases/1430711
-Lektion #2 - 2008 - https://api.discogs.com/masters/17890
-Turning Point - 2009 - https://api.discogs.com/releases/1717758
-Solar Life Raft - 2009 - https://api.discogs.com/releases/1991732
-Rustie, Something In The Bucky (Does Not Compute) - 2009 - https://api.discogs.com/releases/2183158
-14 Tracks In Hypercolour: A Synthfunk Sampler - 2009 - https://api.discogs.com/releases/3050650
-Essential Electronic - 2009 - https://api.discogs.com/releases/29146642
-14 Tracks: Locked Onto Actress - 2010 - https://api.discogs.com/releases/4253663
-The Fire Starter - 2010 - https://api.discogs.com/releases/4980041
-14 Tracks: Dubstep In Rude Health - 2012 - https://api.discogs.com/releases/3465598
-EG Podcast 320 Ulrich Schnauss - 2012 - https://api.discogs.com/releases/3758291
-XL Recordings: Pay Close Attention - 2014 - https://api.discogs.com/masters/737682
-Moon8 part 3 chillout mix - 2017 - https://api.discogs.com/releases/10226250
-What About Them?  / Too Lost In You - 2005 - https://api.discogs.com/releases/523265
-Medication Time - 2007 - https://api.discogs.com/releases/4785302
-Boogybytes Vol.03 - 2007 - https://api.discogs.com/masters/744198
-Vexille - The Soundtrack - 2007 - https://api.discogs.com/masters/31456
-Clash Podcast Mix - 2008 - https://api.discogs.com/releases/1711784
-Lektion #2 - 2008 - https://api.discogs.com/masters/17890
-Bun-E Monthly Mixes #1 - 2009 - https://api.discogs.com/releases/1679165
-Podcast002 - 2009 - https://api.discogs.com/releases/2556497
-Skull Juice Radio - Episode 5 (June 2009) - 2009 - https://api.discogs.com/releases/5221559
-Chasing Pavements (Various Production Edit) - 2009 - https://api.discogs.com/masters/57647
-The 'G' Is Silent - 2010 - https://api.discogs.com/releases/3079961
-Block.fm (Japan) Live Minimix - 2012 - https://api.discogs.com/releases/3605454
-STYLSS : Suicide Pact : Five [Bootleg Edition] - 2013 - https://api.discogs.com/releases/6599420
-Dale Un Mordisco Al Disco Vol.2 - 2018 - https://api.discogs.com/releases/29145862
+Last Place You Look EP - 2017 - https://api.discogs.com/releases/9909139
+Minus One - 2019 - https://api.discogs.com/releases/13412104
+Initial Ascent - 2019 - https://api.discogs.com/releases/13490315
+Broken Signals - 2019 - https://api.discogs.com/releases/14273582
+Nowhere But Here - 2020 - https://api.discogs.com/releases/15714238
+Lost Connection - 2022 - https://api.discogs.com/releases/23300897
+Don't Let Me / Air - 2023 - https://api.discogs.com/releases/28043592
+Fracture - 2024 - https://api.discogs.com/releases/30269783
+Flare (Otik Remix) - 2024 - https://api.discogs.com/releases/30752706
+My Favourite Stranger (Remixes) - 2023 - https://api.discogs.com/masters/3281536
+The Smoke EP - 2016 - https://api.discogs.com/releases/9590988
+Super Tuff 002 - 2017 - https://api.discogs.com/releases/11185558
+Odoru Tori EP - 2018 - https://api.discogs.com/releases/12387249
+Fabric Presents Maribou State - 2020 - https://api.discogs.com/masters/1706954
+Anniversary Sampler 03 - 2021 - https://api.discogs.com/masters/2268895
