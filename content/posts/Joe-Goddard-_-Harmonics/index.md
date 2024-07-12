@@ -1,0 +1,80 @@
+---
+title: "Joe Goddard - Harmonics"
+date: 2024-07-12T17:12:55+02:00
+image: "image.jpeg"
+draft: false
+tags:
+ - house
+ - deep
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Joe-Goddard - Harmonics))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3540739)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1079f93d-b020-4bfb-b44d-1d5f94884936)
+[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00)
+[![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLY1MfpVEKNFrSY5YiCJ3_OWNP8PbkNDuT)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2024
+> 
+> **Géneros**: Electronic
+> 
+> **Estilos**: House, Nu-Disco, Synth-pop
+> 
+> **Pais:** Italy
+> 
+> **Votos:** Media de 5.0 con 1 votos
+> 
+> **Sello:** Ariston
+> 
+> 
+> 
+> **Tracklist:**
+> 
+>   A1. Moments Die 
+> (feat. [Barrie](https://www.discogs.com/artist/584455 'Visual artist credited with artwork on [m48075].'))   
+> 
+>   A2. Progress 
+> (feat. [Ibibio Sound Machine](https://www.discogs.com/artist/3749287 'Ibibio Sound Machine is a clash of...'))   
+> 
+>   A3. Destiny 
+> (feat. [Findia](https://www.discogs.com/artist/14823973 ''))   
+> 
+>   B1. New World (Flow) 
+> (feat. [Fiorious](https://www.discogs.com/artist/2812244 'Italian singer and songwriter, now based in...'))   
+> 
+>   B2. When Love’s Out Of Fashion 
+> (feat. [Oranje](https://www.discogs.com/artist/14823976 ''))   
+> 
+>   B3. Folow You    
+> 
+>   B4. On My Mind    
+> 
+>   C1. Summon 
+> (feat. [Hayden Thorpe](https://www.discogs.com/artist/5319227 'Musician based in London, UK.'))   
+> 
+>   C2. When You Call 
+> (feat. [Findia](https://www.discogs.com/artist/14823973 ''))   
+> 
+>   C3. Out At Night    
+> 
+>   C4. Mountains 
+> (feat. [Al Doyle](https://www.discogs.com/artist/509361 'Al Doyle (born 28 August 1980) is...') & [Alexis Taylor](https://www.discogs.com/artist/509359 'Singer and multi-instrumentalist, born in London, 20...'))   
+> 
+>   D1. Ghosts 
+> (feat. [Tom McFarland](https://www.discogs.com/artist/1413883 'Theis profile was generated from [r1717104] for...'))   
+> 
+>   D2. Miles Away 
+> (feat. [Falle Nioke](https://www.discogs.com/artist/8034578 'FALLE NIOKE is a singer and percussionist...'))   
+> 
+>   D3. Revery 
+> (feat. [Alabaster DePlume](https://www.discogs.com/artist/3982666 'Alabaster DePlume is the performing alias of...'))   
+> 

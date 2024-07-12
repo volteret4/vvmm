@@ -6,17 +6,13 @@ menu: main
 weight: 3
 ---
 
-_Actualizado el 11-07-2024_
+_Actualizado el 12-07-2024_
 
 [Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) ni playlist ni playlisto
 
 [sobrinos](https://open.spotify.com/playlist/12yW7n4rxrKwRLQDHnUTWh) insuperables
 
-[Canijera](https://open.spotify.com/playlist/58N5S0tWarVmvfTlv2JdCM)
-
 [cena para tres](https://open.spotify.com/playlist/3j6Hp6Ikt1ioOZbw6xouJT) a tener de fondo de una conversación
-
-[primos](https://open.spotify.com/playlist/2hhfLEU3b5HK2TjyyjUDt1)
 
 [Remember](https://open.spotify.com/playlist/03VlNYFXZ6evLWvLMNKHk8) Lo que seguirá sonando durante el futuro
 
@@ -58,6 +54,10 @@ _Actualizado el 11-07-2024_
 
 [ambient](https://open.spotify.com/playlist/17UP8KWrepiuz831ja3ukH) Music for real airports
 
+[Canijera](https://open.spotify.com/playlist/58N5S0tWarVmvfTlv2JdCM)
+
+[primos](https://open.spotify.com/playlist/2hhfLEU3b5HK2TjyyjUDt1)
+
 [sobrinos a mimi](https://open.spotify.com/playlist/4pbk0DKTqTnM2qU0s93aH0)
 
 [Antonio](https://open.spotify.com/playlist/1vl8JhG1Blhb6HYgbYQ3mA)
@@ -68,7 +68,7 @@ _Actualizado el 11-07-2024_
 
 [Silvino](https://open.spotify.com/playlist/7lHRRbNuxGwLx7R09ZAVQx)
 
-[Spaze](https://open.spotify.com/playlist/4nTPInXb6GkxqYCApRfCjE) lpc
+[Spaze](https://open.spotify.com/playlist/4nTPInXb6GkxqYCApRfCjE) 
 
 [pago del lio](https://open.spotify.com/playlist/0NAryYvYeu6PZUA09MGRIO) 
 

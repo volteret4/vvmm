@@ -1,62 +1,480 @@
 Listado de releases del artista:
-L'Impératrice EP - 2012 - https://api.discogs.com/masters/1764470
-Sonate Pacifique - 2014 - https://api.discogs.com/masters/1352457
-Odyssée - 2015 - https://api.discogs.com/masters/1219269
-Vanille Fraise - 2015 - https://api.discogs.com/masters/2603408
-Dreaming Of You  - 2017 - https://api.discogs.com/masters/1514383
-Séquences - 2017 - https://api.discogs.com/masters/1229237
-Vacances (Yuksek Remix) - 2018 - https://api.discogs.com/releases/12182004
-Histoire d'un soir - Souvenirs d'été - 2018 - https://api.discogs.com/releases/12185998
-Geisha - 2018 - https://api.discogs.com/releases/13783655
-Stand On The Word - 2018 - https://api.discogs.com/releases/13783692
-Matahari - 2018 - https://api.discogs.com/masters/1365170
-Loverini - 2021 - https://api.discogs.com/releases/19183117
-Live À Paris 2020 - 2021 - https://api.discogs.com/releases/19527715
-Submarine (Remixes) - 2021 - https://api.discogs.com/releases/21560173
-Tako Tsubo - 2021 - https://api.discogs.com/masters/2065918
-Je Danse - 2022 - https://api.discogs.com/releases/23589512
-Everything Eventually Ends - 2022 - https://api.discogs.com/releases/29757163
-Pulsar - 2024 - https://api.discogs.com/masters/3508878
-Mango Pickle - 2013 - https://api.discogs.com/releases/4718157
-Children Of The Night - 2014 - https://api.discogs.com/masters/1767843
-Super Disco Sound - 2015 - https://api.discogs.com/releases/6911168
-Cerrone IV / Cerrone VII / Give Me Remixes - 2015 - https://api.discogs.com/releases/7081879
-Give Me Remixes - 2015 - https://api.discogs.com/masters/862580
-La Piscine EP - 2016 - https://api.discogs.com/masters/1214984
-Hideout EP Remixed - 2017 - https://api.discogs.com/releases/10189761
-Gamesofluck (L'Imperatrice Remix) - 2017 - https://api.discogs.com/masters/1230593
-Les Bateaux Remixes  - 2018 - https://api.discogs.com/releases/12186094
-We Love Dogs! - 2021 - https://api.discogs.com/releases/20656348
-Haute Musique II Nova - 2017 - https://api.discogs.com/releases/11217064
-Séquences - 2017 - https://api.discogs.com/masters/1229237
-La Bande-son Du Printemps 2018 - 2018 - https://api.discogs.com/releases/11709859
-Matahari - 2018 - https://api.discogs.com/masters/1365170
-Odyssée Deluxe - 2019 - https://api.discogs.com/masters/1219269
-I Feel High - 2021 - https://api.discogs.com/releases/20684113
-High Season - 2021 - https://api.discogs.com/masters/2502199
-Tako Tsubo - 2021 - https://api.discogs.com/masters/2065918
-Nova 40 Ans De Grand Mix - 2023 - https://api.discogs.com/releases/29066911
-Trax 161 Hiver 2012/13 - 2012 - https://api.discogs.com/releases/4164166
-Mémoires D'éléphant #01 - 2014 - https://api.discogs.com/releases/5296750
-Play Your Day (Collection Vol. I) - 2015 - https://api.discogs.com/releases/10272917
-French Touch Vol. 02 (Electronic Music Made In France) - 2016 - https://api.discogs.com/releases/9351667
-France Rocks - Volume 4 - 2016 - https://api.discogs.com/releases/9458950
-Saint-Germain-Des-Prés Café Vol. 18 - 2016 - https://api.discogs.com/releases/13233386
-L'esprit Inter 05 - Le Son De France Inter  - 2016 - https://api.discogs.com/releases/25123750
-Sunday Mixtape - 2016 - https://api.discogs.com/masters/1101446
-Memoires d'Elephant #02 - 2016 - https://api.discogs.com/masters/1249239
-Disco 2.0 (Fever's Risin' Again) - 2016 - https://api.discogs.com/masters/1026589
-Haute Musique II Nova - 2017 - https://api.discogs.com/releases/11217064
-La Bande-son Du Printemps 2018 - 2018 - https://api.discogs.com/releases/11709859
-Terres Du Son 2018 - 2018 - https://api.discogs.com/releases/15230592
-Pure Volume 9 - 2018 - https://api.discogs.com/releases/15357849
-Souvenirs D'été - 2018 - https://api.discogs.com/releases/15959660
-Dreaming Of You  - 2018 - https://api.discogs.com/masters/1514383
-Too Slow To Disco Neo - En France - 2019 - https://api.discogs.com/releases/21900943
-Too Slow To Disco Neo - En France - 2019 - https://api.discogs.com/masters/1543593
-Appletree Garden 202020 - 2020 - https://api.discogs.com/releases/16212973
-Nova Tunes 4.2 - 2021 - https://api.discogs.com/releases/20351749
-Suena En Ibero Vol. 1 - 2021 - https://api.discogs.com/releases/26217830
-Pete The Monkey - Songs From The Jungle - Desconocido - https://api.discogs.com/releases/22981460
-Les Victoires de la Musique 2022 - Desconocido - https://api.discogs.com/releases/25555303
-Give Me Remixes - 2023 - https://api.discogs.com/masters/862580
+RA.179 - 2009 - https://api.discogs.com/releases/1993771
+Apple Bobbing EP - 2009 - https://api.discogs.com/masters/379153
+Harvest Festival - 2009 - https://api.discogs.com/masters/206688
+Trax 143 - Greco-Roman - 2011 - https://api.discogs.com/releases/2750205
+Gabriel EP - 2011 - https://api.discogs.com/masters/383667
+Follow You / Gabriel - 2012 - https://api.discogs.com/releases/4246823
+Nobodys Breaking Me / Gabriel - 2012 - https://api.discogs.com/releases/6810021
+Hold Up - 2013 - https://api.discogs.com/masters/579333
+Taking Over EP - 2013 - https://api.discogs.com/masters/576989
+Endless Love - 2014 - https://api.discogs.com/masters/762536
+Lasers - 2016 - https://api.discogs.com/releases/9419700
+Crocodile Boots - 2016 - https://api.discogs.com/masters/1126954
+For You - 2016 - https://api.discogs.com/masters/1106336
+Electric Lines - 2017 - https://api.discogs.com/releases/10780918
+Lose Your Love - 2017 - https://api.discogs.com/releases/10982970
+Electric Lines Remix EP 2 - 2017 - https://api.discogs.com/releases/11142780
+Electric Lines Remix EP 1 - 2017 - https://api.discogs.com/releases/11142799
+Electric Lines Remix EP 3 - 2017 - https://api.discogs.com/releases/11170542
+Electric Lines - 2017 - https://api.discogs.com/masters/1168983
+For You (DJ Koze Remixes) - 2017 - https://api.discogs.com/masters/1142424
+Children (Remixes) - 2017 - https://api.discogs.com/masters/1242291
+Music Is The Answer - 2017 - https://api.discogs.com/masters/1168606
+Home - 2017 - https://api.discogs.com/masters/1230647
+Ordinary Madness - 2017 - https://api.discogs.com/masters/1230659
+Strong & Wrong - 2018 - https://api.discogs.com/masters/1484808
+Reach Out - 2018 - https://api.discogs.com/masters/1455145
+Love Games - 2018 - https://api.discogs.com/masters/2094241
+So Much - 2018 - https://api.discogs.com/masters/1378146
+Jack Come Back / LakE - 2019 - https://api.discogs.com/masters/1500195
+Pull The Plug EP  - 2019 - https://api.discogs.com/masters/1513679
+Unknown Song - 2020 - https://api.discogs.com/releases/15743470
+Love LUV - 2020 - https://api.discogs.com/masters/1817859
+No Judgement - 2021 - https://api.discogs.com/masters/2087368
+Do It All Again - 2023 - https://api.discogs.com/releases/26669489
+New World (Flow) - 2024 - https://api.discogs.com/releases/29941234
+Harmonics - 2024 - https://api.discogs.com/masters/3540739
+Gabriel - Desconocido - https://api.discogs.com/releases/26960327
+Gabriel Prokofiev String Quartet No. 2 - 2007 - https://api.discogs.com/releases/1041805
+Driz-Bodia - 2007 - https://api.discogs.com/releases/3109263
+5 Years Get Physical - 2007 - https://api.discogs.com/masters/84155
+Crambodia - 2007 - https://api.discogs.com/masters/298455
+She's The One - 2007 - https://api.discogs.com/masters/242659
+Aerodynamik + La Forme Remixes - 2007 - https://api.discogs.com/masters/240627
+Kalemba (Wegue Wegue) (Hot Chip Remix) - 2008 - https://api.discogs.com/releases/3404434
+Midnight Request Line Remixes - 2008 - https://api.discogs.com/masters/667186
+Wolves - 2008 - https://api.discogs.com/masters/908861
+Bruce Parry Presents: Amazon Tribe - Songs For Survival - 2008 - https://api.discogs.com/masters/2043565
+London Girl - 2008 - https://api.discogs.com/masters/245028
+Kalemba (Wegue Wegue) - 2008 - https://api.discogs.com/masters/1173292
+Kitsuné Maison Compilation 6 - 2008 - https://api.discogs.com/masters/180053
+TV Friend - 2008 - https://api.discogs.com/masters/168395
+Lotus Flower - 2009 - https://api.discogs.com/releases/1938645
+Psychic City - 2009 - https://api.discogs.com/masters/224830
+Brow Beaten - 2009 - https://api.discogs.com/masters/315571
+A Bugged Out Mix - 2009 - https://api.discogs.com/masters/1376758
+Testify - 2010 - https://api.discogs.com/releases/2373204
+From The Seat Of Mount Olympus - 2010 - https://api.discogs.com/releases/2401122
+Long Missed Heroes - 2010 - https://api.discogs.com/releases/2600156
+DTPodcast 130 - 2010 - https://api.discogs.com/releases/2676209
+In & Out The UK - 2010 - https://api.discogs.com/releases/10704876
+I Feel Better (Remixes) - 2010 - https://api.discogs.com/masters/258049
+Ninja Tune XX (20 Years Of Beats & Pieces) - 2010 - https://api.discogs.com/masters/283194
+Trumpalump - 2010 - https://api.discogs.com/masters/337711
+Gob - Album Instrumentals & Remixes - 2011 - https://api.discogs.com/releases/3049576
+After You're Gone - 2011 - https://api.discogs.com/masters/394354
+Garden - 2011 - https://api.discogs.com/masters/425693
+Shining Star - 2011 - https://api.discogs.com/masters/1327936
+Love You So - 2011 - https://api.discogs.com/masters/558968
+Serious Beats 70 - 2012 - https://api.discogs.com/releases/3584601
+All Gone Pete Tong & Groove Armada Miami '12 - 2012 - https://api.discogs.com/releases/3669850
+Jaguar Skills & His Amazing Friends Vol 1 - 2012 - https://api.discogs.com/releases/3854146
+Switch 20 - 2012 - https://api.discogs.com/releases/3899561
+MNM Big Hits 2012•3 - 2012 - https://api.discogs.com/releases/3940424
+Annie Mac Presents 2012 - 2012 - https://api.discogs.com/releases/3944636
+MNM Big Hits - Best Of 2012 - 2012 - https://api.discogs.com/releases/4079122
+Life Is Music 2012.2 - 2012 - https://api.discogs.com/releases/4079360
+CD Club Promo Only May 2012 Part 2 - 2012 - https://api.discogs.com/releases/4210435
+Maximum Hit Music Best Of 2012 - 2012 - https://api.discogs.com/releases/4284456
+In The Mix 13 - 2012 - https://api.discogs.com/releases/4451534
+Dance Hitlist 2012.02 - 2012 - https://api.discogs.com/releases/5316741
+2 Bears, 1 Love - 2012 - https://api.discogs.com/releases/5607998
+Mix Tape EP - 2012 - https://api.discogs.com/releases/5956995
+December 2012 Part 6 - 2012 - https://api.discogs.com/releases/17257462
+OneLove Mobile Disco 2012 - 2012 - https://api.discogs.com/releases/21866158
+Talk To Your Handset; My Ears Are Looking Elsewhere - 2012 - https://api.discogs.com/releases/26312675
+Night Light (The Remixes) - 2012 - https://api.discogs.com/masters/1833585
+How Do You Do? - 2012 - https://api.discogs.com/masters/474287
+The Face - Remixes EP - 2012 - https://api.discogs.com/masters/451260
+From The Roots Up - 2012 - https://api.discogs.com/masters/459028
+In Our Heads (Expanded Edition) - 2012 - https://api.discogs.com/masters/444800
+Allgone Ibiza 2012 - 2012 - https://api.discogs.com/masters/1095556
+Switch 21 - 2013 - https://api.discogs.com/releases/4411474
+Clubbers Guide 2013 - 2013 - https://api.discogs.com/releases/4502172
+Control EP - 2013 - https://api.discogs.com/releases/4505106
+Chilled House Session 4 - 2013 - https://api.discogs.com/releases/4506693
+All That You Do - 2013 - https://api.discogs.com/releases/4544497
+Kontor Sunset Chill 2013 - 2013 - https://api.discogs.com/releases/4620750
+Sticks & Stones - 2013 - https://api.discogs.com/releases/4647816
+3 Started Alone - 2013 - https://api.discogs.com/releases/5009834
+Annie Mac Presents 2013 - 2013 - https://api.discogs.com/releases/5174305
+Electric Summer - 2013 - https://api.discogs.com/releases/5223686
+De Maxx Long Player 28 - The Deep Edition - 2013 - https://api.discogs.com/releases/5262428
+Top Selection 18 - 2013 - https://api.discogs.com/releases/5665709
+Live @ Paris Social Club 07.09.13 - 2013 - https://api.discogs.com/releases/5704861
+Strictly Deep - 2013 - https://api.discogs.com/releases/6057807
+Bump 32 2013 Vol 1 - 2013 - https://api.discogs.com/releases/6434834
+Het Beste Uit De MNM 1000 - Limited Edition 2013 - 2013 - https://api.discogs.com/releases/7029581
+DMC - Essential Club Hits 88 - 2013 - https://api.discogs.com/releases/8432497
+DMC Dance Mixes 86 - 2013 - https://api.discogs.com/releases/13803954
+Metaphoric Rewire - 2013 - https://api.discogs.com/releases/26312684
+All That You Do - 2013 - https://api.discogs.com/releases/29822914
+Our Town - 2013 - https://api.discogs.com/masters/640101
+Y (Joe Goddard Remix) - 2013 - https://api.discogs.com/masters/623207
+Nightcall - 2013 - https://api.discogs.com/masters/697621
+Lust And Lies - 2013 - https://api.discogs.com/masters/2570513
+All Is Not Lost - 2013 - https://api.discogs.com/masters/578880
+The Socialites (Remixes) - 2013 - https://api.discogs.com/masters/628604
+The Blow - 2013 - https://api.discogs.com/masters/805303
+Everything You Never Had (We Had It All) - 2013 - https://api.discogs.com/masters/706522
+DMC DJ Promo DJO 179 - 2014 - https://api.discogs.com/releases/5266428
+Tsugi Digital 70 - 2014 - https://api.discogs.com/releases/5500867
+Deep House Euphoria - 2014 - https://api.discogs.com/releases/5687822
+Future Disco Presents: Poolside Sounds - Laidback Sunshine House Volume III - 2014 - https://api.discogs.com/releases/5838290
+Lapsus #4 - 2014 - https://api.discogs.com/releases/6136785
+Remix October 2014 - 2014 - https://api.discogs.com/releases/6197847
+Dance October 2014 - 2014 - https://api.discogs.com/releases/6197968
+De Maxx Long Player 32 - UK Edition - 2014 - https://api.discogs.com/releases/6390911
+Ultra Deep House - 2014 - https://api.discogs.com/releases/6924627
+Laidback Beats - 2014 - https://api.discogs.com/releases/8937853
+The Xmas Playlist - 2014 - https://api.discogs.com/releases/9959119
+Bargrooves - Deeper 4.0 - 2014 - https://api.discogs.com/releases/25452265
+ilpix. - 2014 - https://api.discogs.com/masters/1241143
+Blank Project - 2014 - https://api.discogs.com/masters/658501
+About:Berlin Vol:6 - 2014 - https://api.discogs.com/masters/874611
+Feel Of Love - 2014 - https://api.discogs.com/masters/729739
+Others - 2014 - https://api.discogs.com/masters/777904
+Dismantle And Rebuild (Deluxe) - 2014 - https://api.discogs.com/masters/715992
+VIP DJ 2014 = DJ大夜電2014 - 2014 - https://api.discogs.com/masters/1725272
+Solo Dancing - 2014 - https://api.discogs.com/masters/1339761
+Chilled House Session 5 - 2014 - https://api.discogs.com/masters/1616762
+Out Of The Black - 2014 - https://api.discogs.com/masters/780709
+Give Me Something - 2014 - https://api.discogs.com/masters/1018318
+Small Victory - 2014 - https://api.discogs.com/masters/1241574
+Hed Kandi: Deep Disco - 2015 - https://api.discogs.com/releases/6447718
+Dance - 2015 - https://api.discogs.com/releases/6658149
+Dance Hitlist 2015.1 - 2015 - https://api.discogs.com/releases/6975415
+FUT.UR.ISM 3.0 - 2015 - https://api.discogs.com/releases/7065453
+DMC Dance Extra Mixes 92 - 2015 - https://api.discogs.com/releases/7352866
+Square 1 Remixes - 2015 - https://api.discogs.com/releases/7489654
+Ring Tone (Joe Goddard Remix) - 2015 - https://api.discogs.com/releases/8048873
+Black Peaches - 2015 - https://api.discogs.com/releases/9232690
+LAIDBACK BEATS 2015 - 2015 - https://api.discogs.com/releases/15473981
+Need You Now - 2015 - https://api.discogs.com/masters/844910
+Wide Open (The Remixes) - 2015 - https://api.discogs.com/masters/932012
+Fire & A Water Sign - 2015 - https://api.discogs.com/masters/968547
+Shine (Remixes) - 2015 - https://api.discogs.com/masters/848265
+Started Right Remixes - 2015 - https://api.discogs.com/masters/947125
+Ultimate Dance - 2016 - https://api.discogs.com/releases/8640825
+Marbella Collection 2016 - 2016 - https://api.discogs.com/releases/9597379
+Pure Chilled House - 2016 - https://api.discogs.com/releases/10740913
+Born In The Echoes - 2016 - https://api.discogs.com/masters/861123
+DMC Dance Extra Mixes 112 - 2017 - https://api.discogs.com/releases/9923282
+Remixed 2 - 2017 - https://api.discogs.com/releases/10296843
+DJ Selection 459 - 2017 - https://api.discogs.com/releases/10336022
+Omnion (Remixes) - 2017 - https://api.discogs.com/releases/13295284
+Genie - 2017 - https://api.discogs.com/masters/1169050
+Anymore (Remixes) - 2017 - https://api.discogs.com/masters/1123997
+Tell Me / R-Mancer Remixes - 2017 - https://api.discogs.com/masters/1168045
+Silver Eye - 2017 - https://api.discogs.com/masters/1157305
+Omnion - 2017 - https://api.discogs.com/masters/1234705
+Limbo (The Remixes) - 2017 - https://api.discogs.com/masters/1064288
+Superorganism - 2018 - https://api.discogs.com/masters/1324053
+Something For Your M.I.N.D. - 2018 - https://api.discogs.com/masters/1315908
+Who’s Comin’ In? - 2018 - https://api.discogs.com/masters/1379029
+Afterhours 8 - 2018 - https://api.discogs.com/masters/1352407
+Cavalry - 2019 - https://api.discogs.com/releases/13992192
+Journeys In Love - 2019 - https://api.discogs.com/releases/14197186
+The Annual 2020 - 2019 - https://api.discogs.com/releases/14345843
+Honey (Joe Goddard Remix) - 2019 - https://api.discogs.com/masters/1429624
+Matahari (Édition Impériale) - 2019 - https://api.discogs.com/masters/1365170
+Monsterpiece (Remixes) - 2020 - https://api.discogs.com/releases/16034514
+Club Future Nostalgia (DJ Mix) - 2020 - https://api.discogs.com/masters/1798796
+Future Nostalgia + Club Future Nostalgia - 2020 - https://api.discogs.com/masters/1705638
+Melanie C - 2020 - https://api.discogs.com/masters/1814205
+Who I Am (Joe Goddard Remix) - 2020 - https://api.discogs.com/masters/1701705
+Starseeds - 2020 - https://api.discogs.com/masters/2007007
+Get Out On The Dancefloor (Joe Goddard Remix) - 2020 - https://api.discogs.com/masters/1730559
+Time Very Near Remixes - 2021 - https://api.discogs.com/releases/17364856
+12 Inch Lovers 4 - 2021 - https://api.discogs.com/releases/19761328
+Her Heart Is My Home Now (Joe Goddard Remix) - 2021 - https://api.discogs.com/releases/21284752
+Still Dreaming (Joe Goddard Remix) - 2021 - https://api.discogs.com/masters/2326756
+Private Sunshine (Deluxe) - 2021 - https://api.discogs.com/masters/2319637
+LaLaLa It's The Good Life (Remixes) - 2021 - https://api.discogs.com/masters/2366794
+Holding On Too Long - 2021 - https://api.discogs.com/masters/2184682
+Fatso - 2022 - https://api.discogs.com/releases/22444168
+All That You Want (Joe Goddard Remix) - 2022 - https://api.discogs.com/releases/23497385
+Cosmo Tracks - 2022 - https://api.discogs.com/releases/23832572
+Vigil (Remixes) - 2022 - https://api.discogs.com/masters/2814047
+Devotion - 2022 - https://api.discogs.com/masters/466049
+Blauwe Regen - 2022 - https://api.discogs.com/masters/2648228
+Cranes In The Sky - 2022 - https://api.discogs.com/masters/2755805
+DMC - Essential Hits 218 - 2023 - https://api.discogs.com/releases/27063795
+DMC Dance Mixes 327 Pop - 2023 - https://api.discogs.com/releases/27064389
+Begin Again (Joe Goddard Remix) - 2023 - https://api.discogs.com/masters/3084836
+Smalltown Supersound Remix Anthology Vol. 1-4 2002-2022 - 2023 - https://api.discogs.com/masters/3057302
+Untz Anthems Vinyl 1 - 2024 - https://api.discogs.com/releases/29747830
+5 Years Get Physical - 2007 - https://api.discogs.com/masters/84155
+Aerodynamik + La Forme Remixes - 2007 - https://api.discogs.com/masters/240627
+Arecibo - 2008 - https://api.discogs.com/releases/1578975
+One Pure Thought - 2008 - https://api.discogs.com/masters/75478
+Forget My Name - 2008 - https://api.discogs.com/masters/10743
+Hot Chip With Robert Wyatt And Geese - 2008 - https://api.discogs.com/masters/486699
+Lazy - 2008 - https://api.discogs.com/masters/337710
+Stuck On Repeat - 2008 - https://api.discogs.com/masters/105355
+The Warehouse Project - 2008 - https://api.discogs.com/masters/1059290
+Illuminations - 2009 - https://api.discogs.com/masters/137736
+Hands - 2009 - https://api.discogs.com/masters/122074
+Long Missed Heroes - 2010 - https://api.discogs.com/releases/2600156
+Didn’t Know What Love Was - 2010 - https://api.discogs.com/masters/286502
+Trumpalump - 2010 - https://api.discogs.com/masters/337711
+Gob - 2011 - https://api.discogs.com/masters/348438
+Tracks Of The Year 2011 - 2011 - https://api.discogs.com/masters/782781
+Deep Ellum - 2013 - https://api.discogs.com/releases/5111874
+Right Thoughts, Right Words, Right Action - 2013 - https://api.discogs.com/masters/589452
+Beautiful Thing - 2018 - https://api.discogs.com/masters/1351307
+Silver Eye - 2018 - https://api.discogs.com/masters/1157305
+Trouble - 2021 - https://api.discogs.com/releases/17486332
+Sweet Morning - 2021 - https://api.discogs.com/masters/2422600
+Hard Feelings - 2021 - https://api.discogs.com/masters/2367910
+Holding On Too Long - 2021 - https://api.discogs.com/masters/2184682
+This Is My Life / Das Ist Mein Leben / C'est Ma Vie - 2022 - https://api.discogs.com/releases/22592345
+Touch The Ground - 2022 - https://api.discogs.com/releases/24777011
+At The Hotspot - 2022 - https://api.discogs.com/masters/2727053
+Hits To The Head - 2022 - https://api.discogs.com/masters/2544868
+One Pure Thought - 2008 - https://api.discogs.com/masters/75478
+Ready For The Floor - 2008 - https://api.discogs.com/masters/75483
+Made In The Dark - 2008 - https://api.discogs.com/masters/44269
+Hot Chip With Robert Wyatt And Geese - 2008 - https://api.discogs.com/masters/486699
+Gob - 2011 - https://api.discogs.com/masters/348438
+Vigil (Remixes) - 2022 - https://api.discogs.com/masters/2814047
+Mexico EP - 2001 - https://api.discogs.com/releases/816243
+Colette N°6 - 2004 - https://api.discogs.com/masters/608272
+The Trip Created By Snow Patrol - 2004 - https://api.discogs.com/masters/141858
+Coming On Strong - 2004 - https://api.discogs.com/masters/44277
+Playboy - 2004 - https://api.discogs.com/masters/49438
+Homesongs - 2004 - https://api.discogs.com/masters/82726
+Ringing In My Ear - 2004 - https://api.discogs.com/masters/82730
+These Are Your Friends - 2004 - https://api.discogs.com/masters/82734
+Kitsuné Fur - 2005 - https://api.discogs.com/releases/678016
+Kitsuné X - 2005 - https://api.discogs.com/masters/12810
+Sónar 2005 - 2005 - https://api.discogs.com/masters/1151506
+Kitsuné Maison Compilation - 2005 - https://api.discogs.com/masters/169297
+The DFA Remixes Chapter Two - 2006 - https://api.discogs.com/masters/115364
+Mixed Tape - 2007 - https://api.discogs.com/releases/1208548
+String Quartet No. 2 - 2007 - https://api.discogs.com/releases/2195950
+Oi New York, This Is London - 2007 - https://api.discogs.com/masters/3038822
+2007 End Of Year Rave-Up - 2007 - https://api.discogs.com/masters/742006
+FabricLive. 33 - 2007 - https://api.discogs.com/masters/123512
+Triple J's Hottest 100 Volume 14 - 2007 - https://api.discogs.com/masters/71621
+Aerodynamik + La Forme (Remixed By Hot Chip) - 2007 - https://api.discogs.com/masters/240627
+Godskitchen - The Anthems 2009 - 2008 - https://api.discogs.com/releases/1469256
+Colett:xpress - 2008 - https://api.discogs.com/releases/1518246
+Rendez Vous - 25 Unieke Covers Uit 25 Jaar Studio Brussel - 2008 - https://api.discogs.com/releases/1539711
+Arecibo - 2008 - https://api.discogs.com/releases/1578975
+Kitsuné Tabloid - 2008 - https://api.discogs.com/masters/269366
+Drive Your Car - 2008 - https://api.discogs.com/masters/161855
+See Clear Now - 2008 - https://api.discogs.com/masters/435410
+Ready For The Floor - 2008 - https://api.discogs.com/masters/75483
+Forget My Name - 2008 - https://api.discogs.com/masters/10743
+Now That's What I Call Music! 69 - 2008 - https://api.discogs.com/masters/3508005
+100% Hits: The Best Of 2008 - 2008 - https://api.discogs.com/masters/1186622
+Heartbeat - 2008 - https://api.discogs.com/masters/47954
+Stuck On Repeat - 2008 - https://api.discogs.com/masters/105355
+The Man Machine - 2009 - https://api.discogs.com/releases/1952980
+Brit Awards 2009 - The Year In Music - 2009 - https://api.discogs.com/releases/2092340
+Future Pop 2.0 - 2009 - https://api.discogs.com/releases/2654610
+Gezellig Aan Tafel Met De Mooiste Sfeermuziek - 2009 - https://api.discogs.com/releases/19882330
+Illuminations - 2009 - https://api.discogs.com/masters/137736
+Jennifer's Body (Music From The Motion Picture) - 2009 - https://api.discogs.com/masters/430256
+Infinity +1 - 2009 - https://api.discogs.com/masters/689870
+Hands - 2009 - https://api.discogs.com/masters/122074
+Original Hits - Alternative - 2009 - https://api.discogs.com/masters/1320687
+Skanky Skanky - 2009 - https://api.discogs.com/masters/187184
+Triple J Hottest 100 Volume 16 - 2009 - https://api.discogs.com/masters/813406
+Touch My Horn - 2009 - https://api.discogs.com/masters/287077
+Fabriclive 47 - 2009 - https://api.discogs.com/masters/171921
+What Do You Do If You Don't? - 2009 - https://api.discogs.com/masters/405939
+A Bugged Out Mix - 2009 - https://api.discogs.com/masters/1376758
+Later...Live 2 With Jools Holland - 2009 - https://api.discogs.com/masters/1035255
+Trax Sampler 132 - 2010 - https://api.discogs.com/releases/2125897
+Objectif 2010 Vol. 2 - 2010 - https://api.discogs.com/releases/2134082
+From The Seat Of Mount Olympus - 2010 - https://api.discogs.com/releases/2401122
+Trax Hors Série #13 : Ninja Tune - 2010 - https://api.discogs.com/releases/2445922
+Jamie Jones Vs. Seth Troxler - 2010 - https://api.discogs.com/releases/2502938
+Parlophone Record Store Day - 2010 - https://api.discogs.com/releases/2567220
+Long Missed Heroes - 2010 - https://api.discogs.com/releases/2600156
+Ministry Of Sound - Chilled Acoustic - 2010 - https://api.discogs.com/releases/2773494
+Tidy Music Library Issue 22 - 2010 - https://api.discogs.com/releases/2808944
+Triple J: Like A Version Six - 2010 - https://api.discogs.com/releases/3148738
+Festivalguide (The Compilation) - 2010 - https://api.discogs.com/releases/4289382
+Geese - 2010 - https://api.discogs.com/releases/11292397
+Greco-Roman Live From Mount Olympus - 2010 - https://api.discogs.com/releases/13230046
+I Feel Better - 2010 - https://api.discogs.com/masters/258049
+Generation Hexed - 2010 - https://api.discogs.com/masters/339488
+Didn’t Know What Love Was - 2010 - https://api.discogs.com/masters/286502
+Method To The Maadness - 2010 - https://api.discogs.com/masters/714161
+Bugged Out! Presents Suck My Deck - 2010 - https://api.discogs.com/masters/487421
+Anthems Indie - 2011 - https://api.discogs.com/releases/2933574
+L'Anthologie Des InRocks - 25 Ans De Musique - 2011 - https://api.discogs.com/releases/3189458
+The Annual 2012 - 2011 - https://api.discogs.com/releases/3305387
+Epic Volume II - The Biggest Tracks. The Festival Anthems - 2011 - https://api.discogs.com/releases/5094742
+Mine - 2011 - https://api.discogs.com/masters/1777257
+Gob - 2011 - https://api.discogs.com/masters/348438
+Triple J's Hottest 100 Vol 18 - 2011 - https://api.discogs.com/masters/814463
+Tracks Of The Year 2011 - 2011 - https://api.discogs.com/masters/782781
+Drugs - 2012 - https://api.discogs.com/releases/3470631
+Trax 153 - 2012 - https://api.discogs.com/releases/3477107
+Groove 136 / CD 45 - 2012 - https://api.discogs.com/releases/3575572
+Festival Des Inrocks 1988 - 2012 - 2012 - https://api.discogs.com/releases/7098505
+The Boca Grande - Bains Douches Session - 2012 - https://api.discogs.com/releases/9091166
+Don't Deny Your Heart - 2012 - https://api.discogs.com/masters/500451
+Be Strong - 2012 - https://api.discogs.com/masters/404784
+Words And Music By Saint Etienne - 2012 - https://api.discogs.com/masters/437591
+Triple J's Hottest 100 Volume 19 - 2012 - https://api.discogs.com/masters/815480
+Re:Switch (The Remixes)  - 2012 - https://api.discogs.com/masters/530314
+All That You Do - 2013 - https://api.discogs.com/releases/4544497
+Deep Ellum - 2013 - https://api.discogs.com/releases/5111874
+Right Thoughts, Right Words, Right Action - 2013 - https://api.discogs.com/masters/589452
+Love To Love You Donna - 2013 - https://api.discogs.com/masters/611146
+The Best Of War Child - 2013 - https://api.discogs.com/masters/1377728
+100 Hits Indie Anthems - 2014 - https://api.discogs.com/releases/5527558
+Different Every Time Volume 2 (Benign Dictatorships) - 2014 - https://api.discogs.com/masters/1553460
+Party The Collection - 2014 - https://api.discogs.com/masters/3428498
+The Night Is Young - 2014 - https://api.discogs.com/masters/744202
+Master Mix - Red Hot + Arthur Russell - 2014 - https://api.discogs.com/masters/751891
+The Music Of Grand Theft Auto V (Original Music, Score And Soundtrack) - 2014 - https://api.discogs.com/masters/766410
+Await Barbarians - 2014 - https://api.discogs.com/masters/709595
+Different Every Time - 2014 - https://api.discogs.com/masters/810462
+Printemps-Été 2015 - Volume 2 - 2015 - https://api.discogs.com/releases/6988034
+ME-CD Nr. 0515  - 2015 - https://api.discogs.com/releases/6989628
+The Best Ever Indie - 2015 - https://api.discogs.com/releases/7168650
+DJ-Kicks - 2015 - https://api.discogs.com/masters/847561
+How To Get Away With Murder (Original Television Series Soundtrack) - 2016 - https://api.discogs.com/releases/11390302
+Total 16 - 2016 - https://api.discogs.com/masters/1048709
+Piano - 2016 - https://api.discogs.com/masters/1013924
+Adoldesscent - 2016 - https://api.discogs.com/masters/1075929
+Musikexpress 0517 - Der Soundtrack Zum Heft - 2017 - https://api.discogs.com/releases/10430907
+Summerväth - 2017 - https://api.discogs.com/releases/10452174
+Witness - 2017 - https://api.discogs.com/masters/1193114
+Tell Me / R-Mancer Remixes - 2017 - https://api.discogs.com/masters/1168045
+Fabric 95 - 2017 - https://api.discogs.com/masters/2044252
+Power To The People: British Music Videos 1966 - 2016 (200 Landmark Music Videos) - 2018 - https://api.discogs.com/releases/21448624
+Remixes Vol. 3 - 2018 - https://api.discogs.com/masters/1417770
+Remixes, Vol. 2 - 2018 - https://api.discogs.com/masters/1322891
+L M U - 2019 - https://api.discogs.com/releases/14567694
+A Bath Full Of Ecstasy - 2019 - https://api.discogs.com/masters/1565975
+Hands: Bonus Disc - 2019 - https://api.discogs.com/masters/1636132
+LateNightTales - 2020 - https://api.discogs.com/masters/1814292
+L M U Volume Two - 2020 - https://api.discogs.com/masters/1908204
+Trouble - 2021 - https://api.discogs.com/releases/17486332
+Foundations - 2021 - https://api.discogs.com/masters/2120317
+Sweet Morning - 2021 - https://api.discogs.com/masters/2422600
+LaLaLa It's The Good Life Remixes - 2021 - https://api.discogs.com/masters/2366794
+Hard Feelings - 2021 - https://api.discogs.com/masters/2367910
+Holding On Too Long - 2021 - https://api.discogs.com/masters/2184682
+Musikexpress 09/22 - 2022 - https://api.discogs.com/releases/24224099
+A Nurse To My Patience - 2022 - https://api.discogs.com/releases/25717963
+Freakout/Release - 2022 - https://api.discogs.com/masters/2753048
+Electricity - 2022 - https://api.discogs.com/masters/2570882
+Red - 2022 - https://api.discogs.com/masters/49635
+For The Love Of Haiku - 2023 - https://api.discogs.com/releases/27955887
+Ghostly Songs Essentials Vol. 1 - The Gholicense Collection - Desconocido - https://api.discogs.com/releases/30076801
+Hype Machine Radio Show: December 2009 - 2009 - https://api.discogs.com/releases/3163159
+FabricLive. 47 (Radio Mix) - 2009 - https://api.discogs.com/releases/3367983
+ Indétendances Electro n°43 - 2009 - https://api.discogs.com/releases/4637362
+ArePeopleReal Mix - 2009 - https://api.discogs.com/releases/5027312
+Skanky Skanky - 2009 - https://api.discogs.com/masters/187184
+Fabriclive 47 - 2009 - https://api.discogs.com/masters/171921
+Dancing With Machines (An Exclusive DJ Mix) - 2010 - https://api.discogs.com/releases/9067866
+Essential Mix (January 2010) - 2010 - https://api.discogs.com/releases/15211941
+CD N° 96 - 2011 - https://api.discogs.com/releases/2820857
+RA.285 - 2011 - https://api.discogs.com/releases/3228275
+Serious Beats 68 - 2011 - https://api.discogs.com/releases/3250047
+Sólid Sounds - The Best Of 2011 - 2011 - https://api.discogs.com/releases/3273295
+Zoo Addicts Zooclub Sundayz Vibes 2011 Vol#02 - 2011 - https://api.discogs.com/releases/3273370
+The Annual 2012 - 2011 - https://api.discogs.com/releases/3305387
+De Maxx Long Player 22 - The Dubstep Edition - 2011 - https://api.discogs.com/releases/3373100
+Made For The Night - 2011 - https://api.discogs.com/releases/3458460
+DFA Records Shamash Hits 2011 - 2011 - https://api.discogs.com/releases/3463756
+You And Yours Winter Mix - 2011 - https://api.discogs.com/releases/3923915
+Bestimix 66: The 2 Bears - 2011 - https://api.discogs.com/releases/3923953
+Annie Mac Presents 2011 - 2011 - https://api.discogs.com/releases/4149559
+Ninja Tune Publishing + Licensing Sampler 8 - 2011 - https://api.discogs.com/releases/5260043
+Top Request Fall Hitmix 2011 - 2011 - https://api.discogs.com/releases/5675962
+Onelove Sonic Boom Box 2012 - 2011 - https://api.discogs.com/releases/11930989
+Best 2011 - 2011 - https://api.discogs.com/releases/25889260
+Now Dance - Summer Edition - 2011 - https://api.discogs.com/releases/29558647
+In The Mix 11 - Limited Edition - 2011 - https://api.discogs.com/masters/401501
+Tracks Of The Year 2011 - 2011 - https://api.discogs.com/masters/782781
+Nova Tunes 2.5 - 2012 - https://api.discogs.com/releases/3378477
+MNM Party 2012.1 - The Newest Dancehits And Hottest Party Classics - 2012 - https://api.discogs.com/releases/3471911
+Addicted To Bass 2012 - 2012 - https://api.discogs.com/releases/3545696
+De Maxx Long Player 23 - Retro House Edition - 2012 - https://api.discogs.com/releases/3646497
+Spring Break 2012 - 2012 - https://api.discogs.com/releases/3690609
+Dance Hitlist 2012.1 - 2012 - https://api.discogs.com/releases/3897161
+The Disco Boys - Volume 13 - 2012 - https://api.discogs.com/releases/4315008
+Favouritape - 2012 - https://api.discogs.com/releases/6701968
+FM4 Soundselection 26 - 2012 - https://api.discogs.com/releases/7223471
+Welcome To Wonderland - 2012 - https://api.discogs.com/releases/8193185
+Sweet Harmony Step 1 - 2012 - https://api.discogs.com/releases/9057406
+The Boca Grande - Bains Douches Session - 2012 - https://api.discogs.com/releases/9091166
+Now That's What I Call Music! 61 - 2012 - https://api.discogs.com/releases/10693018
+Matuschkes Lieblinge - Die Etwas Anderen Radio-Hits Vol. 2 - 2012 - https://api.discogs.com/releases/11516564
+Beachland - Made In Ibiza - 2012 - https://api.discogs.com/releases/12689480
+NOW That's What I Call Music! The DVD Vol. 22 - 2012 - https://api.discogs.com/releases/14217665
+Now That's What I Call Dance  - 2012 - https://api.discogs.com/releases/14706244
+Ezaseafro Volume 2 - 2012 - https://api.discogs.com/releases/23349548
+Clubfete 2012.02 - 2012 - https://api.discogs.com/releases/27342483
+For The Love Of House  - 2012 - https://api.discogs.com/releases/30602485
+Triple J's Hottest 100 Volume 19 - 2012 - https://api.discogs.com/masters/815480
+Allgone Ibiza 2012 - 2012 - https://api.discogs.com/masters/1095556
+Deep Ellum - 2013 - https://api.discogs.com/releases/5111874
+Late Nights W/ Vooduude Edition - 2013 - https://api.discogs.com/releases/6853475
+Broken Promises - 2013 - https://api.discogs.com/releases/13292210
+Dance Hitlist Top 100 Vol 2 - 2013 - https://api.discogs.com/releases/15780046
+We Make Colourful Music Because We Dance In The Dark - 2013 - https://api.discogs.com/masters/722539
+The Music Of Grand Theft Auto V - 2013 - https://api.discogs.com/masters/766410
+Majestic Casual - Chapter 2 - 2014 - https://api.discogs.com/masters/808137
+Nova Tunes 2.1_3.0 [2010-2014] - 2015 - https://api.discogs.com/releases/12272611
+Mind Games - 2016 - https://api.discogs.com/releases/9453203
+FG. Ibiza Fever Annual 2016-2017 - 2016 - https://api.discogs.com/releases/23365865
+Total 16 - 2016 - https://api.discogs.com/masters/1048709
+& - 2016 - https://api.discogs.com/masters/1085268
+DMC - Essential Club Hits 128 - 2017 - https://api.discogs.com/releases/9927746
+De Maxx 38 - The Funky Edition - 2017 - https://api.discogs.com/releases/10055810
+Miami Sessions 2017 - 2017 - https://api.discogs.com/releases/10259570
+Musikexpress 0517 - Der Soundtrack Zum Heft - 2017 - https://api.discogs.com/releases/10430907
+Summerväth - 2017 - https://api.discogs.com/releases/10452174
+Serious Beats 87 - 2017 - https://api.discogs.com/releases/10821980
+DMC - Essential Club Hits 135 - 2017 - https://api.discogs.com/releases/10966556
+Chillout - 2017 - https://api.discogs.com/releases/11013453
+FM4 Soundselection 36 - 2017 - https://api.discogs.com/releases/11139234
+Sensation - The Final - 2017 - https://api.discogs.com/releases/11316915
+Studio Ibiza 2017 - 2017 - https://api.discogs.com/releases/11885812
+Annie Mac Presents 2017 - 2017 - https://api.discogs.com/releases/13628651
+MNM Summertime 2017 - 2017 - https://api.discogs.com/releases/14939611
+Versuz Nightlife 1-15 Years - 2017 - https://api.discogs.com/releases/15458413
+Track Record: Best Of Greco​-​Roman - 2017 - https://api.discogs.com/releases/19640335
+Tell Me / R-Mancer Remixes - 2017 - https://api.discogs.com/masters/1168045
+Fabric 95 - 2017 - https://api.discogs.com/masters/2044252
+Marathon, Not A Sprint! 10 Years Of Greco-Roman - 2017 - https://api.discogs.com/masters/2272666
+Good Mellows For Beautiful Lights - 2017 - https://api.discogs.com/masters/1350577
+Kontor Sunset Chill 2018 - 2018 - https://api.discogs.com/releases/12171320
+Wankelmoods Vol.3 - 2018 - https://api.discogs.com/releases/12330791
+Street Parade - Official Compilation 2018 - 2018 - https://api.discogs.com/releases/13685198
+Afterhours 8 - 2018 - https://api.discogs.com/masters/1352407
+Remixes, Vol. 2 - 2018 - https://api.discogs.com/masters/1322891
+Kontor Sunset Chill 2019 Winter Edition - 2019 - https://api.discogs.com/releases/13124395
+Radio Monte Carlo New Classics 9 - 2019 - https://api.discogs.com/releases/28339093
+No Evictions Glasgow Fund​-​raising Compilation - 2020 - https://api.discogs.com/releases/15498963
+CARE4LIFE - 2020 - https://api.discogs.com/releases/15544465
+Shape Platform 2020 - Sound, Heterogeneous Art And Performance In Europe - 2020 - https://api.discogs.com/releases/16191222
+Greatest Ever R&B + Hip Hop - 2020 - https://api.discogs.com/releases/24888209
+Akita - 2020 - https://api.discogs.com/releases/25791190
+Permanent Vacation Selected Label Works 7 - 2020 - https://api.discogs.com/masters/2071816
+DMC Dance Extra Mixes 160 - 2021 - https://api.discogs.com/releases/17976856
+Total The Modernist - 2021 - https://api.discogs.com/releases/20819953
+Love Signs Remixed - 2022 - https://api.discogs.com/releases/25001755
+Déepalma Ibiza 2023 10th Anniversary - 2023 - https://api.discogs.com/releases/28184902
+Été 2024 - 2024 - https://api.discogs.com/releases/31124522
+Sónar 2005 - 2005 - https://api.discogs.com/masters/1151506
+Aerodynamik + La Forme (Remixed By Hot Chip) - 2007 - https://api.discogs.com/masters/240627
+Made In The Dark - 2008 - https://api.discogs.com/masters/44269
+Right Thoughts, Right Words, Right Action - 2013 - https://api.discogs.com/masters/589452
+Love To Love You Donna - 2013 - https://api.discogs.com/masters/611146
+Zea Maïs - 2017 - https://api.discogs.com/releases/23402879
+Limbo (The Remixes) - 2017 - https://api.discogs.com/masters/1064288
+Club Future Nostalgia (DJ Mix) - 2020 - https://api.discogs.com/masters/1798796
+Next Of All - Desconocido - https://api.discogs.com/releases/15984834
