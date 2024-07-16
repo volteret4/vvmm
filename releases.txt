@@ -1,192 +1,79 @@
 Listado de releases del artista:
-Angel Of The A7 - 2006 - https://api.discogs.com/releases/725042
-Fishhoek EP - 2007 - https://api.discogs.com/releases/968002
-Gestern - 2007 - https://api.discogs.com/releases/1139095
-Deeds - 2007 - https://api.discogs.com/masters/324978
-Sein Days - 2008 - https://api.discogs.com/releases/1240592
-Hank Moody - 2008 - https://api.discogs.com/releases/1442272
-India In Ihr - 2009 - https://api.discogs.com/releases/1631254
-Ten EP - 2009 - https://api.discogs.com/releases/1869960
-Lied 9 EP - 2009 - https://api.discogs.com/releases/1918949
-Ovas (Catz N Dogz Ohne FX Remix) - 2009 - https://api.discogs.com/masters/424001
-Isle Of Sahne - 2009 - https://api.discogs.com/masters/281537
-The Sein Of The Tiger - 2010 - https://api.discogs.com/releases/2265718
-Pure 18 EP - 2010 - https://api.discogs.com/releases/2376592
-Sometimes I Wonder - 2010 - https://api.discogs.com/releases/2659247
-Sundowna - 2010 - https://api.discogs.com/masters/252701
-Non Existent Love - 2011 - https://api.discogs.com/releases/3155776
-Lafayette Dynamite Dunk EP - 2011 - https://api.discogs.com/masters/649248
-#LTD - 2011 - https://api.discogs.com/masters/487025
-Reworks 2 - 2012 - https://api.discogs.com/releases/4004772
-Good Times On The Reg EP - 2012 - https://api.discogs.com/releases/4832376
-Reworks 1 - 2012 - https://api.discogs.com/releases/9792014
-Le 61 Wurx - 2012 - https://api.discogs.com/masters/591129
-Suol Mates - 2013 - https://api.discogs.com/masters/1352399
-Molly Brown EP - 2013 - https://api.discogs.com/masters/588277
-Arkansas City EP - 2014 - https://api.discogs.com/releases/6380468
-Booty Angel - 2015 - https://api.discogs.com/releases/6959678
-Precious Remixes - 2015 - https://api.discogs.com/releases/7580069
-Precious - 2015 - https://api.discogs.com/masters/894895
-Enjoy My Love - 2017 - https://api.discogs.com/releases/10568325
-Heaven - 2017 - https://api.discogs.com/releases/11565165
-Feva, She Said - 2018 - https://api.discogs.com/releases/11565171
-Say Say Say - 2018 - https://api.discogs.com/releases/12493859
-Ocean - 2019 - https://api.discogs.com/releases/13484707
-Let Go / You & I - 2020 - https://api.discogs.com/releases/16068777
-Jams For 22 Part 1 - 2022 - https://api.discogs.com/releases/26034733
-Belvedere Remixes - 2008 - https://api.discogs.com/releases/1470769
-Collection 02 DJ Mix - Label Compilation - 2008 - https://api.discogs.com/releases/1548893
-No Need For A School Graduation EP - 2008 - https://api.discogs.com/releases/1682189
-Faze - Part.2 - 2008 - https://api.discogs.com/masters/425453
-Tigerente Mit Reis - 2009 - https://api.discogs.com/releases/1744138
-Ministry Of Sound - Sound Of Berlin Vol. 2 - 2009 - https://api.discogs.com/releases/1961761
-Deep House Vol. 3 - 2009 - https://api.discogs.com/releases/1984444
-Best Of 3 - 2009 - https://api.discogs.com/releases/2063895
-Goop - 2009 - https://api.discogs.com/releases/2124225
-Nightstarter 6 - 2009 - https://api.discogs.com/releases/3979129
-Zurich Session - 2009 - https://api.discogs.com/masters/206337
-Sundaze Stringz - 2009 - https://api.discogs.com/masters/185495
-Starstyling Vs. Moodmusic - 2009 - https://api.discogs.com/masters/1534498
-Freak On - 2009 - https://api.discogs.com/masters/257841
-A New Day - 2009 - https://api.discogs.com/masters/212934
-The Aries - 2009 - https://api.discogs.com/masters/208585
-The Definition EP - 2009 - https://api.discogs.com/masters/206163
-Chemistry - 2009 - https://api.discogs.com/masters/398581
-Are You Lost (Remixes) - 2009 - https://api.discogs.com/masters/230522
-Horny Morning Loop - 2010 - https://api.discogs.com/releases/2461258
-Balkonien - 2010 - https://api.discogs.com/releases/2485702
-ADE 2010 Sampler - 2010 - https://api.discogs.com/releases/2510037
-Deepest Shades Of House Vol. 7 - 2010 - https://api.discogs.com/releases/3979442
-Ti-Punch Session - 2010 - https://api.discogs.com/releases/28638409
-Keep On Keepin' On - 2010 - https://api.discogs.com/masters/276616
-Jewels / Ol' Times - 2010 - https://api.discogs.com/masters/278673
-Nofitstate - 2010 - https://api.discogs.com/masters/279527
-Can't Unspill The Milk - 2011 - https://api.discogs.com/releases/3057314
-The Fiftiest - 2011 - https://api.discogs.com/releases/3064002
-Friends Will Carry You Home - Mixed by SLG - 2011 - https://api.discogs.com/releases/3944726
-Everynight 24/7 - 2011 - https://api.discogs.com/releases/7397718
-Bubba Kush EP - 2011 - https://api.discogs.com/masters/648852
-Voodoo - 2012 - https://api.discogs.com/releases/4119257
-Don't Fear It, Fight It / Salome - 2012 - https://api.discogs.com/masters/884618
-Hotel Amour (Nightporter) - 2012 - https://api.discogs.com/masters/1112621
-Candlelight EP - 2012 - https://api.discogs.com/masters/413877
-Paris Lounge - 2013 - https://api.discogs.com/releases/5071480
-Nature One 2013 - A Time To Shine - 2013 - https://api.discogs.com/releases/5585279
-XTC - 2013 - https://api.discogs.com/releases/21772891
-House Nation - 2013 - https://api.discogs.com/masters/654342
-Waitin' For You (Remixes) - 2013 - https://api.discogs.com/masters/599311
-F*ck Off Berlin (Remixes) - 2013 - https://api.discogs.com/masters/993191
-From The Inside EP - 2013 - https://api.discogs.com/masters/929961
-Le Chic Club Soulful Dance Music 5 - 2014 - https://api.discogs.com/releases/6737442
-DJ Kaos Remixed - 2014 - https://api.discogs.com/releases/19929436
-About:Berlin Vol:8 - 2014 - https://api.discogs.com/masters/887173
-Fly Like A Bird - 2015 - https://api.discogs.com/releases/7256428
-Take You There - 2015 - https://api.discogs.com/releases/7532997
-RA.491 - 2015 - https://api.discogs.com/releases/7769453
-Vánoce 2015 - 2015 - https://api.discogs.com/releases/7908501
-Headache Remixe - 2015 - https://api.discogs.com/releases/12393086
-About:Berlin Vol:9 - 2015 - https://api.discogs.com/masters/887170
-Accolade EP - 2015 - https://api.discogs.com/masters/1638017
-Mysterious Power EP - 2016 - https://api.discogs.com/releases/7976604
- Wild Soundtrack - 2016 - https://api.discogs.com/masters/998981
-You Should Be Dancing (Remixes) - 2016 - https://api.discogs.com/masters/1116996
-Collage EP  - 2017 - https://api.discogs.com/releases/9965789
-Defected Ibiza 2017 - 2017 - https://api.discogs.com/releases/10197201
-Bring Me Down - 2017 - https://api.discogs.com/releases/10442897
-Rise Up - 2017 - https://api.discogs.com/releases/10532955
-Random Remixes 3 - 2017 - https://api.discogs.com/releases/10934091
-Just to Make Me (Remixes) - 2017 - https://api.discogs.com/releases/29674549
-Jolly Jams Various Artists - 2018 - https://api.discogs.com/releases/12021662
-King Barong EP - 2018 - https://api.discogs.com/releases/12857758
-Line Remixes - 2020 - https://api.discogs.com/releases/15663632
-Line Remixes - 2020 - https://api.discogs.com/releases/30921765
-Society 3.0 Recordings: Discography I - 2021 - https://api.discogs.com/releases/19409623
-Freak On - 2009 - https://api.discogs.com/masters/257841
-Enjoy My Love - 2017 - https://api.discogs.com/releases/10568325
-Destroy Minimal - 2006 - https://api.discogs.com/masters/1119100
-8bit Reasons (Part One) - 2009 - https://api.discogs.com/releases/1872630
-Chainletters EP - 2009 - https://api.discogs.com/masters/239527
-Cr2 Presents Live & Direct Space Ibiza 2010 - 2010 - https://api.discogs.com/releases/2364873
-A Four Track Vinyl Vol. 2 - 2011 - https://api.discogs.com/releases/3034484
-My Life - 2012 - https://api.discogs.com/releases/3795804
-Groove Issue 138 CD 47 - 2012 - https://api.discogs.com/releases/3815902
-Lose Yourself To Jenny - 2012 - https://api.discogs.com/masters/938260
-All Those Goodbyes - 2013 - https://api.discogs.com/masters/613424
-Sun Lounge Vol. 1 - 2015 - https://api.discogs.com/releases/12045474
-Berlin Elektro Sounds Vol.01 - 2015 - https://api.discogs.com/releases/12627864
-Enjoy My Love - 2017 - https://api.discogs.com/releases/10568325
-Play The Game (Extended Mixes) - 2019 - https://api.discogs.com/masters/254059
-Body Remixes - Desconocido - https://api.discogs.com/releases/6065015
-People Like Us - 2006 - https://api.discogs.com/masters/263316
-Destroy Minimal - 2006 - https://api.discogs.com/masters/1119100
-Past Present Future Mix Of Exclusive Trenton Material - 2007 - https://api.discogs.com/masters/446431
-Bondage - 2008 - https://api.discogs.com/masters/530516
-Monazite - 2009 - https://api.discogs.com/releases/1646758
-Andrew Duke In The Mix (est. 1987) Show #2307 - 2009 - https://api.discogs.com/releases/1648473
-8bit Reasons (Part One) - 2009 - https://api.discogs.com/releases/1872630
-5 Years Dirt Crew Recordings - 2009 - https://api.discogs.com/releases/2001245
-Your Pleasures In My Room - 2009 - https://api.discogs.com/releases/3212073
-Techhouse Series Vol 6 - 2009 - https://api.discogs.com/releases/3598547
-Voices - 2009 - https://api.discogs.com/releases/5337050
-Club Kaos 31 - 2009 - https://api.discogs.com/releases/5657470
-Km5 Ibiza Volumen 9 - 2009 - https://api.discogs.com/releases/7658695
-Portugal Night Lodestar - 2009 - https://api.discogs.com/releases/9930124
-Moodswinger - 2009 - https://api.discogs.com/releases/14867213
-5 Years Dirt Crew Recordings Pt 2 - 2009 - https://api.discogs.com/masters/381524
-OHMcast 022 - 2010 - https://api.discogs.com/releases/2264315
-Cr2 Presents Live & Direct Space Ibiza 2010 - 2010 - https://api.discogs.com/releases/2364873
-5 Years Of Galaktika 3-Part - 2010 - https://api.discogs.com/releases/2559317
-Process Series Part 214 - 2010 - https://api.discogs.com/releases/3072927
-Ibiza Kick Off - 2010 - https://api.discogs.com/releases/9857917
-6th Birthday CD - 2010 - https://api.discogs.com/releases/12853865
-Heartbeats - 2010 - https://api.discogs.com/masters/1766212
-Sound Of Berlin 9 - 2011 - https://api.discogs.com/releases/3179751
-5 Years Of Galaktika - 2011 - https://api.discogs.com/releases/4449319
-Chalalit Poddi #2 - 2012 - https://api.discogs.com/releases/3573155
-Groove Issue 138 CD 47 - 2012 - https://api.discogs.com/releases/3815902
-Chilled Series, Vol. 5: Downtempo Music & Culture - 2012 - https://api.discogs.com/releases/4019153
-DJ Mag Mix - 2012 - https://api.discogs.com/releases/4276364
-The Disco Boys - Volume 13 - 2012 - https://api.discogs.com/releases/4315008
-Sound Of Berlin 12 - 2012 - https://api.discogs.com/releases/4821516
-About:Berlin - 2012 - https://api.discogs.com/releases/5522907
-Klassik Lounge Werk / 10 - 2012 - https://api.discogs.com/releases/6017207
-Kontor Sunset Chill 2012 - 2012 - https://api.discogs.com/releases/11023737
-Zirkus Zirkus, Vol. 01 - Elektronische Tanzmusik - 2012 - https://api.discogs.com/releases/21593896
-Bargrooves - Summer Sessions Deluxe, Vol. 2 - 2012 - https://api.discogs.com/releases/25415212
-Body Language Vol. 12 - 2012 - https://api.discogs.com/masters/604425
-Mayday - Made In Germany - The Official Mayday Compilation 2012 - 2012 - https://api.discogs.com/masters/431122
-About:Berlin Vol:2 - 2013 - https://api.discogs.com/releases/5342180
-Suol Summer Daze 2013 - 2013 - https://api.discogs.com/releases/5600252
-KaRavan - L.O.V.E. - 2013 - https://api.discogs.com/releases/6883047
-Friends Will Carry You Home Too 3 - 2013 - https://api.discogs.com/releases/7530380
-Deep Fairytales Vol. 1 - 2013 - https://api.discogs.com/releases/7785160
-Sunny Side Up 13 - 2013 - https://api.discogs.com/releases/8485567
-All Those Goodbyes - 2013 - https://api.discogs.com/masters/613424
-Supergeil Vol. 01 - 2014 - https://api.discogs.com/releases/5654692
-Future Disco Presents: Poolside Sounds - Laidback Sunshine House Volume III - 2014 - https://api.discogs.com/releases/5838290
-Pets #BeatportDecade House - 2014 - https://api.discogs.com/releases/7532359
-Le Chic Club 6 - 2015 - https://api.discogs.com/releases/7287442
-Essential Ibiza 2015 - The Essential Sound Of Ibiza - 2015 - https://api.discogs.com/releases/7614882
-Acid Is Not A Crime, Vol. 1 - 2015 - https://api.discogs.com/releases/8210411
-Golden Lounge 3 - 2015 - https://api.discogs.com/releases/10661214
-Sun Lounge Vol. 1 - 2015 - https://api.discogs.com/releases/12045474
-Berlin Elektro Sounds Vol.01 - 2015 - https://api.discogs.com/releases/12627864
-Sub-House Dynamics, Focus 2 - 2015 - https://api.discogs.com/releases/22588508
-Too Deep For House, Vol. 1 - 2016 - https://api.discogs.com/releases/8428587
-Suol Summer Daze 2016 - 2016 - https://api.discogs.com/releases/8696000
-Two Thirteen - 2016 - https://api.discogs.com/releases/9328148
-Unfinished Business Vol. 4 - 2016 - https://api.discogs.com/releases/27679899
-Friends Of Pets - 2017 - https://api.discogs.com/releases/10395862
-Maierl-Alm - Chalet Beats N°5 - Let's Celebrate @ Maierl - 2017 - https://api.discogs.com/releases/13557809
-Future Disco Presents: Poolside Sounds Vol. VI - 2017 - https://api.discogs.com/releases/16889832
-Hallo Montag 2018 (Part 2) - 2018 - https://api.discogs.com/releases/12782370
-Rmeixes (Selected Remixes 2008-2017) - 2018 - https://api.discogs.com/releases/13774461
-Future Disco Presents: Poolside Sounds Vol. 7 - 2018 - https://api.discogs.com/releases/18232672
-Purobeach (The Global Adventure Volumen IV) - 2018 - https://api.discogs.com/releases/28091575
-Kitsuné Musique - 2020 - https://api.discogs.com/releases/16298658
-Café Del Mar - Terrace Decade MIX - 2020 - https://api.discogs.com/releases/16592610
-Kitsuné Musique - 2021 - https://api.discogs.com/releases/17191798
-Café Del Mar XXVII (Volumen Veintisiete) - 2021 - https://api.discogs.com/masters/2340847
-Space Ibiza Tranquil  - Desconocido - https://api.discogs.com/releases/15928988
-Destroy Minimal - 2006 - https://api.discogs.com/masters/1119100
-Café Del Mar XXVII Volumen Veintisiete - 2021 - https://api.discogs.com/masters/2340847
+Tristesse Hivernale - 2001 - https://api.discogs.com/masters/1558438
+Le Secret - 2005 - https://api.discogs.com/releases/1072264
+Aux Funérailles Du Monde... / Tristesse Hivernale - 2007 - https://api.discogs.com/masters/32661
+Souvenirs D'Un Autre Monde - 2007 - https://api.discogs.com/masters/1257
+Les Discrets / Alcest - 2009 - https://api.discogs.com/masters/210640
+Écailles De Lune - 2010 - https://api.discogs.com/masters/237280
+Le Secret - 2011 - https://api.discogs.com/masters/336801
+Autre Temps - 2011 - https://api.discogs.com/masters/1049411
+Les Voyages De L'âme - 2012 - https://api.discogs.com/masters/395853
+BBC Live Session - 2012 - https://api.discogs.com/masters/580991
+Opale - 2013 - https://api.discogs.com/masters/638579
+Shelter - 2014 - https://api.discogs.com/masters/644463
+Kodama - 2016 - https://api.discogs.com/masters/1065867
+Protection EP (Exclusive Sampler) - 2019 - https://api.discogs.com/releases/14286492
+Spiritual Instinct - 2019 - https://api.discogs.com/masters/1625501
+Sapphire (Perturbator Version) - 2020 - https://api.discogs.com/releases/22437475
+Protection (Ben Chisholm Version) - 2020 - https://api.discogs.com/releases/22437487
+Protection (Acoustic Instrumental Version) - 2021 - https://api.discogs.com/releases/22437454
+L'Envol - 2024 - https://api.discogs.com/releases/29946685
+Les Chants De L'Aurore - 2024 - https://api.discogs.com/masters/3520990
+Dreams - 2015 - https://api.discogs.com/masters/1113667
+Ecailles De Lune Pt. 2 - 2017 - https://api.discogs.com/releases/11310846
+Heavy - 2020 - https://api.discogs.com/masters/2898016
+Hvítir Sandar - 2021 - https://api.discogs.com/releases/20520043
+Artoffact Records 2021 Sampler - 2021 - https://api.discogs.com/masters/2498758
+Undir Köldum Norðurljósum - 2021 - https://api.discogs.com/masters/2341582
+Guerre De Tranchées - 2022 - https://api.discogs.com/releases/23429666
+Neglect - 2022 - https://api.discogs.com/masters/2759210
+Lost In City Colors - Desconocido - https://api.discogs.com/releases/13411050
+Large Compilation CD #17 - 2007 - https://api.discogs.com/releases/1037472
+New Signs & Sounds 09/07 - 2007 - https://api.discogs.com/releases/1071262
+All Areas Volume 86 - 2007 - https://api.discogs.com/releases/1315153
+Zero Tolerance - 2007 - https://api.discogs.com/releases/2748776
+Fear Candy 45A / Fear Candy 45B - The Unsigned Edition - 2007 - https://api.discogs.com/releases/3137058
+Legacy 02/10 - 2 - 2010 - https://api.discogs.com/releases/2232298
+Rock Tribune Maart 2010 / Free CD Sampler - 2010 - https://api.discogs.com/releases/2427185
+Zero Tolerance Audio - 2010 - https://api.discogs.com/releases/2855191
+Fear Candy 79 - 2010 - https://api.discogs.com/releases/3442743
+Metallian Sampler N°50 - 2010 - https://api.discogs.com/releases/11318986
+Legacy 06/11 - 2011 - https://api.discogs.com/releases/3199736
+Elegy Sampler 71 - 2011 - https://api.discogs.com/releases/3323901
+Hard Rock Sampler 32 - 2011 - https://api.discogs.com/releases/8057965
+Sonic Cathedrals Vol. XXVII - 2012 - https://api.discogs.com/releases/3335852
+Rock Tribune 111 Free CD Sampler! - 2012 - https://api.discogs.com/releases/3343531
+Maximum Metal Vol. 170 - 2012 - https://api.discogs.com/releases/3352460
+All Areas Volume 136 - 2012 - https://api.discogs.com/releases/3380144
+Prophecy Music Videos Vol. 1 - 2012 - https://api.discogs.com/releases/4736991
+Music From Time And Space Vol. 43 - 2012 - https://api.discogs.com/releases/6256121
+Zillo Jubiläumscompilation Best Of Dark Visions 25 Jahre Zillo 1989 - 2014 - 2013 - https://api.discogs.com/releases/8343853
+Untitled (Rock Tribune 131) - 2014 - https://api.discogs.com/releases/5267722
+The Art Of Sysyphus Vol. 75 - 2014 - https://api.discogs.com/releases/5315236
+Le Sampler RockHard 139 - 2014 - https://api.discogs.com/releases/5367079
+All Areas Volume 158 - 2014 - https://api.discogs.com/releases/5405702
+Classic Rock Compilation Volume 28 - 2014 - https://api.discogs.com/releases/5426251
+Prophecy Label Compilation 2014 - 2014 - https://api.discogs.com/releases/6431779
+Rock Tribune #158! - 2016 - https://api.discogs.com/releases/8997652
+Lauschangriff Volume 048 - 2016 - https://api.discogs.com/releases/9108630
+Maximum Metal Vol. 222 - 2016 - https://api.discogs.com/releases/9113519
+All Areas Volume 189 - 2016 - https://api.discogs.com/releases/9198365
+The Art Of Sysyphus Vol. 90 - 2016 - https://api.discogs.com/releases/9257513
+Prophecy Fest 2016 - Programme Book - 2016 - https://api.discogs.com/releases/10490035
+Prophecy Label Compilation 2017 - 2017 - https://api.discogs.com/releases/10600294
+Prophecy Label Compilation 2CD 2018 - 2018 - https://api.discogs.com/releases/13543402
+Prophecy Fest 2019 - Programme Book - 2019 - https://api.discogs.com/releases/14177181
+Classic Rock Compilation 85 - 2019 - https://api.discogs.com/releases/14252297
+Maximum Metal Vol. 251 - 2019 - https://api.discogs.com/releases/14300193
+Le Sampler RockHard 203 - 2019 - https://api.discogs.com/releases/14380830
+The Best Of 2019 - The Songs That Defined Your Year - 2019 - https://api.discogs.com/releases/14488149
+Prophecy - 25th Anniversary - Label Anthology & Prophecy Fest 2021 Programme - 2021 - https://api.discogs.com/releases/20214910
+Artoffact Records 2021 Sampler - 2021 - https://api.discogs.com/masters/2498758
+Prophecy Fest 2022 Programme + Audio Companion - 2022 - https://api.discogs.com/releases/24718658
+A Mixed Tape Made By Këkht Aräkh - 2022 - https://api.discogs.com/releases/25283755
+Metal - Diabolus In Musica - 2024 - https://api.discogs.com/releases/30319541
+Le Sampler RockHard 252 - 2024 - https://api.discogs.com/releases/30328463
+Les Voyages De L'âme - 2012 - https://api.discogs.com/masters/395853
+Tristesse Hivernale - 2013 - https://api.discogs.com/masters/1558438
+Tristesse Hivernale - Desconocido - https://api.discogs.com/releases/17065128
+Shelter - Desconocido - https://api.discogs.com/masters/644463
