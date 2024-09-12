@@ -1,3 +1,216 @@
 Listado de releases del artista:
-Peace Pipe / Rising Water - 2023 - https://api.discogs.com/releases/28157071
-Evolution - 2023 - https://api.discogs.com/masters/3232927
+For You - 2009 - https://api.discogs.com/releases/1677398
+Love Me Like This - 2009 - https://api.discogs.com/masters/194169
+Vacuum EP - 2009 - https://api.discogs.com/masters/243046
+J&W Beat - 2009 - https://api.discogs.com/masters/194168
+My Plastic People - 2010 - https://api.discogs.com/releases/3381507
+People's Potential - 2010 - https://api.discogs.com/masters/237398
+Sais Dub - 2011 - https://api.discogs.com/releases/2830978
+Marilyn - 2011 - https://api.discogs.com/masters/990228
+Shadows EP - 2011 - https://api.discogs.com/masters/886684
+Danger - 2011 - https://api.discogs.com/masters/1076735
+RA.301 - 2012 - https://api.discogs.com/releases/3489447
+Wires - 2013 - https://api.discogs.com/releases/4770241
+Summer13at45 - 2013 - https://api.discogs.com/releases/9017047
+King Bromeliad - 2014 - https://api.discogs.com/masters/1010829
+Nuits Sonores / Nectarines - 2014 - https://api.discogs.com/masters/890412
+Sparkling Controversy - 2014 - https://api.discogs.com/masters/1011560
+Disk Union Mix - 2015 - https://api.discogs.com/releases/7690403
+Marhaba - 2015 - https://api.discogs.com/masters/857609
+Elaenia - 2015 - https://api.discogs.com/masters/908559
+Kuiper - 2016 - https://api.discogs.com/masters/1030680
+For Marmish Part II - 2016 - https://api.discogs.com/masters/1172445
+Silurian Blue - 2017 - https://api.discogs.com/releases/10499616
+Kelso Dunes (Edit) - 2017 - https://api.discogs.com/releases/10499629
+Reflections - Mojave Desert - 2017 - https://api.discogs.com/masters/1202218
+Ratio (Full Mix) - 2017 - https://api.discogs.com/masters/1253809
+Far Away Tapes 016 - 2019 - https://api.discogs.com/releases/13830840
+Anasickmodular - 2019 - https://api.discogs.com/releases/15779724
+Last Bloom - 2019 - https://api.discogs.com/releases/15779775
+Lesalpx - 2019 - https://api.discogs.com/releases/15784290
+LesAlpx / Coorabell - 2019 - https://api.discogs.com/releases/29634367
+LateNightTales - 2019 - https://api.discogs.com/masters/1524917
+LesAlpx / Coorabell - 2019 - https://api.discogs.com/masters/1639887
+Crush - 2019 - https://api.discogs.com/masters/1621345
+Promises - 2020 - https://api.discogs.com/masters/2041873
+Bias - 2020 - https://api.discogs.com/masters/1798127
+Intimate Immensity - 2021 - https://api.discogs.com/releases/17518720
+Vocoder - 2022 - https://api.discogs.com/releases/22467235
+Grammar - 2022 - https://api.discogs.com/releases/22778564
+Problems - 2022 - https://api.discogs.com/releases/24626471
+Intimate Immensity - 2022 - https://api.discogs.com/releases/25320076
+Problems - 2022 - https://api.discogs.com/releases/25813282
+Someone Close - 2022 - https://api.discogs.com/masters/2931922
+Birth4000 - 2023 - https://api.discogs.com/masters/3295228
+Del Oro - 2024 - https://api.discogs.com/releases/31047148
+Cascade - 2024 - https://api.discogs.com/masters/3595454
+The Brain Stays Fed - 2009 - https://api.discogs.com/releases/4945333
+L'Amour Et La Violence / Fingers Of Steel - 2009 - https://api.discogs.com/masters/240107
+Scars | Zephyr - 2010 - https://api.discogs.com/releases/2182339
+Ninja Tune XX Vol. 2 - 2010 - https://api.discogs.com/releases/2647827
+Angel Echoes + Remixes - 2010 - https://api.discogs.com/releases/3504446
+Ninja Tune XX (20 Years Of Beats & Pieces) - 2010 - https://api.discogs.com/masters/283194
+Black Sands : Licensing Edition - 2010 - https://api.discogs.com/masters/235989
+Sing - 2010 - https://api.discogs.com/masters/240987
+Sexuality Remix - 2010 - https://api.discogs.com/masters/378846
+Eyesdown - 2010 - https://api.discogs.com/masters/239086
+Gimme5 Podcast #031 - 2011 - https://api.discogs.com/releases/2796221
+Chilled Afterhours - 2011 - https://api.discogs.com/releases/3015052
+Rude Boy Invitation - 2011 - https://api.discogs.com/releases/3188223
+Hype Machine Radio Show: May 2011 - 2011 - https://api.discogs.com/releases/3540573
+Livingroom.fm Broadcasted Three - 2011 - https://api.discogs.com/releases/5928897
+Tailor-Made - 2011 - https://api.discogs.com/masters/332580
+The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
+Wings - 2012 - https://api.discogs.com/masters/464390
+Black Sands Remixed - 2012 - https://api.discogs.com/masters/409629
+Rispah - 2012 - https://api.discogs.com/masters/457023
+Ibiza Fever 2012 - 2012 - https://api.discogs.com/masters/1725525
+LateNightTales - 2013 - https://api.discogs.com/masters/623335
+Ninja Tune Publishing & Synch Sampler Vol. 22 - 2014 - https://api.discogs.com/releases/7763780
+Life's Dancers - 2016 - https://api.discogs.com/masters/1055599
+There Is Love In You (Remixes) - 2017 - https://api.discogs.com/masters/1934418
+FWD094 - 2018 - https://api.discogs.com/releases/12293466
+Back To Basics (Floating Points Remix) - 2019 - https://api.discogs.com/masters/3249304
+Lost Remixes - 2020 - https://api.discogs.com/releases/15303993
+FACT Mix 766 - 2020 - https://api.discogs.com/releases/15649783
+Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
+There Is Love In You (Expanded Edition) & Remixes - 2020 - https://api.discogs.com/masters/220989
+Never Come Back / Sister (Floating Points Remixes) - 2020 - https://api.discogs.com/masters/1781225
+Ordinary Boy - The Remixes - 2020 - https://api.discogs.com/masters/2189299
+Fair Chance - 2020 - https://api.discogs.com/masters/1968508
+Suddenly Remixes - 2021 - https://api.discogs.com/masters/2455756
+Musca Remixes - 2023 - https://api.discogs.com/releases/26902319
+懐かしい月は新しい月 Vol.2～Rearrange & Remix Works～ - 2023 - https://api.discogs.com/releases/30778605
+Follow You - 2011 - https://api.discogs.com/masters/392846
+L'Amour Et La Violence / Fingers Of Steel - 2009 - https://api.discogs.com/masters/240107
+Circle - 2013 - https://api.discogs.com/releases/4784521
+Name Surname - 2015 - https://api.discogs.com/releases/7243831
+Juan Pablo: The Philosopher - 2017 - https://api.discogs.com/masters/1328177
+Wild Angels - 2009 - https://api.discogs.com/masters/186654
+FabricLive.51 - 2010 - https://api.discogs.com/masters/309402
+Sing - 2010 - https://api.discogs.com/masters/240987
+Sexuality Remix - 2010 - https://api.discogs.com/masters/378846
+Wires - 2011 - https://api.discogs.com/releases/2830973
+Guess Whos Coming To Dinner - 2011 - https://api.discogs.com/masters/1663260
+Circle - 2013 - https://api.discogs.com/releases/4784521
+Ninja Tune & If Music Present: If (If Music Is 10) - 2013 - https://api.discogs.com/masters/2799587
+Disco Baby - 2017 - https://api.discogs.com/releases/10491835
+Good Mellows For Beautiful Lights (Outtakes) - 2017 - https://api.discogs.com/releases/31499315
+Everything That Shines Ain't Gold - 2017 - https://api.discogs.com/masters/1214412
+Like The Sky I've Been Too Quiet - 2024 - https://api.discogs.com/masters/3480853
+Perceive Its Beauty, Acknowledge Its Grace - 2024 - https://api.discogs.com/masters/3454571
+The Mu School - 2009 - https://api.discogs.com/releases/1859396
+RA.170 - 2009 - https://api.discogs.com/releases/1931047
+RA.179 - 2009 - https://api.discogs.com/releases/1993771
+Sweatsons Trajectory - 2009 - https://api.discogs.com/releases/2004911
+RJA08 : AliOOFT - 2009 - https://api.discogs.com/releases/2032417
+FACT Mix 108 - 2009 - https://api.discogs.com/releases/2045047
+RA.187 - 2009 - https://api.discogs.com/releases/2091101
+30 In 60 - 2009 - https://api.discogs.com/releases/2981339
+14 Tracks: Head In The Clouds: A Discohouse Dream - 2009 - https://api.discogs.com/releases/3320538
+FACT Mix 44 - 2009 - https://api.discogs.com/releases/3576124
+The Brain Stays Fed - 2009 - https://api.discogs.com/releases/4945333
+Subeena Outland Show – 03 Aug 2009 - 2009 - https://api.discogs.com/releases/23059145
+Brownswood Bubblers Four - 2009 - https://api.discogs.com/masters/2617880
+Rinse: 08 - 2009 - https://api.discogs.com/masters/173723
+Wild Angels - 2009 - https://api.discogs.com/masters/186654
+Burntprogress VA2.1 - 2009 - https://api.discogs.com/masters/1052855
+RA.238 - 2010 - https://api.discogs.com/releases/2629576
+Low Relevance 007 - Gone Console - 2010 - https://api.discogs.com/releases/2630496
+FACT Mix 182 - 2010 - https://api.discogs.com/releases/2637202
+My ABC - 2010 - https://api.discogs.com/releases/2727861
+LWE Podcast 60 - 2010 - https://api.discogs.com/releases/3252230
+FACT Mix 139 - 2010 - https://api.discogs.com/releases/3253730
+Modcast #40 - 2010 - https://api.discogs.com/releases/4713610
+The Top 100 Tracks Of 2009 - 2010 - https://api.discogs.com/releases/7901728
+Essential Mix (January 2010) - 2010 - https://api.discogs.com/releases/15211941
+FabricLive.51 - 2010 - https://api.discogs.com/masters/309402
+Songs For Endless Cities: Volume 1 - 2010 - https://api.discogs.com/masters/336324
+Ninja Tune Publishing & Licensing Sampler Vol.5 - 2011 - https://api.discogs.com/releases/2806226
+DTPodcast 175 - 2011 - https://api.discogs.com/releases/3070014
+Bleep:100 Tracks/2011 - 2011 - https://api.discogs.com/releases/3458262
+MDD Mix 047: DJ First Of All 002 . The Heels Of Love - 2011 - https://api.discogs.com/releases/3463559
+Ninja Tune Publishing & Licensing Sampler Nine - 2011 - https://api.discogs.com/releases/3513847
+White Light 38 - 2011 - https://api.discogs.com/releases/3621034
+Hype Machine Radio: December 2011 - 2011 - https://api.discogs.com/releases/3787884
+Night Tracks 012: J-One Guest Mix - 2011 - https://api.discogs.com/releases/4700147
+Ninja Tune Publishing + Licensing Sampler 8 - 2011 - https://api.discogs.com/releases/5260043
+The Top 100 Tracks Of 2010 - 2011 - https://api.discogs.com/releases/7922690
+AM State - 2011 - https://api.discogs.com/releases/14335397
+FabricLive 59 - 2011 - https://api.discogs.com/masters/1315950
+14 Tracks From Planet Mu - 2011 - https://api.discogs.com/masters/500345
+LWE Podcast 108 - 2012 - https://api.discogs.com/releases/3355130
+RA.299 - 2012 - https://api.discogs.com/releases/3439058
+RA.304 - 2012 - https://api.discogs.com/releases/3528854
+LWE Podcast 112 - 2012 - https://api.discogs.com/releases/3621390
+DTPodcast 231 - 2012 - https://api.discogs.com/releases/3676553
+LWE Podcast 115 - 2012 - https://api.discogs.com/releases/3784719
+Hyp 064 - 2012 - https://api.discogs.com/releases/4019860
+Podcast 228 - 2012 - https://api.discogs.com/releases/4120250
+Night Tracks 033: Mosket Guest Mix - 2012 - https://api.discogs.com/releases/4784641
+RA.376 - 2013 - https://api.discogs.com/releases/4818545
+(En)tropic Al Mix - 2013 - https://api.discogs.com/releases/5132365
+Egg Box 006 - 2013 - https://api.discogs.com/releases/5301650
+Ninja Tune Publishing & Synch Sampler Vol. 21 - 2013 - https://api.discogs.com/releases/5772601
+Purple Trip Vol 6 - 2013 - https://api.discogs.com/releases/10067970
+Eglo Records Vol.1 - 2013 - https://api.discogs.com/masters/552453
+Fabriclive 67 - 2013 - https://api.discogs.com/masters/2511637
+Litmus Test - 2013 - https://api.discogs.com/masters/1140300
+Pianorama 2b - 2014 - https://api.discogs.com/releases/5426293
+Groove Podcast 35 - 2014 - https://api.discogs.com/releases/6099340
+Rainbow Disco Club Vol. 1 - 2014 - https://api.discogs.com/releases/6114310
+Podcast 361 - 2014 - https://api.discogs.com/releases/6126282
+Ninja Tune Publishing & Synch Sampler Vol. 25 - 2014 - https://api.discogs.com/releases/7772394
+Home - 2015 - https://api.discogs.com/releases/6801574
+Troop Overcast - 2015 - https://api.discogs.com/releases/6956247
+Mixed By Ohishi - 2015 - https://api.discogs.com/releases/6971633
+RA.476 - 2015 - https://api.discogs.com/releases/7472391
+MIX004 - 2015 - https://api.discogs.com/releases/7588422
+Groove 157 / CD 66 - 2015 - https://api.discogs.com/releases/7639782
+Here We Are Now (15 Tracks Of The Month's Best New Music) - 2015 - https://api.discogs.com/releases/7641950
+Musik Zur Zeit (N° 365 CD 128) - 2015 - https://api.discogs.com/releases/7663194
+ME-CD Nr. 1215 - 2015 - https://api.discogs.com/releases/7764270
+The Resident Sweetener 8 - 2015 - https://api.discogs.com/releases/7832318
+RA.500 - 2015 - https://api.discogs.com/releases/8088892
+Piccadilly Records 2015 Sampler - 2015 - https://api.discogs.com/releases/10483947
+Good Mellows For Quiet Dawn - 2015 - https://api.discogs.com/releases/31505618
+Rough Trade Shops Counter Culture 15 - 2015 - https://api.discogs.com/masters/1005211
+DMC Dance Mixes 151 - 2016 - https://api.discogs.com/releases/7879818
+Headlines (N.E.W.S. Distribution 2017) - 2016 - https://api.discogs.com/releases/10174586
+DMC DJ Promo 204 - 2016 - https://api.discogs.com/releases/11862869
+Urban Outfitters Mixtape Fifteen - 2016 - https://api.discogs.com/releases/12334529
+Honey - 2016 - https://api.discogs.com/masters/1000852
+The Hype! (15 Tracks Of The Month's Best Music) - 2017 - https://api.discogs.com/releases/10439270
+Piccadilly Records 2017 Sampler - 2017 - https://api.discogs.com/releases/11156937
+Mindcast Mixtape 11/2017 - 2017 - https://api.discogs.com/releases/11173936
+100 Tracks 2017 - 2017 - https://api.discogs.com/releases/11340884
+'Through The Warp Hole' (i-DJ: jadu heart) - 2017 - https://api.discogs.com/releases/12329003
+Good Mellows For Beautiful Lights (Outtakes) - 2017 - https://api.discogs.com/releases/31499315
+RA.625 - 2018 - https://api.discogs.com/releases/12095719
+FACT Mix 661 - 2018 - https://api.discogs.com/releases/12416313
+Isolatedmix 83 - 2018 - https://api.discogs.com/releases/12859092
+Podcast 523 - 2018 - https://api.discogs.com/releases/17808670
+Summer Sampler 2019 - 2019 - https://api.discogs.com/releases/14293158
+Musikexpress 11/19 - 2019 - https://api.discogs.com/releases/14338937
+Sorties d'Octobre 2019 - 2019 - https://api.discogs.com/releases/14459214
+100 Tracks 2019 - 2019 - https://api.discogs.com/releases/14588272
+Eglo Records, Vol. 2 - 2019 - https://api.discogs.com/releases/16115150
+Beat Records Radio Sampler - 2019 - https://api.discogs.com/releases/25147552
+Momentos Rockdelux. Canciones Internacionales Vol. 2/2019 - 2020 - https://api.discogs.com/releases/14733723
+Locked Grooves - 2020 - https://api.discogs.com/releases/16338291
+Relevant Parties: Ninja Tune - 2020 - https://api.discogs.com/releases/17268565
+Dublab - 2021 - https://api.discogs.com/releases/19670446
+The Best Of 2021 (15 Tracks Of The Year's Finest Music) - 2021 - https://api.discogs.com/releases/20922148
+Mojo The Best Of 2021 - 2021 - https://api.discogs.com/releases/20961196
+The Resident Sampler 2021 #14 - 2021 - https://api.discogs.com/releases/21565558
+Piccadilly Records Sampler 2021 - 2021 - https://api.discogs.com/releases/22159078
+Bleep 100 Tracks 2021 - 2021 - https://api.discogs.com/releases/23174816
+Everything In Between - 2022 - https://api.discogs.com/releases/23806982
+Bleep 100 Tracks 2022  - 2022 - https://api.discogs.com/releases/25723519
+Fact Mix 853 - 2022 - https://api.discogs.com/releases/29355787
+15 Years Of Mister Saturday Night (A 15-Tape Box Set) - 2024 - https://api.discogs.com/releases/29027593
+Rarekind Podcast Episode 5 - Desconocido - https://api.discogs.com/releases/11846865
+Deep Into The Sound_201210 - Desconocido - https://api.discogs.com/releases/13763734
+Mix #2 - 2010 - https://api.discogs.com/releases/4797478
+Edits: Vol I - 2014 - https://api.discogs.com/masters/1035695
+LateNightTales - 2019 - https://api.discogs.com/masters/1524917
