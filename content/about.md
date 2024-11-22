@@ -10,6 +10,16 @@ _Actualizado el 22-11-2024_
 
 [Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) ni playlist ni playlisto
 
+[Las 3 más oídas por disco de sfdk, violadores.del.verso, tu_hermana, funciona](https://open.spotify.com/playlist/2a2juzCAl5T2FtiFB8eKns)
+
+[Las 3 más oídas por disco de sfdk, violadores.del.verso, tu_hermana, funciona](https://open.spotify.com/playlist/16obiS2lmRlOJReLB2rThG)
+
+[Las 3 más oídas por disco de los-planetas](https://open.spotify.com/playlist/6eG2Dy7BrmhaCaqPrxt3qK)
+
+[Las 3 más oídas por disco de los.punsetes, mocedades, violadores_del_verso](https://open.spotify.com/playlist/3ocEfZEdRdhKihRHLe16Jl)
+
+[Las 3 más oídas por disco de los, punsetes](https://open.spotify.com/playlist/5YE6Pl6Sn8eDohvj7zzR3o)
+
 [Marta_Rocco](https://open.spotify.com/playlist/1BExuHcm8oWo8vDY9IhnQw)
 
 [Maricotita](https://open.spotify.com/playlist/0nlHaMWCcZD1EuBHWZsfB7)
@@ -55,6 +65,8 @@ _Actualizado el 22-11-2024_
 [idm](https://open.spotify.com/playlist/6GSGh243cZ3JQrHyloiu9D) respect idm piece of shit
 
 [ambient](https://open.spotify.com/playlist/17UP8KWrepiuz831ja3ukH) Music for real airports
+
+[Las 3 más oídas por disco de sfdk, violadores del verso, tote king, shotta, flowklorikos, ayax y prok, falsalarma, zenit, rapsusklei, 995, nach, foyone, fernando costa, triple x, xhelazz, flouclass](https://open.spotify.com/playlist/0bRAOfkvpdsiIkTUzyOdSN)
 
 [Atlas Beach Vintage](https://open.spotify.com/playlist/62sMxEjlBE0eySOyYDmNBx)
 
