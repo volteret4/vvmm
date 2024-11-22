@@ -1,0 +1,62 @@
+Listado de releases del artista:
+Parallelograms - 1970 - https://api.discogs.com/masters/129395
+Children - 2014 - https://api.discogs.com/releases/5738800
+The Soul Of All Natural Things - 2014 - https://api.discogs.com/masters/649394
+I'm A Harmony - 2017 - https://api.discogs.com/masters/1351678
+Hey, Does Somebody Care - 1971 - https://api.discogs.com/masters/1177053
+The Whispers' Love Story - 1972 - https://api.discogs.com/masters/760245
+Pull Up The Paisley Covers: A Psychedelic Omnibus - 2002 - https://api.discogs.com/releases/950069
+Surrounded By Silence - 2005 - https://api.discogs.com/masters/107442
+Not Alone - Médecins Sans Frontières - Doctors Without Borders - 2006 - https://api.discogs.com/releases/638749
+Smokey Rolls Down Thunder Canyon - 2007 - https://api.discogs.com/masters/39841
+The Silence Of Love - 2008 - https://api.discogs.com/masters/90051
+Headless Heroes - 2009 - https://api.discogs.com/masters/904839
+Cripple Crow / Smokey Rolls Down Thunder - 2010 - https://api.discogs.com/releases/15997548
+X Factor Finalisterne Live 2013 - 2013 - https://api.discogs.com/releases/4396707
+ME-CD Nr. 0414 - 2014 - https://api.discogs.com/releases/5550006
+Midwinter Tales - 2015 - https://api.discogs.com/releases/10222111
+Top 5 Dead Or Alive - 2015 - https://api.discogs.com/masters/918597
+InTechnicolour  - 2015 - https://api.discogs.com/masters/2201587
+Under The Sun - 2016 - https://api.discogs.com/masters/999805
+Come Down In Time - 2018 - https://api.discogs.com/masters/2377741
+Garden Of Clouds - 2018 - https://api.discogs.com/masters/1466747
+25 - 2019 - https://api.discogs.com/releases/14465997
+Night/Train - Transcontinental Landscapes 1968-2019 - 2024 - https://api.discogs.com/masters/3540703
+Hippie Goddesses - 1999 - https://api.discogs.com/releases/2023629
+LateNightTales - 2004 - https://api.discogs.com/masters/356128
+Raar FM Christmas Tales - 2005 - https://api.discogs.com/releases/860710
+Music To Cry To - 2005 - https://api.discogs.com/releases/2098920
+Folk Is Not A Four Letter Word - 2005 - https://api.discogs.com/masters/1755966
+Not Alone - Médecins Sans Frontières - Doctors Without Borders - 2006 - https://api.discogs.com/releases/638749
+Mixtape Summer 2006 - 2006 - https://api.discogs.com/releases/1380589
+Welcome To The People Tree - 2006 - https://api.discogs.com/releases/2438630
+Feel The Spirit (Other Worldly Folk Music Gems And Psychedelics) - 2006 - https://api.discogs.com/masters/733840
+REM Sleep - Psych Mix - 2007 - https://api.discogs.com/releases/1103983
+XXJFG Mix - 2010 - https://api.discogs.com/releases/4661900
+Aube, The Ringing Bells Mixtape - 2010 - https://api.discogs.com/releases/11202791
+The Mercurial Sounds Of Tomorrow Today! - 2010 - https://api.discogs.com/masters/2591366
+A Monstrous Psychedelic Bubble Exploding In Your Mind Vol 3 - The 3rd Ear - 2010 - https://api.discogs.com/masters/448779
+LateNightTales (TheDecadeBox) - 2011 - https://api.discogs.com/releases/8417021
+Penitence And Penance - 2011 - https://api.discogs.com/releases/13588128
+Asthmatic Kitty Digital Sampler Winter 2013/14 - 2013 - https://api.discogs.com/releases/5263746
+Fact Mix 372 - 2013 - https://api.discogs.com/releases/29428915
+ME-CD Nr. 0414 - 2014 - https://api.discogs.com/releases/5550006
+Asthmatic Kitty Digital Sampler Spring 2014 - 2014 - https://api.discogs.com/releases/8067240
+Rock 'N' Roll With Us (15 Tracks Of The Best New Music)  - 2014 - https://api.discogs.com/masters/673700
+La Escollera Session Two - 2015 - https://api.discogs.com/releases/7127731
+Asthmatic Kitty Records Sampler 2015 - 2015 - https://api.discogs.com/releases/7276162
+XPLAYMIX 21 | 2015 - 2015 - https://api.discogs.com/releases/7746006
+This House Is Condemned: Part One: Salvaging Fragments Of Lost Disco Utopias - 2015 - https://api.discogs.com/releases/11644634
+For Those Who Lives (Mix For Unline) - 2016 - https://api.discogs.com/releases/8353358
+Coming Into Los Angeles (A Taste Of West Coast) - 2017 - https://api.discogs.com/releases/11098234
+The Mood Mosaic Folkadelic Volume One - 2019 - https://api.discogs.com/masters/1666766
+Beach Vibes - 2020 - https://api.discogs.com/releases/24702734
+Fact Mix 770 - 2020 - https://api.discogs.com/releases/29372773
+Night/Train - Transcontinental Landscapes 1968-2019 - 2024 - https://api.discogs.com/masters/3540703
+Sum Her Path Hymn Vol. 6 - 1993 - https://api.discogs.com/releases/24318554
+Left Out In The Field Vol. 3 - 1994 - https://api.discogs.com/releases/25641433
+The Foto-Gram Tapes Vol. 5 - 1997 - https://api.discogs.com/releases/26073709
+Lammas Night Laments Volume 6 - 2005 - https://api.discogs.com/releases/7307040
+Surrounded By Silence - 2005 - https://api.discogs.com/masters/107442
+Fools On The Hill Volume 4: Goddesses In The Sky With Diamonds - Desconocido - https://api.discogs.com/releases/13657543
+A Monstrous Psychedelic Bubble Exploding In Your Mind Vol 3 - The 3rd Ear - Desconocido - https://api.discogs.com/masters/448779
