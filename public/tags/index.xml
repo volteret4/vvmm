@@ -6,85 +6,13 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 17 Oct 2024 19:50:37 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>indie,</title>
-      <link>/tags/indie/</link>
-      <pubDate>Thu, 17 Oct 2024 19:50:37 +0200</pubDate>
-      
-      <guid>/tags/indie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pop</title>
-      <link>/tags/pop/</link>
-      <pubDate>Thu, 17 Oct 2024 19:50:37 +0200</pubDate>
-      
-      <guid>/tags/pop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rock</title>
-      <link>/tags/rock/</link>
-      <pubDate>Thu, 17 Oct 2024 19:50:37 +0200</pubDate>
-      
-      <guid>/tags/rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>idm</title>
-      <link>/tags/idm/</link>
-      <pubDate>Thu, 12 Sep 2024 21:07:17 +0200</pubDate>
-      
-      <guid>/tags/idm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>techno</title>
-      <link>/tags/techno/</link>
-      <pubDate>Thu, 12 Sep 2024 21:07:17 +0200</pubDate>
-      
-      <guid>/tags/techno/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 19 Jul 2024 14:42:03 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>techno jazz</title>
       <link>/tags/techno-jazz/</link>
       <pubDate>Fri, 19 Jul 2024 14:42:03 +0200</pubDate>
       
       <guid>/tags/techno-jazz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metal</title>
-      <link>/tags/metal/</link>
-      <pubDate>Tue, 16 Jul 2024 20:09:23 +0200</pubDate>
-      
-      <guid>/tags/metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>postrock</title>
-      <link>/tags/postrock/</link>
-      <pubDate>Tue, 16 Jul 2024 20:09:23 +0200</pubDate>
-      
-      <guid>/tags/postrock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shoegaze</title>
-      <link>/tags/shoegaze/</link>
-      <pubDate>Tue, 16 Jul 2024 20:09:23 +0200</pubDate>
-      
-      <guid>/tags/shoegaze/</guid>
       <description></description>
     </item>
     
@@ -121,6 +49,15 @@
       <pubDate>Thu, 11 Jul 2024 21:00:34 +0200</pubDate>
       
       <guid>/tags/disco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pop</title>
+      <link>/tags/pop/</link>
+      <pubDate>Thu, 11 Jul 2024 21:00:34 +0200</pubDate>
+      
+      <guid>/tags/pop/</guid>
       <description></description>
     </item>
     
@@ -305,6 +242,15 @@
     </item>
     
     <item>
+      <title>shoegaze</title>
+      <link>/tags/shoegaze/</link>
+      <pubDate>Thu, 20 Jun 2024 21:48:21 +0200</pubDate>
+      
+      <guid>/tags/shoegaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hiphop</title>
       <link>/tags/hiphop/</link>
       <pubDate>Thu, 20 Jun 2024 19:35:56 +0200</pubDate>
@@ -319,6 +265,15 @@
       <pubDate>Thu, 20 Jun 2024 19:31:21 +0200</pubDate>
       
       <guid>/tags/rhytm-and-blues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idm</title>
+      <link>/tags/idm/</link>
+      <pubDate>Thu, 20 Jun 2024 19:21:08 +0200</pubDate>
+      
+      <guid>/tags/idm/</guid>
       <description></description>
     </item>
     
@@ -341,11 +296,29 @@
     </item>
     
     <item>
+      <title>rock</title>
+      <link>/tags/rock/</link>
+      <pubDate>Thu, 20 Jun 2024 19:00:52 +0200</pubDate>
+      
+      <guid>/tags/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>post-rock</title>
       <link>/tags/post-rock/</link>
       <pubDate>Thu, 20 Jun 2024 18:59:54 +0200</pubDate>
       
       <guid>/tags/post-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techno</title>
+      <link>/tags/techno/</link>
+      <pubDate>Thu, 20 Jun 2024 18:29:33 +0200</pubDate>
+      
+      <guid>/tags/techno/</guid>
       <description></description>
     </item>
     
