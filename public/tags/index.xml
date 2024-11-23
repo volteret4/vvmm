@@ -6,7 +6,25 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 19 Jul 2024 14:42:03 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Nov 2024 07:33:01 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Sat, 23 Nov 2024 07:33:01 +0100</pubDate>
+      
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch</title>
+      <link>/tags/glitch/</link>
+      <pubDate>Sat, 23 Nov 2024 07:33:01 +0100</pubDate>
+      
+      <guid>/tags/glitch/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>techno jazz</title>
       <link>/tags/techno-jazz/</link>
@@ -103,15 +121,6 @@
       <pubDate>Fri, 21 Jun 2024 21:35:22 +0200</pubDate>
       
       <guid>/tags/downtempo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ambient</title>
-      <link>/tags/ambient/</link>
-      <pubDate>Fri, 21 Jun 2024 15:01:44 +0200</pubDate>
-      
-      <guid>/tags/ambient/</guid>
       <description></description>
     </item>
     
