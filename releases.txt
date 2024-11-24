@@ -1,37 +1,48 @@
 Listado de releases del artista:
-Freedom - 2011 - https://api.discogs.com/releases/2950856
-Into The Sun - 2012 - https://api.discogs.com/releases/3443333
-Say Or Do - 2012 - https://api.discogs.com/releases/4100024
-Paradise With A Lobotomy - 2012 - https://api.discogs.com/masters/806973
-RA.387 - 2013 - https://api.discogs.com/releases/5047642
-Mothercave - 2013 - https://api.discogs.com/masters/800554
-This Is Not ... - 2014 - https://api.discogs.com/releases/6472180
-All The Things - 2014 - https://api.discogs.com/masters/723952
-Intrinity - 2014 - https://api.discogs.com/masters/1575413
-Diva - 2016 - https://api.discogs.com/releases/9231524
-Live At Planet Uterus - 2016 - https://api.discogs.com/releases/11303910
-Decay Versions Pt. 2 - 2014 - https://api.discogs.com/masters/1143455
-This Is Not - 2015 - https://api.discogs.com/releases/7117597
-Fact Mix 483 - 2015 - https://api.discogs.com/releases/29416675
-Watergate 20 - 2016 - https://api.discogs.com/releases/8310605
-Nubreed Global Underground - 2018 - https://api.discogs.com/masters/1476264
-Get Lost VI - 2013 - https://api.discogs.com/masters/576219
-Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
-Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
-Offcast #10 - 2012 - https://api.discogs.com/releases/3838304
-Wild East - 2012 - https://api.discogs.com/releases/3920246
-Untitled - 2012 - https://api.discogs.com/releases/4328304
-Channel Zoo Compilation 001 - 2012 - https://api.discogs.com/releases/6843990
-This Is Not ... - 2012 - https://api.discogs.com/releases/9929192
-Futur II - 2012 - https://api.discogs.com/masters/1046292
-Get Lost VI - 2013 - https://api.discogs.com/masters/576219
-FATPOD 34 - 2014 - https://api.discogs.com/releases/5796726
-Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
-This Is Not - 2015 - https://api.discogs.com/releases/7117597
-Radio Cómeme: Bon Voyage 01 - 2015 - https://api.discogs.com/releases/7704332
-Dekmantel Podcast 022 - 2015 - https://api.discogs.com/releases/8398274
-Cxemcast 037 - 2016 - https://api.discogs.com/releases/27578076
-2 The Sky  - 2016 - https://api.discogs.com/masters/1004656
-Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
-Planet Giegling Tour EP - 2017 - https://api.discogs.com/releases/9780772
-DJ-Kicks - 2017 - https://api.discogs.com/masters/1218049
+Dub In Ambient - 1996 - https://api.discogs.com/releases/28985
+Skunk - 1997 - https://api.discogs.com/releases/299289
+Madness / Monkey Crew - 1997 - https://api.discogs.com/releases/1401488
+Enemy? Or Friend!? - 1998 - https://api.discogs.com/masters/468661
+Enemy Or Friend - 1998 - https://api.discogs.com/masters/647134
+Ledo - 2000 - https://api.discogs.com/releases/7362855
+Versus - 2001 - https://api.discogs.com/releases/459128
+Strange Affair Versus Moony In The Storm - 2001 - https://api.discogs.com/releases/14343168
+Mirage - 2017 - https://api.discogs.com/releases/13269375
+Moth - 1999 - https://api.discogs.com/releases/7569973
+InDo - 2000 - https://api.discogs.com/masters/2516119
+Aoharu Youth - 2002 - https://api.discogs.com/releases/2259024
+Isolated Audio Players 2 - 2002 - https://api.discogs.com/releases/2369730
+Yumegiwa Last Boy / Aoharu Youth - 2002 - https://api.discogs.com/releases/7029362
+Summer Of Rainbow 97 - 1997 - https://api.discogs.com/masters/3466624
+Moth - 1999 - https://api.discogs.com/releases/7569973
+Phat Waxx - 2004 - https://api.discogs.com/releases/3119073
+Sympathy In Chaos 3 - 1999 - https://api.discogs.com/masters/1771564
+Temple Of Dub - 1999 - https://api.discogs.com/masters/108351
+Meetings With Remarkable Men - 2000 - https://api.discogs.com/releases/2657518
+海象 (セイウチ) - 2000 - https://api.discogs.com/masters/1320240
+InDo - 2000 - https://api.discogs.com/masters/2516119
+Stone.Scissors.Paper. 02.Scissors - 2001 - https://api.discogs.com/masters/982323
+Bande Originale Du Film Demonlover - 2002 - https://api.discogs.com/masters/620736
+Earth Octave Lounge Vol. 1 - 2002 - https://api.discogs.com/masters/759664
+Summer Of Rainbow 97 - 1997 - https://api.discogs.com/masters/3466624
+NS Comfusion - Tokyo Tech Breakbeats - 1998 - https://api.discogs.com/masters/177142
+NS Comfusion EP - 1998 - https://api.discogs.com/masters/3126270
+Tokyo Tech - Breakbeats 2 - 1999 - https://api.discogs.com/releases/558594
+Tokyo Tech - Breakbeats 2 - 1999 - https://api.discogs.com/releases/4608920
+House Meister Vol. IV - 1999 - https://api.discogs.com/releases/9136176
+Sympathy In Chaos 3 - 1999 - https://api.discogs.com/masters/1771564
+Temple Of Dub - 1999 - https://api.discogs.com/masters/108351
+InDo - 2000 - https://api.discogs.com/masters/2516119
+E2-E4 2001 - Inspiration From E2-E4 - 2001 - https://api.discogs.com/masters/1205903
+Stone.Scissors.Paper. 02.Scissors - 2001 - https://api.discogs.com/masters/982323
+Stone / Scissors EP - 2002 - https://api.discogs.com/releases/266533
+PingPong (Original Motion Picture Soundtrack) - 2002 - https://api.discogs.com/releases/330419
+Isolated Audio Players 2 - 2002 - https://api.discogs.com/releases/2369730
+Ping Pong Digest Sampler - 2002 - https://api.discogs.com/releases/15829223
+Bande Originale Du Film Demonlover - 2002 - https://api.discogs.com/masters/620736
+Earth Octave Lounge Vol. 1 - 2002 - https://api.discogs.com/masters/759664
+Opal Phunky Ambient Electronika Harukaze Compilation - 2003 - https://api.discogs.com/releases/8085048
+Phat Waxx - 2004 - https://api.discogs.com/releases/3119073
+Virtual Dreams II (Ambient Explorations In The House & Techno Age, Japan 1993-1999) - 2024 - https://api.discogs.com/masters/3626072
+Bande Originale Du Film Demonlover - 2002 - https://api.discogs.com/masters/620736
+Earth Octave Lounge Vol. 1 - 2002 - https://api.discogs.com/masters/759664
