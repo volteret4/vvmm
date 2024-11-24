@@ -6,7 +6,7 @@ menu: main
 weight: 3
 ---
 
-_Actualizado el 23-11-2024_
+_Actualizado el 24-11-2024_
 
 [Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) ni playlist ni playlisto
 
@@ -55,8 +55,6 @@ _Actualizado el 23-11-2024_
 [idm](https://open.spotify.com/playlist/6GSGh243cZ3JQrHyloiu9D) respect idm piece of shit
 
 [ambient](https://open.spotify.com/playlist/17UP8KWrepiuz831ja3ukH) Music for real airports
-
-[Las 3 más oídas por disco de sfdk, violadores del verso, tote king, shotta, flowklorikos, ayax y prok, falsalarma, zenit, rapsusklei, 995, nach, foyone, fernando costa, triple x, xhelazz, flouclass](https://open.spotify.com/playlist/0bRAOfkvpdsiIkTUzyOdSN)
 
 [Atlas Beach Vintage](https://open.spotify.com/playlist/62sMxEjlBE0eySOyYDmNBx)
 

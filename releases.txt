@@ -1,304 +1,37 @@
 Listado de releases del artista:
-Prototypes - 2000 - https://api.discogs.com/masters/1562455
-Uniform - 2001 - https://api.discogs.com/releases/54977
-Opto Files - 2001 - https://api.discogs.com/masters/144692
-Transform - 2001 - https://api.discogs.com/masters/9533
-Mort Aux Vaches - 2002 - https://api.discogs.com/releases/48302
-Transrapid - 2002 - https://api.discogs.com/releases/124028
-Transspray - 2004 - https://api.discogs.com/masters/749774
-Transvision - 2004 - https://api.discogs.com/masters/749776
-Transrapid - 2004 - https://api.discogs.com/masters/9529
-Transit - 2005 - https://api.discogs.com/releases/1277061
-For - 2006 - https://api.discogs.com/masters/817721
-Xerrox Vol.1 - 2007 - https://api.discogs.com/masters/9520
-Unitxt - 2008 - https://api.discogs.com/masters/9524
-Xerrox Vol.2 - 2009 - https://api.discogs.com/masters/173456
-For 1 + 2 - 2010 - https://api.discogs.com/releases/2305593
-For 2 - 2010 - https://api.discogs.com/masters/817726
-RA.276 - 2011 - https://api.discogs.com/releases/3104269
-Univrs - 2011 - https://api.discogs.com/masters/376382
-Décade - 2012 - https://api.discogs.com/masters/2089774
-Codex I - 2014 - https://api.discogs.com/releases/14508875
-Leaves Of Grass - 2015 - https://api.discogs.com/masters/1748242
-Xerrox Vol.3 - 2015 - https://api.discogs.com/masters/818079
-The Revenant (Original Motion Picture Soundtrack) - 2016 - https://api.discogs.com/masters/941604
-Moln (Alva Noto Remodel) - 2018 - https://api.discogs.com/releases/11742099
-FACT Mix 641 - 2018 - https://api.discogs.com/releases/12271454
-Live 2002 - 2018 - https://api.discogs.com/masters/1304194
-Unieqav - 2018 - https://api.discogs.com/masters/1331383
-Alphabet - 2019 - https://api.discogs.com/masters/1718822
-Gaia125 - 2019 - https://api.discogs.com/masters/1703756
-Uni Normal (Ben Frost Remix) - 2020 - https://api.discogs.com/releases/14976661
-Modul 4 - 2020 - https://api.discogs.com/releases/16541067
-Unieqav Remixes - 2020 - https://api.discogs.com/masters/3215379
-A Forest - 2020 - https://api.discogs.com/masters/1745075
-Xerrox Vol.4 - 2020 - https://api.discogs.com/masters/1758521
-HYbr:ID I - 2021 - https://api.discogs.com/masters/2377087
-Subterraneans - 2022 - https://api.discogs.com/masters/2906959
-HYbr:ID II - 2023 - https://api.discogs.com/masters/3273307
-Kinder Der Sonne - 2023 - https://api.discogs.com/masters/3083045
-This Stolen Country Of Mine - 2023 - https://api.discogs.com/masters/3173334
-HYbr:ID III - 2024 - https://api.discogs.com/masters/3536642
-At RML / Asphodel 763 Brannan / SF, CA 94103 09 / 28 / 07 / 16:11‎–16:32 PST - Desconocido - https://api.discogs.com/releases/18463933
-Retrial Error - 2002 - https://api.discogs.com/releases/600699
-Possible - 2002 - https://api.discogs.com/masters/220429
-A Day In New York - 2003 - https://api.discogs.com/masters/250567
-Moto.tronic - 2003 - https://api.discogs.com/masters/233328
-Burned Bridges And Lost Loves - 2005 - https://api.discogs.com/releases/1291916
-Re'Post'Postfabricated - 2005 - https://api.discogs.com/masters/1572334
-Wetsound Orchestra - 2006 - https://api.discogs.com/releases/800756
-Bricolages - 2006 - https://api.discogs.com/masters/34634
-Things Will Change - 2007 - https://api.discogs.com/releases/1276118
-Divenire - 2007 - https://api.discogs.com/masters/162011
-Kruimeldief  (Machinefabriek Remixed) - 2007 - https://api.discogs.com/masters/329548
-Innocence - 2007 - https://api.discogs.com/masters/34677
-Psx_vi - 2008 - https://api.discogs.com/releases/7026588
-Plastic Star Rmx - 2008 - https://api.discogs.com/masters/8245
-603 EP - 2009 - https://api.discogs.com/releases/2293042
-14 Tracks Visualising Sound: Alva Noto - 2009 - https://api.discogs.com/releases/3239385
-Malika Ayane - 2009 - https://api.discogs.com/masters/898337
-Voltaïc - 2009 - https://api.discogs.com/masters/48484
-アワーミュージック - 2010 - https://api.discogs.com/releases/2100932
-Remakes - 2010 - https://api.discogs.com/releases/2416360
-Electric Deluxe Podcast 017 - 2010 - https://api.discogs.com/releases/5017866
-Remasters & Remakes - 2010 - https://api.discogs.com/masters/681484
-Pruitt Igoe - 2010 - https://api.discogs.com/masters/284188
-Equal - 2010 - https://api.discogs.com/masters/1316621
-Wir Bauen Eine Neue Stadt - 2010 - https://api.discogs.com/masters/1665828
-AntiNewTron Mix - 2011 - https://api.discogs.com/releases/2911442
-(Baustelle) Rekonstruktion Remixe - 2011 - https://api.discogs.com/releases/3089431
-Replikants - 2011 - https://api.discogs.com/releases/11538404
-Arkives 1993 - 2010 - 2011 - https://api.discogs.com/masters/364214
-Electronic Beats ∙ CD N° 1 ∙ Summer 2012 - 2012 - https://api.discogs.com/releases/3685360
-Deep-X Podcast 001 - 2012 - https://api.discogs.com/releases/3830196
-Offcast #13: Winter Is Coming - 2012 - https://api.discogs.com/releases/4043628
-CLR Podcast 183 - 2012 - https://api.discogs.com/releases/12277191
-Salon Des Amateurs Remixes - 2012 - https://api.discogs.com/masters/534128
-Biophilia Remix Series V - 2012 - https://api.discogs.com/masters/445145
-EP3 / Aftermaths - 2012 - https://api.discogs.com/masters/464228
-Bastards - 2012 - https://api.discogs.com/masters/492948
-Extra Playful: Transitions - 2012 - https://api.discogs.com/masters/1842680
-Insensatez (Alva Noto Remodel) - 2013 - https://api.discogs.com/releases/4338402
-FACT Mix 411 - 2013 - https://api.discogs.com/releases/5338762
-Slam Radio- 065 - Featuring Reeko - 2013 - https://api.discogs.com/releases/11542345
-DSNT Podcast 025 - 2013 - https://api.discogs.com/releases/12460899
-Black Acid Rmx - 2013 - https://api.discogs.com/masters/2781725
-CLR Podcast 302 - 2014 - https://api.discogs.com/releases/6408869
-Restless Shapes Remixes - 2015 - https://api.discogs.com/masters/1004824
-Acid Reign (Remixes) - 2015 - https://api.discogs.com/masters/753994
-Ciclogénesis + Dual Pride 2016, Madrid - 2016 - https://api.discogs.com/releases/30153416
-Wulfman - 2017 - https://api.discogs.com/masters/1666239
-Async - Remodels - 2017 - https://api.discogs.com/masters/1308536
-The Triad Remix Versions - 2017 - https://api.discogs.com/masters/1224622
-Endless Remixes - 2017 - https://api.discogs.com/masters/1318907
-IMF10 01 - 2018 - https://api.discogs.com/releases/11899771
-Compilation - 2018 - https://api.discogs.com/releases/12399642
-We Are Sonetteers - 2018 - https://api.discogs.com/releases/13076087
-All That You Love Will Be Eviscerated - 2018 - https://api.discogs.com/masters/1336573
-Where I Wait Remixes Pt. 3 - Alva Noto / Úlfur Eldjárn - 2018 - https://api.discogs.com/masters/1262446
-Beasts Of Gravity - 2019 - https://api.discogs.com/releases/14117711
-Come Behind Me, So Good! (Alva Noto Remix) - 2019 - https://api.discogs.com/releases/21679531
-Re: - 2020 - https://api.discogs.com/releases/24064571
-Flower Protocol - 2020 - https://api.discogs.com/masters/1847297
-The Triad - Ambient Versions - 2020 - https://api.discogs.com/masters/3482476
-Spectre: Machines Of Loving Grace Remixes (Six Remixes From Para One's Album) - 2021 - https://api.discogs.com/releases/26428934
-Spectre: Shin Sekai - 2021 - https://api.discogs.com/masters/2251849
-Nocturne 4 (Alva Noto Remodel) - 2022 - https://api.discogs.com/releases/32270439
-Reshape - 2022 - https://api.discogs.com/masters/3107982
-Stations - 2022 - https://api.discogs.com/masters/2848510
-Sleep: Tranquility Base - 2023 - https://api.discogs.com/masters/2998238
-Travesía - 2023 - https://api.discogs.com/masters/3084788
-A Selection Of Remixes Taken From The Volta Singles - Desconocido - https://api.discogs.com/releases/2370619
-Possible - 2002 - https://api.discogs.com/masters/220429
-A Tribute To Ryuichi Sakamoto - To The Moon And Back - 2022 - https://api.discogs.com/masters/2891335
-Document # 1 Raster-Noton Japan Tour 2007 - 2010 - https://api.discogs.com/releases/2631661
-Djs Pareja - 2000 - https://api.discogs.com/releases/2929697
-The Forcelab Edition (Composure Mixed By Algorithm) - 2002 - https://api.discogs.com/releases/86199
-Possible Forms - 2002 - https://api.discogs.com/masters/423156
-Vrioon - 2002 - https://api.discogs.com/masters/9557
-Chasm - 2004 - https://api.discogs.com/masters/68233
-Tagebuch Eines Rückzugs / The Retreat Diaries - 2005 - https://api.discogs.com/releases/10523258
-Insen - 2005 - https://api.discogs.com/masters/9553
-revep - 2006 - https://api.discogs.com/masters/9555
-utp_ - 2008 - https://api.discogs.com/masters/9559
-CD Side 60 - 2010 - https://api.discogs.com/releases/2440561
-Rare Trax Vol. 69 - Kunst & Künstlichkeit - Deutsche Elektronik Zwischen Krautrock Und Post-Techno - 2010 - https://api.discogs.com/releases/2573396
-Ret Marut Handshake - 2010 - https://api.discogs.com/masters/259265
-Mimikry - 2010 - https://api.discogs.com/masters/278482
-For Nihon - 2011 - https://api.discogs.com/releases/2934675
-Die Pranke Der Natur [Und Wir Menschen] (Das Erdbeben In Japan, Das Die Welt Bewegte, Und Das Zeichen Von Tschernobyl) - 2011 - https://api.discogs.com/releases/6305220
-Die Künstlichen Paradiese - 2011 - https://api.discogs.com/releases/7937132
-Summvs - 2011 - https://api.discogs.com/masters/334417
-EP3 / Aftermaths - 2012 - https://api.discogs.com/masters/464228
-Insensatez (Alva Noto Remodel) - 2013 - https://api.discogs.com/releases/4338402
-Auf Dem Dach Der Welt: Frei Nach Alexander Kluge - 2013 - https://api.discogs.com/releases/5210822
-HD - 2013 - https://api.discogs.com/masters/570142
-Kinder Adams / Children Of Adam - 2014 - https://api.discogs.com/releases/6321345
-Anatome EP, Vol. 2 - 2014 - https://api.discogs.com/masters/997721
-CI - 2014 - https://api.discogs.com/masters/694210
-The Revenant (Original Motion Picture Soundtrack) - 2015 - https://api.discogs.com/masters/941604
-Der Kleine Prinz - 2016 - https://api.discogs.com/releases/10211677
-Super Newa Dementation 0001 - 2020 - https://api.discogs.com/releases/15690139
-Sleep: Tranquility Base - 2023 - https://api.discogs.com/masters/2998238
-Raster-Noton. Oacis - 2000 - https://api.discogs.com/releases/47233
-Impakt 2000 - 2000 - https://api.discogs.com/releases/340482
-Famous Aspect - 2000 - https://api.discogs.com/releases/505634
-Clicks_+_Cuts - 2000 - https://api.discogs.com/masters/119835
-Raster-Noton. [O]acis Box - 2001 - https://api.discogs.com/releases/45674
-_Lounge Essenzen 02 - 2001 - https://api.discogs.com/releases/117619
-Collaborations - 2001 - https://api.discogs.com/masters/522248
-Electric Ladyland Clickhop Version 1.0 - 2001 - https://api.discogs.com/masters/141902
-Clicks & Cuts 2 - 2001 - https://api.discogs.com/masters/15680
-Klangmaschine_Soundmachine - 2002 - https://api.discogs.com/releases/73586
-Electrograph 02 - Athens Sound Media Festival 02 - 2002 - https://api.discogs.com/releases/117763
-Frequenzen [Hz] / Frequencies [Hz] - 2002 - https://api.discogs.com/releases/1100656
-While You Were Sleeping - 2002 - https://api.discogs.com/masters/33299
-Clicks & Cuts 3 - 2002 - https://api.discogs.com/masters/5768
-Prototype - Armaments And Armatures Against Electronic Music - 2003 - https://api.discogs.com/releases/127722
-Frequencies [Hz] - 2003 - https://api.discogs.com/releases/134764
-Soundcultures - 2003 - https://api.discogs.com/releases/187751
-I.D.E.A.L #1 - 2003 - https://api.discogs.com/releases/4545072
-The Marcia Blaine School For Girls - School Disco Volume 2 - 2004 - https://api.discogs.com/releases/347625
-Sound × Vision 2004 - 2004 - https://api.discogs.com/releases/480779
-On Peter Roehr - 2004 - https://api.discogs.com/releases/660204
-The Hidden City - Sound Portraits From Göteborg - 2004 - https://api.discogs.com/releases/819369
-Click Shower - 2004 - https://api.discogs.com/releases/1948806
-Elektroni Meri - 2004 - https://api.discogs.com/releases/2877806
-An Anthology Of Noise & Electronic Music / Third A-Chronology 1952-2004 - 2004 - https://api.discogs.com/masters/1091237
-...It Just Is (In Memoriam: Jhonn Balance) - 2005 - https://api.discogs.com/releases/595436
-Landscape 2 - 2005 - https://api.discogs.com/releases/829124
-En/Of 001-030 - 2005 - https://api.discogs.com/releases/1003914
-Sound Of ?!?!?!? - 2005 - https://api.discogs.com/masters/316226
-Born Again (Collected Remixes 1999-2005) - 2005 - https://api.discogs.com/masters/119641
-Re'Post'Postfabricated - 2005 - https://api.discogs.com/masters/1572334
-Trax#31 - 2006 - https://api.discogs.com/releases/724368
-Line Promo - 2006 - https://api.discogs.com/releases/997451
-Tribute To Iannis Xenakis - 2007 - https://api.discogs.com/releases/952305
-Camera Lucida - 2007 - https://api.discogs.com/releases/972207
-Mind The Gap Volume 70 - 2007 - https://api.discogs.com/releases/1138165
-Raster-Noton. Archiv 2 - 2007 - https://api.discogs.com/releases/1617691
-The Music No Music Issue. Vibrö No.4 - 2007 - https://api.discogs.com/releases/3627110
-Merge #18 - 2007 - https://api.discogs.com/releases/7137407
-Recovery - 2008 - https://api.discogs.com/releases/1299995
-In Memoriam Andrey Tarkovsky - 2008 - https://api.discogs.com/releases/1396003
-Sound Canvas - Compilation Of Sound Art, Minimal And Improvised Music | Part 1 - 2008 - https://api.discogs.com/releases/1469686
-Aiff-tiff - 2008 - https://api.discogs.com/releases/1571220
-Miscellaneous Sounds Part Two - 2008 - https://api.discogs.com/releases/1600166
-RA.100 - 2008 - https://api.discogs.com/releases/1614429
-Mix#4 - 2008 - https://api.discogs.com/releases/1701242
-VA:2 - 2008 - https://api.discogs.com/releases/2325415
-ELEVENELEVEN :: Speech Contamination - 2008 - https://api.discogs.com/releases/3398227
-Pohja - 2008 - https://api.discogs.com/releases/10186073
-Frame.Sync - 2009 - https://api.discogs.com/releases/1769213
-Mind The Gap Volume 79 - 2009 - https://api.discogs.com/releases/1769280
-RA.168 - 2009 - https://api.discogs.com/releases/1929839
-Radio Soulwax Mix - 2009 - https://api.discogs.com/releases/1954365
-A3. Raster-Noton. Archiv 3 - 2009 - https://api.discogs.com/releases/2011884
-FACT Mix 102 - 2009 - https://api.discogs.com/releases/2097831
-14 Tracks Visualising Sound: Alva Noto - 2009 - https://api.discogs.com/releases/3239385
-Intelligent Breakcore - 2009 - https://api.discogs.com/releases/3267053
-ELEVENELEVEN :: Randolf Reimann - 2009 - https://api.discogs.com/releases/3400125
-Creative Space Podcast 1 - 2009 - https://api.discogs.com/releases/6980953
-Live @ Plug Festival 2009 - 2009 - https://api.discogs.com/releases/9595105
-What It Sounds Like When Flowers Start To Think: edition 09 madeira island - 2009 - https://api.discogs.com/releases/11528327
-Rough Trade Shops (Counter Culture 08) - 2009 - https://api.discogs.com/masters/1297943
-Document # 1 Raster-Noton Japan Tour 2007 - 2010 - https://api.discogs.com/releases/2631661
-Typecast - 2010 - https://api.discogs.com/releases/2877542
-RA.196 - 2010 - https://api.discogs.com/releases/3578270
-Laboratorie Mix 2 - 2010 - https://api.discogs.com/releases/5765810
-CC:01 - Commmons Compilation Vol. 01 - - 2010 - https://api.discogs.com/releases/6976366
-Pagoda Blue - 2010 - https://api.discogs.com/releases/14706535
-Electric Deluxe Podcast 019 - 2010 - https://api.discogs.com/releases/19872445
-Balance 016 - 2010 - https://api.discogs.com/masters/288568
-Directions To My Special Place (Chosen Families 1) - 2011 - https://api.discogs.com/releases/2887024
-For Nihon - 2011 - https://api.discogs.com/releases/2934675
-Ping's Box #3 Part I - 2011 - https://api.discogs.com/releases/2968625
-FACT Mix 300 - 2011 - https://api.discogs.com/releases/3228256
-Collide.scope Exclusive Mix 03 - 2011 - https://api.discogs.com/releases/3261880
-#029: Wax Treatment Podcast - 2011 - https://api.discogs.com/releases/3293196
-Truth - 2011 - https://api.discogs.com/releases/3884718
-Double D Town Podcast 14 - 2011 - https://api.discogs.com/releases/3948290
-SSS Podcast #005 - 2011 - https://api.discogs.com/releases/4355879
-Zolin Sagt 001 - 2011 - https://api.discogs.com/releases/4587202
-Die Künstlichen Paradiese - 2011 - https://api.discogs.com/releases/7937132
-Electric Deluxe Podcast 038 - 2011 - https://api.discogs.com/releases/19903828
-Electric Deluxe Podcast 041 - 2011 - https://api.discogs.com/releases/26236142
-Rough Trade Shops Electronic 11 - 2011 - https://api.discogs.com/masters/2598044
-Pop Ambient 2011 - 2011 - https://api.discogs.com/masters/305483
-Rexperience #02 - 2011 - https://api.discogs.com/masters/1547206
-Secret Thirteen Mix 006 - 2012 - https://api.discogs.com/releases/3333724
-Offcast #04: Forrista Invariation - 2012 - https://api.discogs.com/releases/3369303
-Adventures In Numb4rland - 2012 - https://api.discogs.com/releases/3518059
-Ssg Special - A House With Beautiful Furniture - 2012 - https://api.discogs.com/releases/3586155
-Deep-X Podcast 001 - 2012 - https://api.discogs.com/releases/3830196
-VVe Lived Ovr Lives In Black - 2012 - https://api.discogs.com/releases/3855068
-Taking Stock - 2012 - https://api.discogs.com/releases/3890262
-Secret Thirteen Mix 037 - 2012 - https://api.discogs.com/releases/3940724
-SSS Podcast #008  - 2012 - https://api.discogs.com/releases/4355975
-Egg Box 003 - 2012 - https://api.discogs.com/releases/5301572
-Eat2pills Ambient Podcast - 2012 - https://api.discogs.com/releases/5662419
-Art Dump Live, Luscious And Loud - 2012 - https://api.discogs.com/releases/6195859
-cOmaWrek_Presentz:tha_nOdcast (v28) - 2012 - https://api.discogs.com/releases/18671995
-Fabric 66 - 2012 - https://api.discogs.com/masters/595671
-Secret Thirteen Mix 063 - 2013 - https://api.discogs.com/releases/4466198
-SSS Podcast #034 - 2013 - https://api.discogs.com/releases/4570671
-A Strangely Isolated Place SpacesFM Guest Mix - 2013 - https://api.discogs.com/releases/5142323
-Auf Dem Dach Der Welt: Frei Nach Alexander Kluge - 2013 - https://api.discogs.com/releases/5210822
-Secret Thirteen Mix 100 - 2013 - https://api.discogs.com/releases/5274525
-Secret Thirteen Mix 099 - 2013 - https://api.discogs.com/releases/5276217
-Paula Temple Exclusive Mix (Podcast) - 2013 - https://api.discogs.com/releases/11540509
-RA.397 - 2014 - https://api.discogs.com/releases/5269872
-Secret Thirteen Mix 113 - 2014 - https://api.discogs.com/releases/5644059
-E.P. 004 “DJ Edition” - 2014 - https://api.discogs.com/releases/6688171
-Secret Thirteen Mix 120 - 2014 - https://api.discogs.com/releases/7406629
-Guest Mix - Untitled - 2014 - https://api.discogs.com/releases/7681781
-If I Could Explain You It Would Not Be The Same - 2014 - https://api.discogs.com/releases/7875890
-cOmaWrek Presentz tha nOdcast (v73) - 2014 - https://api.discogs.com/releases/18605026
-0010 1110 - 2015 - https://api.discogs.com/releases/6589488
-Groove 154 / CD 63 - 2015 - https://api.discogs.com/releases/6932189
-RA.469 - 2015 - https://api.discogs.com/releases/7061472
-NovaFuture Blog Mix June 2015 - 2015 - https://api.discogs.com/releases/7143710
-FACT Mix 504 - 2015 - https://api.discogs.com/releases/7239234
-Freerotation, Wales (11th July 2015) - 2015 - https://api.discogs.com/releases/7451945
-The Top 100 Tracks Of 2015 - 2015 - https://api.discogs.com/releases/7912029
-RA.500 - 2015 - https://api.discogs.com/releases/8097551
-Podcast ø44 - 2015 - https://api.discogs.com/releases/9181202
-New Brvtalism No. 030 - 2015 - https://api.discogs.com/releases/11210259
-The Revenant (Original Motion Picture Soundtrack) - 2015 - https://api.discogs.com/masters/941604
-Mindcast Mixtape 02/2016 - 2016 - https://api.discogs.com/releases/8173976
-Gradient Creatures - 2016 - https://api.discogs.com/releases/8500741
-Seizame - 2016 - https://api.discogs.com/releases/8509559
-RA.519 - 2016 - https://api.discogs.com/releases/8644265
-Whole Lotta Shakin' Goin’ On - 2016 - https://api.discogs.com/releases/8920161
-Digital Tsunami 110 - 2016 - https://api.discogs.com/releases/9331387
-Fabric 88 - 2016 - https://api.discogs.com/masters/1020467
-Thrènes Mix 009 - 2017 - https://api.discogs.com/releases/9706298
-Raster-Noton. Archiv 4 - 2017 - https://api.discogs.com/releases/10315616
+Freedom - 2011 - https://api.discogs.com/releases/2950856
+Into The Sun - 2012 - https://api.discogs.com/releases/3443333
+Say Or Do - 2012 - https://api.discogs.com/releases/4100024
+Paradise With A Lobotomy - 2012 - https://api.discogs.com/masters/806973
+RA.387 - 2013 - https://api.discogs.com/releases/5047642
+Mothercave - 2013 - https://api.discogs.com/masters/800554
+This Is Not ... - 2014 - https://api.discogs.com/releases/6472180
+All The Things - 2014 - https://api.discogs.com/masters/723952
+Intrinity - 2014 - https://api.discogs.com/masters/1575413
+Diva - 2016 - https://api.discogs.com/releases/9231524
+Live At Planet Uterus - 2016 - https://api.discogs.com/releases/11303910
+Decay Versions Pt. 2 - 2014 - https://api.discogs.com/masters/1143455
+This Is Not - 2015 - https://api.discogs.com/releases/7117597
+Fact Mix 483 - 2015 - https://api.discogs.com/releases/29416675
+Watergate 20 - 2016 - https://api.discogs.com/releases/8310605
+Nubreed Global Underground - 2018 - https://api.discogs.com/masters/1476264
+Get Lost VI - 2013 - https://api.discogs.com/masters/576219
+Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
+Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
+Offcast #10 - 2012 - https://api.discogs.com/releases/3838304
+Wild East - 2012 - https://api.discogs.com/releases/3920246
+Untitled - 2012 - https://api.discogs.com/releases/4328304
+Channel Zoo Compilation 001 - 2012 - https://api.discogs.com/releases/6843990
+This Is Not ... - 2012 - https://api.discogs.com/releases/9929192
+Futur II - 2012 - https://api.discogs.com/masters/1046292
+Get Lost VI - 2013 - https://api.discogs.com/masters/576219
+FATPOD 34 - 2014 - https://api.discogs.com/releases/5796726
+Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
+This Is Not - 2015 - https://api.discogs.com/releases/7117597
+Radio Cómeme: Bon Voyage 01 - 2015 - https://api.discogs.com/releases/7704332
+Dekmantel Podcast 022 - 2015 - https://api.discogs.com/releases/8398274
+Cxemcast 037 - 2016 - https://api.discogs.com/releases/27578076
+2 The Sky  - 2016 - https://api.discogs.com/masters/1004656
+Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
+Planet Giegling Tour EP - 2017 - https://api.discogs.com/releases/9780772
 DJ-Kicks - 2017 - https://api.discogs.com/masters/1218049
-HC-PvC - Bipolar - 2018 - https://api.discogs.com/releases/11396052
-Mantis Radio 257 + Elementz Of Noise - 2018 - https://api.discogs.com/releases/11660665
-Archaic Podcast 208 - 2018 - https://api.discogs.com/releases/12728798
-Love Is A Strange Place - 2018 - https://api.discogs.com/releases/13032219
-A Mixed Tape Made By Föllakzoid - 2019 - https://api.discogs.com/releases/13997942
-UNMASKED DISCUSSION 87 - SpunOff - 2019 - https://api.discogs.com/releases/14626414
-RA.671 - 2019 - https://api.discogs.com/releases/18238102
-The Something Something #38 pt. 1 - 2019 - https://api.discogs.com/releases/23760095
-'Infinité ∞² für Éliane Radigue - 2020 - https://api.discogs.com/releases/14872301
-Bleep 100 Tracks 2020 - 2020 - https://api.discogs.com/releases/16844877
-Isolatedmix 102 - 2020 - https://api.discogs.com/releases/17342593
-Bleep 100 Tracks 2021 - 2021 - https://api.discogs.com/releases/23174816
-NE338: Pierce With Arrow - 2021 - https://api.discogs.com/releases/23453936
-A Tribute To Ryuichi Sakamoto - To The Moon And Back - 2022 - https://api.discogs.com/masters/2891335
-30+20 (30 Artists Celebrate 30 Years Of Neural + 20 Of Crónica) - 2023 - https://api.discogs.com/releases/30794415
-Micro Ambient Music (Tribute To Ryuichi Sakamoto) - 2023 - https://api.discogs.com/masters/3188574
-Travesía - 2023 - https://api.discogs.com/masters/3084788
-Île Europa Vol.3: Le Naufrage Des écumes  - 2024 - https://api.discogs.com/releases/30406202
-Tribute To Ryuichi Sakamoto "Micro Ambient Music" Vol. 3 - Desconocido - https://api.discogs.com/releases/31869707
-Moto.tronic - 2003 - https://api.discogs.com/masters/233328
-Kraftwerk Kover Kollektion 3 - 2006 - https://api.discogs.com/releases/3453931
-Bricolages - 2006 - https://api.discogs.com/masters/34634
-DJ Mix - 2009 - https://api.discogs.com/releases/4794400
-Bastards - 2012 - https://api.discogs.com/masters/492948
-Peregrination - 2013 - https://api.discogs.com/releases/4753553
-Artist Mix - 2015 - https://api.discogs.com/releases/7938976
-Descanting Works - 2018 - https://api.discogs.com/masters/2161927
