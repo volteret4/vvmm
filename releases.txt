@@ -1,48 +1,154 @@
 Listado de releases del artista:
-Dub In Ambient - 1996 - https://api.discogs.com/releases/28985
-Skunk - 1997 - https://api.discogs.com/releases/299289
-Madness / Monkey Crew - 1997 - https://api.discogs.com/releases/1401488
-Enemy? Or Friend!? - 1998 - https://api.discogs.com/masters/468661
-Enemy Or Friend - 1998 - https://api.discogs.com/masters/647134
-Ledo - 2000 - https://api.discogs.com/releases/7362855
-Versus - 2001 - https://api.discogs.com/releases/459128
-Strange Affair Versus Moony In The Storm - 2001 - https://api.discogs.com/releases/14343168
-Mirage - 2017 - https://api.discogs.com/releases/13269375
-Moth - 1999 - https://api.discogs.com/releases/7569973
-InDo - 2000 - https://api.discogs.com/masters/2516119
-Aoharu Youth - 2002 - https://api.discogs.com/releases/2259024
-Isolated Audio Players 2 - 2002 - https://api.discogs.com/releases/2369730
-Yumegiwa Last Boy / Aoharu Youth - 2002 - https://api.discogs.com/releases/7029362
-Summer Of Rainbow 97 - 1997 - https://api.discogs.com/masters/3466624
-Moth - 1999 - https://api.discogs.com/releases/7569973
-Phat Waxx - 2004 - https://api.discogs.com/releases/3119073
-Sympathy In Chaos 3 - 1999 - https://api.discogs.com/masters/1771564
-Temple Of Dub - 1999 - https://api.discogs.com/masters/108351
-Meetings With Remarkable Men - 2000 - https://api.discogs.com/releases/2657518
-海象 (セイウチ) - 2000 - https://api.discogs.com/masters/1320240
-InDo - 2000 - https://api.discogs.com/masters/2516119
-Stone.Scissors.Paper. 02.Scissors - 2001 - https://api.discogs.com/masters/982323
-Bande Originale Du Film Demonlover - 2002 - https://api.discogs.com/masters/620736
-Earth Octave Lounge Vol. 1 - 2002 - https://api.discogs.com/masters/759664
-Summer Of Rainbow 97 - 1997 - https://api.discogs.com/masters/3466624
-NS Comfusion - Tokyo Tech Breakbeats - 1998 - https://api.discogs.com/masters/177142
-NS Comfusion EP - 1998 - https://api.discogs.com/masters/3126270
-Tokyo Tech - Breakbeats 2 - 1999 - https://api.discogs.com/releases/558594
-Tokyo Tech - Breakbeats 2 - 1999 - https://api.discogs.com/releases/4608920
-House Meister Vol. IV - 1999 - https://api.discogs.com/releases/9136176
-Sympathy In Chaos 3 - 1999 - https://api.discogs.com/masters/1771564
-Temple Of Dub - 1999 - https://api.discogs.com/masters/108351
-InDo - 2000 - https://api.discogs.com/masters/2516119
-E2-E4 2001 - Inspiration From E2-E4 - 2001 - https://api.discogs.com/masters/1205903
-Stone.Scissors.Paper. 02.Scissors - 2001 - https://api.discogs.com/masters/982323
-Stone / Scissors EP - 2002 - https://api.discogs.com/releases/266533
-PingPong (Original Motion Picture Soundtrack) - 2002 - https://api.discogs.com/releases/330419
-Isolated Audio Players 2 - 2002 - https://api.discogs.com/releases/2369730
-Ping Pong Digest Sampler - 2002 - https://api.discogs.com/releases/15829223
-Bande Originale Du Film Demonlover - 2002 - https://api.discogs.com/masters/620736
-Earth Octave Lounge Vol. 1 - 2002 - https://api.discogs.com/masters/759664
-Opal Phunky Ambient Electronika Harukaze Compilation - 2003 - https://api.discogs.com/releases/8085048
-Phat Waxx - 2004 - https://api.discogs.com/releases/3119073
-Virtual Dreams II (Ambient Explorations In The House & Techno Age, Japan 1993-1999) - 2024 - https://api.discogs.com/masters/3626072
-Bande Originale Du Film Demonlover - 2002 - https://api.discogs.com/masters/620736
-Earth Octave Lounge Vol. 1 - 2002 - https://api.discogs.com/masters/759664
+新中国 - 1972 - https://api.discogs.com/masters/1616067
+百姓は楽し = Hyakusho Wa Tanoshi / 白毛女 = Hakumojo - 1972 - https://api.discogs.com/masters/3470062
+Benzaiten - 1976 - https://api.discogs.com/masters/540091
+Osamu - 1977 - https://api.discogs.com/masters/277545
+Masterless Samurai - 1980 - https://api.discogs.com/masters/311605
+Say You Will - 1981 - https://api.discogs.com/masters/673531
+Dragon King - 1981 - https://api.discogs.com/masters/442293
+Face To Face - 1983 - https://api.discogs.com/masters/520926
+Heavensent - 1984 - https://api.discogs.com/releases/2473098
+Thru Cosmic Doors - 1984 - https://api.discogs.com/releases/2473101
+Heavensent / Apsaras - 1984 - https://api.discogs.com/releases/3660100
+The Source - 1984 - https://api.discogs.com/masters/97739
+Face To Face - 1985 - https://api.discogs.com/releases/25157911
+The Bronze Mirror - 1987 - https://api.discogs.com/releases/17570089
+FM Shrine - 1987 - https://api.discogs.com/releases/30260075
+イン・マインズ・ウェイ = In Minds Way - 1987 - https://api.discogs.com/masters/967580
+FMシュライン = FM Shrine  - 1987 - https://api.discogs.com/masters/967592
+Passages - 1987 - https://api.discogs.com/masters/211142
+Silky Age - 1988 - https://api.discogs.com/releases/23619425
+California Roll - 1988 - https://api.discogs.com/masters/459984
+Sweet Chaos - 1989 - https://api.discogs.com/masters/540093
+Mandala = 曼荼羅 - 1991 - https://api.discogs.com/masters/226813
+Behind The Light - 1992 - https://api.discogs.com/masters/766254
+Beyond The Circle - 1995 - https://api.discogs.com/releases/7196481
+Beyond The Circle - 1996 - https://api.discogs.com/masters/282540
+Breath Of Jade - 2006 - https://api.discogs.com/releases/2100918
+The Sacred Land:  NHK HD Documentary Soundtrack - 2010 - https://api.discogs.com/releases/4233458
+The Early Years 1972-1981 - 2019 - https://api.discogs.com/masters/1617472
+Invisible Man / Say You Will - Desconocido - https://api.discogs.com/releases/2831965
+I Didn't Have To Try To Love You - 1987 - https://api.discogs.com/releases/15267338
+Atmospheres - 1987 - https://api.discogs.com/masters/389311
+Whisper - 1988 - https://api.discogs.com/masters/2381962
+Crazy Emotion - 1988 - https://api.discogs.com/masters/2679608
+Crazy Emotion - 1988 - https://api.discogs.com/masters/889420
+Disco Disco Disco - 1989 - https://api.discogs.com/releases/1427739
+Fly Away - 1991 - https://api.discogs.com/masters/1715803
+フライング･ハイ = Flying High - 1995 - https://api.discogs.com/releases/17506525
+Woman In Love - 1996 - https://api.discogs.com/releases/14792096
+Longing For You  / Casanova - 2001 - https://api.discogs.com/releases/15460467
+Christmas Through The Gateway - 2006 - https://api.discogs.com/releases/2145977
+Forever Tonight - 2007 - https://api.discogs.com/releases/1176695
+Make Over - 2007 - https://api.discogs.com/releases/1176705
+Nichiren - 2010 - https://api.discogs.com/releases/5629344
+Kyori - Innervisions - 1987 - https://api.discogs.com/masters/554874
+Woman In Love - 1996 - https://api.discogs.com/releases/14792096
+Christmas Through The Gateway - 2006 - https://api.discogs.com/releases/2145977
+Forever Tonight - 2007 - https://api.discogs.com/releases/1176695
+Make Over - 2007 - https://api.discogs.com/releases/1176705
+真冬の帰り道 / 北国のチャペル - 1967 - https://api.discogs.com/masters/2702408
+教えておくれ / 愛のささやき - 1968 - https://api.discogs.com/releases/8596318
+不機嫌な水溜り / Hello! Baby My Love - 1968 - https://api.discogs.com/releases/23530106
+砂のお城 / 雲を追いかけて - 1969 - https://api.discogs.com/releases/8798363
+大蛇の唄 = Boa Constrictor - 1970 - https://api.discogs.com/masters/2381761
+洋子 - 1971 - https://api.discogs.com/masters/1641637
+Mioと11ぴきのネコ - 1972 - https://api.discogs.com/releases/6987457
+To The New World - 1977 - https://api.discogs.com/masters/1254171
+Spark In The Dark - 1977 - https://api.discogs.com/masters/529449
+Love Light - 1978 - https://api.discogs.com/masters/302661
+真冬の帰り道 - 1979 - https://api.discogs.com/releases/29123599
+小夜 - 1979 - https://api.discogs.com/masters/1882185
+The World Within - 1979 - https://api.discogs.com/masters/140910
+Bande Originale Du Film Shōgun - 1980 - https://api.discogs.com/masters/339127
+Group Sounds Goodies Vol. 5 = グリープ・サウンズ・グッディーズ Vol.5 - 1981 - https://api.discogs.com/releases/18537493
+Echoes & Images - 1981 - https://api.discogs.com/masters/657719
+We're The Winners - 1981 - https://api.discogs.com/masters/741459
+Vibration - 1982 - https://api.discogs.com/masters/2368411
+Missin' Twenty Grand - 1982 - https://api.discogs.com/masters/919598
+Stranger's Eyes - 1984 - https://api.discogs.com/masters/997926
+Music From The Motion Picture "Alamo Bay" - 1985 - https://api.discogs.com/masters/228416
+Count Three & Pray - 1986 - https://api.discogs.com/masters/64905
+Atmospheres - 1986 - https://api.discogs.com/masters/154998
+I Didn't Have To Try To Love You - 1987 - https://api.discogs.com/releases/15267338
+Freedom At Midnight - 1987 - https://api.discogs.com/masters/179029
+Kyori - Innervisions - 1987 - https://api.discogs.com/masters/554874
+Best Of Berlin 1979 - 1988 - 1988 - https://api.discogs.com/masters/64925
+Walking A Changing Line - 1988 - https://api.discogs.com/masters/290687
+Tokyo Rose - 1989 - https://api.discogs.com/masters/87415
+Off The Shelf - 1993 - https://api.discogs.com/releases/11308265
+The Hours Between Night And Day - 1993 - https://api.discogs.com/masters/196303
+Free Association - 1994 - https://api.discogs.com/masters/878485
+Among The Stars - 1994 - https://api.discogs.com/masters/1067310
+OASY王国 - 1994 - https://api.discogs.com/masters/1052660
+Hemispheres  - 1995 - https://api.discogs.com/masters/930592
+Music By Ry Cooder - 1995 - https://api.discogs.com/masters/278580
+Secrets Of The World - 1996 - https://api.discogs.com/releases/1247715
+Asia Music - 1996 - https://api.discogs.com/releases/1863771
+Panorama - 1996 - https://api.discogs.com/releases/7655796
+Woman In Love - 1996 - https://api.discogs.com/releases/14792096
+Spirits Of Nature 3 - 1997 - https://api.discogs.com/releases/1373992
+日本人 - 1998 - https://api.discogs.com/masters/97736
+Longing For You  / Casanova - 2001 - https://api.discogs.com/releases/15460467
+Love, Peace & Poetry (Japanese Psychedelic Music) - 2001 - https://api.discogs.com/masters/97740
+Zen And The Art Of Chilling - Volume Two - 2002 - https://api.discogs.com/releases/2213131
+Things I Wish I Would Have Said - 2004 - https://api.discogs.com/releases/11005823
+Christmas Through The Gateway - 2006 - https://api.discogs.com/releases/2145977
+The Soundtracks (The Border / Alamo Bay) - 2006 - https://api.discogs.com/masters/1406360
+Forever Tonight - 2007 - https://api.discogs.com/releases/1176695
+Make Over - 2007 - https://api.discogs.com/releases/1176705
+The UFO Has Landed - 2008 - https://api.discogs.com/masters/613341
+Battlestar Galactica: Season 4 (Original Soundtrack From The Sci Fi Channel Television Series) - 2009 - https://api.discogs.com/releases/2765769
+Nichiren - 2010 - https://api.discogs.com/releases/5629344
+SOCOM 4: U.S. Navy SEALs (Original Video Game Soundtrack) - 2011 - https://api.discogs.com/releases/3447408
+For Those Who Love / We're The Winners - 2011 - https://api.discogs.com/masters/1785642
+Four Dreams - 2012 - https://api.discogs.com/masters/513415
+Magic / Echoes & Images - 2014 - https://api.discogs.com/releases/6523553
+Soundtracks - 2014 - https://api.discogs.com/releases/9390241
+Benzaiten - 2015 - https://api.discogs.com/masters/889709
+Godzilla: King Of The Monsters (Original Motion Picture Soundtrack) - 2019 - https://api.discogs.com/masters/1613654
+Far East! Far Out! - 2020 - https://api.discogs.com/releases/16095688
+Ghost Of Tsushima (Music From The Video Game) - 2020 - https://api.discogs.com/masters/1783941
+シリウスの涙 - Desconocido - https://api.discogs.com/releases/10363556
+East Meets West Sound Sampler - 1986 - https://api.discogs.com/releases/10346165
+CBS Records Real Good Music - 1986 - https://api.discogs.com/releases/32196153
+Atmósferas - 1986 - https://api.discogs.com/masters/2031901
+Atmospheres - 1986 - https://api.discogs.com/masters/154998
+Atmospheres - 1987 - https://api.discogs.com/masters/389311
+Reflections - Musik Wie Ein Schöner Traum - 1987 - https://api.discogs.com/masters/1590636
+No Boundaries - 1988 - https://api.discogs.com/masters/848831
+Alternatives - 1989 - https://api.discogs.com/masters/2059591
+Best Of Mesa Records & Bluemoon Recordings - 1990 - https://api.discogs.com/releases/25292398
+This Is Higher Octave Music Volume 2 - 1991 - https://api.discogs.com/releases/9878148
+Higher Octave Music - 1992 - https://api.discogs.com/releases/7605181
+This Is Higher Octave Music Volume III - 1993 - https://api.discogs.com/releases/13873871
+Night Collection - 1993 - https://api.discogs.com/masters/970132
+Soul Chasers Volume II - 1994 - https://api.discogs.com/masters/442570
+Secrets Of The World - 1996 - https://api.discogs.com/releases/1247715
+"Velvet" - 1996 - https://api.discogs.com/releases/6423903
+Panorama - 1996 - https://api.discogs.com/releases/7655796
+"Bluespheres"  - 1996 - https://api.discogs.com/releases/7796723
+Etnica & World Music Vol. 4 - 1996 - https://api.discogs.com/releases/9586763
+Spirits Of Nature 3 - 1997 - https://api.discogs.com/releases/1373992
+Music For A New Millennium - 1999 - https://api.discogs.com/releases/26727935
+World Beat 2002 - 2001 - https://api.discogs.com/releases/15133766
+Sun - 2001 - https://api.discogs.com/masters/1259259
+Senses - 2006 - https://api.discogs.com/releases/5163974
+Free Your Soul - 2014 - https://api.discogs.com/releases/5711457
+Modern Soul - 2019 - https://api.discogs.com/releases/13524685
+The Greater Antilles Sampler - Desconocido - https://api.discogs.com/masters/1541291
+The Source - 1987 - https://api.discogs.com/masters/97739
+Beyond The Circle - 1996 - https://api.discogs.com/masters/282540
+Enigma-Forest-Transit 9 - 1998 - https://api.discogs.com/releases/14382617
+The Very Best Of Rare Groove Vol 31 & 32  - 1999 - https://api.discogs.com/releases/9761323
+Enigma-Forest-Transit 13 - 1999 - https://api.discogs.com/releases/18190999
+Mysterium Magnum III - 1999 - https://api.discogs.com/releases/19862956
+Behind The Light - 2003 - https://api.discogs.com/masters/766254
+The Soundtracks (The Border / Alamo Bay) - 2006 - https://api.discogs.com/masters/1406360
+音楽70 = Ongaku 70 (Vintage Psychedelia In Japan) - 2011 - https://api.discogs.com/masters/1445620
+Benzaiten - 2016 - https://api.discogs.com/masters/540091
+Mysteria - Desconocido - https://api.discogs.com/releases/8997093
+100% Enigmatic Hits Vol.2 - Desconocido - https://api.discogs.com/releases/14629999
+Japan - Desconocido - https://api.discogs.com/releases/30528208
+Love, Peace & Poetry - Japanese Psychedelic Music - Desconocido - https://api.discogs.com/masters/97740
+Freedom At Midnight - Desconocido - https://api.discogs.com/masters/179029
