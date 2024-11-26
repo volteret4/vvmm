@@ -1,37 +1,33 @@
 Listado de releases del artista:
-Freedom - 2011 - https://api.discogs.com/releases/2950856
-Into The Sun - 2012 - https://api.discogs.com/releases/3443333
-Say Or Do - 2012 - https://api.discogs.com/releases/4100024
-Paradise With A Lobotomy - 2012 - https://api.discogs.com/masters/806973
-RA.387 - 2013 - https://api.discogs.com/releases/5047642
-Mothercave - 2013 - https://api.discogs.com/masters/800554
-This Is Not ... - 2014 - https://api.discogs.com/releases/6472180
-All The Things - 2014 - https://api.discogs.com/masters/723952
-Intrinity - 2014 - https://api.discogs.com/masters/1575413
-Diva - 2016 - https://api.discogs.com/releases/9231524
-Live At Planet Uterus - 2016 - https://api.discogs.com/releases/11303910
-Decay Versions Pt. 2 - 2014 - https://api.discogs.com/masters/1143455
-This Is Not - 2015 - https://api.discogs.com/releases/7117597
-Fact Mix 483 - 2015 - https://api.discogs.com/releases/29416675
-Watergate 20 - 2016 - https://api.discogs.com/releases/8310605
-Nubreed Global Underground - 2018 - https://api.discogs.com/masters/1476264
-Get Lost VI - 2013 - https://api.discogs.com/masters/576219
-Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
-Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
-Offcast #10 - 2012 - https://api.discogs.com/releases/3838304
-Wild East - 2012 - https://api.discogs.com/releases/3920246
-Untitled - 2012 - https://api.discogs.com/releases/4328304
-Channel Zoo Compilation 001 - 2012 - https://api.discogs.com/releases/6843990
-This Is Not ... - 2012 - https://api.discogs.com/releases/9929192
-Futur II - 2012 - https://api.discogs.com/masters/1046292
-Get Lost VI - 2013 - https://api.discogs.com/masters/576219
-FATPOD 34 - 2014 - https://api.discogs.com/releases/5796726
-Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
-This Is Not - 2015 - https://api.discogs.com/releases/7117597
-Radio Cómeme: Bon Voyage 01 - 2015 - https://api.discogs.com/releases/7704332
-Dekmantel Podcast 022 - 2015 - https://api.discogs.com/releases/8398274
-Cxemcast 037 - 2016 - https://api.discogs.com/releases/27578076
-2 The Sky  - 2016 - https://api.discogs.com/masters/1004656
-Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
-Planet Giegling Tour EP - 2017 - https://api.discogs.com/releases/9780772
-DJ-Kicks - 2017 - https://api.discogs.com/masters/1218049
+Likemind 01 - 1993 - https://api.discogs.com/masters/170361
+Likemind 02 - 1994 - https://api.discogs.com/masters/503915
+Electric Arc (1995 Mix) - 2020 - https://api.discogs.com/masters/2126095
+La Source - 2020 - https://api.discogs.com/masters/1731426
+Likemind 06 - 2021 - https://api.discogs.com/releases/17858410
+La Source EP #2 - 2021 - https://api.discogs.com/masters/2040355
+Nuron + Fugue 1993​-​1996 - 2021 - https://api.discogs.com/masters/2244664
+DAT Tapes 1993-1994 - 2022 - https://api.discogs.com/masters/2869459
+DAT Tapes Vol 02 - 2024 - https://api.discogs.com/masters/3617440
+Blanchimont - 2024 - https://api.discogs.com/masters/3473254
+ART 5.1 - 1994 - https://api.discogs.com/masters/252141
+Objets D'art 92::95 - 1996 - https://api.discogs.com/releases/50897
+Highway & Landscape 2 (Deep Beats & Chilled Breaks) - 1998 - https://api.discogs.com/releases/228944
+Highway & Landscape - The Journey So Far! - 1999 - https://api.discogs.com/releases/228943
+Lush Life Electronica - 2001 - https://api.discogs.com/masters/651471
+Drum'N Voice Remixed 2 - 2021 - https://api.discogs.com/releases/21012604
+From A Failing Light - 2022 - https://api.discogs.com/masters/2741939
+Jafar's 21st  - 2022 - https://api.discogs.com/masters/3625841
+Jafar's 21st  - 2022 - https://api.discogs.com/masters/3625841
+Disco 4000 - 1993 - https://api.discogs.com/masters/1262856
+The Kudos Digest: Issue A (Is For Apple) - 1995 - https://api.discogs.com/releases/128199
+Freezone 2 : Variations On A Chill - 1995 - https://api.discogs.com/masters/45511
+Checkone - 1998 - https://api.discogs.com/masters/209967
+Disco 4000 - 1993 - https://api.discogs.com/masters/1262856
+The Kudos Digest: Issue A (Is For Apple) - 1995 - https://api.discogs.com/releases/128199
+Likethemes - 1995 - https://api.discogs.com/masters/276608
+Freezone 2 : Variations On A Chill - 1995 - https://api.discogs.com/masters/45511
+Checkone - Applied Rhythmic Technology - 1996 - https://api.discogs.com/masters/209967
+Likemind 04 - 1996 - https://api.discogs.com/masters/15212
+Native Sampler Three : Natural Instinct - 2001 - https://api.discogs.com/masters/206101
+Sound Of Thought 08 - 2012 - https://api.discogs.com/releases/4942307
+Phonica Mix Series 30: Lone - 2016 - https://api.discogs.com/releases/15290884
