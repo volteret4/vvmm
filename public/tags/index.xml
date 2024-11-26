@@ -53,24 +53,6 @@
     </item>
     
     <item>
-      <title>deephouse</title>
-      <link>/tags/deephouse/</link>
-      <pubDate>Sun, 24 Nov 2024 05:18:11 +0100</pubDate>
-      
-      <guid>/tags/deephouse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>techno</title>
-      <link>/tags/techno/</link>
-      <pubDate>Sun, 24 Nov 2024 05:18:11 +0100</pubDate>
-      
-      <guid>/tags/techno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>techno jazz</title>
       <link>/tags/techno-jazz/</link>
       <pubDate>Fri, 19 Jul 2024 14:42:03 +0200</pubDate>
@@ -355,6 +337,15 @@
       <pubDate>Thu, 20 Jun 2024 18:59:54 +0200</pubDate>
       
       <guid>/tags/post-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techno</title>
+      <link>/tags/techno/</link>
+      <pubDate>Thu, 20 Jun 2024 18:29:33 +0200</pubDate>
+      
+      <guid>/tags/techno/</guid>
       <description></description>
     </item>
     

@@ -1,272 +1,37 @@
 Listado de releases del artista:
-Damil 85 - 1997 - https://api.discogs.com/releases/80053
-Split - 1998 - https://api.discogs.com/releases/81351
-Betty's Lament - 1998 - https://api.discogs.com/releases/94695
-Fahrenheit / Rron - 1998 - https://api.discogs.com/releases/232708
-Beautronics - 1998 - https://api.discogs.com/masters/547082
-Titled, Not Tithed / Island Magic - 1998 - https://api.discogs.com/masters/199952
-Parochi / A Gentle Man - 1999 - https://api.discogs.com/releases/48462
-Dampen - 1999 - https://api.discogs.com/masters/22823
-Digitalis - 1999 - https://api.discogs.com/masters/186171
-Salamander - 1999 - https://api.discogs.com/masters/45014
-Exquisite Honeyed Tart - 2001 - https://api.discogs.com/masters/959087
-Lucky Cat - 2001 - https://api.discogs.com/masters/45009
-Salle D'Isan - 2001 - https://api.discogs.com/masters/45012
-Split - 2002 - https://api.discogs.com/releases/80052
-Common Ground / Little Boy Sitting Up In Bed Looking At The Moon - 2002 - https://api.discogs.com/releases/83586
-Clockwork Menagerie - 2002 - https://api.discogs.com/masters/45016
-Meet Next Life - 2004 - https://api.discogs.com/masters/45020
-Untitled - 2005 - https://api.discogs.com/releases/514146
-Trois Gymnopedies - 2006 - https://api.discogs.com/masters/22830
-Plans Drawn In Pencil - 2006 - https://api.discogs.com/masters/45024
-The Circle – Mix By ISAN (Edition 29) - 2010 - https://api.discogs.com/releases/2200094
-Greencracked / Catgot - 2010 - https://api.discogs.com/releases/2409027
-Glow In The Dark Safari Set - 2010 - https://api.discogs.com/masters/253296
-Eastside - 2011 - https://api.discogs.com/masters/1782341
-Descette - 2012 - https://api.discogs.com/masters/535860
-Glass Bird Movement - 2016 - https://api.discogs.com/masters/1076730
-150416 - 2016 - https://api.discogs.com/masters/1627000
-Nine Simple Works - 2019 - https://api.discogs.com/releases/14242833
-Lamenting Machine - 2019 - https://api.discogs.com/masters/1622825
-ISAN Workshop #1 - 2020 - https://api.discogs.com/releases/15225075
-The Man In The Mountain - 2020 - https://api.discogs.com/masters/3261964
-Nothing Picked And Placed Nowhere - 2020 - https://api.discogs.com/masters/1776869
-Demonstration Tapes - 2022 - https://api.discogs.com/releases/23463794
-Solvent / Lowfish - 1998 - https://api.discogs.com/masters/69686
-Piano Magic / i s a n / Horton Jupiter / The Wisdom Of Harry Remixes - 1999 - https://api.discogs.com/releases/82162
-Two More Hours - 1999 - https://api.discogs.com/releases/88517
-Warp 10 Sampler - 1999 - https://api.discogs.com/releases/580083
-Warp 10 Box - 1999 - https://api.discogs.com/releases/1057351
-Warp10+3 Remixes - 1999 - https://api.discogs.com/masters/2775
-Panic Amigo (Piano Magic Remixed 12") - 2000 - https://api.discogs.com/releases/15127
-Motoring Britain / Motoring Britain Remix EP - 2000 - https://api.discogs.com/releases/3271225
-Putting The Morr Back In Morrissey - 2000 - https://api.discogs.com/masters/43194
-Adaptations - 2000 - https://api.discogs.com/masters/190879
-Snow Robots Volume 2 - 2001 - https://api.discogs.com/releases/3065
-Snow Robots Remixed - 2001 - https://api.discogs.com/releases/43842
-8 Eyes ('96-'99) - 2001 - https://api.discogs.com/releases/126938
-Art Is A Division Of Pain (Remixed – 2) - 2001 - https://api.discogs.com/releases/172534
-Art Is A Division Of Pain (Remixed – Part 5) - 2001 - https://api.discogs.com/masters/650442
-Please Smile My Noise Bleed - 2001 - https://api.discogs.com/masters/44846
-Motoring Britain Remix EP - 2001 - https://api.discogs.com/masters/3521416
-Her Friend The Blue Star - 2002 - https://api.discogs.com/releases/107946
-Nation Solipsiste - 2002 - https://api.discogs.com/releases/753630
-Mixt - 2002 - https://api.discogs.com/masters/2272333
-Goodnight Lovers - 2002 - https://api.discogs.com/masters/22147
-The Academic Rise Of Falling Drifters - 2002 - https://api.discogs.com/masters/15036
-No Space For Dogma (K2O Compilation) - 2002 - https://api.discogs.com/masters/80774
-Reale La Vita CU - Remake EP - 2003 - https://api.discogs.com/releases/141362
-Ghost Boy - 2003 - https://api.discogs.com/releases/162047
-Bowd - 2003 - https://api.discogs.com/releases/198475
-Gooom Tracks Vol. 2.5 - 2003 - https://api.discogs.com/releases/264814
-Paperworks EP - 2003 - https://api.discogs.com/releases/739936
-Fabricate - 2004 - https://api.discogs.com/releases/298872
-Radio Ga Ga Pt. 1 And Pt. 2 - 2004 - https://api.discogs.com/releases/858474
-Radio Ga Ga Pt. 2 - 2004 - https://api.discogs.com/masters/571983
-Bovine Rearrangement - 2004 - https://api.discogs.com/masters/498425
-2ft Deep Ponds - 2004 - https://api.discogs.com/masters/217395
-Buttons & War EP - 2004 - https://api.discogs.com/masters/1636207
-Persze (Remixes) - 2005 - https://api.discogs.com/releases/431958
-Refract!ons - 2005 - https://api.discogs.com/releases/729239
-Remixes Of Ilkae BV4 - 2005 - https://api.discogs.com/masters/280666
-Blamstrain Remixed Part One - 2005 - https://api.discogs.com/masters/11941
-Blamstrain: Remixed - 2005 - https://api.discogs.com/masters/550803
-Elevators And Oscillators - 2005 - https://api.discogs.com/masters/69550
-The Complete Depeche Mode - 2006 - https://api.discogs.com/releases/1489987
-We Died, They Remixed - 2006 - https://api.discogs.com/masters/411277
-With - 2006 - https://api.discogs.com/masters/236212
-Variations - 2006 - https://api.discogs.com/masters/461114
-Radiation Sound / Underwater - 2007 - https://api.discogs.com/releases/1100242
-New Year's Eve EP - 2007 - https://api.discogs.com/releases/1214254
-Radio Subterránea - 2007 - https://api.discogs.com/releases/1413384
-Hello Scotland - 2008 - https://api.discogs.com/releases/1175615
-Lang Remixed - 2008 - https://api.discogs.com/releases/1318469
-Repainted - 2008 - https://api.discogs.com/releases/1465809
-From Anywhere... To Anyone... - 2008 - https://api.discogs.com/releases/1483152
-Blue Sky Remixes - 2008 - https://api.discogs.com/releases/1486671
-Remixes - 2008 - https://api.discogs.com/releases/1533179
-Butterfly's Wing - 2008 - https://api.discogs.com/masters/1285705
-Losing Places - 2008 - https://api.discogs.com/masters/1751645
-EP3 - 2008 - https://api.discogs.com/masters/1278579
-Spoons - A Collection Of Remixes, Collaborations & Interpretations - 2008 - https://api.discogs.com/masters/1401470
-You Are An Annual / The Stars In Autumn + Remixes - 2008 - https://api.discogs.com/masters/171305
-Senses On Fire - 2008 - https://api.discogs.com/masters/44530
-Warp20 (Classics²) Warp10 Influences / Warp10 Remixes - 2009 - https://api.discogs.com/releases/1897233
-Warp20 (1989-2009) - 2009 - https://api.discogs.com/releases/1939634
-Lost In Weirdness - 2009 - https://api.discogs.com/releases/1964916
-Steps To Further Winter - 2009 - https://api.discogs.com/masters/1524554
-[Sylt] Remixes - 2009 - https://api.discogs.com/masters/248297
-The Floating World (Remixes) - 2010 - https://api.discogs.com/releases/2650147
-Summer Days EP - 2010 - https://api.discogs.com/releases/2838782
-Autistici Reworked: Resonating Wires - 2010 - https://api.discogs.com/releases/3196697
-Painted Circuits - 2010 - https://api.discogs.com/releases/26737940
-Protecting Hands (Remixes) - 2010 - https://api.discogs.com/masters/795397
-B Remixes - 2011 - https://api.discogs.com/releases/3162273
-No.1 DVD & Remixes - 2011 - https://api.discogs.com/releases/4731092
-A Sailor Lost Around The World - 2011 - https://api.discogs.com/masters/349051
-Flicker - 2012 - https://api.discogs.com/releases/3871307
-Shakkei Remixed - 2012 - https://api.discogs.com/releases/4186462
-Rise And Fall Of Academic Drifting / The Academic Rise Of Falling Drifters - 2012 - https://api.discogs.com/releases/7808786
-Lido Remixes - 2012 - https://api.discogs.com/masters/2778260
-No.1 Remixes - 2012 - https://api.discogs.com/masters/1600155
-Muuri - 2012 - https://api.discogs.com/masters/1471862
-Rare Vintage Love - 2013 - https://api.discogs.com/releases/4912261
-The Verge Of Winter - 2013 - https://api.discogs.com/releases/6065730
-Floating Remixes - 2013 - https://api.discogs.com/releases/8609254
-Delius Remixed - 2013 - https://api.discogs.com/releases/11423042
-Rare Vintage Love / Remixes - 2013 - https://api.discogs.com/releases/25944898
-Ф.А.К. 2 - 2014 - https://api.discogs.com/releases/9818073
-Monument EP - 2014 - https://api.discogs.com/masters/423201
-Collection - 2014 - https://api.discogs.com/masters/743368
-Different Activities, Similar Diversions / Losing Places EP - 2015 - https://api.discogs.com/masters/919266
-Unrestricted - 2015 - https://api.discogs.com/masters/1791431
-All Similarities & Technical Difficulties End Here - 2015 - https://api.discogs.com/masters/955390
-Corolla Remixes - 2017 - https://api.discogs.com/releases/10878691
-Love Canticles - 2017 - https://api.discogs.com/masters/1278527
-Drops Remixes - 2018 - https://api.discogs.com/releases/11464210
-Found Sound 2 - 2020 - https://api.discogs.com/masters/1851129
-Meseerdö - 2020 - https://api.discogs.com/masters/1814524
-Exciter | The 12" Singles - 2022 - https://api.discogs.com/masters/2668217
-Library Music: Volume One - 2022 - https://api.discogs.com/masters/3264997
-Ocean Club Presents Marke B 05 Berlin Labels - 2005 - https://api.discogs.com/releases/444096
-The Failure - 2007 - https://api.discogs.com/masters/245622
-Live Evel - 2008 - https://api.discogs.com/releases/1295052
-Rough Imaginary - 2016 - https://api.discogs.com/masters/1626998
-Sleep Hath Arrested Us / Penguin New Writing - 1999 - https://api.discogs.com/releases/101529
-Delius Remixed - 2013 - https://api.discogs.com/releases/11423042
-Putting The Morr Back In Morrissey - 2000 - https://api.discogs.com/masters/43194
-The Academic Rise Of Falling Drifters - 2002 - https://api.discogs.com/masters/15036
-Discard EP - 2002 - https://api.discogs.com/masters/266452
-Blue Skied An' Clear (A Morr Music Compilation) - 2002 - https://api.discogs.com/masters/60921
-Morr Music Japan Tour 2004 - 2004 - https://api.discogs.com/releases/311150
-Morr Music Japan Tour 2004 - 2004 - https://api.discogs.com/releases/30417149
-2ft Deep Ponds - 2004 - https://api.discogs.com/masters/217395
-Stings & Dum Machines - 2005 - https://api.discogs.com/masters/152160
-The More Human Than Human Remixes - 2005 - https://api.discogs.com/masters/327833
-Untitled - 2010 - https://api.discogs.com/releases/2445079
-No Futuro - 2013 - https://api.discogs.com/releases/4242342
-Lo-Fi Lo-Ve - 2017 - https://api.discogs.com/masters/1315093
-The Green Man - 2020 - https://api.discogs.com/releases/16185925
-The Man In The Mountain - 2020 - https://api.discogs.com/masters/3261964
-Splintered Roots EP - 1996 - https://api.discogs.com/masters/592081
-Leaders In Lightcontrol Extended Player - 1997 - https://api.discogs.com/releases/88988
-Nocturnal Electrics Volume One - 1998 - https://api.discogs.com/releases/100517
-The Argument - 1998 - https://api.discogs.com/releases/1520079
-Piano Magic / i s a n / Horton Jupiter / The Wisdom Of Harry Remixes - 1999 - https://api.discogs.com/releases/82162
-Will Our Children Thank Us - 1999 - https://api.discogs.com/releases/100502
-The Tell-Tale Signs Of Earworm - 1999 - https://api.discogs.com/releases/121152
-Little Darla Has A Treat For You, V.11, Winter '99 - 1999 - https://api.discogs.com/releases/131098
-The Trip (The Original Soundtrack From The Channel 4 Series) - 1999 - https://api.discogs.com/releases/316892
-Euromuse Chart 99 - 1999 - https://api.discogs.com/releases/14052999
-Casablanca - 1999 - https://api.discogs.com/masters/89454
-Darla 100 (1994-2000) - 2000 - https://api.discogs.com/releases/172025
-EP No 7 (Groovi Hell) - 2000 - https://api.discogs.com/releases/248511
-Rough Cuts 2 - 2000 - https://api.discogs.com/releases/1823964
-Dardsky - 2000 - https://api.discogs.com/releases/2738768
-Afterhours #11:  You-Are-Photogenic Issue - 2000 - https://api.discogs.com/releases/3367289
-Putting The Morr Back In Morrissey - 2000 - https://api.discogs.com/masters/43194
-Cashier Escape Route - 2000 - https://api.discogs.com/masters/157955
-Console Yourself - 2000 - https://api.discogs.com/masters/83385
-Snow Robots Volume 2 - 2001 - https://api.discogs.com/releases/3065
-Hotel Stadt Berlin (A Showcase Of New Electronic Record Labels From Berlin) - 2001 - https://api.discogs.com/releases/9482
-1 / 3 - 2001 - https://api.discogs.com/releases/15085
-Sweet Electro - 2001 - https://api.discogs.com/releases/79356
-Snowstorm (A Tribute To Galaxie 500) - 2001 - https://api.discogs.com/releases/121143
-Calming Park II - 2001 - https://api.discogs.com/releases/224650
-30 Minute Set - Part 1 - 2001 - https://api.discogs.com/releases/5309999
-Gooom Tracks Vol. 1 - 2001 - https://api.discogs.com/masters/82566
-Vertical Forms - 2001 - https://api.discogs.com/masters/13597
-Martin Gore DJ Set - 2001 - https://api.discogs.com/masters/694724
-The Blue Room (70 Mins Of Lazy Space Grooves) - 2002 - https://api.discogs.com/releases/63182
-Morr Music - A Letter To Rosario - 2002 - https://api.discogs.com/releases/345864
-Electronic Imperiah: IDM Factory - 2002 - https://api.discogs.com/releases/4449027
-Documenta - 2002 - https://api.discogs.com/masters/59431
-Blue Skied An' Clear (A Morr Music Compilation) - 2002 - https://api.discogs.com/masters/60921
-Jukebox 45 Singles Issue 8 - 2003 - https://api.discogs.com/releases/225433
-Ambient 2003 - 2003 - https://api.discogs.com/releases/282583
-Afterhours #18:  A Child Will Imitate His Parents (Summer 2003) - 2003 - https://api.discogs.com/releases/756019
-VPRO 747 AM De Avonden Xmas 2003 - 2003 - https://api.discogs.com/releases/1891444
-Robots Are People Too, Disc 1 - 2003 - https://api.discogs.com/releases/2882081
-555CD55 - 2003 - https://api.discogs.com/releases/19088614
-555CD55 - 2003 - https://api.discogs.com/masters/175435
-Morr Music Japan Tour 2004 - 2004 - https://api.discogs.com/releases/311150
-Trax #79 - 2004 - https://api.discogs.com/releases/356103
-Новости Подводного Ижевска IV - 2004 - https://api.discogs.com/releases/489985
-15/15:  Collaborations Of Sound And Visuals - 2004 - https://api.discogs.com/releases/755783
-Afterhours #20:  Anniversary Special (Summer 2004) - 2004 - https://api.discogs.com/releases/756609
-Spring Fever! - 2004 - https://api.discogs.com/releases/2446323
-Today's Best Music - 2004 - https://api.discogs.com/releases/3356671
-On Air / 1 By Air France - 2004 - https://api.discogs.com/releases/12065430
-Morr Music Japan Tour 2004 - 2004 - https://api.discogs.com/releases/30417149
-Le Conseguenze Dell'Amore (Original Soundtrack) - 2004 - https://api.discogs.com/masters/388120
-Ocean Club Presents Marke B 05 Berlin Labels - 2005 - https://api.discogs.com/releases/444096
-Tripleonetwotripleonetwocheck - 2005 - https://api.discogs.com/releases/794099
-Hello Greece! 14 Songs From Morr Music - 2005 - https://api.discogs.com/releases/1562892
-Today's Best Music - Το Juke Box Του Rock+Roll - 2005 - https://api.discogs.com/releases/4509169
-Stings & Dum Machines - 2005 - https://api.discogs.com/masters/152160
-Ideal (Original Soundtrack) - 2005 - https://api.discogs.com/masters/161727
-Draumar Um Kalt Sumar - 2006 - https://api.discogs.com/releases/713055
-L'Amico Di Famiglia (Original Soundtrack) - 2006 - https://api.discogs.com/releases/1208395
-Red De Lux - Nueva Sensibilidad Electrónica - 2006 - https://api.discogs.com/releases/2688181
-Bank Robber Music Compilation Vol. 7 - 2006 - https://api.discogs.com/releases/9893575
-With - 2006 - https://api.discogs.com/masters/236212
-Communication Defines Culture - 2006 - https://api.discogs.com/masters/288496
-Brittle Behaviour - 2007 - https://api.discogs.com/releases/883504
-Glaube - 2007 - https://api.discogs.com/releases/910474
-Miso Mix-Tape Three - 2007 - https://api.discogs.com/releases/958456
-Music For Hairy Scary Monsters - 2007 - https://api.discogs.com/releases/1004191
-Natura Music Collection (Dorado) - 2007 - https://api.discogs.com/releases/2020327
-Morr Music - 2007 - https://api.discogs.com/releases/3067821
-Magic Waves - 2007 - https://api.discogs.com/masters/307848
-Arctic Circle Presents...That Fuzzy Feeling - 2007 - https://api.discogs.com/masters/892334
-A Number Of Small Things - A Collection Of Morr Music Singles From 2001-2007 - 2007 - https://api.discogs.com/masters/892338
-Music For Museums - 2008 - https://api.discogs.com/releases/1409085
-14 Tracks In Love With The Cover Version - 2008 - https://api.discogs.com/releases/3135826
-Summer On Mars Mix - 2009 - https://api.discogs.com/releases/2244898
-Hauntology: A Peculiar Sonic Fiction - 2009 - https://api.discogs.com/releases/3520233
-Not Given Lightly - A Tribute To The Giant Golden Book Of New Zealands Alternative Music Scene - 2009 - https://api.discogs.com/masters/175141
-14 Tracks: Hypnagogic Heat Haze - 2010 - https://api.discogs.com/releases/3412775
-Morr Music Compilation - Berlin Music Week 2010 - 2010 - https://api.discogs.com/releases/4871530
-Hydrogen Dukebox Presents Sing + Play - 2010 - https://api.discogs.com/masters/1791731
-31 Songs For Japan - 2011 - https://api.discogs.com/releases/2900734
-Mind Warp Minimix 13 - 2011 - https://api.discogs.com/releases/5078244
-Cosmos - 2011 - https://api.discogs.com/releases/6556217
-Morr Music - 2011 - https://api.discogs.com/releases/13052184
-Minute Papillon - 2011 - https://api.discogs.com/masters/3633180
-Sequence1 - 2011 - https://api.discogs.com/masters/366889
-Isolatedmix 24 - 2012 - https://api.discogs.com/releases/4751541
-Sgustok Magazine Podcast 040 - 2013 - https://api.discogs.com/releases/4611909
-Music And Migration III - 2013 - https://api.discogs.com/releases/4877897
-Concepto Mix - 2014 - https://api.discogs.com/releases/5585746
-Fizzy: Early Morr Music – A Label Selection by Sam Valenti IV - 2014 - https://api.discogs.com/releases/5807299
-Isolatedmix 46 - 2014 - https://api.discogs.com/releases/5889745
-Sounds Of A Tired City #21: Home Normal - 2014 - https://api.discogs.com/releases/6644495
-Vanished Moments - 2014 - https://api.discogs.com/releases/20560417
-Elements I-V - 2014 - https://api.discogs.com/masters/1119065
-Dayalu / For Nepal - 2015 - https://api.discogs.com/releases/7049612
-Terminal Dream New Year Mixtape 2016 - 2015 - https://api.discogs.com/releases/8069070
-Café Del Mar - Volumen Veintiuno - 2015 - https://api.discogs.com/masters/925095
-Prietenii - 2016 - https://api.discogs.com/releases/9519506
-Home To Wander - 2016 - https://api.discogs.com/releases/9539624
-Touched 3 - 2016 - https://api.discogs.com/masters/1142434
-Rough Imaginary - 2016 - https://api.discogs.com/masters/1626998
-Paolo Sorrentino: Music For Films - 2017 - https://api.discogs.com/masters/1389252
-Hauntology - 2017 - https://api.discogs.com/masters/1449711
-Salaam For Yemen - 2018 - https://api.discogs.com/masters/1486436
-Tim Peaks (Songs For A Late-Night Diner) - 2019 - https://api.discogs.com/masters/1650371
-Drifts & Flurries (A Second Language Collectanea) - 2021 - https://api.discogs.com/releases/17188285
-Found Sound 3 - 2022 - https://api.discogs.com/masters/2935387
-Mind Maps 4 - 2023 - https://api.discogs.com/releases/27795762
-Warp 10th Anniversary - Desconocido - https://api.discogs.com/releases/2739564
-Autonomous Tibetan Orphan Press - 1999 - https://api.discogs.com/releases/23973449
-Please Smile My Noise Bleed - 2002 - https://api.discogs.com/masters/44846
-The Remix Album 2002 - 2002 - https://api.discogs.com/masters/1334266
-Digital Collection Vol.3.  - 2005 - https://api.discogs.com/releases/8334783
-Martin L.Gore DJ-Set (UK) - 2005 - https://api.discogs.com/masters/694724
-Diamond Collection - 2006 - https://api.discogs.com/releases/1982655
-Progressive World - 2006 - https://api.discogs.com/releases/5836757
-Stereo MP3 - 2010 - https://api.discogs.com/masters/2257051
-The Home Truths Mix Tape 02.13 - 2013 - https://api.discogs.com/releases/4221787
-Café Del Mar - Volumen Veintiuno - 2015 - https://api.discogs.com/masters/925095
-Mp3 - Desconocido - https://api.discogs.com/releases/7323905
-Blue Skied An' Clear A Morr Music Compilation - Desconocido - https://api.discogs.com/masters/60921
+Freedom - 2011 - https://api.discogs.com/releases/2950856
+Into The Sun - 2012 - https://api.discogs.com/releases/3443333
+Say Or Do - 2012 - https://api.discogs.com/releases/4100024
+Paradise With A Lobotomy - 2012 - https://api.discogs.com/masters/806973
+RA.387 - 2013 - https://api.discogs.com/releases/5047642
+Mothercave - 2013 - https://api.discogs.com/masters/800554
+This Is Not ... - 2014 - https://api.discogs.com/releases/6472180
+All The Things - 2014 - https://api.discogs.com/masters/723952
+Intrinity - 2014 - https://api.discogs.com/masters/1575413
+Diva - 2016 - https://api.discogs.com/releases/9231524
+Live At Planet Uterus - 2016 - https://api.discogs.com/releases/11303910
+Decay Versions Pt. 2 - 2014 - https://api.discogs.com/masters/1143455
+This Is Not - 2015 - https://api.discogs.com/releases/7117597
+Fact Mix 483 - 2015 - https://api.discogs.com/releases/29416675
+Watergate 20 - 2016 - https://api.discogs.com/releases/8310605
+Nubreed Global Underground - 2018 - https://api.discogs.com/masters/1476264
+Get Lost VI - 2013 - https://api.discogs.com/masters/576219
+Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
+Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
+Offcast #10 - 2012 - https://api.discogs.com/releases/3838304
+Wild East - 2012 - https://api.discogs.com/releases/3920246
+Untitled - 2012 - https://api.discogs.com/releases/4328304
+Channel Zoo Compilation 001 - 2012 - https://api.discogs.com/releases/6843990
+This Is Not ... - 2012 - https://api.discogs.com/releases/9929192
+Futur II - 2012 - https://api.discogs.com/masters/1046292
+Get Lost VI - 2013 - https://api.discogs.com/masters/576219
+FATPOD 34 - 2014 - https://api.discogs.com/releases/5796726
+Groove 150 CD 59 - 2014 - https://api.discogs.com/releases/6002784
+This Is Not - 2015 - https://api.discogs.com/releases/7117597
+Radio Cómeme: Bon Voyage 01 - 2015 - https://api.discogs.com/releases/7704332
+Dekmantel Podcast 022 - 2015 - https://api.discogs.com/releases/8398274
+Cxemcast 037 - 2016 - https://api.discogs.com/releases/27578076
+2 The Sky  - 2016 - https://api.discogs.com/masters/1004656
+Fabric 89 - 2016 - https://api.discogs.com/masters/1089337
+Planet Giegling Tour EP - 2017 - https://api.discogs.com/releases/9780772
+DJ-Kicks - 2017 - https://api.discogs.com/masters/1218049
