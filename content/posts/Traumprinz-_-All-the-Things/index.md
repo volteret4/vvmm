@@ -1,6 +1,6 @@
 ---
 title: "Traumprinz - All the Things"
-date: 2024-11-26T19:14:28+01:00
+date: 2024-11-26T19:38:29+01:00
 image: "image.jpeg"
 draft: false
 tags:
