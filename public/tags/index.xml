@@ -6,13 +6,31 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 26 Nov 2024 18:35:44 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Nov 2024 20:22:49 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>earcandy</title>
       <link>/tags/earcandy/</link>
-      <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
+      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
       
       <guid>/tags/earcandy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>house</title>
+      <link>/tags/house/</link>
+      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
+      
+      <guid>/tags/house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synthetizers</title>
+      <link>/tags/synthetizers/</link>
+      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
+      
+      <guid>/tags/synthetizers/</guid>
       <description></description>
     </item>
     
@@ -31,15 +49,6 @@
       <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
       
       <guid>/tags/idm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>synthetizers</title>
-      <link>/tags/synthetizers/</link>
-      <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
-      
-      <guid>/tags/synthetizers/</guid>
       <description></description>
     </item>
     
@@ -76,15 +85,6 @@
       <pubDate>Tue, 16 Jul 2024 19:37:53 +0200</pubDate>
       
       <guid>/tags/deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>house</title>
-      <link>/tags/house/</link>
-      <pubDate>Tue, 16 Jul 2024 19:37:53 +0200</pubDate>
-      
-      <guid>/tags/house/</guid>
       <description></description>
     </item>
     

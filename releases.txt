@@ -1,33 +1,93 @@
 Listado de releases del artista:
-Likemind 01 - 1993 - https://api.discogs.com/masters/170361
-Likemind 02 - 1994 - https://api.discogs.com/masters/503915
-Electric Arc (1995 Mix) - 2020 - https://api.discogs.com/masters/2126095
-La Source - 2020 - https://api.discogs.com/masters/1731426
-Likemind 06 - 2021 - https://api.discogs.com/releases/17858410
-La Source EP #2 - 2021 - https://api.discogs.com/masters/2040355
-Nuron + Fugue 1993​-​1996 - 2021 - https://api.discogs.com/masters/2244664
-DAT Tapes 1993-1994 - 2022 - https://api.discogs.com/masters/2869459
-DAT Tapes Vol 02 - 2024 - https://api.discogs.com/masters/3617440
-Blanchimont - 2024 - https://api.discogs.com/masters/3473254
-ART 5.1 - 1994 - https://api.discogs.com/masters/252141
-Objets D'art 92::95 - 1996 - https://api.discogs.com/releases/50897
-Highway & Landscape 2 (Deep Beats & Chilled Breaks) - 1998 - https://api.discogs.com/releases/228944
-Highway & Landscape - The Journey So Far! - 1999 - https://api.discogs.com/releases/228943
-Lush Life Electronica - 2001 - https://api.discogs.com/masters/651471
-Drum'N Voice Remixed 2 - 2021 - https://api.discogs.com/releases/21012604
-From A Failing Light - 2022 - https://api.discogs.com/masters/2741939
-Jafar's 21st  - 2022 - https://api.discogs.com/masters/3625841
-Jafar's 21st  - 2022 - https://api.discogs.com/masters/3625841
-Disco 4000 - 1993 - https://api.discogs.com/masters/1262856
-The Kudos Digest: Issue A (Is For Apple) - 1995 - https://api.discogs.com/releases/128199
-Freezone 2 : Variations On A Chill - 1995 - https://api.discogs.com/masters/45511
-Checkone - 1998 - https://api.discogs.com/masters/209967
-Disco 4000 - 1993 - https://api.discogs.com/masters/1262856
-The Kudos Digest: Issue A (Is For Apple) - 1995 - https://api.discogs.com/releases/128199
-Likethemes - 1995 - https://api.discogs.com/masters/276608
-Freezone 2 : Variations On A Chill - 1995 - https://api.discogs.com/masters/45511
-Checkone - Applied Rhythmic Technology - 1996 - https://api.discogs.com/masters/209967
-Likemind 04 - 1996 - https://api.discogs.com/masters/15212
-Native Sampler Three : Natural Instinct - 2001 - https://api.discogs.com/masters/206101
-Sound Of Thought 08 - 2012 - https://api.discogs.com/releases/4942307
-Phonica Mix Series 30: Lone - 2016 - https://api.discogs.com/releases/15290884
+The New Wave - 1993 - https://api.discogs.com/masters/26967
+LE PRIVÉ (Avignon/FR) - 18/11/1995 - 1995 - https://api.discogs.com/releases/18148978
+Da Funk - 1995 - https://api.discogs.com/masters/26604
+Homework - 1996 - https://api.discogs.com/masters/26629
+Around The World - 1996 - https://api.discogs.com/masters/26714
+Revolution 909 - 1996 - https://api.discogs.com/masters/26755
+Assault - 1997 - https://api.discogs.com/releases/8896
+Around The World / Primavera - 1997 - https://api.discogs.com/releases/4494345
+Live @ We Are Family - 1997 - https://api.discogs.com/releases/13251693
+4- Track Compilation - 1997 - https://api.discogs.com/releases/14109413
+Burnin' - 1997 - https://api.discogs.com/masters/26737
+Daft Punk “Revolution 909” / Roman Coppola - 1998 - https://api.discogs.com/releases/19855042
+D.A.F.T. : A Story About Dogs, Androids, Firemen And Tomatoes - 1999 - https://api.discogs.com/masters/34421
+Again / One More Time - 2000 - https://api.discogs.com/releases/4488044
+One More Virgin -Tracks For Celebration Of New Century- - 2000 - https://api.discogs.com/releases/4928890
+One More Time - 2000 - https://api.discogs.com/masters/26637
+Homework / Discovery / Alive 1997 - 2001 - https://api.discogs.com/releases/135671
+音樂新幫 / 熱血激鬥! - 2001 - https://api.discogs.com/releases/4763050
+Radioactivo 98.5 - 2001 - https://api.discogs.com/releases/11239989
+Aerodynamic / Found That Soul / Special K / Taste In Men / Slave To The Wage - 2001 - https://api.discogs.com/releases/15802458
+Generic Radio Interview w/ Thomas Bangalter  - 2001 - https://api.discogs.com/releases/24456143
+Discovery - 2001 - https://api.discogs.com/masters/26647
+Harder Better Faster Stronger - 2001 - https://api.discogs.com/masters/26687
+Aerodynamic - 2001 - https://api.discogs.com/masters/26797
+Digital Love - 2001 - https://api.discogs.com/masters/26808
+Special K / Aerodynamic - 2001 - https://api.discogs.com/masters/2537800
+Alive 1997 - 2001 - https://api.discogs.com/masters/26961
+Whatever Happened To My Rock 'N' Roll (Punk Song) / Digital Love - 2001 - https://api.discogs.com/masters/1792436
+EPK (English Version With Robot Voices) - 2001 - https://api.discogs.com/masters/2318773
+Aerodynamite - 2001 - https://api.discogs.com/masters/1455141
+Homework / Discovery - 2001 - https://api.discogs.com/masters/290088
+Aerodynamic (Remix) / Raise It Up - 2001 - https://api.discogs.com/masters/679728
+Face To Face - 2002 - https://api.discogs.com/masters/547221
+DJ Mix - 2002 - https://api.discogs.com/masters/839530
+Daft Club Net Songs - 2003 - https://api.discogs.com/releases/6056916
+Discover The Video: Volume 1 - 2003 - https://api.discogs.com/releases/11862289
+Interstella 5555 (The 5tory Of The 5ecret 5tar 5ystem) - 2003 - https://api.discogs.com/masters/26948
+Something About Us (Love Theme From Interstella 5555) - 2003 - https://api.discogs.com/masters/27027
+Daft Club - 2003 - https://api.discogs.com/masters/27113
+Homework / Discovery / Daft Club - 2004 - https://api.discogs.com/releases/504203
+Homework / Daft Club - 2005 - https://api.discogs.com/releases/1760957
+Human After All (10" & 20" INT'L TV Spots) - 2005 - https://api.discogs.com/releases/11786535
+Human After All - 2005 - https://api.discogs.com/masters/26833
+Robot Rock - 2005 - https://api.discogs.com/masters/26885
+Technologic - 2005 - https://api.discogs.com/masters/26987
+Human After All - 2005 - https://api.discogs.com/masters/27058
+Daft Punk Video Medley - 2005 - https://api.discogs.com/masters/2806493
+Human After All / Discovery - 2005 - https://api.discogs.com/masters/546476
+Prime Time Of Your Life - 2005 - https://api.discogs.com/masters/34552
+Interstella 5555: The 5tory Of The 5ecret 5tar 5ystem / D.A.F.T - A Story About Dogs Androids Fireman And Tomatoes - 2005 - https://api.discogs.com/masters/2877268
+Musique Mix - 2006 - https://api.discogs.com/releases/4836543
+Musique Vol. I 1993 - 2005 - 2006 - https://api.discogs.com/masters/27007
+Human After All ~原点回帰 -Remixes- - 2006 - https://api.discogs.com/masters/945581
+Stronger - 2007 - https://api.discogs.com/masters/8446
+Harder Better Faster Stronger (Alive 2007) - 2007 - https://api.discogs.com/masters/27046
+Alive 2007 - 2007 - https://api.discogs.com/masters/27126
+Musique Vol. 1 1993-2005 / Daft Club / Daft Punk & Leji Matsumoto's Interstella 5555: The 5tory Of The 5ecret 5tar 5ystem - 2007 - https://api.discogs.com/masters/1397532
+Alive 2007 / Alive 1997 - 2008 - https://api.discogs.com/masters/771891
+Drive (Unreleased 1994) - 2010 - https://api.discogs.com/releases/11666338
+High Life (DivKid 'Low Life' Remix) - 2010 - https://api.discogs.com/releases/18720745
+E Yikes / One More Time - 2010 - https://api.discogs.com/releases/19532134
+TRON: Legacy (Original Motion Picture Soundtrack) - 2010 - https://api.discogs.com/masters/291615
+Derezzed - 2010 - https://api.discogs.com/masters/359591
+Human After All / Daft Club - 2010 - https://api.discogs.com/masters/1257116
+TRON Legacy (Adam Freeland's 303 Mix) - 2011 - https://api.discogs.com/releases/2863158
+TRON: Legacy (Collector's Digital EP) - 2011 - https://api.discogs.com/releases/5631404
+Something About Us (Cherokee Remix) - 2011 - https://api.discogs.com/releases/14314960
+Translucence - 2011 - https://api.discogs.com/masters/328543
+TRON: Legacy Reconfigured - 2011 - https://api.discogs.com/masters/327535
+Tron: The Grid (Junkie XL Remix 2010) - 2012 - https://api.discogs.com/releases/4029266
+TRON: Legacy / TRON: Legacy Reconfigured - 2012 - https://api.discogs.com/releases/21399019
+Aerodynamic (Huglife Edit) - 2013 - https://api.discogs.com/releases/8589106
+Doin' It Right (Tempozitive Bootleg Edit) - 2013 - https://api.discogs.com/releases/14873905
+Doin' It Right (Montmartre Remix) - 2013 - https://api.discogs.com/releases/22350634
+Horizon - 2013 - https://api.discogs.com/releases/27326427
+Lose Yourself To Dance - 2013 - https://api.discogs.com/masters/594096
+Random Access Memories - 2013 - https://api.discogs.com/masters/556257
+Instant Crush - 2013 - https://api.discogs.com/masters/650756
+Get Lucky - 2013 - https://api.discogs.com/masters/546596
+Give Life Back To Music - 2013 - https://api.discogs.com/masters/671726
+Face To Face (Uppermost Remix) - 2014 - https://api.discogs.com/releases/7530276
+Daft Punk Revealed - 2014 - https://api.discogs.com/releases/28220515
+Doin' It Right - 2014 - https://api.discogs.com/masters/1299175
+Daft Punk Unchained - 2015 - https://api.discogs.com/releases/30764658
+Daft Punk Unchained - 2015 - https://api.discogs.com/releases/31896706
+Starboy - 2016 - https://api.discogs.com/masters/1066598
+I Gotta Try You Girl (Daft Punk Edit) - 2016 - https://api.discogs.com/masters/2006662
+I Feel It Coming - 2016 - https://api.discogs.com/masters/2817674
+Technologic (Deborah De Luca Edit) - 2020 - https://api.discogs.com/releases/30524218
+Homework (Remixes) - 2022 - https://api.discogs.com/masters/2883649
+The Writing Of Fragments Of Time - 2023 - https://api.discogs.com/releases/26522822
+GLBTM (Studio Outtakes) - 2023 - https://api.discogs.com/releases/26819576
