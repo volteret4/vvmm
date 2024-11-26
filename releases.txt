@@ -1,93 +1,616 @@
 Listado de releases del artista:
-The New Wave - 1993 - https://api.discogs.com/masters/26967
-LE PRIVÉ (Avignon/FR) - 18/11/1995 - 1995 - https://api.discogs.com/releases/18148978
-Da Funk - 1995 - https://api.discogs.com/masters/26604
-Homework - 1996 - https://api.discogs.com/masters/26629
-Around The World - 1996 - https://api.discogs.com/masters/26714
-Revolution 909 - 1996 - https://api.discogs.com/masters/26755
-Assault - 1997 - https://api.discogs.com/releases/8896
-Around The World / Primavera - 1997 - https://api.discogs.com/releases/4494345
-Live @ We Are Family - 1997 - https://api.discogs.com/releases/13251693
-4- Track Compilation - 1997 - https://api.discogs.com/releases/14109413
-Burnin' - 1997 - https://api.discogs.com/masters/26737
-Daft Punk “Revolution 909” / Roman Coppola - 1998 - https://api.discogs.com/releases/19855042
-D.A.F.T. : A Story About Dogs, Androids, Firemen And Tomatoes - 1999 - https://api.discogs.com/masters/34421
-Again / One More Time - 2000 - https://api.discogs.com/releases/4488044
-One More Virgin -Tracks For Celebration Of New Century- - 2000 - https://api.discogs.com/releases/4928890
-One More Time - 2000 - https://api.discogs.com/masters/26637
-Homework / Discovery / Alive 1997 - 2001 - https://api.discogs.com/releases/135671
-音樂新幫 / 熱血激鬥! - 2001 - https://api.discogs.com/releases/4763050
-Radioactivo 98.5 - 2001 - https://api.discogs.com/releases/11239989
-Aerodynamic / Found That Soul / Special K / Taste In Men / Slave To The Wage - 2001 - https://api.discogs.com/releases/15802458
-Generic Radio Interview w/ Thomas Bangalter  - 2001 - https://api.discogs.com/releases/24456143
-Discovery - 2001 - https://api.discogs.com/masters/26647
-Harder Better Faster Stronger - 2001 - https://api.discogs.com/masters/26687
-Aerodynamic - 2001 - https://api.discogs.com/masters/26797
-Digital Love - 2001 - https://api.discogs.com/masters/26808
-Special K / Aerodynamic - 2001 - https://api.discogs.com/masters/2537800
-Alive 1997 - 2001 - https://api.discogs.com/masters/26961
-Whatever Happened To My Rock 'N' Roll (Punk Song) / Digital Love - 2001 - https://api.discogs.com/masters/1792436
-EPK (English Version With Robot Voices) - 2001 - https://api.discogs.com/masters/2318773
-Aerodynamite - 2001 - https://api.discogs.com/masters/1455141
-Homework / Discovery - 2001 - https://api.discogs.com/masters/290088
-Aerodynamic (Remix) / Raise It Up - 2001 - https://api.discogs.com/masters/679728
-Face To Face - 2002 - https://api.discogs.com/masters/547221
-DJ Mix - 2002 - https://api.discogs.com/masters/839530
-Daft Club Net Songs - 2003 - https://api.discogs.com/releases/6056916
-Discover The Video: Volume 1 - 2003 - https://api.discogs.com/releases/11862289
-Interstella 5555 (The 5tory Of The 5ecret 5tar 5ystem) - 2003 - https://api.discogs.com/masters/26948
-Something About Us (Love Theme From Interstella 5555) - 2003 - https://api.discogs.com/masters/27027
-Daft Club - 2003 - https://api.discogs.com/masters/27113
-Homework / Discovery / Daft Club - 2004 - https://api.discogs.com/releases/504203
-Homework / Daft Club - 2005 - https://api.discogs.com/releases/1760957
-Human After All (10" & 20" INT'L TV Spots) - 2005 - https://api.discogs.com/releases/11786535
-Human After All - 2005 - https://api.discogs.com/masters/26833
-Robot Rock - 2005 - https://api.discogs.com/masters/26885
-Technologic - 2005 - https://api.discogs.com/masters/26987
-Human After All - 2005 - https://api.discogs.com/masters/27058
-Daft Punk Video Medley - 2005 - https://api.discogs.com/masters/2806493
-Human After All / Discovery - 2005 - https://api.discogs.com/masters/546476
-Prime Time Of Your Life - 2005 - https://api.discogs.com/masters/34552
-Interstella 5555: The 5tory Of The 5ecret 5tar 5ystem / D.A.F.T - A Story About Dogs Androids Fireman And Tomatoes - 2005 - https://api.discogs.com/masters/2877268
-Musique Mix - 2006 - https://api.discogs.com/releases/4836543
-Musique Vol. I 1993 - 2005 - 2006 - https://api.discogs.com/masters/27007
-Human After All ~原点回帰 -Remixes- - 2006 - https://api.discogs.com/masters/945581
-Stronger - 2007 - https://api.discogs.com/masters/8446
-Harder Better Faster Stronger (Alive 2007) - 2007 - https://api.discogs.com/masters/27046
-Alive 2007 - 2007 - https://api.discogs.com/masters/27126
-Musique Vol. 1 1993-2005 / Daft Club / Daft Punk & Leji Matsumoto's Interstella 5555: The 5tory Of The 5ecret 5tar 5ystem - 2007 - https://api.discogs.com/masters/1397532
-Alive 2007 / Alive 1997 - 2008 - https://api.discogs.com/masters/771891
-Drive (Unreleased 1994) - 2010 - https://api.discogs.com/releases/11666338
-High Life (DivKid 'Low Life' Remix) - 2010 - https://api.discogs.com/releases/18720745
-E Yikes / One More Time - 2010 - https://api.discogs.com/releases/19532134
-TRON: Legacy (Original Motion Picture Soundtrack) - 2010 - https://api.discogs.com/masters/291615
-Derezzed - 2010 - https://api.discogs.com/masters/359591
-Human After All / Daft Club - 2010 - https://api.discogs.com/masters/1257116
-TRON Legacy (Adam Freeland's 303 Mix) - 2011 - https://api.discogs.com/releases/2863158
-TRON: Legacy (Collector's Digital EP) - 2011 - https://api.discogs.com/releases/5631404
-Something About Us (Cherokee Remix) - 2011 - https://api.discogs.com/releases/14314960
-Translucence - 2011 - https://api.discogs.com/masters/328543
-TRON: Legacy Reconfigured - 2011 - https://api.discogs.com/masters/327535
-Tron: The Grid (Junkie XL Remix 2010) - 2012 - https://api.discogs.com/releases/4029266
-TRON: Legacy / TRON: Legacy Reconfigured - 2012 - https://api.discogs.com/releases/21399019
-Aerodynamic (Huglife Edit) - 2013 - https://api.discogs.com/releases/8589106
-Doin' It Right (Tempozitive Bootleg Edit) - 2013 - https://api.discogs.com/releases/14873905
-Doin' It Right (Montmartre Remix) - 2013 - https://api.discogs.com/releases/22350634
-Horizon - 2013 - https://api.discogs.com/releases/27326427
-Lose Yourself To Dance - 2013 - https://api.discogs.com/masters/594096
-Random Access Memories - 2013 - https://api.discogs.com/masters/556257
-Instant Crush - 2013 - https://api.discogs.com/masters/650756
-Get Lucky - 2013 - https://api.discogs.com/masters/546596
-Give Life Back To Music - 2013 - https://api.discogs.com/masters/671726
-Face To Face (Uppermost Remix) - 2014 - https://api.discogs.com/releases/7530276
-Daft Punk Revealed - 2014 - https://api.discogs.com/releases/28220515
-Doin' It Right - 2014 - https://api.discogs.com/masters/1299175
-Daft Punk Unchained - 2015 - https://api.discogs.com/releases/30764658
-Daft Punk Unchained - 2015 - https://api.discogs.com/releases/31896706
-Starboy - 2016 - https://api.discogs.com/masters/1066598
-I Gotta Try You Girl (Daft Punk Edit) - 2016 - https://api.discogs.com/masters/2006662
-I Feel It Coming - 2016 - https://api.discogs.com/masters/2817674
-Technologic (Deborah De Luca Edit) - 2020 - https://api.discogs.com/releases/30524218
-Homework (Remixes) - 2022 - https://api.discogs.com/masters/2883649
-The Writing Of Fragments Of Time - 2023 - https://api.discogs.com/releases/26522822
-GLBTM (Studio Outtakes) - 2023 - https://api.discogs.com/releases/26819576
+Solo John / Solo Scott - 1966 - https://api.discogs.com/masters/697376
+Jackie - 1967 - https://api.discogs.com/releases/2117113
+キャサリン = Kathalene  - 1967 - https://api.discogs.com/releases/3328586
+いとしのマチルダ = Mathilde - 1967 - https://api.discogs.com/releases/4942081
+If I Promise / Jackie - 1967 - https://api.discogs.com/releases/5818039
+Scott - 1967 - https://api.discogs.com/masters/68194
+Jackie - 1967 - https://api.discogs.com/masters/912074
+Joanna - 1967 - https://api.discogs.com/masters/186098
+Scott - 1967 - https://api.discogs.com/masters/452493
+Jackie - 1967 - https://api.discogs.com/masters/332235
+Amsterdam - 1968 - https://api.discogs.com/releases/8096081
+Scott's New Year Greeting = スコット声の年賀状 / お年玉プレゼント - 1968 - https://api.discogs.com/releases/8273892
+Joanna - 1968 - https://api.discogs.com/releases/10835113
+ジャッキー スコット・ウォーカー・ベスト４No２ - 1968 - https://api.discogs.com/releases/13226233
+Too Young To Know = 初恋のとしごろ - 1968 - https://api.discogs.com/masters/2727986
+Scott 2 - 1968 - https://api.discogs.com/masters/68195
+Looking Back With Scott Walker - 1968 - https://api.discogs.com/masters/373446
+I Don't Want To Hear It Anymore - 1968 - https://api.discogs.com/masters/1114367
+Fresh World Of Scott Walker = スコット・ウォーカーの魅力 - 1968 - https://api.discogs.com/masters/1510277
+Jackie / Wait Until Dark - 1968 - https://api.discogs.com/masters/864211
+行かないで = If You Go Away / 二人の老兵 = Two Ragged Soldiers - 1969 - https://api.discogs.com/releases/1924307
+When Joanna Loved Me - 1969 - https://api.discogs.com/releases/2116269
+Une Corde, Un Colt (The Rope And The Colt) - 1969 - https://api.discogs.com/releases/4978371
+Lights Of Cincinnati  - 1969 - https://api.discogs.com/releases/7184937
+Custom Deluxe - 1969 - https://api.discogs.com/releases/9053145
+ジョアンナが恋したとき = When Joanna Loved Me / バルチモアの貴婦人 = The Lady Came From Baltimore - 1969 - https://api.discogs.com/releases/14009609
+Scott 3 - 1969 - https://api.discogs.com/masters/68196
+Scott 4 - 1969 - https://api.discogs.com/masters/68197
+Scott - Scott Walker Sings Songs From His T.V. Series - 1969 - https://api.discogs.com/masters/253659
+Lights Of Cincinnati - 1969 - https://api.discogs.com/masters/405219
+The Best Of Scott Volume 1 - 1969 - https://api.discogs.com/masters/1658762
+ジーンはスパイ = Jean The Machine - 1970 - https://api.discogs.com/releases/7208282
+'Til The Band Comes In - 1970 - https://api.discogs.com/masters/68201
+Super Custom Deluxe - 1970 - https://api.discogs.com/masters/2628500
+Thanks For Chicago Mr. James - 1971 - https://api.discogs.com/releases/26324465
+The Romantic Scott Walker - 1971 - https://api.discogs.com/masters/735440
+'Til The Band Comes In - 1971 - https://api.discogs.com/masters/857030
+I Still See You - 1971 - https://api.discogs.com/masters/543708
+This Is...Scott Walker - 1972 - https://api.discogs.com/masters/1510412
+The Moviegoer - 1972 - https://api.discogs.com/masters/68206
+ラマンチャの男（見果てぬ夢）= Man Of La Mancha (The Impossible Dream) - 1972 - https://api.discogs.com/masters/2470771
+Maria Bethânia / Any Day Now - 1973 - https://api.discogs.com/releases/10476508
+A Woman Left Lonely - 1973 - https://api.discogs.com/masters/654891
+Any Day Now - 1973 - https://api.discogs.com/masters/549945
+The Me I Never Knew - 1973 - https://api.discogs.com/masters/1519336
+This Is Scott Walker Vol. 2 -  Come Next Spring - 1973 - https://api.discogs.com/masters/195849
+Stretch - 1973 - https://api.discogs.com/masters/258886
+Attention! Scott Walker! - 1973 - https://api.discogs.com/masters/3286954
+Scott Walker (行かないで = If You Go Away) - 1974 - https://api.discogs.com/releases/3084180
+Best Applause = ベスト・アプローズ - 1974 - https://api.discogs.com/releases/9402700
+Delta Dawn - 1974 - https://api.discogs.com/masters/912937
+Custom 20 - 1974 - https://api.discogs.com/masters/1689187
+We Had It All - 1974 - https://api.discogs.com/masters/476597
+The Best Of Scott Walker - 1975 - https://api.discogs.com/releases/7493218
+Reflection 18 - 1975 - https://api.discogs.com/releases/8141857
+My Favorite Songs = マイ・フェイバリット・ソングス - 1975 - https://api.discogs.com/releases/9403291
+Spotlight On Walker Brothers = ウォーカー・ブラザーズ・スコット・ウォーカー/グレイテスト・ヒッツ32 - 1976 - https://api.discogs.com/releases/21783205
+Spotlight On Scott Walker - 1976 - https://api.discogs.com/masters/878554
+Fire Escape In The Sky: The Godlike Genius Of Scott Walker - 1981 - https://api.discogs.com/releases/1819440
+Scott Walker Sings Jacques Brel - 1981 - https://api.discogs.com/masters/263357
+The Best Of Scott Walker - 1982 - https://api.discogs.com/masters/225997
+Track Three - 1983 - https://api.discogs.com/masters/691845
+Climate Of Hunter / Risky Business - Soundtrack - 1984 - https://api.discogs.com/releases/5213652
+Climate Of Hunter - 1984 - https://api.discogs.com/masters/68198
+Boy Child - The Best Of 1967 - 1970 - 1990 - https://api.discogs.com/masters/322379
+No Regrets - The Best Of Scott Walker And The Walker Brothers - 1965 - 1976 - 1992 - https://api.discogs.com/masters/358207
+1965 - 1993 - 1993 - https://api.discogs.com/masters/444953
+A Very Special Collection - 1993 - https://api.discogs.com/masters/2476213
+Man From Reno - 1993 - https://api.discogs.com/masters/1460443
+Scott 1 - 1995 - https://api.discogs.com/releases/915285
+Scott 2 - 1995 - https://api.discogs.com/releases/915318
+Tilt Interview CD - 1995 - https://api.discogs.com/releases/1783081
+Tilt - 1995 - https://api.discogs.com/masters/68203
+It's Raining Today: The Scott Walker Story (1967-1970) - 1996 - https://api.discogs.com/releases/3435552
+I Threw It All Away - 1996 - https://api.discogs.com/masters/2804813
+Stretch / We Had It All - 1997 - https://api.discogs.com/masters/1305634
+Scott On Screen - 1999 - https://api.discogs.com/releases/4468116
+Pola X - 1999 - https://api.discogs.com/masters/256420
+The Walker Brothers Collection - 2002 - https://api.discogs.com/masters/407082
+In 5 Easy Pieces - A Themed 5 CD Anthology - 2003 - https://api.discogs.com/masters/367323
+The Collection - 2004 - https://api.discogs.com/masters/936273
+No Regrets - 2005 - https://api.discogs.com/releases/29756449
+The Early Years - 2005 - https://api.discogs.com/masters/730844
+Classics & Collectibles - 2005 - https://api.discogs.com/masters/3142386
+The Culture Show (BBC2/19:00/30.03.06) - 2006 - https://api.discogs.com/releases/28369507
+The Best Of (The Sun Ain't Gonna Shine Anymore) - 2006 - https://api.discogs.com/masters/3197547
+The Drift - 2006 - https://api.discogs.com/masters/68211
+Scott Walker - 30 Century Man (Special Edition) - 2006 - https://api.discogs.com/masters/260306
+And Who Shall Go To The Ball? And What Shall Go To The Ball? - 2007 - https://api.discogs.com/masters/68215
+Bish Bosch - 2012 - https://api.discogs.com/masters/496137
+Scott (The Collection  1967-1970) - 2013 - https://api.discogs.com/masters/564908
+Soused  - 2014 - https://api.discogs.com/masters/745981
+The Childhood Of A Leader  - 2016 - https://api.discogs.com/masters/1044346
+The Beginning / The Scott Engel Sessions - 2017 - https://api.discogs.com/releases/10502804
+Jungle Fever - 2019 - https://api.discogs.com/masters/1606399
+Scott Walker Meets Jacques Brel - 2020 - https://api.discogs.com/releases/14945298
+Fresh World Of Scott Walker - 2021 - https://api.discogs.com/releases/21259798
+Lights Of Cincinnati / Black Sheep Boy / Windows Of The World / The Bridge - Desconocido - https://api.discogs.com/releases/1962230
+Scott Walker - Desconocido - https://api.discogs.com/releases/9403337
+The Best Of Dusty & Scott = ダスティーとスコットの世界 - Desconocido - https://api.discogs.com/releases/15636944
+12 Hits - Desconocido - https://api.discogs.com/releases/21969838
+Scott Walker - Desconocido - https://api.discogs.com/releases/32197296
+Black Sheep Boy - Desconocido - https://api.discogs.com/masters/2865214
+Wasted Words - 1966 - https://api.discogs.com/releases/7537211
+Their Own Way - 1966 - https://api.discogs.com/masters/1865895
+Woman - 1968 - https://api.discogs.com/masters/610492
+Spooky / I Can't Stand To Lose You - 1968 - https://api.discogs.com/masters/618936
+Ray Warleigh's First Album - 1969 - https://api.discogs.com/masters/499234
+Yesterday's Sunshine - 1969 - https://api.discogs.com/masters/610494
+Fall Out - 1969 - https://api.discogs.com/masters/138172
+No Regrets - 1975 - https://api.discogs.com/masters/84032
+No Regrets - 1975 - https://api.discogs.com/masters/84034
+Lines / First Day - 1976 - https://api.discogs.com/masters/307809
+We're All Alone - 1976 - https://api.discogs.com/masters/268146
+Lines - 1976 - https://api.discogs.com/masters/119780
+The Electrician / Den Haague - 1978 - https://api.discogs.com/releases/2855154
+Shutout E.P. - 1978 - https://api.discogs.com/masters/1141561
+Nite Flights - 1978 - https://api.discogs.com/masters/119779
+Impressions Of Wonderful 1965 - 1967 - 1993 - https://api.discogs.com/masters/1426092
+Crooning On Venus Ocean Of Sound 2 - 1996 - https://api.discogs.com/releases/325973
+The Singles+ - 2000 - https://api.discogs.com/releases/3063793
+Punishing Kiss - 2000 - https://api.discogs.com/masters/237860
+NME Presents 2001 The Album Of The Year - 2001 - https://api.discogs.com/releases/1047534
+Introduction To The Motions / Their Own Way - 2001 - https://api.discogs.com/releases/4060568
+Sunrise / The Trees - 2001 - https://api.discogs.com/masters/87168
+We Love Life - 2001 - https://api.discogs.com/masters/87177
+Nuggets II (Original Artyfacts From The British Empire And Beyond 1964-1969) - 2001 - https://api.discogs.com/masters/3048188
+If You Could Hear Me Now - 2001 - https://api.discogs.com/masters/1018681
+Bad Cover Version - 2002 - https://api.discogs.com/masters/87133
+Hits - 2002 - https://api.discogs.com/masters/87152
+Bring It On Home (15 Classic Tracks Chosen By Robert Plant) - 2005 - https://api.discogs.com/releases/2408649
+Playlist (Our 16-Track Guide To The Month's Best Music) - 2006 - https://api.discogs.com/releases/1274847
+Everything Under The Sun (The Complete Recordings) - 2006 - https://api.discogs.com/releases/1770305
+Fantastic Voyage (New Sounds For The European Canon 1977 - 1981) - 2024 - https://api.discogs.com/masters/3380782
+恋の朝焼け = Cutie Morning Moon - 1968 - https://api.discogs.com/masters/609791
+Lines - 1976 - https://api.discogs.com/masters/119780
+Nite Flights - 1978 - https://api.discogs.com/masters/119779
+Punishing Kiss - 2000 - https://api.discogs.com/masters/237860
+We Love Life - 2001 - https://api.discogs.com/masters/87177
+Skinny Grin - 2006 - https://api.discogs.com/masters/209943
+Saltwater - 2006 - https://api.discogs.com/masters/443190
+The Walker Brothers - 1965 - https://api.discogs.com/masters/84028
+The Walker Brothers - 1965 - https://api.discogs.com/masters/3411697
+Introducing The Walker Brothers - 1965 - https://api.discogs.com/masters/363767
+The Sun Ain't Gonna Shine Anymore - 1966 - https://api.discogs.com/masters/301723
+I Need You - 1966 - https://api.discogs.com/masters/633084
+孤独の太陽 = In My Room - 1966 - https://api.discogs.com/masters/1590055
+Images - 1967 - https://api.discogs.com/masters/336063
+Y Sus Exitos - 1968 - https://api.discogs.com/releases/8140892
+恋の朝焼け = Cutie Morning Moon - 1968 - https://api.discogs.com/masters/609791
+Une Corde, Un Colt (Bande Originale) - 1969 - https://api.discogs.com/masters/971794
+She's Leaving Home - 1971 - https://api.discogs.com/masters/3468316
+Jacques Brel - 1972 - https://api.discogs.com/masters/1466510
+No Regrets - 1975 - https://api.discogs.com/masters/84034
+Lines - 1976 - https://api.discogs.com/masters/119780
+Nite Flights - 1978 - https://api.discogs.com/masters/119779
+Stand Alone - 1983 - https://api.discogs.com/releases/14910003
+Stand Alone - 1983 - https://api.discogs.com/releases/31190047
+Debut LP Magazine - Issue 02 - 1984 - https://api.discogs.com/releases/602440
+Debüt LP / Zeitschrift Ausgabe 7 (Nr. 07) - 1984 - https://api.discogs.com/releases/960352
+Bite Black + Blues - 1984 - https://api.discogs.com/masters/297609
+The Sun Ain't Gonna Shine Anymore - 1984 - https://api.discogs.com/masters/869346
+Halcyon - 1992 - https://api.discogs.com/masters/22186
+What You Gonna Do - 1995 - https://api.discogs.com/masters/212316
+Crooning On Venus Ocean Of Sound 2 - 1996 - https://api.discogs.com/releases/325973
+Stereo Action Rent Party - 1996 - https://api.discogs.com/releases/3360768
+Holy Fire - 1996 - https://api.discogs.com/masters/270513
+P.S. - 1996 - https://api.discogs.com/masters/1021666
+How Can I Apply...? - 1996 - https://api.discogs.com/masters/223003
+A Happy Pocket - 1996 - https://api.discogs.com/masters/176059
+Sounds Of The Geographically Challenged Volume 3 - 1997 - https://api.discogs.com/releases/632238
+Talisman - 1997 - https://api.discogs.com/releases/1934424
+Original Seeds: Songs That Inspired Nick Cave And The Bad Seeds - 1998 - https://api.discogs.com/masters/878390
+Ederlezi - 1998 - https://api.discogs.com/masters/243198
+Musiques - Été 99 - 1999 - https://api.discogs.com/releases/947775
+Daylight Saving - 1999 - https://api.discogs.com/masters/55017
+Helt Igennem Respektabel - Peter Belli 1959 - 1999 - 1999 - https://api.discogs.com/masters/1005387
+Live In Chicago, 1999 - 1999 - https://api.discogs.com/masters/148862
+The World Is Not Enough (Music From The MGM Motion Picture) - 1999 - https://api.discogs.com/masters/70037
+Shanti Project Collection 2 - 2000 - https://api.discogs.com/releases/717061
+Gravity 37. Compilation Video - Soundtrack - 2000 - https://api.discogs.com/releases/1131169
+The Singles+ - 2000 - https://api.discogs.com/releases/3063793
+Songbook - 2000 - https://api.discogs.com/masters/425628
+Train Leaves At Eight - 2000 - https://api.discogs.com/masters/1063631
+Punishing Kiss - 2000 - https://api.discogs.com/masters/237860
+Lounge Legends - 2001 - https://api.discogs.com/releases/1471120
+We Love Life - 2001 - https://api.discogs.com/masters/87177
+If You Could Hear Me Now - 2001 - https://api.discogs.com/masters/1018681
+Chillout Moods - 2001 - https://api.discogs.com/masters/205690
+Ambulance EP - 2002 - https://api.discogs.com/releases/3727527
+Bad Cover Version - 2002 - https://api.discogs.com/masters/87133
+Drunken Soundtracks (Lost Songs & Rarities 1995-2001) - 2002 - https://api.discogs.com/masters/214359
+Shimmers - 2003 - https://api.discogs.com/releases/1808834
+Shimmers - 2003 - https://api.discogs.com/releases/30412697
+Mesa - 2003 - https://api.discogs.com/masters/371945
+Les Trésors Cachés - 50 Ans De Rock - 2004 - https://api.discogs.com/releases/485862
+Toi Le Venin / Le Vampire De Düsseldorf - 2004 - https://api.discogs.com/releases/10649843
+The Trip - 2004 - https://api.discogs.com/masters/53051
+1970 (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/747631
+Playlist (Our 16-Track Guide To The Month's Best Music) - 2006 - https://api.discogs.com/releases/1274847
+Everything Under The Sun (The Complete Recordings) - 2006 - https://api.discogs.com/releases/1770305
+Play 'Brown Flag' And 'Cock Swastika' - 2006 - https://api.discogs.com/masters/1293381
+LateNightTales - 2006 - https://api.discogs.com/masters/59091
+Melody Mountain - 2006 - https://api.discogs.com/masters/77593
+Plague Songs - 2006 - https://api.discogs.com/masters/196594
+Portrait - 2007 - https://api.discogs.com/masters/85622
+Rendez Vous - 2007 - https://api.discogs.com/masters/369377
+Adorata - 2008 - https://api.discogs.com/releases/1897540
+FabricLive.41 - 2008 - https://api.discogs.com/masters/565025
+Iz On - 2009 - https://api.discogs.com/releases/6927977
+Ich Wollt Nur Deine Stimme Hörn - 2009 - https://api.discogs.com/releases/14686633
+Acoustic Songs 2 - 2009 - https://api.discogs.com/masters/2379106
+Album Number One - 2009 - https://api.discogs.com/masters/408533
+Two Suns - 2009 - https://api.discogs.com/masters/105435
+Live At The Cosmic Puffin - 2010 - https://api.discogs.com/releases/8251689
+Wonderful Dream - 2010 - https://api.discogs.com/releases/13519215
+Walking Backwards / The World's Strongest Man - 2011 - https://api.discogs.com/releases/2850899
+To The Alps - 2011 - https://api.discogs.com/releases/3142003
+Didn't Ask You To Sing Along - 2011 - https://api.discogs.com/releases/5107942
+Faith In Worthless Things - 2012 - https://api.discogs.com/releases/6011044
+Dans La Tempete - 2013 - https://api.discogs.com/releases/4849190
+Suspended In A Weightless Mind (Covers Volume I) - 2013 - https://api.discogs.com/releases/5204423
+Farmer In The City - 2013 - https://api.discogs.com/releases/10954342
+One Step Away - 2013 - https://api.discogs.com/releases/14630961
+Ama - 2015 - https://api.discogs.com/releases/6891919
+Purpose And Intent - 2015 - https://api.discogs.com/releases/8208350
+Spirit Of Love (B-Sides, Bonuses, And Soundtracks) - 2016 - https://api.discogs.com/releases/10028800
+The World Is Really Ending - 2017 - https://api.discogs.com/releases/16099422
+The Old Man & The Gun (Original Motion Picture Soundtrack) - 2018 - https://api.discogs.com/releases/12601860
+More Loosies - 2018 - https://api.discogs.com/releases/14648650
+Wartburg - 2018 - https://api.discogs.com/masters/1336839
+A Little Bit Of Rain - 2019 - https://api.discogs.com/releases/13384783
+Post-Human - 2019 - https://api.discogs.com/releases/14387611
+Lagniappe Session - 2019 - https://api.discogs.com/releases/23836817
+Past Present Future - 2019 - https://api.discogs.com/masters/1547047
+Commissioned - 2019 - https://api.discogs.com/masters/2995052
+We’re Going To Make The Night What It Is - 2020 - https://api.discogs.com/releases/15998722
+The Forgotten Ones 2 (The Free Music, 2009​-​2021) - 2021 - https://api.discogs.com/releases/30805860
+Musiques de Films 1964-2015 Vol. II - 2022 - https://api.discogs.com/releases/22489904
+I Hope I Know - 2022 - https://api.discogs.com/releases/23842655
+Keep This Be The Way - 2022 - https://api.discogs.com/masters/2612996
+British Mod Sounds Volume 2 (The Freakbeat & Psych Years) - 2023 - https://api.discogs.com/masters/2984075
+CYRM - 2023 - https://api.discogs.com/masters/3297241
+A Window & A Mirror - 2024 - https://api.discogs.com/releases/31193596
+Paula Frazer - Desconocido - https://api.discogs.com/releases/14316194
+The best of Goran Bregović - Desconocido - https://api.discogs.com/releases/16697943
+Music For Films / Songbook - Desconocido - https://api.discogs.com/releases/26326949
+フィリップス - 1967 - https://api.discogs.com/releases/15432506
+Star-Feuerwerk - 1968 - https://api.discogs.com/releases/3754604
+Big Hits Vol. III - 1968 - https://api.discogs.com/releases/4926980
+Hip Hit Hurrah! - 1968 - https://api.discogs.com/releases/5936914
+The Hit Heard Round The World - 1968 - https://api.discogs.com/releases/8097287
+Schlagerparade '68 - Nr. 27 - 1968 - https://api.discogs.com/releases/9151449
+New Musical Express Best Hits - 1968 - https://api.discogs.com/releases/18568954
+Jumpin' Jack Flash - 1968 - https://api.discogs.com/masters/52949
+Free Hit Record No. 1 - 1968 - https://api.discogs.com/masters/2504443
+We Present: Beat & Rock '68 - 1968 - https://api.discogs.com/masters/1149204
+At The Golden Rose Of Montreux - 1969 - https://api.discogs.com/releases/5640205
+Top Of The Pops-247 - 1969 - https://api.discogs.com/releases/8821529
+'68-'69 Best Hits - 1969 - https://api.discogs.com/releases/11516762
+Pick Of The Pops For Your D.J.-246 / 247 - 1969 - https://api.discogs.com/releases/13753388
+Hit Hit Hurrah - 1969 - https://api.discogs.com/releases/14115437
+The Fabulous Walker Brothers - 1969 - https://api.discogs.com/masters/410312
+Star Explosion - 1970 - https://api.discogs.com/releases/4525045
+Golden Million Seller Deluxe Vol. 2 - 1970 - https://api.discogs.com/releases/13809104
+16 Startracks Of The Sixties - 1971 - https://api.discogs.com/masters/1430495
+Music From The World Of Films - 1972 - https://api.discogs.com/releases/6214564
+Tribute To Burt Bacharach & Jim Webb - 1972 - https://api.discogs.com/masters/919165
+As 14 Mais Da Difusora - 1973 - https://api.discogs.com/releases/16006067
+40 Fantastic Hits From The 50's And 60's - 1973 - https://api.discogs.com/masters/1021832
+Flashback 1969 - 1974 - https://api.discogs.com/releases/3420656
+Flashback 1968 - 1974 - https://api.discogs.com/releases/4009407
+A Touch More Class - 1974 - https://api.discogs.com/releases/6044870
+Walker Brothers Forever - 1974 - https://api.discogs.com/masters/1721930
+Oldies But Goldies (Top Pops Der 60Er Jahre) - Mix - 1975 - https://api.discogs.com/releases/3917339
+120 All Time Hits - 1975 - https://api.discogs.com/masters/653237
+Hit History 1968 - 1975 - https://api.discogs.com/masters/799722
+Relax With Horlicks - 1976 - https://api.discogs.com/releases/1029938
+Dream Baby Dream - 24 Love Songs - 1976 - https://api.discogs.com/masters/3304735
+Spotlight On - 1977 - https://api.discogs.com/masters/1468721
+Romantisch Gala Deel 2 - 1979 - https://api.discogs.com/releases/8005022
+決定盤 ポピュラー懐かしの歌声 「ヘイ・ポーラ」から「恋はみずいろ」まで - 1979 - https://api.discogs.com/releases/22853183
+Golden Collection - 1979 - https://api.discogs.com/masters/2043715
+30 British Hits Of The 60's - 1979 - https://api.discogs.com/masters/707986
+Sounds Of The Sixties  - 1981 - https://api.discogs.com/releases/22398214
+Jan Van Veen Presenteert: Candlelight - 1981 - https://api.discogs.com/masters/2164555
+All By Myself - 1982 - https://api.discogs.com/masters/1020643
+The Love Box - 1983 - https://api.discogs.com/masters/1340821
+Debut LP Magazine - Issue 02 - 1984 - https://api.discogs.com/releases/602440
+Debüt LP / Zeitschrift Ausgabe 7 (Nr. 07) - 1984 - https://api.discogs.com/releases/960352
+Together Again - 1984 - https://api.discogs.com/masters/753335
+Romantic Pop Songs For Lovers - 1984 - https://api.discogs.com/masters/1653224
+You Don't Have To Say You Love Me - 1985 - https://api.discogs.com/releases/28477612
+You Don't Have To Say You Love Me - 1985 - https://api.discogs.com/releases/29537347
+Hits Of The '60's - 1985 - https://api.discogs.com/masters/746517
+The Sun Ain't Gonna Shine Any More - 1986 - https://api.discogs.com/releases/2491116
+120 All Time Hits Volume VIII - 1986 - https://api.discogs.com/releases/32095788
+Music After Midnight - 1988 - https://api.discogs.com/releases/13198474
+Rain & Tears (Hit Ballads Of The Sixties) - 1988 - https://api.discogs.com/masters/703163
+Something In The Air - Hits Of The Sixties - 1989 - https://api.discogs.com/releases/10057533
+Golden Hits Of The Sixtiies - 1989 - https://api.discogs.com/releases/11468744
+Nights In White Satin - 1989 - https://api.discogs.com/masters/966972
+The Way It Used To Be (Great Love Songs) - 1989 - https://api.discogs.com/masters/1645375
+In Touch II - 1989 - https://api.discogs.com/masters/1176434
+Memories Are Made Of Hits - 1989 - https://api.discogs.com/masters/3072488
+The Best Of Yesteryear - Collector 1990 Edition - 1990 - https://api.discogs.com/releases/30170039
+Truly Unforgettable - 1990 - https://api.discogs.com/masters/514853
+The Greatest Hits Of 1968 - 1990 - https://api.discogs.com/masters/906593
+Hits And Rarities (The Fontana Singles Box Set Volume 2) - 1991 - https://api.discogs.com/releases/2196360
+The Fontana Singles - 1991 - https://api.discogs.com/releases/2834153
+Unchained Melodies II - 1991 - https://api.discogs.com/masters/835127
+The Spirit Of The 60s: 1968 The Hits Don't Stop - 1991 - https://api.discogs.com/masters/1245764
+Unchained Melodies - 1991 - https://api.discogs.com/masters/862813
+No Regrets - 1991 - https://api.discogs.com/masters/745863
+Rediscover The 60's & 70's: 1965-1977 - If I Only Had Time - 1991 - https://api.discogs.com/masters/3017114
+The Sun Ain't Gonna Shine Anymore - 1991 - https://api.discogs.com/masters/610231
+It's Blues Vol.II - 1991 - https://api.discogs.com/masters/586214
+Untitled - 1992 - https://api.discogs.com/releases/7043912
+Romantic Romeos - Hits Zum Träumen - 1992 - https://api.discogs.com/releases/8259682
+Golden Oldies Vol. 6 - 1992 - https://api.discogs.com/releases/12462665
+Various 3 Tracks - 1992 - https://api.discogs.com/releases/24180527
+The Hits Of LM Radio Volume 2 - 1992 - https://api.discogs.com/releases/24370070
+Hits Of.....67 + 68 - 1992 - https://api.discogs.com/masters/2597954
+Forever Yours - 1992 - https://api.discogs.com/masters/2033245
+The Emotion Collection - Sometime, Somewhere - 1992 - https://api.discogs.com/masters/2955421
+My Generation - 20 Sixties Classics From The Modern World - 1992 - https://api.discogs.com/masters/409886
+The Spirit Of The 60s: 1969 The Hits Don't Stop - 1992 - https://api.discogs.com/masters/1250186
+25 Years Of Rock 'N' Roll Volume 2 1968 - 1992 - https://api.discogs.com/masters/1024426
+Die Neue Heartbreaker - 1993 - https://api.discogs.com/releases/1797910
+20 Heartbreakers Of The 60's - 1993 - https://api.discogs.com/releases/6931958
+A Touch Of Romance - For Ladies Only Vol. 2  - 1993 - https://api.discogs.com/releases/17333785
+Night Moods - 19 Songs Of Love From 'Dusk Till Dawn' - 1993 - https://api.discogs.com/releases/26821715
+Eternal Flame - 1993 - https://api.discogs.com/masters/1611932
+Night Moods  19 Original Recordings - 1993 - https://api.discogs.com/masters/2904310
+The Singer & The Song - 40 All Time Showstoppers - 1993 - https://api.discogs.com/masters/988521
+World Hits 1968 - 1994 - https://api.discogs.com/releases/1737418
+The Rare Mancini: A Tribute To Henry Mancini - 1994 - https://api.discogs.com/releases/10576894
+World Hits 1969 - 1994 - https://api.discogs.com/masters/193849
+Muzika Za Filmove - 1994 - https://api.discogs.com/masters/370111
+Always - 1995 - https://api.discogs.com/releases/10033367
+High Fidelity Reference CD No. 11 - 1995 - https://api.discogs.com/releases/11303552
+The Greatest Voices CD2 - 1995 - https://api.discogs.com/releases/14833427
+The Music Years: 1960-1970 - 1995 - https://api.discogs.com/releases/18161740
+Crooning On Venus Ocean Of Sound 2 - 1996 - https://api.discogs.com/releases/325973
+The Music Document Love Songs Volume 3 - 1996 - https://api.discogs.com/releases/3048225
+And The Beat Goes On Volume 3 - 1996 - https://api.discogs.com/releases/4199810
+Greatest Hits - 1996 - https://api.discogs.com/releases/6861953
+Fabulous Sixties Volume 2 - 1996 - https://api.discogs.com/releases/15932032
+The Walker Brothers Collection - 1996 - https://api.discogs.com/masters/407082
+Best Of The Walker Brothers - 1996 - https://api.discogs.com/masters/2481622
+To Have And To Hold (Original Motion Picture Soundtrack) - 1996 - https://api.discogs.com/masters/28129
+100+1 Wereldhits Deel 2 - 1997 - https://api.discogs.com/releases/1266643
+Un Hiver 97 - 1997 - https://api.discogs.com/releases/1522971
+Loving You - 1997 - https://api.discogs.com/releases/12451908
+The Very Best Of Pop Music 1969-70 - 1997 - https://api.discogs.com/releases/12657423
+The One And Only 60's Album - 1997 - https://api.discogs.com/masters/3062528
+Canto Morricone Vol. 2 - Western Songs & Ballads - 1998 - https://api.discogs.com/releases/462305
+Dregsby Evening Mercury - 1998 - https://api.discogs.com/releases/3315317
+Portrait - 1998 - https://api.discogs.com/releases/31918537
+Portrait - 1998 - https://api.discogs.com/masters/85622
+And Someone Left The Cake Out In The Rain... (The Classic Songs Of Jimmy Webb) - 1998 - https://api.discogs.com/masters/1213048
+Original Seeds: Songs That Inspired Nick Cave And The Bad Seeds - 1998 - https://api.discogs.com/masters/878390
+The Art Of Singing - 1998 - https://api.discogs.com/masters/1417038
+Musiques - Été 99 - 1999 - https://api.discogs.com/releases/947775
+Twist Again Au Ciné 2 (La Revanche) - 1999 - https://api.discogs.com/releases/5810376
+Music Of The Year: 1969 - 1999 - https://api.discogs.com/releases/12809388
+栄光のロック＆ポップス・ベストコレクション （YMCA / ジュテーム） - 1999 - https://api.discogs.com/releases/13405073
+Easy Listening (Music Inspired By The ITV Series Big Bad World) - 1999 - https://api.discogs.com/releases/19112659
+Welcome Home - 1999 - https://api.discogs.com/releases/21787417
+Music To Watch Girls By - 1999 - https://api.discogs.com/releases/30588709
+More Music To Watch Girls By - 1999 - https://api.discogs.com/masters/1258512
+The Best...And Friends Album In The World...Ever! - 1999 - https://api.discogs.com/masters/1413759
+Music To Watch Girls By - 1999 - https://api.discogs.com/masters/737558
+The World Is Not Enough (Music From The MGM Motion Picture) - 1999 - https://api.discogs.com/masters/70037
+NME Presents Under The Influence - 2000 - https://api.discogs.com/releases/1047592
+The Mood I'm In - 2000 - https://api.discogs.com/releases/1515909
+The 60's Collection - 2000 - https://api.discogs.com/releases/2139231
+Unconditionally Guaranteed 2000.6 (Uncut's Guide To The Month's Best Music) - 2000 - https://api.discogs.com/releases/2445377
+The Singles+ - 2000 - https://api.discogs.com/releases/3063793
+The Best Easy Album .....Ever - 2000 - https://api.discogs.com/releases/4199473
+Sounds Of The Sixties 1969: The End Of A Musical Era - 2000 - https://api.discogs.com/releases/7433900
+Sounds Of The Sixties (1968: Classic Pop In A Time Of Turmoil) - 2000 - https://api.discogs.com/releases/7457682
+At The End Of The Day - 2000 - https://api.discogs.com/releases/7961289
+Ciné Mélodies - 2000 - https://api.discogs.com/releases/8834844
+All Kinds Of Everything - 2000 - https://api.discogs.com/releases/22543307
+The Love Songs Album - 2000 - https://api.discogs.com/masters/2494111
+Music To Watch Girls By Volume 3 - 2000 - https://api.discogs.com/masters/926472
+The Best...And Friends Album In The World...Ever! Vol. 2 - 2000 - https://api.discogs.com/masters/1489906
+Chillout Moods - Magic Forest - 2001 - https://api.discogs.com/releases/572796
+Quiet Life - 2001 - https://api.discogs.com/releases/1037832
+Good Time Gold 68-69 - 2001 - https://api.discogs.com/releases/6916443
+Burt Bacharach - Lounge Legends - 2001 - https://api.discogs.com/releases/7232937
+Barry Mann Songbook - 2001 - https://api.discogs.com/releases/12524376
+Chillout Moods - 2001 - https://api.discogs.com/masters/205690
+The Mad, Mad World Of Soundtracks Volume 2 - 2001 - https://api.discogs.com/masters/264117
+Something Swingin' Vol. 2 - 2002 - https://api.discogs.com/releases/488389
+Call Me - The Songs Of Tony Hatch - 2002 - https://api.discogs.com/releases/3364530
+Take It Easy - 2002 - https://api.discogs.com/releases/4105486
+Double Fun - 2002 - https://api.discogs.com/releases/9022658
+Good Time Gold Breaking Up Is Hard To Do - 2002 - https://api.discogs.com/releases/9662588
+Written In A Song - 2002 - https://api.discogs.com/releases/13687926
+僕たちの洋楽ヒット Vol.2 (1967~68) - 2002 - https://api.discogs.com/releases/25314892
+Heart Beats - Das Geht Unter Die Haut - 2002 - https://api.discogs.com/releases/28829260
+Something Swingin' - 2002 - https://api.discogs.com/masters/443168
+Snow - The Get Easy! Christmas Collection - 2002 - https://api.discogs.com/masters/1653689
+Something Swingin' Vol. 2 - 2003 - https://api.discogs.com/releases/1045434
+Singers And Songwriters - Diary - 2003 - https://api.discogs.com/releases/9641414
+Unforgettable Love Songs Of The Sixties - 2003 - https://api.discogs.com/releases/11724613
+Pin-Ups - The Original Pop Idols - 2003 - https://api.discogs.com/releases/12309453
+Tunesmith (The Songs Of Jimmy Webb) - 2003 - https://api.discogs.com/masters/2456776
+The Morning Side Of Love Vol. 2 - 2003 - https://api.discogs.com/masters/94094
+Les Trésors Cachés - 50 Ans De Rock - 2004 - https://api.discogs.com/releases/485862
+Wonderwall - Μια Περίπτωση Αληθινών Αισθημάτων - 2004 - https://api.discogs.com/releases/3368753
+Sounds Of The Sixties - Evergreens - 2004 - https://api.discogs.com/releases/4980154
+Sounds Of The Sixties - Groovy Kind Of Love - 2004 - https://api.discogs.com/releases/5335871
+The Peace & Love Generation - 2004 - https://api.discogs.com/releases/9343344
+Quintessenzen - 2004 - https://api.discogs.com/releases/11502236
+Unchained Melody - A Collection Of Crooning Classics - 2004 - https://api.discogs.com/releases/12623653
+Original Seeds Vol. 1 & 2 - 2004 - https://api.discogs.com/releases/15308248
+Forever - The Greatest Performers Of All Time - 2004 - https://api.discogs.com/releases/26248199
+The Life Aquatic With Steve Zissou (Original Soundtrack) - 2004 - https://api.discogs.com/masters/101541
+The Trip - 2004 - https://api.discogs.com/masters/53051
+Next Brel - 2004 - https://api.discogs.com/masters/1087311
+Music To Watch Girls By - 2004 - https://api.discogs.com/masters/3229630
+1970 (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/747631
+Hoarfrost - 2005 - https://api.discogs.com/releases/1866197
+Bring It On Home (15 Classic Tracks Chosen By Robert Plant) - 2005 - https://api.discogs.com/releases/2408649
+The Big Easy - 2005 - https://api.discogs.com/releases/2668536
+A Lifetime Of Romance - 2005 - https://api.discogs.com/releases/5458301
+Ready Steady 60s - 2005 - https://api.discogs.com/releases/15148801
+The Crooners 18 Effortlessly Cool Tracks - 2005 - https://api.discogs.com/releases/16119246
+Lifetime Of Romance (Everlasting Love) - 2005 - https://api.discogs.com/releases/19373764
+· Memories · Dedicated To The One I Love - 2005 - https://api.discogs.com/releases/23891552
+BBC: World Shut Your Mouth - 2005 - https://api.discogs.com/masters/1814530
+LateNightTales - 2005 - https://api.discogs.com/masters/59091
+Looking For Europe - The Neofolk Compendium - 2005 - https://api.discogs.com/masters/492
+The Gift Of Love - 2006 - https://api.discogs.com/releases/912037
+Playlist (Our 16-Track Guide To The Month's Best Music) - 2006 - https://api.discogs.com/releases/1274847
+Specialten Issue 15 - 2006 - https://api.discogs.com/releases/1537118
+Les Inrockuptibles Présentent : Best Of 2006, Les 50 Meilleures Chansons De L'Année - 2006 - https://api.discogs.com/releases/1604562
+True Mellow - 2006 - https://api.discogs.com/masters/1561633
+True Sixties Love - 2006 - https://api.discogs.com/masters/2570912
+Plague Songs - 2006 - https://api.discogs.com/masters/196594
+Tribute To National Noise Day - 2007 - https://api.discogs.com/releases/1055072
+100 Trésors Cachés: Chansons Rares & Indispensables - 2007 - https://api.discogs.com/releases/2601288
+True ChillOut - 2007 - https://api.discogs.com/releases/8550638
+Sixties Power Ballads - 2007 - https://api.discogs.com/releases/11527435
+The 100 Greatest Hits - 2007 - https://api.discogs.com/releases/15197370
+For The Good Times - 2007 - https://api.discogs.com/releases/23067716
+The Thief & The Heartbreaker + Bonus Disc - 2007 - https://api.discogs.com/masters/445153
+The Best Hits 100 Super 60's - 2008 - https://api.discogs.com/releases/1225873
+On Vine Street (The Early Songs Of Randy Newman) - 2008 - https://api.discogs.com/releases/3158668
+Sixties Top 100 Vol. 2 - 2008 - https://api.discogs.com/releases/6293476
+Later... With Jools Holland - The First 15 Years - 2008 - https://api.discogs.com/releases/11789349
+Les Bandes Originales De Films Sixties & Seventies - 2008 - https://api.discogs.com/releases/13312261
+Best Of Snow (A Very Special Christmas Collection) - 2008 - https://api.discogs.com/releases/14541725
+Flashbacks Of A Fool - Music From The Motion Picture - 2008 - https://api.discogs.com/releases/19017616
+The Very Best Of Heartbeat - 2008 - https://api.discogs.com/releases/23877272
+The Mix Tapes - Alternative Music From The Late 70s And 80s - 2008 - https://api.discogs.com/masters/364795
+The Very Best Of Music To Watch Girls By - 2008 - https://api.discogs.com/masters/737564
+Bad Seeds (Nick Cave: Roots & Collaborations) (Mojo Presents A 15 Track Celebration) - 2009 - https://api.discogs.com/releases/1650096
+UMPG Songs (Digital Music Library) - 2009 - https://api.discogs.com/releases/7375622
+Een Muzikale Reis Door De Jaren '60 - 1968 - 2009 - https://api.discogs.com/releases/8934546
+Remembering The Sixties (1969) - 2009 - https://api.discogs.com/releases/9691211
+Oldies 101 Your Favourite - 2009 - https://api.discogs.com/releases/14677709
+Acoustic Songs 1 - 2009 - https://api.discogs.com/releases/22839593
+Remembering the sixties - 1968 - 2009 - https://api.discogs.com/releases/29839084
+Acoustic Songs 2 - 2009 - https://api.discogs.com/masters/2379106
+Easy Associations - 2010 - https://api.discogs.com/releases/4331816
+Yesterdays - Songs From The Heart - 2010 - https://api.discogs.com/releases/13255714
+Wonderful Dream - 2010 - https://api.discogs.com/releases/13519215
+Forever Dreamers - 2010 - https://api.discogs.com/releases/19975180
+Guest Mix - 2010 - https://api.discogs.com/releases/30779343
+Come On Back To The War - 2011 - https://api.discogs.com/releases/2672669
+Immaculate Mixtapes Volume One - 2011 - https://api.discogs.com/releases/3111562
+Mixtape + Barcelona Bedroom Recording - 2011 - https://api.discogs.com/releases/3577132
+The Very Best Of Sad Songs - 2011 - https://api.discogs.com/releases/8108693
+LateNightTales (TheDecadeBox) - 2011 - https://api.discogs.com/releases/8417021
+The Ultimate Collection Sixties 100 Hits - 2011 - https://api.discogs.com/releases/10490248
+Ladies & Gentlemen - 2011 - https://api.discogs.com/releases/10953088
+Booklovers Lounge - 2011 - https://api.discogs.com/releases/19594996
+LateNightTales - 2011 - https://api.discogs.com/masters/537831
+Secret Thirteen Mix 025 - 2012 - https://api.discogs.com/releases/3725160
+Needle Exchange 110 - 2012 - https://api.discogs.com/releases/4071789
+Sonoran Asphalt Slip N' Slide - 2012 - https://api.discogs.com/releases/5156934
+Posti In Piedi In Paradiso (Colonna Sonora Originale) - 2012 - https://api.discogs.com/releases/29682217
+Best Of Bond... James Bond (50 Years - 50 Tracks) - 2012 - https://api.discogs.com/masters/88999
+Freerotation 2013 - 2013 - https://api.discogs.com/releases/4954701
+/ I A / MIX 115 - 2013 - https://api.discogs.com/releases/5153095
+NTS Radio Show 09-10-13 - 2013 - https://api.discogs.com/releases/5614086
+Born To Be Together (The Songs Of Barry Mann & Cynthia Weil) - 2013 - https://api.discogs.com/releases/10835692
+Greatest Ever! Country Rock - 2013 - https://api.discogs.com/releases/12017580
+Greatest Ever! Sixties The Definitive Collection - 2013 - https://api.discogs.com/releases/13160138
+僕たちの洋楽ヒット More Deluxe Vol.2 1964→1969 - 2013 - https://api.discogs.com/releases/32154933
+Anyone Who Had A Heart : The Art Of The Songwriter - 2013 - https://api.discogs.com/masters/900200
+Secret Thirteen Mix 060 - 2013 - https://api.discogs.com/masters/970104
+Boetiek Romantiek Vol. 2 - 2014 - https://api.discogs.com/releases/7911277
+Radio 2 Klassiekers - Funiculi Funicula 2 - 2014 - https://api.discogs.com/releases/7943881
+The Patuxent Banjo Project - 2014 - https://api.discogs.com/releases/11566442
+Country - The Ultimate Collection - 2014 - https://api.discogs.com/releases/17180422
+Colour My World (The Songs Of Tony Hatch) - 2014 - https://api.discogs.com/masters/2681168
+60s Classics (The Ultimate Collection 100 Hit Tracks) - 2014 - https://api.discogs.com/masters/1667979
+Masterpiece - 2015 - https://api.discogs.com/releases/7264622
+FACT Mix 522 - 2015 - https://api.discogs.com/releases/7859627
+Discipula - Secret Thirteen Mix 164 - 2015 - https://api.discogs.com/releases/7868156
+Secret Thirteen Mix 165 - 2015 - https://api.discogs.com/releases/7869208
+MethLab Podcast - 2015 - https://api.discogs.com/releases/7990647
+Arte Summer Of Peace - 2015 - https://api.discogs.com/releases/10130410
+Crooners - 2015 - https://api.discogs.com/releases/14370726
+The Solid Silver 60s Greatest Hits - 2015 - https://api.discogs.com/masters/2631245
+Ricordare (The Songs Of Ennio Morricone) - 2016 - https://api.discogs.com/releases/9498580
+Classic Love - 2016 - https://api.discogs.com/releases/11467306
+Big Time Operators (The Big Bold Booming Voices Of The 60s & 70s) - 2016 - https://api.discogs.com/releases/13715421
+Cool Cats & Diamond Dolls - 2017 - https://api.discogs.com/releases/11194201
+Country Greats (The Ultimate Collection) - 2017 - https://api.discogs.com/releases/11670395
+Greatest Ever! Country - 2017 - https://api.discogs.com/releases/12021684
+Dreamboats And Petticoats: The Diamond Edition - 2017 - https://api.discogs.com/masters/3121887
+Mei '68 Revolution - 2018 - https://api.discogs.com/releases/12052056
+Top Of The Pops Summer Of Love - 2018 - https://api.discogs.com/releases/12311736
+101 Love Songs - 2018 - https://api.discogs.com/releases/12728888
+Les Moulins De Son Cœur - 2018 - https://api.discogs.com/releases/13142775
+Now That's What I Call Easy - 2018 - https://api.discogs.com/releases/17082789
+Sunshine Sixties - 2018 - https://api.discogs.com/releases/26733440
+Mai 68 Revolution - 2018 - https://api.discogs.com/releases/26737769
+60s Hits (The Ultimate Collection) - 2018 - https://api.discogs.com/releases/30819972
+Vox Lux (Original Motion Picture Soundtrack) - 2018 - https://api.discogs.com/masters/1600163
+I Want To Tell You Something - 2019 - https://api.discogs.com/releases/13147857
+Driven By The 60s - 100 Essential Driving Songs - 2019 - https://api.discogs.com/releases/13541694
+Funiculi Funicula - Amore - 2019 - https://api.discogs.com/releases/13551538
+Music To Watch Girls By (75 Cool, Sophisticated And Timeless Tracks) - 2019 - https://api.discogs.com/releases/14164922
+Radio 2 Klassiekers - Funiculi Funicula 7 - 2019 - https://api.discogs.com/releases/14365540
+Tomasz Raczek W Kinie vol. 2 - 2019 - https://api.discogs.com/releases/14774838
+60s Psychedelic Rock - 2019 - https://api.discogs.com/releases/22538417
+The Hits Album - The 60s Album - 2020 - https://api.discogs.com/releases/15233629
+Memory Lane - 2020 - https://api.discogs.com/releases/15881245
+JUKE BOX AT ERIC'S – Roger Eagle Commemorative Edition - 2020 - https://api.discogs.com/releases/16001560
+The Best Of Film Music Vol. 2 - 2020 - https://api.discogs.com/releases/16826949
+Funiculi Funicula - Primavera - 2020 - https://api.discogs.com/releases/18754216
+De Beste Muziek Uit NOS Langs De Lijn - 2020 - https://api.discogs.com/releases/21448432
+Magic Moments... (75 Cool, Sophisticated And Timeless Songs) - 2020 - https://api.discogs.com/releases/24063770
+De Beste Muziek Uit "Langs De Lijn" - 2020 - https://api.discogs.com/masters/1828303
+Dreamboats & Petticoats  Bringing On Back The Good Times! - 2021 - https://api.discogs.com/releases/21590824
+Magical Days - Hits Of Gold - 2021 - https://api.discogs.com/releases/25327162
+The Best 60s Album In The World…Ever - 2022 - https://api.discogs.com/releases/22580795
+Dreamboats & Petticoats Presents... The Walker Brothers / The Righteous Brothers / The Platters - 2022 - https://api.discogs.com/releases/22927505
+The Coolest Album In The World Ever! - 2022 - https://api.discogs.com/releases/23991548
+A Mixed Tape Made By Robin Carolan And Sebastian Gainsborough - 2022 - https://api.discogs.com/releases/23994200
+Signs Of A Splendid Transformation - Roots Of David Bowie - Swinging 60s London - 2023 - https://api.discogs.com/releases/27223803
+Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) - 2023 - https://api.discogs.com/masters/2977363
+British Mod Sounds Volume 2 (The Freakbeat & Psych Years) - 2023 - https://api.discogs.com/masters/2984075
+We've Only Just Begun (The Paul Williams Songbook) - 2024 - https://api.discogs.com/releases/31389953
+Music To Watch Girls By...Golden Days - 2024 - https://api.discogs.com/releases/31501217
+The Stars Salute Sinatra - Desconocido - https://api.discogs.com/releases/2493698
+Dream Baby Dream Volume 2 - Desconocido - https://api.discogs.com/releases/4455201
+World Best Hits '69-70  - Desconocido - https://api.discogs.com/releases/4895821
+Ah Men! - Desconocido - https://api.discogs.com/releases/5612073
+A Hundred And One Headline Hits - Desconocido - https://api.discogs.com/releases/5902719
+100% Easy Loungin' - Urban Sounds For Modern Living Vol. 4 - Desconocido - https://api.discogs.com/releases/5988825
+Bingo! 16 Bacharach Hits - Desconocido - https://api.discogs.com/releases/5989924
+For Lovers Only - Desconocido - https://api.discogs.com/releases/6134028
+Coming Home - Desconocido - https://api.discogs.com/releases/6860936
+For Ladies Only Vol. 3 - Desconocido - https://api.discogs.com/releases/9185820
+120 All Time Hits Vol. 8 - Desconocido - https://api.discogs.com/releases/10082171
+フィリップス・ポピュラー11月新譜シングル・ハイライト盤及び最重点曲 - Desconocido - https://api.discogs.com/releases/10518932
+Tops of the Pops - Desconocido - https://api.discogs.com/releases/12292866
+Big Time Operators  - Desconocido - https://api.discogs.com/releases/13513624
+Good Times - The Cream of Pop • Vol. 1  - Desconocido - https://api.discogs.com/releases/14597922
+Golden Million Seller Custom 20 - Desconocido - https://api.discogs.com/releases/15363768
+Juke Box Special Volume 9 - Top Selections From 1968-1971 - Desconocido - https://api.discogs.com/releases/15663220
+Hit Story 1968 - Desconocido - https://api.discogs.com/releases/16020849
+Golden Hits 24 = ワールド・トップ・ヒッツ 24 - Desconocido - https://api.discogs.com/releases/18765781
+Juke Box Special Volume 9 - Top Selections From 1968-1971 - Desconocido - https://api.discogs.com/releases/23819396
+Forget Our Fate; Even Kings Are Made Of Meat (Workin' Nights 0294:  Drekka Mixtape 2019) - Desconocido - https://api.discogs.com/releases/25418446
+Great Hits Of Burt Bacharach - Desconocido - https://api.discogs.com/releases/29363443
+Top Of The Pops - Best Of The Rest Volume 27 - Desconocido - https://api.discogs.com/releases/30509821
+The Country Album (23 Country Classics) - Desconocido - https://api.discogs.com/releases/31833707
+Hit History 1969 - Desconocido - https://api.discogs.com/masters/2792456
+Star Parade - Desconocido - https://api.discogs.com/masters/748644
+Music From The Theatre - Desconocido - https://api.discogs.com/masters/670324
+The Love Box Vol II - Desconocido - https://api.discogs.com/masters/800415
+A Touch Of Class - Desconocido - https://api.discogs.com/masters/1110219
+More After Midnight - Desconocido - https://api.discogs.com/masters/1480400
+Your Kind Of Music - Desconocido - https://api.discogs.com/masters/2919205
+The Best Of Bacharach - Desconocido - https://api.discogs.com/masters/752960
+Greatest Beat Hits 68 - Desconocido - https://api.discogs.com/masters/3512671
+69er Top Oldies - Desconocido - https://api.discogs.com/masters/1265588
+Swinging Sixties 2 - Desconocido - https://api.discogs.com/masters/1402809
+Ghost Songs On Dawn's Highway / Nite Flights - 1993 - https://api.discogs.com/masters/672653
+Grand Collection - 2000 - https://api.discogs.com/masters/3238987
+Song Book - 2000 - https://api.discogs.com/masters/425628
+We Love Life - 2001 - https://api.discogs.com/masters/87177
+Crashing Into Parked Cars - 2002 - https://api.discogs.com/releases/3023345
+Die Another Day & 007 (Music From The MGM Motion Picture) - 2002 - https://api.discogs.com/releases/21773599
+Hits - 2002 - https://api.discogs.com/masters/87152
+Ederlezi - 2002 - https://api.discogs.com/masters/243198
+The Kindness Of Strangers - 2005 - https://api.discogs.com/releases/5898386
+LateNightTales - 2006 - https://api.discogs.com/masters/59091
+The Sun Ain't Gonna Shine Anymore - 2008 - https://api.discogs.com/releases/10190888
+NC Guest Mix#5 - 2010 - https://api.discogs.com/releases/12915202
+Top Of The Pops Volume 246 - 2010 - https://api.discogs.com/releases/30111020
+Bish Bosch - 2012 - https://api.discogs.com/masters/496137
+Best Of Bond... James Bond 50 Years - 50 Tracks - 2012 - https://api.discogs.com/masters/88999
+Everything Under The Sun - Osaka, Japan 1968 - 2016 - https://api.discogs.com/masters/1690907
+Occasional Dreaming - 2018 - https://api.discogs.com/releases/12743004
+Live On Air 1968-1969 - 2019 - https://api.discogs.com/releases/14375660
+Live On Air 1968 - 2019 - https://api.discogs.com/masters/1558194
+Delilah / Joanna - Desconocido - https://api.discogs.com/releases/10311378
+Newman's Loaned: The Songs of Randy Newman As Performed By Other Artists - Desconocido - https://api.discogs.com/releases/12625869
+Lost Jukebox Vol. 163 - Desconocido - https://api.discogs.com/releases/15993240
+Lost Jukebox Vol. 169 - Desconocido - https://api.discogs.com/releases/16046527
+Impressions Of Wonderful 1965 - 1967 - Desconocido - https://api.discogs.com/masters/1426092
+Live In Japan  - Desconocido - https://api.discogs.com/masters/554703
+Video Anthology - Desconocido - https://api.discogs.com/masters/1490163
+Introducing The Walker Brothers - Desconocido - https://api.discogs.com/masters/363767
+Ab 80 - Alles Über Sex ! - Desconocido - https://api.discogs.com/masters/379796
