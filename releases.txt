@@ -1,7 +1,3 @@
 Listado de releases del artista:
-Nana Del Viejo Mundo - 2019 - https://api.discogs.com/releases/14369025
-Derby Motoreta's Burrito Kachimba - 2019 - https://api.discogs.com/masters/1520975
-Hilo Negro - 2021 - https://api.discogs.com/masters/2094133
-Las Leyes De La Frontera - 2022 - https://api.discogs.com/masters/2950717
-Bolsa Amarilla Y Piedra Potente - 2024 - https://api.discogs.com/masters/3452135
-Momentos Rockdelux. Canciones Nacionales Vol. 3/2019 - 2020 - https://api.discogs.com/releases/14611741
+After Its Own Death / Walking In A Spiral Towards The House - 2019 - https://api.discogs.com/masters/1501254
+Isolatedmix 93 - 2019 - https://api.discogs.com/releases/14245011
