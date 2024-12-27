@@ -1,3 +1,29 @@
 Listado de releases del artista:
-After Its Own Death / Walking In A Spiral Towards The House - 2019 - https://api.discogs.com/masters/1501254
-Isolatedmix 93 - 2019 - https://api.discogs.com/releases/14245011
+Banditos / S/T - 2012 - https://api.discogs.com/releases/10955211
+Gypsy Pervert - 2013 - https://api.discogs.com/masters/778667
+Thanks Sorry Thanks EP / Kiss Me Tender EP - 2014 - https://api.discogs.com/releases/11570154
+Girls to the Stage - 2015 - https://api.discogs.com/releases/31292471
+Romantic - 2016 - https://api.discogs.com/masters/1088049
+Drunk II - 2019 - https://api.discogs.com/releases/13817824
+Patience - 2019 - https://api.discogs.com/releases/15120017
+Patience - 2019 - https://api.discogs.com/masters/1567832
+Perfect - 2021 - https://api.discogs.com/masters/2491054
+I Got Heaven - 2023 - https://api.discogs.com/releases/28235614
+I Got Heaven - 2024 - https://api.discogs.com/masters/3412591
+Life Under The Sun - 2024 - https://api.discogs.com/releases/30454670
+All Areas Volume 277 - 2024 - https://api.discogs.com/releases/31845128
+Funeral Soundtrack #4 - 2024 - https://api.discogs.com/masters/3565706
+Leisure Rules - 2012 - https://api.discogs.com/releases/4525292
+The Le Sigh Vol. 1 - 2013 - https://api.discogs.com/releases/6762288
+Creepy Feelings - 2014 - https://api.discogs.com/releases/5475392
+In It Together Mixtape - 2015 - https://api.discogs.com/releases/7768824
+A Benefit Comp To Help Pay Medical Bills For Those Activists Fighting Against Fascism & Racism - 2017 - https://api.discogs.com/releases/10782430
+Tiny Engines 2017 - 2017 - https://api.discogs.com/releases/11626256
+Tiny Engines 2017 Label Sampler - 2017 - https://api.discogs.com/releases/15548673
+All Areas Volume 219 - 2019 - https://api.discogs.com/releases/13861928
+New Noises Vol. 149 - 2019 - https://api.discogs.com/releases/14424471
+Classic Rock Compilation 126 - 2023 - https://api.discogs.com/releases/29146264
+All Areas Volume 270 - 2024 - https://api.discogs.com/releases/29874277
+Musikexpress 03/24 - 2024 - https://api.discogs.com/releases/29915347
+Musicians For A Free Palestine - 2024 - https://api.discogs.com/releases/30415703
+Mixtape 2024 - 2024 - https://api.discogs.com/releases/32497260

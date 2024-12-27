@@ -6,9 +6,11 @@ menu: main
 weight: 3
 ---
 
-_Actualizado el 06-12-2024_
+_Actualizado el 27-12-2024_
 
-[Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) ni playlist ni playlisto
+[Las 3 más oídas por disco de /top, Modern-Era, The-Body, Dis-Fig, Warrington-Runcorn-New-Town-Development-Plan](https://open.spotify.com/playlist/3ndK5flL1uOwS8ETWbJlax)
+
+[Las 3 más oídas por disco de foyone](https://open.spotify.com/playlist/6MJnHncWYPsF8kqMIXs0Ke)
 
 [Marta_Rocco](https://open.spotify.com/playlist/1BExuHcm8oWo8vDY9IhnQw)
 
@@ -31,6 +33,8 @@ _Actualizado el 06-12-2024_
 [Lecturas](https://open.spotify.com/playlist/3vCfGWhpGn2mcrlsCYMuLM) po eso, pa bailar mientras limpias
 
 [balearic](https://open.spotify.com/playlist/6YCNVAkIyrKOUItxv3tRxe) noches de verano
+
+[Mama](https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg) ni playlist ni playlisto
 
 [Albums_HiFi](https://open.spotify.com/playlist/4R1Q00icNWjLZhUaTphBYW) Discos que suenan especialmente bien.
 
