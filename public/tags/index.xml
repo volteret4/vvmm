@@ -6,7 +6,25 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 02 Jan 2025 16:50:16 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 17:01:08 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>folk</title>
+      <link>/tags/folk/</link>
+      <pubDate>Thu, 02 Jan 2025 17:01:08 +0100</pubDate>
+      
+      <guid>/tags/folk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock</title>
+      <link>/tags/rock/</link>
+      <pubDate>Thu, 02 Jan 2025 17:01:08 +0100</pubDate>
+      
+      <guid>/tags/rock/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ambient</title>
       <link>/tags/ambient/</link>
@@ -22,15 +40,6 @@
       <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
       
       <guid>/tags/psicodelia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rock</title>
-      <link>/tags/rock/</link>
-      <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
-      
-      <guid>/tags/rock/</guid>
       <description></description>
     </item>
     
@@ -67,15 +76,6 @@
       <pubDate>Thu, 02 Jan 2025 15:03:01 +0100</pubDate>
       
       <guid>/tags/metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>folk</title>
-      <link>/tags/folk/</link>
-      <pubDate>Thu, 02 Jan 2025 15:01:26 +0100</pubDate>
-      
-      <guid>/tags/folk/</guid>
       <description></description>
     </item>
     
