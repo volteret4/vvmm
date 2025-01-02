@@ -1,22 +1,260 @@
 Listado de releases del artista:
-The Sword - 2017 - https://api.discogs.com/releases/10448648
-Space Is The Key - 2017 - https://api.discogs.com/masters/1230619
-Fearless Eye - 2018 - https://api.discogs.com/releases/12677211
-La Planète Inexplorée - 2018 - https://api.discogs.com/masters/1434981
-2016 : Spacetrip for Everyone - 2019 - https://api.discogs.com/releases/13700264
-Ummon - 2020 - https://api.discogs.com/releases/20632678
-Ummon - 2020 - https://api.discogs.com/masters/1696217
-Levitation Sessions - 2021 - https://api.discogs.com/masters/2494342
-Space Is The Key / La Planète Inexplorée - 2021 - https://api.discogs.com/masters/1928235
-Ilion - 2023 - https://api.discogs.com/releases/28496380
-Unseen b/w The Real Unseen - 2023 - https://api.discogs.com/masters/2991473
-Ilion - 2024 - https://api.discogs.com/masters/3364459
-Psych Against Cancer Vol II Part II - 2020 - https://api.discogs.com/releases/18624457
-Rough Trade Shops: Counter Culture 20 - 2020 - https://api.discogs.com/masters/2017267
-Swampland Sessions - 2021 - https://api.discogs.com/releases/18877372
-Eight Years Of Acid Box - 2021 - https://api.discogs.com/releases/21446254
-The Sour Grapes Compilation (Squeeze Nights At Big Hands) - 2021 - https://api.discogs.com/releases/25130170
-Trip To France - 2021 - https://api.discogs.com/releases/31633786
-Reverberation Appreciation : Label Compilation - 2021 - https://api.discogs.com/masters/2874739
-Hiver 2023/24 - 2023 - https://api.discogs.com/releases/29060824
-Rough Trade Shops Counter Culture 23 - 2023 - https://api.discogs.com/releases/29456614
+NY Is Killing Me - 2010 - https://api.discogs.com/masters/299702
+FACT Mix 239 - 2011 - https://api.discogs.com/releases/2824973
+FACT Mix 282 - 2011 - https://api.discogs.com/releases/3135409
+Boiler Room #69 - 2011 - https://api.discogs.com/releases/3495553
+I'll Take Care Of U - 2011 - https://api.discogs.com/masters/412162
+We're New Here - 2011 - https://api.discogs.com/masters/313983
+Far Nearer / Beat For - 2011 - https://api.discogs.com/masters/344958
+Bloom (Jamie xx Rework Pt. 3) - 2012 - https://api.discogs.com/masters/1191710
+Girl / Sleep Sound - 2014 - https://api.discogs.com/masters/733715
+All Under One Roof Raving - 2014 - https://api.discogs.com/masters/701226
+Home - 2015 - https://api.discogs.com/releases/6801574
+In Colour Preview - 2015 - https://api.discogs.com/releases/6827324
+Loud Places (Remixes) - 2015 - https://api.discogs.com/masters/888113
+In Colour - 2015 - https://api.discogs.com/masters/842201
+Gosh - 2015 - https://api.discogs.com/masters/1122029
+I Know There's Gonna Be (Good Times) - 2015 - https://api.discogs.com/masters/876401
+SeeSaw (Club Version) - 2016 - https://api.discogs.com/masters/1011293
+Smoke (Mall Grab Remix)  - 2020 - https://api.discogs.com/releases/25066327
+Idontknow - 2020 - https://api.discogs.com/masters/1946779
+KILL DEM - 2022 - https://api.discogs.com/releases/25732048
+Gosh (Left/Right Remix) - 2022 - https://api.discogs.com/masters/2674523
+Let's Do It Again - 2022 - https://api.discogs.com/masters/2591084
+Baddy On The Floor - 2024 - https://api.discogs.com/releases/30917997
+Life - 2024 - https://api.discogs.com/releases/31021987
+Treat Each Other Right - 2024 - https://api.discogs.com/releases/31026334
+Waited All Night - 2024 - https://api.discogs.com/releases/31788338
+It's So Good - 2024 - https://api.discogs.com/masters/3378901
+In Waves - 2024 - https://api.discogs.com/masters/3601646
+FACT Mix 70 - 2009 - https://api.discogs.com/releases/1906524
+Bulletproof / I'm Not Your Toy / You've Got The Love - 2009 - https://api.discogs.com/releases/3717288
+You've Got The Love - 2009 - https://api.discogs.com/masters/194020
+Pull My Heart Away - 2009 - https://api.discogs.com/masters/256868
+Basic Space - 2009 - https://api.discogs.com/masters/175870
+FACT Mix 174 - 2010 - https://api.discogs.com/releases/2506740
+Drift Remixed - 2010 - https://api.discogs.com/releases/2737589
+UMPG Jan 2010 Sampler - 2010 - https://api.discogs.com/releases/10301911
+Ring + Instrumentals & Remixes - 2010 - https://api.discogs.com/releases/13709716
+Tremel - 2010 - https://api.discogs.com/masters/236173
+VCR - 2010 - https://api.discogs.com/masters/256304
+NY Is Killing Me - 2010 - https://api.discogs.com/masters/299702
+Ring - 2010 - https://api.discogs.com/masters/283512
+The Sound Pellegrino Podcast - Episode 9 : Sam Tiba - 2011 - https://api.discogs.com/releases/2686972
+Guest Mix For Andrew Meza's BTS Radio - Round 2 - 2011 - https://api.discogs.com/releases/2878640
+MDD Mix 034 - 2011 - https://api.discogs.com/releases/2986050
+Chilled Afterhours - 2011 - https://api.discogs.com/releases/3015052
+Cream Chilled Electronic - 2011 - https://api.discogs.com/releases/3041209
+Мишка Presents Keep Watch Vol. XXVII - 2011 - https://api.discogs.com/releases/3062848
+Ibiza Rocks 2011 - 2011 - https://api.discogs.com/releases/3179039
+Bestimix 66: The 2 Bears - 2011 - https://api.discogs.com/releases/3923953
+Annie Mac Presents 2011 - 2011 - https://api.discogs.com/releases/4149559
+Ny Musik Februar/Marts 2011 - 2011 - https://api.discogs.com/releases/5647349
+R-way Junction - 2011 - https://api.discogs.com/releases/6402563
+Mixtape - 2011 - https://api.discogs.com/releases/13638412
+TKOL RMX 1234567 - 2011 - https://api.discogs.com/masters/374913
+Rolling In The Deep (Jamie XX Shuffle) - 2011 - https://api.discogs.com/masters/306054
+Bloom (Jamie XX Remix) - 2011 - https://api.discogs.com/masters/1191710
+TKOL RMX8 - 2011 - https://api.discogs.com/masters/392357
+Hip Love - 2011 - https://api.discogs.com/masters/371394
+Bloom (Jamie XX Rework) / Separator (Anstam RMX) / Lotus Flower (SBTRKT RMX) - 2011 - https://api.discogs.com/masters/371409
+Le Grand Journal Canal + - La Grande B.O Volume 3 - 2012 - https://api.discogs.com/releases/3533944
+Ramp 50 - 2012 - https://api.discogs.com/releases/3573108
+LWE Podcast 112 - 2012 - https://api.discogs.com/releases/3621390
+The XXmas Ep - 2012 - https://api.discogs.com/releases/4157799
+The Sound Pellegrino Podcast - Episode 94 - 2012 - https://api.discogs.com/releases/4385139
+Hype Machine Radio: January 2012  - 2012 - https://api.discogs.com/releases/4886012
+XX Volume 2 - 2012 - https://api.discogs.com/masters/566827
+Jupiters / Lion (Remixes) - 2012 - https://api.discogs.com/masters/552516
+Offcast #17 - 2013 - https://api.discogs.com/releases/4422800
+Under The Pyramids - Low End Theory Japan 2013 Mix - 2013 - https://api.discogs.com/releases/4552976
+Chilltronica Nº4 - 2013 - https://api.discogs.com/releases/5212150
+Young Turks 2012 - 2013 - https://api.discogs.com/releases/7225856
+Balance 024 - 2013 - https://api.discogs.com/masters/1241355
+Jamie xx Edits - 2013 - https://api.discogs.com/masters/547583
+Pianorama 2b - 2014 - https://api.discogs.com/releases/5426293
+Pink Remixes - 2014 - https://api.discogs.com/masters/837326
+LateNightTales - 2016 - https://api.discogs.com/masters/1019559
+Void Of Reason - 2017 - https://api.discogs.com/releases/10431844
+DMC - Essential Club Hits 135 - 2017 - https://api.discogs.com/releases/10966556
+Remote Control Summer Touring Sampler 2017/2018 - 2017 - https://api.discogs.com/releases/11321142
+Remote Control September Sampler II - 2017 - https://api.discogs.com/releases/11324574
+On Hold (Remixes) - 2017 - https://api.discogs.com/masters/1281912
+The Annual 2018 - 2018 - https://api.discogs.com/releases/12595924
+Remixes - 2018 - https://api.discogs.com/masters/2167396
+Electronic Music Anthology - The Box Set - 2021 - https://api.discogs.com/masters/3359431
+Remixes/Rarities Sept 2011 - Desconocido - https://api.discogs.com/releases/12885790
+21 Dager Seinere - 2013 - https://api.discogs.com/masters/642803
+Nothing Breaks Like A Heart - 2018 - https://api.discogs.com/masters/1463388
+Late Night Feelings - 2019 - https://api.discogs.com/masters/1565967
+When Smoke Rises - 2021 - https://api.discogs.com/masters/2113966
+Fruit - 2022 - https://api.discogs.com/masters/2633621
+Hideous Bastard - 2022 - https://api.discogs.com/masters/2775461
+Hideous - 2022 - https://api.discogs.com/masters/2777525
+Mid Air - 2023 - https://api.discogs.com/masters/3230470
+Quest For Fire - 2023 - https://api.discogs.com/masters/2982971
+Enjoy Your Life - 2023 - https://api.discogs.com/masters/3213639
+Call Me If You Get Lost: The Estate Sale - 2023 - https://api.discogs.com/masters/2192617
+Baddy On The Floor - 2024 - https://api.discogs.com/releases/30917997
+Life - 2024 - https://api.discogs.com/releases/31021987
+Treat Each Other Right - 2024 - https://api.discogs.com/releases/31026334
+Waited All Night - 2024 - https://api.discogs.com/releases/31788338
+In Waves - 2024 - https://api.discogs.com/masters/3601646
+When Smoke Rises - 2021 - https://api.discogs.com/masters/2113966
+Colette N°10 - 2010 - https://api.discogs.com/releases/2632447
+FACT Mix 70 - 2009 - https://api.discogs.com/releases/1906524
+Basic Space - 2009 - https://api.discogs.com/masters/175870
+Colette N°10 - 2010 - https://api.discogs.com/releases/2632447
+Take Care - 2011 - https://api.discogs.com/masters/394138
+Switch 21 - 2013 - https://api.discogs.com/releases/4411474
+Continuum - 2015 - https://api.discogs.com/releases/6912868
+Conversions Vol. 1 - 2017 - https://api.discogs.com/releases/10172710
+High As Hope - 2018 - https://api.discogs.com/masters/1385205
+Gang - 2020 - https://api.discogs.com/releases/15078963
+Wherever You Go / Reflecting Light - 2020 - https://api.discogs.com/releases/15664613
+We Will Always Love You - 2020 - https://api.discogs.com/masters/1863498
+When Smoke Rises - 2021 - https://api.discogs.com/masters/2113966
+Fruit - 2022 - https://api.discogs.com/masters/2633621
+Hideous Bastard - 2022 - https://api.discogs.com/masters/2775461
+Quest For Fire - 2023 - https://api.discogs.com/masters/2982971
+Enjoy Your Life - 2023 - https://api.discogs.com/masters/3213639
+Baddy On The Floor - 2024 - https://api.discogs.com/releases/30917997
+Life - 2024 - https://api.discogs.com/releases/31021987
+Treat Each Other Right - 2024 - https://api.discogs.com/releases/31026334
+Waited All Night - 2024 - https://api.discogs.com/releases/31788338
+In Waves - 2024 - https://api.discogs.com/masters/3601646
+FACT Mix 70 - 2009 - https://api.discogs.com/releases/1906524
+RA.256 - 2011 - https://api.discogs.com/releases/2854350
+MDD Mix 034 - 2011 - https://api.discogs.com/releases/2986050
+Chilled Afterhours - 2011 - https://api.discogs.com/releases/3015052
+Мишка Presents Keep Watch Vol. XXVII - 2011 - https://api.discogs.com/releases/3062848
+XL Recordings Sampler 2011 - 2011 - https://api.discogs.com/releases/3099794
+White Light 47 - 2011 - https://api.discogs.com/releases/3142146
+Chillout Sessions XIV - 2011 - https://api.discogs.com/releases/3332983
+Ice Ice Baby - Årsbeste 2011 - 2011 - https://api.discogs.com/releases/3401960
+Bleep:100 Tracks/2011 - 2011 - https://api.discogs.com/releases/3458262
+Night Tracks 018: Gage Guest Mix - 2011 - https://api.discogs.com/releases/4713847
+Ny Musik Fra Playground Music April 2011 - 2011 - https://api.discogs.com/releases/4778531
+Significant Other - 2011 - https://api.discogs.com/releases/5196871
+Live @ MIRA Festival - 2011 - https://api.discogs.com/releases/10370934
+Check Yo' Ponytail Mixtape - 2011 - https://api.discogs.com/releases/10660420
+Dream. Sleep. Wake. - 2011 - https://api.discogs.com/releases/13668864
+Yours Truly (The Mixtape Part II) - 2011 - https://api.discogs.com/releases/20293186
+RA.304 - 2012 - https://api.discogs.com/releases/3528854
+The Chillout Session - 2012 - https://api.discogs.com/releases/3835506
+Broaden - 2012 - https://api.discogs.com/releases/3866175
+Hype Machine Radio: January 2012  - 2012 - https://api.discogs.com/releases/4886012
+#Speed #Money #God - 2012 - https://api.discogs.com/releases/5338810
+Fantastic Mr Fox Black Acre Broadcast 0.01 - 2012 - https://api.discogs.com/releases/6631584
+Hot Boyz - 2012 - https://api.discogs.com/releases/7680234
+FUT.UR.ISM - 2013 - https://api.discogs.com/releases/4525787
+The Morning After The Night Before - 2014 - https://api.discogs.com/releases/6328575
+FM4 Soundselection: 30 (you're at home baby) - 2014 - https://api.discogs.com/releases/7636069
+Triple J House Party Volume Three - 2014 - https://api.discogs.com/releases/7705578
+Electrolab #02 - 2014 - https://api.discogs.com/releases/8313821
+100 Hits Lounge - 2014 - https://api.discogs.com/releases/9703202
+Electro Shock 3 - 2014 - https://api.discogs.com/releases/9713909
+Chilled Summer - 2014 - https://api.discogs.com/releases/11753600
+Annie Mac Presents 2014 - 2014 - https://api.discogs.com/releases/12337371
+XL Recordings: Pay Close Attention - 2014 - https://api.discogs.com/masters/737682
+Young Turks 2014 - 2014 - https://api.discogs.com/masters/802002
+Mixmag Germany: Episode 007 - 2015 - https://api.discogs.com/releases/6642603
+Chilled House Session 6 - 2015 - https://api.discogs.com/releases/6726597
+Continuum - 2015 - https://api.discogs.com/releases/6912868
+Chilled - 2015 - https://api.discogs.com/releases/6930508
+FUT.UR.ISM 3.0 - 2015 - https://api.discogs.com/releases/7065453
+De Maxx 34 - The Rap Edition - 2015 - https://api.discogs.com/releases/7175552
+Waterpark - 2015 - https://api.discogs.com/releases/7180683
+Deejay Summertime - 2015 - https://api.discogs.com/releases/7274229
+DMC - Cool Grooves 04 - Aug 2015 - 2015 - https://api.discogs.com/releases/7352732
+Pukkelpop - 30 Years - 2015 - https://api.discogs.com/releases/7377889
+Sunset Soul - 2015 - https://api.discogs.com/releases/7415762
+DMC - Essential Club Hits 110 - 2015 - https://api.discogs.com/releases/7549321
+Life Is Music 2015.2 - 2015 - https://api.discogs.com/releases/7550233
+DMC - Cool Grooves 06 - Oct 2015 - 2015 - https://api.discogs.com/releases/7578388
+Beggars (Sampler Avril-Mai 2015) - 2015 - https://api.discogs.com/releases/7643862
+Perfectly Chilled. - 2015 - https://api.discogs.com/releases/7683894
+The Sound Of Rinse FM - 2015 - https://api.discogs.com/releases/7736709
+De Maxx 35 - The Remix Edition - 2015 - https://api.discogs.com/releases/7745750
+Chillout Sessions XVIII - 2015 - https://api.discogs.com/releases/7757952
+De Afrekening 59 - 2015 - https://api.discogs.com/releases/7804340
+FM4 Soundselection 32 - 2015 - https://api.discogs.com/releases/7860313
+FG. Chill Out #1 (The Deep House & Lounge Music Must Have Selection) - 2015 - https://api.discogs.com/releases/7882396
+The Top 100 Tracks Of 2015 - 2015 - https://api.discogs.com/releases/7912029
+Triple J House Party Volume Four - 2015 - https://api.discogs.com/releases/7994128
+Earnest - 2015 - https://api.discogs.com/releases/8685875
+Sweet Harmony Compilation 26 - 2015 - https://api.discogs.com/releases/9047518
+Annie Mac Presents 2015 - 2015 - https://api.discogs.com/releases/9221096
+Whizz Vol.147  - 2015 - https://api.discogs.com/releases/9292020
+Saint-Germain-Des-Prés Café 17 - 2015 - https://api.discogs.com/releases/10160145
+R&B All-Star Summer 2K15 - 2015 - https://api.discogs.com/releases/10494127
+Feelings For Detroit Vol. 9: Number One - 2015 - https://api.discogs.com/releases/12334613
+Forest Through The Trees - 2015 - https://api.discogs.com/releases/13670644
+July 2015 BMG Sampler - 2015 - https://api.discogs.com/releases/13789858
+Best Of Lounge - 2015 - https://api.discogs.com/releases/13918226
+100 Hits Lounge - 2015 - https://api.discogs.com/releases/14352504
+City Lounge - The Deep Session 01 - - 2015 - https://api.discogs.com/releases/14830122
+City Lounge 1.2 - 2015 - https://api.discogs.com/releases/14848904
+Techno Anthology - 2015 - https://api.discogs.com/releases/15149369
+Pure Volume 6 - 2015 - https://api.discogs.com/releases/15724459
+Hostess Sampler 2015 June - 2015 July - 2015 - https://api.discogs.com/releases/16103083
+L'Esprit Inter 04 - 2015 - https://api.discogs.com/releases/17433817
+The Morning After - 2015 - https://api.discogs.com/releases/19965583
+Hostess Sampler 2015 July - 2015 Aug - 2015 - https://api.discogs.com/releases/20286019
+A New You - 2015 - https://api.discogs.com/releases/21747886
+AKA Anthems: 44 Massive RnB & Hip Hop Jamz - 2015 - https://api.discogs.com/releases/26066629
+DMC - Essential Hits 123 - June 2015 - 2015 - https://api.discogs.com/releases/28224724
+Promo Casete 2015 - 2015 - https://api.discogs.com/releases/29299732
+Rough Trade Shops Counter Culture 15 - 2015 - https://api.discogs.com/masters/1005211
+King Kong Kicks Vol. 6 - The Slo-Mo Diary - 2015 - https://api.discogs.com/masters/1374647
+Go Hard Or Go Home - 2016 - https://api.discogs.com/releases/8253478
+Chilled House Session 7 - 2016 - https://api.discogs.com/releases/8334181
+Just Chillin' - 2016 - https://api.discogs.com/releases/8415986
+Club Privè Berlin - 2016 - https://api.discogs.com/releases/8638550
+Festivalitis 2016 - The Best Of The Summerfestivals! - 2016 - https://api.discogs.com/releases/8797398
+Reggae Gold 2016 - 2016 - https://api.discogs.com/releases/8825408
+Alrealon Musique Show / Little Water Radio - May 21st, 2016, presented by SVUVN - 2016 - https://api.discogs.com/releases/8851456
+The Club Of 27: Space Ibiza 1989 - 2016 - 2016 - https://api.discogs.com/releases/8947698
+Hed Kandi: Serve Chilled 2016 - 2016 - https://api.discogs.com/releases/9303761
+Deviation (Volume One) - 2016 - https://api.discogs.com/releases/9519161
+FG.Deephouse 04 - 2016 - https://api.discogs.com/releases/11052812
+KlangCafé IV - 2016 - https://api.discogs.com/releases/11511442
+Pan! The Steel Drum Odyssey - 2016 - https://api.discogs.com/releases/12524332
+BRIT Awards 2016 - 2016 - https://api.discogs.com/releases/13183413
+City Lounge 1.3 - 2016 - https://api.discogs.com/releases/14849198
+Future Disco Presents: Poolside Sounds Vol. V - 2016 - https://api.discogs.com/releases/15236814
+Remote Control February Sampler - 2016 - https://api.discogs.com/releases/15657913
+This Was Tomorrow. The Tomorrowland Movie - 2016 - https://api.discogs.com/releases/15844192
+Sit On My Interface - 2016 - https://api.discogs.com/releases/27168300
+Pure Lazy Factory Room 2 - 2016 - https://api.discogs.com/releases/30098054
+Triple J's Hottest 100 Volume 23 - 2016 - https://api.discogs.com/masters/2731688
+Pampa Records Vol.1 - 2016 - https://api.discogs.com/masters/993841
+Good Mellows For Sunlight Breezin' - 2016 - https://api.discogs.com/masters/3645639
+808: The Music (Original Motion Picture Soundtrack) - 2016 - https://api.discogs.com/masters/1098850
+About:Berlin Vol:14 - 2016 - https://api.discogs.com/masters/1117033
+Hed Kandi: Après House - 2016 - https://api.discogs.com/masters/1882992
+Rage - 30th Anniversary - 2017 - https://api.discogs.com/releases/10741626
+Sunset Chilled - 2017 - https://api.discogs.com/releases/10859339
+Tokyo East Side Locos - 2018 - https://api.discogs.com/releases/20857915
+Monte Carlo Nights Story - 30 Years  - 2019 - https://api.discogs.com/masters/1768536
+The Greatest Switch Vinyl 1 - 2021 - https://api.discogs.com/releases/20849770
+The Greatest Switch 2021 - 2021 - https://api.discogs.com/releases/21042394
+Ibiza Mix 10s - 2021 - https://api.discogs.com/releases/23603639
+Houseplant LP Box Set Vol. 3 - 2023 - https://api.discogs.com/releases/28366240
+The Greatest Hits (Original Soundtrack) - 2024 - https://api.discogs.com/releases/30316454
+The Greatest Hits (Original Soundtrack) - 2024 - https://api.discogs.com/releases/30506503
+DMC - Commercial Collection 497 - June 2024 - 2024 - https://api.discogs.com/releases/32213463
+DMC - Chart Monsterjam #09-20-24 - 2024 - https://api.discogs.com/releases/32219694
+Remote Control Touring - Desconocido - https://api.discogs.com/releases/7913267
+Party All Day DJ Mix - Desconocido - https://api.discogs.com/releases/12181049
+Remixes EP. - 2010 - https://api.discogs.com/releases/2158830
+Rolling In The Deep (Part 2) - 2010 - https://api.discogs.com/masters/306054
+Top Tracks Mix №4 - 2012 - https://api.discogs.com/releases/4722599
+Loud Places (LVNDSCAPE Remix) - 2015 - https://api.discogs.com/releases/7777138
+STYLSS Loves You - Volume Two [Bootleg Edition] - 2015 - https://api.discogs.com/releases/7853149
+Sleep Sound (WAFLS & dyl_pykl 'Deep Sleep' Remix) - 2016 - https://api.discogs.com/releases/11389434
+Blond - 2016 - https://api.discogs.com/masters/1046042
+Gosh (Left/Right Remix) - 2016 - https://api.discogs.com/masters/2674523
+Late Night Feelings - 2019 - https://api.discogs.com/masters/1565967
+Blond - 2023 - https://api.discogs.com/releases/32708631
+You've Got The Love (Mixes) - Desconocido - https://api.discogs.com/masters/194020
