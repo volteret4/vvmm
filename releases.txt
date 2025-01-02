@@ -1,18 +1,96 @@
 Listado de releases del artista:
-Mellow Mood - 2018 - https://api.discogs.com/masters/2099872
-Faint Hope - 2019 - https://api.discogs.com/releases/22321549
-Memory Of Humidity - 2020 - https://api.discogs.com/masters/2382184
-Floating Mountains - 2021 - https://api.discogs.com/masters/2331838
-Same Place, Another Time - 2022 - https://api.discogs.com/masters/2450170
-Memory of Humidity Re-Humidified - 2023 - https://api.discogs.com/releases/27653292
-Secret Communication - 2024 - https://api.discogs.com/masters/3658899
-Audiopak: Sukima Tokyo Thirty Four - 2015 - https://api.discogs.com/masters/2103274
-Routine Espresso 002: Cafe Dreams  - 2018 - https://api.discogs.com/releases/12923963
-2018 Summer Compilation - 2018 - https://api.discogs.com/masters/2099827
-2019 New Year Compilation - 2019 - https://api.discogs.com/masters/2117500
-London To Tokyo EP - 2020 - https://api.discogs.com/releases/15052484
-Summer Compilation 2020 - 2020 - https://api.discogs.com/masters/2141380
-New Year Compilation 2020 - 2020 - https://api.discogs.com/masters/2141365
-Air Waves - 2021 - https://api.discogs.com/releases/20970334
-New Year Compilation 2021 - 2021 - https://api.discogs.com/masters/2141440
-2nd Life Silk - 2021 - https://api.discogs.com/masters/2204959
+Pray - 1988 - https://api.discogs.com/releases/1777503
+Reach (Edited Version) / Inside Out (Color Version) / Underneath The Radar - 1988 - https://api.discogs.com/releases/10668679
+Underneath The Radar - 1988 - https://api.discogs.com/masters/47762
+Underneath The Radar - 1988 - https://api.discogs.com/masters/47772
+Glory! Glory! - 1988 - https://api.discogs.com/masters/47071
+Show Some Emotion - 1988 - https://api.discogs.com/masters/47078
+I Need A Doctor - 1989 - https://api.discogs.com/releases/1783319
+Cherish / Stand Up (Edit) - 1989 - https://api.discogs.com/releases/4752212
+Change The Weather - 1989 - https://api.discogs.com/masters/125114
+Stand Up - 1989 - https://api.discogs.com/masters/47719
+Change The Weather - 1989 - https://api.discogs.com/masters/47747
+Thrash - 1989 - https://api.discogs.com/masters/110099
+Mother Earth / The Hump - 1992 - https://api.discogs.com/releases/126592
+Rez - 1993 - https://api.discogs.com/masters/47346
+Mmm... Skyscraper I Love You - 1993 - https://api.discogs.com/masters/47029
+Rez - 1993 - https://api.discogs.com/masters/419800
+Spikee / Dogman Go Woof - 1993 - https://api.discogs.com/masters/47094
+Kiteless (A Tomato Project) - 1994 - https://api.discogs.com/releases/198705
+Untitled - 1994 - https://api.discogs.com/releases/10865273
+Dirty Epic / Cowgirl / Dark & Long / Spoonman - 1994 - https://api.discogs.com/releases/15569713
+Dirty Epic - 1994 - https://api.discogs.com/masters/47581
+Dark & Long - 1994 - https://api.discogs.com/masters/47612
+Dubnobasswithmyheadman - 1994 - https://api.discogs.com/masters/43549
+Dirty Epic / Cowgirl - 1994 - https://api.discogs.com/masters/1613671
+Cowgirl - 1994 - https://api.discogs.com/masters/47045
+Born Slippy - 1995 - https://api.discogs.com/masters/47693
+Rowla / Juanita - 1996 - https://api.discogs.com/releases/26265
+Confusion The Waitress - 1996 - https://api.discogs.com/releases/5080225
+Second Toughest In The Infants - 1996 - https://api.discogs.com/masters/43556
+Rowla / Deep Pan - 1996 - https://api.discogs.com/masters/1514092
+Insomnia / Born Slippy - 1996 - https://api.discogs.com/masters/3292420
+Pearl's Girl (Carp Dreams...Koi) - 1996 - https://api.discogs.com/masters/85469
+Midnight In A Perfect World / Pearl's Girl - 1997 - https://api.discogs.com/releases/329261
+Dreamland - 1997 - https://api.discogs.com/releases/10726795
+Juanita - 1997 - https://api.discogs.com/masters/47334
+Moaner - 1997 - https://api.discogs.com/masters/85467
+Footwear Repairs By Craftsmen At Competitive Prices (Videos 1993-97) - 1998 - https://api.discogs.com/releases/244036
+Beaucoup Fish, Sampler - 1998 - https://api.discogs.com/releases/471017
+Sampler - 1998 - https://api.discogs.com/releases/1792103
+King Of Snake - 1998 - https://api.discogs.com/masters/47300
+Beaucoup Fish - 1998 - https://api.discogs.com/masters/43531
+Push Upstairs - 1998 - https://api.discogs.com/masters/85466
+In Concert 757 - Glastonbury Festival 1998 - 1998 - https://api.discogs.com/masters/3440126
+Untitled - 1998 - https://api.discogs.com/masters/3614272
+King Of Snake / Jumbo / Push Upstairs / Bruce Lee - 1999 - https://api.discogs.com/releases/77111
+Dubnobasswithmyheadman / Second Toughest In The Infants - 1999 - https://api.discogs.com/releases/144227
+The Interview & Darren Emerson Mix - 1999 - https://api.discogs.com/releases/168770
+Jumbo / King Of Snake - 1999 - https://api.discogs.com/releases/192599
+Beaucoup Video - 1999 - https://api.discogs.com/releases/361646
+Jumbo - 1999 - https://api.discogs.com/masters/47373
+Bruce Lee - 1999 - https://api.discogs.com/masters/43539
+8 Ball / Beached (The Beach Motion Picture Soundtrack Sampler) - 2000 - https://api.discogs.com/releases/56440
+Interview With Karl Hyde Plus CD-Rom Footage Of Everything, Everything DVD EPK - 2000 - https://api.discogs.com/releases/500063
+Eight Years Spent In The Company Of: Underworld - 2000 - https://api.discogs.com/releases/3496684
+Freedom (Motiv Radio Mix) / Born Slippy Nuxx - 2000 - https://api.discogs.com/releases/9927884
+8 Ball - 2000 - https://api.discogs.com/releases/16122176
+Born Slippy (Radio Edit) - 2000 - https://api.discogs.com/releases/16133013
+Everything, Everything (AVCD Sampler) - 2000 - https://api.discogs.com/releases/30123512
+Cowgirl - 2000 - https://api.discogs.com/masters/47411
+Everything, Everything (Underworld Live) - 2000 - https://api.discogs.com/masters/306177
+Everything Everything - DVD EPK - 2000 - https://api.discogs.com/masters/3385030
+A Hundred Days Off (Sampler) - 2002 - https://api.discogs.com/releases/441781
+A Hundred Days Off - 2002 - https://api.discogs.com/releases/1284029
+50 Minute Mix - 2002 - https://api.discogs.com/releases/2332482
+Luetin - 2002 - https://api.discogs.com/releases/5980221
+Thinking It Over / A Hundred Days Off - 2002 - https://api.discogs.com/releases/8147833
+Non LP Tracks - 2002 - https://api.discogs.com/releases/16057778
+The Music Of Underworld 1994 – 2002 - 2002 - https://api.discogs.com/releases/16101667
+4 Tracks - 2002 - https://api.discogs.com/releases/16111362
+Dinosaur Adventure 3D - 2002 - https://api.discogs.com/masters/43477
+Two Months Off - 2002 - https://api.discogs.com/masters/47641
+A Hundred Days Off - 2002 - https://api.discogs.com/masters/46549
+Underworld EPK - August 2002 - 2002 - https://api.discogs.com/masters/3444194
+1992 - 2002 (Anthology Raretés Et Remixes) - 2003 - https://api.discogs.com/releases/13786901
+John Peel Radio 1 Session, Maida Vale Studios - 2003 - https://api.discogs.com/releases/16090880
+The Music Of Underworld 1993 – 2003 - 2003 - https://api.discogs.com/releases/16111530
+In Concert 897 - 2003 - https://api.discogs.com/releases/24867050
+1992-2002 - 2003 - https://api.discogs.com/masters/47234
+Back To Mine - 2003 - https://api.discogs.com/masters/47264
+Second Toughest In The Infants / Beaucoup Fish - 2005 - https://api.discogs.com/releases/1637442
+Advance Music - 2005 - https://api.discogs.com/releases/12816663
+JAL To Tokyo - 2005 - https://api.discogs.com/masters/47249
+Live In Tokyo 25th November 2005 - 2005 - https://api.discogs.com/masters/868750
+Lovely Broken Thing - 2005 - https://api.discogs.com/masters/550077
+Pizza For Eggs - 2005 - https://api.discogs.com/masters/550080
+JAL To Tokyo / Play Pig (Remixes) - 2006 - https://api.discogs.com/releases/762144
+Play Pig (Remixes) - 2006 - https://api.discogs.com/releases/762146
+Peggy Sussed / Vanilla Monkey / Lenny Penne (Remixes) - 2006 - https://api.discogs.com/releases/762159
+The Misterons Mix - 2006 - https://api.discogs.com/releases/769525
+The Riverrun Series - 2006 - https://api.discogs.com/releases/989610
+Riverrun Remix Sampler - 2006 - https://api.discogs.com/masters/920040
+I'm A Big Sister, And I'm A Girl, And I'm A Princess And This Is My Horse - 2006 - https://api.discogs.com/masters/550085
+Play Pig - 2006 - https://api.discogs.com/masters/91522
+Breaking And Entering (Music From The Film) - 2006 - https://api.discogs.com/masters/46596
+Peggy Sussed - 2006 - https://api.discogs.com/masters/202447
