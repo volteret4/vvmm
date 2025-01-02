@@ -1,7 +1,83 @@
 Listado de releases del artista:
-Nana Del Viejo Mundo - 2019 - https://api.discogs.com/releases/14369025
-Derby Motoreta's Burrito Kachimba - 2019 - https://api.discogs.com/masters/1520975
-Hilo Negro - 2021 - https://api.discogs.com/masters/2094133
-Las Leyes De La Frontera - 2022 - https://api.discogs.com/masters/2950717
-Bolsa Amarilla Y Piedra Potente - 2024 - https://api.discogs.com/masters/3452135
-Momentos Rockdelux. Canciones Nacionales Vol. 3/2019 - 2020 - https://api.discogs.com/releases/14611741
+The Body - 2003 - https://api.discogs.com/masters/1254605
+The Body - 2004 - https://api.discogs.com/masters/300724
+Cop Killer / Dead Cops - 2005 - https://api.discogs.com/releases/793982
+The Body / Get Killed - 2005 - https://api.discogs.com/masters/1143046
+Even The Saints Knew Their Hour Of Failure And Loss - 2006 - https://api.discogs.com/masters/1356840
+2008 Tour CD-r - 2008 - https://api.discogs.com/releases/1657798
+All The Waters Of The Earth Turn To Blood - 2010 - https://api.discogs.com/masters/300891
+Anthology - 2011 - https://api.discogs.com/releases/2727089
+Nothing Passes - 2011 - https://api.discogs.com/masters/430529
+The Body · Whitehorse - 2011 - https://api.discogs.com/masters/374097
+The Cold, Suffocating Dark Goes On Forever, And We Are Alone - 2012 - https://api.discogs.com/masters/763093
+Christs, Redeemers - 2013 - https://api.discogs.com/masters/616259
+Master, We Perish - 2013 - https://api.discogs.com/masters/569050
+Released From Love - 2014 - https://api.discogs.com/releases/5594996
+The Body / Sandworm - 2014 - https://api.discogs.com/masters/743046
+I Shall Die Here - 2014 - https://api.discogs.com/masters/670501
+The Tears Of Job - 2015 - https://api.discogs.com/releases/6880287
+chikatilo - 2015 - https://api.discogs.com/releases/22371892
+The Body & Krieg - 2015 - https://api.discogs.com/masters/911875
+You, Whom I Have Always Hated - 2015 - https://api.discogs.com/masters/788001
+You, Whom I Have Always Hated - 2015 - https://api.discogs.com/masters/826073
+xoroAHbin - 2015 - https://api.discogs.com/masters/1166814
+FACT Mix 554 - 2016 - https://api.discogs.com/releases/9107290
+One Day You Will Ache Like I Ache - 2016 - https://api.discogs.com/masters/989842
+No One Deserves Happiness - 2016 - https://api.discogs.com/masters/969147
+Collected Works 2003-2015 - 2016 - https://api.discogs.com/masters/1153213
+2002 Demo - 2016 - https://api.discogs.com/masters/1011813
+To Know And To Hide - 2016 - https://api.discogs.com/masters/2179060
+Everybody Goes, As Far As They Can - 2017 - https://api.discogs.com/releases/10182520
+A Home On Earth - 2017 - https://api.discogs.com/masters/1320901
+Ascending A Mountain Of Heavy Light - 2017 - https://api.discogs.com/masters/1264727
+A Mixed Tape Made By Uniform & The Body - 2018 - https://api.discogs.com/releases/12631807
+Mental Wounds Not Healing - 2018 - https://api.discogs.com/masters/1377106
+I Have Fought Against It, But I Can’t Any Longer. - 2018 - https://api.discogs.com/masters/1349343
+O God Who Avenges, Shine Forth. Rise Up, Judge Of The Earth; Pay Back To The Proud What They Deserve. - 2018 - https://api.discogs.com/masters/1477860
+A Mixed Tape Made By Uniform & The Body - 2019 - https://api.discogs.com/releases/14043586
+Everything That Dies Someday Comes Back - 2019 - https://api.discogs.com/masters/1591428
+Mental Wounds Not Healing + Everything That Dies Someday Comes Back - 2019 - https://api.discogs.com/masters/1818002
+Everyday, Things Are Getting Worse - 2019 - https://api.discogs.com/masters/1534868
+Remixed - 2019 - https://api.discogs.com/masters/1650340
+Whitehorse & The Body - 2019 - https://api.discogs.com/masters/2628977
+Child Liar b/w False Floor - 2020 - https://api.discogs.com/releases/15829456
+I Dont Ever Want To Be Alone - 2020 - https://api.discogs.com/releases/17519617
+Live At The End Of The World - 2020 - https://api.discogs.com/releases/31195789
+Leaving None But Small Birds - 2021 - https://api.discogs.com/masters/2309908
+I've Seen All I Need To See - 2021 - https://api.discogs.com/masters/1903218
+Winter Storm / Domination Lord Of Coldharbour [LVMMVX Remix] - 2022 - https://api.discogs.com/releases/22266379
+Enemy of Love - 2022 - https://api.discogs.com/masters/2510890
+The Crying Out Of Things - 2024 - https://api.discogs.com/masters/3651213
+Orchards Of A Futile Heaven - 2024 - https://api.discogs.com/masters/3405406
+Body Collaborations - Desconocido - https://api.discogs.com/releases/28749358
+We're Still Here - 2023 - https://api.discogs.com/masters/3029072
+I Don't Think The Dirt Belongs To The Grass - 2006 - https://api.discogs.com/releases/850834
+Corleone 10 Yrs Everything I Own Is Broken Or Bent - 2008 - https://api.discogs.com/releases/5886836
+Offcast #28 - 2014 - https://api.discogs.com/releases/5800957
+Coward - 2014 - https://api.discogs.com/releases/5870729
+I Blame Reaganomics: A Corleone Records Compilation - 2014 - https://api.discogs.com/releases/6069618
+SOTU Snippets - 2014 - https://api.discogs.com/releases/7085310
+Doom Chuggy - 2014 - https://api.discogs.com/releases/13776651
+Fact Mix 482 - 2015 - https://api.discogs.com/releases/29416723
+Secret Thirteen Mix 174 - 2016 - https://api.discogs.com/releases/8054557
+Hurt Yourself - 2016 - https://api.discogs.com/releases/8455223
+Secret Thirteen Mix 192 - 2016 - https://api.discogs.com/releases/8878129
+The World Went Black - 2016 - https://api.discogs.com/releases/9379798
+Groove Podcast 80 - 2016 - https://api.discogs.com/releases/11537943
+Adult Swim Singles Program 2016 - 2016 - https://api.discogs.com/releases/13643336
+Many Waters: Baton Rouge Flood Relief 2017 - 2017 - https://api.discogs.com/releases/10471468
+FACT Mix 654 - 2018 - https://api.discogs.com/releases/12278697
+If We Do Feel Empty Inside, What Are We Supposed To Do About It? - 2018 - https://api.discogs.com/releases/12753147
+Did I Dream, You Dreamed About Me? - 2019 - https://api.discogs.com/releases/13976228
+Thee Odd_yssey - 2019 - https://api.discogs.com/releases/14430673
+Metal Swim 2 - 2019 - https://api.discogs.com/releases/25205518
+Vykhod Sily Podcast - Hooded Communion Guest Mix - 2020 - https://api.discogs.com/releases/15310974
+DIY's Not Dead #1 - 2020 - https://api.discogs.com/releases/15569519
+I Fall In Love With The Light (A Sacred Bones Compilation) - 2020 - https://api.discogs.com/masters/1874964
+The Shaft, The Blade, The Tip Of The Spear - 2021 - https://api.discogs.com/releases/19264351
+Mind The Gap #151 - 2021 - https://api.discogs.com/releases/20913136
+A Mixed Tape Made By Gewgawly I And Thou - 2022 - https://api.discogs.com/releases/24493481
+DISCO4 :: Part II - 2022 - https://api.discogs.com/masters/2738102
+DISCO4 Generations - 2022 - https://api.discogs.com/masters/2741102
+Corleone - Desconocido - https://api.discogs.com/releases/7691239
+Olneyville/Providence Live Compilation - 2005 - https://api.discogs.com/releases/13276599
