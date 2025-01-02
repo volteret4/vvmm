@@ -1,29 +1,139 @@
 Listado de releases del artista:
-Banditos / S/T - 2012 - https://api.discogs.com/releases/10955211
-Gypsy Pervert - 2013 - https://api.discogs.com/masters/778667
-Thanks Sorry Thanks EP / Kiss Me Tender EP - 2014 - https://api.discogs.com/releases/11570154
-Girls to the Stage - 2015 - https://api.discogs.com/releases/31292471
-Romantic - 2016 - https://api.discogs.com/masters/1088049
-Drunk II - 2019 - https://api.discogs.com/releases/13817824
-Patience - 2019 - https://api.discogs.com/releases/15120017
-Patience - 2019 - https://api.discogs.com/masters/1567832
-Perfect - 2021 - https://api.discogs.com/masters/2491054
-I Got Heaven - 2023 - https://api.discogs.com/releases/28235614
-I Got Heaven - 2024 - https://api.discogs.com/masters/3412591
-Life Under The Sun - 2024 - https://api.discogs.com/releases/30454670
-All Areas Volume 277 - 2024 - https://api.discogs.com/releases/31845128
-Funeral Soundtrack #4 - 2024 - https://api.discogs.com/masters/3565706
-Leisure Rules - 2012 - https://api.discogs.com/releases/4525292
-The Le Sigh Vol. 1 - 2013 - https://api.discogs.com/releases/6762288
-Creepy Feelings - 2014 - https://api.discogs.com/releases/5475392
-In It Together Mixtape - 2015 - https://api.discogs.com/releases/7768824
-A Benefit Comp To Help Pay Medical Bills For Those Activists Fighting Against Fascism & Racism - 2017 - https://api.discogs.com/releases/10782430
-Tiny Engines 2017 - 2017 - https://api.discogs.com/releases/11626256
-Tiny Engines 2017 Label Sampler - 2017 - https://api.discogs.com/releases/15548673
-All Areas Volume 219 - 2019 - https://api.discogs.com/releases/13861928
-New Noises Vol. 149 - 2019 - https://api.discogs.com/releases/14424471
-Classic Rock Compilation 126 - 2023 - https://api.discogs.com/releases/29146264
-All Areas Volume 270 - 2024 - https://api.discogs.com/releases/29874277
-Musikexpress 03/24 - 2024 - https://api.discogs.com/releases/29915347
-Musicians For A Free Palestine - 2024 - https://api.discogs.com/releases/30415703
-Mixtape 2024 - 2024 - https://api.discogs.com/releases/32497260
+Association For Research & Enlightenment Project - 2017 - https://api.discogs.com/masters/1908699
+Afrikan Culture - 2022 - https://api.discogs.com/masters/2881366
+Possession - 2024 - https://api.discogs.com/releases/32714640
+Perceive Its Beauty, Acknowledge Its Grace - 2024 - https://api.discogs.com/masters/3454571
+Jazz Is Dead 20 Remixes - 2023 - https://api.discogs.com/masters/3459230
+A Day In The Life: Impressions Of Pepper - 2018 - https://api.discogs.com/masters/1536589
+Your Queen Is A Reptile - 2018 - https://api.discogs.com/masters/1339312
+Blue Note Re:imagined - 2020 - https://api.discogs.com/masters/1820862
+We Are Sent Here By History - 2020 - https://api.discogs.com/masters/1701367
+Black To The Future - 2021 - https://api.discogs.com/masters/2122519
+African Cosmology - 2021 - https://api.discogs.com/masters/2400625
+The River Doesn’t Like Strangers - 2022 - https://api.discogs.com/releases/22787624
+Eyes In The Tower - 2022 - https://api.discogs.com/releases/24275264
+$/He Who Feeds You…Owns You - 2022 - https://api.discogs.com/releases/25488193
+Flowers In The Dark  - 2023 - https://api.discogs.com/masters/3311188
+Like The Sky I've Been Too Quiet - 2024 - https://api.discogs.com/masters/3480853
+Omo Obokun, The Afrobeat Chronicles Vol 2, Directions In Music By Funsho Ogundipe - 2006 - https://api.discogs.com/masters/149730
+Going Just To be Going - 2007 - https://api.discogs.com/releases/30547951
+Afropeans - 2008 - https://api.discogs.com/masters/3609077
+Celestial Blues - 2009 - https://api.discogs.com/releases/2035333
+Night Time On The Middle Passage - 2009 - https://api.discogs.com/releases/8192238
+Inspiration Information - 2009 - https://api.discogs.com/masters/18077
+The New Emancipation - 2010 - https://api.discogs.com/releases/2478573
+The Rock Between - 2011 - https://api.discogs.com/releases/3639701
+Primal Odyssey - 2011 - https://api.discogs.com/releases/4912759
+Finding My Way Home - 2011 - https://api.discogs.com/masters/1800919
+Europa - 2011 - https://api.discogs.com/masters/865577
+Rubber Orchestras - 2011 - https://api.discogs.com/masters/480643
+Demilune From Hebephrenic Girl On Disused Mushroom Farm - 2012 - https://api.discogs.com/releases/6001795
+Hello Skinny - 2012 - https://api.discogs.com/masters/491617
+The Master - 2012 - https://api.discogs.com/masters/482918
+Just Not Cricket! - 2013 - https://api.discogs.com/releases/4452917
+Helio x GLK - 2013 - https://api.discogs.com/releases/4815030
+The Legend Of Mike Smith - 2013 - https://api.discogs.com/releases/4890008
+Ruins - 2013 - https://api.discogs.com/releases/4899465
+Yatra - 2013 - https://api.discogs.com/releases/5157625
+What Do You See When You Close Your Eyes? - 2013 - https://api.discogs.com/releases/11582339
+Melt Yourself Down - 2013 - https://api.discogs.com/masters/571441
+13 Degrees Of Reality - 2013 - https://api.discogs.com/masters/556671
+Burn - 2013 - https://api.discogs.com/masters/649381
+Melt Yourself Down + Live At The New Empowering Church - 2014 - https://api.discogs.com/releases/5694516
+Step Wide, Step Deep - 2014 - https://api.discogs.com/releases/6908490
+The Last Transmission - 2014 - https://api.discogs.com/masters/746210
+Asoju Oba - 2014 - https://api.discogs.com/masters/1646318
+Flicker EP - 2014 - https://api.discogs.com/masters/790777
+Resurrection - 2015 - https://api.discogs.com/releases/7090077
+The Ragging Of Time - 2015 - https://api.discogs.com/releases/7631094
+Bhekisizwe - 2015 - https://api.discogs.com/releases/8759027
+Nyanza - 2015 - https://api.discogs.com/masters/886893
+Things That Grow - 2015 - https://api.discogs.com/masters/894633
+Collected_01 - 2015 - https://api.discogs.com/masters/1429193
+Lest We Forget What We Came Here To Do - 2015 - https://api.discogs.com/masters/911646
+Same As You - 2015 - https://api.discogs.com/masters/818165
+Icilongo (The African Peace Suite) - 2016 - https://api.discogs.com/releases/9121693
+Headlines (N.E.W.S. Distribution 2017) - 2016 - https://api.discogs.com/releases/10174586
+As We Surface - 2016 - https://api.discogs.com/releases/14017897
+Wisdom Of Elders - 2016 - https://api.discogs.com/masters/1062513
+Last Evenings On Earth - 2016 - https://api.discogs.com/masters/994504
+As Above So Below - 2016 - https://api.discogs.com/masters/1067214
+Caribbean Roots - 2016 - https://api.discogs.com/masters/1007927
+Black Focus - 2016 - https://api.discogs.com/masters/1084896
+Day To Day - 2016 - https://api.discogs.com/masters/1036273
+Starship / Can I Know You - 2017 - https://api.discogs.com/releases/10175861
+The Stage Band Recordings - 2017 - https://api.discogs.com/releases/10397000
+Eleven - 2017 - https://api.discogs.com/releases/11641181
+Brother Face - 2017 - https://api.discogs.com/releases/28573030
+A World Of Masks - 2017 - https://api.discogs.com/masters/1189447
+La Saboteuse - 2017 - https://api.discogs.com/masters/1199185
+Yellow Ochre  - 2017 - https://api.discogs.com/masters/1214572
+Arise - 2017 - https://api.discogs.com/masters/1241833
+The Sunshine Makers (Original Soundtrack) - 2017 - https://api.discogs.com/masters/2993909
+Graviton - 2017 - https://api.discogs.com/masters/1513258
+Unit(e) - 2017 - https://api.discogs.com/masters/1732514
+Uplift The People - 2018 - https://api.discogs.com/releases/11990803
+La Saboteuse Remixed - 2018 - https://api.discogs.com/releases/12441500
+Raw Cause - 2018 - https://api.discogs.com/releases/12623494
+Welcome To This World - 2018 - https://api.discogs.com/masters/1424424
+A Day In The Life: Impressions Of Pepper - 2018 - https://api.discogs.com/masters/1536589
+We Out Here - 2018 - https://api.discogs.com/masters/1312469
+Fabriclive 96 - 2018 - https://api.discogs.com/masters/2045761
+Black Noise 2084 - 2018 - https://api.discogs.com/masters/1398105
+Your Queen Is A Reptile - 2018 - https://api.discogs.com/masters/1339312
+Starting Today - 2018 - https://api.discogs.com/masters/1360334
+Rise And Rise Again - 2018 - https://api.discogs.com/masters/1510872
+Universal Beings - 2018 - https://api.discogs.com/masters/1444351
+Stylin' 900 - 2019 - https://api.discogs.com/releases/14103725
+Celia - 2019 - https://api.discogs.com/masters/1571605
+International Love Affair - 2020 - https://api.discogs.com/releases/15472211
+Fête Quaqua 2009 - 2020 - https://api.discogs.com/releases/15590410
+Free Jazz - 2020 - https://api.discogs.com/masters/1772580
+Keleketla! - 2020 - https://api.discogs.com/masters/1765418
+A New Myth - 2020 - https://api.discogs.com/masters/1694323
+(A)live! - 2020 - https://api.discogs.com/masters/2430088
+Born In The Manor (feat. Shabaka Hutchings) - 2020 - https://api.discogs.com/masters/1807510
+Blue Note Re:imagined - 2020 - https://api.discogs.com/masters/1820862
+Universal Beings E&F Sides - 2020 - https://api.discogs.com/masters/1807608
+Ngiwu Shwabada - 2020 - https://api.discogs.com/masters/2548583
+græ - 2020 - https://api.discogs.com/masters/1736645
+We Are Sent Here By History - 2020 - https://api.discogs.com/masters/1701367
+Spiritual Jazz 13: Now! Part One / Modern Sounds For The 21st Century - 2021 - https://api.discogs.com/masters/1930359
+Black To The Future - 2021 - https://api.discogs.com/masters/2122519
+African Cosmology - 2021 - https://api.discogs.com/masters/2400625
+Shout Out! To Freedom... - 2021 - https://api.discogs.com/masters/2357623
+The Rich Are Only Defeated When Running For Their Lives - 2021 - https://api.discogs.com/masters/2147260
+More Energy Fields, Current - 2021 - https://api.discogs.com/masters/2158078
+Break A Vase - 2022 - https://api.discogs.com/releases/21936895
+The River Doesn’t Like Strangers - 2022 - https://api.discogs.com/releases/22787624
+Eyes In The Tower - 2022 - https://api.discogs.com/releases/24275264
+Shout Out! To Freedom... Live At Pikes Ibiza - 2022 - https://api.discogs.com/releases/24965122
+Hyper-Dimensional Expansion Beam - 2022 - https://api.discogs.com/masters/2795681
+Voices Of Bishara - 2022 - https://api.discogs.com/masters/2848426
+For The Birds: The Birdsong Project, Vol. I - V - 2022 - https://api.discogs.com/masters/2911105
+Archetype - 2023 - https://api.discogs.com/releases/27483867
+The Horse - 2023 - https://api.discogs.com/masters/3126864
+Flowers In The Dark  - 2023 - https://api.discogs.com/masters/3311188
+Further Out Than The Edge - 2023 - https://api.discogs.com/masters/3308668
+Maps - 2023 - https://api.discogs.com/masters/3085041
+We Buy Diabetic Test Strips - 2023 - https://api.discogs.com/masters/3256051
+Rainbow Revisited - 2023 - https://api.discogs.com/masters/3312997
+London Brew - 2023 - https://api.discogs.com/masters/3042776
+Black Classical Music - 2023 - https://api.discogs.com/masters/3231706
+Live At Joshua Tree (Presented By Soulection) - 2023 - https://api.discogs.com/masters/2971123
+Transa Selects - 2024 - https://api.discogs.com/releases/32226042
+Daughter Of A Temple - 2024 - https://api.discogs.com/releases/32276751
+Universal Beings Complete Edition - 2024 - https://api.discogs.com/releases/32677467
+Big Majestic - 2024 - https://api.discogs.com/masters/3629580
+Temple Needs Water. Village Needs Peace - 2024 - https://api.discogs.com/masters/3539548
+Y'Y - 2024 - https://api.discogs.com/masters/3417721
+New Blue Sun - 2024 - https://api.discogs.com/masters/3312934
+Asoju Oba - Desconocido - https://api.discogs.com/releases/26023282
+We Out Here - 2018 - https://api.discogs.com/masters/1312469
+Fabriclive 96 - 2018 - https://api.discogs.com/masters/2045761
+Untitled - 2019 - https://api.discogs.com/releases/13704104
+Blue Note Re:imagined - 2020 - https://api.discogs.com/releases/26468189
+Blue Note Re:imagined - 2020 - https://api.discogs.com/masters/1820862
+DMC - Essential Club Hits 186 - 2022 - https://api.discogs.com/releases/21803341
+For The Birds: The Birdsong Project - 2022 - https://api.discogs.com/masters/2911105
+The Rich Are Only Defeated When Running For Their Lives - 2021 - https://api.discogs.com/masters/2147260
