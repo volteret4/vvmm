@@ -1,14 +1,131 @@
 Listado de releases del artista:
-Live At Real World Studios With Edward Wakili-Hick & Dwayne Kilvington - 2021 - https://api.discogs.com/masters/2332120
-Space 1.8 - 2021 - https://api.discogs.com/masters/2279005
-Continuum 1 - 2024 - https://api.discogs.com/releases/31427444
-Endlessness - 2024 - https://api.discogs.com/masters/3590648
-Together Is A Beautiful Place To Be (Nala Sinephro Remix) - 2021 - https://api.discogs.com/releases/25388965
-Source ⧺ We Move - 2021 - https://api.discogs.com/masters/2348812
-Life Works Out... Usually - 2020 - https://api.discogs.com/masters/1995232
-Source ⧺ We Move - 2021 - https://api.discogs.com/masters/2348812
-Change Ringing - 2021 - https://api.discogs.com/masters/2168080
-Bleep 100 Tracks 2021 - 2021 - https://api.discogs.com/releases/23174816
-Touching Bass Presents: Soon Come - 2022 - https://api.discogs.com/releases/23715572
-Everything In Between - 2022 - https://api.discogs.com/releases/23806982
-Energy Time - 2023 - https://api.discogs.com/releases/30254540
+Desire - 2011 - https://api.discogs.com/releases/2939317
+A Leave Taking EP / Rarities & Unreleased Tracks - 2011 - https://api.discogs.com/releases/16172623
+A Leave Taking Soundtrack - 2011 - https://api.discogs.com/masters/623234
+If... - 2011 - https://api.discogs.com/masters/523659
+If... Remixes - 2012 - https://api.discogs.com/releases/3543072
+He Took You In His Arms - 2013 - https://api.discogs.com/releases/4665758
+Wild Swans - 2013 - https://api.discogs.com/releases/7051577
+A Bad Wind Blows In My Heart - 2013 - https://api.discogs.com/masters/549107
+Two To Birkenhead - 2015 - https://api.discogs.com/releases/8007180
+West Kirby County Primary - 2015 - https://api.discogs.com/masters/910211
+Wild Roses - 2016 - https://api.discogs.com/releases/8007171
+The Bird Dog Tapes Volume 1 - 2016 - https://api.discogs.com/releases/12282583
+You Can't Hide A Light With The Dark - 2016 - https://api.discogs.com/releases/12996497
+Don't Be Scared, I Love You - 2018 - https://api.discogs.com/releases/13843998
+Yawn - 2018 - https://api.discogs.com/masters/1447313
+And Then There's You - 2018 - https://api.discogs.com/masters/1447414
+Yawny Yawn - 2019 - https://api.discogs.com/masters/1587466
+Q&A Session - 2023 - https://api.discogs.com/releases/32595375
+Iechyd Da - 2024 - https://api.discogs.com/masters/3364006
+The Hope of Better Weather - 2021 - https://api.discogs.com/releases/20975662
+Waltz Away - 2011 - https://api.discogs.com/masters/471351
+St. Christopher - 2012 - https://api.discogs.com/masters/1723919
+For You / The Coroner - 2013 - https://api.discogs.com/releases/4274784
+Ophelia - 2013 - https://api.discogs.com/masters/1058289
+Un Automne 2014 - 2014 - https://api.discogs.com/releases/6283222
+I Remember - 2014 - https://api.discogs.com/releases/7411060
+Wire Frame Mattress - 2014 - https://api.discogs.com/masters/719886
+Endless Days Crystal Sky - 2014 - https://api.discogs.com/masters/747792
+In The Seams - 2014 - https://api.discogs.com/masters/826269
+Burn Out The Bruise - 2014 - https://api.discogs.com/masters/925384
+Gravedweller - 2014 - https://api.discogs.com/masters/701788
+Annabel Dream Reader - 2014 - https://api.discogs.com/masters/722411
+Tap Tap Tap - 2014 - https://api.discogs.com/masters/797684
+7 And 7 Is ... Anniversary Boxset - 2015 - https://api.discogs.com/releases/6913657
+Wastybois / Barstool Blues - 2015 - https://api.discogs.com/releases/6916774
+Bang - 2015 - https://api.discogs.com/releases/7411127
+Jasper / Standing Knees - 2015 - https://api.discogs.com/masters/918964
+Midnight Control - 2016 - https://api.discogs.com/masters/1242007
+EP2 - 2016 - https://api.discogs.com/masters/1750253
+Time - 2017 - https://api.discogs.com/masters/1249510
+I Really Like It - 2018 - https://api.discogs.com/masters/1920555
+Stranger Today - 2018 - https://api.discogs.com/masters/1408685
+Our Girl - 2018 - https://api.discogs.com/masters/1372997
+Like An Island - 2018 - https://api.discogs.com/masters/1356030
+Sleep - 2019 - https://api.discogs.com/releases/13022875
+Left Behind / Born Slippy - 2019 - https://api.discogs.com/releases/14487927
+County Line Runner - EP - 2019 - https://api.discogs.com/masters/1712453
+Everyday Nothing - 2020 - https://api.discogs.com/masters/1823981
+The Trapper's Pelts / Fixer Upper - 2020 - https://api.discogs.com/masters/1805299
+Dark Days - 2021 - https://api.discogs.com/masters/2103766
+Moonsoake - 2022 - https://api.discogs.com/releases/22179121
+Heaven Knows Magnolia - 2022 - https://api.discogs.com/masters/2901265
+Dear Scott - 2022 - https://api.discogs.com/masters/2659544
+Hope Is All We Have - 2023 - https://api.discogs.com/masters/2883832
+Moonsoake - 2024 - https://api.discogs.com/releases/30681202
+Peachy - 2024 - https://api.discogs.com/masters/3484318
+Between The Moon And The Milkman - 2024 - https://api.discogs.com/masters/3422284
+Waltz Away - 2011 - https://api.discogs.com/masters/471351
+Dream Waters / Eveline - 2012 - https://api.discogs.com/masters/482459
+For You / The Coroner - 2013 - https://api.discogs.com/releases/4274784
+Honey - 2013 - https://api.discogs.com/releases/7640220
+EP2 - 2016 - https://api.discogs.com/masters/1750253
+I Really Like It - 2018 - https://api.discogs.com/masters/1920555
+Our Girl - 2018 - https://api.discogs.com/masters/1372997
+Voices of Winter Palace - 2019 - https://api.discogs.com/releases/14794759
+The Trapper's Pelts / Fixer Upper - 2020 - https://api.discogs.com/masters/1805299
+Dark Days - 2021 - https://api.discogs.com/masters/2103766
+Dear Scott - 2022 - https://api.discogs.com/masters/2659544
+Between The Moon And The Milkman - 2024 - https://api.discogs.com/masters/3422284
+The Coral - 2002 - https://api.discogs.com/masters/30398
+Magic And Medicine - 2003 - https://api.discogs.com/masters/30352
+Secret Kiss - 2003 - https://api.discogs.com/masters/152188
+The Invisible Invasion - 2005 - https://api.discogs.com/masters/30374
+The Invisible Invasion (Album Sampler) - 2005 - https://api.discogs.com/masters/794085
+Roots & Echoes - 2007 - https://api.discogs.com/masters/30356
+Singles Collection - 2008 - https://api.discogs.com/masters/230280
+Standing Next To Me - 2008 - https://api.discogs.com/masters/152736
+It's Real: A Seasonal Collection Of Music 2011 / 2012 - 2011 - https://api.discogs.com/releases/3267656
+Submarine - 2011 - https://api.discogs.com/masters/320427
+Waltz Away - 2011 - https://api.discogs.com/masters/471351
+Dream Waters / Eveline - 2012 - https://api.discogs.com/masters/482459
+AM - 2013 - https://api.discogs.com/masters/593987
+We Are Catchers - 2013 - https://api.discogs.com/masters/672341
+Illuminate - 2013 - https://api.discogs.com/masters/664939
+Ophelia - 2013 - https://api.discogs.com/masters/1058289
+In The Seams - 2014 - https://api.discogs.com/masters/826269
+The Curse Of Love - 2014 - https://api.discogs.com/masters/763731
+Annabel Dream Reader - 2014 - https://api.discogs.com/masters/722411
+Tap Tap Tap - 2014 - https://api.discogs.com/masters/797684
+Here We Are Now (15 Tracks Of The Month's Best New Music) - 2015 - https://api.discogs.com/releases/7641950
+2015 - 2015 - https://api.discogs.com/releases/7760078
+Cannonball EP - 2017 - https://api.discogs.com/masters/1220840
+Stranger Today - 2018 - https://api.discogs.com/masters/1408685
+Recordings 2003-2005 - 2018 - https://api.discogs.com/masters/1306572
+Like An Island - 2018 - https://api.discogs.com/masters/1356030
+Die Radioeins Sessions Volume 4 - 2019 - https://api.discogs.com/releases/14569620
+Acid Zoo - 2020 - https://api.discogs.com/releases/16212084
+The Trapper's Pelts / Fixer Upper / Peanuts - 2020 - https://api.discogs.com/masters/1875471
+Tomorrow Again - 2020 - https://api.discogs.com/masters/1886949
+The Trapper's Pelts / Fixer Upper - 2020 - https://api.discogs.com/masters/1805299
+Not The Girl - 2021 - https://api.discogs.com/masters/2127868
+Dark Days - 2021 - https://api.discogs.com/masters/2103766
+Moonsoake - 2022 - https://api.discogs.com/releases/22179121
+Classic Rock Compilation 126 - 2023 - https://api.discogs.com/releases/29146264
+100% Endurance / Tiny Dancer - 2023 - https://api.discogs.com/masters/3317812
+Sea Of Mirrors - 2023 - https://api.discogs.com/masters/3232198
+Moonsoake - 2024 - https://api.discogs.com/releases/30681202
+Between The Moon And The Milkman - 2024 - https://api.discogs.com/masters/3422284
+Rock And The City - Liverpool - 2009 - https://api.discogs.com/releases/5727204
+It's Real: A Seasonal Collection Of Music 2011 / 2012 - 2011 - https://api.discogs.com/releases/3267656
+Amazon Domino Sampler - 2011 - https://api.discogs.com/releases/3268986
+14 Tracks: Consensual Hallucination - 2012 - https://api.discogs.com/releases/3938755
+Beacons Festival 2013 Mixtape - 2013 - https://api.discogs.com/releases/4902537
+Breathe This Air - 2013 - https://api.discogs.com/releases/6915931
+Creative Sounds By Sony Music #1 - 2013 - https://api.discogs.com/releases/10922965
+Here We Are Now (15 Tracks Of The Month's Best New Music) - 2015 - https://api.discogs.com/releases/7641950
+2015 - 2015 - https://api.discogs.com/releases/7760078
+Momentos 2015 / Vol. II Canciones Internacionales - 2016 - https://api.discogs.com/releases/8246461
+End Of The Road 2016 - 2016 - https://api.discogs.com/releases/11330443
+Green Leaves (Nick Drake Covered) - 2018 - https://api.discogs.com/releases/11443815
+VA Compilation #5 - 2019 - https://api.discogs.com/releases/13215443
+Die Radioeins Sessions Volume 4 - 2019 - https://api.discogs.com/releases/14569620
+Duyster.2020 - 2020 - https://api.discogs.com/masters/1998388
+Hiver 2023/24 - 2023 - https://api.discogs.com/releases/29060824
+Classic Rock Compilation 126 - 2023 - https://api.discogs.com/releases/29146264
+Musikexpress 02/24 - 2024 - https://api.discogs.com/releases/29483416
+The Sound Of 2024 (15 Tracks Of The Year's Greatest Music) - 2024 - https://api.discogs.com/releases/32230929
+The Best Of 2024 - 2024 - https://api.discogs.com/releases/32239119
+AM - 2013 - https://api.discogs.com/masters/593987
+Live in London - 2015 - https://api.discogs.com/masters/3410263

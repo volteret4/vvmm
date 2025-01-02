@@ -1,0 +1,71 @@
+---
+title: "Bill Ryder Jones - Iechyd Da"
+date: 2025-01-02T15:01:26+01:00
+image: "image.jpeg"
+draft: false
+tags:
+ - folk
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Bill-Ryder-Jones - Iechyd-Da))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3364006)
+[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/26a88205-4a0e-4ab2-85ab-b5b716523262)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLvsYXqtYjMYfShFDRe4Gbpa1PFQnHw8WZ)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))](error) error busqueda -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+<!-- [![spotify](../links/svg/spotify.png (putify))]() -->
+<!-- [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error) -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2024
+> 
+> **Géneros**: Folk, World, & Country
+> 
+> **Estilos**: 
+> 
+> **Pais:** US
+> 
+> **Votos:** Media de 5.0 con 4 votos
+> 
+> **Sello:** Fusty Cunt
+> 
+> **Tracklist:**
+> 
+>   1. I Know That It’s Like This (Baby)    
+> 
+>   2. A Bad Wind Blows In My Heart pt. 3    
+> 
+>   3. If Tomorrow Starts Without Me    
+> 
+>   4. We Don’t Need Them    
+> 
+>   5. I Hold Something In My Hand    
+> 
+>   6. This Can’t Go On    
+> 
+>   7. ...And The Sea...    
+> 
+>   8. Nothing To Be Done    
+> 
+>   9. It’s Today Again    
+> 
+>   10. Christinha    
+> 
+>   11. How Beautiful I Am    
+> 
+>   12. Thankfully For Anthony    
+> 
+>   13. Nos Da    
+> 
+>   . Bonus 7"    
+> 
+>   A1. When Will I Get Used To This?    
+> 
+>   B1. Bedbound Melodies    
+> 
