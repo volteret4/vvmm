@@ -1,114 +1,101 @@
 Listado de releases del artista:
-Seven New Songs Of Mount Eerie - 2004 - https://api.discogs.com/releases/760234
-Live In Copenhagen - 2004 - https://api.discogs.com/masters/721040
-Two New Songs Of Mount Eerie - 2004 - https://api.discogs.com/masters/625089
-The Drums From "No Flashlight" - 2005 - https://api.discogs.com/releases/777429
-2 Songs - 2005 - https://api.discogs.com/releases/3558450
-The Last Hit (Soundtrack) - 2005 - https://api.discogs.com/releases/4908183
-Nodody's Perfect - 2005 - https://api.discogs.com/releases/7995070
-In The World / I Love All You Guys Slow - 2005 - https://api.discogs.com/masters/592768
-No Flashlight - Songs Of The Fulfilled Night - 2005 - https://api.discogs.com/masters/54840
-Eleven Old Songs Of Mount Eerie - 2005 - https://api.discogs.com/masters/54847
-I Whale - 2006 - https://api.discogs.com/releases/760305
-Pts. 6 & 7 - 2007 - https://api.discogs.com/masters/644721
-Fog Movies Live - 2008 - https://api.discogs.com/releases/1335660
-Prisoner Of Desire / Through The Trees (Excerpt) - 2008 - https://api.discogs.com/releases/1340835
-Dawn - 2008 - https://api.discogs.com/masters/54851
-Lost Wisdom - 2008 - https://api.discogs.com/masters/54855
-Black Wooden Ceiling Opening - 2008 - https://api.discogs.com/masters/186870
-White Stag - 2009 - https://api.discogs.com/releases/1783827
-Black Wooden - 2009 - https://api.discogs.com/masters/288440
-Wind's Poem - 2009 - https://api.discogs.com/masters/186869
-Song Islands Vol. 2 (Collected Rarities And Singles) - 2010 - https://api.discogs.com/releases/2675425
-Daytrotter Studio  2-15-2010 - 2010 - https://api.discogs.com/releases/24141920
-Distorted Cymbals / Anglepoise Cymbals - 2012 - https://api.discogs.com/releases/3329523
-To The Ground - 2012 - https://api.discogs.com/releases/3544601
-The Tomlab Umlaut Singles Series Ö - 2012 - https://api.discogs.com/releases/3609292
-Needle Exchange 103 - 2012 - https://api.discogs.com/releases/13971164
-Clear Moon / Ocean Roar (Condensed Versions) - 2012 - https://api.discogs.com/masters/2970496
-Clear Moon / Ocean Roar - 2012 - https://api.discogs.com/masters/1375749
-"Singers" - 2012 - https://api.discogs.com/masters/1470005
-Clear Moon - 2012 - https://api.discogs.com/masters/616896
-Ocean Roar - 2012 - https://api.discogs.com/masters/616897
-World Heaves - 2012 - https://api.discogs.com/masters/467011
-Live In Bloomington, September 30th, 2011 - 2013 - https://api.discogs.com/releases/4748666
-Live In Seattle, Sept. 7th, 2013 - 2013 - https://api.discogs.com/releases/5427416
-Pre-Human Ideas - 2013 - https://api.discogs.com/masters/623900
-Live With Odeon Quartet - 2013 - https://api.discogs.com/masters/968548
-Emptiness (Version) - 2014 - https://api.discogs.com/masters/695365
-Sauna - 2015 - https://api.discogs.com/masters/796583
-A Crow Looked At Me - 2017 - https://api.discogs.com/masters/1154519
-(After) - 2018 - https://api.discogs.com/masters/1432115
-Now Only - 2018 - https://api.discogs.com/masters/1333964
-2 Remixes By Wolves In The Throne Room - 2018 - https://api.discogs.com/masters/2970490
-Lost Wisdom Pt. 2 - 2019 - https://api.discogs.com/releases/14366075
-Lost Wisdom Pts. 1 & 2 - 2019 - https://api.discogs.com/releases/14430009
-Tiny Desk Concert - 2020 - https://api.discogs.com/releases/24379397
-Night Palace - 2024 - https://api.discogs.com/masters/3645021
-21th Century Pop Song - 2004 - https://api.discogs.com/masters/841025
-Joyride: Remixes - 2006 - https://api.discogs.com/masters/153713
-Tournament - 2007 - https://api.discogs.com/releases/3699591
-Five Years - 2006 - https://api.discogs.com/masters/583844
-Someone Else's Ocean - 2012 - https://api.discogs.com/masters/1023624
-The Tomlab Alphabet Singles Series - 2013 - https://api.discogs.com/releases/4097822
-Folkadelphia Session 6/13/2014 - 2014 - https://api.discogs.com/releases/12219352
-Brown Bear At The Zoo:  Songs About Animals - 2017 - https://api.discogs.com/masters/1334419
-The Pet Series (Volume 3) - 2003 - https://api.discogs.com/releases/1511997
-itm005 - 2003 - https://api.discogs.com/releases/2448059
-What The Heck? - 2003 Compilation - 2003 - https://api.discogs.com/releases/13280289
-Trust In Sirens - 2004 - https://api.discogs.com/masters/659068
-The 2005 Music Issue - 2005 - https://api.discogs.com/releases/1335556
-WUAG 103.1FM And Gate City Noise Presents: Sub Rosa - 2005 - https://api.discogs.com/releases/1728867
-The Marriage Records Compilation: Is Orange Birds - 2005 - https://api.discogs.com/releases/2463330
-Re-Membering Vol. 1 - 2005 - https://api.discogs.com/releases/3186303
-Is There Ever Any Such Thing As An Accident? - 2005 - https://api.discogs.com/releases/9882981
-Radio Cookie Scene 0027 January 2006 / December 2005 - 2005 - https://api.discogs.com/releases/12533392
-Flotsam -N- Jetsam - What The Heck Fest Sampler 2005 - 2005 - https://api.discogs.com/releases/13418677
-Untitled - 2006 - https://api.discogs.com/releases/1047689
-What The Heckfest 2006 - 2006 - https://api.discogs.com/releases/3223007
-Live At The Artistery 2003-2005 - 2006 - https://api.discogs.com/releases/9068251
-Free The Bird - 2006 - https://api.discogs.com/releases/12419626
-Five Years - 2006 - https://api.discogs.com/masters/583844
-The Second Marriage Records Compilation - 2007 - https://api.discogs.com/releases/2463350
-Real Fun - Polaroids From The Independent Music Landscape - 2007 - https://api.discogs.com/releases/2540310
-E.S.P. (A Nervous Jerk Compilation) - 2007 - https://api.discogs.com/releases/3145873
-What The Heck? 2007 Compilation - 2007 - https://api.discogs.com/releases/14526807
-David Shrigley's Worried Noodles - 2007 - https://api.discogs.com/masters/143657
-Yeti Five - 2008 - https://api.discogs.com/releases/1277561
-Maximocast #6 - Sounds From The Park Part 3: The Desert Drive Mix - 2008 - https://api.discogs.com/releases/1692967
-14 Tracks For The Dusty Veranda - 2008 - https://api.discogs.com/releases/3061828
-No Band Is An Island - 2008 - https://api.discogs.com/releases/5014162
-Mind The Gap Volume 81 - 2009 - https://api.discogs.com/releases/2001086
-Type Mix - 2009 - https://api.discogs.com/releases/2242815
-What The Heck? (2009 Festival Compilation) - 2009 - https://api.discogs.com/releases/9416744
-Penny-Ante Three - 2009 - https://api.discogs.com/releases/9636574
-Moriyama Zoo No. 1 - Tribute to Daido Moriyama - 2009 - https://api.discogs.com/releases/23100461
-Tiny Mix Tapes Vol. 1 Darfur - 2009 - https://api.discogs.com/masters/78662
-Motel Mozaïque 2010 Sampler - 2010 - https://api.discogs.com/releases/2198739
-A Free 60 Minute Mix-Tape - 2010 - https://api.discogs.com/releases/2876074
-Sonic Cathedrals Mixtape Series Vol. XXIII - 2011 - https://api.discogs.com/releases/3309736
-NFJM 030 - 2011 - https://api.discogs.com/masters/1100471
-Passed Loves Presents: Death Machines Of The Police State - 2012 - https://api.discogs.com/releases/3770433
-The Business Select Vol. 1 - 2012 - https://api.discogs.com/releases/4993722
-Intratelluric Mixtape - 2012 - https://api.discogs.com/releases/5400235
-Cairo Tape Club #1 - 2012 - https://api.discogs.com/releases/8837888
-The Tomlab Alphabet Singles Series - 2013 - https://api.discogs.com/releases/4097822
-Vinyl! (Midt I København) - 2014 - https://api.discogs.com/releases/5490498
-The End Of Puppies - 2014 - https://api.discogs.com/releases/5870166
-Goldrush 2014 Companion Cassette - 2014 - https://api.discogs.com/releases/6289838
-2014 Joyful Noise Flexi-Disc Series Limited Box Set - 2014 - https://api.discogs.com/releases/7294806
-Forever Papaiti 100 Bootlegs - 2014 - https://api.discogs.com/releases/9264719
-Fact Mix 436 - 2014 - https://api.discogs.com/releases/29425420
-The Cold Jungle Vol. II - 2014 - https://api.discogs.com/masters/940351
-Mystery Language - An Old Time Relijun Testimonial - 2015 - https://api.discogs.com/releases/7123815
-Do A Little Dance - FYF Mixtape - 2015 - https://api.discogs.com/releases/8631563
-Is There Another Language? : an ACLU benefit album - 2017 - https://api.discogs.com/releases/9840748
-Upcoming & Rarities - 2019 - https://api.discogs.com/releases/13414533
-The Song Is Coming From Inside The House - 2020 - https://api.discogs.com/releases/15330249
-You Think It's Like This But Really It's Like This - 2020 - https://api.discogs.com/masters/153715
-Ô - A Tribute To Ô Paon And Geneviève Castrée - 2021 - https://api.discogs.com/masters/2637779
-Indie 103.1 Dead Air In Studio Sessions Volume 2 - Desconocido - https://api.discogs.com/releases/15621497
-Turning Tutu, Turning Leaves - Desconocido - https://api.discogs.com/masters/659058
-Live At Northern Fucked 4 Life - 2009 - https://api.discogs.com/releases/6253942
-Dawn - 2014 - https://api.discogs.com/masters/54851
-Wind's Poem - 2014 - https://api.discogs.com/masters/186869
+Fine-Tuning The Bender E.P. - 2003 - https://api.discogs.com/masters/490140
+To Hell With This And All Of You - 2004 - https://api.discogs.com/releases/1567052
+Art Of The Underground Single Series Volume 9 - 2006 - https://api.discogs.com/masters/1930128
+Grin And Bear It E.P. - 2006 - https://api.discogs.com/masters/299932
+Hospitals - 2006 - https://api.discogs.com/masters/129354
+Hi Five For The Rapture - 2006 - https://api.discogs.com/masters/149598
+Off With Their Heads / Blotto - 2007 - https://api.discogs.com/releases/3548129
+All Is Not Well - 2007 - https://api.discogs.com/releases/5759667
+One For The Road - 2007 - https://api.discogs.com/masters/70145
+Tiltwheel And Off With Their Heads - 2007 - https://api.discogs.com/masters/306962
+Off With Their Heads / The Measure [sa] - 2007 - https://api.discogs.com/masters/544662
+Off With Their Heads / Practice - 2007 - https://api.discogs.com/masters/1481246
+All Things Move Toward Their End - 2007 - https://api.discogs.com/masters/155297
+Off With Their Heads / The Dukes Of Hillsborough - 2007 - https://api.discogs.com/masters/1142344
+Off With Their Heads / Dear Landlord - 2007 - https://api.discogs.com/masters/70142
+From The Bottom - 2008 - https://api.discogs.com/masters/128902
+Insubordination Fest '08 - 2009 - https://api.discogs.com/releases/3524712
+Live At The Atlantic: Vol II - 2009 - https://api.discogs.com/masters/199309
+Under The Influence Vol. 7 - 2009 - https://api.discogs.com/masters/254673
+I Will Follow You - 2010 - https://api.discogs.com/masters/1052163
+Trying To Breathe - 2010 - https://api.discogs.com/masters/254267
+Another Wrong / Field Of Darkness - 2010 - https://api.discogs.com/masters/304967
+Off With Their Heads / Detournement - 2010 - https://api.discogs.com/masters/301650
+In Desolation - 2010 - https://api.discogs.com/masters/264918
+Jump Start Records Live: Volume 4 - 2011 - https://api.discogs.com/releases/4442597
+RBG DTM OWTH - 2011 - https://api.discogs.com/masters/362005
+Never Run / Legacy You Left Behind - 2011 - https://api.discogs.com/masters/392655
+Home - 2013 - https://api.discogs.com/masters/532497
+Always Alone EP - 2013 - https://api.discogs.com/masters/631791
+Harsh Realms - 2014 - https://api.discogs.com/masters/1041309
+Communist Daughter - 2014 - https://api.discogs.com/masters/1498200
+On The Attack - 2015 - https://api.discogs.com/releases/6918100
+Sorrow - 2015 - https://api.discogs.com/masters/1492722
+Won't Be Missed - 2016 - https://api.discogs.com/masters/1085806
+Theme Song - 2016 - https://api.discogs.com/masters/1492725
+Broken Songs - 2016 - https://api.discogs.com/masters/1492728
+Wonder Beer - 2016 - https://api.discogs.com/masters/1492732
+Off With Their Heads / Crusades - 2017 - https://api.discogs.com/releases/9931450
+Live From The Rock Room - 2017 - https://api.discogs.com/masters/1296189
+Straight To Hell - 2018 - https://api.discogs.com/releases/11650690
+Why Do We - 2018 - https://api.discogs.com/releases/12843176
+Stay With Me - 2019 - https://api.discogs.com/releases/13808519
+Be Good  - 2019 - https://api.discogs.com/masters/1590881
+Non-essential vol. 1 - 2020 - https://api.discogs.com/releases/15223466
+Non Essential Vol. 2 - 2020 - https://api.discogs.com/releases/15426323
+My Own Summer / Shove It - 2020 - https://api.discogs.com/releases/16252630
+Character - 2020 - https://api.discogs.com/masters/1749516
+Don't Tell Me How to [Live] - 2020 - https://api.discogs.com/masters/1846416
+Live Dec 9th 2017 - 2020 - https://api.discogs.com/masters/1932993
+Everlong - 2021 - https://api.discogs.com/releases/20433817
+Wrong - 2021 - https://api.discogs.com/masters/1984534
+OWTH / JPool - 2021 - https://api.discogs.com/masters/2274916
+Calm / Collected - 2022 - https://api.discogs.com/masters/2709557
+Sour Breath - 2024 - https://api.discogs.com/releases/29703772
+Inhale. Exhale. Smile. - 2024 - https://api.discogs.com/masters/3653832
+Nightlife - Desconocido - https://api.discogs.com/releases/15234975
+Andrew Jackson Jihad / Partners In 818 - 2007 - https://api.discogs.com/releases/2932132
+Free The West Memphis Three - 2010 - https://api.discogs.com/masters/1347374
+Nothington / Paper Arms - 2013 - https://api.discogs.com/releases/4532826
+Life From The Seafront And Other Oddities - 2013 - https://api.discogs.com/releases/15600268
+Art Of The Underground Single Series Volume: Year 2 - 2006 - https://api.discogs.com/releases/3329875
+We'll Inherit The Earth...A Tribute To The Replacements - 2006 - https://api.discogs.com/releases/3704719
+Twin Cities Hardcore: Bring It Together - 2006 - https://api.discogs.com/releases/5715822
+Recess Sampler 2006 - 2006 - https://api.discogs.com/releases/6650734
+My Life In A Jugular Vein - 2007 - https://api.discogs.com/releases/2707727
+No Idea Presents: Fest 6 - 2007 - https://api.discogs.com/releases/3422932
+Awesome Town - 2007 - https://api.discogs.com/releases/5862504
+The 4-Way Split Series Chapter One - 2007 - https://api.discogs.com/masters/475459
+Sound Check No. 114 - 2008 - https://api.discogs.com/releases/8793012
+No Idea Presents: Fest 7 - 2008 - https://api.discogs.com/masters/855855
+Continent / From The Bottom - 2008 - https://api.discogs.com/masters/280399
+Punk Rock Pot Luck Vol. #2 - 2009 - https://api.discogs.com/releases/1723258
+No Idea Presents: Fest 8 - 2009 - https://api.discogs.com/releases/2012821
+Husk! Husk! Twin Cities Scene Comp. - 2009 - https://api.discogs.com/releases/2698681
+Skate Rock Vol. 1 - 2009 - https://api.discogs.com/releases/5202840
+Insubordination Fest Baltimore MD '08 (Live CD & DVD) - 2009 - https://api.discogs.com/releases/9064600
+Five Dollar Swamp Comp - 2009 - https://api.discogs.com/releases/9320463
+Let Them Know (The Story Of Youth Brigade And BYO Records) - 2009 - https://api.discogs.com/masters/525539
+My America: A Tribute To Quincy Punx To Benefit The West Memphis Three - 2010 - https://api.discogs.com/releases/3901237
+Bugging Your Ears! No. 136 - 2010 - https://api.discogs.com/releases/10209467
+Untitled 21: A Juvenile Tribute To Swingin' Utters - 2010 - https://api.discogs.com/masters/3037481
+Free The West Memphis Three - 2010 - https://api.discogs.com/masters/1347374
+Epitaph New Noise, Volume 01 - 2010 - https://api.discogs.com/masters/786004
+Terminal Decay - 2012 - https://api.discogs.com/releases/3385841
+Rock Sound 100% Vol. #173 - 2013 - https://api.discogs.com/releases/7284221
+The Clown Sound Sampler Vol​.​1 - 2014 - https://api.discogs.com/releases/13204998
+The Songs Of Neutral Milk Hotel: A Tribute - 2014 - https://api.discogs.com/masters/771246
+Groezrock '15 Sampler - 2015 - https://api.discogs.com/releases/6969387
+ Hope: A Compilation For The American Foundation For Suicide Prevention - 2015 - https://api.discogs.com/releases/13240229
+Hope Vol. 2: A Compilation For The American Foundation For Suicide Prevention - 2016 - https://api.discogs.com/releases/13240113
+Vegas Strong (A Benefit From Punks In Vegas) - 2017 - https://api.discogs.com/releases/11262227
+For Santa Rosa - 2017 - https://api.discogs.com/releases/24138878
+The Anxious Little Friends Companion - 2018 - https://api.discogs.com/releases/12777315
+One Family One Flag - 2018 - https://api.discogs.com/masters/1459193
+Ox Compilation #145 - 2019 - https://api.discogs.com/releases/13956323
+All Areas Volume 221 - 2019 - https://api.discogs.com/releases/14070233
+Blood, Sweat & Punk: Volume 6 - 2019 - https://api.discogs.com/releases/14083629
+BMP4: Four Score And Four Shitty Label Compilations Ago... - Desconocido - https://api.discogs.com/releases/4602991
+Dead Broke Rekerds: Tape Comp - Desconocido - https://api.discogs.com/releases/15343238
+LFTRR/LJS - 2019 - https://api.discogs.com/releases/14433350
