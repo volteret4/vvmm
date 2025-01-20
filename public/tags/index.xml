@@ -6,11 +6,29 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 20 Jan 2025 21:37:45 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 22:08:36 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
+      
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drone</title>
+      <link>/tags/drone/</link>
+      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
+      
+      <guid>/tags/drone/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ost</title>
       <link>/tags/ost/</link>
-      <pubDate>Mon, 20 Jan 2025 21:37:45 +0100</pubDate>
+      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
       
       <guid>/tags/ost/</guid>
       <description></description>
@@ -67,15 +85,6 @@
       <pubDate>Thu, 02 Jan 2025 17:01:08 +0100</pubDate>
       
       <guid>/tags/folk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ambient</title>
-      <link>/tags/ambient/</link>
-      <pubDate>Thu, 02 Jan 2025 16:50:16 +0100</pubDate>
-      
-      <guid>/tags/ambient/</guid>
       <description></description>
     </item>
     

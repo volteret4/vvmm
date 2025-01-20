@@ -1,1 +1,84 @@
 Listado de releases del artista:
+Several Erasures - 2019 - https://api.discogs.com/releases/13458877
+Aerophobia - 2019 - https://api.discogs.com/releases/13801350
+It Is Just So Much More Difficult - 2019 - https://api.discogs.com/releases/13859969
+t4t - 2019 - https://api.discogs.com/releases/14325662
+Friends - 2019 - https://api.discogs.com/releases/14478965
+rehearsal / improvisations - 2019 - https://api.discogs.com/releases/17919025
+I'll Give You All Of My Love - 2020 - https://api.discogs.com/releases/15343056
+Both - 2020 - https://api.discogs.com/releases/15808567
+Tuufuhhoowaah / Bday Shots - 2020 - https://api.discogs.com/releases/15852333
+Vertices - 2020 - https://api.discogs.com/releases/16070596
+I Let A Song Go Out Of My Heart - 2020 - https://api.discogs.com/releases/16189838
+It Was Always Worth It - 2020 - https://api.discogs.com/releases/17829439
+Split - 2020 - https://api.discogs.com/releases/21331681
+Kyle - 2020 - https://api.discogs.com/releases/22873937
+Live At Elastic Arts - 2020 - https://api.discogs.com/masters/1782298
+Specifically The Water - 2020 - https://api.discogs.com/masters/1717308
+Im Not A Bad Person But​.​.​. - 2020 - https://api.discogs.com/masters/1745483
+A Heavenly Touch - 2020 - https://api.discogs.com/masters/2908882
+</3 - 2020 - https://api.discogs.com/masters/2909152
+If I Don't Let Myself Be Happy Now Then When? - 2020 - https://api.discogs.com/masters/2879353
+Enough For Me - 2021 - https://api.discogs.com/releases/18095239
+Twin Bed EP - 2021 - https://api.discogs.com/releases/18986629
+ILYSM - 2021 - https://api.discogs.com/releases/18988285
+A Collection - 2021 - https://api.discogs.com/releases/20095579
+17 Roles (All Mapped Out) - 2021 - https://api.discogs.com/releases/20455162
+It Was Always Worth It / ILYSM - 2021 - https://api.discogs.com/releases/21417934
+Divide - 2021 - https://api.discogs.com/releases/22979273
+Neuter - 2021 - https://api.discogs.com/releases/22979390
+A Moment In St Louis And A Moment At The Beach  - 2021 - https://api.discogs.com/releases/22982957
+Sometimes I Feel Like I Have No Friends - 2021 - https://api.discogs.com/releases/22997156
+Live - 2021 - https://api.discogs.com/masters/2419201
+A Softer Focus - 2021 - https://api.discogs.com/masters/2075290
+An Afternoon Whine - 2021 - https://api.discogs.com/masters/2233378
+Now Am Found - 2021 - https://api.discogs.com/masters/2774258
+Transactional - 2022 - https://api.discogs.com/releases/24423647
+wouldn't have to hurt - 2022 - https://api.discogs.com/releases/24509684
+Distance Therapy - 2022 - https://api.discogs.com/releases/25771597
+ a very busy social life  - 2022 - https://api.discogs.com/releases/26390831
+Anything You Can Do...  - 2022 - https://api.discogs.com/releases/27232263
+Everything Perfect Is Already Here - 2022 - https://api.discogs.com/masters/2607398
+Never Stop Texting Me - 2022 - https://api.discogs.com/masters/2562872
+A Crying Poem - 2022 - https://api.discogs.com/masters/2890453
+t2v - 2023 - https://api.discogs.com/releases/26489849
+Deceiver - 2023 - https://api.discogs.com/releases/27013554
+Sigh In My Ear / Your First Armadillo - 2023 - https://api.discogs.com/releases/27937749
+Sentiment Remix - 2024 - https://api.discogs.com/releases/31730951
+Sentiment Remix - Deluxe Photo Cover - 2024 - https://api.discogs.com/releases/32159541
+The Bloody Lady - 2024 - https://api.discogs.com/releases/32287410
+Sentiment - 2024 - https://api.discogs.com/masters/3464144
+Sunset Poem (Reimagined By Claire Rousay) - 2022 - https://api.discogs.com/releases/24824819
+What Remains (Remixes) - 2023 - https://api.discogs.com/masters/3323044
+Friends - 2019 - https://api.discogs.com/releases/14478965
+Friends - 2019 - https://api.discogs.com/releases/14478965
+Infinite Futures - 2019 - https://api.discogs.com/releases/15627245
+Mari - 2020 - https://api.discogs.com/masters/1750041
+The Thousand Birds In The Earth, The Thousand Birds In The Sky - 2020 - https://api.discogs.com/masters/2062552
+Wants A Diamond Pivot Bright - 2021 - https://api.discogs.com/releases/20592346
+Momentum 5 : Stammer (triptych) - 2021 - https://api.discogs.com/releases/21461299
+Pastorale - 2021 - https://api.discogs.com/masters/2250079
+Specks - 2022 - https://api.discogs.com/releases/24731396
+Autumn Fair - 2022 - https://api.discogs.com/releases/25363213
+Será Que Ahora Podremos Entendernos - 2022 - https://api.discogs.com/masters/2239255
+Oneiric - 2022 - https://api.discogs.com/masters/2584775
+Eyeline - 2022 - https://api.discogs.com/masters/2576996
+Lockstep Bloodwar - 2023 - https://api.discogs.com/masters/2955982
+Slowly Forgetting, Barely Remembering - 2023 - https://api.discogs.com/masters/3103086
+Um - 2024 - https://api.discogs.com/masters/3586735
+Infinite Futures - 2019 - https://api.discogs.com/releases/15627245
+Free Percussion - 2019 - https://api.discogs.com/masters/3645954
+Dead Decade - 2019 - https://api.discogs.com/masters/1655825
+Astral Ascending: Celebrating 5 Years Of Astral Spirits Records - 2019 - https://api.discogs.com/masters/2361763
+Embraced And Reassured (A Compilation Of Field Recordings) - 2020 - https://api.discogs.com/releases/15223282
+On & On - 2020 - https://api.discogs.com/releases/18564469
+Common Ground Vol.1 - 2021 - https://api.discogs.com/releases/22978796
+Mind The Gap #153 - 2022 - https://api.discogs.com/releases/22678133
+In The Deep Drift You Will Find The Most Serene Of Lullabies - 2022 - https://api.discogs.com/releases/23881619
+Ecstatic USB Bomb - 2022 - https://api.discogs.com/releases/24221198
+For Ukraine (Volume 3) - 2022 - https://api.discogs.com/releases/24389243
+Paint Your Lips While Singing Your Favourite Pop Song - 2022 - https://api.discogs.com/releases/24410189
+Dekmantel Podcast 378 - 2022 - https://api.discogs.com/releases/29454022
+Remotely Together - 2023 - https://api.discogs.com/releases/26713280
+Venus Rising From The Sea - 2024 - https://api.discogs.com/releases/30503164
+TRAИƧA - 2024 - https://api.discogs.com/releases/32530443
