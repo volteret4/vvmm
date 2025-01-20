@@ -1,0 +1,64 @@
+---
+title: "Ela Minus - DA"
+date: 2025-01-20T20:30:23+01:00
+image: "image.jpeg"
+draft: false
+tags:
+ - techno
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg (Ela-Minus - DA))
+ 
+[![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=Ela-Minus%20DA)
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1428110)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLQqH9ipP84QlOkdVTPIxfJiHAL2_mQ-01)
+ 
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+<!-- [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]() -->
+<!-- [![spotify](../links/svg/spotify.png (putify))]() -->
+<!-- [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error) -->
+ 
+> Información del álbum facilitada por discogs.com:
+> 
+> **Fecha de lanzamiento**: 2017
+> 
+> **Géneros**: Electronic, Latin, Pop, Folk, World, & Country
+> 
+> **Estilos**: Experimental
+> 
+> **Pais:** Italy
+> 
+> **Votos:** Media de 5.0 con 3 votos
+> 
+> **Sello:** Oxford
+> 
+> **Tracklist:**
+> 
+>   A1. Facón 
+> (feat. [Jhon Montoya](https://www.discogs.com/artist/5583567 'Music composer from Italy.'))   
+> 
+>   A2. Huanaco    
+> 
+>   A3. Otoño Primavera 
+> (feat. [Lulacruza](https://www.discogs.com/artist/1238905 'Folktronica group from Argentina'))   
+> 
+>   A4. Na Rúa 
+> (feat. [Carrot Green](https://www.discogs.com/artist/2621175 'Brazilian DJ and producer from Rio de...'))   
+> 
+>   A5. Carnaval De Las Flores    
+> 
+>   B1. Belleza En El Aire 
+> (feat. [Weste](https://www.discogs.com/artist/6145978 'Argentinian/Uruguayan duo. Active at least since 2012....'))   
+> 
+>   B2. Circumvalar    
+> 
+>   B3. Túneles 
+> (feat. [Ela Minus](https://www.discogs.com/artist/4802432 'Ela Minus is the performing monicker of...'))   
+> 
+>   B4. Pura Danza    
+> 
+>   B5. Saudade    
+> 
