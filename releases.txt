@@ -1,33 +1,29 @@
 Listado de releases del artista:
-They Told Us It Was Hard, But They Were Wrong. - 2020 - https://api.discogs.com/masters/1796643
-Megapunk - 2020 - https://api.discogs.com/masters/1852017
-Acts Of Rebellion - 2020 - https://api.discogs.com/masters/1827152
-♡ - 2022 - https://api.discogs.com/masters/2805860
- ♡ (Ricardo Villalobos Remixes) - 2023 - https://api.discogs.com/masters/3161637
-Día - 2025 - https://api.discogs.com/masters/3722559
-Burn [Remixed] - 2018 - https://api.discogs.com/masters/1411948
-New Me, Same Us Remix EP - 2021 - https://api.discogs.com/releases/21546961
-Visions EP - 2023 - https://api.discogs.com/releases/26785967
-My Favourite Stranger (Remixes) - 2023 - https://api.discogs.com/masters/3281536
+This is It EP - 2014 - https://api.discogs.com/releases/24967735
+Sofia Kourtesis - 2019 - https://api.discogs.com/masters/1522707
+Sarita Colonia - 2019 - https://api.discogs.com/masters/1684701
+Fresia Magdalena - 2021 - https://api.discogs.com/masters/2036185
+Estación Esperanza - 2022 - https://api.discogs.com/releases/25813888
+Madres - 2023 - https://api.discogs.com/releases/26435465
+How Music Makes You Feel Better - 2023 - https://api.discogs.com/releases/28449517
+Madres - 2023 - https://api.discogs.com/masters/3291265
+Seeking Thrills (The Ultimate Thrills Edition) - 2020 - https://api.discogs.com/masters/1665612
+One By One (Sofia Kourtesis Remix) - 2021 - https://api.discogs.com/masters/2104942
+Megapunk (Remixes) - 2021 - https://api.discogs.com/masters/1852017
+Palaces : The Remixes, Pt. 2 - 2022 - https://api.discogs.com/releases/24460025
+Diplo (Deluxe) - 2022 - https://api.discogs.com/masters/2997362
 Local Valley Remixes - 2023 - https://api.discogs.com/masters/3079304
+Total 23 - 2023 - https://api.discogs.com/masters/3225256
  Local Valley (Deluxe) - 2023 - https://api.discogs.com/masters/2301847
-Dora - 2015 - https://api.discogs.com/releases/7930804
-Albura - 2017 - https://api.discogs.com/masters/1428110
-Azulejos - 2017 - https://api.discogs.com/masters/1230479
-Albura - 2018 - https://api.discogs.com/releases/28239847
-Albura Remixed  - 2018 - https://api.discogs.com/masters/3111123
-This Is How You Smile - 2019 - https://api.discogs.com/masters/1516974
-Tandem - 2020 - https://api.discogs.com/releases/14939842
-La Bande-son De L'automne 2020 - 2020 - https://api.discogs.com/releases/16044291
-Global Underground: Afterhours 9 - 2022 - https://api.discogs.com/masters/2803268
-Gisela - 2023 - https://api.discogs.com/masters/3244735
-Destellos - 2024 - https://api.discogs.com/releases/32802144
-Musikexpress 02/25 - 2025 - https://api.discogs.com/releases/32810454
-Electrografía (El Tempo No Se Detiene) - 2016 - https://api.discogs.com/releases/30954751
-La Bande-son De L'automne 2020 - 2020 - https://api.discogs.com/releases/16044291
-Musikexpress 11/20 - 2020 - https://api.discogs.com/releases/16083410
-La Bande-son 2020 - 2020 - https://api.discogs.com/releases/16328907
-.Dev - 2021 - https://api.discogs.com/releases/21565981
- HeForShe X Femme Culture Vol. 4 - 2022 - https://api.discogs.com/releases/26417921
+Fantasy (Deluxe) - 2024 - https://api.discogs.com/masters/3020834
+Fantasy (Remixes) - 2024 - https://api.discogs.com/masters/3473044
+You And I (Sofia Kourtesis Remix) - 2024 - https://api.discogs.com/masters/3622709
+Half Of Where You Live - 2013 - https://api.discogs.com/masters/566441
+Studio Barnhus Volym 1 - 2018 - https://api.discogs.com/masters/1425946
+Musikexpress 12/23 - 2023 - https://api.discogs.com/releases/28854526
+Studio Barnhus Volym 1 - 2018 - https://api.discogs.com/masters/1425946
+Musikexpress 05/21 - 2021 - https://api.discogs.com/releases/18349174
+Musikexpress 12/23 - 2023 - https://api.discogs.com/releases/28854526
+Songlines: Top Of The World 193 - 2023 - https://api.discogs.com/releases/28967482
 Bleep 100 Tracks 2023 - 2023 - https://api.discogs.com/releases/29449453
-Musikexpress 02/25 - 2025 - https://api.discogs.com/releases/32810454
+m.a.d - 2024 - https://api.discogs.com/releases/30133040
