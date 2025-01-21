@@ -1,13 +1,13 @@
 ---
 title: "Spiritualized   Ladies and Gentlemens We Are Floating in Spacemd - "
-date: 2025-01-20T23:39:43+01:00
+date: 2025-01-21T01:58:47+01:00
 image: "image.jpeg"
 draft: false
 tags:
- - -
- - -
- - space-rock
- - -
+ - tags:
+ #- tagB
+ #- tagC
+ #- tagD
  #- tagE
 ---
 ![cover](image.jpeg (Spiritualized - Ladies and gentlemens we are floating in spacemd - ))
