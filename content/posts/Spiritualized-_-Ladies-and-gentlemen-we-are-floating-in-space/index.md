@@ -1,6 +1,6 @@
 ---
 title: "Spiritualized - Ladies and Gentlemen We Are Floating in Space"
-date: 2025-01-21T14:48:04+01:00
+date: 2025-01-22T16:23:31+01:00
 image: "image.jpeg"
 draft: false
 tags:
