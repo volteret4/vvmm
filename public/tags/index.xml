@@ -6,22 +6,31 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 22 Jan 2025 16:23:31 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 17:46:30 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Sun, 26 Jan 2025 17:46:30 +0100</pubDate>
+      
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch</title>
+      <link>/tags/glitch/</link>
+      <pubDate>Sun, 26 Jan 2025 17:46:30 +0100</pubDate>
+      
+      <guid>/tags/glitch/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>space-rock,psicodelia</title>
       <link>/tags/space-rockpsicodelia/</link>
       <pubDate>Wed, 22 Jan 2025 16:23:31 +0100</pubDate>
       
       <guid>/tags/space-rockpsicodelia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ambient</title>
-      <link>/tags/ambient/</link>
-      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
-      
-      <guid>/tags/ambient/</guid>
       <description></description>
     </item>
     
@@ -211,15 +220,6 @@
       <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
       
       <guid>/tags/synthetizers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>glitch</title>
-      <link>/tags/glitch/</link>
-      <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
-      
-      <guid>/tags/glitch/</guid>
       <description></description>
     </item>
     
