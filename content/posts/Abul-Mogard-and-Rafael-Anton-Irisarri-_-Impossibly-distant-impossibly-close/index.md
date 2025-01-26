@@ -1,6 +1,6 @@
 ---
 title: "Abul Mogard and Rafael Anton Irisarri - Impossibly Distant Impossibly Close"
-date: 2025-01-26T19:13:59+01:00
+date: 2025-01-26T19:37:51+01:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -13,7 +13,6 @@ tags:
 ![cover](image.jpeg (Abul-Mogard-and-Rafael-Anton-Irisarri - Impossibly-distant-impossibly-close))
  
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3465443
-No se encontró ningún artista con el nombre 'Abul-Mogard-and-Rafael-Anton-Irisarri'.
 No se pudo obtener el ID del artista.)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d7b623f5-bc2e-45b6-b3b9-fec3be5aee0e)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLT6A3Q_dZ5zAQiMQqaaLdkiy-urIeXq4C)
