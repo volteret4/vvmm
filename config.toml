@@ -3,6 +3,9 @@ baseURL = "/"
 languageCode = 'es-ES'
 title = 'vvmm'
 theme = 'm10c'
+staticDir = ['static']
+
+
 
 [menu]
   [[menu.main]]
@@ -15,11 +18,11 @@ theme = 'm10c'
     name = "generos"
     url = "/tags/"
     weight= 2
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 3
+  [[menu.main]]
+    identifier = "coleccion"
+    name = "colección"
+    url = "/coleccion/"
+    weight = 3
 
 #[menu]
 #  [[menu.main]]
