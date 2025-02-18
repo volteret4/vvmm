@@ -2,11 +2,11 @@
 title: "Maribou State - Hallucinating Love"
 date: 2025-02-18T19:53:52+01:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags:
- #- tagA
- #- tagB
- #- tagC
+ - hallucinating-love
+ - house
+ - pop
  #- tagD
  #- tagE
 ---
@@ -22,12 +22,19 @@ tags:
 <!-- [![youtube](../links/svg/youtube.png (youtube))]() -->
  
 > Información del álbum facilitada por discogs.com:
-
-**Fecha de lanzamiento**: Desconocida
-
-**Géneros**: Desconocidos
-
-**Estilos**: Desconocidos
-
-Tracklist: Desconocida
-
+> 
+> **Fecha de lanzamiento**: Desconocida
+> 
+> **Géneros**: Desconocidos
+> 
+> **Estilos**: Desconocidos
+> 
+> **Pais:** Singapore
+> 
+> **Votos:** Media de 5.0 con 2 votos
+> 
+> **Sello:** TheatreWorks
+> 
+> **Tracklist:**
+> 
+> 
