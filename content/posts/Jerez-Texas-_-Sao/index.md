@@ -1,12 +1,12 @@
 ---
 title: "Jerez Texas - Sao"
-date: 2025-03-02T14:34:26+01:00
+date: 2025-03-02T14:46:27+01:00
 image: "image.jpeg"
 draft: false
 tags:
  - Sao
- - jazz
- - flamenco
+ #- tagB
+ #- tagC
  #- tagD
  #- tagE
 ---
