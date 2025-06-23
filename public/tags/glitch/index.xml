@@ -1,81 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>glitch on vvmm</title>
+    <title>Glitch on vvmm</title>
     <link>/tags/glitch/</link>
-    <description>Recent content in glitch on vvmm</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Glitch on vvmm</description>
+    <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 26 Jan 2025 17:53:45 +0100</lastBuildDate><atom:link href="/tags/glitch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 17:53:45 +0100</lastBuildDate>
+    <atom:link href="/tags/glitch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fennesz - Endless Summer</title>
       <link>/posts/fennesz-_-endless-summer/</link>
       <pubDate>Sun, 26 Jan 2025 17:53:45 +0100</pubDate>
-      
       <guid>/posts/fennesz-_-endless-summer/</guid>
-      <description>Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: 2001
-Géneros: Electronic
-Estilos: Glitch, Experimental, Ambient
-Pais: UK
-Votos: Media de 4.74 con 715 votos
-Sello: Prototype Recordings
-Phonographic Copyright (p): Prototype Recordings (UK) Ltd
-Copyright (c): Prototype Recordings (UK) Ltd
-Published By: Mute
-Published By: Copyright Control
-Distributed By: Vinyl Distribution
-Design - Jon Black
-Lacquer Cut By - Stuart Hawkes
-Written-By, Producer - Ed Rush
-Written-By, Producer - Fierce</description>
+      <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Fennesz - Endless-Summer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bandcamp.com/search?q=Fennesz%20Endless-Summer&#34;&gt;&lt;img src=&#34;../links/svg/bandcamp.png&#34; alt=&#34;bandcamp&#34; title=&#34;bandcamp&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.discogs.com/master/832&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/1213358e-3e82-411a-8905-bbea0327a3a9&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fennesz&#34;&gt;&lt;img src=&#34;../links/svg/wikipedia.png&#34; alt=&#34;wikipedia&#34; title=&#34;wikipedia&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLGvOhF5V-qLdCymGXDprqyl-3ok0IkzJl&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 2001&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Electronic&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Glitch, Experimental, Ambient&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pais:&lt;/strong&gt; UK&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Votos:&lt;/strong&gt; Media de 4.74 con 715 votos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sello:&lt;/strong&gt; Prototype Recordings&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phonographic Copyright (p):&lt;/strong&gt; Prototype Recordings (UK) Ltd&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Copyright (c):&lt;/strong&gt; Prototype Recordings (UK) Ltd&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Published By:&lt;/strong&gt; Mute&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Published By:&lt;/strong&gt; Copyright Control&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Distributed By:&lt;/strong&gt; Vinyl Distribution&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Design&lt;/strong&gt; - Jon Black&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lacquer Cut By&lt;/strong&gt; - Stuart Hawkes&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Written-By, Producer&lt;/strong&gt; - Ed Rush&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ISAN - Beautronics</title>
       <link>/posts/isan-_-beautronics/</link>
       <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
-      
       <guid>/posts/isan-_-beautronics/</guid>
-      <description>Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: 1998
-Géneros: Electronic
-Estilos: Abstract, IDM, Minimal
-Pais: Portugal
-Votos: Media de 4.4 con 5 votos
-Sello: Creative Sources
-Recorded At: Estudi 84
-Mixed At: Estudi 84
-Accordion, Photography By [Sleeve] - Alfredo Costa Monteiro
-Mastered By - Joan Saura
-Photography By [I Treni Inerti] - Pere Pratdesaba
-Recorded By, Mixed By - David Casamitjana
-Recorded By, Mixed By - Ferran Fages</description>
+      <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;ISAN - Beautronics&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://isan.bandcamp.com/album/beautronics&#34;&gt;&lt;img src=&#34;../links/svg/bandcamp.png&#34; alt=&#34;bandcamp&#34; title=&#34;bandcamp&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.discogs.com/master/547082&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.last.fm/music/Isan/Beautronics&#34;&gt;&lt;img src=&#34;../links/svg/lastfm.png&#34; alt=&#34;lastfm&#34; title=&#34;lastfm&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/970b9400-e10f-4070-b92a-b38d08c02d28&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/1oKuAao1T85lcjeRSAoqtM&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;error&#34;&gt;&lt;img src=&#34;../links/svg/wikipedia.png&#34; alt=&#34;wikipedia&#34; title=&#34;wikipedia&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL6Lt3H81cNF410qEPEj55TYP3gXIfy6qA&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 1998&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Electronic&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Abstract, IDM, Minimal&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pais:&lt;/strong&gt; Portugal&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Votos:&lt;/strong&gt; Media de 4.4 con 5 votos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sello:&lt;/strong&gt; Creative Sources&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Recorded At:&lt;/strong&gt; Estudi 84&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mixed At:&lt;/strong&gt; Estudi 84&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accordion, Photography By [Sleeve]&lt;/strong&gt; - Alfredo Costa Monteiro&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mastered By&lt;/strong&gt; - Joan Saura&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Photography By [I Treni Inerti]&lt;/strong&gt; - Pere Pratdesaba&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Recorded By, Mixed By&lt;/strong&gt; - David Casamitjana&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Recorded By, Mixed By&lt;/strong&gt; - Ferran Fages&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alva Noto - HYbrID III</title>
       <link>/posts/alva-noto-_-hybrid-iii/</link>
       <pubDate>Sat, 23 Nov 2024 07:33:01 +0100</pubDate>
-      
       <guid>/posts/alva-noto-_-hybrid-iii/</guid>
-      <description>Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: 2024
-Géneros: Electronic, Stage &amp;amp; Screen
-Estilos: Ambient, Experimental, Glitch, Minimal Techno, Modern Classical, Score
-Pais: Russia
-Sello: Aeternum Digital
-Phonographic Copyright (p): Aeternum Digital
-Copyright (c): Aeternum Digital
-Distributed By: Sundesire Media Worx
-Tracklist:
-HYbr:ID Noh Talk 6:32
-HYbr:ID Sync Dark 4:57
-HYbr:ID Noh Human 8:19
-HYbr:ID Sync Inter 5:32
-HYbr:ID Collective Open 5:19
-HYbr:ID Obsessive Behaviour Day 4:31</description>
+      <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;alva-noto - HYbrID-III&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.discogs.com/master/3536642&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/3BY3RJxwqckwpwTBJYP5SU&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;error&#34;&gt;&lt;img src=&#34;../links/svg/wikipedia.png&#34; alt=&#34;wikipedia&#34; title=&#34;wikipedia&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLw_IkukIYEypeZrEpCbTvtghBBoOi4DES&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Electronic, Stage &amp;amp; Screen&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Ambient, Experimental, Glitch, Minimal Techno, Modern Classical, Score&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pais:&lt;/strong&gt; Russia&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sello:&lt;/strong&gt; Aeternum Digital&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phonographic Copyright (p):&lt;/strong&gt; Aeternum Digital&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Copyright (c):&lt;/strong&gt; Aeternum Digital&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Distributed By:&lt;/strong&gt; Sundesire Media Worx&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tracklist:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;HYbr:ID Noh Talk    6:32&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;HYbr:ID Sync Dark    4:57&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;HYbr:ID Noh Human    8:19&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;HYbr:ID Sync Inter    5:32&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;HYbr:ID Collective Open    5:19&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;HYbr:ID Obsessive Behaviour Day    4:31&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dreampop on vvmm</title>
+    <title>Dreampop on vvmm</title>
     <link>/tags/dreampop/</link>
-    <description>Recent content in dreampop on vvmm</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Dreampop on vvmm</description>
+    <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 20 Jun 2024 18:06:18 +0200</lastBuildDate><atom:link href="/tags/dreampop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 18:06:18 +0200</lastBuildDate>
+    <atom:link href="/tags/dreampop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death and Vanilla - Flicker</title>
       <link>/posts/death-and-vanilla-_-flicker/</link>
       <pubDate>Thu, 20 Jun 2024 18:06:18 +0200</pubDate>
-      
       <guid>/posts/death-and-vanilla-_-flicker/</guid>
-      <description>Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: 2023
-Géneros: Electronic, Rock
-Estilos: Synth-pop, Darkwave, Experimental
-Pais: US
-Sello: Radex Recording Studios
-Recorded At: Radex Recording Studios
-Accordion, Tenor Saxophone - Greg Anderson (11)
-Drums - Tom Metz
-Engineer - Dexter Witt
-Horn [Bass Horn] - Gary Pulver
-Trumpet - Kevin Finkenbinder
-Trumpet, Organ - Pam Anderson (2)
-Vocals, Guitar, Banjo - Craig Brown (5)
-Tracklist:
-A1. Out For Magic</description>
+      <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Death-and-Vanilla - Flicker&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.discogs.com/master/3017504&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/777651d4-c902-441a-8cca-94dcb29270f3&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/42AH0B8JxBoa8d0na8Du70&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;error&#34;&gt;&lt;img src=&#34;../links/svg/wikipedia.png&#34; alt=&#34;wikipedia&#34; title=&#34;wikipedia&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLYgLX_Ij3lO7ItnFcRK_m2VYbXtXaWTPi&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 2023&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Electronic, Rock&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Synth-pop, Darkwave, Experimental&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pais:&lt;/strong&gt; US&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sello:&lt;/strong&gt; Radex Recording Studios&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Recorded At:&lt;/strong&gt; Radex Recording Studios&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Accordion, Tenor Saxophone&lt;/strong&gt; - Greg Anderson (11)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Drums&lt;/strong&gt; - Tom Metz&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Engineer&lt;/strong&gt; - Dexter Witt&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Horn [Bass Horn]&lt;/strong&gt; - Gary Pulver&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Trumpet&lt;/strong&gt; - Kevin Finkenbinder&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Trumpet, Organ&lt;/strong&gt; - Pam Anderson (2)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vocals, Guitar, Banjo&lt;/strong&gt; - Craig Brown (5)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

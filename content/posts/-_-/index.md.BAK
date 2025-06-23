@@ -1,0 +1,23 @@
+---
+title: " - "
+date: 2025-06-23T23:26:50+02:00
+image: "image.jpeg"
+draft: true
+tags:
+ #- tagA
+ #- tagB
+ #- tagC
+ #- tagD
+ #- tagE
+---
+![cover](image.jpeg ( - ))
+ 
+[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/)
+ 
+<!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))]() url vacia -->
+<!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
+<!-- [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]() -->
+<!-- [![spotify](../links/svg/spotify.png (putify))]() -->
+<!-- [![wikipedia](../links/svg/wikipedia.png (wikipedia))]() -->
+<!-- [![youtube](../links/svg/youtube.png (youtube))]() -->
+ 
