@@ -1,6 +1,6 @@
 ---
 title: "GoGo Penguin - Necessary Fictions"
-date: 2025-06-24T00:27:56+02:00
+date: 2025-06-24T00:36:07+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -14,12 +14,12 @@ tags:
  
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3885769)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5m268XSW8woGIbzi3bPpok)
+[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLZmpSK3klBc4cTuWz1W3RGWHJL-nXpdkl)
  
 <!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))](error) error busqueda -->
 <!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() -->
 <!-- [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]() -->
-<!-- [![wikipedia](../links/svg/wikipedia.png (wikipedia))]() -->
-<!-- [![youtube](../links/svg/youtube.png (youtube))]() -->
+<!-- [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error) -->
  
 > Información del álbum facilitada por discogs.com:
 > 
