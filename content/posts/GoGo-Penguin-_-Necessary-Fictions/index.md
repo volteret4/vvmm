@@ -1,6 +1,6 @@
 ---
 title: "GoGo Penguin - Necessary Fictions"
-date: 2025-06-24T00:00:49+02:00
+date: 2025-06-24T00:02:34+02:00
 image: "image.jpeg"
 draft: false
 tags:
