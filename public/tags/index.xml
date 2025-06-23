@@ -2,612 +2,626 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on vvmm</title>
-    <link>//192.168.1.133:38475/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 24 Jun 2025 00:36:07 +0200</lastBuildDate>
-    <atom:link href="//192.168.1.133:38475/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 01:32:59 +0200</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jazz</title>
-      <link>//192.168.1.133:38475/tags/jazz/</link>
-      <pubDate>Tue, 24 Jun 2025 00:36:07 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/jazz/</guid>
+      <title>Awakenings</title>
+      <link>/tags/awakenings/</link>
+      <pubDate>Tue, 24 Jun 2025 01:32:59 +0200</pubDate>
+      <guid>/tags/awakenings/</guid>
       <description></description>
     </item>
     <item>
-      <title>Necessary-Fictions</title>
-      <link>//192.168.1.133:38475/tags/necessary-fictions/</link>
-      <pubDate>Tue, 24 Jun 2025 00:36:07 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/necessary-fictions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nu-Jazz</title>
-      <link>//192.168.1.133:38475/tags/nu-jazz/</link>
-      <pubDate>Tue, 24 Jun 2025 00:36:07 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/nu-jazz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Progressive</title>
-      <link>//192.168.1.133:38475/tags/progressive/</link>
-      <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/progressive/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rock</title>
-      <link>//192.168.1.133:38475/tags/rock/</link>
-      <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/rock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The-Missing-Piece</title>
-      <link>//192.168.1.133:38475/tags/the-missing-piece/</link>
-      <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/the-missing-piece/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Electronic</title>
-      <link>//192.168.1.133:38475/tags/electronic/</link>
-      <pubDate>Wed, 07 May 2025 20:33:05 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/electronic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Volume-X</title>
-      <link>//192.168.1.133:38475/tags/volume-x/</link>
-      <pubDate>Wed, 07 May 2025 20:33:05 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/volume-x/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Folk</title>
-      <link>//192.168.1.133:38475/tags/folk/</link>
-      <pubDate>Mon, 21 Apr 2025 19:09:05 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/folk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wildflowers</title>
-      <link>//192.168.1.133:38475/tags/wildflowers/</link>
-      <pubDate>Mon, 21 Apr 2025 19:09:05 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/wildflowers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ambient</title>
-      <link>//192.168.1.133:38475/tags/ambient/</link>
-      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/ambient/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Downtempo</title>
-      <link>//192.168.1.133:38475/tags/downtempo/</link>
-      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/downtempo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Interloper</title>
-      <link>//192.168.1.133:38475/tags/interloper/</link>
-      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/interloper/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Synth</title>
-      <link>//192.168.1.133:38475/tags/synth/</link>
-      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/synth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Derelicts</title>
-      <link>//192.168.1.133:38475/tags/derelicts/</link>
-      <pubDate>Wed, 16 Apr 2025 15:11:40 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/derelicts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resonant-Bodies</title>
-      <link>//192.168.1.133:38475/tags/resonant-bodies/</link>
-      <pubDate>Sat, 12 Apr 2025 07:32:09 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/resonant-bodies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A-Blade-Because-a-Blade-Is-Whole</title>
-      <link>//192.168.1.133:38475/tags/a-blade-because-a-blade-is-whole/</link>
-      <pubDate>Sat, 05 Apr 2025 00:11:33 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/a-blade-because-a-blade-is-whole/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>33-Tours-Et-Puis-S-en-Vont</title>
-      <link>//192.168.1.133:38475/tags/33-tours-et-puis-s-en-vont/</link>
-      <pubDate>Tue, 01 Apr 2025 23:54:55 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/33-tours-et-puis-s-en-vont/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Techno</title>
-      <link>//192.168.1.133:38475/tags/techno/</link>
-      <pubDate>Tue, 01 Apr 2025 23:54:55 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/techno/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1978</title>
-      <link>//192.168.1.133:38475/tags/1978/</link>
-      <pubDate>Sun, 30 Mar 2025 03:32:32 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/1978/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soul</title>
-      <link>//192.168.1.133:38475/tags/soul/</link>
-      <pubDate>Sun, 30 Mar 2025 03:32:32 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/soul/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Save-the-World</title>
-      <link>//192.168.1.133:38475/tags/save-the-world/</link>
-      <pubDate>Thu, 27 Mar 2025 18:32:57 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/save-the-world/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Salt-and-Sugar-Look-the-Same</title>
-      <link>//192.168.1.133:38475/tags/salt-and-sugar-look-the-same/</link>
-      <pubDate>Sun, 23 Mar 2025 02:31:35 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/salt-and-sugar-look-the-same/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DSVII</title>
-      <link>//192.168.1.133:38475/tags/dsvii/</link>
-      <pubDate>Thu, 20 Mar 2025 07:06:40 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/dsvii/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Electro</title>
-      <link>//192.168.1.133:38475/tags/electro/</link>
-      <pubDate>Thu, 20 Mar 2025 07:06:40 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/electro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Faith-in-Strangers</title>
-      <link>//192.168.1.133:38475/tags/faith-in-strangers/</link>
-      <pubDate>Mon, 10 Mar 2025 19:30:29 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/faith-in-strangers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Second-Toughest-in-the-Infants</title>
-      <link>//192.168.1.133:38475/tags/second-toughest-in-the-infants/</link>
-      <pubDate>Sun, 09 Mar 2025 03:02:57 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/second-toughest-in-the-infants/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Burning-the-Rural-District</title>
-      <link>//192.168.1.133:38475/tags/burning-the-rural-district/</link>
-      <pubDate>Sat, 08 Mar 2025 16:01:42 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/burning-the-rural-district/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Animist</title>
-      <link>//192.168.1.133:38475/tags/animist/</link>
-      <pubDate>Sat, 08 Mar 2025 00:33:51 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/animist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sao</title>
-      <link>//192.168.1.133:38475/tags/sao/</link>
-      <pubDate>Sun, 02 Mar 2025 14:46:27 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/sao/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gothic</title>
-      <link>//192.168.1.133:38475/tags/gothic/</link>
-      <pubDate>Sun, 26 Jan 2025 19:48:22 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/gothic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New-Wave</title>
-      <link>//192.168.1.133:38475/tags/new-wave/</link>
-      <pubDate>Sun, 26 Jan 2025 19:48:22 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/new-wave/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ambient,</title>
-      <link>//192.168.1.133:38475/tags/ambient/</link>
-      <pubDate>Sun, 26 Jan 2025 17:53:45 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/ambient/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Glitch</title>
-      <link>//192.168.1.133:38475/tags/glitch/</link>
-      <pubDate>Sun, 26 Jan 2025 17:53:45 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/glitch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coleccion</title>
-      <link>//192.168.1.133:38475/tags/coleccion/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//192.168.1.133:38475/tags/coleccion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Discogs</title>
-      <link>//192.168.1.133:38475/tags/discogs/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//192.168.1.133:38475/tags/discogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Space-Rock,psicodelia</title>
-      <link>//192.168.1.133:38475/tags/space-rockpsicodelia/</link>
-      <pubDate>Wed, 22 Jan 2025 16:23:31 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/space-rockpsicodelia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drone</title>
-      <link>//192.168.1.133:38475/tags/drone/</link>
-      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/drone/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ost</title>
-      <link>//192.168.1.133:38475/tags/ost/</link>
-      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/ost/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Funk</title>
-      <link>//192.168.1.133:38475/tags/funk/</link>
-      <pubDate>Mon, 20 Jan 2025 17:10:27 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/funk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Punk</title>
-      <link>//192.168.1.133:38475/tags/punk/</link>
-      <pubDate>Tue, 07 Jan 2025 21:46:41 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/punk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Psicodelia</title>
-      <link>//192.168.1.133:38475/tags/psicodelia/</link>
-      <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/psicodelia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stoner</title>
-      <link>//192.168.1.133:38475/tags/stoner/</link>
-      <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/stoner/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>House</title>
-      <link>//192.168.1.133:38475/tags/house/</link>
-      <pubDate>Thu, 02 Jan 2025 15:18:42 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/house/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metal</title>
-      <link>//192.168.1.133:38475/tags/metal/</link>
-      <pubDate>Thu, 02 Jan 2025 15:03:01 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/metal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Industrial</title>
-      <link>//192.168.1.133:38475/tags/industrial/</link>
-      <pubDate>Thu, 02 Jan 2025 14:53:02 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/industrial/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Progresivo</title>
-      <link>//192.168.1.133:38475/tags/progresivo/</link>
-      <pubDate>Thu, 02 Jan 2025 14:48:12 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/progresivo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deep</title>
-      <link>//192.168.1.133:38475/tags/deep/</link>
-      <pubDate>Thu, 02 Jan 2025 14:02:25 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/deep/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deephouse</title>
-      <link>//192.168.1.133:38475/tags/deephouse/</link>
-      <pubDate>Thu, 02 Jan 2025 14:02:25 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/deephouse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Espiritual</title>
-      <link>//192.168.1.133:38475/tags/espiritual/</link>
-      <pubDate>Thu, 02 Jan 2025 13:59:11 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/espiritual/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Punk,rock</title>
-      <link>//192.168.1.133:38475/tags/punkrock/</link>
-      <pubDate>Fri, 27 Dec 2024 01:22:26 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/punkrock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Andalucía</title>
-      <link>//192.168.1.133:38475/tags/andaluc%C3%ADa/</link>
-      <pubDate>Thu, 05 Dec 2024 23:10:49 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/andaluc%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Earcandy</title>
-      <link>//192.168.1.133:38475/tags/earcandy/</link>
-      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/earcandy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Synthetizers</title>
-      <link>//192.168.1.133:38475/tags/synthetizers/</link>
-      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/synthetizers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Idm</title>
-      <link>//192.168.1.133:38475/tags/idm/</link>
-      <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
-      <guid>//192.168.1.133:38475/tags/idm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Techno jazz</title>
-      <link>//192.168.1.133:38475/tags/techno-jazz/</link>
-      <pubDate>Fri, 19 Jul 2024 14:42:03 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/techno-jazz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Balearic</title>
-      <link>//192.168.1.133:38475/tags/balearic/</link>
-      <pubDate>Tue, 16 Jul 2024 19:37:53 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/balearic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disco</title>
-      <link>//192.168.1.133:38475/tags/disco/</link>
-      <pubDate>Thu, 11 Jul 2024 21:00:34 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/disco/</guid>
+      <title>Pet-Sounds</title>
+      <link>/tags/pet-sounds/</link>
+      <pubDate>Tue, 24 Jun 2025 01:32:59 +0200</pubDate>
+      <guid>/tags/pet-sounds/</guid>
       <description></description>
     </item>
     <item>
       <title>Pop</title>
-      <link>//192.168.1.133:38475/tags/pop/</link>
-      <pubDate>Thu, 11 Jul 2024 21:00:34 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/pop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recopilatorio</title>
-      <link>//192.168.1.133:38475/tags/recopilatorio/</link>
-      <pubDate>Tue, 09 Jul 2024 20:53:02 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/recopilatorio/</guid>
+      <link>/tags/pop/</link>
+      <pubDate>Tue, 24 Jun 2025 01:32:59 +0200</pubDate>
+      <guid>/tags/pop/</guid>
       <description></description>
     </item>
     <item>
       <title>Vocal</title>
-      <link>//192.168.1.133:38475/tags/vocal/</link>
-      <pubDate>Tue, 25 Jun 2024 21:46:19 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/vocal/</guid>
+      <link>/tags/vocal/</link>
+      <pubDate>Tue, 24 Jun 2025 01:32:59 +0200</pubDate>
+      <guid>/tags/vocal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jazz</title>
+      <link>/tags/jazz/</link>
+      <pubDate>Tue, 24 Jun 2025 00:36:07 +0200</pubDate>
+      <guid>/tags/jazz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Necessary-Fictions</title>
+      <link>/tags/necessary-fictions/</link>
+      <pubDate>Tue, 24 Jun 2025 00:36:07 +0200</pubDate>
+      <guid>/tags/necessary-fictions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nu-Jazz</title>
+      <link>/tags/nu-jazz/</link>
+      <pubDate>Tue, 24 Jun 2025 00:36:07 +0200</pubDate>
+      <guid>/tags/nu-jazz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Progressive</title>
+      <link>/tags/progressive/</link>
+      <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
+      <guid>/tags/progressive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rock</title>
+      <link>/tags/rock/</link>
+      <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
+      <guid>/tags/rock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The-Missing-Piece</title>
+      <link>/tags/the-missing-piece/</link>
+      <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
+      <guid>/tags/the-missing-piece/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electronic</title>
+      <link>/tags/electronic/</link>
+      <pubDate>Wed, 07 May 2025 20:33:05 +0200</pubDate>
+      <guid>/tags/electronic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Volume-X</title>
+      <link>/tags/volume-x/</link>
+      <pubDate>Wed, 07 May 2025 20:33:05 +0200</pubDate>
+      <guid>/tags/volume-x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Folk</title>
+      <link>/tags/folk/</link>
+      <pubDate>Mon, 21 Apr 2025 19:09:05 +0200</pubDate>
+      <guid>/tags/folk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wildflowers</title>
+      <link>/tags/wildflowers/</link>
+      <pubDate>Mon, 21 Apr 2025 19:09:05 +0200</pubDate>
+      <guid>/tags/wildflowers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Downtempo</title>
+      <link>/tags/downtempo/</link>
+      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
+      <guid>/tags/downtempo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interloper</title>
+      <link>/tags/interloper/</link>
+      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
+      <guid>/tags/interloper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Synth</title>
+      <link>/tags/synth/</link>
+      <pubDate>Thu, 17 Apr 2025 17:06:59 +0200</pubDate>
+      <guid>/tags/synth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Derelicts</title>
+      <link>/tags/derelicts/</link>
+      <pubDate>Wed, 16 Apr 2025 15:11:40 +0200</pubDate>
+      <guid>/tags/derelicts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resonant-Bodies</title>
+      <link>/tags/resonant-bodies/</link>
+      <pubDate>Sat, 12 Apr 2025 07:32:09 +0200</pubDate>
+      <guid>/tags/resonant-bodies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A-Blade-Because-a-Blade-Is-Whole</title>
+      <link>/tags/a-blade-because-a-blade-is-whole/</link>
+      <pubDate>Sat, 05 Apr 2025 00:11:33 +0200</pubDate>
+      <guid>/tags/a-blade-because-a-blade-is-whole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>33-Tours-Et-Puis-S-en-Vont</title>
+      <link>/tags/33-tours-et-puis-s-en-vont/</link>
+      <pubDate>Tue, 01 Apr 2025 23:54:55 +0200</pubDate>
+      <guid>/tags/33-tours-et-puis-s-en-vont/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techno</title>
+      <link>/tags/techno/</link>
+      <pubDate>Tue, 01 Apr 2025 23:54:55 +0200</pubDate>
+      <guid>/tags/techno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1978</title>
+      <link>/tags/1978/</link>
+      <pubDate>Sun, 30 Mar 2025 03:32:32 +0200</pubDate>
+      <guid>/tags/1978/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soul</title>
+      <link>/tags/soul/</link>
+      <pubDate>Sun, 30 Mar 2025 03:32:32 +0200</pubDate>
+      <guid>/tags/soul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Save-the-World</title>
+      <link>/tags/save-the-world/</link>
+      <pubDate>Thu, 27 Mar 2025 18:32:57 +0100</pubDate>
+      <guid>/tags/save-the-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salt-and-Sugar-Look-the-Same</title>
+      <link>/tags/salt-and-sugar-look-the-same/</link>
+      <pubDate>Sun, 23 Mar 2025 02:31:35 +0100</pubDate>
+      <guid>/tags/salt-and-sugar-look-the-same/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DSVII</title>
+      <link>/tags/dsvii/</link>
+      <pubDate>Thu, 20 Mar 2025 07:06:40 +0100</pubDate>
+      <guid>/tags/dsvii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electro</title>
+      <link>/tags/electro/</link>
+      <pubDate>Thu, 20 Mar 2025 07:06:40 +0100</pubDate>
+      <guid>/tags/electro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faith-in-Strangers</title>
+      <link>/tags/faith-in-strangers/</link>
+      <pubDate>Mon, 10 Mar 2025 19:30:29 +0100</pubDate>
+      <guid>/tags/faith-in-strangers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second-Toughest-in-the-Infants</title>
+      <link>/tags/second-toughest-in-the-infants/</link>
+      <pubDate>Sun, 09 Mar 2025 03:02:57 +0100</pubDate>
+      <guid>/tags/second-toughest-in-the-infants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Burning-the-Rural-District</title>
+      <link>/tags/burning-the-rural-district/</link>
+      <pubDate>Sat, 08 Mar 2025 16:01:42 +0100</pubDate>
+      <guid>/tags/burning-the-rural-district/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animist</title>
+      <link>/tags/animist/</link>
+      <pubDate>Sat, 08 Mar 2025 00:33:51 +0100</pubDate>
+      <guid>/tags/animist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sao</title>
+      <link>/tags/sao/</link>
+      <pubDate>Sun, 02 Mar 2025 14:46:27 +0100</pubDate>
+      <guid>/tags/sao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gothic</title>
+      <link>/tags/gothic/</link>
+      <pubDate>Sun, 26 Jan 2025 19:48:22 +0100</pubDate>
+      <guid>/tags/gothic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New-Wave</title>
+      <link>/tags/new-wave/</link>
+      <pubDate>Sun, 26 Jan 2025 19:48:22 +0100</pubDate>
+      <guid>/tags/new-wave/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ambient,</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Sun, 26 Jan 2025 17:53:45 +0100</pubDate>
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glitch</title>
+      <link>/tags/glitch/</link>
+      <pubDate>Sun, 26 Jan 2025 17:53:45 +0100</pubDate>
+      <guid>/tags/glitch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coleccion</title>
+      <link>/tags/coleccion/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/coleccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discogs</title>
+      <link>/tags/discogs/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/discogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space-Rock,psicodelia</title>
+      <link>/tags/space-rockpsicodelia/</link>
+      <pubDate>Wed, 22 Jan 2025 16:23:31 +0100</pubDate>
+      <guid>/tags/space-rockpsicodelia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drone</title>
+      <link>/tags/drone/</link>
+      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
+      <guid>/tags/drone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ost</title>
+      <link>/tags/ost/</link>
+      <pubDate>Mon, 20 Jan 2025 22:08:36 +0100</pubDate>
+      <guid>/tags/ost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funk</title>
+      <link>/tags/funk/</link>
+      <pubDate>Mon, 20 Jan 2025 17:10:27 +0100</pubDate>
+      <guid>/tags/funk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Punk</title>
+      <link>/tags/punk/</link>
+      <pubDate>Tue, 07 Jan 2025 21:46:41 +0100</pubDate>
+      <guid>/tags/punk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psicodelia</title>
+      <link>/tags/psicodelia/</link>
+      <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
+      <guid>/tags/psicodelia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stoner</title>
+      <link>/tags/stoner/</link>
+      <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
+      <guid>/tags/stoner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>House</title>
+      <link>/tags/house/</link>
+      <pubDate>Thu, 02 Jan 2025 15:18:42 +0100</pubDate>
+      <guid>/tags/house/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metal</title>
+      <link>/tags/metal/</link>
+      <pubDate>Thu, 02 Jan 2025 15:03:01 +0100</pubDate>
+      <guid>/tags/metal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industrial</title>
+      <link>/tags/industrial/</link>
+      <pubDate>Thu, 02 Jan 2025 14:53:02 +0100</pubDate>
+      <guid>/tags/industrial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Progresivo</title>
+      <link>/tags/progresivo/</link>
+      <pubDate>Thu, 02 Jan 2025 14:48:12 +0100</pubDate>
+      <guid>/tags/progresivo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep</title>
+      <link>/tags/deep/</link>
+      <pubDate>Thu, 02 Jan 2025 14:02:25 +0100</pubDate>
+      <guid>/tags/deep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deephouse</title>
+      <link>/tags/deephouse/</link>
+      <pubDate>Thu, 02 Jan 2025 14:02:25 +0100</pubDate>
+      <guid>/tags/deephouse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espiritual</title>
+      <link>/tags/espiritual/</link>
+      <pubDate>Thu, 02 Jan 2025 13:59:11 +0100</pubDate>
+      <guid>/tags/espiritual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Punk,rock</title>
+      <link>/tags/punkrock/</link>
+      <pubDate>Fri, 27 Dec 2024 01:22:26 +0100</pubDate>
+      <guid>/tags/punkrock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Andalucía</title>
+      <link>/tags/andaluc%C3%ADa/</link>
+      <pubDate>Thu, 05 Dec 2024 23:10:49 +0100</pubDate>
+      <guid>/tags/andaluc%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Earcandy</title>
+      <link>/tags/earcandy/</link>
+      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
+      <guid>/tags/earcandy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Synthetizers</title>
+      <link>/tags/synthetizers/</link>
+      <pubDate>Tue, 26 Nov 2024 20:22:49 +0100</pubDate>
+      <guid>/tags/synthetizers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Idm</title>
+      <link>/tags/idm/</link>
+      <pubDate>Tue, 26 Nov 2024 18:35:44 +0100</pubDate>
+      <guid>/tags/idm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techno jazz</title>
+      <link>/tags/techno-jazz/</link>
+      <pubDate>Fri, 19 Jul 2024 14:42:03 +0200</pubDate>
+      <guid>/tags/techno-jazz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balearic</title>
+      <link>/tags/balearic/</link>
+      <pubDate>Tue, 16 Jul 2024 19:37:53 +0200</pubDate>
+      <guid>/tags/balearic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disco</title>
+      <link>/tags/disco/</link>
+      <pubDate>Thu, 11 Jul 2024 21:00:34 +0200</pubDate>
+      <guid>/tags/disco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recopilatorio</title>
+      <link>/tags/recopilatorio/</link>
+      <pubDate>Tue, 09 Jul 2024 20:53:02 +0200</pubDate>
+      <guid>/tags/recopilatorio/</guid>
       <description></description>
     </item>
     <item>
       <title>Italo-Disco</title>
-      <link>//192.168.1.133:38475/tags/italo-disco/</link>
+      <link>/tags/italo-disco/</link>
       <pubDate>Tue, 25 Jun 2024 21:14:38 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/italo-disco/</guid>
+      <guid>/tags/italo-disco/</guid>
       <description></description>
     </item>
     <item>
       <title>Artpop</title>
-      <link>//192.168.1.133:38475/tags/artpop/</link>
+      <link>/tags/artpop/</link>
       <pubDate>Thu, 20 Jun 2024 23:20:59 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/artpop/</guid>
+      <guid>/tags/artpop/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-Punk</title>
-      <link>//192.168.1.133:38475/tags/post-punk/</link>
+      <link>/tags/post-punk/</link>
       <pubDate>Thu, 20 Jun 2024 23:13:08 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/post-punk/</guid>
+      <guid>/tags/post-punk/</guid>
       <description></description>
     </item>
     <item>
       <title>Chamber-Music</title>
-      <link>//192.168.1.133:38475/tags/chamber-music/</link>
+      <link>/tags/chamber-music/</link>
       <pubDate>Thu, 20 Jun 2024 23:06:57 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/chamber-music/</guid>
+      <guid>/tags/chamber-music/</guid>
       <description></description>
     </item>
     <item>
       <title>Art-Rock</title>
-      <link>//192.168.1.133:38475/tags/art-rock/</link>
+      <link>/tags/art-rock/</link>
       <pubDate>Thu, 20 Jun 2024 22:59:29 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/art-rock/</guid>
+      <guid>/tags/art-rock/</guid>
       <description></description>
     </item>
     <item>
       <title>Classical</title>
-      <link>//192.168.1.133:38475/tags/classical/</link>
+      <link>/tags/classical/</link>
       <pubDate>Thu, 20 Jun 2024 22:56:35 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/classical/</guid>
+      <guid>/tags/classical/</guid>
       <description></description>
     </item>
     <item>
       <title>Mpb</title>
-      <link>//192.168.1.133:38475/tags/mpb/</link>
+      <link>/tags/mpb/</link>
       <pubDate>Thu, 20 Jun 2024 22:42:24 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/mpb/</guid>
+      <guid>/tags/mpb/</guid>
       <description></description>
     </item>
     <item>
       <title>Krautrock</title>
-      <link>//192.168.1.133:38475/tags/krautrock/</link>
+      <link>/tags/krautrock/</link>
       <pubDate>Thu, 20 Jun 2024 22:38:27 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/krautrock/</guid>
+      <guid>/tags/krautrock/</guid>
       <description></description>
     </item>
     <item>
       <title>Noise</title>
-      <link>//192.168.1.133:38475/tags/noise/</link>
+      <link>/tags/noise/</link>
       <pubDate>Thu, 20 Jun 2024 21:48:21 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/noise/</guid>
+      <guid>/tags/noise/</guid>
       <description></description>
     </item>
     <item>
       <title>Shoegaze</title>
-      <link>//192.168.1.133:38475/tags/shoegaze/</link>
+      <link>/tags/shoegaze/</link>
       <pubDate>Thu, 20 Jun 2024 21:48:21 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/shoegaze/</guid>
+      <guid>/tags/shoegaze/</guid>
       <description></description>
     </item>
     <item>
       <title>Hiphop</title>
-      <link>//192.168.1.133:38475/tags/hiphop/</link>
+      <link>/tags/hiphop/</link>
       <pubDate>Thu, 20 Jun 2024 19:35:56 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/hiphop/</guid>
+      <guid>/tags/hiphop/</guid>
       <description></description>
     </item>
     <item>
       <title>Rhytm-and-Blues</title>
-      <link>//192.168.1.133:38475/tags/rhytm-and-blues/</link>
+      <link>/tags/rhytm-and-blues/</link>
       <pubDate>Thu, 20 Jun 2024 19:31:21 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/rhytm-and-blues/</guid>
+      <guid>/tags/rhytm-and-blues/</guid>
       <description></description>
     </item>
     <item>
       <title>Acidjazz</title>
-      <link>//192.168.1.133:38475/tags/acidjazz/</link>
+      <link>/tags/acidjazz/</link>
       <pubDate>Thu, 20 Jun 2024 19:02:45 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/acidjazz/</guid>
+      <guid>/tags/acidjazz/</guid>
       <description></description>
     </item>
     <item>
       <title>Experimental</title>
-      <link>//192.168.1.133:38475/tags/experimental/</link>
+      <link>/tags/experimental/</link>
       <pubDate>Thu, 20 Jun 2024 19:00:52 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/experimental/</guid>
+      <guid>/tags/experimental/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-Rock</title>
-      <link>//192.168.1.133:38475/tags/post-rock/</link>
+      <link>/tags/post-rock/</link>
       <pubDate>Thu, 20 Jun 2024 18:59:54 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/post-rock/</guid>
+      <guid>/tags/post-rock/</guid>
       <description></description>
     </item>
     <item>
       <title>Trance</title>
-      <link>//192.168.1.133:38475/tags/trance/</link>
+      <link>/tags/trance/</link>
       <pubDate>Thu, 20 Jun 2024 18:29:33 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/trance/</guid>
+      <guid>/tags/trance/</guid>
       <description></description>
     </item>
     <item>
       <title>Dreampop</title>
-      <link>//192.168.1.133:38475/tags/dreampop/</link>
+      <link>/tags/dreampop/</link>
       <pubDate>Thu, 20 Jun 2024 18:06:18 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/dreampop/</guid>
+      <guid>/tags/dreampop/</guid>
       <description></description>
     </item>
     <item>
       <title>Blues</title>
-      <link>//192.168.1.133:38475/tags/blues/</link>
+      <link>/tags/blues/</link>
       <pubDate>Thu, 20 Jun 2024 17:48:01 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/blues/</guid>
+      <guid>/tags/blues/</guid>
       <description></description>
     </item>
     <item>
       <title>Rhythm-and-Blues</title>
-      <link>//192.168.1.133:38475/tags/rhythm-and-blues/</link>
+      <link>/tags/rhythm-and-blues/</link>
       <pubDate>Thu, 20 Jun 2024 17:11:52 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/rhythm-and-blues/</guid>
+      <guid>/tags/rhythm-and-blues/</guid>
       <description></description>
     </item>
     <item>
       <title>Trihop</title>
-      <link>//192.168.1.133:38475/tags/trihop/</link>
+      <link>/tags/trihop/</link>
       <pubDate>Thu, 20 Jun 2024 13:22:04 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/trihop/</guid>
+      <guid>/tags/trihop/</guid>
       <description></description>
     </item>
     <item>
       <title>Rock_progresivo</title>
-      <link>//192.168.1.133:38475/tags/rock_progresivo/</link>
+      <link>/tags/rock_progresivo/</link>
       <pubDate>Thu, 20 Jun 2024 13:12:35 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/rock_progresivo/</guid>
+      <guid>/tags/rock_progresivo/</guid>
       <description></description>
     </item>
     <item>
       <title>Dnb</title>
-      <link>//192.168.1.133:38475/tags/dnb/</link>
+      <link>/tags/dnb/</link>
       <pubDate>Thu, 20 Jun 2024 12:57:15 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/dnb/</guid>
+      <guid>/tags/dnb/</guid>
       <description></description>
     </item>
     <item>
       <title>Dream-Pop</title>
-      <link>//192.168.1.133:38475/tags/dream-pop/</link>
+      <link>/tags/dream-pop/</link>
       <pubDate>Sun, 16 Jun 2024 18:08:22 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/dream-pop/</guid>
+      <guid>/tags/dream-pop/</guid>
       <description></description>
     </item>
     <item>
       <title>Synthpop</title>
-      <link>//192.168.1.133:38475/tags/synthpop/</link>
+      <link>/tags/synthpop/</link>
       <pubDate>Sun, 16 Jun 2024 17:58:01 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/synthpop/</guid>
+      <guid>/tags/synthpop/</guid>
       <description></description>
     </item>
     <item>
       <title>Voz</title>
-      <link>//192.168.1.133:38475/tags/voz/</link>
+      <link>/tags/voz/</link>
       <pubDate>Fri, 14 Jun 2024 18:26:56 +0200</pubDate>
-      <guid>//192.168.1.133:38475/tags/voz/</guid>
+      <guid>/tags/voz/</guid>
       <description></description>
     </item>
   </channel>
