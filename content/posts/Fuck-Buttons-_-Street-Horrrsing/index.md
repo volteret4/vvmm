@@ -1,6 +1,6 @@
 ---
 title: "Fuck Buttons - Street Horrrsing"
-date: 2025-06-26T20:12:13+02:00
+date: 2025-06-26T20:31:11+02:00
 image: "image.jpeg"
 draft: false
 tags:
@@ -34,6 +34,8 @@ tags:
 > **Votos:** Media de 4.5 con 4 votos
 > 
 > **Sello:** Jazzanova Records
+> 
+> 
 > 
 > **Tracklist:**
 > 
