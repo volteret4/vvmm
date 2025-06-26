@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Punk on vvmm</title>
-    <link>/tags/punk/</link>
+    <link>//192.168.1.133:44147/tags/punk/</link>
     <description>Recent content in Punk on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 07 Jan 2025 21:46:41 +0100</lastBuildDate>
-    <atom:link href="/tags/punk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.1.133:44147/tags/punk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Off With Their Heads - Be Good</title>
-      <link>/posts/off-with-their-heads-_-be-good/</link>
+      <link>//192.168.1.133:44147/posts/off-with-their-heads-_-be-good/</link>
       <pubDate>Tue, 07 Jan 2025 21:46:41 +0100</pubDate>
-      <guid>/posts/off-with-their-heads-_-be-good/</guid>
+      <guid>//192.168.1.133:44147/posts/off-with-their-heads-_-be-good/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Off-With-Their-Heads - Be-Good&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.discogs.com/master/1590881&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/ff69c46d-c071-41a0-9c4b-9c80380b05a6&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/2yyLZ1fX8G4MBbtXdRlQm1&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLcZMZxR9uxC8zfW_1EQK1Z_NahARsXECF&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: Desconocida&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Desconocidos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Desconocidos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pais:&lt;/strong&gt; Italy&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Votos:&lt;/strong&gt; Media de 5.0 con 3 votos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sello:&lt;/strong&gt; Oxford&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tracklist:&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>

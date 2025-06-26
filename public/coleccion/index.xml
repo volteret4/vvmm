@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coleccions on vvmm</title>
-    <link>/coleccion/</link>
+    <link>//192.168.1.133:44147/coleccion/</link>
     <description>Recent content in Coleccions on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Thu, 20 Jun 2024 17:51:50 +0200</lastBuildDate>
-    <atom:link href="/coleccion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.1.133:44147/coleccion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colección de Discos 27-01-2025</title>
-      <link>/coleccion/27-01-2025/</link>
+      <link>//192.168.1.133:44147/coleccion/27-01-2025/</link>
       <pubDate>Thu, 20 Jun 2024 17:51:50 +0200</pubDate>
-      <guid>/coleccion/27-01-2025/</guid>
-      <description>&lt;h1 id=&#34;paula-abdul---forever-your-girl-2018-12-11&#34;&gt;Paula Abdul - Forever Your Girl 2018-12-11&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/portadas/Paula-Abdul-_-Forever-Your-Girl.jpg&#34; alt=&#34;Portada&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;generos   estilo&lt;/p&gt;&#xA;&lt;p&gt;vocal ola&lt;/p&gt;&#xA;&lt;h1 id=&#34;asked&#34;&gt;Asked&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;img src=&#34;/portadas/Love-Unlimited-Orchestra-_-Music-Maestro-Please.jpg&#34; alt=&#34;Portada&#34;&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Géneros: Funk / Soul&lt;/th&gt;&#xA;          &lt;th&gt;Estilos: Soul, Disco&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;/portadas/Carpenters-_-Voice-Of-The-Heart.jpg&#34; alt=&#34;Portada&#34;&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Géneros: Pop&lt;/td&gt;&#xA;          &lt;td&gt;Estilos: Vocal&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>//192.168.1.133:44147/coleccion/27-01-2025/</guid>
+      <description>&lt;h1 id=&#34;paula-abdul---forever-your-girl-2018-12-11&#34;&gt;Paula Abdul - Forever Your Girl 2018-12-11&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//192.168.1.133:44147/portadas/Paula-Abdul-_-Forever-Your-Girl.jpg&#34; alt=&#34;Portada&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;generos   estilo&lt;/p&gt;&#xA;&lt;p&gt;vocal ola&lt;/p&gt;&#xA;&lt;h1 id=&#34;asked&#34;&gt;Asked&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;img src=&#34;//192.168.1.133:44147/portadas/Love-Unlimited-Orchestra-_-Music-Maestro-Please.jpg&#34; alt=&#34;Portada&#34;&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Géneros: Funk / Soul&lt;/th&gt;&#xA;          &lt;th&gt;Estilos: Soul, Disco&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;//192.168.1.133:44147/portadas/Carpenters-_-Voice-Of-The-Heart.jpg&#34; alt=&#34;Portada&#34;&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Géneros: Pop&lt;/td&gt;&#xA;          &lt;td&gt;Estilos: Vocal&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;          &lt;td&gt;-&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
