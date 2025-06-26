@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dream-Pop on vvmm</title>
-    <link>/tags/dream-pop/</link>
+    <link>//192.168.1.133:39013/tags/dream-pop/</link>
     <description>Recent content in Dream-Pop on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Sun, 16 Jun 2024 18:08:22 +0200</lastBuildDate>
-    <atom:link href="/tags/dream-pop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.1.133:39013/tags/dream-pop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slowdive - Everything Is Alive</title>
-      <link>/posts/slowdive-_-everything-is-alive/</link>
+      <link>//192.168.1.133:39013/posts/slowdive-_-everything-is-alive/</link>
       <pubDate>Sun, 16 Jun 2024 18:08:22 +0200</pubDate>
-      <guid>/posts/slowdive-_-everything-is-alive/</guid>
+      <guid>//192.168.1.133:39013/posts/slowdive-_-everything-is-alive/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Slowdive - everything-is-alive&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://slowdive.bandcamp.com/album/everything-is-alive&#34;&gt;&lt;img src=&#34;../links/svg/bandcamp.png&#34; alt=&#34;bandcamp&#34; title=&#34;bandcamp&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.discogs.com/master/3220669&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/93c73d7c-f447-42a7-82a6-4cca69598cdf&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLvsYXqtYjMYff6LKMyWwKHHyrbGV7ez9s&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 2023&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Rock&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Alternative Rock, Shoegaze, Dream Pop&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tracklist:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A1. Shanty&lt;/p&gt;&#xA;&lt;p&gt;A2. Prayer Remembered&lt;/p&gt;&#xA;&lt;p&gt;A3. Alife&#xA;(feat. Ingrid Pop &amp;amp; Neil Halstead)&lt;/p&gt;&#xA;&lt;p&gt;A4. Andalucia Plays&lt;/p&gt;&#xA;&lt;p&gt;B1. Kisses&lt;/p&gt;&#xA;&lt;p&gt;B2. Skin In The Game&lt;/p&gt;&#xA;&lt;p&gt;B3. Chained To A Cloud&lt;/p&gt;&#xA;&lt;p&gt;B4. The Slab&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>

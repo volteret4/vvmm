@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthpop on vvmm</title>
-    <link>/tags/synthpop/</link>
+    <link>//192.168.1.133:39013/tags/synthpop/</link>
     <description>Recent content in Synthpop on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Sun, 16 Jun 2024 17:58:01 +0200</lastBuildDate>
-    <atom:link href="/tags/synthpop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.1.133:39013/tags/synthpop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nation of Language - Strange Disciple</title>
-      <link>/posts/nation-of-language-_-strange-disciple/</link>
+      <link>//192.168.1.133:39013/posts/nation-of-language-_-strange-disciple/</link>
       <pubDate>Sun, 16 Jun 2024 17:58:01 +0200</pubDate>
-      <guid>/posts/nation-of-language-_-strange-disciple/</guid>
+      <guid>//192.168.1.133:39013/posts/nation-of-language-_-strange-disciple/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Nation-of-Language - Strange-Disciple&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.discogs.com/master/3240349&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/f9ce1b16-f294-4516-b5e6-bc22f6a0da7a&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLvsYXqtYjMYea486KL_EVY58fNiCbYMLe&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 2023&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Electronic, Rock, Pop&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Indie Pop, Synth-pop&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tracklist:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A1. Weak In Your Light&lt;/p&gt;&#xA;&lt;p&gt;A2. Sole Obsession&lt;/p&gt;&#xA;&lt;p&gt;A3. Surely I Can&amp;rsquo;t Wait&lt;/p&gt;&#xA;&lt;p&gt;A4. Swimming In The Shallow Sea&lt;/p&gt;&#xA;&lt;p&gt;A5. Too Much, Enough&lt;/p&gt;&#xA;&lt;p&gt;B1. Spare Me The Decision&lt;/p&gt;&#xA;&lt;p&gt;B2. Sightseer&lt;/p&gt;&#xA;&lt;p&gt;B3. Stumbling Still&lt;/p&gt;&#xA;&lt;p&gt;B4. A New Goodbye&lt;/p&gt;&#xA;&lt;p&gt;B5. I Will Never Learn&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
