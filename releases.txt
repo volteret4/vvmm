@@ -1,88 +1,583 @@
 Listado de releases del artista:
-Ephedrine EP - 1999 - https://api.discogs.com/releases/229677
-M³ (Daily Assortment Of Sound) - 2000 - https://api.discogs.com/masters/1799181
-Me Touching Dead Air (Live Radio Performance - York, UK) - 2001 - https://api.discogs.com/releases/9131756
-I Am A Dead Sea - 2001 - https://api.discogs.com/releases/9131812
-Fly! - 2001 - https://api.discogs.com/masters/1100093
-Drain Mode On - 2001 - https://api.discogs.com/masters/315002
-These Open Fields - 2002 - https://api.discogs.com/masters/13008
-Girls Suck But You Don't (15 Tracks From My Hard Drive) - 2003 - https://api.discogs.com/masters/1799176
-Lawn Funeral EP - 2003 - https://api.discogs.com/masters/1100091
-Resent And The April Sunshine Shed - 2003 - https://api.discogs.com/masters/1799163
-Red Extensions Of Me - 2004 - https://api.discogs.com/masters/543
-Binedump EP - 2005 - https://api.discogs.com/masters/554
-Réunion - 2005 - https://api.discogs.com/masters/1799158
-Kirlian Selections - 2005 - https://api.discogs.com/masters/1799167
-Flexing Habitual - 2006 - https://api.discogs.com/masters/560
-That Missing Week EP - 2007 - https://api.discogs.com/masters/1799159
-Soundtrack To A Vacant Life - 2008 - https://api.discogs.com/masters/12992
-Arboreal - 2010 - https://api.discogs.com/masters/252988
-Terra Firma - 2011 - https://api.discogs.com/masters/398460
-Love As A Dark Hallway - 2011 - https://api.discogs.com/masters/398462
-Hardscrabble - 2012 - https://api.discogs.com/masters/484140
-Opus At The End Of Everything - 2012 - https://api.discogs.com/masters/1799155
-Solar One - 2014 - https://api.discogs.com/masters/693630
-Nothing Is Real - 2014 - https://api.discogs.com/masters/690258
-aBliss - 2015 - https://api.discogs.com/releases/7057153
-Compositions For Piano - 2015 - https://api.discogs.com/masters/819791
-Ephedrine - 2016 - https://api.discogs.com/releases/9132904
-Piety Of Ashes - 2017 - https://api.discogs.com/masters/1232610
-Dormant (Movement 1 Through 7) - 2018 - https://api.discogs.com/masters/1378861
-Our Simulacra - 2020 - https://api.discogs.com/masters/1705154
-Seven Quarantine Poems  - 2021 - https://api.discogs.com/releases/18647167
-Kirlian Tapes v1​.​0  - 2022 - https://api.discogs.com/releases/25595242
-Drapes Before Storm - 2023 - https://api.discogs.com/releases/29249089
-Papillon - 2025 - https://api.discogs.com/releases/34360540
-Music From My Laptop - Desconocido - https://api.discogs.com/releases/11395464
-Clone EP - 1999 - https://api.discogs.com/releases/229985
-Untitled - 2002 - https://api.discogs.com/masters/709414
-Raiding The 20th Century (Words & Music Expansion) - 2005 - https://api.discogs.com/masters/228642
-The Drummondii Days - 2007 - https://api.discogs.com/releases/2286941
-Bartel - 2009 - https://api.discogs.com/releases/1783455
-'96 Drum n Bass Classixxx - 2019 - https://api.discogs.com/masters/1349719
-Letting Go - 2012 - https://api.discogs.com/masters/492479
-Energized - 2001 - https://api.discogs.com/releases/102520
-Ctrl-F2 - 2004 - https://api.discogs.com/releases/351481
-Transitional Days - 2004 - https://api.discogs.com/releases/355235
-Big System Morsels - 2004 - https://api.discogs.com/releases/406502
-Suburban Trash Sampler Vol.1 - 2004 - https://api.discogs.com/releases/607257
-The Sound Of One Constant Pitch - 2004 - https://api.discogs.com/releases/4345194
-We Are The Music Makers | Volume One - 2005 - https://api.discogs.com/releases/376046
-Something Bad - 2005 - https://api.discogs.com/releases/409525
-Jagoff Uprising (A Rhinoplex.org Compilation) - 2005 - https://api.discogs.com/releases/692976
-Legacy : 1995-2005 (Visual Chicago Acid Edition) - 2005 - https://api.discogs.com/masters/524679
-Eyelicker - 2006 - https://api.discogs.com/releases/684924
-Do:Nation Volume 1 - A Compilation For The Animal Charities Of America - 2006 - https://api.discogs.com/releases/1787555
-The Warp Records Memorial Mix - 2006 - https://api.discogs.com/releases/5385500
-30 Days - 2006 - https://api.discogs.com/masters/86283
-Imaginary Friends - 2007 - https://api.discogs.com/releases/1012173
-Incite 48 - 2007 - https://api.discogs.com/releases/11857293
-Gozombie Growing Compilation - 2008 - https://api.discogs.com/releases/1458830
-Intelligent Breakcore - 2009 - https://api.discogs.com/releases/3267053
+Creatures - 1996 - https://api.discogs.com/masters/763492
+Bricolage - 1997 - https://api.discogs.com/masters/21247
+Chomp Samba - 1997 - https://api.discogs.com/masters/21250
+Piranha Breaks E.P. - 1997 - https://api.discogs.com/masters/21257
+Mission - 1997 - https://api.discogs.com/masters/1005446
+Like Regular Chickens (Danny Breaks & Dillinja Mixes) - 1998 - https://api.discogs.com/masters/553601
+Permutation - 1998 - https://api.discogs.com/masters/21280
+Heavyweight Art Installation, Phase One: 1999 North American Tour, Live Painting Series - 2000 - https://api.discogs.com/releases/1018333
+Slowly - 2000 - https://api.discogs.com/masters/2336449
+4 Ton Mantis - 2000 - https://api.discogs.com/masters/31530
+Supermodified - 2000 - https://api.discogs.com/masters/22486
+East To West - 2002 - https://api.discogs.com/releases/242499
+Live Set (USA Tour 2002) - 2002 - https://api.discogs.com/releases/1214796
+Out From Out Where - 2002 - https://api.discogs.com/masters/22475
+Verbal - 2002 - https://api.discogs.com/masters/22497
+Verbal Remixes & Collaborations - 2003 - https://api.discogs.com/masters/31539
+The Getaway - Black Monday - 2004 - https://api.discogs.com/releases/362659
+The Getaway - Black Monday - 2004 - https://api.discogs.com/releases/362662
+The Getaway - Black Monday - 2004 - https://api.discogs.com/releases/15159321
+Chaos Theory - 2004 - https://api.discogs.com/masters/22464
+Solid Steel Presents Amon Tobin Recorded Live - 2004 - https://api.discogs.com/masters/22481
+The Lighthouse - 2004 - https://api.discogs.com/masters/187359
+Mary Ann Hobbs Radio 1 Mix - 2005 - https://api.discogs.com/releases/3366684
+Slow Motion Mix - 2005 - https://api.discogs.com/releases/12507631
+Soundtracks (Strings, Drums And Electronics) - 2007 - https://api.discogs.com/releases/1331636
+Foley Room - 2007 - https://api.discogs.com/masters/22449
+Kitchen Sink Remixes - 2007 - https://api.discogs.com/masters/22470
+Bloodstone - 2007 - https://api.discogs.com/masters/22502
+Delpher - 2008 - https://api.discogs.com/releases/1367878
+Horsefish (Live Mix) - 2008 - https://api.discogs.com/releases/1367888
+Drumin' Caravan Mix - 2008 - https://api.discogs.com/releases/1447343
+Freebie Creatures - 2008 - https://api.discogs.com/releases/1451597
+It's A Lovely Night - 2008 - https://api.discogs.com/releases/1522616
+Eight Sum - 2008 - https://api.discogs.com/releases/1522625
+Trickstep - 2008 - https://api.discogs.com/releases/1522666
+At Work - 2008 - https://api.discogs.com/releases/1522674
+Technique - 2008 - https://api.discogs.com/releases/1522689
+Foley Room Recorded Live In Brussels - 2008 - https://api.discogs.com/releases/1528519
+Overwhelming Forces - 2008 - https://api.discogs.com/releases/1528534
+Venus Hendrix Live Mix - 2008 - https://api.discogs.com/releases/1528537
+Into The Dark Intermission - 2008 - https://api.discogs.com/releases/1528547
+Dualistic - 2008 - https://api.discogs.com/releases/2017728
+Manta Focus Rehab Boot - 2008 - https://api.discogs.com/releases/15631501
+Slayer Boot - 2008 - https://api.discogs.com/masters/1773091
+Taxidermia EP - 2008 - https://api.discogs.com/masters/281683
+Shut Down - 2008 - https://api.discogs.com/masters/409853
+Twelvses - 2009 - https://api.discogs.com/releases/1658287
+No Strings Attached - 2009 - https://api.discogs.com/releases/2004933
+inFAMOUS (Official Soundtrack) - 2009 - https://api.discogs.com/masters/245111
+Monthly Joints - 2010 - https://api.discogs.com/releases/2493186
+Monthly Joints Series - 2010 - https://api.discogs.com/releases/2494234
+4 Deck Set - 2010 - https://api.discogs.com/releases/6163315
+Hey Mr. Tree - 2010 - https://api.discogs.com/releases/15631576
+White House (Alt Version Just For Kicks) - 2010 - https://api.discogs.com/releases/15631597
+ISAM Sampler (Mixed By King Cannibal) - 2011 - https://api.discogs.com/releases/3122059
+ISAM (Radio Sampler) - 2011 - https://api.discogs.com/releases/3206065
+ISAM - 2011 - https://api.discogs.com/masters/337500
+Chaos Theory Remixed (The Soundtrack To Splinter Cell 3D) - 2011 - https://api.discogs.com/masters/313019
+Surge - 2011 - https://api.discogs.com/masters/345499
+Amon Tobin (Bonus Boxset Material) - 2012 - https://api.discogs.com/releases/3624427
+Amon Tobin - 2012 - https://api.discogs.com/masters/438527
+ISAM Live - 2012 - https://api.discogs.com/masters/704323
+Synch Sampler - 2013 - https://api.discogs.com/releases/4614976
+Piece Of Paper (Andi & Nephaelin Remix) - 2013 - https://api.discogs.com/releases/5125117
+Dark Jovian - 2015 - https://api.discogs.com/masters/835865
+Electronic Music For The Sydney Opera House - Amon Tobin Plays Buchla For The Sails - 2017 - https://api.discogs.com/releases/10590670
+Angel Of Theft (Live At Dour 2005) - 2018 - https://api.discogs.com/releases/15443419
+ISAM (Frank Riggio Remixes) - 2018 - https://api.discogs.com/masters/1305849
+On A Hilltop Sat The Moon / King Of Kong - 2019 - https://api.discogs.com/releases/13492354
+Full Panther - 2019 - https://api.discogs.com/releases/15631285
+On A Hilltop Sat The Moon - 2019 - https://api.discogs.com/releases/15631298
+Vipers Follow You - 2019 - https://api.discogs.com/releases/15631315
+Fooling Alright - 2019 - https://api.discogs.com/releases/15631324
+One Shy Morning - 2019 - https://api.discogs.com/releases/15631338
+Fear In A Handful Of Dust - 2019 - https://api.discogs.com/masters/1544872
+Long Stories - 2019 - https://api.discogs.com/masters/1630404
+Fine Strips Of Violence - 2019 - https://api.discogs.com/masters/1732821
+Ghostcards - 2020 - https://api.discogs.com/releases/15043927
+Red Shift - 2020 - https://api.discogs.com/releases/15631254
+Small Time Shaded - 2020 - https://api.discogs.com/releases/15631272
+Future Things Swim Before Me - 2020 - https://api.discogs.com/releases/15631353
+Neutrino Mass - 2020 - https://api.discogs.com/releases/15631359
+All For Dust (CS​:​GO Music Pack) - 2020 - https://api.discogs.com/releases/15878806
+Loophole - 2020 - https://api.discogs.com/releases/16127714
+Three Sisters - 2020 - https://api.discogs.com/releases/20801842
+Ithaca - 2020 - https://api.discogs.com/masters/2104471
+Deep In Time - 2020 - https://api.discogs.com/masters/2360497
+Cruel Like Flint - 2020 - https://api.discogs.com/masters/2360512
+Mighty Tetra - 2021 - https://api.discogs.com/releases/19506559
+Magic Beard - 2021 - https://api.discogs.com/releases/20801947
+In Long Dark Grass - 2021 - https://api.discogs.com/releases/20802052
+Highland Park (The Secret Hidden Life Of Button Down Fashion Bow) - 2021 - https://api.discogs.com/releases/20802283
+Fly By Nightly - 2021 - https://api.discogs.com/releases/21840904
+First Cat Last Cat - 2021 - https://api.discogs.com/releases/21840940
+How Do You Live - 2021 - https://api.discogs.com/masters/2354209
+30 Minute Nomark Showcase - 2021 - https://api.discogs.com/masters/2806571
+Pajamaland - 2022 - https://api.discogs.com/releases/21840982
+TF GSCO Rhythm (Shoulder Lean) - 2022 - https://api.discogs.com/releases/21864841
+Paisley Knights - 2022 - https://api.discogs.com/releases/23672369
+Mr. Missou's Holiday - 2022 - https://api.discogs.com/releases/23672642
+Slow Sun - 2022 - https://api.discogs.com/releases/23673449
+You And Me Me And You - 2022 - https://api.discogs.com/releases/23673497
+Phacetime Podcast S03E02 - 2022 - https://api.discogs.com/masters/2683997
+A Living Room (Music From Meow Wolf's Omega Mart) - 2022 - https://api.discogs.com/masters/3099897
+Hole In The Ground (Original Motion Picture Soundtrack) - 2023 - https://api.discogs.com/releases/28289272
+Nomark Selects, V​.​1 - 2023 - https://api.discogs.com/masters/3246622
+Amon Tobin Mix - Desconocido - https://api.discogs.com/releases/32786187
+Nepalese Bliss - 1998 - https://api.discogs.com/masters/30733
+Polyesterday - 1998 - https://api.discogs.com/masters/46140
+Anger / Grief - 1998 - https://api.discogs.com/masters/52355
+Postmodern Platos Remixes - 1998 - https://api.discogs.com/masters/771759
+Com Defeito De Fabricação - Fabrication Defect - 1998 - https://api.discogs.com/masters/54552
+Polydistortion - 1998 - https://api.discogs.com/masters/19830
+Just Beat (WMC Sampler) - 1999 - https://api.discogs.com/releases/2871805
+Earth Songs Remixes - 1999 - https://api.discogs.com/releases/2934113
+Les Chants De La Terre / Earth Songs - 1999 - https://api.discogs.com/releases/10663690
+The Remixes - 1999 - https://api.discogs.com/masters/512558
+Scuba EP - 1999 - https://api.discogs.com/masters/341081
+Hip Wagging, Foot Shuffling Remix - 1999 - https://api.discogs.com/masters/1892508
+Project Ponga - 1999 - https://api.discogs.com/masters/1496446
+Discord (Gütninja Remixes) - 1999 - https://api.discogs.com/masters/352702
+Revenge Of The Killer Bees - 2000 - https://api.discogs.com/masters/197839
+SPEX CD #14 - 2001 - https://api.discogs.com/releases/106773
+Le Paradis - 2001 - https://api.discogs.com/releases/1458593
+Exercises 1997-2001 - 2001 - https://api.discogs.com/releases/1963837
+Red Room - 2001 - https://api.discogs.com/masters/670216
+Electravedra - 2001 - https://api.discogs.com/masters/69712
+Blow - 2001 - https://api.discogs.com/masters/8300
+The Getaway: Black Monday Ninja Tune Remixes - 2004 - https://api.discogs.com/releases/793152
+Hot Milik EP - 2004 - https://api.discogs.com/masters/107803
+Watching You - 2009 - https://api.discogs.com/masters/1450744
+Rare Elements - 2009 - https://api.discogs.com/masters/265594
+Machine Gun EP - 2010 - https://api.discogs.com/masters/250538
+Guest Mix For Andrew Meza's BTS Radio - 2011 - https://api.discogs.com/releases/2838365
+We Got More / Moving Glowstream - 2011 - https://api.discogs.com/masters/345735
+Complete Güt Box - 2012 - https://api.discogs.com/releases/8218962
+REWORK_Philip Glass Remixed - 2012 - https://api.discogs.com/masters/495140
+Escape Plan - Original Motion Picture Soundtrack - 2013 - https://api.discogs.com/masters/1490530
+Offshore (Remixes) - 2015 - https://api.discogs.com/masters/889408
+Outer Edges (Remixes) - 2017 - https://api.discogs.com/masters/1448718
+End Of Summer - 2020 - https://api.discogs.com/releases/15998882
+Curfew EP - 1995 - https://api.discogs.com/masters/201060
+Break Charmer - 1996 - https://api.discogs.com/masters/870189
+Adventures In Foam - 1996 - https://api.discogs.com/masters/98770
+Pure Abstrakt - Adventures In Dub - 1998 - https://api.discogs.com/masters/3721764
+Zen • Musica Per Un Mondo Migliore - 2000 - https://api.discogs.com/releases/2553872
+Unconditionally Guaranteed 2000.5 (Uncut's Guide To The Month's Best Music) - 2000 - https://api.discogs.com/releases/2651636
+Tanto Tempo - 2000 - https://api.discogs.com/masters/81920
+Xen Cuts - 2000 - https://api.discogs.com/masters/43000
+Undercover Cuts 25 - 2005 - https://api.discogs.com/releases/494868
+Peeping Tom - 2006 - https://api.discogs.com/masters/32758
+Bad Girl - 2008 - https://api.discogs.com/releases/1214877
+Instrumentals - 2009 - https://api.discogs.com/masters/216204
+That Girl - 2009 - https://api.discogs.com/masters/126132
+What You Know - 2009 - https://api.discogs.com/masters/255301
+Two Fingers - 2009 - https://api.discogs.com/masters/78718
+Fine Objects - 2010 - https://api.discogs.com/releases/2217604
+Ninja Tune XX Vol. 2 - 2010 - https://api.discogs.com/releases/2647827
+Ninja Tune XX (20 Years Of Beats & Pieces) - 2010 - https://api.discogs.com/masters/283194
+Machine Gun - 2010 - https://api.discogs.com/masters/250538
+Drugs - 2012 - https://api.discogs.com/releases/3470631
+Stunt Rhythms - 2012 - https://api.discogs.com/masters/474382
+Time to Run - 2019 - https://api.discogs.com/masters/1586449
+The World As We Know It - 2020 - https://api.discogs.com/masters/1845958
+The All Attracting - 2021 - https://api.discogs.com/masters/2085769
+West Coast Love Stories - 2021 - https://api.discogs.com/masters/2500030
+Cronos - 2024 - https://api.discogs.com/masters/3369895
+Tanto Tempo Remixes - 2001 - https://api.discogs.com/masters/36559
+Tanto Tempo - 2003 - https://api.discogs.com/masters/81920
+Bustin' Outta No-Way Street - 1997 - https://api.discogs.com/releases/154313
+Close To Paradise - 2006 - https://api.discogs.com/masters/130288
+Sevens Project - 2007 - https://api.discogs.com/masters/3423040
+Infamous: Original Soundtrack From The Video Game - 2009 - https://api.discogs.com/masters/245111
+Stunt Rhythms - 2012 - https://api.discogs.com/masters/474382
+Snare Pressure - 1995 - https://api.discogs.com/releases/1666228
+Curfew EP - 1995 - https://api.discogs.com/masters/201060
+Free The Funk Compilation 2 (Spaced Out Invaders) - 1996 - https://api.discogs.com/releases/32267
+Cold Krush Cuts - 1996 - https://api.discogs.com/masters/26210
+The Rumpus Rooms (Volume One) - 1996 - https://api.discogs.com/masters/21772
+The Next Step - 1997 - https://api.discogs.com/releases/89420
+Ikon Massive - 1997 - https://api.discogs.com/releases/208715
+Audio CD - 1997 - https://api.discogs.com/releases/3467209
+FurtherMutationsLoRecordingsvol-ume4 - 1997 - https://api.discogs.com/masters/60871
+Ninja Cuts: Funkungfusion - 1998 - https://api.discogs.com/masters/43024
+Pure Abstrakt - Adventures In Dub - 1998 - https://api.discogs.com/masters/3721764
+Other Stuff 2... - 1998 - https://api.discogs.com/masters/106558
+Transatlantik Lounging (Electronic Moods From Budapest To Brazil) - 1999 - https://api.discogs.com/releases/11767
+Rootdown 99 - 1999 - https://api.discogs.com/masters/113802
+Trax Sampler 031 - 2000 - https://api.discogs.com/releases/104295
+New Voices Vol. 36 - 2000 - https://api.discogs.com/releases/502383
+Intersections - 2000 - https://api.discogs.com/releases/967361
+Music First - 2000 - https://api.discogs.com/releases/1133225
+Zen • Musica Per Un Mondo Migliore - 2000 - https://api.discogs.com/releases/2553872
+Unconditionally Guaranteed 2000.5 (Uncut's Guide To The Month's Best Music) - 2000 - https://api.discogs.com/releases/2651636
+Tanto Tempo - 2000 - https://api.discogs.com/masters/81920
+Hôtel Costes Etage 3 - 2000 - https://api.discogs.com/masters/240687
+Blue Jam - 2000 - https://api.discogs.com/masters/195494
+Xen Cuts - 2000 - https://api.discogs.com/masters/43000
+Musikexpress 54 - Ninja Tune - 2001 - https://api.discogs.com/releases/27553
+Spirit Of Paléo - Voyage Musical Dans Le Programme 2001 - 2001 - https://api.discogs.com/releases/11658049
+Blow - 2001 - https://api.discogs.com/masters/8300
+Tanto Tempo Remixes - 2001 - https://api.discogs.com/masters/36559
+The Wire Tapper 09 - 2002 - https://api.discogs.com/releases/81371
+Blues Beat Sessions - 2002 - https://api.discogs.com/releases/4187944
+One Offs... Remixes & B Sides - 2002 - https://api.discogs.com/masters/2438
+Adventures In Foam - 2002 - https://api.discogs.com/masters/98770
+Visual Niches 2 - Extraordinary Music Videos - 2003 - https://api.discogs.com/releases/204884
+Maybe Logic: The Lives And Ideas Of Robert Anton Wilson - 2003 - https://api.discogs.com/releases/645609
+A Different Shade Of Blues - 2003 - https://api.discogs.com/releases/4314468
+Ambient Down Tempo '03: "Ones" - 2003 - https://api.discogs.com/releases/22080292
+Onedotzero_select dvd 2 - 2004 - https://api.discogs.com/releases/4873971
+ZEN TV DVD - Video Retrospective - 2004 - https://api.discogs.com/masters/43065
+ZEN CD - A Retrospective - 2004 - https://api.discogs.com/masters/26171
+Trax #81 - 2005 - https://api.discogs.com/releases/393993
+Ninja Tune 01 02 - 2005 - https://api.discogs.com/releases/859473
+Digital Games 05 - E3 Los Angeles - Music - 2005 - https://api.discogs.com/releases/18805636
+All Up In Your Mind - 2005 - https://api.discogs.com/masters/136773
+Bowers & Wilkins - A Sound Experience  - 2005 - https://api.discogs.com/masters/2003368
+Trip Hop Anthology - 2006 - https://api.discogs.com/releases/1128748
+Candy Original Soundtrack - 2006 - https://api.discogs.com/releases/7693059
+Peeping Tom - 2006 - https://api.discogs.com/masters/32758
+CD Side 39 - 2007 - https://api.discogs.com/releases/927847
+Hôtel Costes - 1999-2007 - The Anniversary Boxset - 2007 - https://api.discogs.com/releases/1371073
+Back To Mine - 2007 - https://api.discogs.com/masters/2861692
+You Don't Know: Ninja Cuts - 2008 - https://api.discogs.com/masters/102082
+Instrumentals - 2009 - https://api.discogs.com/masters/216204
+That Girl - 2009 - https://api.discogs.com/masters/126132
+What You Know - 2009 - https://api.discogs.com/masters/255301
+Infamous: Original Soundtrack From The Video Game - 2009 - https://api.discogs.com/masters/245111
+Two Fingers - 2009 - https://api.discogs.com/masters/78718
+No Strings Attached - 2009 - https://api.discogs.com/masters/226743
+Fine Objects - 2010 - https://api.discogs.com/releases/2217604
+Trax Hors Série #13 : Ninja Tune - 2010 - https://api.discogs.com/releases/2445922
+Ninja Tune XX Vol. 3 - 2010 - https://api.discogs.com/releases/2458834
+Ninja Tune XX Vol. 5 - 2010 - https://api.discogs.com/releases/2473507
+Ninja Tune XX Vol. 1 - 2010 - https://api.discogs.com/releases/2536870
+Ninja Tune XX Vol. 2 - 2010 - https://api.discogs.com/releases/2647827
+Ninja Tune XX: 20th Anniversary Japan Edition - Coldcut vs DJ Kentaro - - 2010 - https://api.discogs.com/releases/4255112
+Jaidene Veda :​:​vs​:​: - 2010 - https://api.discogs.com/releases/6991561
+Ninja Tune XX: 20 Years Of Beats & Pieces - 2010 - https://api.discogs.com/masters/833039
+Ninja Tune XX (20 Years Of Beats & Pieces) - 2010 - https://api.discogs.com/masters/283194
+Split The Atom - 2010 - https://api.discogs.com/masters/274508
+Split The Atom (Vision EP) - 2010 - https://api.discogs.com/masters/2991041
+Tom Clancy's Splinter Cell: Conviction - Original Soundtrack - 2010 - https://api.discogs.com/masters/244173
+Elegy Sampler 69 - 2011 - https://api.discogs.com/releases/2948895
+Pina - Dance, Dance Otherwise We Are Lost (Original Soundtrack) - 2011 - https://api.discogs.com/masters/350198
+Lidojedi - 2012 - https://api.discogs.com/releases/26268068
+Stunt Rhythms - 2012 - https://api.discogs.com/masters/474382
+The Fifth Estate (Original Motion Picture Soundtrack) - 2013 - https://api.discogs.com/releases/14578152
+cOmaWrek Presentz tha nOdcast (v54) - 2013 - https://api.discogs.com/releases/18616396
+Feast / Beast - 2013 - https://api.discogs.com/masters/597395
+Music For A Good Home 3 - 2014 - https://api.discogs.com/masters/703692
+Six Rhythms - 2015 - https://api.discogs.com/masters/880791
+Orphan Black (Original Television Soundtrack) - 2015 - https://api.discogs.com/masters/871845
+Wendingen (Selected Remixes 2005-2015) - 2016 - https://api.discogs.com/releases/8066147
+Bleeds - 2016 - https://api.discogs.com/masters/905545
+The Greatest Video Game Music - 2019 - https://api.discogs.com/masters/501269
+Velká Vlaková Loupež - 2020 - https://api.discogs.com/releases/32185152
+The World As We Know It - 2020 - https://api.discogs.com/masters/1845958
+Turning Point - 2021 - https://api.discogs.com/masters/1959103
+The All Attracting - 2021 - https://api.discogs.com/masters/2085769
+West Coast Love Stories - 2021 - https://api.discogs.com/masters/2500030
+A Fragmented Love Story, Written By The Infinite Helix Architect - 2021 - https://api.discogs.com/masters/2417137
+Puma Rhythm - 2022 - https://api.discogs.com/releases/23686394
+Iza Vremenske Linije - 2022 - https://api.discogs.com/releases/26940539
+The Resonance II - 2022 - https://api.discogs.com/masters/2918038
+Drums Of Compassion - 2024 - https://api.discogs.com/releases/30805518
+Cronos - 2024 - https://api.discogs.com/masters/3369895
+Taster 7 - Desconocido - https://api.discogs.com/releases/11319188
+Cold Krush Cuts - 1996 - https://api.discogs.com/masters/26210
+Mind The Gap Volume 14 - 1997 - https://api.discogs.com/releases/240134
+MachinoGodzilla 14 Czyli Zamach Na Owcę - 1997 - https://api.discogs.com/releases/863953
+Vital Distribution At London Music Week - 1997 - https://api.discogs.com/releases/1243795
+I'm Sorry But This Just Isn't Music.... - 1997 - https://api.discogs.com/releases/1265338
+Audio CD - 1997 - https://api.discogs.com/releases/3467209
+Acid Jazz Vol. 27 - 1997 - https://api.discogs.com/releases/7145840
+D-ROM Issue 2 - 1997 - https://api.discogs.com/releases/13265957
+10 Days Of Techno (The 2nd Soundtrack) - 1998 - https://api.discogs.com/releases/7002
+Mind The Gap Volume 20 - 1998 - https://api.discogs.com/releases/203266
+Ninja Cuts - Funkflexology - 1998 - https://api.discogs.com/releases/762922
+Bluffer's Guide 2: Fakin' It Thru The Fall - 1998 - https://api.discogs.com/releases/851628
+The Bluffer's Guide - 1998 - https://api.discogs.com/releases/863948
+La FNAC Présente Ninja Tune Sampler - 1998 - https://api.discogs.com/releases/1265973
+CMJ New Music Monthly Volume 59 July 1998 - 1998 - https://api.discogs.com/releases/1768928
+Humo - Alle 98 Goed - 1998 - https://api.discogs.com/releases/3196567
+Beware The Cat - 1998 - https://api.discogs.com/releases/3557328
+Olis Music Native - 1998 - https://api.discogs.com/releases/9975283
+Acid Jazz Vol. 37 - 1998 - https://api.discogs.com/releases/12228528
+Alloy Tunes - Ride On Ultimate Snowboard Mix - 1998 - https://api.discogs.com/releases/18433900
+Funkungfusion - 1998 - https://api.discogs.com/releases/28381483
+Ninja Cuts: Funkungfusion - 1998 - https://api.discogs.com/masters/43024
+Plastik Kolexion Vol. II - 1998 - https://api.discogs.com/masters/43029
+Machinacje - 1998 - https://api.discogs.com/masters/1397280
+Transatlantik Lounging (Electronic Moods From Budapest To Brazil) - 1999 - https://api.discogs.com/releases/11767
+The Art Of Zen Relaxation - 1999 - https://api.discogs.com/releases/459476
+Ninja Tune Atunes, Electronica Y Rockdelux - 1999 - https://api.discogs.com/releases/863938
+Ninja Style Technique - 1999 - https://api.discogs.com/releases/4031902
+Xen Cuts (Missed, Flipped & Skipped) - 2000 - https://api.discogs.com/releases/64464
+Caipiríssima: Batucada Eletrônica - 2000 - https://api.discogs.com/releases/97245
+Trax Sampler 031 - 2000 - https://api.discogs.com/releases/104295
+Chillout2000 Volume 3 ...Early Dawn - 2000 - https://api.discogs.com/releases/151643
+The Big Chill: Enchanted 02 - 2000 - https://api.discogs.com/releases/216026
+Mind The Gap Volume 31 - 2000 - https://api.discogs.com/releases/255096
+The Art Of Zen Relaxation Vol. 2 - 2000 - https://api.discogs.com/releases/272589
+Ninja Tune Xen: Celebration At Atrecordings.com - 2000 - https://api.discogs.com/releases/347361
+New Voices Vol. 36 - 2000 - https://api.discogs.com/releases/502383
+For Films - Selected Tracks For Moving Pictures: Edit. 5 - 2000 - https://api.discogs.com/releases/589046
+2000 Ninja Sampler - Phase 1 - 2000 - https://api.discogs.com/releases/863930
+Intersections - 2000 - https://api.discogs.com/releases/967361
+Music First - 2000 - https://api.discogs.com/releases/1133225
+Selected Cutz From The SEGA Extreme Sports Soundtrack - 2000 - https://api.discogs.com/releases/1437893
+Music With Attitude - Volume 13 - 2000 - https://api.discogs.com/releases/1988956
+Café Paradiso - All Star Chill Out - 2000 - https://api.discogs.com/releases/2457913
+Zen • Musica Per Un Mondo Migliore - 2000 - https://api.discogs.com/releases/2553872
+Unconditionally Guaranteed 2000.5 (Uncut's Guide To The Month's Best Music) - 2000 - https://api.discogs.com/releases/2651636
+Techno Parade 2000 - 2000 - https://api.discogs.com/releases/3880859
+CMJ New Music Monthly Volume 82 June 2000 - 2000 - https://api.discogs.com/releases/4244263
+You Are Here Number Nine - 2000 - https://api.discogs.com/releases/6551280
+Electro Guide Sampler Volume 3 - 2000 - https://api.discogs.com/releases/10472288
+Sonidos En Agua - 2000 - https://api.discogs.com/releases/10759673
+Tranquille @ La Fraîche - 2000 - https://api.discogs.com/releases/11846770
+AIM For Manchester Popkomm 2000 Compilation  - 2000 - https://api.discogs.com/releases/19278973
+Rats & Rabbits - A Lewis Furey Film - 2000 - https://api.discogs.com/masters/1410619
+Ground Zero - 2000 - https://api.discogs.com/masters/76566
+Xen Cuts - 2000 - https://api.discogs.com/masters/43000
+Musikexpress 54 - Ninja Tune - 2001 - https://api.discogs.com/releases/27553
+Chillout In Ibiza 3 - 2001 - https://api.discogs.com/releases/29045
+The Art Of Zen Relaxation Volume 3 - 2001 - https://api.discogs.com/releases/969354
+Drink Me - 2001 - https://api.discogs.com/releases/2253637
+Cannes 2001 Palm Beach Volume 1 - 2001 - https://api.discogs.com/releases/6079011
+Hi-Fi Rise - Sonic Cities From Another Timeline - 2001 - https://api.discogs.com/releases/6451793
+Cimetière Des CD Volume 1 - Les Meilleures Sélections De Claude Rajotte - 2001 - https://api.discogs.com/releases/6680016
+Drum Rhythm Sampler - 2001 - https://api.discogs.com/releases/9148465
+Drum Rhythm Sampler - 2001 - https://api.discogs.com/releases/9429236
+Spirit Of Paléo - Voyage Musical Dans Le Programme 2001 - 2001 - https://api.discogs.com/releases/11658049
+Joe's Blue Plate Special  Volumes 48-51 - 2001 - https://api.discogs.com/releases/16087923
+Abril Pro Rock 2001 - 2001 - https://api.discogs.com/releases/20660515
+Private Lounge - 2001 - https://api.discogs.com/masters/855269
+Under The Influence - 2001 - https://api.discogs.com/masters/28513
+Zentertainment 2002 - 2002 - https://api.discogs.com/releases/43687
+The Wire Tapper 09 - 2002 - https://api.discogs.com/releases/81371
+Trax Hors Série #5 : Ninja Tune - 2002 - https://api.discogs.com/releases/259529
+Trax #56 - 2002 - https://api.discogs.com/releases/279981
+A Smooth Transition - From Trip Hop To Nu Jazz 2 - 2002 - https://api.discogs.com/releases/648168
+Ninja Tune Fall 2002 Sampler - 2002 - https://api.discogs.com/releases/863885
+BBC Collective Ninja Special - 2002 - https://api.discogs.com/releases/1258094
+Playground Propaganda CD #2 / 2002 - 2002 - https://api.discogs.com/releases/1258560
+Style: Winter Lounge - 2002 - https://api.discogs.com/releases/1566667
+Chinchillin' - 2002 - https://api.discogs.com/releases/2880011
+Kaktus Discos # 7 - 2002 - https://api.discogs.com/releases/3837612
+Chillout In Ibiza 2002 - 2002 - https://api.discogs.com/releases/6866441
+Vital Music - Chain With No Name  - 2002 - https://api.discogs.com/releases/11150753
+The Hangover Cure Time To Chill Vol 4 - 2002 - https://api.discogs.com/releases/11165465
+Topshop Topman #008 - 2002 - https://api.discogs.com/releases/19756261
+The Hippest Bar In Iceland - Astro Bar - 2002 - https://api.discogs.com/releases/21389866
+The Platinum Compilation - 2002 - https://api.discogs.com/releases/28674208
+Magnum Sampler 09 - 2002 - https://api.discogs.com/releases/32042526
+Sensation Pourpre - Voyage Musical Volume 1 - 2002 - https://api.discogs.com/releases/32552775
+Lost Weekend Reflections - 2002 - https://api.discogs.com/masters/1114114
+Intervention Divine (Original Motion Picture Soundtrack) - 2002 - https://api.discogs.com/masters/1638521
+So Classic - 2002 - https://api.discogs.com/masters/1338072
+One Offs... Remixes & B Sides - 2002 - https://api.discogs.com/masters/2438
+Palm Label Sampler 2002 - 2002 - https://api.discogs.com/masters/1511411
+Astro Bar - 2003 - https://api.discogs.com/releases/139079
+Trax #60 - 2003 - https://api.discogs.com/releases/184161
+Visual Niches 2 - Extraordinary Music Videos - 2003 - https://api.discogs.com/releases/204884
+AE Master Mix - 2003 - https://api.discogs.com/releases/791201
+Bluffer's Guide Volume Five Spring 2003 - 2003 - https://api.discogs.com/releases/862943
+Ninja Tune 2003 Licensing Sampler - 2003 - https://api.discogs.com/releases/863840
+Remote Issue Two - 2003 - https://api.discogs.com/releases/1205634
+Motions Of Mutation - 2003 - https://api.discogs.com/releases/2133930
+Ninja Tune - 2003 - https://api.discogs.com/releases/2720431
+Dusk At Byron Bay - 2003 - https://api.discogs.com/releases/2994104
+Лучшие Компьютерные Игры #5 (18) 2003 Май - 2003 - https://api.discogs.com/releases/4249902
+Pure Techno - 2003 - https://api.discogs.com/releases/4605478
+Independent's Day - 2003 - https://api.discogs.com/releases/5934249
+Superсборка (#9'03) - 2003 - https://api.discogs.com/releases/8267992
+Indétendances 9 - 2003 - https://api.discogs.com/releases/12941074
+Topshop Topman #039 - 2003 - https://api.discogs.com/releases/19756645
+Ambient Down Tempo '03: "Ones" - 2003 - https://api.discogs.com/releases/22080292
+Neofusion - 2003 - https://api.discogs.com/masters/1271321
+ZEN CD - A Retrospective - 2003 - https://api.discogs.com/masters/26171
+The Last Minute - 2003 - https://api.discogs.com/masters/1887570
+The Marcia Blaine School For Girls - School Disco Volume 2 - 2004 - https://api.discogs.com/releases/347625
+Ninja Tune Game Reel Sampler - 2004 - https://api.discogs.com/releases/863819
+Lastebil (Debris From A Fragmented Culture Volume 1) - 2004 - https://api.discogs.com/releases/1186069
+Downtempo Bootlegs - 2004 - https://api.discogs.com/releases/5781273
+Gumball 3000 The Soundtrack - 2004 - https://api.discogs.com/releases/8392095
+My Way To Me - 2004 - https://api.discogs.com/releases/9062646
+Mixtape Massacre - 2004 - https://api.discogs.com/releases/11473306
+ZEN TV DVD - Video Retrospective - 2004 - https://api.discogs.com/masters/43065
+Trax #81 - 2005 - https://api.discogs.com/releases/393993
+Undercover Cuts 25 - 2005 - https://api.discogs.com/releases/494868
+Bluffers Guide Volume 6: 2005 Sizzling Summer Sampler - 2005 - https://api.discogs.com/releases/513158
+Ninja Tune. Big Dada. 2005 Cruel Summer Licensing Sampler - 2005 - https://api.discogs.com/releases/591507
+Trax#15 - 2005 - https://api.discogs.com/releases/732304
+Ninja Tune 01 02 - 2005 - https://api.discogs.com/releases/859473
+Vital Music - 2005 - https://api.discogs.com/releases/1690485
+Sumosonic 35 - 2005 - https://api.discogs.com/releases/1886080
+La Biennale Takes A Trip - 2005 - https://api.discogs.com/releases/2150794
+Best Of 2004/Best Of 2005 - 2005 - https://api.discogs.com/releases/2451762
+Ninja Tune 05 - 2005 - https://api.discogs.com/releases/2846844
+Revive The Soul - 2005 - https://api.discogs.com/releases/3431084
+Jazz Lounge Cinema - 2005 - https://api.discogs.com/releases/3920872
+Scopitone 2005 (Nantes-Rezé) - 2005 - https://api.discogs.com/releases/10423509
+Digital Games 05 - E3 Los Angeles - Music - 2005 - https://api.discogs.com/releases/18805636
+XLR8R Incite 29 - 2005 - https://api.discogs.com/releases/24270818
+Bowers & Wilkins - A Sound Experience  - 2005 - https://api.discogs.com/masters/2003368
+It Came From The Sea - 2005 - https://api.discogs.com/masters/29668
+Trip Hop Anthology - 2006 - https://api.discogs.com/releases/1128748
+Hooked On 'tronics - Motormouthmedia SXSW Sampler - 2006 - https://api.discogs.com/releases/3183389
+Candy Original Soundtrack - 2006 - https://api.discogs.com/releases/7693059
+Synch: Innovative Music, Moving Image And New Media - Ready To Mix? / Προετοιμασία - 2006 - https://api.discogs.com/releases/11944502
+Kouten - 2006 - https://api.discogs.com/releases/21408325
+Acid Jazz Vol. 109 - 2006 - https://api.discogs.com/releases/24127979
+D 07 (A Snapshot From Domino 2007) - 2007 - https://api.discogs.com/releases/912623
+Trax Sampler 104 - 2007 - https://api.discogs.com/releases/922646
+CD Side 39 - 2007 - https://api.discogs.com/releases/927847
+BEAT No. 39 - 2007 - https://api.discogs.com/releases/933765
+Scion CD Sampler V.18 - Ninja Tune Mix - 2007 - https://api.discogs.com/releases/970925
+Technical Flowers - 2007 - https://api.discogs.com/releases/1044050
+This Year I Have Mostly Been Listening To - 2007 - https://api.discogs.com/releases/1437911
+Want2Bsquare CD Sampler - 2007 - https://api.discogs.com/releases/1456597
+For Films - Selected Tracks For Moving Pictures: Edit. 12 - 2007 - https://api.discogs.com/releases/1501661
+Ninja Tune Licensing Sampler Summer 2007 - 2007 - https://api.discogs.com/releases/1607516
+Shepherds Know How To Have The Best Wool - 2007 - https://api.discogs.com/releases/1916292
+London Lounge: Chillout In The U.K. - 2007 - https://api.discogs.com/releases/12226536
+Tight Vol.19 - 2007 - https://api.discogs.com/releases/15824648
+Techno Invasion - 2007 - https://api.discogs.com/releases/31427978
+Back To Mine - 2007 - https://api.discogs.com/masters/2861692
+Vollmond Music From The Dance Theatre Of Pina Bausch - 2008 - https://api.discogs.com/releases/2842766
+Ma Player Vol. 1 - 2008 - https://api.discogs.com/releases/3606627
+In Vitro - 2008 - https://api.discogs.com/releases/12321137
+[Lazy Hours] 04 - 2008 - https://api.discogs.com/releases/14844648
+Night Trip - 2008 - https://api.discogs.com/releases/15444246
+Beginner's Guide To Bellydance - 2008 - https://api.discogs.com/masters/1281618
+You Don't Know: Ninja Cuts - 2008 - https://api.discogs.com/masters/102082
+21 - Music From The Motion Picture - 2008 - https://api.discogs.com/masters/187227
+You Don't Know Ninja Cuts DJ Food's 1000 Masks Mix - 2008 - https://api.discogs.com/masters/78735
+Select Ninja Tune Instrumentals - 2009 - https://api.discogs.com/releases/1909942
+Trip-Hop Classics 1993-2009 - 2009 - https://api.discogs.com/releases/2805274
+Ninja Tune Big Dada Counter 2009 Part 1 - 2009 - https://api.discogs.com/releases/12197251
+All Weekend Contrasts - 2009 - https://api.discogs.com/releases/15444954
+Trip-Hop Classics 1992-2009 - 2009 - https://api.discogs.com/releases/18858844
+Infamous: Original Soundtrack From The Video Game - 2009 - https://api.discogs.com/masters/245111
+Trip-Hop Anthology - 2010 - https://api.discogs.com/releases/2183624
+Trax Hors Série #13 : Ninja Tune - 2010 - https://api.discogs.com/releases/2445922
+Ninja Tune XX Vol. 5 - 2010 - https://api.discogs.com/releases/2473507
+Ninja Tune XX Vol. 1 - 2010 - https://api.discogs.com/releases/2536870
+Ninja Tune Publishing & Licensing Sampler Vol.2 - 2010 - https://api.discogs.com/releases/2571635
+Ninja Tune XX Vol. 2 - 2010 - https://api.discogs.com/releases/2647827
+Do Not Disturb 4 - 2010 - https://api.discogs.com/releases/2648918
+Saint-Germain-Des-Prés Café (The Blue Edition) - 2010 - https://api.discogs.com/releases/2778746
+Sword Of Mental Being - 2010 - https://api.discogs.com/releases/2890585
+Ninja Tune XX Publishing & Licensing Sampler 3 - 2010 - https://api.discogs.com/releases/3107437
+Ssg Special - Handmade Blend Mix - 2010 - https://api.discogs.com/releases/3658566
+Ninja Tune XX: 20th Anniversary Japan Edition - Coldcut vs DJ Kentaro - - 2010 - https://api.discogs.com/releases/4255112
+Electric Deluxe Podcast 017 - 2010 - https://api.discogs.com/releases/5017866
+NC Guest Mix#25 - 2010 - https://api.discogs.com/releases/5236230
+Playstation Soundtracks Vol. 1 - 2010 - https://api.discogs.com/releases/6777544
+Celldweller Fixtape - 2010 - https://api.discogs.com/releases/7473024
+Trax Hors-Série été 2010 - 2010 - https://api.discogs.com/releases/8147637
+Blackberry Sensation - 2010 - https://api.discogs.com/releases/12650362
+Tauron Nowa Muzyka - 2010 - https://api.discogs.com/releases/12662998
+Time Capsule - "A Crate Odyssey" - 2010 - https://api.discogs.com/releases/15578559
+Electric Deluxe Podcast 019 - 2010 - https://api.discogs.com/releases/19872445
+Zur Rettung Der Popkultur (Experimentelle Deutsche Musikvideos 2003-2007) - 2010 - https://api.discogs.com/releases/26219615
+Ninja Tune XX (20 Years Of Beats & Pieces) - 2010 - https://api.discogs.com/masters/283194
+The Way Of The Ninja - 2010 - https://api.discogs.com/masters/288486
+Ninja Tune XX Presents: A Ninja Tune Label Sampler - 2010 - https://api.discogs.com/masters/463754
+Tom Clancy's Splinter Cell: Conviction - Original Soundtrack - 2010 - https://api.discogs.com/masters/244173
+Ninja Tune Publishing & Licensing Sampler Vol.5 - 2011 - https://api.discogs.com/releases/2806226
+From Sunday Off Land (The New Worck Mixtape 2) - 2011 - https://api.discogs.com/releases/2820347
+Guest Mix For Andrew Meza's BTS Radio - 2011 - https://api.discogs.com/releases/2838365
+Trax 146 - 2011 - https://api.discogs.com/releases/2917316
+Elegy Sampler 69 - 2011 - https://api.discogs.com/releases/2948895
+#026: Wax Treatment Podcast - 2011 - https://api.discogs.com/releases/3114868
+Ninja Tune Publishing & Licensing Sampler 7 - 2011 - https://api.discogs.com/releases/3148955
 RA.281 - 2011 - https://api.discogs.com/releases/3180751
-cOmaWrek Presentz tha nOdcast (v01) - 2011 - https://api.discogs.com/releases/18577789
-Old Trees (1999 - 2011) - 2011 - https://api.discogs.com/masters/649690
-'Waiting For An Angel' Mix - 2012 - https://api.discogs.com/releases/4426109
-061812 Chicago Mix - 2012 - https://api.discogs.com/releases/8398299
-Isolatedmix 28 - 2012 - https://api.discogs.com/releases/12833120
-Hallucinations : Live In Hongdae, South Korea - 2012 - https://api.discogs.com/releases/16277338
-'Dawn' An Ambient Mix - 2013 - https://api.discogs.com/releases/4425859
-The Musical Odyssey – Matinee At The Eyelid Cinema - 2013 - https://api.discogs.com/releases/6781489
-cOmaWrek Presentz Tha nOdcast (v58) - 2013 - https://api.discogs.com/releases/18616057
-r.room Podcast #8 (Unline Special) - 2015 - https://api.discogs.com/releases/6741360
-Lyra Vistro - 2015 - https://api.discogs.com/releases/8344979
-Café Del Mar - Terrace Mix 6 - 2016 - https://api.discogs.com/releases/16522935
-ComaWrek Presentz Tha Nodcast (v81) The Catdog Collection - 2016 - https://api.discogs.com/releases/18602209
-Unline Mix - 2018 - https://api.discogs.com/releases/8319601
-Auxilia - 2018 - https://api.discogs.com/releases/11437260
-Mindcast Mixtape 10/2018 - 2018 - https://api.discogs.com/releases/12730448
-Billegal Beats Vol​.​0 - 2019 - https://api.discogs.com/releases/13186144
-Raiding The 20th Century (A History Of The Cut Up) - 2024 - https://api.discogs.com/masters/228642
-Never Mind The Bootlegs - 2002 - https://api.discogs.com/releases/891083
-2002 V.1 - 2002 - https://api.discogs.com/releases/1542232
-Morsure - 2006 - https://api.discogs.com/releases/736912
-Electric Eclectic Extracts - 2006 - https://api.discogs.com/releases/1032869
-H2O - 2008 - https://api.discogs.com/releases/1255663
-Lawn Funeral EP - 2019 - https://api.discogs.com/masters/1100091
-Our Simulacra - 2020 - https://api.discogs.com/masters/1705154
-Atmospheric Inspiration - Desconocido - https://api.discogs.com/releases/6764105
+Sonic Cathedrals Vol. XXV - 2011 - https://api.discogs.com/releases/3307784
+Ma Player Vol. 5 - 2011 - https://api.discogs.com/releases/3606725
+The Sound Of Dubstep Darker - 2011 - https://api.discogs.com/releases/4143647
+Mutek 2011 - 2011 - https://api.discogs.com/releases/4298875
+Night Tracks 022: Toronto Is Broken Guest Mix - 2011 - https://api.discogs.com/releases/4714223
+Ninja Tune Publishing + Licensing Sampler 8 - 2011 - https://api.discogs.com/releases/5260043
+Dummy Mix 94 - 2011 - https://api.discogs.com/releases/9332127
+Stage Five - 2011 - https://api.discogs.com/releases/15502020
+cOmaWrek Presentz tha nOdcast (v09) - 2011 - https://api.discogs.com/releases/18589657
+LWE Podcast 109 - 2012 - https://api.discogs.com/releases/3355190
+Bleep X Sonar 2012 Sampler EP - 2012 - https://api.discogs.com/releases/3669712
+Ninja Tune Publishing & Licensing Sampler Vol 11 - 2012 - https://api.discogs.com/releases/3786709
+Get Ready For The Olympics (Ninja Tune Sport Sweat & Tears Licensing Sampler) - 2012 - https://api.discogs.com/releases/3922370
+Ninja Tune Publishing & Synch Sampler Vol. 14 - 2012 - https://api.discogs.com/releases/4033187
+Intratelluric Mixtape - 2012 - https://api.discogs.com/releases/5400235
+Lounge Anthology - 2012 - https://api.discogs.com/releases/9814943
+cOmaWrek Presentz tha nOdcast (v37) - 2012 - https://api.discogs.com/releases/18671086
+Split The Atom - 2012 - https://api.discogs.com/masters/274508
+Trip-Hop (The Best Of) - 2012 - https://api.discogs.com/masters/874076
+So Many Lasts - 2013 - https://api.discogs.com/releases/4647841
+Ninja Tune Publishing & Synch Sampler Vol. 17 - 2013 - https://api.discogs.com/releases/4760981
+Secret Thirteen Mix 086 - 2013 - https://api.discogs.com/releases/4943035
+Emerging Species: Recurring Universe - 2013 - https://api.discogs.com/releases/6798763
+Ninja Tune Publishing & Synch Sampler Vol. 20 - 2013 - https://api.discogs.com/releases/7387717
+The Fifth Estate (Original Motion Picture Soundtrack) - 2013 - https://api.discogs.com/releases/14578152
+Chilled House Session - 2013 - https://api.discogs.com/releases/15013601
+IGPX: The Ichi Megamix - 2013 - https://api.discogs.com/releases/19242910
+Alle 30 Goed - Drum 'n' Bass - 2013 - https://api.discogs.com/releases/32773581
+Feast / Beast - 2013 - https://api.discogs.com/masters/597395
+Mindcast Mixtape 03/2014 - 2014 - https://api.discogs.com/releases/5484741
+Something Wonderfull - 2014 - https://api.discogs.com/releases/5494906
+Ninja Tune Publishing & Synch Sampler Vol. 22 - 2014 - https://api.discogs.com/releases/7763780
+For Films - Selected Tracks For Moving Pictures: Edit. 17 - 2014 - https://api.discogs.com/releases/10314286
+simplicity :: mixtape for dreamers - 2014 - https://api.discogs.com/releases/12487432
+The Art Of Listening Vol.1 - 2014 - https://api.discogs.com/masters/827945
+Music For A Good Home 3 - 2014 - https://api.discogs.com/masters/703692
+Labtop Session Vs After Affects - 2015 - https://api.discogs.com/releases/6609936
+Mindcast Mixtape 08/2015 - 2015 - https://api.discogs.com/releases/7412872
+Ninja Tune Publishing & Synch Sampler Vol. 30 - 2015 - https://api.discogs.com/releases/10557853
+Ninja Tune Publishing & Synch Sampler Vol. 29 - 2015 - https://api.discogs.com/releases/10828871
+Ninja Tune Publishing & Synch Sampler Vol. 28 - 2015 - https://api.discogs.com/releases/11486142
+Door Of The Cosmos - 2015 - https://api.discogs.com/releases/32584086
+Settt1 - 2016 - https://api.discogs.com/releases/11873794
+Touched 3 - 2016 - https://api.discogs.com/masters/1142434
+Untold Story (Unline Special Mix) - 2017 - https://api.discogs.com/releases/9954313
+Ninja Tune Publishing & Sync Sampler Vol. 38 - 2017 - https://api.discogs.com/releases/11652325
+FACT Mix 614 - 2017 - https://api.discogs.com/releases/12271544
+Ninja Tune Production Music - 2017 - https://api.discogs.com/releases/12292891
+Early Influences Mixtape - 2017 - https://api.discogs.com/releases/12828303
+Ninja Tune Publishing & Sync Sampler Vol. 37 - 2017 - https://api.discogs.com/releases/16232544
+Space - 2017 - https://api.discogs.com/releases/33322482
+Ninja Tune Publishing & Sync Sampler Vol. 42 - 2018 - https://api.discogs.com/releases/16511928
+Synths (Publishing & Sync Sampler Vol. 42) - 2018 - https://api.discogs.com/releases/24469307
+Mindcast Mix Recording 03/2019 - 2019 - https://api.discogs.com/releases/13466550
+Electronic Sound Bulletin F - 2019 - https://api.discogs.com/releases/14531354
+The Greatest Video Game Music - 2019 - https://api.discogs.com/masters/501269
+Label Sampler - 2020 - https://api.discogs.com/releases/15012471
+Born Into Madness 3.1 - 2021 - https://api.discogs.com/masters/2329702
+The All Attracting - 2021 - https://api.discogs.com/masters/2085769
+Futurism - 2023 - https://api.discogs.com/releases/26767253
+Mindcast Mixtape 12/2024 - 2024 - https://api.discogs.com/releases/32162541
+Silly Symphonies - New Directions Vol.2 - Desconocido - https://api.discogs.com/releases/1224791
+Interior Of Mersey Tunnel - Desconocido - https://api.discogs.com/releases/2738987
+An Exclusive Mix CD - Desconocido - https://api.discogs.com/releases/5629490
+Ninja Tune 06 - Desconocido - https://api.discogs.com/releases/6390890
+Taster 7 - Desconocido - https://api.discogs.com/releases/11319188
+Backup Ninja Tune - Desconocido - https://api.discogs.com/releases/13773202
+Id Sunshine - Desconocido - https://api.discogs.com/releases/14350091
+Miscellaneous Ninja Tune Artist's Video Compilation - Desconocido - https://api.discogs.com/releases/15714266
+Beautiful Boy (Original Motion Picture Soundtrack) - Desconocido - https://api.discogs.com/masters/2624126
+Hekla's Selection - 1998 - https://api.discogs.com/releases/308661
+Permutation - 1998 - https://api.discogs.com/masters/21280
+Pure Abstrakt - Adventures In Dub - 1999 - https://api.discogs.com/masters/3721764
+My Favorite Games 5 - 2001 - https://api.discogs.com/releases/1801134
+Hôtel Costes Etage 3 - 2001 - https://api.discogs.com/masters/240687
+Sweetness - 2002 - https://api.discogs.com/releases/6162317
+1000% Urban Trip-Hop Vol.1 - 2002 - https://api.discogs.com/masters/1305647
+Out From Out Where - 2002 - https://api.discogs.com/masters/22475
+Happy New Year Band. Trip Orchestra. 2003 - 2003 - https://api.discogs.com/releases/19245382
+The Best Of  - 2003 - https://api.discogs.com/releases/25865158
+Verbal Remixes & Collaborations - 2003 - https://api.discogs.com/masters/31539
+Supermodified - 2003 - https://api.discogs.com/masters/22486
+1000% Trip-Hop - 2004 - https://api.discogs.com/releases/7060454
+Squarepusher Vs. - 2005 - https://api.discogs.com/releases/416422
+XFM The Rinse - 2005 - https://api.discogs.com/releases/1489990
+Chaos Theory - 2005 - https://api.discogs.com/masters/22464
+It Came From The Sea - 2005 - https://api.discogs.com/masters/29668
+Peeping Tom - 2006 - https://api.discogs.com/masters/32758
+MP3 - 2007 - https://api.discogs.com/releases/7214836
+Foley Room - 2007 - https://api.discogs.com/masters/22449
+Diurne - 2008 - https://api.discogs.com/releases/1240429
+A Room With A View - 2008 - https://api.discogs.com/releases/4788259
+Fresh Flesh Mixtapes Vol 3 VS Special Diyei Sens Vol 3 - 2009 - https://api.discogs.com/releases/1711518
+ISAM - 2011 - https://api.discogs.com/masters/337500
+ISAM Intro Version - 2013 - https://api.discogs.com/releases/4478103
+Dreiliņi Mix 2013 (Funny Edition) - 2013 - https://api.discogs.com/releases/13232058
+Fear In A Handful Of Dust - 2019 - https://api.discogs.com/masters/1544872
+Long Stories - 2019 - https://api.discogs.com/masters/1630404
+Chaos Theory Remixed (The Soundtrack To Splinter Cell 3D) - 2020 - https://api.discogs.com/masters/313019
+How Do You Live - 2021 - https://api.discogs.com/releases/22889492
+Bricolage - Desconocido - https://api.discogs.com/masters/21247
+One Offs... Remixes & B Sides - Desconocido - https://api.discogs.com/masters/2438
+Solid Steel Presents Amon Tobin Recorded Live - Desconocido - https://api.discogs.com/masters/22481
