@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chamber-Music on vvmm</title>
-    <link>//192.168.1.133:39013/tags/chamber-music/</link>
+    <link>/tags/chamber-music/</link>
     <description>Recent content in Chamber-Music on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Thu, 20 Jun 2024 23:06:57 +0200</lastBuildDate>
-    <atom:link href="//192.168.1.133:39013/tags/chamber-music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/chamber-music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penguin Cafe - Rain Before Seven</title>
-      <link>//192.168.1.133:39013/posts/penguin-cafe-_-rain-before-seven/</link>
+      <link>/posts/penguin-cafe-_-rain-before-seven/</link>
       <pubDate>Thu, 20 Jun 2024 23:06:57 +0200</pubDate>
-      <guid>//192.168.1.133:39013/posts/penguin-cafe-_-rain-before-seven/</guid>
+      <guid>/posts/penguin-cafe-_-rain-before-seven/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Penguin-Cafe - Rain-Before-Seven&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.discogs.com/master/3161781&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://musicbrainz.org/release/6816f258-ba8a-4fa4-8bbb-3859e383d7c5&#34;&gt;&lt;img src=&#34;../links/svg/musicbrainz.png&#34; alt=&#34;musicbrainz&#34; title=&#34;musicbrainz&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/album/4gGmqjw64211B9R3p2ikne&#34;&gt;&lt;img src=&#34;../links/svg/spotify.png&#34; alt=&#34;spotify&#34; title=&#34;putify&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;error&#34;&gt;&lt;img src=&#34;../links/svg/wikipedia.png&#34; alt=&#34;wikipedia&#34; title=&#34;wikipedia&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLVjWWIQMML6AdMAZDQfB4J5WcnUTr2iAO&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: 2023&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Rock, Pop&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Indie Rock&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pais:&lt;/strong&gt; Denmark&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Votos:&lt;/strong&gt; Media de 2.0 con 1 votos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sello:&lt;/strong&gt; Mega Records&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phonographic Copyright (p):&lt;/strong&gt; ARS Productions Belgium&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Copyright (c):&lt;/strong&gt; ARS Productions Belgium&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tracklist:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A1. Welcome to London    4:49&lt;/p&gt;&#xA;&lt;p&gt;A2. Temporary Shelter from the Storm    4:56&lt;/p&gt;&#xA;&lt;p&gt;A3. In Re Budd    4:23&lt;/p&gt;&#xA;&lt;p&gt;A4. Second Variety    3:54&lt;/p&gt;&#xA;&lt;p&gt;A5. Galahad    6:11&lt;/p&gt;&#xA;&lt;p&gt;B1. Might Be Something    6:30&lt;/p&gt;</description>
     </item>
   </channel>
