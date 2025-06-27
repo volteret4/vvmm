@@ -1,1732 +1,668 @@
 Listado de releases del artista:
-Pulled Up - 1977 - https://api.discogs.com/releases/1836559
-First Week/Last Week... Carefree / Uh-oh, Love Comes To Town - 1977 - https://api.discogs.com/releases/3441311
-New Feeling - 1977 - https://api.discogs.com/releases/8602777
-Talking Heads: 77 - 1977 - https://api.discogs.com/masters/39365
-Psycho Killer - 1977 - https://api.discogs.com/masters/39394
-Uh-oh, Love Comes To Town / I Wish You Wouldn't Say That - 1977 - https://api.discogs.com/masters/39448
-Love Goes To Building On Fire - 1977 - https://api.discogs.com/masters/54381
-The Good Thing - 1978 - https://api.discogs.com/releases/1824678
-Take Me To The River / Don't Come Close / Feel A Whole Lot Better / 3rd Generation Nation - 1978 - https://api.discogs.com/releases/6225910
-More Songs About Buildings And Food - 1978 - https://api.discogs.com/masters/39312
-The Girls Want To Be With The Girls / With Our Love - 1978 - https://api.discogs.com/masters/2112454
-Take Me To The River - 1978 - https://api.discogs.com/masters/56968
-Fear Of Music (Radio Spot) - 1979 - https://api.discogs.com/releases/8217467
-King Biscuit Flower Hour - 1979 - https://api.discogs.com/releases/9226337
-Fear Of Music - 1979 - https://api.discogs.com/masters/39260
-I Zimbra - 1979 - https://api.discogs.com/masters/39292
-Live On Tour - 1979 - https://api.discogs.com/masters/39413
-Air (エアー) - 1979 - https://api.discogs.com/masters/425050
-Life During Wartime - 1979 - https://api.discogs.com/masters/56994
-The Great Curve - 1980 - https://api.discogs.com/releases/3987174
-The Best Of The Biscuit - 1980 - https://api.discogs.com/releases/11709212
-Born Under Punches (The Heat Goes On) - 1980 - https://api.discogs.com/masters/1769607
-Cities - 1980 - https://api.discogs.com/masters/39270
-Remain In Light - 1980 - https://api.discogs.com/masters/25688
-Once In A Lifetime - 1980 - https://api.discogs.com/masters/56981
-Crosseyed And Painless / The Great Curve - 1980 - https://api.discogs.com/masters/259851
-Houses In Motion - 1981 - https://api.discogs.com/masters/39278
-Take Me To The River (Live) / Heaven/Life During Wartime (Live) - 1982 - https://api.discogs.com/releases/1978908
-Take Me To The River / Air - 1982 - https://api.discogs.com/releases/9482823
-B# Concert Series Featuring Vintage Talking Heads - 1982 - https://api.discogs.com/releases/13096460
-The Name Of This Band Is Talking Heads - 1982 - https://api.discogs.com/masters/39355
-Life During Wartime (Live) - 1982 - https://api.discogs.com/masters/211658
-Building On Fire (Inédit) / I Zimbra - 1982 - https://api.discogs.com/masters/550302
-The Name Of This Band Is Talking Heads - 1982 - https://api.discogs.com/masters/593372
-Talking Heads '77 / More Songs About Buildings And Food - 1982 - https://api.discogs.com/masters/519773
-Burning Down The House = Quemando La Casa - 1983 - https://api.discogs.com/releases/30523222
-Speaking In Tongues / Zig-Zag Walk - 1983 - https://api.discogs.com/releases/30617146
-Burning Down The House - 1983 - https://api.discogs.com/masters/39249
-Speaking In Tongues - 1983 - https://api.discogs.com/masters/39336
-This Must Be The Place (Naive Melody) - 1983 - https://api.discogs.com/masters/39376
-Burning Down The House / This Must Be The Place (Naive Melody) - 1983 - https://api.discogs.com/masters/417023
-Slippery People / Making Flippy Floppy (Remixes)  - 1983 - https://api.discogs.com/masters/259850
-Swamp - 1983 - https://api.discogs.com/masters/468929
-Stop Making Sense - 1984 - https://api.discogs.com/releases/34375504
-Girlfriend Is Better - 1984 - https://api.discogs.com/masters/39284
-Stop Making Sense - 1984 - https://api.discogs.com/masters/39350
-Slippery People - 1984 - https://api.discogs.com/masters/54398
-Stop Making Sense - 1984 - https://api.discogs.com/masters/566433
-Once In A Lifetime - 1984 - https://api.discogs.com/masters/542526
-Stay Up Late - 1985 - https://api.discogs.com/releases/2140692
-And She Was / Kayleigh - 1985 - https://api.discogs.com/releases/11209477
-Off The Record Specials With Mary Turner - 1985 - https://api.discogs.com/releases/31579456
-Stop Making Sense (Girlfriend Is Better) - 1985 - https://api.discogs.com/masters/389343
-And She Was - 1985 - https://api.discogs.com/masters/39238
-Little Creatures - 1985 - https://api.discogs.com/masters/39301
-Road To Nowhere - 1985 - https://api.discogs.com/masters/39329
-The Lady Don't Mind - 1985 - https://api.discogs.com/masters/39405
-Puzzlin' Evidence - 1986 - https://api.discogs.com/releases/2140688
-Typical Male / Wild Wild Life  - 1986 - https://api.discogs.com/releases/5684348
-Pioneers In Music #56 / New York All Stars - 1986 - https://api.discogs.com/releases/13781677
-Off The Record Specials With Mary Turner - 1986 - https://api.discogs.com/releases/14371164
-True Stories - 1986 - https://api.discogs.com/masters/39386
-Wild Wild Life - 1986 - https://api.discogs.com/masters/39400
-Love For Sale - 1986 - https://api.discogs.com/masters/39418
-Hey Now / Life During Wartime - 1986 - https://api.discogs.com/masters/1131156
-Radio Head / Hey Now - 1986 - https://api.discogs.com/masters/57013
-Off The Record Specials With Mary Turner - 1987 - https://api.discogs.com/releases/13326501
-Fear Of Music / Remain In Light - 1987 - https://api.discogs.com/releases/19571575
-True Stories - 1987 - https://api.discogs.com/masters/388357
-Selected Album Tracks - 1988 - https://api.discogs.com/releases/573911
-Talking Heads Special - 1988 - https://api.discogs.com/releases/4321928
-Mr. Jones - 1988 - https://api.discogs.com/releases/11145513
-Timothy White's Rock Stars - 1988 - https://api.discogs.com/releases/11619329
-Off The Record Specials With Mary Turner - 1988 - https://api.discogs.com/releases/12715551
-(Nothing But) Flowers - 1988 - https://api.discogs.com/masters/39230
-Blind - 1988 - https://api.discogs.com/masters/39243
-Naked - 1988 - https://api.discogs.com/masters/39321
-Storytelling Giant - 1988 - https://api.discogs.com/masters/39452
-Love Goes To A Building On Fire - 1989 - https://api.discogs.com/releases/887960
-In The Studio - 1990 - https://api.discogs.com/releases/12796456
-King Biscuit Flower Hour - 1990 - https://api.discogs.com/releases/13639874
-Superstar Concert Series - 1990 - https://api.discogs.com/masters/317325
-Sax And Violins - 1991 - https://api.discogs.com/masters/1389447
-Popular Favorites 1976-1992 - Sand In The Vaseline - 1992 - https://api.discogs.com/masters/39425
-Once In A Lifetime - The Best Of - 1992 - https://api.discogs.com/masters/39434
-Lifetime Piling Up - 1992 - https://api.discogs.com/masters/57068
-In The Studio "Best Of" - 1995 - https://api.discogs.com/releases/1346928
-Little Creatures + True Stories - 1996 - https://api.discogs.com/masters/478096
-The Originals - 1997 - https://api.discogs.com/masters/1265216
-Selections From Stop Making Sense (Special New Edition) - 1999 - https://api.discogs.com/releases/2153244
-12x12 Original Remixes - 1999 - https://api.discogs.com/masters/393265
-Little Creatures / True Stories / Naked - 2000 - https://api.discogs.com/releases/20982871
-Once In A Lifetime 2001 - 2001 - https://api.discogs.com/masters/488770
-Selections From Talking Heads Once In A Lifetime (Boxed Set) - 2003 - https://api.discogs.com/releases/1446421
-Once In A Lifetime 2003 - 2003 - https://api.discogs.com/releases/30719930
-Once In A Lifetime - 2003 - https://api.discogs.com/masters/311041
-The Best Of Talking Heads - 2004 - https://api.discogs.com/masters/54370
-Brick - 2005 - https://api.discogs.com/masters/3129636
-Bonus Rarities & Outtakes - 2006 - https://api.discogs.com/masters/3457067
-The Collection - 2007 - https://api.discogs.com/masters/896232
-Same As It Ever Was - 2009 - https://api.discogs.com/releases/1766913
-Chronology - 2011 - https://api.discogs.com/masters/598136
-Essential - 2011 - https://api.discogs.com/masters/1409423
-This Must Be The Place (Naïve Melody) - 2016 - https://api.discogs.com/masters/988004
-Live At WCOZ 77 - 2024 - https://api.discogs.com/masters/3462989
-Take Me To The River/Life During Wartime - Desconocido - https://api.discogs.com/releases/22342279
-Remain In Light / Speaking In Tongues / Fear Of Music - Desconocido - https://api.discogs.com/releases/27306375
-The Great Artist Best Hit's - Desconocido - https://api.discogs.com/releases/27964167
-Naked  - Desconocido - https://api.discogs.com/releases/31037422
-Remain In Light / Speaking In Tongues   - Desconocido - https://api.discogs.com/releases/33822180
-And She Was / Wild Wild Life - Desconocido - https://api.discogs.com/masters/1404532
-New Wave - Rock 'N' Roll - Get Behind It Before It Gets Past You. - 1977 - https://api.discogs.com/releases/1380531
-New Wave (Wer Hat Angst Vor Den 80er Jahren?) - 1979 - https://api.discogs.com/releases/531286
-Eclipse - 1980 - https://api.discogs.com/releases/5551633
-Times Square Trailer - 1980 - https://api.discogs.com/masters/525002
-Rolls Rock Ao Rubro - 1980 - https://api.discogs.com/masters/3447950
-The Original Motion Picture Soundtrack "Times Square"  - 1980 - https://api.discogs.com/masters/79036
-Dancin' Master - 1981 - https://api.discogs.com/releases/952541
-Rock Of The 80's - Le Rock Des 80's - 1981 - https://api.discogs.com/releases/8530290
-Portable Music (Eight Songs From The Latest Albums By David Byrne, Jerry Harrison, Talking Heads, Tom Tom Club) - 1982 - https://api.discogs.com/releases/5163028
-The Name Of This Band Is Talking Heads - 1982 - https://api.discogs.com/releases/6558109
-The King Of Comedy - 1983 - https://api.discogs.com/masters/264156
-Revenge Of The Killer B's - 1984 - https://api.discogs.com/masters/457594
-16 Top Hits - Aus Den Hitparaden 1985 Extra - 1985 - https://api.discogs.com/releases/5397396
-Until The End Of The World (Music From The Motion Picture Soundtrack) - 1991 - https://api.discogs.com/masters/4778
-1983~1991 - 1993 - https://api.discogs.com/releases/394148
-Now That's What I Call Music! 1985 - 1993 - https://api.discogs.com/masters/1428682
-The Best Punk Album In The World...Ever! - 1995 - https://api.discogs.com/masters/123285
-The Best Of The 80's - 1997 - https://api.discogs.com/masters/3589838
-12x12 Original Remixes - 1999 - https://api.discogs.com/releases/1476021
-Rough Trade Shops - 25 Years - 2001 - https://api.discogs.com/masters/1343758
-MTV Ibiza 2001 - 2001 - https://api.discogs.com/masters/80380
-DIY Songs - 2006 - https://api.discogs.com/releases/15006043
-Open Season Featuring The Songs Of Paul Westerberg - 2006 - https://api.discogs.com/masters/539663
-The White Underground From A Black's Perspective - 2006 - https://api.discogs.com/masters/212186
-101 Jukebox Classics - 2007 - https://api.discogs.com/releases/1000348
-Back To Mine - 2007 - https://api.discogs.com/masters/294901
-Anthems Electronic 80s 2 - 2010 - https://api.discogs.com/masters/289173
-Anthems Alternative 80s - 2011 - https://api.discogs.com/releases/3334702
-20 Feet From Stardom (Music From The Motion Picture) - 2013 - https://api.discogs.com/masters/733926
-True Stories: The Complete Soundtrack - 2018 - https://api.discogs.com/masters/32875
-True Stories - 2018 - https://api.discogs.com/masters/388357
-Dance Masters: Arthur Baker (The Classic Dance Remixes) - 2023 - https://api.discogs.com/masters/3176529
-Honoring Seymour Stein - 1999 - https://api.discogs.com/releases/26723195
-Modern Rockers - 1982 - https://api.discogs.com/masters/705759
-The King Of Comedy - 1983 - https://api.discogs.com/masters/264156
-Promo EMI Chile 40 - 1985 - https://api.discogs.com/releases/32418288
-Alternativa 3 - 1985 - https://api.discogs.com/masters/1535083
-Festiwal Życia Rock Życia - 1988 - https://api.discogs.com/masters/293760
-白痴的謊言 = Lyin.Idiot - 1988 - https://api.discogs.com/masters/1152555
-Humus - 1988 - https://api.discogs.com/masters/42768
-Classic Cuts (Week Of May 22, 1989) - 1989 - https://api.discogs.com/releases/14097676
-Masters Of The Rhythm - 1989 - https://api.discogs.com/masters/164401
-Buck Naked - 1989 - https://api.discogs.com/masters/1294950
-Planet E (Remix) - 1989 - https://api.discogs.com/masters/100299
-Rock Perpignan Live - 1991 - https://api.discogs.com/releases/13675184
-...Na Sračky! - 1991 - https://api.discogs.com/releases/18523945
-Jesus H Christ - 1992 - https://api.discogs.com/masters/1057484
-Dowódcy Miłości - 1993 - https://api.discogs.com/masters/1429690
-7 - 1994 - https://api.discogs.com/releases/2649826
-Tutto D'Un Fiato - 1994 - https://api.discogs.com/releases/5476199
-Artfuck For All - 1995 - https://api.discogs.com/releases/2261832
-Fast Forward 2 - 24 Monster Hits - 1995 - https://api.discogs.com/releases/27214782
-Hell - 1995 - https://api.discogs.com/masters/135386
-Devolution (Alternative Rock Classics 1975-1985) - 1995 - https://api.discogs.com/masters/252374
-Rocket Farms - 1996 - https://api.discogs.com/releases/8022510
-The Chinese Album - 1997 - https://api.discogs.com/masters/66491
-Carry On - 1997 - https://api.discogs.com/masters/253419
-One Night Only... - 1997 - https://api.discogs.com/masters/3092142
-YMO Giga Clips (Yellow Magic Orchestra History) - 1998 - https://api.discogs.com/releases/8981989
-Promo - 1998 - https://api.discogs.com/releases/11730037
-Birthday Invitation - 1998 - https://api.discogs.com/releases/22747895
-Vol. 2... Hard Knock Life - 1998 - https://api.discogs.com/masters/46840
-Very Harsh Frequencies - 1999 - https://api.discogs.com/releases/95868
-Pop & Wave (The Long Versions) - 2000 - https://api.discogs.com/releases/1530185
-Unerotica - 2000 - https://api.discogs.com/masters/3490466
-An Evening At "Pearl's" Hurricane - 2000 - https://api.discogs.com/masters/1532656
-Welthits Als Jazz - 2001 - https://api.discogs.com/releases/5072268
-Expect No Mercy - 2001 - https://api.discogs.com/releases/10611726
-Back To Love 3 - 2001 - https://api.discogs.com/masters/1556255
-The Complete Recordings - 2002 - https://api.discogs.com/releases/1519207
-The Late Stuart Davis - 2002 - https://api.discogs.com/releases/9920531
-The Rise Of Modern Simulation - 2003 - https://api.discogs.com/releases/1636584
-Songs Of Love - 2003 - https://api.discogs.com/releases/1679015
-Hymns For Children - 2003 - https://api.discogs.com/releases/27999945
-Terrorist Threats - 2003 - https://api.discogs.com/masters/97630
-Kiki & Herb Will Die For You - At Carnegie Hall - 2004 - https://api.discogs.com/releases/867422
-Αδέσποτα Σκυλιά - 2004 - https://api.discogs.com/masters/1477919
-This Island Just Might Kill Us All... - 2005 - https://api.discogs.com/releases/6538547
-Casual Covers - 2005 - https://api.discogs.com/releases/12114018
-Al Limite De Las Utopias - 2005 - https://api.discogs.com/masters/543817
-Sexor - 2005 - https://api.discogs.com/masters/30415
-Original Hamster Presents: Trendsetter And The Followers - 2006 - https://api.discogs.com/releases/1077067
-Inédits - 2006 - https://api.discogs.com/releases/15437520
-Milk And Honey - 2006 - https://api.discogs.com/releases/31344427
-Glissandro 70 - 2006 - https://api.discogs.com/masters/91041
-Smoke In Chinatown - 2006 - https://api.discogs.com/masters/1301851
-Gwiazdy Polskiej Muzyki Lat 80. De Mono - 2007 - https://api.discogs.com/releases/1175000
-Караоке Обрачун - 2007 - https://api.discogs.com/releases/10072171
-Infatuation - 2007 - https://api.discogs.com/releases/11410032
-Back To Mine - 2007 - https://api.discogs.com/masters/294901
-Copycat EP - 2008 - https://api.discogs.com/releases/1582968
-Split - 2008 - https://api.discogs.com/releases/4419419
-Tie Me Up, Tie Me Down - 2009 - https://api.discogs.com/releases/1977684
-American Psychobilly Archive 1986-2005 Volume One - 2009 - https://api.discogs.com/releases/7838014
-Julie & Julia (Original Motion Picture Soundtrack) - 2009 - https://api.discogs.com/releases/10783174
-5 Songs - 2009 - https://api.discogs.com/releases/14312632
-Transformers: Revenge Of The Fallen - The Album - 2009 - https://api.discogs.com/releases/32379375
-Camera Talk - 2009 - https://api.discogs.com/masters/262588
-Gorilla Manor - 2009 - https://api.discogs.com/masters/217846
-Ob Festzelt Oder Großraumdisco - 2009 - https://api.discogs.com/masters/912778
-Covered, A Revolution In Sound: Warner Bros. Records - 2009 - https://api.discogs.com/masters/550283
-Telemachy - 2009 - https://api.discogs.com/masters/485016
-Aus Den Kellern Der Nacht - 2009 - https://api.discogs.com/masters/503462
-Transformers: Revenge Of The Fallen (The Album) - 2009 - https://api.discogs.com/masters/337697
-Lament - 2010 - https://api.discogs.com/releases/2272963
-Music From The Motion Picture Wall Street: Money Never Sleeps - 2010 - https://api.discogs.com/masters/1716461
-More Songs About Transportation And Intercourse - 2010 - https://api.discogs.com/masters/474084
-Bound - 2010 - https://api.discogs.com/masters/343881
-Vlamsch Punk - 2011 - https://api.discogs.com/releases/27023067
-Weak One - hides under the covers - 2011 - https://api.discogs.com/releases/29233720
-Hall Of Fame: Class Of 2010 - 2011 - https://api.discogs.com/masters/586530
-Cöld/Pop: A Collateral Mixtape - 2012 - https://api.discogs.com/releases/3611304
-Lost Tracks - 2012 - https://api.discogs.com/releases/5378389
-This Must Be The Place (Live in Łódź, Foto Cafe 102, 24.04.2012) - 2012 - https://api.discogs.com/releases/8535431
-Die Stärke Im Minimum - 2012 - https://api.discogs.com/masters/460713
-Mastermix Issue 320 - 2013 - https://api.discogs.com/releases/4397743
-May The Vores Be With You  - 2013 - https://api.discogs.com/releases/9834408
-Devil Knows: Selected Demos - 2013 - https://api.discogs.com/releases/13142061
-Pinups 2 - 2013 - https://api.discogs.com/releases/30696001
-Bright Whites - 2013 - https://api.discogs.com/masters/643552
-MUCH LOVE DEEP WEB (Vol. 2) - 2014 - https://api.discogs.com/releases/6250026
-Naive Melody - 2014 - https://api.discogs.com/releases/6543299
-Canadian Cone - 2014 - https://api.discogs.com/releases/6586334
-Untitled - 2014 - https://api.discogs.com/masters/2650754
-Mouth Sounds - 2014 - https://api.discogs.com/masters/1111855
-Live At The Woodmar Deli - 2015 - https://api.discogs.com/releases/6970779
-Nort American Butthouse Music Collction Tape #45 - 2015 - https://api.discogs.com/releases/6974277
-Live! - 2015 - https://api.discogs.com/releases/7417735
-Your Hardcore Is Dead! - 2015 - https://api.discogs.com/releases/15704826
-As You Wish: Kickstarter Covers Vol. 2 - 2015 - https://api.discogs.com/masters/925005
-L​.​P​.​1. Aka 14 Year Old High School PC​-​Fascist Hype Lords Rip Off Devo For The Sake Of Extorting $​$​$ From Helpless Impressionable Midwestern Internet Peoplepunks L​.​P​. - 2015 - https://api.discogs.com/masters/810973
-Electronic Sound Covers Collection Volume.01 - 2016 - https://api.discogs.com/releases/8828383
-The Southern Hostility Demos - 2016 - https://api.discogs.com/masters/1562784
-Don't Blame Me - 2017 - https://api.discogs.com/releases/11031488
-The Celebration Army - 2017 - https://api.discogs.com/releases/13272768
-Coverhead II - 2017 - https://api.discogs.com/releases/27080790
-Do It Again..I Dare Ya - 2017 - https://api.discogs.com/releases/28343662
-Under Cover Summer - 2018 - https://api.discogs.com/releases/12351292
-Leto. Original Motion Picture Soundtrack - 2018 - https://api.discogs.com/masters/1493088
-Songs For Mona - 2019 - https://api.discogs.com/releases/19771729
-...As You Wish Box Set - 2019 - https://api.discogs.com/masters/3111891
-Untitled - 2020 - https://api.discogs.com/releases/14878453
-Arkitekts - 2020 - https://api.discogs.com/releases/19474051
-Legal Ghost / Heaven - 2020 - https://api.discogs.com/masters/1787032
-The Forgotten Ones 2 (The Free Music, 2009​-​2021) - 2021 - https://api.discogs.com/releases/30805860
-Livestreams In Quarantine Warm Leather X Edition - 2022 - https://api.discogs.com/releases/23208515
-Day Of Mars - 2022 - https://api.discogs.com/releases/25562872
-Moonburn - 2022 - https://api.discogs.com/masters/2758499
-Live @ Friday Night Live (1980) - 2023 - https://api.discogs.com/releases/27702903
-Burning Down The House - 2024 - https://api.discogs.com/releases/29653870
-Found A Job - 2024 - https://api.discogs.com/releases/30702631
-The Engine's Running But The Petrol Tank Is Empty - Desconocido - https://api.discogs.com/releases/3311588
-This Must Be The Place (Native Melody) By Talking Heads - Desconocido - https://api.discogs.com/releases/32087847
-New Wave - Rock 'N' Roll - Get Behind It Before It Gets Past You. - 1977 - https://api.discogs.com/releases/1380531
-We Are Punk Generation = 決定盤!! これがパンクだ - 1977 - https://api.discogs.com/masters/1611807
-New Wave - 1977 - https://api.discogs.com/masters/102064
-Punk Collection - 1977 - https://api.discogs.com/masters/1720160
-American Waves! - 1978 - https://api.discogs.com/releases/2997332
-The Sire Records Story - 1978 - https://api.discogs.com/releases/8476110
-Disco Refrain "Punk Collection" - 1978 - https://api.discogs.com/releases/11243952
-The New Wave Punk Rock's Great Groups - 1978 - https://api.discogs.com/releases/16774548
-New Wave (Wer Hat Angst Vor Den 80er Jahren?) - 1979 - https://api.discogs.com/releases/531286
-Midem 79 - 1979 - https://api.discogs.com/releases/6638524
-Direct News - Week Of 9/10 - 9/14/79 - 1979 - https://api.discogs.com/releases/12818224
-American Top 40 (January 27, 1979) - 1979 - https://api.discogs.com/releases/14926739
-Knockout - 1979 - https://api.discogs.com/masters/393338
-Disco Rock FM - 1979 - https://api.discogs.com/masters/1676957
-Nu Muzik - 1980 - https://api.discogs.com/releases/480376
-New Wave Disco D'Ouro - 1980 - https://api.discogs.com/releases/1412620
-New New Rock - 1980 - https://api.discogs.com/releases/3495603
-Eclipse - 1980 - https://api.discogs.com/releases/5551633
-WEA Sampler Volume 2 - 1980 - https://api.discogs.com/releases/6201849
-Rock De Los 80's - 1980 - https://api.discogs.com/releases/8989961
-David Bowie A Look At The 70's - 1980 - https://api.discogs.com/releases/13704809
-Special Preview Of Selected Cuts From The Original Motion Picture Soundtrack "Times Square" A Robert Stigwood Production - 1980 - https://api.discogs.com/masters/525002
-Rolls Rock Ao Rubro - 1980 - https://api.discogs.com/masters/3447950
-The Original Motion Picture Soundtrack "Times Square"  - 1980 - https://api.discogs.com/masters/79036
-Street Wave - 1980 - https://api.discogs.com/masters/1093557
-Dancin' Master - 1981 - https://api.discogs.com/releases/952541
-O Pacotão - 1981 - https://api.discogs.com/releases/6963544
-Rock Of The 80's - Le Rock Des 80's - 1981 - https://api.discogs.com/releases/8530290
-Top Of The Pops - 851 - 1981 - https://api.discogs.com/releases/9896110
-The Robert Klein Radio Show (February 15, 1981) - 1981 - https://api.discogs.com/releases/14135883
-Happy Rock - O Máximo Da New Wave Vol. 1 - 1981 - https://api.discogs.com/releases/28914061
-Happy Rock - O Máximo Da New Wave - 1981 - https://api.discogs.com/masters/924398
-New Rock Champions - 1981 - https://api.discogs.com/masters/1233912
-Certified Gold - 1981 - https://api.discogs.com/masters/1002716
-Portable Music (Eight Songs From The Latest Albums By David Byrne, Jerry Harrison, Talking Heads, Tom Tom Club) - 1982 - https://api.discogs.com/releases/5163028
-Wordy Rapping With The Tom Tom Club - 1982 - https://api.discogs.com/releases/6516754
-The Name Of This Band Is Talking Heads - 1982 - https://api.discogs.com/releases/6558109
-SFX Issue No. 11 - 1982 - https://api.discogs.com/releases/7385893
-Promo Special #2 - 1982 - https://api.discogs.com/releases/8527173
-Rock Star Guest D.J. - 1982 - https://api.discogs.com/releases/14084839
-The Continuous History Of Rock And Roll Show #18 "Modern Rock" - 1982 - https://api.discogs.com/releases/14677633
-Hot Mix - 1982 - https://api.discogs.com/releases/19199656
-The Continuous History Of Rock And Roll Show No. Thirty-Seven: East Coast Rock - Part. 2 - 1982 - https://api.discogs.com/releases/26170832
-Rock Star Guest DJ - 1982 - https://api.discogs.com/releases/27765135
-Modern Rockers - 1982 - https://api.discogs.com/masters/705759
-Dance Rhythm 'N' Rock (New Music Seminar Mixer) - 1983 - https://api.discogs.com/releases/1508568
-4-Play: The Warner/Elektra/Atlantic Double Play Of Hits - 1983 - https://api.discogs.com/releases/4271042
-Rocktober '83 - 1983 - https://api.discogs.com/releases/4326291
-Dick Clark National Music Survey - 1983 - https://api.discogs.com/releases/7567693
-Guest D.J. - 1983 - https://api.discogs.com/releases/12511767
-Rock USA (Week Of December 31, 1983) - 1983 - https://api.discogs.com/releases/12657965
-Rock USA (Week Of November 26, 1983) - 1983 - https://api.discogs.com/releases/13127780
-Countdown America With John Leader - 1983 - https://api.discogs.com/releases/13637709
-American Top 40 With Casey Kasem 10/29/83 (Program #834-5) - 1983 - https://api.discogs.com/releases/14953647
-Rock USA (Week Of July 16, 1983) - 1983 - https://api.discogs.com/releases/15083851
-American Top 40 - 9/3/83 - 1983 - https://api.discogs.com/releases/15319982
-WEA In-Store Promotion - 1983 - https://api.discogs.com/releases/15475741
-Hot Stuff Fra Polygram (Sommeren '83) - 1983 - https://api.discogs.com/releases/15691996
-Rock USA (Week Of August 20, 1983) - 1983 - https://api.discogs.com/releases/15713601
-WEA Top Hits In The Summer ‘83 - 1983 - https://api.discogs.com/releases/22567766
-Guest D.J. - 1983 - https://api.discogs.com/releases/25350595
-Guest D.J. - 1983 - https://api.discogs.com/releases/31463801
-Radio Free America Volume 1 Program 18 - 1983 - https://api.discogs.com/releases/32795709
-Attack Of The Killer B's (Volume One) - 1983 - https://api.discogs.com/masters/765078
-The King Of Comedy - 1983 - https://api.discogs.com/masters/264156
-The Video Pool #7 (November '84) - 1984 - https://api.discogs.com/releases/3580124
-Video Show #32 - 1984 - https://api.discogs.com/releases/13435870
-Guest D.J. - 1984 - https://api.discogs.com/releases/13846604
-Guest D.J. Radio Broadcast  - 1984 - https://api.discogs.com/releases/15772749
-Rock Revolution - 1984 - https://api.discogs.com/releases/18946207
-Live Cuts #49 - 1984 - https://api.discogs.com/releases/22546928
-Rock USA (Week Of February 18, 1984) - 1984 - https://api.discogs.com/releases/28720207
-WEA Top 100 Vol. 11 - 1984 - https://api.discogs.com/releases/32098362
-Now That's What I Call Music II - 1984 - https://api.discogs.com/masters/3407911
-Revenge Of The Killer B's - 1984 - https://api.discogs.com/masters/457594
-More Adventures In Modern Sounds / WEA - Stars On CD - 1984 - https://api.discogs.com/masters/533484
-East Memphis Music - The Hits - 1984 - https://api.discogs.com/masters/752847
-Top 85 - 1984 - https://api.discogs.com/masters/871764
-Ronny's Pop Show  - 1985 - https://api.discogs.com/releases/1684683
-Digital Discovery - 1985 - https://api.discogs.com/releases/2454625
-Trailer Disc - 1985 - https://api.discogs.com/releases/4706651
-16 Top Hits - Aus Den Hitparaden 1985 Extra - 1985 - https://api.discogs.com/releases/5397396
-Hot Summer '85 - 1985 - https://api.discogs.com/releases/6283857
-Only For Dee Jays - 1985 - https://api.discogs.com/releases/8583918
-Wow! That's What I Call Music...(Vol.1) - 1985 - https://api.discogs.com/releases/9366302
-Get It On! The Hit Album - 1985 - https://api.discogs.com/releases/10041681
-Video Disco Show No. 34 November 1985 - 1985 - https://api.discogs.com/releases/14216407
-Volume 4 Number 44A - 1985 - https://api.discogs.com/releases/15308324
-Een En Al Muziek - 1985 - https://api.discogs.com/releases/15356648
-The Family - Morris Day - Scritti Politti - Talking Heads VHS (Stereo) - 1985 - https://api.discogs.com/releases/21780079
-Toyota Presents Dick Clark's American Bandstand's 33 1/3 Celebration - 1985 - https://api.discogs.com/releases/25614499
-Disco Promocional  - 1985 - https://api.discogs.com/releases/29258836
-WEA Top 30 Mid Price Cassettes - 1985 - https://api.discogs.com/releases/30423635
-Off The Record Hosted By Mary Turner - 1985 - https://api.discogs.com/releases/31129184
-Promo EMI Chile 40 - 1985 - https://api.discogs.com/releases/32418288
-No 1: The Hit Album - 1985 - https://api.discogs.com/releases/32905569
-Top '86 - 1985 - https://api.discogs.com/masters/858220
-Mixtime 2 - 1985 - https://api.discogs.com/masters/1218825
-Stop The Drop But Don't Stop The Bop - 1985 - https://api.discogs.com/masters/1335564
-Now This Is Music 3 - 1985 - https://api.discogs.com/masters/248366
-Video Clips - 1985 - https://api.discogs.com/masters/1837801
-Alternativa 3 - 1985 - https://api.discogs.com/masters/1535083
-The Tube - 1985 - https://api.discogs.com/masters/2135257
-¡Boom!  (El Disco De Los Exitos)  - 1985 - https://api.discogs.com/masters/1136412
-Super Hits '85 - 1985 - https://api.discogs.com/masters/835366
-NOW That's What I Call Music 5 - 1986 - https://api.discogs.com/releases/2412601
-England Hit's Special Remix Versions - 1986 - https://api.discogs.com/releases/2499330
-Rock Revolution - 1986 - https://api.discogs.com/releases/3320666
-Hit Run - 1986 - https://api.discogs.com/releases/3695663
-40 Jaar EMI Bovema - 1986 - https://api.discogs.com/releases/8178118
-The No. 1 Hit Album - 1986 - https://api.discogs.com/releases/11452872
-Off The Record Hosted By: Mary Turner - 1986 - https://api.discogs.com/releases/13996367
-American Top 40 With Casey Kasem (Week Ending November 8, 1986) - 1986 - https://api.discogs.com/releases/14573245
-Making History: A Warner Bros. Salute To WEA's 15th Anniversary - 1986 - https://api.discogs.com/releases/16006945
-Rock 'N' Roll To The Rescue - 1986 - https://api.discogs.com/releases/20286784
-American Top 40 (Week Ending In 11/22/86) - 1986 - https://api.discogs.com/releases/25758007
-W.E.A. Instore Promo Cassette No. 6 - 1986 - https://api.discogs.com/releases/26673077
-Music Trip 23 - 1986 - https://api.discogs.com/releases/33600381
-Music Factory Mastermix - Issue No. 10 - 1987 - https://api.discogs.com/releases/2847632
-EMI Instore Compilation No.2 - 1987 - https://api.discogs.com/releases/3794151
-Concert For The Children Of The Americas - 1987 - https://api.discogs.com/releases/7996360
-Instore Video Compilation (No.19) - 1987 - https://api.discogs.com/releases/9225497
-Super Top Hits, Vol. 5 - 1987 - https://api.discogs.com/releases/10758183
-Air Freshener - 1987 - https://api.discogs.com/releases/15838294
-Super Top Hits, Vol. 5 - 1987 - https://api.discogs.com/releases/22402978
-Rock Connections With Mike Harrison #50 - 1987 - https://api.discogs.com/releases/27391056
-Class X One - 1987 - https://api.discogs.com/masters/1084169
-November 88 - Mixes 1 - 1988 - https://api.discogs.com/releases/917411
-January 88 Mixes 2 - 1988 - https://api.discogs.com/releases/1213927
-EMI Hot Shots - Juni '88 - 1988 - https://api.discogs.com/releases/1528188
-New Wave Classics (אוסף להיטי גל חדש) - 1988 - https://api.discogs.com/releases/2669309
-The Club Video - 1988 - https://api.discogs.com/releases/2924895
-Album Network CD Tune Up #15 - 1988 - https://api.discogs.com/releases/7550100
-Difusión 011 - 1988 - https://api.discogs.com/releases/8563890
-My Top Ten - 1988 - https://api.discogs.com/releases/8570091
-Difusión 008 - 1988 - https://api.discogs.com/releases/9410179
-Rockwatch - 1988 - https://api.discogs.com/releases/10958382
-Music-Show On Video Oktober/November 1988 Programm 2 - 1988 - https://api.discogs.com/releases/12474219
-David Byrne's International Influences - 1988 - https://api.discogs.com/releases/13320370
-Happy 10th Anniversary KROQ 106.7 The ROQ of the 90's - 1988 - https://api.discogs.com/releases/13985433
-66A Progressive - 1988 - https://api.discogs.com/releases/15265972
-Video Disco Show No. 69 Oktober 1988 - 1988 - https://api.discogs.com/releases/15638857
-King Biscuit Flower Hour 15th Anniversary Celebration - 1988 - https://api.discogs.com/releases/18588904
-91X Happy 5th Anniversary Sampler - 1988 - https://api.discogs.com/releases/24741083
-Air Freshener Vol. 4 - 1988 - https://api.discogs.com/releases/24811130
-Instore Video Compilation (No.22) - 1988 - https://api.discogs.com/releases/30670345
-Greenpeace Rainbow Warriors - 1988 - https://api.discogs.com/masters/99221
-Class X One - 1988 - https://api.discogs.com/masters/249114
-The Best of Alternative - 1989 - https://api.discogs.com/releases/330697
-Music View - Radio's Alternative Talk Show  #61 & #62 - 1989 - https://api.discogs.com/releases/4829781
-CMJ 10 - The Best Of CMJ 1979 - 1989 Box set - 1989 - https://api.discogs.com/releases/10910724
-Classic Cuts (Week Of May 22, 1989) - 1989 - https://api.discogs.com/releases/14097676
-70E Lounge-O-Matic - 1989 - https://api.discogs.com/releases/20864734
-Live Cuts 1989 10 30 - 1989 - https://api.discogs.com/releases/28227112
-Greenpeace - Breakthrough 1 - 1989 - https://api.discogs.com/releases/33508880
-Left Of Center אוסף רוק אלטרנטיבה  - 1989 - https://api.discogs.com/masters/1398834
-Rolling Stone 20 Years Of Rock 'n' Roll - 1989 - https://api.discogs.com/masters/2630348
-Original Masters Radio Series 2 - 1990 - https://api.discogs.com/releases/13129051
-The Best Of 1980-1990 - 1990 - https://api.discogs.com/masters/108726
-80-להיטי שנות ה  Hits Of The 80's - 1990 - https://api.discogs.com/masters/1936932
-Rapido - 1991 - https://api.discogs.com/releases/6969780
-Cantina Video Network March 91 - 1991 - https://api.discogs.com/releases/7171898
-The Live Show - 1991 - https://api.discogs.com/releases/13423178
-Until The End Of The World (Music From The Motion Picture Soundtrack) - 1991 - https://api.discogs.com/releases/34012410
-Until The End Of The World (Original Motion Picture Soundtrack) - 1991 - https://api.discogs.com/masters/4778
-EMI Hot Shots Nr. 5/92 - 1992 - https://api.discogs.com/releases/1820769
-Now This Is Music - The Sound Of The 80's - Vol. 1 - 1992 - https://api.discogs.com/releases/1916165
-Expand-O CD Tune Up 19 - 1992 - https://api.discogs.com/releases/6318420
-Music-Show On Video November 1992 Teil 1 FNL - 1992 - https://api.discogs.com/releases/7691180
-80's Best - Vol 3, 85 89 - 1992 - https://api.discogs.com/releases/8566995
-Unforgettable...The First 25 Years - 1992 - https://api.discogs.com/releases/13295207
-Rock'n Up Sampler 1992.9-10 - 1992 - https://api.discogs.com/releases/20515147
-Stars On Video Show No. 119 Dezember 1992 - 1992 - https://api.discogs.com/releases/21562912
-World Cafe - Music With Latitude - Cruise Control Sampler - 1992 - https://api.discogs.com/releases/23184278
-Music 4 You - 1992 - https://api.discogs.com/releases/29597623
-Hear Music Sampler - Where Artists Guide You To Great Music - 1992 - https://api.discogs.com/releases/31572445
-The Best Punk Album In The World ... Ever! - 1992 - https://api.discogs.com/masters/123285
-Rock Stars Live In Concert - 1992 - https://api.discogs.com/masters/1332516
-The Flashback Four - Hits And Rarities - 1992 - https://api.discogs.com/masters/665417
-1983~1991 - 1993 - https://api.discogs.com/releases/394148
-10 Jaar Parels Voor De Zwijnen - 1993 - https://api.discogs.com/releases/3918716
-Power Dance - March 1993 - 1993 - https://api.discogs.com/releases/9306009
-Those Were The Days: The Eighties - 1993 - https://api.discogs.com/releases/10507971
-Live Over Germany - 1993 - https://api.discogs.com/releases/14403443
-The Classic Rock Performances In Concert - 1993 - https://api.discogs.com/releases/15333478
-The Rolling Stone Collection: 1982-1986 - 1993 - https://api.discogs.com/releases/25713712
-Unplugged - 1993 - https://api.discogs.com/releases/30682849
-Rockin' In The 70's: 1978 - 1993 - https://api.discogs.com/releases/33541644
-The Rolling Stone Collection - 25 Years Of Essential Rock - 1993 - https://api.discogs.com/masters/3192993
-Now That's What I Call Music! 1985 - 1993 - https://api.discogs.com/masters/1428682
-Unplugged - 1993 - https://api.discogs.com/masters/984294
-Rock Line 4 - 1993 - https://api.discogs.com/masters/681229
-Reservado - 1993 - https://api.discogs.com/masters/1848596
-Gold 80's - 1993 - https://api.discogs.com/masters/2569685
-Sounds Of The Seventies - Punk And New Wave - 1993 - https://api.discogs.com/masters/1068790
-Löwenbräu Rocks - 1993 - https://api.discogs.com/masters/1658819
-Hitbreaker 2/93 - Pop-News - 1993 - https://api.discogs.com/masters/3774434
-New Wave Hits - 1994 - https://api.discogs.com/releases/988653
-Festival Rock - 1994 - https://api.discogs.com/releases/1064187
-Tijdloze Honderd - 1994 - https://api.discogs.com/releases/1505497
-The Sound Of Magic David Copperfield - 1994 - https://api.discogs.com/releases/1600630
-70's Best Of De Woodstock Au Walkman - 1994 - https://api.discogs.com/releases/2869481
-Het Beste Uit De Top 100 Allertijden Editie '94 - 1994 - https://api.discogs.com/releases/3779551
-Totally 80's. 3 - 1994 - https://api.discogs.com/releases/4068758
-L'America Del Rock - 1994 - https://api.discogs.com/releases/4632386
-70's Best Of De Woodstock Au Walkman - 1994 - https://api.discogs.com/releases/7895067
-ONXRT: Live From The Archives, Volume 2 - 1994 - https://api.discogs.com/releases/8717278
-Hits Of The 80's - 1994 - https://api.discogs.com/releases/10072631
-The "A" List Disc 15 - 1994 - https://api.discogs.com/releases/18595249
-The Classic Rock Performances In Concert Live - 1994 - https://api.discogs.com/releases/22782377
-80's Best - 1994 - https://api.discogs.com/releases/26838452
-Hits Back 85/86 - 1994 - https://api.discogs.com/releases/27858999
-The Mentos Collection - 1994 - https://api.discogs.com/masters/817240
-Mo's Songs! - 1994 - https://api.discogs.com/masters/1888350
-Classic MTV:  Class Of 1983 - 1994 - https://api.discogs.com/masters/1278402
-La Nascita Del Punk E Della New Wave - 1994 - https://api.discogs.com/masters/1108639
-Once In A Lifetime - 1994 - https://api.discogs.com/masters/1436376
-The Ultimate Eighties (The Album Of The Decade) - 1994 - https://api.discogs.com/masters/1033208
-The Rock Club - 1994 - https://api.discogs.com/masters/790334
-SPAR - Endless Summer : 48 Original Hits - 1995 - https://api.discogs.com/releases/772520
-'N Onstuitbare Portie Monsterhits - 1995 - https://api.discogs.com/releases/1085336
-Was Het Nu 70 Of 80? - 1995 - https://api.discogs.com/releases/1214011
-Going Underground - 1995 - https://api.discogs.com/releases/1404414
-The Very Best Of Pop Music 1985-86 - 1995 - https://api.discogs.com/releases/1528317
-Tijdloze Honderd Vol 2 - 1995 - https://api.discogs.com/releases/2290158
-Drivetime 3 - 1995 - https://api.discogs.com/releases/2921512
-Michael Schumacher's Power Formel - 1995 - https://api.discogs.com/releases/3443724
-Sounds Of The Eighties 1982-1983 - 1995 - https://api.discogs.com/releases/3464303
-Sounds Of The Eighties 1980-1981 - 1995 - https://api.discogs.com/releases/3742778
-Het Beste Uit De Top 100 Allertijden - Editie '95 - 1995 - https://api.discogs.com/releases/5009799
-Sulle Strade Del Rock Vol. 5 - 1995 - https://api.discogs.com/releases/5299420
-The Blank Generation - 1995 - https://api.discogs.com/releases/7114097
-Probably 10 Of The Best Tracks - 1995 - https://api.discogs.com/releases/8355815
-Hit That Perfect Beat Volume 1 - 1995 - https://api.discogs.com/releases/8899545
-Hit That Perfect Beat Volume 2 - 1995 - https://api.discogs.com/releases/8899630
-Hit That Perfect Beat Volume 3 - 1995 - https://api.discogs.com/releases/8899708
-The Ultimate Music Collection  - 1995 - https://api.discogs.com/releases/8939141
-Everything '80s - 1995 - https://api.discogs.com/releases/9200727
-The Ultimate Music Collection 2 Pop - 1995 - https://api.discogs.com/releases/15983960
-The Ultimate Music Collection 1 Pop - 1995 - https://api.discogs.com/releases/16132710
-The Ultimate Music Collection 4 Pop - 1995 - https://api.discogs.com/releases/16132788
-Fast Forward 2 - 1995 - https://api.discogs.com/releases/22332820
-Fast Forward 2 - 24 Monster Hits - 1995 - https://api.discogs.com/releases/27214782
-The Best Rock Anthology - 1995 - https://api.discogs.com/releases/30386192
-Only Dance 1985-1989 - 1995 - https://api.discogs.com/masters/2560055
-Devolution (Alternative Rock Classics 1975-1985) - 1995 - https://api.discogs.com/masters/252374
-huH Magazine Salutes Jock Rock - 1995 - https://api.discogs.com/masters/1266473
-Club Classics - 1995 - https://api.discogs.com/masters/865136
-Rock Classics II - 1995 - https://api.discogs.com/masters/1401773
-Desert Island Collection - 1995 - https://api.discogs.com/masters/1139725
-Rock'N USA: 70's New Rock - 1995 - https://api.discogs.com/masters/2962543
-The Punk Album - 1995 - https://api.discogs.com/masters/732349
-Only Dance 1980-1984 - 1995 - https://api.discogs.com/masters/3605900
-The Fast 90s - 1995 - https://api.discogs.com/masters/3573236
-On The Road Again - 1995 - https://api.discogs.com/masters/2627192
-Drive Time - 1995 - https://api.discogs.com/masters/792520
-Best Sellers Of The 80's - Vol. 1 - 1996 - https://api.discogs.com/releases/701119
-30 Jaar Top Hits 1967-1997 - 1996 - https://api.discogs.com/releases/768997
-Rest Your Mind To The Music - 1996 - https://api.discogs.com/releases/821278
-Best Sellers Of The 80's - Vol. 3 - 1996 - https://api.discogs.com/releases/1071483
-Was Het Nu 70 Of 80? Vol 3 - 1996 - https://api.discogs.com/releases/1110262
-Party Power Pack Vol. 5 - 1996 - https://api.discogs.com/releases/1708213
-Hot Hits Of The 90's Vol.1 - 1996 - https://api.discogs.com/releases/2237794
-Chart Hit History - 1996 - https://api.discogs.com/releases/2416739
-WEA: Twenty-Fifth Anniversary - 1996 - https://api.discogs.com/releases/2416988
-80's Super Hits - 1996 - https://api.discogs.com/releases/2429980
-90's Super Hits - 1996 - https://api.discogs.com/releases/2430864
-Wave - The Biggest New Wave Hits - 1996 - https://api.discogs.com/releases/3463818
-Rock Collection - 1996 - https://api.discogs.com/releases/4550049
-The Best Of Rock Music II - 1996 - https://api.discogs.com/releases/4567526
-The No. 1 Eighties Album - 1996 - https://api.discogs.com/releases/4690562
-Classic Rock: 1980-1981 - 1996 - https://api.discogs.com/releases/4918531
-L.S.C - Levi's Stretch Cash - 1996 - https://api.discogs.com/releases/6341124
-White & Soul - 1996 - https://api.discogs.com/releases/6343064
-The Very Best Of Rock (1984-86) - 1996 - https://api.discogs.com/releases/6360778
-B.L.A.S.T. Modern Rock Program #17 - 1996 - https://api.discogs.com/releases/7530014
-The Best Rock Album In The World Ever - 1996 - https://api.discogs.com/releases/7687344
-Rock Of Gods - 1996 - https://api.discogs.com/releases/8318904
-Ultimate Rock - 1996 - https://api.discogs.com/releases/8326142
-Sex Drugs  & Rock 'n Roll - 1996 - https://api.discogs.com/releases/9403293
-Le son est sur 21 (Emi Belgium Félicite Radio 21 pour 15 ans de grande musique et participe à la fête) - 1996 - https://api.discogs.com/releases/10742677
-Spiked 18 New Wave And Punk Classics - 1996 - https://api.discogs.com/releases/11432276
-Dancing In The Street: Hang Onto Yourself Vol 3 - 1996 - https://api.discogs.com/releases/11712608
-80's Hits - 1996 - https://api.discogs.com/releases/12185274
-US Rockin'on - 1996 - https://api.discogs.com/releases/12757826
-Stars & Stripes  Volume 1 - 1996 - https://api.discogs.com/releases/14385573
-The Rifle Collection - 1996 - https://api.discogs.com/releases/14891756
-Belgacom Collection Volume 2 Rock - 1996 - https://api.discogs.com/releases/14901616
-Hot - Die Musik Zur Sommerparty - 1996 - https://api.discogs.com/releases/25525852
-Top Ten Hits Of The 80's - 1996 - https://api.discogs.com/releases/28380148
-Blowout (18 Of The Best Indie Sounds) - 1996 - https://api.discogs.com/releases/28472881
-The Best Rock Album In The World… Ever! - 1996 - https://api.discogs.com/releases/30222566
-Verdad Consecuencia La Musica De - 1996 - https://api.discogs.com/releases/30267494
-Just The Best - 1996 - https://api.discogs.com/masters/3780833
-Stars On The Road - 1996 - https://api.discogs.com/masters/3094854
-The Leading Man (Original Motion Picture Soundtrack) - 1996 - https://api.discogs.com/masters/3352921
-The Number One Acoustic Rock Album - 1996 - https://api.discogs.com/masters/2363938
-Everybody Loves...The 80's Vol. I - 1996 - https://api.discogs.com/masters/1387538
-Torhout Werchter 1977-1996 - 1996 - https://api.discogs.com/masters/982039
-Top Gear - On The Road Again - 1996 - https://api.discogs.com/masters/1500279
-Hit The Road With... Drive - 1996 - https://api.discogs.com/masters/1451754
-Pop & Wave Vol. 6 - A Reflection On The 80's - 1996 - https://api.discogs.com/masters/550772
-Untitled - 1996 - https://api.discogs.com/masters/980968
-Be There Now - 1997 - https://api.discogs.com/releases/537794
-The Best Of '80-'90 Vol. 12 - 1997 - https://api.discogs.com/releases/728332
-Musikexpress  9 - 1997 - https://api.discogs.com/releases/927062
-8 Bedste Nr. 5 - 1997 - https://api.discogs.com/releases/1044577
-...And We Drove All Night - 1997 - https://api.discogs.com/releases/2037254
-Lipstick, Powder & Paint: The New Romantics - 1997 - https://api.discogs.com/releases/2049731
-Eighties Complete - 1997 - https://api.discogs.com/releases/2387674
-Torhout Werchter / 21 - 1997 - https://api.discogs.com/releases/2870836
-The Rock Masterpieces Vol. 2 - 1997 - https://api.discogs.com/releases/3161950
-Now The Music - The Live Experience - 1997 - https://api.discogs.com/releases/3832224
-Classic Rock: 1984-1985 - 1997 - https://api.discogs.com/releases/4805313
-Classic Rock: 1986 - 1997 - https://api.discogs.com/releases/4900619
-1983 - Die Stars, Die Hits, Die Facts - 1997 - https://api.discogs.com/releases/5143704
-1985 - Die Stars, Die Hits, Die Facts - 1997 - https://api.discogs.com/releases/5143795
-Essential Eighties - 1997 - https://api.discogs.com/releases/5295988
-Les Années 80 + Mode D'Emploi Tome 2 - 1997 - https://api.discogs.com/releases/5455436
-American Rock '97 - 1997 - https://api.discogs.com/releases/5543569
-New Wave Classics - The Biggest New Wave Hits - 1997 - https://api.discogs.com/releases/5811587
-Brut Original Generation - 1997 - https://api.discogs.com/releases/6487432
-Retro-Spective - EMI Catalogue Conference Sampler 1997 - 1997 - https://api.discogs.com/releases/6648789
-World's Greatest Live Album - 1997 - https://api.discogs.com/releases/7205769
-Permanent Revolution: From Disco Fever To The New Romantics - 1997 - https://api.discogs.com/releases/7931919
-Pop In Motion - 1997 - https://api.discogs.com/releases/7937583
-Vilde Riis - 1997 - https://api.discogs.com/releases/8063142
-New Beetle (Hits On CD) - 1997 - https://api.discogs.com/releases/8502934
-Het Nieuwsblad/De Gentenaar - Volume 1 - 1997 - https://api.discogs.com/releases/8634769
-Party Hits Vol. 3 (Παρέα με Bacardi) - 1997 - https://api.discogs.com/releases/10178356
-Essential 80's - 1997 - https://api.discogs.com/releases/11588118
-Race Tracks Music On The Move - 1997 - https://api.discogs.com/releases/11886309
-The No.1 Drive Album - 1997 - https://api.discogs.com/releases/12385701
-Steppin' out - 1997 - https://api.discogs.com/releases/13987102
-Años 90 I - 1997 - https://api.discogs.com/releases/14116275
-El Mejor Álbum De Modern Rock En El Mundo - 1997 - https://api.discogs.com/releases/18239632
-Años 80∙V - 1997 - https://api.discogs.com/releases/18495847
-Años 80 VIII - 1997 - https://api.discogs.com/releases/20596600
-Drive On - 1997 - https://api.discogs.com/releases/21272554
-Spirit Of America : 18 Classic Tracks From The Heart Of The U.S.A. - 1997 - https://api.discogs.com/releases/26670197
-Greatest Fame Music Popsongs, Part 3 - 1997 - https://api.discogs.com/releases/29321254
-Spirit Of America - 1997 - https://api.discogs.com/masters/1892523
-A Time To Remember 1988 - 1997 - https://api.discogs.com/masters/1251521
-Softrock Collected - 1997 - https://api.discogs.com/masters/1665350
-In Concert - 14 Live Tracks - 1997 - https://api.discogs.com/masters/3363295
-New Wave Classics - 1997 - https://api.discogs.com/masters/395865
-Totally Rock: The Essential Rock Album - 1997 - https://api.discogs.com/masters/1682073
-A Time To Remember 1984 - 1997 - https://api.discogs.com/masters/942782
-Top Gear Anthems - 1997 - https://api.discogs.com/masters/3437285
-A Time To Remember 1986 - 1997 - https://api.discogs.com/masters/1420642
-Classic Rock: Overdrive - 1997 - https://api.discogs.com/masters/3280264
-Pophits Of The 80's - 1997 - https://api.discogs.com/masters/1615298
-A Time To Remember 1987 - 1997 - https://api.discogs.com/masters/1197562
-A Time To Remember 1985 - 1997 - https://api.discogs.com/masters/1197571
-Reel Music (The Coolest Sounds From The Greatest Movies) - 1997 - https://api.discogs.com/masters/1195678
-Going Underground - 1997 - https://api.discogs.com/masters/1177293
-The Best Of The 80's - 1997 - https://api.discogs.com/masters/3589838
-Original Best Of Pop - 1997 - https://api.discogs.com/masters/1728427
-Blowout -18 Of The Best Indie Sounds - 1998 - https://api.discogs.com/releases/412740
-100 Superhits From The 80's - 1998 - https://api.discogs.com/releases/616610
-40 Hits 1980-1984 - 1998 - https://api.discogs.com/releases/808790
-Hits Of The 80's - 1998 - https://api.discogs.com/releases/1152044
-Tijdloze Honderd Vol 4 - 1998 - https://api.discogs.com/releases/2154672
-Xtra 80's Hits - 1998 - https://api.discogs.com/releases/2474425
-Retro 70's & 80's Volume 2 - 1998 - https://api.discogs.com/releases/2563737
-New Wave The Classics - 1998 - https://api.discogs.com/releases/3186133
-The Eighties - 1998 - https://api.discogs.com/releases/3563193
-Essential Eighties 3 - 1998 - https://api.discogs.com/releases/5275363
-The World's Best Ever Beer Songs - 1998 - https://api.discogs.com/releases/5443726
-Kneipen Hits - Die Zweite - 1998 - https://api.discogs.com/releases/6150439
-Original Rock N°1 - 1998 - https://api.discogs.com/releases/6635450
-Original Rock N°5 - 1998 - https://api.discogs.com/releases/6656003
-Classic 80s - 1998 - https://api.discogs.com/releases/6854375
-Made In The U.S.A. - 1998 - https://api.discogs.com/releases/6855358
-The 80s: Volume 5 - 1998 - https://api.discogs.com/releases/6869712
-Rock Ballads Forever - 1998 - https://api.discogs.com/releases/6917451
-Cult Rockers: Rebels - 1998 - https://api.discogs.com/releases/7700808
-Roadsongs - 1998 - https://api.discogs.com/releases/7990699
-World's Greatest Live Tour - 1998 - https://api.discogs.com/releases/8376049
-Drivetime - 1998 - https://api.discogs.com/releases/10779668
-Vital Dance May 1998 - 1998 - https://api.discogs.com/releases/11166036
-The 80s - 1998 - https://api.discogs.com/releases/11296662
-Hoorns Open 1998 - 1998 - https://api.discogs.com/releases/11830575
-Video Hits Past Hits Volume 3 - 1998 - https://api.discogs.com/releases/11995032
-A Complete History - 1998 - https://api.discogs.com/releases/12040217
-Une Histoire Du Rock Indépendant - 1998 - https://api.discogs.com/releases/12392251
-90's Chartbreakers - 1998 - https://api.discogs.com/releases/13155106
-The Awesome 80's - 1998 - https://api.discogs.com/releases/13373203
-Pop Beats 3 (Series 2 Volume 3) - 1998 - https://api.discogs.com/releases/14428501
-The Best Ever Eighties Album - 1998 - https://api.discogs.com/releases/14654464
-Novotel Plugged - 1998 - https://api.discogs.com/releases/15793960
-Ice Tracks - 1998 - https://api.discogs.com/releases/18791893
-Hits On Movies (Le Piu' Grandi Canzoni Del Cinema) - 1998 - https://api.discogs.com/releases/21488629
-Dance Club Retro Volume Four (Pop Beats) - 1998 - https://api.discogs.com/releases/21976702
-The Album Network's 20th Anniversary CD: A Rock Retrospective ... 20 Years Of Powercuts - 1998 - https://api.discogs.com/releases/27028671
-The Amazin' 80's With M.G. Kelly - 1998 - https://api.discogs.com/releases/27626190
-Original Rock Volume 1 - 1998 - https://api.discogs.com/releases/29894761
-Verano Blockbuster '98 - 1998 - https://api.discogs.com/releases/32633256
-The Best...Rock Anthems...Ever! - 1998 - https://api.discogs.com/masters/1845506
-Vampiri - 1998 - https://api.discogs.com/masters/2102542
-Greatest Hits Of The 80's - 1998 - https://api.discogs.com/masters/85326
-Greatest Hits Of The 80's - 1998 - https://api.discogs.com/masters/1183429
-Cult Classics From The 80's - 1999 - https://api.discogs.com/releases/221284
-Totally Awesome 80s (1986-1989) - 1999 - https://api.discogs.com/releases/701571
-Unconditionally Guaranteed Volume 9 October 1999 (Uncut's Guide To The Month's Best Music) - 1999 - https://api.discogs.com/releases/744042
-Simply The Best Of The 80's - 1999 - https://api.discogs.com/releases/755799
-Millennium Hits 1980-1989 Rock - 1999 - https://api.discogs.com/releases/1130038
-80s - 1999 - https://api.discogs.com/releases/1295326
-Hits Of The Century 80's - 1999 - https://api.discogs.com/releases/1446666
-12x12 Original Remixes - 1999 - https://api.discogs.com/releases/1476021
-Het Beste Uit De Top 100 Allertijden Editie '99 - 1999 - https://api.discogs.com/releases/1637405
-Monster Hits (Fright Night Bone Shaker Party) - 1999 - https://api.discogs.com/releases/1695545
-Millennium Party - 1999 - https://api.discogs.com/releases/1862075
-80's Revival - 1999 - https://api.discogs.com/releases/2344733
-Te Quiero Y Simplemente Deseo - 1999 - https://api.discogs.com/releases/2403533
-Now That's What I Call Music! 1986: The Millennium Series - 1999 - https://api.discogs.com/releases/2584780
-Loss Leaders 2 - 1999 - https://api.discogs.com/releases/3336673
-Reflex Of The 80's - 1999 - https://api.discogs.com/releases/4290442
-Wickie, Slime Und Paiper • Vol. 1 - 1999 - https://api.discogs.com/releases/4314587
-All Time Greatest Hits Volume 6 - 1999 - https://api.discogs.com/releases/4336010
-Grønne 80'er Hits - 1999 - https://api.discogs.com/releases/4374276
-Kneipen Hits - 80's Wave Classics - 1999 - https://api.discogs.com/releases/4755723
-Hits Der 80er Jahre (Die Größten Hits Aus Dem Besten Musikjahrzehnt) - 1999 - https://api.discogs.com/releases/4847338
-Μουσικό Λεύκωμα 1984 - 1999 - https://api.discogs.com/releases/4871080
-Μουσικό Λεύκωμα 1988 - 1999 - https://api.discogs.com/releases/4882213
-Μουσικό Λεύκωμα 1991 - 1999 - https://api.discogs.com/releases/4882352
-Pottþétt 80's - 1999 - https://api.discogs.com/releases/4999586
-Il Était Une Fois Le 20ème Siècle 1980-1989 (10 Années De Sport, Actualités Et Chansons) - 1999 - https://api.discogs.com/releases/5011697
-The World's Best Ever Beer Songs 2 - 1999 - https://api.discogs.com/releases/6528354
-Greatest Hits Of The 80's (Cd8) - 1999 - https://api.discogs.com/releases/7241654
-EMI Catalogue Sales Conference Sampler Spring 1999 - 1999 - https://api.discogs.com/releases/8097937
-Storage - Music For Better Living - 1999 - https://api.discogs.com/releases/8389062
-Hits Of The 80's - 1999 - https://api.discogs.com/releases/8581586
-Alternative Anthems - 1999 - https://api.discogs.com/releases/8772649
-Ultimate 80's - 19 BIG POP HITS - 1999 - https://api.discogs.com/releases/8828491
-IDEmøbler - 30 År På Toppen - 1999 - https://api.discogs.com/releases/9429030
-Millennium Pop Box CD 3 - 1999 - https://api.discogs.com/releases/9443015
-Shout To The Top - 80s Pop Classics - 1999 - https://api.discogs.com/releases/10232978
-Sound Music Power 1 - 1999 - https://api.discogs.com/releases/10427204
-Sound Music Power 3 - 1999 - https://api.discogs.com/releases/10452625
-Pop Classics 3 - 1999 - https://api.discogs.com/releases/11021992
-The Best Driving Album In The World...Ever! - 1999 - https://api.discogs.com/releases/11292782
-The Best Beer Drinking Songs In The World...Ever! - 1999 - https://api.discogs.com/releases/11600216
-The Millennium-CD - 1999 - https://api.discogs.com/releases/12845878
-Popular 1 25 Aniversario - 1999 - https://api.discogs.com/releases/12977297
-Grandes Éxitos Del Milenio - 1999 - https://api.discogs.com/releases/12980282
-Totally Pop: The Essential Pop Album - 1999 - https://api.discogs.com/releases/13028148
-Pop Complete - 1999 - https://api.discogs.com/releases/13262706
-Soft Rock Classics - 1999 - https://api.discogs.com/releases/13858224
-It's The Best Rock Album - 1999 - https://api.discogs.com/releases/14151091
-1980-1989 10 Années De Chansons Et De Sport - 1999 - https://api.discogs.com/releases/14202488
-Triple M's Best Ever Driving Songs - 1999 - https://api.discogs.com/releases/14689274
-Disco Total - 45 Exitos de una epoca - 1999 - https://api.discogs.com/releases/14935313
-The Mix - 285 - 1999 - https://api.discogs.com/releases/15003382
-The Best Ever Footy Album - 1999 - https://api.discogs.com/releases/15285315
-Nina Blackwood's Absolutely 80s (Show #99-20) - 1999 - https://api.discogs.com/releases/15549822
-The Millennium Collection (The Best Of Pop Music Of The 20th Century) - 1999 - https://api.discogs.com/releases/16300843
-Movie Hits - 1999 - https://api.discogs.com/releases/18298579
-Non-Stop Eighties Party - 1999 - https://api.discogs.com/releases/21484327
-Rock & Pop Feelings: On The Road (Top-Songs, Die Auf Touren Bringen) - 1999 - https://api.discogs.com/releases/22237726
-Peter's Pop Hits 86-87 - 1999 - https://api.discogs.com/releases/22254004
-Top Of The Pops -Volume 4 1984-1987 - 1999 - https://api.discogs.com/releases/22476317
-Rock The 100 - 1999 - https://api.discogs.com/releases/25079545
-Hyperactive The Ultimate 80s Collection - 1999 - https://api.discogs.com/releases/25607812
-Honoring Seymour Stein - 1999 - https://api.discogs.com/releases/26723195
-Unrocking Believable - 92.9 RTL Wien - 1999 - https://api.discogs.com/releases/27194859
-Classic Hits Of The 80’s - 1999 - https://api.discogs.com/releases/27285927
-Breaka - Makes Your Break - 1999 - https://api.discogs.com/releases/27689580
-Millennium Hits 1980-1989 (Pop · Love · Rock & Eigen Bodem) - 1999 - https://api.discogs.com/releases/30273998
-Rockin' Through The Decades Vol. 2 - 1999 - https://api.discogs.com/releases/31405847
-Superhits Of The 80's - 1999 - https://api.discogs.com/masters/1196159
-Party Pack (90 Party Favourites From The 60s 70s 80s & 90s) - 1999 - https://api.discogs.com/masters/3709758
-Eighties Complete Volume 2 - 1999 - https://api.discogs.com/masters/2596028
-Now That's What I Call Music! 1985: The Millennium Series - 1999 - https://api.discogs.com/masters/1283757
-Music Of The Millennium - 1999 - https://api.discogs.com/masters/63373
-Cinema Millennium (L'Album Di Colonne Sonore Più Bello Del Mondo) - 1999 - https://api.discogs.com/masters/1617844
-105 Millennium Compilation - 1999 - https://api.discogs.com/masters/3878878
-80's Pilgrimage - Volume 2 - 2000 - https://api.discogs.com/releases/370102
-Greatest Hits Of The 70's 80's 90's - 2000 - https://api.discogs.com/releases/373229
-20 Jahre U4 - 2000 - https://api.discogs.com/releases/430289
-Pop @ Planet Earth - 2000 - https://api.discogs.com/releases/726817
-The Best Pub Jukebox In The World ...Ever! - 2000 - https://api.discogs.com/releases/863702
-New Wave - Sound Waves - 2000 - https://api.discogs.com/releases/967661
-Greatest Hits Of The 80's 2 - 2000 - https://api.discogs.com/releases/1134032
-Greatest Hits Of The 80's 4 - 2000 - https://api.discogs.com/releases/1134083
-Pop & Wave (The Long Versions) - 2000 - https://api.discogs.com/releases/1530185
-Best Of The Eighties (108 Original Hits) - 2000 - https://api.discogs.com/releases/1854728
-New Wave - New Romantics - 2000 - https://api.discogs.com/releases/2226239
-Pop & Wave · The Classics - 2000 - https://api.discogs.com/releases/2368495
-Chivas Regal Collection No 3 - 2000 - https://api.discogs.com/releases/2713164
-New York Punk - 2000 - https://api.discogs.com/releases/3305006
-Random Noise - 2000 - https://api.discogs.com/releases/3713146
-Sampler Mid-Price Septiembre 2000 - 2000 - https://api.discogs.com/releases/4136406
-Hits @ Planet Earth - 2000 - https://api.discogs.com/releases/4678187
-Best Of The 80's - 2000 - https://api.discogs.com/releases/5791379
-New Wave Hits The Best Of New Wave Hits - 2000 - https://api.discogs.com/releases/5797936
-Pop Mix - Hits Of The Century 80's - 2000 - https://api.discogs.com/releases/6992064
-Feesten & Fuiven Pop - 2000 - https://api.discogs.com/releases/7318384
-Music Box (Los 60 Éxitos De La Historia Del Pop) - 2000 - https://api.discogs.com/releases/7834957
-Músicas Da Década De 80 - 2000 - https://api.discogs.com/releases/8030692
-More Greatest Hits Of The 80's 4 - 2000 - https://api.discogs.com/releases/8064880
-Rock @ Planet Earth - 2000 - https://api.discogs.com/releases/8214623
-Rock & Pop Superstars - 2000 - https://api.discogs.com/releases/8458454
-His Master's Voice - 70's - 2000 - https://api.discogs.com/releases/8747965
-The Best Ever Songs With Attitude - 2000 - https://api.discogs.com/releases/9680508
-On The Road Music - 2000 - https://api.discogs.com/releases/9797357
-Berlinale 2000 Vol. 2 (Original Music From 50 Years Of Internationale Filmfestspiele Berlin - Songs & Sounds) - 2000 - https://api.discogs.com/releases/9899828
-Essential 80's - 2000 - https://api.discogs.com/releases/11056744
-Romantic Rock & Love Ballads - 2000 - https://api.discogs.com/releases/11264831
-Dinamita. Las 40 Mejores Canciones Del Power Pop - 2000 - https://api.discogs.com/releases/11404842
-The Atlantis Rock Collection - 2000 - https://api.discogs.com/releases/12856215
-Feesten & Fuiven - 2000 - https://api.discogs.com/releases/13621009
-Disco Total 2 - 45 Grandes Éxitos - 2000 - https://api.discogs.com/releases/14093234
-The Best Beer Drinking Songs In The World...Ever! Volume 2 - 2000 - https://api.discogs.com/releases/15177074
-Gold CD 3 + 4 - 2000 - https://api.discogs.com/releases/15419247
-The World's Best Ever Beer Songs 3 - 2000 - https://api.discogs.com/releases/15443069
-Le Canzoni Del Secolo - 10 - 2000 - https://api.discogs.com/releases/15502455
-Grupo Ayuso. Números 1 - 2000 - https://api.discogs.com/releases/16586262
-The Radio Essential Series - 2000 - https://api.discogs.com/releases/18673987
-Audico  - 2000 - https://api.discogs.com/releases/19193761
-Essential 80's - CD1 - 2000 - https://api.discogs.com/releases/21053128
-A Bridge To Music (Bouwdienst 10 Jaar 1990-2000) - 2000 - https://api.discogs.com/releases/22911791
-Greatest 80s Pop - 18 Fantastic Hits! - 2000 - https://api.discogs.com/releases/23580899
-Planters Classic Rock - 2000 - https://api.discogs.com/releases/32247594
-Capital Collection 80's - 2000 - https://api.discogs.com/masters/3401815
-The Family Man (Music From The Motion Picture) - 2000 - https://api.discogs.com/masters/489634
-The Best Of The Best Of The Best - 2000 - https://api.discogs.com/masters/1550569
-More Greatest Hits Of The 80's - 2000 - https://api.discogs.com/masters/348494
-Rock and Pop Moods: On The Road - 2000 - https://api.discogs.com/masters/1271695
-The Very Best Of Pop & Wave - 2001 - https://api.discogs.com/releases/774722
-Was Het Nu 70, 80 Of 90?  File 4 - 2001 - https://api.discogs.com/releases/970117
-Was Het Nu 70, 80 Of 90?  File 3 - 2001 - https://api.discogs.com/releases/970148
-Was Het Nu 70, 80 Of 90?  File 2 - 2001 - https://api.discogs.com/releases/987694
-Howie Loves WBR - 2001 - https://api.discogs.com/releases/1506118
-The Art Of Pop - Pulp Culture - 2001 - https://api.discogs.com/releases/1788544
-Top 40 Hitdossier 1985-1986 - 2001 - https://api.discogs.com/releases/1849286
-Formel Eins - Die Kulthits - 2001 - https://api.discogs.com/releases/1885549
-Vuelve Al Sábado Noche (Los 80 De Los 80) - 2001 - https://api.discogs.com/releases/1990356
-The Sound Of The 80s - 2001 - https://api.discogs.com/releases/2004410
-DMC Presents DJ Only #29 - 2001 - https://api.discogs.com/releases/2132770
-Untitled - 2001 - https://api.discogs.com/releases/3001176
-New Wave Generation - Plugged In - 2001 - https://api.discogs.com/releases/3310392
-Kneipen Hits - Pop & Wave - 2001 - https://api.discogs.com/releases/3371095
-Top 40 Hitdossier 1977-1978 - 2001 - https://api.discogs.com/releases/3540593
-Simply The Best Of Rock - 2001 - https://api.discogs.com/releases/3733152
-Die Ultimative 80er Fete - Die Zweite - 2001 - https://api.discogs.com/releases/3888635
-Halloween - 2001 - https://api.discogs.com/releases/4291540
-Oor 1981 - 1990 10 Jaar Popmuziek - 2001 - https://api.discogs.com/releases/4387192
-Dance Sampler 3 - 2001 - https://api.discogs.com/releases/4742812
-Oor 1971 - 1980 10 Jaar Popmuziek - 2001 - https://api.discogs.com/releases/5304539
-The Best Of The 80s - 54 Original 80s Classics - 2001 - https://api.discogs.com/releases/5376939
-Oor - Het Album : 30 Jaar Popmuziek - 2001 - https://api.discogs.com/releases/6620911
-80's Pop Generation - Slippery People - 2001 - https://api.discogs.com/releases/6695246
-Soft Rock Collection - 2001 - https://api.discogs.com/releases/8023625
-Totally New Wave - The Essential New Wave Album - 2001 - https://api.discogs.com/releases/8401748
-Kneipen Hits - More Rock Classics - 2001 - https://api.discogs.com/releases/9402021
-Pop - 2001 - https://api.discogs.com/releases/9528914
-The World's Best Ever Beer Songs (Summer 2001) - 2001 - https://api.discogs.com/releases/9890152
-En Directo (El Concierto Más Grande Del Mundo) - 2001 - https://api.discogs.com/releases/10089057
-Big Hits 1980-2000 Rock - 2001 - https://api.discogs.com/releases/10268959
-538 DJ's Choice - Erik de Zwart - 2001 - https://api.discogs.com/releases/10637321
-HitDisc 429D - 2001 - https://api.discogs.com/releases/12336429
-Totally 80's Remixed - 2001 - https://api.discogs.com/releases/12934644
-HMV - The Greatest Eighties Collection - 2001 - https://api.discogs.com/releases/13378463
-HMV - The Greatest Driving Rock Collection - 2001 - https://api.discogs.com/releases/13382514
-Immortal Rock 1985 - 2001 - https://api.discogs.com/releases/13955475
-Hot Video Classics - The Best of 80-83 Vol. 1 (US Version) - 2001 - https://api.discogs.com/releases/14382382
-Music Info 005 - 2001 - https://api.discogs.com/releases/14593236
-Pop Gold - 2001 - https://api.discogs.com/releases/14835402
-Las Cien De La 100 (Las Mejores Canciones De La Historia De La Musica) - 2001 - https://api.discogs.com/releases/14935346
-Gen 101.5 Radio De Clásicos - 2001 - https://api.discogs.com/releases/15750445
-Wahnsinns Hits - 2001 - https://api.discogs.com/releases/23068559
-The Best Campus Anthems...Ever! - 2001 - https://api.discogs.com/releases/23776919
-Rock Gold - 2001 - https://api.discogs.com/releases/23919845
-Vital Classics Volume #33 - DJ Picks #1 - 2001 - https://api.discogs.com/releases/23965832
-Never Enough - Warner Sampler Autumn 2001 - 2001 - https://api.discogs.com/releases/25842868
-Original Hits 90's - 2001 - https://api.discogs.com/releases/26935958
-Soft Rock - 2001 - https://api.discogs.com/releases/26942621
-1000 Original Hits 80's - 2001 - https://api.discogs.com/releases/30852687
-MTV Ibiza 2001 - 2001 - https://api.discogs.com/releases/31139561
-Vitamine CD - 2001 - https://api.discogs.com/releases/32675691
-Best Of New Wave - 2001 - https://api.discogs.com/masters/380974
-Greatest Hits - 2001 - https://api.discogs.com/masters/1261636
-Rock Heroes (Original Hits & Video Clips) - 2001 - https://api.discogs.com/masters/1259619
-Rough Trade Shops - 25 Years - 2001 - https://api.discogs.com/masters/1343758
-80's - 2001 - https://api.discogs.com/masters/1403219
-MTV Ibiza 2001 - 2001 - https://api.discogs.com/masters/80380
-Abstract Funk Theory - 2001 - https://api.discogs.com/masters/104972
-The Art Of Pop - Television Man - 2001 - https://api.discogs.com/masters/2790098
-1000 Original Hits 1984 - 2001 - https://api.discogs.com/masters/867118
-Music Of The Millennium II - 2001 - https://api.discogs.com/masters/119643
-Best Of Driving Rock - 2001 - https://api.discogs.com/masters/1311579
-1000 Original Hits 1985 - 2001 - https://api.discogs.com/masters/852874
-The Art Of Pop - Wild Wild Life - 2001 - https://api.discogs.com/masters/726142
-1000 Original Hits 1992 - 2001 - https://api.discogs.com/masters/1191043
-Classic Rock - 2001 - https://api.discogs.com/masters/3708072
-Grass Roots (Musical Influences And Inspiration) - 2001 - https://api.discogs.com/masters/159066
-Cruisin' - 2001 - https://api.discogs.com/masters/1806026
-The Old Grey Whistle Test - 2001 - https://api.discogs.com/masters/300754
-Cabrio Feeling - 2001 - https://api.discogs.com/masters/1507125
-The World's Absolute Best Ever Beer Songs - 2002 - https://api.discogs.com/releases/471372
-New Waves In Music - 2002 - https://api.discogs.com/releases/784846
-António Sérgio apresenta Som Da Frente 1982-1986 - 2002 - https://api.discogs.com/releases/875313
-Empire: 2002 The Hottest Soundtracks ... Now! - 2002 - https://api.discogs.com/releases/1635157
-Let's Party - 2002 - https://api.discogs.com/releases/1726659
-Greatest Hits Of The 80s CD 2 - 2002 - https://api.discogs.com/releases/1764357
-Pop - 2002 - https://api.discogs.com/releases/2380726
-1986 - Where Were You? - 2002 - https://api.discogs.com/releases/3413901
-Formel Eins - The 80's Party - 2002 - https://api.discogs.com/releases/3453642
-Alternative Eighties Vol. 01 - 2002 - https://api.discogs.com/releases/3601016
-Las 100 Canciones Más Rolling De La Historia - 2002 - https://api.discogs.com/releases/3916825
-VH1 Presents Classic Tracks - 2002 - https://api.discogs.com/releases/4069190
-The Best Of Punk & New Wave - 2002 - https://api.discogs.com/releases/4129124
-Classic Cuts 92 - Halloween - 2002 - https://api.discogs.com/releases/4505468
-The Best Of The Eighties - 2002 - https://api.discogs.com/releases/4682647
-Rock And Roll Hall Of Fame Foundation, Inc.: Seventeenth Annual Election Nominees - 2002 - https://api.discogs.com/releases/4972771
-The Sound Of The City: New York - 2002 - https://api.discogs.com/releases/5586664
-The Best Of Rock - 2002 - https://api.discogs.com/releases/6789163
-Radio 2 Top 2000 - 2002 - https://api.discogs.com/releases/7124699
-Greatest Hits Of The 80s CD 4 - 2002 - https://api.discogs.com/releases/7138768
-80's Generation - 2002 - https://api.discogs.com/releases/7738795
-Singers And Songwriters - 1980 - 1986 - 2002 - https://api.discogs.com/releases/9639872
-Don't Stop The 80's Vol. 2 - 2002 - https://api.discogs.com/releases/10327018
-Forever & Ever- Die 80er - 2002 - https://api.discogs.com/releases/10374692
-Legends - 18 Original Gold Hits 2 - 2002 - https://api.discogs.com/releases/10684331
-Rock And Roll Hall Of Fame Seventeenth Annual Induction Dinner - March 18, 2002 - 2002 - https://api.discogs.com/releases/11256780
-80-Tals Klassiker - 2002 - https://api.discogs.com/releases/11465146
-Original Soundtrack. Le Più Belle Colonne Sonore - 2002 - https://api.discogs.com/releases/11768052
-Lust For Life - 2002 - https://api.discogs.com/releases/13011375
-• 1985 • Where Were You? - 2002 - https://api.discogs.com/releases/14276254
-Cooper On The Road - 2002 - https://api.discogs.com/releases/14896116
-The Greatest Hits Of The 80's - Volume.5 - 2002 - https://api.discogs.com/releases/15976488
-The Greatest Hits Of The 80's - Volume.7 - 2002 - https://api.discogs.com/releases/15976578
-The Greatest Eighties Collection 2 - 2002 - https://api.discogs.com/releases/16079332
-The Best Beer Drinking Songs In The World... Ever Volume 4 - 2002 - https://api.discogs.com/releases/16130373
-The Sound Of The City (Chicago Los Angeles Memphis New York New Orleans) - 2002 - https://api.discogs.com/releases/16269342
-Hit The Road - 2002 - https://api.discogs.com/releases/17030250
-History Of Pop 1985 - 2002 - https://api.discogs.com/releases/19012183
-Cooper On The Road Again - 2002 - https://api.discogs.com/releases/20267107
-Platinum 80s - 2002 - https://api.discogs.com/releases/20387230
-Hi Fi Serious (Ever Get The Feeling You've Been Cheated..?) - 2002 - https://api.discogs.com/releases/26249792
-Le Canzoni Del Secolo (Il Meglio) - 2002 - https://api.discogs.com/releases/27370863
-Stargold - 2002 - https://api.discogs.com/releases/29007331
-Greatest Hits Of The 80's - 2002 - https://api.discogs.com/releases/29352082
-Mobile BEAT 20 - 2002 - https://api.discogs.com/releases/29588275
-Legends - 54 Original Gold Hits - 2002 - https://api.discogs.com/releases/30163739
-Singers And Songwriters - 1980 - 1986 - 2002 - https://api.discogs.com/releases/33562350
-School's Out - 2002 - https://api.discogs.com/masters/3493932
-Partymix Volume One - 2002 - https://api.discogs.com/masters/39009
-Essential Eighties - 2002 - https://api.discogs.com/masters/3629285
-Platinium 80 - 2002 - https://api.discogs.com/masters/526760
-Party Hits - 2002 - https://api.discogs.com/masters/2957836
-Music Of The Millennium III - 2002 - https://api.discogs.com/masters/920218
-Saturday Night Live - 25 Years Of Music VOL 2 - 2002 - https://api.discogs.com/masters/1483516
-Banger Sisters (Original Motion Picture Soundtrack) - 2002 - https://api.discogs.com/masters/636677
-No Thanks! The '70s Punk Rebellion - 2003 - https://api.discogs.com/releases/384475
-All Lined Up - The Kult Of The Eighties - 2003 - https://api.discogs.com/releases/777016
-Ultimate New Wave - 2003 - https://api.discogs.com/releases/784404
-Bisous Bisous - 2003 - https://api.discogs.com/releases/890143
-Clásicos Universo - 2003 - https://api.discogs.com/releases/904340
-Best Of 80's (1984-1985) - 2003 - https://api.discogs.com/releases/2617395
-The 80's Collection Super Hits - 2003 - https://api.discogs.com/releases/2998782
-Radio 2 Top 2000 - 2003 - https://api.discogs.com/releases/3064699
-New Wave For The Next Generation - 2003 - https://api.discogs.com/releases/3405115
-The Best Of The 80s - 2003 - https://api.discogs.com/releases/3675762
-Full Throttle (60 Original Driving Classics) - 2003 - https://api.discogs.com/releases/4367943
-Live Rock - 2003 - https://api.discogs.com/releases/4403132
-Rvng Prsnts Mx1B: Julian S. Process - 2003 - https://api.discogs.com/releases/5385732
-Mag Ik Deze Dans Van U? (En Ook Dat Palmke Graag) - 2003 - https://api.discogs.com/releases/5536875
-Greatest Rock - 2003 - https://api.discogs.com/releases/7420858
-No Thanks! The '70s Punk Rebellion Sampler - 2003 - https://api.discogs.com/releases/8534148
-All The Best Champions Forever - 2003 - https://api.discogs.com/releases/8968289
-Secret Broadcast 4 (Piccadilly) - 2003 - https://api.discogs.com/releases/9640125
-The Alltime Greatest Rock Classics 4 Of The 70s, 80s & 90s - 2003 - https://api.discogs.com/releases/9736059
-Fernanda Winter Party - 2003 - https://api.discogs.com/releases/9969248
-The Best Pub Jukebox Hits...Ever! - 2003 - https://api.discogs.com/releases/10670188
-New Wave - 2003 - https://api.discogs.com/releases/10835636
-Destination Hits 1985 - 2003 - https://api.discogs.com/releases/11048476
-Edge Of The 80s: 1984-1985 - 2003 - https://api.discogs.com/releases/12796278
-Spot The Intro 3 - 2003 - https://api.discogs.com/releases/13986005
-Het Beste Uit De Top 80 Van De Jaren 80 - 2003 - https://api.discogs.com/releases/14500570
-Lil Red - Challah Back (With Raisins) - 2003 - https://api.discogs.com/releases/15241558
-40 Classic: Los Éxitos Imprescindibles de Tu Vida - 2003 - https://api.discogs.com/releases/15460248
-LiveRocks - 2003 - https://api.discogs.com/releases/15720982
-Jim Beam - 40 Shots Of Rock - 2003 - https://api.discogs.com/releases/17281567
-20 Jahre DRS 3 - 2003 - https://api.discogs.com/releases/17868013
-RTL Super-Party - 2003 - https://api.discogs.com/releases/19234180
-Edge Of The 80s: 1986-1987 - 2003 - https://api.discogs.com/releases/23919356
-EMI Sync Presents_Energentic:Uplifting - 2003 - https://api.discogs.com/releases/24286766
-Best Of 90's (1990+1992) - 2003 - https://api.discogs.com/releases/25059631
-Saturday Night Live - 25 Years Of Music Vol 2 - 2003 - https://api.discogs.com/releases/25516216
-Escape (Inizia Il Viaggio) - 2003 - https://api.discogs.com/releases/28822228
-Edge Of The 80s: Late 80s - 2003 - https://api.discogs.com/releases/31034407
-Saturday Night Live (25 Years Of Music) - 2003 - https://api.discogs.com/masters/1825066
-100% Rock  - 2003 - https://api.discogs.com/masters/1741134
-Driving Rock: 18 Classic Anthems - 2003 - https://api.discogs.com/masters/2345386
-Dark Side Of The 80's - 2003 - https://api.discogs.com/masters/17207
-Greatest Hits Of The 80s - 2004 - https://api.discogs.com/releases/839542
-I Love Music 1985 - 1989 (Alive And Kicking) - 2004 - https://api.discogs.com/releases/1122413
-Can You Dig It? - 2004 - https://api.discogs.com/releases/1292423
-Boxfresh Presents: Exclusive Unthugged Mix CD - 2004 - https://api.discogs.com/releases/1381254
-The Record Playa' - 2004 - https://api.discogs.com/releases/1752793
-Back To The 80's The Long Versions Live (De Hits Uit De Jaren '80) - 2004 - https://api.discogs.com/releases/1888401
-Greatest Scottish Album Ever! 3 - 2004 - https://api.discogs.com/releases/2575206
-No Idea's Original - 2004 - https://api.discogs.com/releases/2595733
-Rokkland 2004 - 2004 - https://api.discogs.com/releases/2753473
-Tiempo De Clasicos Volumen 2 - Dance Music - Non Stop - 2004 - https://api.discogs.com/releases/2772471
-Grandmaster 80s Part Two - 2004 - https://api.discogs.com/releases/2951507
-The Original 80s Summer Album - 2004 - https://api.discogs.com/releases/4614605
-Halloween - 2004 - https://api.discogs.com/releases/5035206
-Rock Line Volume 3 - 2004 - https://api.discogs.com/releases/5447558
-Classic Drive: Cruisin' - 2004 - https://api.discogs.com/releases/5723156
-The Greatest Rock Album - 2004 - https://api.discogs.com/releases/6026995
-Max Hits Volume 1 - 2004 - https://api.discogs.com/releases/7024036
-Back To The Future - The Great Electroclash Swindle - 2004 - https://api.discogs.com/releases/7734185
-The World's Best Ever Beer Songs 2005 - 2004 - https://api.discogs.com/releases/7850352
-Mastermix Issue 219 - 2004 - https://api.discogs.com/releases/8030404
-World's Greatest Live Album - 2004 - https://api.discogs.com/releases/8397752
-Het beste uit de top 80 van de jaren 80 - deel twee - 2004 - https://api.discogs.com/releases/9419980
-Welcome Back 1986 - 1989 - 2004 - https://api.discogs.com/releases/9621810
-Welcome Back 1982 - 1985 - 2004 - https://api.discogs.com/releases/9626429
-Jim Beam - 40 Shots Of Rock: The Second Shout - 2004 - https://api.discogs.com/releases/9750327
-Ces Années-Là Hits 1985 N° 21 - 2004 - https://api.discogs.com/releases/9811622
-Hit Magic - 2004 - https://api.discogs.com/releases/10437221
-Reunited Again - 20 Original School Room Hits - Volume 1 - 2004 - https://api.discogs.com/releases/11582705
-Electric Dreams - 2004 - https://api.discogs.com/releases/11625677
-Eighties. Simply Irresistable - 2004 - https://api.discogs.com/releases/11797786
-Música com Saber 1 ~ Pop - 2004 - https://api.discogs.com/releases/12339436
-The Best Pub Jukebox...Ever! - 2004 - https://api.discogs.com/releases/12612652
-Chart Boxx The Best Of The 80s - 2004 - https://api.discogs.com/releases/13647107
-The Best Of Popclassics - 2004 - https://api.discogs.com/releases/13815283
-Sound Drive - 2004 - https://api.discogs.com/releases/14125699
-Essential Soft Rock - 2004 - https://api.discogs.com/releases/14326521
-Making Tracks. - 2004 - https://api.discogs.com/releases/15662554
-Rock For Tradies - 2004 - https://api.discogs.com/releases/26828498
-Ces Années-Là Hits N°22 - 2004 - https://api.discogs.com/releases/28382128
-WEA Reloading History - 2004 - https://api.discogs.com/releases/30969112
-The Original 80s Summer Album - 2004 - https://api.discogs.com/releases/31969016
-The Original New Wave Album - 2004 - https://api.discogs.com/masters/1384606
-Greatest Hits Of Punk & New Wave - 2004 - https://api.discogs.com/masters/1368548
-13 Going On 30 - Music From The Motion Picture - 2004 - https://api.discogs.com/masters/793453
-Michael Mittermeier Präsentiert: Saturday Night Live - 25 Years Of Music - 2004 - https://api.discogs.com/masters/2778218
-80s Alternative - The Darker Side Of The Decade - 2004 - https://api.discogs.com/masters/2569673
-80s <<Reloaded - 2004 - https://api.discogs.com/masters/1222595
-Real Eighties - Hits Plus Extended Mixes - 2005 - https://api.discogs.com/releases/498998
-More 80's - 2005 - https://api.discogs.com/releases/556750
-Essential New Wave - Volume 2 - 2005 - https://api.discogs.com/releases/789223
-Complete Eighties - 2005 - https://api.discogs.com/releases/810041
-The Best Of Music - New Wave - 2005 - https://api.discogs.com/releases/827112
-Full Speed 2 - 54 Drive Time Classics - 2005 - https://api.discogs.com/releases/880374
-António Sérgio Apresenta Som Da Frente 1982-1993 - 2005 - https://api.discogs.com/releases/882489
-80s Extended - 2005 - https://api.discogs.com/releases/949971
-The Long Versions - New Wave - 2005 - https://api.discogs.com/releases/1112482
-The Absolute Very Best Of The World's Best Ever Beer Songs - 2005 - https://api.discogs.com/releases/1113134
-Acura TL DVD-Audio Demonstration Disc - 2005 - https://api.discogs.com/releases/1347524
-Untitled - 2005 - https://api.discogs.com/releases/1363984
-Music Factory Mastermix - Issue 228 - 2005 - https://api.discogs.com/releases/1660676
-Just Say Sire: The Sire Records Story - 2005 - https://api.discogs.com/releases/2156303
-The Long Versions - Pop - 2005 - https://api.discogs.com/releases/2268606
-Chart Boxx - Pop & Wave - 2005 - https://api.discogs.com/releases/2753500
-Dad Rocks! - 2005 - https://api.discogs.com/releases/2771328
-Het Beste Uit De Veronica Top 1000 Allertijden Editie 2005 - 2005 - https://api.discogs.com/releases/3015211
-80's Sensation - 2005 - https://api.discogs.com/releases/6388268
-Funds, Sounds & Beats 2005 - 2005 - https://api.discogs.com/releases/6505817
-Halvliter Rock (34 Duggfriske Vorspiel-låter!) - 2005 - https://api.discogs.com/releases/6830535
-School Reunion - The Party - 2005 - https://api.discogs.com/releases/8346150
-Sire Box Sampler - 2005 - https://api.discogs.com/releases/8595153
-Rock Collection Vol. 4: Greatest Rock Of The 80s - 2005 - https://api.discogs.com/releases/8663015
-The Rock'n'Roll Rider - Jack Lives Here - 2005 - https://api.discogs.com/releases/9119465
-100% Rock Vol. 4 - 2005 - https://api.discogs.com/releases/9543039
-Almanaque Anos 80 - Internacional - 2005 - https://api.discogs.com/releases/11450095
-Sire Hall Of Fame Sampler - 2005 - https://api.discogs.com/releases/11909194
-Der Fischer Und Seine Frau - Der Soundtrack Zum Film - 2005 - https://api.discogs.com/releases/12084208
-Full Throttle 2 54 Drive Time Classics - 2005 - https://api.discogs.com/releases/13131603
-Pop Tra L'America E L'Europa - 2005 - https://api.discogs.com/releases/13421406
-Nina Blackwood's New Wave Nation - 2005 - https://api.discogs.com/releases/14039450
-His Greatest Mixes - 2005 - https://api.discogs.com/releases/14145863
-Too Lazy To Download 09 December '05 - 2005 - https://api.discogs.com/releases/14668547
-Blick auf 50 Jahre Rock - Hits Der 80er - 2005 - https://api.discogs.com/releases/14703776
-Dad Rocks! - 2005 - https://api.discogs.com/releases/15084361
-New Wave - 2005 - https://api.discogs.com/releases/15604397
-Your Songs - The Classic Hits You Love To Hear - 2005 - https://api.discogs.com/releases/15685733
-Clásicos De La W Radio Vol. 2 - 2005 - https://api.discogs.com/releases/17636242
-New Wave - 2005 - https://api.discogs.com/releases/19402666
-Rock & Roll Hall of Fame 2005 Twentieth Annual Induction Dinner - 2005 - https://api.discogs.com/releases/19530178
-Eighties Obsession - 2005 - https://api.discogs.com/releases/22549646
-Only The Best Of The Eighties - Volume 1 - 2005 - https://api.discogs.com/releases/25806562
-Kinky Remixies - 2005 - https://api.discogs.com/releases/26229611
-Reunited: 120 Original School Room Hits - 2005 - https://api.discogs.com/releases/33764313
-The Best Braai Album....Ever! - 2005 - https://api.discogs.com/releases/34041190
-Slab Of Rock II - 2005 - https://api.discogs.com/masters/1708192
-New Waves - 2005 - https://api.discogs.com/masters/1181967
-Little Steven's Underground Garage Presents CBGB Forever - 2005 - https://api.discogs.com/masters/3414556
-Punk Xplosion - 2005 - https://api.discogs.com/masters/541420
-It's The Motherfucking Remix Volume 2 - 2005 - https://api.discogs.com/masters/1280803
-Bewitched (Music From The Motion Picture) - 2005 - https://api.discogs.com/masters/1049583
-POP Xplosion - 2005 - https://api.discogs.com/masters/1385614
-The Rest Of The 80s (Rare Hits From The Stars Of The Decade) - 2005 - https://api.discogs.com/masters/572959
-Senses Working Overtime (Circa 80) - 2006 - https://api.discogs.com/releases/774651
-I ♥ Dad - 2006 - https://api.discogs.com/releases/864712
-Essential New Wave - Volume 4 - 2006 - https://api.discogs.com/releases/978971
-Best Of New Wave - 2006 - https://api.discogs.com/releases/1049420
-The Absolute Very Best Of The World's Best Ever Beer Songs Volume 2 - 2006 - https://api.discogs.com/releases/1113125
-Rhino SXSW Sampler - 2006 - https://api.discogs.com/releases/1488652
-The Best Club Anthems 80s Classics - 2006 - https://api.discogs.com/releases/1600650
-The Original 80s Remix Album - 2006 - https://api.discogs.com/releases/1807031
-One Shot 1985 - 2006 - https://api.discogs.com/releases/1825733
-80's The Must-Have Hits - 2006 - https://api.discogs.com/releases/1841785
-Classic Driving Rock - 2006 - https://api.discogs.com/releases/2157847
-More Complete Eighties - 2006 - https://api.discogs.com/releases/2231402
-Best Of The 80s - 2006 - https://api.discogs.com/releases/2349864
-Roll With The 80's - 2006 - https://api.discogs.com/releases/2472332
-The Old Grey Whistle Test - The Complete Collection - 2006 - https://api.discogs.com/releases/2755018
-Rock Anthems (The Essential Rock Collection) - 2006 - https://api.discogs.com/releases/2918784
-Extended 80s (Classic Hits & Remixes) - 2006 - https://api.discogs.com/releases/3041630
-Rock 80s Vol 2 - 2006 - https://api.discogs.com/releases/3227545
-The Absolute Very Best Of The World's Best Ever Beer Songs - 2006 - https://api.discogs.com/releases/3336761
-Driving Songs - 2006 - https://api.discogs.com/releases/4616997
-Mastermix Issue 235 - 2006 - https://api.discogs.com/releases/8007930
-Fantastic 80s (54 Massive Hits) - 2006 - https://api.discogs.com/releases/8050601
-My Generation: The Soundtrack Of Our Lives - The Eighties - Part Two - 2006 - https://api.discogs.com/releases/8782644
-Best Of Radio 10 Gold - 80's - 2006 - https://api.discogs.com/releases/9172262
-Classic Drive: Hitchin' A Ride - 2006 - https://api.discogs.com/releases/9616520
-Best Of Radio 10 Gold - Rock Ballads - 2006 - https://api.discogs.com/releases/9800979
-The Very Best Of Legends II - 2006 - https://api.discogs.com/releases/9919850
-80's Explosion - 2006 - https://api.discogs.com/releases/9947883
-Acura DVD-Audio Demonstration Disc - 2006 - https://api.discogs.com/releases/10823939
-Kneipenhits - Pop & Wave Party - 2006 - https://api.discogs.com/releases/11574934
-California Dreamin' - 2006 - https://api.discogs.com/releases/11823291
-Mallorca Beach Party - 2006 - https://api.discogs.com/releases/12446087
-Radio Stars - 36 Kult-Radiosongs - 2006 - https://api.discogs.com/releases/12501107
-Classic Cuts Presents 80's Night The Definitive DJ Collection - S To T - 2006 - https://api.discogs.com/releases/14787970
-DIY Songs - 2006 - https://api.discogs.com/releases/15006043
-The Punk US Hits - 2006 - https://api.discogs.com/releases/15073644
-Rock Party - CD Del Mese La Repubblica - 2006 - https://api.discogs.com/releases/15679773
-Nina Blackwood's New Wave Nation - 2006 - https://api.discogs.com/releases/15882969
-Greatest Hits of School Party - 2006 - https://api.discogs.com/releases/17732872
-Anos 80 Volume 2 CDs 1 e 2 - 2006 - https://api.discogs.com/releases/18125029
-Panic Prevention Vol. 2 - 2006 - https://api.discogs.com/releases/21954442
-Housework Songs - 2006 - https://api.discogs.com/releases/22565288
-The Kantar Manifesto Music Festival Tour - The Best Of Kantar - 2006 - https://api.discogs.com/releases/22781561
->30 It's A Real Good Feeling - 2006 - https://api.discogs.com/releases/25248760
-Hit Music Alfa 91.3 - 2006 - https://api.discogs.com/releases/25310584
-Grandmaster Halloween - 2006 - https://api.discogs.com/releases/27435627
-Ones (The Best Number One Artists) - 2006 - https://api.discogs.com/releases/33583809
-100Pro Kult Die Grössten Hits Der 80er - 2006 - https://api.discogs.com/releases/33977301
-Journey Into Paradise (The Larry Levan Story) - 2006 - https://api.discogs.com/masters/180596
-Open Season Featuring The Songs Of Paul Westerberg - 2006 - https://api.discogs.com/masters/539663
-Clerks II - Original Motion Picture Soundtrack - 2006 - https://api.discogs.com/masters/1399917
-The White Underground From A Black's Perspective - 2006 - https://api.discogs.com/masters/212186
-Nova Classics Sept (Promo Sampler) - 2006 - https://api.discogs.com/masters/800173
-101 Jukebox Classics - 2007 - https://api.discogs.com/releases/1000348
-Party Mouth! - 2007 - https://api.discogs.com/releases/1174342
-Change Your Tune - 2007 - https://api.discogs.com/releases/1380319
-80s Maximum Vol. 2 - 2007 - https://api.discogs.com/releases/1387287
-101 80s Hits - 2007 - https://api.discogs.com/releases/2940479
-1977 - The Spirit Of Punk - 2007 - https://api.discogs.com/releases/3629525
-Jackpot Remember The 80's - 2007 - https://api.discogs.com/releases/4275952
-Anni Ottanta 80's: The Platinum Collection - 2007 - https://api.discogs.com/releases/5520517
-Classic Rock Box - 2007 - https://api.discogs.com/releases/6160916
-From The Velvets To The Voidoids - U.S. Punk Rock Roots 1970-1978 - 2007 - https://api.discogs.com/releases/6354446
-WWF - The Green Album - 2007 - https://api.discogs.com/releases/6401297
-Solid Steel Radio Show 02/11/2007 - Part 2 - 2007 - https://api.discogs.com/releases/7072798
-Radio 2 Top 2000 - 2007 - https://api.discogs.com/releases/7122178
-100% Rock Live - 2007 - https://api.discogs.com/releases/7155320
-KALX: Berkeley 90.7 FM 45 Anniversary - 2007 - https://api.discogs.com/releases/7236747
-Shades Of Rock - 2007 - https://api.discogs.com/releases/7533786
-Retro Shock Volume 4 - 2007 - https://api.discogs.com/releases/8505203
-Die Ultimative Chart Show - Die Erfolgreichsten New Wave & Pop Songs Aller Zeiten - 2007 - https://api.discogs.com/releases/9303733
-Rock N Roll Cafe - 2007 - https://api.discogs.com/releases/10302083
-100 80s Hits - 2007 - https://api.discogs.com/releases/11298663
-Play - The Timeless 80's Collection - 2007 - https://api.discogs.com/releases/11895879
-Now Story - Il Meglio Degli Anni 84/85 - 2007 - https://api.discogs.com/releases/14050388
-NowStory 86/87 - 2007 - https://api.discogs.com/releases/14058640
-NowStory 88/89 - 2007 - https://api.discogs.com/releases/14062575
-L’Essentiel Année 80 Vol. 2 - 2007 - https://api.discogs.com/releases/14135790
-V8 Supercars - No Special Effects A Full Tank Of Rock 3 - 2007 - https://api.discogs.com/releases/15488253
-The Best Eighties Album In The World...Ever! - 2007 - https://api.discogs.com/releases/18677119
-Simply The Best 1980s - 2007 - https://api.discogs.com/releases/19216519
-Best Ever Pub Rock - 2007 - https://api.discogs.com/releases/20970424
-Stuck On You - 2007 - https://api.discogs.com/releases/23387549
-Let's Go - 2007 - https://api.discogs.com/releases/23387744
-Promo Only Alternative Dance 84-86 - 2007 - https://api.discogs.com/releases/24037451
-The Absolute Very Best Of The World's Best Ever Beer Songs Volume 3 - 2007 - https://api.discogs.com/releases/24622283
-Alternative Dance 1980-1983 - 2007 - https://api.discogs.com/releases/25332799
-All Eighties - 2007 - https://api.discogs.com/releases/26146421
-The Rock'n'Roll Rider Volume No. 2 - Jack Lives Here - 2007 - https://api.discogs.com/releases/27535101
-Γιάννης Πετρίδης 32 Χρόνια  Απογεύματα Στην Ερτ Από Τις 4 Στις 5 - 2007 - https://api.discogs.com/releases/32072769
-Est Ce Que Tu Sens Le Vent ?  - 2007 - https://api.discogs.com/masters/3326224
-The Original 80s Remix Box Set - 2007 - https://api.discogs.com/masters/1563375
-The Original 80s Box Set (54 Massive Hits From The Biggest Stars Of The Decade) - 2007 - https://api.discogs.com/masters/3832899
-Pure Soft Rock - 2007 - https://api.discogs.com/masters/1053812
-Pure 80s - 2007 - https://api.discogs.com/masters/376073
-FabricLive. 33 (Radio Mix) - 2007 - https://api.discogs.com/masters/1191555
-New Wave (The Platinum Collection) - 2007 - https://api.discogs.com/masters/585393
-Back To Mine - 2007 - https://api.discogs.com/masters/294901
-80's Top 100 - 2008 - https://api.discogs.com/releases/1449158
-80's Forever - 100 Clásicos Anglo De Una Década - 2008 - https://api.discogs.com/releases/1525915
-100% New Wave - 2008 - https://api.discogs.com/releases/1622679
-Bairro Alto - Noites Loucas Anos 80 - 2008 - https://api.discogs.com/releases/1985115
-Dubstars From Dub To Disco & From Disco To Dub - 2008 - https://api.discogs.com/releases/2007250
-THISISNOTANEXIT Vol. 9 - 2008 - https://api.discogs.com/releases/2199080
-Moving In Stereo - 2008 - https://api.discogs.com/releases/2486990
-Mastermix 80s Retro  Mixes Volume 2 - 2008 - https://api.discogs.com/releases/2560376
-Mastermix 80s Retro  Mixes - 2008 - https://api.discogs.com/releases/2560377
-101 Driving Songs - 2008 - https://api.discogs.com/releases/2852348
-10 Jaar Top 2000 - 2008 - https://api.discogs.com/releases/3066652
-100% 80's - 2008 - https://api.discogs.com/releases/3188657
-Top Of The Pops 1985 - 2008 - https://api.discogs.com/releases/3391856
-NME Classics - 2008 - https://api.discogs.com/releases/3472106
-Gezellig Thuis Met De Mooiste Sfeermuziek - 2008 - https://api.discogs.com/releases/5341335
-Classic Rock Box - Vol. 2 - 2008 - https://api.discogs.com/releases/7045826
-100% Bittersweet Melodies - 2008 - https://api.discogs.com/releases/7102304
-The World's Best Ever Beer Songs 10th Anniversary - 2008 - https://api.discogs.com/releases/7843591
-Theater Van Het Sentiment - De Jaren 80 - 2008 - https://api.discogs.com/releases/8007869
-Your Favourite Driving Songs - 2008 - https://api.discogs.com/releases/9151195
-100 Greatest Hits Collection - 2008 - https://api.discogs.com/releases/10706332
-I Love Rock - 2008 - https://api.discogs.com/releases/10933387
-Die Grossen 10 - Vol. 2 - 2008 - https://api.discogs.com/releases/14115165
-Where Were You? 1986 - 2008 - https://api.discogs.com/releases/14231148
-Die Hit-Giganten - Die Besten Hits Der 80er - 2008 - https://api.discogs.com/releases/14852638
-Veronica's Top 1000 Allertijden - Editie 2008 - 2008 - https://api.discogs.com/releases/15275813
-100% Air Guitar - 2008 - https://api.discogs.com/releases/17957749
-On The Road - 45 Hits To Drive Safe - 2008 - https://api.discogs.com/releases/19293670
-1985 (Rok Formanova Amadea) - 2008 - https://api.discogs.com/releases/21753370
-Larry Gogan's Pickin' The Pops - 101 Hits Of The 80's And 90's - 2008 - https://api.discogs.com/releases/30397892
-Classic Rock - 57 Classic Tracks - 2008 - https://api.discogs.com/releases/32433660
-The Mix Tapes - Alternative Music From The Late 70s And 80s - 2008 - https://api.discogs.com/masters/364795
-This Is… 1986 - 2008 - https://api.discogs.com/masters/3771618
-Funky Nassau - The Compass Point Story 1980-1986 - 2008 - https://api.discogs.com/masters/412935
-101 80s Hits - 2008 - https://api.discogs.com/masters/3427607
-New Wave - 2008 - https://api.discogs.com/masters/1607050
-Revolutions In Sound: Warner Bros. Records The First Fifty Years - 2008 - https://api.discogs.com/masters/634590
-FACT Mix 109 - 2009 - https://api.discogs.com/releases/1325569
-Mikey Beats The 80s - 2009 - https://api.discogs.com/releases/1731651
-RA.156 - 2009 - https://api.discogs.com/releases/1840085
-Qucce! - 2009 - https://api.discogs.com/releases/1932985
-Up, Down, Turn Around (Circa 80) - 2009 - https://api.discogs.com/releases/2007202
-Japan Set At Domo Arigato Podcast - 2009 - https://api.discogs.com/releases/2112971
-101 Beer Songs - 2009 - https://api.discogs.com/releases/2262151
-Pearls Of The 80s - Singles - 2009 - https://api.discogs.com/releases/2485856
-Nova 24h - 2009 - https://api.discogs.com/releases/2552526
-Anthem Of The Trinity (See Mystery Lights) - 2009 - https://api.discogs.com/releases/2606098
-Lente Kriebels - 2009 - https://api.discogs.com/releases/3029940
-Lost HF Mix / New Wave FLav / May.03 Humungus - 2009 - https://api.discogs.com/releases/3982853
-Music For The Road (Rock & Ballads Vol. 2) - 2009 - https://api.discogs.com/releases/4550042
-Liefste Papa Volume 2 - 2009 - https://api.discogs.com/releases/8001730
-Ö3 Zeitreise 1983 - 2009 - https://api.discogs.com/releases/8705043
-Ö3 Zeitreise 1986 - 2009 - https://api.discogs.com/releases/8719109
-The 80's Tapes (Pop Super Hits) - 2009 - https://api.discogs.com/releases/9206290
-BPA Mixtape (Mixed By BPA Warm-Up DJ Charlie Stains) - 2009 - https://api.discogs.com/releases/9382382
-120 Original Hits - Rock - 2009 - https://api.discogs.com/releases/10971923
-Black Is Beautiful 9 - White Man's Soul - 2009 - https://api.discogs.com/releases/11318097
-Veronica's Top 1000 Allertijden - Editie 2009 - 2009 - https://api.discogs.com/releases/12694701
-Black Is Beautiful - Celebrating The Genius Of Black Music - 2009 - https://api.discogs.com/releases/12829618
-Radio Veronica Rockbox - 2009 - https://api.discogs.com/releases/12931477
-Punk And 80's Nu Wave - 2009 - https://api.discogs.com/releases/13099830
-Omroep Brabant Presenteert Top 900 - 2009 - https://api.discogs.com/releases/13144190
-Outlaws For Discobelle: Two Discs For Your Pleasure - 2009 - https://api.discogs.com/releases/13212579
-Original Hits - Summer - 2009 - https://api.discogs.com/releases/13683064
-Pub Jukebox - 120 Original Hits - 2009 - https://api.discogs.com/releases/14099905
-Top Of The Pops - Eighties Pop - 2009 - https://api.discogs.com/releases/15691975
-The Number One Classic Rock Hits (New Edition 2009) - 2009 - https://api.discogs.com/releases/15923389
-The Ultimate Collection - Soft Rock - 2009 - https://api.discogs.com/releases/16639911
-Rock (93 Original Hits) - 2009 - https://api.discogs.com/releases/18151474
-An 80s Summer - 2009 - https://api.discogs.com/releases/18334213
-Hits Of The 1980s - 2009 - https://api.discogs.com/releases/18552001
-Classic Hits Of The 80's- Volume 3 - 2009 - https://api.discogs.com/releases/21536509
-RTL Viert De Zomer! Vakantiebox 60 Vakantiehits Voor De Hele Familie - 2009 - https://api.discogs.com/releases/21671686
-Irresistible Pop Classics Volume 1 - 2009 - https://api.discogs.com/releases/24419972
-DTS Blu-ray Demonstration Disc 14 - 2009 - https://api.discogs.com/releases/25823761
-Lycantropii Volume IV (Back To The Belics) - 2009 - https://api.discogs.com/masters/3486169
-80s Music Explosion! Hold Me Now - 2009 - https://api.discogs.com/masters/3203910
-For Fuld Musik 2 - 2009 - https://api.discogs.com/masters/2130964
-80s (123 Original Hits) - 2009 - https://api.discogs.com/masters/1607053
-He's Just Not That Into You - Original Motion Picture Soundtrack - 2009 - https://api.discogs.com/masters/2104900
-They Sold A Million - 2009 - https://api.discogs.com/masters/755407
-Original Hits - 80s 12" - 2009 - https://api.discogs.com/masters/520152
-A Man & A Machine 02 - 2010 - https://api.discogs.com/releases/2116522
-More Volts: The Funky Eno - 2010 - https://api.discogs.com/releases/2166487
-Alle 40 Goed - 80's - 2010 - https://api.discogs.com/releases/2255729
-Dance Classics - Pop Edition Vol. 3 - 2010 - https://api.discogs.com/releases/2591308
-Complete Eighties - 2010 - https://api.discogs.com/releases/2597654
-Pop & Wave - Ich Mag Keine Hits Der 80er, Aber Die Finde Ich Gut! - 2010 - https://api.discogs.com/releases/2630374
-Disco & More - 2010 - https://api.discogs.com/releases/2739538
-80's Forever Volumen 2 - 100 Clásicos Anglo Del Pop Y El Rock - 2010 - https://api.discogs.com/releases/2801789
-Moonchild (In Memoriam) - 2010 - https://api.discogs.com/releases/2881944
-101 Punk & New Wave Anthems - 2010 - https://api.discogs.com/releases/3154550
-The 80's Greatest Hits - 2010 - https://api.discogs.com/releases/3338805
-White Light Mix Series Number Twenty Four - 2010 - https://api.discogs.com/releases/3350422
-M80 Radio Presenta New Wave Classix - 2010 - https://api.discogs.com/releases/3590953
-De Grote Schoonmaak Hits - 2010 - https://api.discogs.com/releases/3800699
-Anos 80 – A Década De Ouro Vol.2 - 2010 - https://api.discogs.com/releases/4207571
-Rock Legends - 2010 - https://api.discogs.com/releases/6986884
-Pozytywne Wibracje Volume 10 - 2010 - https://api.discogs.com/releases/7648176
-Classic Rock Box - Live! - 2010 - https://api.discogs.com/releases/10331537
-101 Running Songs Lap 2 - 2010 - https://api.discogs.com/releases/11439437
-101 80s Anthems - 2010 - https://api.discogs.com/releases/11439987
-The Ultimate 12" 80s Hits (26 Great Original Hits By The Original Artists) - 2010 - https://api.discogs.com/releases/11524215
-Jukebox - 115 Original Hits - 2010 - https://api.discogs.com/releases/13836503
-101 BBQ Songs - 2010 - https://api.discogs.com/releases/15131917
-NC Guest Mix#22 - 2010 - https://api.discogs.com/releases/15964824
-Driving 80's / להיטי שנות השמונים - 2010 - https://api.discogs.com/releases/15974942
-The Ultimate Power Ballad Hits - 2010 - https://api.discogs.com/releases/17926633
-Running Hits Volume I - Feel The Beats - 2010 - https://api.discogs.com/releases/20019529
-Alternative Dance 1980-1983 volume 2 - 2010 - https://api.discogs.com/releases/25387213
-Club Rock - 2010 - https://api.discogs.com/releases/27378645
-40 y Tantos - 80's Remix (3CD) - 2010 - https://api.discogs.com/releases/33643617
-Music From The Motion Picture Wall Street: Money Never Sleeps - 2010 - https://api.discogs.com/masters/1716461
-Anthems Electronic 80s 2 - 2010 - https://api.discogs.com/masters/289173
-Top Of The Pops (125 Original Hits) - 2010 - https://api.discogs.com/masters/1495561
-80s 12" Summer - 2010 - https://api.discogs.com/masters/3616114
-Hot Tub Time Machine (Original Motion Picture Soundtrack) - 2010 - https://api.discogs.com/masters/902767
-Monster Halloween Hits - 2010 - https://api.discogs.com/masters/382805
-80s Pop (111 Original Hits) - 2010 - https://api.discogs.com/masters/1111996
-Richard Prince : American Prayer - 2011 - https://api.discogs.com/releases/2785011
-Radio Fresh 80s - 2011 - https://api.discogs.com/releases/2823870
-Violent Veg: 40 Favourite Songs For Dad! - 2011 - https://api.discogs.com/releases/2907698
-MDD Mix 032 - 2011 - https://api.discogs.com/releases/2931038
-Massive Hits! 80s Remix - 2011 - https://api.discogs.com/releases/2949178
-80s 12" Party - 2011 - https://api.discogs.com/releases/2970633
-Dance Classics - Pop Edition Vol. 5 - 2011 - https://api.discogs.com/releases/3149445
-Anthems Alternative 80s - 2011 - https://api.discogs.com/releases/3334702
-Postmodernism - Style & Subversion In Sound 1970-1990 - 2011 - https://api.discogs.com/releases/3359514
-Ep.114 - 2011 - https://api.discogs.com/releases/3400761
-White Light 46 - 2011 - https://api.discogs.com/releases/3658161
-Alle 40 Goed - Driving Songs - 2011 - https://api.discogs.com/releases/3887849
-New Wave Essential - 2011 - https://api.discogs.com/releases/3927813
-100 Hits The New Romantics - 2011 - https://api.discogs.com/releases/4296559
-A Yuck Mixtape - 2011 - https://api.discogs.com/releases/4746329
-100 Hits 80s Classics - 2011 - https://api.discogs.com/releases/5486571
-100 Hits Driving Rock - 2011 - https://api.discogs.com/releases/6525370
-Love Rocks - 2011 - https://api.discogs.com/releases/6786886
-Veronica's Album Top 1000 Allertijden (Editie 2011) - 2011 - https://api.discogs.com/releases/7058597
-Die Hit-Giganten - Best Of 80s - 2011 - https://api.discogs.com/releases/9365167
-Massive Hits! Rock - 2011 - https://api.discogs.com/releases/10532593
-Y.O.L.O. - 2011 - https://api.discogs.com/releases/10870489
-Rock Hearts - 2011 - https://api.discogs.com/releases/10957815
-Best Of The 80s - Driving Rock - 2011 - https://api.discogs.com/releases/11714799
-Best Of The 80s - Soft Rock - 2011 - https://api.discogs.com/releases/11714883
-101 Moments In Music (Volume 2) - 2011 - https://api.discogs.com/releases/12464547
-Music For Cruizin' – Rockin' Down The Highway - 2011 - https://api.discogs.com/releases/12493887
-101 Ultimate 80s - 2011 - https://api.discogs.com/releases/13555759
-Postmodernism - Style & Subversion In Sound 1970-1990 - 2011 - https://api.discogs.com/releases/13983655
-Best Clips Ever - Videoclips Que Marcaron Una Época '88 - 2011 - https://api.discogs.com/releases/14644932
-101 D.I.Y Songs - 2011 - https://api.discogs.com/releases/18567655
-Electric Deluxe Podcast 037 - 2011 - https://api.discogs.com/releases/19902529
-70s Child - 2011 - https://api.discogs.com/releases/22538615
-The Ultimate BBQ Hits - 2011 - https://api.discogs.com/releases/22565381
-Locked Outside Mix - 2011 - https://api.discogs.com/releases/26893961
-Awesome 80s Collection Vol.1 - 2011 - https://api.discogs.com/releases/33628359
-Alle 40 Goed - New Wave Classics - 2011 - https://api.discogs.com/masters/803488
-Drive Time - 2011 - https://api.discogs.com/masters/3778118
-The Old Grey Whistle Test (40th Anniversary Album) - 2011 - https://api.discogs.com/masters/2405989
-I Love The 80's Vol. 2 - 2011 - https://api.discogs.com/masters/2080579
-80s Mixtape - 2011 - https://api.discogs.com/masters/681937
-Popclassics Essential - 2012 - https://api.discogs.com/releases/3387441
-WWF-Club - Das Beste Aus Der WDR-Kultshow - 2012 - https://api.discogs.com/releases/3740130
-Dance Classics - Pop Edition Vol. 8 - 2012 - https://api.discogs.com/releases/3856414
-Alle 40 Goed - 80's Vol. 2 - 2012 - https://api.discogs.com/releases/3873866
-Air Guitar Essential - 2012 - https://api.discogs.com/releases/3962971
-Allstar Edits - 2012 - https://api.discogs.com/releases/4068913
-80s - 2012 - https://api.discogs.com/releases/4114452
-The Greatest Guitar Riffs Of All Time - 2012 - https://api.discogs.com/releases/4257015
-Pearls Of The 80's - Maxis Vol. 6 - 2012 - https://api.discogs.com/releases/4699776
-De Pre Historie 80 - 2012 - https://api.discogs.com/releases/4740140
-Best Rock Ballads - 2012 - https://api.discogs.com/releases/4921253
-Der Letzte Bulle - Vol.3 - 2012 - https://api.discogs.com/releases/4951134
-Mind Warp Minimix 30 - 2012 - https://api.discogs.com/releases/5110164
-The Ultimate Alternative 80s - 2012 - https://api.discogs.com/releases/5542391
-Las 101 Rolas De Rock Que Debes Escuchar Antes Del... Fin Del Mundo Vol.2 - 2012 - https://api.discogs.com/releases/7228326
-101 Driving Songs - 2012 - https://api.discogs.com/releases/7693042
-Summer 80s - 2012 - https://api.discogs.com/releases/8407104
-100 Hits Love Songs - 2012 - https://api.discogs.com/releases/11172308
-Alle 40 Goed - Wereldsterren Vol. 2 - 2012 - https://api.discogs.com/releases/11305868
-Joe - Your Greatest Hits - Top 2000 Volume 4 - 2012 - https://api.discogs.com/releases/11322230
-Massive Hits! Driving Rock - 2012 - https://api.discogs.com/releases/12198307
-The Ultimate Diy Songs - 2012 - https://api.discogs.com/releases/13098210
-Running Hits (Laufprogramme Nach Musik) - 2012 - https://api.discogs.com/releases/13838171
-Music Masters Of The 70's, 80's & 90's - 2012 - https://api.discogs.com/releases/14321402
-Back To The 80's: Movie Soundtrack Rewind (Volume III) - 2012 - https://api.discogs.com/releases/15470291
-101 Ultimate Beer Songs - 2012 - https://api.discogs.com/releases/18461521
-101 80s Hits Platinum Edition  - 2012 - https://api.discogs.com/releases/18566137
-Underground - Lost Songs, Rarities And Floorkillers From JHB's Alternative 80's - 2012 - https://api.discogs.com/releases/31098410
-Bild Am Sonntag: Oldie-Party Rock - 2012 - https://api.discogs.com/releases/32678751
-50 Anos de Rock - Do Glam Ao Punk - Anos 70 - 2012 - https://api.discogs.com/releases/32766063
-The Ultimate Jukebox Classics - 2012 - https://api.discogs.com/releases/33540570
-Alle 40 Goed - Pop Classics - 2012 - https://api.discogs.com/masters/1282641
-40 Hits Incontournables - New Wave Vol. 2 - 2012 - https://api.discogs.com/masters/833502
-M80 Let's Dance - 2013 - https://api.discogs.com/releases/5191346
-Dance Decade 80s Volume Two (1987 - 1989) - 2013 - https://api.discogs.com/releases/8702336
-Top Of The Pops Rock - 2013 - https://api.discogs.com/releases/12446755
-DISFVNC - 2013 - https://api.discogs.com/releases/13402134
-La.Ga.Sta. Late Summer Compilation Vol.3 - 2013 - https://api.discogs.com/releases/14238921
-Hitarchief Top 2000 Volume 5 (Joe FM) - 2013 - https://api.discogs.com/releases/24329159
-Million Sellers - 2013 - https://api.discogs.com/masters/1530405
-Halloween: Music From The Dark Side - 2013 - https://api.discogs.com/masters/1882845
-20 Feet From Stardom (Music From The Motion Picture) - 2013 - https://api.discogs.com/masters/733926
-The Old Grey Whistle Test (The Anthems) - 2013 - https://api.discogs.com/masters/3214353
-CBGB (Original Motion Picture Soundtrack) - 2013 - https://api.discogs.com/masters/652417
-Massive Hits - Punk & New Wave - 2014 - https://api.discogs.com/releases/6584146
-Najlepsze Hity Dla Ciebie - Filmowe - 2014 - https://api.discogs.com/releases/7642260
-BBC Radio 6 Music’s Alternative Jukebox - 2014 - https://api.discogs.com/releases/8019137
-Disco Inferno - 2014 - https://api.discogs.com/releases/8049423
-Original New Wave - 2014 - https://api.discogs.com/releases/10361989
-Original Americana - 2014 - https://api.discogs.com/releases/12015128
-De Beste Classics Uit De Eighties (De 5 Op Een Rij 500) - 2014 - https://api.discogs.com/releases/25319920
-Million Sellers Vol​.​2 - 2014 - https://api.discogs.com/masters/1530402
-Recycled Music: An RRRecords RRRippoff - 2014 - https://api.discogs.com/masters/748159
-12 Inch Dance 80s Synthpop - 2014 - https://api.discogs.com/masters/1096536
-Greatest Ever! Halloween (The Spooky Collection) - 2014 - https://api.discogs.com/masters/2637812
-Diggin' It II - 2015 - https://api.discogs.com/releases/7050636
-Najlepsze Hity Dla Ciebie - Filmowe Vol.2 - 2015 - https://api.discogs.com/releases/7642276
-Classic 80s - 2015 - https://api.discogs.com/releases/8333573
-Smash Hits Years 1985 - 2015 - https://api.discogs.com/releases/8982799
-Generation 80 - 2015 - https://api.discogs.com/releases/9242834
-No More Heroes - 60 Punk & New Wave Anthems - 2015 - https://api.discogs.com/releases/9351466
-Joe Fm 80's Top 800 Volume 3  - 2015 - https://api.discogs.com/releases/9966233
-Global Warming Edits I - 2015 - https://api.discogs.com/releases/10467296
-Classic Pop - 2015 - https://api.discogs.com/releases/11464565
-Hitarchief Top 2000 Volume 7 (Joe FM) - 2015 - https://api.discogs.com/releases/12425924
-Forest Through The Trees - 2015 - https://api.discogs.com/releases/13670644
-Het Beste Uit De Nostalgie 1000 - 2015 - https://api.discogs.com/releases/16336122
-From Vinyl To Tape: The Pop Collection - 2015 - https://api.discogs.com/releases/21318985
-Het Beste Uit Radio 1 Classics - Vol. 2 - 2015 - https://api.discogs.com/releases/30565762
-Live Sound - 2015 - https://api.discogs.com/releases/30619126
-Sounds Of The 70's - 2015 - https://api.discogs.com/releases/33497288
-Why Choose - 2015 - https://api.discogs.com/masters/891270
-80 Hits of the... 80s - 2015 - https://api.discogs.com/masters/927396
-Chilled Electronic 80s - 2016 - https://api.discogs.com/releases/8584610
-Commercial Collection 401 - 2016 - https://api.discogs.com/releases/8607703
-Lust For Life - The Music That Changed A Generation - 2016 - https://api.discogs.com/releases/8998569
-Spurts! - Punk & Post-Punk From the '70s & Beyond - 2016 - https://api.discogs.com/releases/9732780
-Classic Punk - 2016 - https://api.discogs.com/releases/9921820
-This Is Radio Punk (1977-1980) - 2016 - https://api.discogs.com/releases/10231773
-The Other Side Of The 80s - 2016 - https://api.discogs.com/releases/10347539
-80s - The Ultimate 80s Anthems - 2016 - https://api.discogs.com/releases/10577861
-Classic Love - 2016 - https://api.discogs.com/releases/11467306
-The Eighties Album - 2016 - https://api.discogs.com/releases/12339136
-Cover Me - A Unique Collection Of Live Cover Versions - 2016 - https://api.discogs.com/releases/12818252
-American Classics - 2016 - https://api.discogs.com/releases/14742082
-Very Vinyl Medley - 2016 - https://api.discogs.com/releases/14863338
-Radio Zet Gold - Bogdan Fabiański poleca zawsze wielkie przeboje vol.7 - 2016 - https://api.discogs.com/releases/15416278
-Simply Eighties - 2016 - https://api.discogs.com/releases/28712737
-The Sound Hall Of Fame - 2016 - https://api.discogs.com/releases/30054841
-Just Say 50 (Sire Records 50th Anniversary Box) - 2017 - https://api.discogs.com/releases/10174867
-80s Classics: The Collection - 2017 - https://api.discogs.com/releases/10616780
-Top Of The Pops - New Romantics - 2017 - https://api.discogs.com/releases/10641297
-80's Pop Hits - 2017 - https://api.discogs.com/releases/11258127
-Classic Dad - 2017 - https://api.discogs.com/releases/11278555
-Smash Hits - The '80s - 2017 - https://api.discogs.com/releases/11398965
-Classic Driving Songs - 2017 - https://api.discogs.com/releases/11480699
-Classic 80s Pop - 2017 - https://api.discogs.com/releases/11481427
-Smash Hits Punk & New Wave - 2017 - https://api.discogs.com/releases/11602652
-Summer, Six Space Shuttles & 144,000 Elephants  - 2017 - https://api.discogs.com/releases/11652394
-Smash Hits 80s Mixtape - 2017 - https://api.discogs.com/releases/11759708
-100 Greatest Eighties - 2017 - https://api.discogs.com/releases/11841209
-80s Movies Smash Hits - 2017 - https://api.discogs.com/releases/12431966
-Smash Hits Strange 80s - 2017 - https://api.discogs.com/releases/12464931
-Absolute 80s - Unwind - 2017 - https://api.discogs.com/releases/12661833
-Songs From The AMC Television Series Halt And Catch Fire - 2017 - https://api.discogs.com/releases/14545982
-Live 7.20.17  - 2017 - https://api.discogs.com/releases/28946761
-20th Century Women (Music From The Motion Picture) - 2017 - https://api.discogs.com/masters/1245310
-Smash Hits The 80s - 2017 - https://api.discogs.com/masters/1819292
-Commercial Collection 422 - 2018 - https://api.discogs.com/releases/11640664
-45 ans de Power-Play, Les Nocturnes - Volume 2 - 2018 - https://api.discogs.com/releases/12083878
-I Love Festival Floorfillers (Classic Mixes) (Volume 1) - 2018 - https://api.discogs.com/releases/12249474
-The Greatest Seventies Album - 2018 - https://api.discogs.com/releases/12505643
-I Wanna Be Sedated: From The Underground - Celebrating 60 Years Of Warner Bros. Records - 2018 - https://api.discogs.com/releases/12514164
-Top Of The Pops '86 - 2018 - https://api.discogs.com/releases/12820412
-80 Smash Hits Of The 80s - 2018 - https://api.discogs.com/releases/13095465
-The Greatest Eighties Album - 2018 - https://api.discogs.com/releases/13306124
-Das Tour Mix - 2018 - https://api.discogs.com/releases/13416431
-Deutschland 86 - Original Soundtrack - 2018 - https://api.discogs.com/releases/18969157
-True Stories, A Film By David Byrne: The Complete Soundtrack - 2018 - https://api.discogs.com/masters/32875
-I Love 70s & 80s Alternative Anthems (Classic Mixes) (Volume 1) - 2019 - https://api.discogs.com/releases/13366470
-Awaydays II - The Best Fringe Flicking Tracks In The World, .....Ever  - 2019 - https://api.discogs.com/releases/13655565
-RA.664 - 2019 - https://api.discogs.com/releases/14262999
-Commercial Collection 443 - Dec 2019 - 2019 - https://api.discogs.com/releases/14465916
-/​/​.​0 / Wavpak / Descension (Unreleased Remixes) Bundle - 2019 - https://api.discogs.com/releases/18813919
-The Reflex 73 Track Pack - 2019 - https://api.discogs.com/releases/26997705
-The World Of Keith Haring (Influences + Connections) - 2019 - https://api.discogs.com/masters/1571000
-Winter Mixdown R  - 2020 - https://api.discogs.com/releases/14495075
-The Best Of Film Music Vol. 2 - 2020 - https://api.discogs.com/releases/16826949
-Carb Cap's Bootleg Selects Vol. 1 - 2021 - https://api.discogs.com/releases/19930609
-Jon Savage's 1977-1979 (Symbols Clashing Everywhere) - 2022 - https://api.discogs.com/releases/21924379
-Various - TRFC Fan Park Classics (Tranmere Rovers Trust) - 2022 - https://api.discogs.com/releases/22012210
-Back Spins Thirty - 2022 - https://api.discogs.com/releases/25994488
-Very Good Trip (Une Histoire Intime de la Musique) - 2022 - https://api.discogs.com/releases/28083766
-Issue 424 - 2022 - https://api.discogs.com/releases/34142335
-Stranger Things: Soundtrack From The Netflix Series, Season 4 - 2022 - https://api.discogs.com/masters/2693624
-Essential Hits: Halloween - 2022 - https://api.discogs.com/masters/3861475
-DMC - Commercial Collection 487 - Aug 2023 - 2023 - https://api.discogs.com/releases/27891108
-Listen With The Rickster - 2023 - https://api.discogs.com/releases/29955100
-Dance Masters: Arthur Baker (The Classic Dance Remixes) - 2023 - https://api.discogs.com/masters/3176529
-Now Playing: Spooky Rock - 2024 - https://api.discogs.com/releases/31988846
-Tim's Listening Party - 2024 - https://api.discogs.com/releases/32468517
-Outtakes From FUTUR-Z DJ-Set - 2024 - https://api.discogs.com/releases/34359751
-Tim's Listening Party - 2024 - https://api.discogs.com/masters/3433412
-No Spitting: 60 Classic Punk Tracks - Desconocido - https://api.discogs.com/releases/452733
-You Are Here - Desconocido - https://api.discogs.com/releases/464758
-Short Sharp Cuts - Desconocido - https://api.discogs.com/releases/2236330
-The Very Best Of The 80's 1985 Volume 1 - Desconocido - https://api.discogs.com/releases/2683112
-Classic Cuts Presents The New Romantic Era (38 Synth Pop Hits) - Desconocido - https://api.discogs.com/releases/2888112
-The Best Of Alternative - Desconocido - https://api.discogs.com/releases/3695323
-Rock & Pop Classics - 30 Original Hits - Desconocido - https://api.discogs.com/releases/3969794
-Remember The 80s - Desconocido - https://api.discogs.com/releases/3986612
-Jukebox-Hits Die Dritte - Desconocido - https://api.discogs.com/releases/5008028
-Rock Classics - Desconocido - https://api.discogs.com/releases/5009400
-Originals, Bootmashes And A Remix - Desconocido - https://api.discogs.com/releases/5296315
-Hits Explosion 3 & 4 - Desconocido - https://api.discogs.com/releases/5679676
-The Best Rock Anthology - Desconocido - https://api.discogs.com/releases/7017473
-Promo Only Hot Video Classics - Best Of '80 - '83 - Vol.1 - Desconocido - https://api.discogs.com/releases/7086371
-Remember The 80s - Desconocido - https://api.discogs.com/releases/7137574
-Live From New York City - Desconocido - https://api.discogs.com/releases/8614085
-Top 100 Hits 80s - Desconocido - https://api.discogs.com/releases/8908842
-Classic Rock - Volume 13 - Desconocido - https://api.discogs.com/releases/9333569
-Radio Skool 2 :: Older, Newer, Two-er - Desconocido - https://api.discogs.com/releases/9551713
-All Over Your Box - Desconocido - https://api.discogs.com/releases/9586464
-Hot Summer 101 On The Road Vol. 5 - Desconocido - https://api.discogs.com/releases/9664445
-Rock Best 100 Artists Vol.10 - Desconocido - https://api.discogs.com/releases/9869571
-Sweet Dreams - Desconocido - https://api.discogs.com/releases/10535389
-Soulwax Festival Road Trip - Desconocido - https://api.discogs.com/releases/10602548
-Promo Dial Internacional Nº 4 - Desconocido - https://api.discogs.com/releases/11029098
-Mix 94.1 This Is Mix Variety: Volume 1 - Desconocido - https://api.discogs.com/releases/11302373
-Rock Rebels - Desconocido - https://api.discogs.com/releases/11885787
-Mix Tape - Desconocido - https://api.discogs.com/releases/11911419
-The Very Best Of The 80's - Desconocido - https://api.discogs.com/releases/11968470
-The Live Experience - Desconocido - https://api.discogs.com/releases/12028644
-A 72 Minute Mashup - Desconocido - https://api.discogs.com/releases/12179356
-The 80's - Desconocido - https://api.discogs.com/releases/12876203
-Kiss The Dee Jay - Desconocido - https://api.discogs.com/releases/13016702
-"Rock Tha House" Booty House Mixes - Desconocido - https://api.discogs.com/releases/15113040
-101 Legends  - Desconocido - https://api.discogs.com/releases/15204884
-A&A Gives You More (Records•Tapes•Discounts) - Desconocido - https://api.discogs.com/releases/16894089
-CBGB - The Soundtrack Album - Desconocido - https://api.discogs.com/releases/17764999
-Joe & Leo's - The Greatest Hits Of The 70's And 80's - Vol. III - Desconocido - https://api.discogs.com/releases/18948994
-PC Go 80's Collection - Desconocido - https://api.discogs.com/releases/19373422
-Ü 30 Club - Party (Mit Den Megahits Zum Abfeiern!) - Desconocido - https://api.discogs.com/releases/19441987
-The 80s 2 - Desconocido - https://api.discogs.com/releases/21169900
-Fantastic 80s  - Desconocido - https://api.discogs.com/releases/21197629
-Rock & Roll Never Forgets - Desconocido - https://api.discogs.com/releases/22472878
-Topscore 3 'The First Half' - Desconocido - https://api.discogs.com/releases/22912349
-Supergroups Superhits - Desconocido - https://api.discogs.com/releases/23083805
-Wise Men Still Follow The Star - Desconocido - https://api.discogs.com/releases/24322124
-20 Original Chart Hits - The 80's - Desconocido - https://api.discogs.com/releases/25861105
-RW&CO - Winter 2001 - Desconocido - https://api.discogs.com/releases/26488256
-Series 17 1730 - Desconocido - https://api.discogs.com/releases/26902580
-GoldDisc 1802 - Desconocido - https://api.discogs.com/releases/27007350
-GoldDisc 1802 - Desconocido - https://api.discogs.com/releases/27484731
-Complete 80's Vol. 1 - Desconocido - https://api.discogs.com/releases/27750471
-GoldDisc 132 - Desconocido - https://api.discogs.com/releases/29945866
-WEA Prime Cuts - Desconocido - https://api.discogs.com/releases/31076621
-Alternative Sounds - Desconocido - https://api.discogs.com/releases/31360627
-Classic Ser. 01/Vol. 35 - Desconocido - https://api.discogs.com/releases/31509845
-(Het Beste Uit) Radio 1 Classics 100 Vol. 2 - Desconocido - https://api.discogs.com/releases/33353960
-The Best Of Hank The DJ - Desconocido - https://api.discogs.com/masters/3545116
-Real Men - Desconocido - https://api.discogs.com/masters/1644582
-Rockin' The Hits - Desconocido - https://api.discogs.com/masters/1666249
-Live In Seattle September 8th 1978 - 1978 - https://api.discogs.com/releases/2829724
-Electrically - 1978 - https://api.discogs.com/releases/2914742
-Workshop Image - 1978 - https://api.discogs.com/releases/3146226
-Compassion Is A Virtue, But ... - 1978 - https://api.discogs.com/releases/3645353
-Whitman's Punk Sampler - 1978 - https://api.discogs.com/masters/478953
-During Wartime - 1979 - https://api.discogs.com/releases/3402395
-Memories Can't Wait - 1979 - https://api.discogs.com/masters/577892
-Live On Tour - 1979 - https://api.discogs.com/masters/39413
-Electrically - 1979 - https://api.discogs.com/masters/1639360
-Emitting Diode - 1980 - https://api.discogs.com/masters/453994
-1980 Stripes-Live - 1981 - https://api.discogs.com/releases/3305123
-Théâtre Mogador - 1981 - https://api.discogs.com/masters/867411
-Talking Heads & Rhythm Section - 1981 - https://api.discogs.com/masters/2925718
-Chance Meeting - 1983 - https://api.discogs.com/releases/2092950
-Disco Punk 2 - 1984 - https://api.discogs.com/releases/14434208
-26th Annual Grammy Award 1983-1984 Part 2 - 1984 - https://api.discogs.com/releases/33544395
-Stop Making Sense - 1984 - https://api.discogs.com/masters/39350
-Stop Making Sense Part II - 1984 - https://api.discogs.com/masters/879344
-Footloose (Original Soundtrack Of Motion Picture) - 1984 - https://api.discogs.com/masters/112502
-Disco Breaks 9 - 1985 - https://api.discogs.com/releases/856686
-Big Boss - 1985 - https://api.discogs.com/releases/1697840
-Attention, Attention ! - 1985 - https://api.discogs.com/releases/8804806
-Australian Top Singles Vol. 2 - 1985 - https://api.discogs.com/releases/17314810
-Little Creatures - 1985 - https://api.discogs.com/masters/39301
-The 1986 New-Years Apocalyps - 1985 - https://api.discogs.com/masters/451261
-Bali Peanuts Club Mix - 1986 - https://api.discogs.com/releases/24788849
-True Stories (Soundtrack) - 1986 - https://api.discogs.com/masters/39386
-Interview Picture Disc - Limited Edition - 1987 - https://api.discogs.com/releases/1221694
-Gimme Heads! - 1988 - https://api.discogs.com/releases/3763501
-Greatest Hits I&II - 1988 - https://api.discogs.com/releases/14588363
-Naked - 1988 - https://api.discogs.com/masters/39321
-This Is An Unlicensed Recording Of The Best Of The 80's Live - 1990 - https://api.discogs.com/releases/8044145
-The Talking Heads Megamix - 1991 - https://api.discogs.com/releases/692366
-Greek Theatre - 1991 - https://api.discogs.com/releases/1583595
-Monkey Business - 1991 - https://api.discogs.com/masters/317325
-The Best Of - Once In A Lifetime - 1992 - https://api.discogs.com/releases/25864141
-Once In A Lifetime - The Best - 1992 - https://api.discogs.com/masters/39434
-MTV Unplugged - 1993 - https://api.discogs.com/masters/984294
-The Ultimate Eightles (The Album Of The Decade) - 1994 - https://api.discogs.com/masters/1033208
-Heads In Dallas - 1995 - https://api.discogs.com/releases/3732266
-Oobu Joobu - Part 1 & 2 - 1995 - https://api.discogs.com/releases/4446335
-The Number One Acoustic Rock Album - 1996 - https://api.discogs.com/releases/9984098
-Greatest Ballads Vol. 10 - 1996 - https://api.discogs.com/releases/12171567
-Forever Gold Of 80' - Vol. VII - 1996 - https://api.discogs.com/releases/14004800
-The Best Of 80's Vol.3 - 1997 - https://api.discogs.com/releases/29564623
-Until The End Of The World (Music From The Motion Picture Soundtrack) - 1997 - https://api.discogs.com/masters/4778
-Strictly Breaks Volume 6 - 1998 - https://api.discogs.com/releases/226147
-Diggin 5 - 1998 - https://api.discogs.com/releases/890751
-100% Rock - 1998 - https://api.discogs.com/releases/8222703
-Bounce, Rock, Skate, Roll / Once In A Lifetime - 1998 - https://api.discogs.com/masters/311043
-Fear Of Music - 1999 - https://api.discogs.com/masters/39260
-Psycho Killer - 1999 - https://api.discogs.com/masters/39394
-Dance Mastercuts - 2000 - https://api.discogs.com/releases/6556923
-Once In A Lifetime (The Y2KHeads Mixes) - 2000 - https://api.discogs.com/masters/488770
-Once In A Lifetime (Remix) - 2000 - https://api.discogs.com/masters/56981
-Happy Days Vol. 8 - Original Disco Joints Remastered - 2001 - https://api.discogs.com/releases/969446
-Drumming Heads - 2001 - https://api.discogs.com/releases/2071633
-MTV Dance Party - Ibiza 2001 - 2001 - https://api.discogs.com/masters/80380
-1000 Original Hits 1984 - 2001 - https://api.discogs.com/masters/867118
-Music Of The Millennium II - 2001 - https://api.discogs.com/masters/119643
-1000 Original Hits 1985 - 2001 - https://api.discogs.com/masters/852874
-1000 Original Hits 1992 - 2001 - https://api.discogs.com/masters/1191043
-Slippery People 2002 - 2002 - https://api.discogs.com/masters/2979361
-The Jigga Collection - 2002 - https://api.discogs.com/masters/2033377
-The Dark Side Of Disco Vol. 1 - 2003 - https://api.discogs.com/releases/181713
-Talking Heads:77 / Fear Of Music - 2003 - https://api.discogs.com/releases/6011694
-Full 12" Mixes & Re-Edits Volume 7 - 2004 - https://api.discogs.com/releases/261711
-1981 - 2004 - https://api.discogs.com/releases/10096281
-Unreleased Remix & Mashups - 2004 - https://api.discogs.com/releases/26219084
-I Zimbra / Jezebel Spirit - 2005 - https://api.discogs.com/releases/424908
-The Dark Side Of Disco Vol. 2 - 2005 - https://api.discogs.com/masters/3251581
-Rare 12" Mixes - 2005 - https://api.discogs.com/masters/931617
-Once In A Lifetime (Breaks Remix) - 2006 - https://api.discogs.com/releases/802684
-Rebtuz Presents EP 7 - 2006 - https://api.discogs.com/releases/808013
-Loud Ass Mother Fucker - 2006 - https://api.discogs.com/releases/3108833
-Sounds Of The 70s - 2006 - https://api.discogs.com/releases/4213504
-Studio 33 - Best Of The 80's Step 5 - Part 1 - 2006 - https://api.discogs.com/releases/10316179
-Dortmund, Germany Plus CBGB's, New York City - 2006 - https://api.discogs.com/releases/10387942
-Burning Down The House - 2006 - https://api.discogs.com/masters/39249
-MP3 Collection - 2006 - https://api.discogs.com/masters/345181
-Dance (Instrumental) / Crosseyed & Painless - 2007 - https://api.discogs.com/releases/1004040
-Psycho Killer (Lexicon Avenue Remix) - 2007 - https://api.discogs.com/releases/1041878
-Sounds Of The Seventies Volume Two - 2007 - https://api.discogs.com/releases/9201988
-The Warning Signs - 2007 - https://api.discogs.com/releases/15675295
-It's The Motherfucking Remix (Mashup Masterclass #2) - 2007 - https://api.discogs.com/masters/1280803
-DC Le Groove / Gotta Tape I Wanna Play - 2007 - https://api.discogs.com/masters/2774003
-Back To Mine - 2007 - https://api.discogs.com/masters/294901
-Strictly Breaks - The Definitive Collector's Box Set - 2008 - https://api.discogs.com/releases/1804642
-Once In A Livetime - 2008 - https://api.discogs.com/releases/9747596
-Stop Making Sense - 2008 - https://api.discogs.com/masters/566433
-Live In Rome - 2008 - https://api.discogs.com/masters/458328
-Feels Good (You Got The Love) / Heads - 2009 - https://api.discogs.com/releases/2009139
-Cape Cod Coliseum - 2009 - https://api.discogs.com/releases/12805201
-Tom Tom Club & Talking Heads - 2009 - https://api.discogs.com/releases/16192359
-I Love 80's Big Hits Of A Decade - 2009 - https://api.discogs.com/releases/16604589
-Digital Deviance Vol. 1 - 2010 - https://api.discogs.com/releases/2315371
-Providence In Motion - 2010 - https://api.discogs.com/releases/8535293
-Early 12" Collection - 2010 - https://api.discogs.com/masters/3231799
-The 1975 CBS Demo Session - 2010 - https://api.discogs.com/masters/577891
-Live At The Boarding House - 2010 - https://api.discogs.com/masters/1272613
-This Must Be The Place  / Everywhere - 2010 - https://api.discogs.com/masters/622206
-MDD Mix 039 - 2011 - https://api.discogs.com/releases/3085581
-I Zimbra / Burning Down The House - 2011 - https://api.discogs.com/releases/3222023
-Mash-Up Your Bootz Party Sampler Vol. 52 - 2011 - https://api.discogs.com/releases/4244632
-Mixed Salad January 2011 - 2011 - https://api.discogs.com/releases/5015234
-Garage Classics Vol. 4 - 2012 - https://api.discogs.com/releases/3587485
-Africa In Your Earbuds ★20 - 2012 - https://api.discogs.com/releases/5997121
-After The Money Is Gone - 2012 - https://api.discogs.com/releases/32225343
-As Heard On Radio Soulwax Pt. 15 - 2012 - https://api.discogs.com/releases/32818770
-Once In A Lifetime / Bostich - 2013 - https://api.discogs.com/releases/4669350
-Talking Heads - 2013 - https://api.discogs.com/releases/4695144
-Live in Roma - 2013 - https://api.discogs.com/releases/22436182
-Live in Roma - 2013 - https://api.discogs.com/releases/29484472
-TVLKINGHEVDITS - 2013 - https://api.discogs.com/masters/924082
-Someone Controls Electric Guitar - 2013 - https://api.discogs.com/masters/3449285
-Real Live Wires (Chicago Broadcast 1978) - 2013 - https://api.discogs.com/masters/636572
-White Light 93 - 2014 - https://api.discogs.com/releases/5723154
-Dedikated Edits Vol. 1 - 2014 - https://api.discogs.com/releases/5766254
-Theo Kamann's In The 80s Mix - Vol.5 - 2014 - https://api.discogs.com/releases/7694470
-Transmission Impossible (Legendary Radio Broadcasts 1978-1979) - 2015 - https://api.discogs.com/masters/3288547
-Saratoga Psycho - 2015 - https://api.discogs.com/masters/978628
-/v/ - The Musical IV - 2016 - https://api.discogs.com/releases/9217829
-Psycho Killers, Radio Waves 1978-1982 - 2016 - https://api.discogs.com/releases/9601593
-Live In Rome 1980 - 2016 - https://api.discogs.com/releases/10487215
-David Bowie's Jukebox (Songs That Inspired The Man) - 2016 - https://api.discogs.com/releases/13509413
-Live At Werchter Festival July 4, 1982 - 2016 - https://api.discogs.com/masters/2531578
-Relax, It's Just A Bootlegg - 2017 - https://api.discogs.com/releases/10137353
-Fear of Boston - 2017 - https://api.discogs.com/releases/11609378
-Tokyo 1981 2nd Night - 2017 - https://api.discogs.com/releases/13321464
-The Archives: Classic Broadcast Recordings - 2017 - https://api.discogs.com/releases/13491616
-Cinquenta Tons de Pop/Rock - 2017 - https://api.discogs.com/releases/18979492
-The Little Box Of David Bowie - 2018 - https://api.discogs.com/releases/11522939
-I Zimbra / Was That All It Was - 2018 - https://api.discogs.com/releases/11642140
-Talking Heads-Capitol Theater - 2018 - https://api.discogs.com/releases/13159002
-The Lost BBC Sessions 66-79 - 2018 - https://api.discogs.com/masters/1700902
-'Remain In Light' Unreleased Outtakes - 2020 - https://api.discogs.com/releases/14565103
-The Archives - 2020 - https://api.discogs.com/releases/14800082
-Tokyo '79 - 2020 - https://api.discogs.com/releases/24543722
-POOPS: The Greatest Hits - 2020 - https://api.discogs.com/releases/31801595
-The Talking Heads Tour - 2020 - https://api.discogs.com/masters/3423028
-Three From One - 2021 - https://api.discogs.com/releases/19473790
-Tokyo 1981 Final Night Definitive Master - 2021 - https://api.discogs.com/releases/22433752
-Stay Hungry - 2022 - https://api.discogs.com/releases/24101624
-B-Sides - 2022 - https://api.discogs.com/releases/24603476
-Psycho Killers Live 1980 - 2022 - https://api.discogs.com/releases/24805475
-Psycho Killers - 2022 - https://api.discogs.com/releases/26422340
-Live Rock (Live in Chicago 1978) - 2022 - https://api.discogs.com/releases/28983313
-Speaking In Tongues - 2022 - https://api.discogs.com/masters/39336
-Ashes To Dust : Volume 2 - 2023 - https://api.discogs.com/releases/27694452
-As Birds Fly Some Cry Some Hum - 2023 - https://api.discogs.com/releases/34206109
-Fear Of Tokyo - 2023 - https://api.discogs.com/masters/3730905
-Talking Heads: 77 - 2024 - https://api.discogs.com/releases/30496054
-Montreux Jazz Festival 1982 - 2024 - https://api.discogs.com/releases/30761967
-Amsterdam 1980 - 2024 - https://api.discogs.com/releases/31171648
-The Boarding House 1978 - 2024 - https://api.discogs.com/releases/32099247
-Psycho Killers - 2024 - https://api.discogs.com/releases/32922513
-Stepping In A Rhythm (Live) - 2024 - https://api.discogs.com/releases/33797259
-Take Us To The River - 2024 - https://api.discogs.com/masters/3767805
-Breakstep Remixes - Desconocido - https://api.discogs.com/releases/483596
-Interview Disc - Desconocido - https://api.discogs.com/releases/536112
-80's New Wave Hits Vol. 8 - Desconocido - https://api.discogs.com/releases/617741
-80's New Wave Hits Vol. 5 - Desconocido - https://api.discogs.com/releases/619661
-New Wave Mix Vol. 7 - Desconocido - https://api.discogs.com/releases/1143191
-Only The Best - Desconocido - https://api.discogs.com/releases/1196086
-Doomtrax II - Desconocido - https://api.discogs.com/releases/1439708
-Once In A Lifetime (Letting The Days Go By) - Desconocido - https://api.discogs.com/releases/1441113
-Smash - Desconocido - https://api.discogs.com/releases/1564146
-To Use All - Desconocido - https://api.discogs.com/releases/2173868
-A Sack Of Jigga - Desconocido - https://api.discogs.com/releases/2577274
-The Psycho Killers / The Secret Lives Of Tina Weymouth - Desconocido - https://api.discogs.com/releases/2628089
-Club Mix - Desconocido - https://api.discogs.com/releases/3207009
-Funk Fussion Re-Edits Volume 2 - Desconocido - https://api.discogs.com/releases/3962443
-Pop & Wave Vol. 1 Megamix Edition - Das Mysterium Kehrt Zurück Teil 4 - Desconocido - https://api.discogs.com/releases/4916789
-Another Rock Best 100 Artists Vol. 9 - Desconocido - https://api.discogs.com/releases/5728992
-San Fran 1978 - Desconocido - https://api.discogs.com/releases/6183321
-Remain In Light / Little Creatures - Desconocido - https://api.discogs.com/releases/6308474
-Get Ripped Off!  - Desconocido - https://api.discogs.com/releases/6975590
-Stop Making Sense / Storytelling Giant - Desconocido - https://api.discogs.com/releases/7732923
-Rockpop - Desconocido - https://api.discogs.com/releases/8207091
-No Wave 8 - Desconocido - https://api.discogs.com/releases/8346367
-Prince New Power Generation Radio Show - Desconocido - https://api.discogs.com/releases/8430015
-Paul McCartney часть 5-6 (Oobu Joobu) - Desconocido - https://api.discogs.com/releases/8800021
-Greatest Hits Of Talking Heads - Desconocido - https://api.discogs.com/releases/8870665
-Pop Sh!t (Hip Hop Beats X Pop Hits) - Desconocido - https://api.discogs.com/releases/13782215
-Greatest - Desconocido - https://api.discogs.com/releases/14086756
-The Night Remain - Desconocido - https://api.discogs.com/releases/14809799
-Fear Of Music Unreleased Outtakes - Desconocido - https://api.discogs.com/releases/15936115
-Funk Fussion Re-Edits Volumes 1 And 2 - Desconocido - https://api.discogs.com/releases/17310640
-Live - Desconocido - https://api.discogs.com/releases/17805295
-Wave's History 2 - Desconocido - https://api.discogs.com/releases/22149178
-New Wave Greatest Hits Vol. 1 - Desconocido - https://api.discogs.com/releases/23500049
-Catch The 80's: Live In Tokyo 1979 - Desconocido - https://api.discogs.com/releases/24480713
-Art School - Desconocido - https://api.discogs.com/releases/24821561
-Little Creatures - Desconocido - https://api.discogs.com/releases/26572424
-True Stories - Desconocido - https://api.discogs.com/releases/27974223
-Hit Pop! Vol. 2 - Desconocido - https://api.discogs.com/releases/29897848
-Untitled - Desconocido - https://api.discogs.com/masters/3668157
-More Songs About Buildings And Food - Desconocido - https://api.discogs.com/masters/39312
-Gold - Desconocido - https://api.discogs.com/masters/1190315
-The Name Of This Band - Desconocido - https://api.discogs.com/masters/39355
-Talking Heads '77 - Desconocido - https://api.discogs.com/masters/39365
-Storytelling Giant - Desconocido - https://api.discogs.com/masters/39452
-Doomtrax / The Princepals Of Dancing - Desconocido - https://api.discogs.com/masters/2530219
-Chicken Chack - Desconocido - https://api.discogs.com/masters/1334208
-Talking Heads Live - Desconocido - https://api.discogs.com/masters/1481804
-Remain In Light - Desconocido - https://api.discogs.com/masters/25688
-The Name Of This Band Is Talking Heads - Desconocido - https://api.discogs.com/masters/593372
-Take Me To Boston - Desconocido - https://api.discogs.com/masters/311042
+Trouble Child / Dedicated To You - 1964 - https://api.discogs.com/masters/748096
+Come To Me / Girls Have Feelings Too - 1964 - https://api.discogs.com/masters/1118178
+Is It Me? / Don't Ever Want To Lose Your Love - 1965 - https://api.discogs.com/masters/530494
+If You Don't (Love Me, Tell Me So) - 1965 - https://api.discogs.com/masters/604867
+Yes, I'm Ready / Keep Him - 1965 - https://api.discogs.com/masters/476540
+Yes, I'm Ready - 1965 - https://api.discogs.com/masters/356226
+Sad, Sad Girl - 1965 - https://api.discogs.com/masters/881655
+I Need Love / Bobby, Is My Baby - 1966 - https://api.discogs.com/masters/387322
+Poor Girl In Trouble / Hello Baby - 1966 - https://api.discogs.com/masters/1226726
+You Can Depend On Me / Game Of Love - 1967 - https://api.discogs.com/masters/1210541
+Oh, How It Hurts / Ain't Got Nobody - 1967 - https://api.discogs.com/masters/295803
+I'm No Good For You / Don't Ever Go Away - 1968 - https://api.discogs.com/masters/812221
+I Don't Want To Lose You / Dedicated To The One I Love - 1968 - https://api.discogs.com/masters/993548
+(I Can Feel Your Love) Slipping Away / Half A Love - 1968 - https://api.discogs.com/masters/663438
+Oh How It Hurts - 1968 - https://api.discogs.com/masters/467911
+Take It Easy (With My Heart) / You Never Loved Me (At All) - 1969 - https://api.discogs.com/masters/527399
+You Better Stop It - 1969 - https://api.discogs.com/masters/951510
+When You Look At Me - 1970 - https://api.discogs.com/masters/631510
+If You Knew Him Like I Do / Raindrops Keep Fallin' On My Head - 1970 - https://api.discogs.com/masters/678107
+If You Knew Him Like I Do - 1970 - https://api.discogs.com/masters/1041688
+Just A Little Lovin' / Yes, It's You - 1970 - https://api.discogs.com/masters/595818
+I Can't Help It / Jean (Gene) - 1970 - https://api.discogs.com/masters/1589688
+Pow Pow Song - 1971 - https://api.discogs.com/masters/889040
+Hooked On A Feeling / Breaking Up Is Hard To Do - 1972 - https://api.discogs.com/releases/7474920
+Give Me Your Love - 1972 - https://api.discogs.com/masters/263851
+Give Me Your Love - 1972 - https://api.discogs.com/masters/263852
+Bed And Board - 1972 - https://api.discogs.com/masters/448343
+Woman And Man / Who Will You Hurt Next - 1972 - https://api.discogs.com/masters/1399751
+Child Of Tomorrow  - 1973 - https://api.discogs.com/masters/527396
+Yes, I'm Ready - 1973 - https://api.discogs.com/masters/677528
+Lady Love - 1973 - https://api.discogs.com/masters/263854
+Caught In The Middle (Of A One Sided Love Affair) - 1973 - https://api.discogs.com/masters/890672
+All In Love Is Fair - 1974 - https://api.discogs.com/releases/19331329
+Transition - 1974 - https://api.discogs.com/masters/255592
+The Devil Is Busy - 1974 - https://api.discogs.com/masters/352955
+Half Sister, Half Brother / Our Day Will Come - 1974 - https://api.discogs.com/masters/993539
+World War Three - 1974 - https://api.discogs.com/masters/868635
+From His Woman To You - 1974 - https://api.discogs.com/masters/295923
+Miracle Man - 1975 - https://api.discogs.com/releases/20398420
+Love's The Thing - 1975 - https://api.discogs.com/masters/539245
+Shackin' Up - 1975 - https://api.discogs.com/masters/200830
+We Got Each Other / Make It Last - 1975 - https://api.discogs.com/masters/902366
+Love's The Thing - 1975 - https://api.discogs.com/masters/1428799
+Sheba, Baby, Original Motion Picture Soundtrack - 1975 - https://api.discogs.com/masters/416742
+Love Song / Locked In This Position - 1977 - https://api.discogs.com/releases/1887079
+Locked In This Position - 1977 - https://api.discogs.com/masters/2569289
+Yes I'm Ready / Tossin' And Turnin' - 1977 - https://api.discogs.com/masters/917496
+Darling Come Back Home - 1978 - https://api.discogs.com/masters/240313
+I Am Your Woman, She Is Your Wife - 1978 - https://api.discogs.com/masters/157469
+Take Me Tonight - 1978 - https://api.discogs.com/masters/1226727
+A Piece Of My Life - 1980 - https://api.discogs.com/masters/263182
+I'll Never Love The Same Man Twice / You Did Not Stay Last Night - 1980 - https://api.discogs.com/masters/527397
+Yes I'm Ready / On And Off - 1980 - https://api.discogs.com/masters/294306
+Let Me Give You Love - 1981 - https://api.discogs.com/masters/157470
+She's Got The Papers (But I Got The Man) - 1981 - https://api.discogs.com/masters/723374
+On And Off - 1981 - https://api.discogs.com/masters/687565
+Another Man - 1983 - https://api.discogs.com/masters/115060
+Soul On Sound 027 - 1984 - https://api.discogs.com/releases/5142132
+Don't I Ever Cross Your Mind Sometime - 1984 - https://api.discogs.com/masters/157468
+Tied Up - 1984 - https://api.discogs.com/masters/2177431
+I'll Never Love The Same Way Twice - 1985 - https://api.discogs.com/masters/467552
+Philadelphia's Lady Love (The Best Of Barbara Mason) - 1990 - https://api.discogs.com/releases/6161831
+Another Man - 1992 - https://api.discogs.com/releases/32985540
+Another Man / You Can't Have Your Cake And Eat It Too - 1993 - https://api.discogs.com/releases/1168646
+The West End Story - 1993 - https://api.discogs.com/releases/3207377
+Sing About Life / Give Me Your Love - 1994 - https://api.discogs.com/releases/4430718
+Another Man / Joy (I Know It) - 1995 - https://api.discogs.com/releases/210977
+Another Man - 1995 - https://api.discogs.com/masters/522801
+The Very Best Of - 1996 - https://api.discogs.com/releases/8726364
+Yes I’m Ready - 1997 - https://api.discogs.com/releases/23628263
+Yes I'm Ready - Best Of Barbara Mason - 2000 - https://api.discogs.com/releases/8108723
+Club Classics 19 - 2001 - https://api.discogs.com/releases/1495884
+The Best Of The Buddah Years - 2001 - https://api.discogs.com/masters/809550
+SoulFul Truth - 2001 - https://api.discogs.com/masters/1740719
+Another Man / Let's Go Dancin' - 2002 - https://api.discogs.com/masters/2224999
+The Greatest Hits - 2003 - https://api.discogs.com/releases/4093107
+Another Man / Dancin' For Your Love - 2006 - https://api.discogs.com/releases/1721380
+Feeling Blue - 2007 - https://api.discogs.com/releases/13185839
+Yes, I'm Ready - 2011 - https://api.discogs.com/releases/20368351
+World In A Crisis / Give Me Your Love - 2014 - https://api.discogs.com/masters/736410
+You Better Stop It / I Do Love You  - 2016 - https://api.discogs.com/masters/3603686
+The Lost 80s Sessions - 2022 - https://api.discogs.com/releases/22898063
+You Better Stop It - 2024 - https://api.discogs.com/masters/3802248
+Tried So Hard - 2025 - https://api.discogs.com/releases/33995649
+Tried So Hard - 2025 - https://api.discogs.com/releases/34200832
+Oh How It Hurts / Daddy's Home - Desconocido - https://api.discogs.com/releases/4701915
+Smile Now Cry Later / Yes, I'm Ready - Desconocido - https://api.discogs.com/releases/5903872
+Bed And Board / Dream Merchant - Desconocido - https://api.discogs.com/releases/10094080
+Shackin' Up / Yes, I'm Ready - Desconocido - https://api.discogs.com/releases/11642460
+Dry Your Eyes / Oh How It Hurts - Desconocido - https://api.discogs.com/releases/11945435
+Soul is Human Pop - Special D.J. Copy - Desconocido - https://api.discogs.com/releases/23291291
+I Believe And Have Not Seen - Desconocido - https://api.discogs.com/releases/26103550
+Yes I'm Ready / Oh How It Hurts - Desconocido - https://api.discogs.com/masters/1507796
+The Best Of WMOT Records (Watch Out) - 1995 - https://api.discogs.com/releases/2501844
+Galaxxy - Desconocido - https://api.discogs.com/masters/588353
+It's Gonna Take A Miracle - 1965 - https://api.discogs.com/masters/333912
+Yes I'm Ready - 1965 - https://api.discogs.com/masters/1505391
+Yes I'm Ready / Band Of Gold - 1966 - https://api.discogs.com/releases/6471110
+Comfort Me - 1966 - https://api.discogs.com/releases/8381714
+Teenage Souvenir = 十代の想い出 - 1966 - https://api.discogs.com/releases/26191490
+Comfort Me - 1966 - https://api.discogs.com/masters/305348
+Keep Him - 1966 - https://api.discogs.com/masters/931250
+Everybody Needs Love - 1967 - https://api.discogs.com/masters/92908
+Sugar, Let's Shing-A-Ling / Soul Time With Shirley Ellis - 1967 - https://api.discogs.com/masters/327409
+Not Only A Girl Knows - 1967 - https://api.discogs.com/masters/1156011
+Groov'y Baby - 1968 - https://api.discogs.com/releases/3034410
+Yes, I'm Ready - 1968 - https://api.discogs.com/releases/5560426
+The Horse - 1968 - https://api.discogs.com/masters/329199
+(Girls Have Feelings) Just Like The Boys Do - 1969 - https://api.discogs.com/masters/1416766
+Soul Summit - 1969 - https://api.discogs.com/masters/678022
+Is This The Way To Treat A Girl (You Bet It Is) - 1969 - https://api.discogs.com/masters/987645
+Ain't Got The Love Of One Girl (On My Mind) - 1969 - https://api.discogs.com/masters/343038
+Pure Soul - 1970 - https://api.discogs.com/releases/14481349
+Sunday's Child - 1970 - https://api.discogs.com/masters/556790
+Love Is Gonna Rain On You - 1970 - https://api.discogs.com/masters/319888
+Soul Black & Beautiful Vol. II - 1971 - https://api.discogs.com/releases/6350349
+The Horse (Instrumental) / If You Don't - 1972 - https://api.discogs.com/masters/1661067
+Maybe - If I Leave You / Back On The Road Again - 1973 - https://api.discogs.com/masters/1270860
+Oldies But Goodies American Hits 1 - 1973 - https://api.discogs.com/masters/2183821
+I Can't Account For My Actions - 1973 - https://api.discogs.com/masters/2470711
+If You Should Ever - 1974 - https://api.discogs.com/masters/1665773
+Ninety Days (In The House Of Love Correction)	 - 1975 - https://api.discogs.com/releases/24664484
+Castles In The Sky - 1975 - https://api.discogs.com/masters/246791
+Gotta Let Some Sunshine Into My Life - 1975 - https://api.discogs.com/masters/763619
+Sheba, Baby - 1975 - https://api.discogs.com/masters/416742
+Strange - 1975 - https://api.discogs.com/masters/558062
+Toby Kang - 1976 - https://api.discogs.com/releases/1642970
+New York Disco Flash - Disco Special Vol.2 - 1976 - https://api.discogs.com/releases/5998403
+Yes, I'm Ready / Smile Me A Song - 1976 - https://api.discogs.com/masters/2073883
+Tom Sullivan - 1976 - https://api.discogs.com/masters/1601921
+1st Prize - 1977 - https://api.discogs.com/releases/13590859
+Moonlight Madness - 1979 - https://api.discogs.com/masters/155722
+Yes, I'm Ready - 1979 - https://api.discogs.com/masters/155724
+Maureen McGovern - 1979 - https://api.discogs.com/masters/552697
+Solid Gold Hits '80 - 1980 - https://api.discogs.com/releases/7422474
+Hitline Volume 2 - 1980 - https://api.discogs.com/masters/1031003
+Hitline - 1980 - https://api.discogs.com/masters/1174912
+Soita Mulle - 1980 - https://api.discogs.com/masters/475107
+He's A Rebel - 1981 - https://api.discogs.com/releases/2784439
+Galaxxy - 1982 - https://api.discogs.com/masters/588353
+Girls Of The 60's - 1983 - https://api.discogs.com/releases/5841979
+If Dreams Were Real - 1983 - https://api.discogs.com/masters/677945
+Music Masters (Volume 1) - 1984 - https://api.discogs.com/releases/173699
+Friday Night Forever - 1984 - https://api.discogs.com/releases/11006879
+On And Off / Go Version - 1984 - https://api.discogs.com/masters/939418
+Nostalgia - 1985 - https://api.discogs.com/masters/1544737
+Is It Alright - 1985 - https://api.discogs.com/masters/600310
+Yes, I'm Ready - 1986 - https://api.discogs.com/masters/1393245
+Everybody Needs Love /  If I Were Your Woman  - 1986 - https://api.discogs.com/masters/1627053
+Yes I'm Ready / Runaround Sue - 1986 - https://api.discogs.com/masters/2563016
+Yes I'm Ready - 1987 - https://api.discogs.com/releases/1517170
+Soul Shots Volume 5: "La-La Means I Love You" (Ballads) - 1987 - https://api.discogs.com/masters/1824218
+Classic Rock 1965: Shakin' All Over - 1989 - https://api.discogs.com/masters/775313
+Motorcity Love Songs - 1990 - https://api.discogs.com/releases/2850790
+Greatest Hits = 精選集 - 1990 - https://api.discogs.com/masters/300842
+Are You Ready To Fall In Love! - 1991 - https://api.discogs.com/releases/7401454
+AM Gold - Mid-'60s Classics - 1992 - https://api.discogs.com/masters/2458726
+Yes, I'm Ready - 1993 - https://api.discogs.com/releases/8838257
+Gettin' It Off • Westbound Funk - 1993 - https://api.discogs.com/masters/121705
+Slow Jams: The 60s Volume One - 1993 - https://api.discogs.com/masters/2617313
+Castles In The Sky / The Legendary Zing Album - 1994 - https://api.discogs.com/releases/11131973
+The Casablanca Records Story - 1994 - https://api.discogs.com/masters/239695
+I Got A Love - 1994 - https://api.discogs.com/masters/39516
+The Main Ingredient - 1994 - https://api.discogs.com/masters/39522
+The West End Story Volume 4 - 1994 - https://api.discogs.com/masters/137497
+Αγάπησέ Με - 1995 - https://api.discogs.com/masters/446793
+Love On My Mind - 1996 - https://api.discogs.com/releases/18032494
+Casablanca Records Greatest Hits - 1996 - https://api.discogs.com/masters/410919
+Beg Scream & Shout! The Big Ol' Box Of '60s Soul - 1997 - https://api.discogs.com/releases/766329
+25th Anniversary Collection - 1999 - https://api.discogs.com/releases/908268
+Roots Of Rhythm: Make Me Yours - 2000 - https://api.discogs.com/releases/32159235
+People Get Ready - 24 Soul Hits - 2001 - https://api.discogs.com/releases/15999062
+The All Time Greatest Duets Of The Millenium - 2001 - https://api.discogs.com/masters/1450369
+MGM Soul Cinema, Volume 1 - 2002 - https://api.discogs.com/releases/1561512
+Auto Focus - Original Motion Picture Soundtrack - 2002 - https://api.discogs.com/masters/749675
+Soul Spectacular! - The Greatest Soul Hits Of All Time - 2002 - https://api.discogs.com/masters/1434508
+Diplomatic Immunity - 2003 - https://api.discogs.com/masters/144939
+Rock & Roll - The First 50 Years - The Mid-'60s - 25 Top 10 Hits - 2004 - https://api.discogs.com/releases/6234344
+Duets (The Final Chapter) - 2005 - https://api.discogs.com/masters/58056
+From The Soul - 2005 - https://api.discogs.com/masters/2102491
+The Soul Story - 2006 - https://api.discogs.com/releases/2897233
+Everybody Needs Love + Feelin' Bluesy - 2006 - https://api.discogs.com/releases/4273269
+Mutha Funkin Sonofa Bitch (The Truth Behind The Philly Legend) - 2006 - https://api.discogs.com/masters/1332878
+Sister Funk 2 (The Sound Of The Unknown Soul Sisters) - 2007 - https://api.discogs.com/masters/85979
+03 - Groove 80 - 2008 - https://api.discogs.com/releases/1482311
+Where The Girls Are Volume 7 - 2009 - https://api.discogs.com/releases/4008712
+It's Gonna Take A Miracle: The Complete MGM Recordings - 2010 - https://api.discogs.com/releases/7514105
+Cooler Than Ice: Arctic Records And The Rise Of Philly Soul - 2012 - https://api.discogs.com/releases/4170869
+The Greatest Ever... Divas - 2013 - https://api.discogs.com/releases/22135165
+Prisoner Of Conscious - 2013 - https://api.discogs.com/masters/554571
+Ready To Die - 2013 - https://api.discogs.com/masters/57970
+The Sock Hop Collection: Save The Last Dance For Me - 2014 - https://api.discogs.com/releases/26227133
+Voices - 2014 - https://api.discogs.com/masters/656055
+The Documentary 2 - 2015 - https://api.discogs.com/masters/897094
+Memphis... Yes, I'm Ready - 2017 - https://api.discogs.com/masters/1267972
+We Got Next II -The Revolution Is Here! - 2018 - https://api.discogs.com/releases/19557979
+Studio One Lovers - 2018 - https://api.discogs.com/masters/109543
+Shaolin Soul (Episode 4) - 2018 - https://api.discogs.com/masters/1429491
+Dr. Packer Reworks - 2019 - https://api.discogs.com/releases/14119537
+You Never Loved Me At All - 2020 - https://api.discogs.com/releases/16214847
+A Written Testimony - 2020 - https://api.discogs.com/masters/1870362
+Change Me - 2021 - https://api.discogs.com/releases/20403862
+Are You Ready - Desconocido - https://api.discogs.com/releases/7144704
+Unbelievable - Desconocido - https://api.discogs.com/releases/7518463
+Nobody Wants You (When You're Down & Out) - Desconocido - https://api.discogs.com/releases/14544589
+Roses and Rainbows - Desconocido - https://api.discogs.com/masters/1349067
+Donny Brooks (Soul Finger) Presents 20 Great Oldies - 1967 - https://api.discogs.com/masters/3009557
+Groov'y Baby - 1968 - https://api.discogs.com/releases/3034410
+WQAM 560 The Roaring 30 - 1968 - https://api.discogs.com/releases/3939311
+Top Pops #271 - 1968 - https://api.discogs.com/releases/6319631
+Old 'N Golden - 1968 - https://api.discogs.com/masters/2742797
+21 Very Important Platters Vol. #1 - 1968 - https://api.discogs.com/masters/1084588
+68/WRKO 30 Now Goldens - 1968 - https://api.discogs.com/masters/702163
+Music For Young Lovers - Volume 3 - 1968 - https://api.discogs.com/masters/1278698
+24 Solid Hits - 1968 - https://api.discogs.com/masters/856414
+Soul Over The City - 1968 - https://api.discogs.com/masters/614873
+Big 10 Winter Gold - 1969 - https://api.discogs.com/releases/6780540
+93/KHJ: "Sound Of The Sixties" - 1970 - https://api.discogs.com/releases/604698
+The Two Sides Of Donny Brooks - 1970 - https://api.discogs.com/releases/3010064
+Wape Solid Gold Volume 1 - 1971 - https://api.discogs.com/releases/7183082
+KCBQ Super Hits Vol. 2 - 1972 - https://api.discogs.com/releases/5216646
+72 Original Hits - 1972 - https://api.discogs.com/releases/5840466
+20 Electric Hits - 1972 - https://api.discogs.com/releases/23577218
+Super Bad - 1972 - https://api.discogs.com/masters/778818
+20 More Monster Hits - 1972 - https://api.discogs.com/masters/1637957
+Bright Side Of Music - 1972 - https://api.discogs.com/masters/479001
+Super Sellers - 1973 - https://api.discogs.com/releases/2523777
+The American Dream - The London American Legend - 1973 - https://api.discogs.com/releases/3882400
+Dance Party No 7 - 1973 - https://api.discogs.com/releases/9884766
+Super Pop Rock And Soul, Vols. 3 & 4 - 1973 - https://api.discogs.com/releases/25297903
+American Top 40 - 1973 - https://api.discogs.com/releases/25816681
+Super Pop Rock And Soul - 1973 - https://api.discogs.com/masters/1581670
+Oldies But Goodies American Hits 1 - 1973 - https://api.discogs.com/masters/2183821
+Original Motion Picture Soundtrack: Gordon's War - 1973 - https://api.discogs.com/masters/324317
+Soul Train Hits That Made It Happen - 1973 - https://api.discogs.com/masters/366836
+Super Bad - 1973 - https://api.discogs.com/masters/407010
+Soul Collection - 1974 - https://api.discogs.com/releases/22172410
+Super Soul No.6 - 1975 - https://api.discogs.com/releases/4365033
+For Ladies Only - 1975 - https://api.discogs.com/releases/10607974
+For Ladies Only - 1975 - https://api.discogs.com/releases/28010214
+Souled Out - 1975 - https://api.discogs.com/masters/345876
+In Concert (18 Original Hits 18 Original Stars) - 1975 - https://api.discogs.com/masters/1362871
+Solid Gold - 1976 - https://api.discogs.com/releases/3193502
+New York Disco Flash - Disco Special Vol.2 - 1976 - https://api.discogs.com/releases/5998403
+International Power - As 14 Locomotivas - 1976 - https://api.discogs.com/releases/26369393
+35 Golden Hits - 1976 - https://api.discogs.com/masters/3091806
+Music Power - 1977 - https://api.discogs.com/releases/2896444
+Good Old Rock & Roll - 1978 - https://api.discogs.com/masters/715954
+Super Hits: 1965 - 1979 - https://api.discogs.com/releases/15788296
+Music Like Studio 54 - 1979 - https://api.discogs.com/masters/183466
+Discotheque Aquarius - 1979 - https://api.discogs.com/masters/962432
+Memories - 1980 - https://api.discogs.com/releases/7567592
+Music To Park By "20 Romantic Rock & Roll Hits" - 1980 - https://api.discogs.com/masters/1859664
+Momentos... - 1980 - https://api.discogs.com/masters/631514
+Juke Box Revival - Vol. 15 - Año 65 - 1981 - https://api.discogs.com/masters/3838038
+Cruisin' 1965 - 1981 - https://api.discogs.com/masters/699262
+Radio Active Hits Volume 1 - 1982 - https://api.discogs.com/masters/1462836
+Girls Of The 60's - 1983 - https://api.discogs.com/releases/5841979
+Sweet Soul Music - 1983 - https://api.discogs.com/releases/15933033
+Music Masters (Volume 1) - 1984 - https://api.discogs.com/releases/173699
+Mixtures Volume 2 (Non Stop Mega Master Mixes) - 1984 - https://api.discogs.com/releases/2287678
+Break Dance - 1984 - https://api.discogs.com/releases/5905202
+Friday Night Forever - 1984 - https://api.discogs.com/releases/11006879
+Supermezcla 84 - 1984 - https://api.discogs.com/releases/11846771
+Street Sounds Edition 8 - 1984 - https://api.discogs.com/masters/631512
+Breakdance Special - 1984 - https://api.discogs.com/masters/63717
+Romantic Hits For Lovers (Volume 2) - 1984 - https://api.discogs.com/masters/2515711
+The Heart  Of Rock & Roll - 1985 - https://api.discogs.com/releases/3919190
+The Best Of Rock & Roll Vol. 11 - 1985 - https://api.discogs.com/releases/6088760
+The Kings Of Soul - 1985 - https://api.discogs.com/releases/12492465
+The Kings Of Soul - 1985 - https://api.discogs.com/masters/3050825
+Motor City Sound - 1985 - https://api.discogs.com/masters/2617304
+20 Greatest Hits, 1964: Original Artists - 1986 - https://api.discogs.com/masters/1547788
+Cruisin' 1965 - Robert W. Morgan, KHJ, Los Angeles - 1986 - https://api.discogs.com/masters/715952
+Streetwave - The First Three Years (Vol. 1) - 1986 - https://api.discogs.com/masters/53025
+Hey Love... (The Classic Sounds Of Sexy Soul) - 1986 - https://api.discogs.com/masters/369122
+Just For You - 1987 - https://api.discogs.com/releases/7816663
+Good Old Rock & Roll Volume 1 - 1987 - https://api.discogs.com/releases/15548228
+More Dancing Dirty Vol. I - 1987 - https://api.discogs.com/releases/15560345
+Summer Love - 1987 - https://api.discogs.com/masters/1103900
+Anthems Volume 3 - 1987 - https://api.discogs.com/masters/124045
+Out Of The Blue Vol.1 - 1987 - https://api.discogs.com/masters/1023223
+West End Story - 1987 - https://api.discogs.com/masters/144286
+Soul Shots Volume 5: "La-La Means I Love You" (Ballads) - 1987 - https://api.discogs.com/masters/1824218
+Midnight 101 Super Soul Hits - 1988 - https://api.discogs.com/releases/9111753
+Girls, Girls, Girls - 1988 - https://api.discogs.com/releases/10488195
+Cruising' 1965 - 1988 - https://api.discogs.com/releases/11520146
+Buddah Super Collection - 1988 - https://api.discogs.com/releases/34343413
+Girl Talk - 1988 - https://api.discogs.com/masters/631513
+The Best Of Jukebox Rock 1965 Vol. II - 1989 - https://api.discogs.com/releases/19871869
+Tonight's The Night - 1989 - https://api.discogs.com/masters/1815588
+Dream Merchant - 1989 - https://api.discogs.com/masters/583222
+Juke Box Revival - Vol. 3 - Año 65 - 1989 - https://api.discogs.com/masters/3838041
+Classic Rock 1965: Shakin' All Over - 1989 - https://api.discogs.com/masters/775313
+Juke-Box Soul Hits Vol.2 - 1989 - https://api.discogs.com/masters/1370276
+Groove Zone Sector Two - 1989 - https://api.discogs.com/masters/603610
+Revival Oldies Volumen 15 - 1990 - https://api.discogs.com/releases/6932078
+Soul Years 1972 - 1990 - https://api.discogs.com/releases/11601401
+Juke-Box Soul Hits #3 - 1990 - https://api.discogs.com/masters/1725004
+Metropolitan (Original Soundtrack Recording) - 1991 - https://api.discogs.com/releases/3542042
+Soul Of The Sixties Week #7 - 1991 - https://api.discogs.com/releases/6620856
+Jukebox Hits Of 1965 Vol. 2 - 1991 - https://api.discogs.com/releases/8271177
+Love Songs Of The 70s - 1991 - https://api.discogs.com/masters/3873202
+Broken Heart - Ballads For Lovers - 1992 - https://api.discogs.com/releases/4265866
+The World Of The 50s & 60s – Put Your Head On My Shoulder - 1992 - https://api.discogs.com/releases/5432778
+The World Of Soul. 25 Soul Survivors (Sex Machine) - 1992 - https://api.discogs.com/releases/6519145
+Aria / Carmeltree Classified Musical Advertisement - 1992 - https://api.discogs.com/releases/7747265
+Ebb Tide Vol. 2 - 1992 - https://api.discogs.com/releases/11730288
+The World Of Soul. 25 Soul Survivors (Hold On, I'm Comin') - 1992 - https://api.discogs.com/releases/12349692
+The World Of Soul. 100 Soul Survivors  - 1992 - https://api.discogs.com/releases/16583229
+Wishin' & Hopin' Ballads For Lovers - 1992 - https://api.discogs.com/releases/20782603
+Art Laboe's 60 Killer Oldies - 1992 - https://api.discogs.com/masters/3846183
+AM Gold - Mid-'60s Classics - 1992 - https://api.discogs.com/masters/2458726
+The West End Story Vol. 2 - 1992 - https://api.discogs.com/masters/161440
+New York Dance Classics (Volume Two) - 1992 - https://api.discogs.com/masters/905984
+The World Of Soul. 25 Soul Survivors (Papa's Got A Brand New Bag) - 1992 - https://api.discogs.com/masters/3183900
+The West End Story (Volumes 1+2) - 1993 - https://api.discogs.com/releases/1120548
+Dedicated To You Vol 2 - 1993 - https://api.discogs.com/releases/10462609
+The Buddah Box - 1993 - https://api.discogs.com/masters/1226888
+Lowrider Oldies Volume One - 1993 - https://api.discogs.com/masters/1742067
+Slow Jams: The 60s Volume One - 1993 - https://api.discogs.com/masters/2617313
+Super Dance Plus 6 - 1994 - https://api.discogs.com/releases/423764
+Essential Funk Classics Volume 1 - 1994 - https://api.discogs.com/releases/803271
+Soul Tracks - 1994 - https://api.discogs.com/releases/7702920
+Mo' Mellow Mo' Sexy More Soul - 1994 - https://api.discogs.com/releases/16023866
+Free Soul Essence - 1994 - https://api.discogs.com/releases/21407020
+Buddah De Jure Soul Rare Collection - 1994 - https://api.discogs.com/releases/33761040
+Slow Jams - The Timeless Collection Volume 2 - 1994 - https://api.discogs.com/masters/1192470
+Lo Mejor Del Soul 3 - 1994 - https://api.discogs.com/masters/1412680
+The West End Story Volume 4 - 1994 - https://api.discogs.com/masters/137497
+Old School Jams - 1994 - https://api.discogs.com/masters/3389854
+The West End Story Volume 3+4 - 1995 - https://api.discogs.com/releases/510035
+Disco-Fox Vol. 2 - 1995 - https://api.discogs.com/releases/640905
+Gay Classics Vol. V - Heading Out - 1995 - https://api.discogs.com/releases/683720
+Funky Dance Grooves Vol. 1 - 1995 - https://api.discogs.com/releases/913403
+Star-Funk Volume 27 - 1995 - https://api.discogs.com/releases/1743934
+The Best Of WMOT Records (Watch Out) - 1995 - https://api.discogs.com/releases/2501844
+Northern Soul - On The Philadelphia Beat Vol. 1 - 1995 - https://api.discogs.com/releases/3436004
+Cheatin': From A Woman's Point Of View - 1995 - https://api.discogs.com/releases/7617050
+The Jamie/Guyden Story - 1995 - https://api.discogs.com/releases/11060696
+Soul Attitude  20 Grands Succès Versions Originales - 1995 - https://api.discogs.com/releases/15527248
+The Soul Box (Disc Three) - 1995 - https://api.discogs.com/releases/16027930
+Charme I = Pop Star - 1995 - https://api.discogs.com/releases/21254041
+Chillin' With A Feelin' - 1995 - https://api.discogs.com/releases/31075130
+Mega Disco - 1995 - https://api.discogs.com/masters/1443987
+Can't Get This No More! Vol. 1 - 1995 - https://api.discogs.com/masters/3134634
+Greatest Love - 1995 - https://api.discogs.com/masters/802594
+The Soul Box - 1995 - https://api.discogs.com/masters/1641778
+Can't Get This No More!  Vol. 1 & 2 - 1996 - https://api.discogs.com/releases/180404
+Soul Classics - 1996 - https://api.discogs.com/releases/966192
+Classic Soul - 50 Classic Soul Hits - 1996 - https://api.discogs.com/releases/990018
+Star-Funk Volume 28 - 1996 - https://api.discogs.com/releases/1868899
+Hits Of The 70s & 80s - 1996 - https://api.discogs.com/releases/5753831
+Only Love 1965-1969 - 1996 - https://api.discogs.com/releases/9578200
+Sweet Soul Classics - 1996 - https://api.discogs.com/releases/10562745
+Disco Dance Dynamite Volume 2 - 1996 - https://api.discogs.com/releases/10793631
+Classic Soul - Volume One - 1996 - https://api.discogs.com/releases/11621871
+I Put A Spell On You - 16 Blues Classics - 1996 - https://api.discogs.com/releases/12167397
+Hits Of The '80s Volume 3 - 1996 - https://api.discogs.com/releases/14396935
+Disco Dance Dynamite - 1996 - https://api.discogs.com/releases/14488138
+Free Soul Wind - 1996 - https://api.discogs.com/releases/15859910
+Street Jams Back 2 The Old Skool - 1996 - https://api.discogs.com/releases/21162736
+Classics R&B Collection Vol.3 - 1996 - https://api.discogs.com/releases/23936492
+Classic Mellow Mastercuts Volume 4 - 1996 - https://api.discogs.com/masters/184871
+The Best Of Society Hill Records - 1996 - https://api.discogs.com/masters/742729
+Beg Scream & Shout! The Big Ol' Box Of '60s Soul - 1997 - https://api.discogs.com/releases/766329
+Tha Mastas "The Classics" Vol. 1 - 1997 - https://api.discogs.com/releases/1046812
+Unidisc Sampler - 1997 - https://api.discogs.com/releases/2716009
+Pure Soul 3 - 1997 - https://api.discogs.com/releases/3065648
+Old School Jams - The History Lesson - 1997 - https://api.discogs.com/releases/3420309
+Gay Dancing - 1997 - https://api.discogs.com/releases/3878014
+Felix Hernandez Presents Rhythm Revue - 1997 - https://api.discogs.com/releases/6704816
+Sweet Soul Music (Volume 3) - 1997 - https://api.discogs.com/releases/8315657
+Soul Collection - 1997 - https://api.discogs.com/releases/10313057
+Lifestyles Of The Slow & Low Vol. 2 - 1997 - https://api.discogs.com/releases/11857762
+Mega Groove - 1997 - https://api.discogs.com/releases/13090688
+Slow Jams From Back In Da Day, Volume 2 - 1997 - https://api.discogs.com/releases/13549695
+To Every Story: (I'm A) Lonely Girl - 1997 - https://api.discogs.com/releases/16130541
+Soul Greats - 1997 - https://api.discogs.com/releases/17165818
+Lifestyles of the Slow & Low vol. 2 - 1997 - https://api.discogs.com/releases/29962939
+East Side Story Vol. 12 - 1997 - https://api.discogs.com/masters/1198724
+Hits Of The 70's - 1997 - https://api.discogs.com/masters/3597821
+East Side Story Vol. 10 - 1997 - https://api.discogs.com/masters/1402655
+Supreme Soul Volume 2 (50 Modern Soul Gems) - 1998 - https://api.discogs.com/releases/3680865
+Hits Of The 80s Volume 2 - 1998 - https://api.discogs.com/releases/3900921
+Supreme Soul Volume 3 (50 Modern Soul Gems) - 1998 - https://api.discogs.com/releases/5675485
+Soulful Divas - Bold Soul Sisters - 1998 - https://api.discogs.com/releases/10479176
+Turn Back The Hands Of Time (Vintage Soul) - 1998 - https://api.discogs.com/releases/24401762
+60's Soul Classics - 1998 - https://api.discogs.com/releases/29386048
+Super Box Of Soul - 1998 - https://api.discogs.com/releases/29646988
+The Girl Group Sound Volume 7 - 1998 - https://api.discogs.com/masters/2655422
+Underground Oldies Vol. 3 - 1999 - https://api.discogs.com/releases/8531724
+Underground Oldies Vol. 5 - 1999 - https://api.discogs.com/releases/8531999
+Underground Oldies Vol. 6 - 1999 - https://api.discogs.com/releases/8533378
+Top Ten Hits Of The 80s - 1999 - https://api.discogs.com/releases/11601066
+Sweet Soul Music - 1999 - https://api.discogs.com/releases/19578229
+Body + Soul - Tender Moments - 1999 - https://api.discogs.com/masters/1839497
+Maximum Dance 2 12" - 2000 - https://api.discogs.com/releases/457070
+80's Love Anthems - Mastercuts Anthems - 2000 - https://api.discogs.com/releases/3191203
+Underground Oldies Vol. 7 - 2000 - https://api.discogs.com/releases/8428702
+Underground Oldies Vol. 8 - 2000 - https://api.discogs.com/releases/8532513
+Love Collection - Flash Back ao vivo - 2000 - https://api.discogs.com/releases/15805481
+Blast Presents Diggin' From The Vaults Disco Spectrum Non-Stop Mix By Maki The Magic - 2000 - https://api.discogs.com/releases/16872369
+The Jukebox Collection - 2000 - https://api.discogs.com/releases/29279821
+Roots Of Rhythm: Make Me Yours - 2000 - https://api.discogs.com/releases/32159235
+Jesus' Son (Original Motion Picture Soundtrack) - 2000 - https://api.discogs.com/masters/1422117
+People Get Ready - 24 Soul Hits - 2001 - https://api.discogs.com/releases/15999062
+East Side Story: Limited Edition CD Box Set Volumes 1-12 - 2001 - https://api.discogs.com/releases/25576900
+Golden Memories (Original Artists) - 2001 - https://api.discogs.com/releases/33616632
+Lowrider Oldies Volume 9 - 2001 - https://api.discogs.com/masters/3343963
+Funky Collector - Volume Nº14 - 2001 - https://api.discogs.com/masters/952221
+MGM Soul Cinema, Volume 1 - 2002 - https://api.discogs.com/releases/1561512
+Original Divas - 2002 - https://api.discogs.com/releases/4935535
+Body + Soul Of The ‘60s - 2002 - https://api.discogs.com/releases/14701520
+Auto Focus - Original Motion Picture Soundtrack - 2002 - https://api.discogs.com/masters/749675
+The Spirit Of Philadelphia - 2002 - https://api.discogs.com/masters/276102
+Up On Soul Train - 2002 - https://api.discogs.com/masters/3329671
+Dance For Life - 2002 - https://api.discogs.com/masters/631516
+Soul Spectacular! - The Greatest Soul Hits Of All Time - 2002 - https://api.discogs.com/masters/1434508
+Lifestyles Of The Slow & Low - Anthology Chapter 2 - 2003 - https://api.discogs.com/releases/8304714
+Girls! Girls! Girls! 25 All-Time Classics of the Girl Group Sound - 2003 - https://api.discogs.com/releases/8316908
+Real 70's R&B - 2003 - https://api.discogs.com/releases/10930992
+Lowriders Oldies Box Set · Volumes 7-9 - 2003 - https://api.discogs.com/releases/17819992
+Lowrider Oldies Box Set Volumes 1-3 - 2003 - https://api.discogs.com/releases/33824385
+Rhythm, Love And Soul - 2003 - https://api.discogs.com/masters/2576957
+Rhythm, Love, And Soul Live - 2003 - https://api.discogs.com/masters/1892925
+Rhythm Love And Soul - 2003 - https://api.discogs.com/masters/1961710
+Soul Highway - 2003 - https://api.discogs.com/masters/2523619
+Queer For The Ear - Vol 1 (Extreme Make-Overs For Disco Dance Classics) - 2004 - https://api.discogs.com/releases/540190
+120% Soul - 2004 - https://api.discogs.com/releases/645804
+Disco - The Climax - 2004 - https://api.discogs.com/releases/2144094
+Soul Train - 2004 - https://api.discogs.com/releases/2615803
+Lucky Charms - Selected By Dj Kaori - 2004 - https://api.discogs.com/releases/3629048
+Old School Jams - 2004 - https://api.discogs.com/releases/4405746
+Rock & Roll - The First 50 Years - The Mid-'60s - 25 Top 10 Hits - 2004 - https://api.discogs.com/releases/6234344
+Soul Train - 2004 - https://api.discogs.com/releases/20157880
+Soul Sensations - 24 Essential Soul Classics - 2004 - https://api.discogs.com/releases/28352401
+Slow Jams 3 - 2005 - https://api.discogs.com/releases/7684723
+The Best Of Love - 2005 - https://api.discogs.com/releases/7888930
+Philly Steps - 2005 - https://api.discogs.com/releases/8314308
+Soul Selections - 2005 - https://api.discogs.com/releases/9468277
+Soul Explosion  - 2005 - https://api.discogs.com/releases/11941378
+100 Mp3 Hits Disco - 2005 - https://api.discogs.com/releases/11963630
+A Million Dollars Worth Of Soul Vol. 2 - 2005 - https://api.discogs.com/releases/13273120
+Catch A Falling Star Vol. 2 - 2005 - https://api.discogs.com/releases/14704714
+Old School Oldies 2 - 2005 - https://api.discogs.com/releases/15418504
+Presents eVolution - 2005 - https://api.discogs.com/releases/15906061
+Soul Celebration, Volume 5: Rhythm, Love And Soul - 2005 - https://api.discogs.com/releases/27552390
+Monica's Feelin' Bitchy (2005 WFMU Marathon Premium) - 2005 - https://api.discogs.com/releases/29461171
+Classic 050 - 2005 - https://api.discogs.com/releases/31510226
+Soul Christmas - 2005 - https://api.discogs.com/releases/34354387
+Strange Funky Games And Things - Solid Rare Grooves And Smoking Seventies Soul - 2005 - https://api.discogs.com/masters/157701
+The Wants List 2 (Another 18 Soulful Rare Grooves) - 2005 - https://api.discogs.com/masters/81684
+Ce Soir On Danse! - 2006 - https://api.discogs.com/releases/794987
+Soul Sisters V - 2006 - https://api.discogs.com/releases/2175694
+The Soul Story - 2006 - https://api.discogs.com/releases/2897233
+A Soulful Tale of Two Cities - 2006 - https://api.discogs.com/releases/6739246
+The Girls' Sound - 2006 - https://api.discogs.com/releases/6995978
+We Men Of Talent - 2006 - https://api.discogs.com/releases/10321270
+Rites Of Rhythm & Blues - Rhythm & Blues Foundation 2006 Pioneer Awards - 2006 - https://api.discogs.com/releases/14121309
+Blaxploitation - 2007 - https://api.discogs.com/releases/987547
+A Yankee In The Court Of Northern Soul - 2007 - https://api.discogs.com/releases/1098072
+Nighttime Lovers Volume 5 - 2007 - https://api.discogs.com/releases/1250905
+VSV - Mixed Live By Volcov In Verona 2007 - 2007 - https://api.discogs.com/releases/1954892
+Soul Sisters IV - 2007 - https://api.discogs.com/releases/2151229
+Killer Soul Volume 11 - 2007 - https://api.discogs.com/releases/6273541
+Smooth Sounds: Sunday Morning - 2007 - https://api.discogs.com/releases/13058910
+Harlem Shuffle - 2007 - https://api.discogs.com/releases/13642225
+Soul Legends CD5 - 2007 - https://api.discogs.com/releases/15139468
+Soul Legends CD8 - 2007 - https://api.discogs.com/releases/15140691
+Unicas - 2007 - https://api.discogs.com/releases/16209289
+Soul Sisters IV - 2007 - https://api.discogs.com/releases/28448068
+Soul Legends (Original Artists) - 2007 - https://api.discogs.com/releases/28865665
+The West End New York City Classics Mix - 2007 - https://api.discogs.com/masters/2456704
+Sister Funk 2 (The Sound Of The Unknown Soul Sisters) - 2007 - https://api.discogs.com/masters/85979
+03 - Groove 80 - 2008 - https://api.discogs.com/releases/1482311
+Philadelphia Soul Rarities - 2008 - https://api.discogs.com/releases/4018520
+Rap History 1983 - 2008 - https://api.discogs.com/releases/9182468
+Forever Lentos - 2008 - https://api.discogs.com/releases/11973681
+Simply Disco - 2008 - https://api.discogs.com/releases/12110870
+Prom Night: So Much In Love - 2008 - https://api.discogs.com/releases/14150211
+Roll To Dance - 2008 - https://api.discogs.com/releases/15180791
+Prom Night - 2008 - https://api.discogs.com/releases/31432325
+Disco Giants 6 - 2009 - https://api.discogs.com/releases/1950368
+Where The Girls Are Volume 7 - 2009 - https://api.discogs.com/releases/4008712
+Philadelphia Soul Rarities Vol. 2 - 2009 - https://api.discogs.com/releases/4019277
+Check Da Sample - 2009 - https://api.discogs.com/releases/7949835
+Golden Eighties The Rare Funky Selection Volume 6 - 2009 - https://api.discogs.com/releases/9375446
+Hot Classics Jam #02 - 2009 - https://api.discogs.com/releases/9755593
+The Masters Series (Rare Groove) - 2009 - https://api.discogs.com/masters/631515
+Keep On Dancin': A Tribute To The Godfather Of Disco Mel Cheren - 2010 - https://api.discogs.com/releases/2190096
+A Summer In 3/4 Time - 2010 - https://api.discogs.com/releases/2378714
+Field Recording 012 - 2010 - https://api.discogs.com/releases/2502645
+Actual Pain - 2010 - https://api.discogs.com/releases/3021015
+Pure... Disco/Funk - 2010 - https://api.discogs.com/releases/4581822
+Disco Για Πάντα - 2010 - https://api.discogs.com/releases/9880794
+Simply The Girls (4 CDs Of Essential Songs) - 2010 - https://api.discogs.com/releases/11264985
+Sweet Soul Rolas Vol. 4 - 2010 - https://api.discogs.com/releases/13657745
+Les 100 Plus Grands Titres Disco - 2010 - https://api.discogs.com/releases/14100007
+As Melhores Do Século - 2010 - https://api.discogs.com/releases/16629582
+Pure... Disco/Funk - 2010 - https://api.discogs.com/releases/31830128
+Jumpin' (Original Full Length Classics From The Disco Underground) - 2010 - https://api.discogs.com/masters/1027077
+G.I. Disco (The History Of The Cold War's Hottest 80's Club Music In West Germany) - 2010 - https://api.discogs.com/masters/323731
+Pure... Soul - 2010 - https://api.discogs.com/masters/3331762
+The Spirit Of Philadelphia 3 - 2011 - https://api.discogs.com/releases/2828268
+Grand 12-Inches 8 - 2011 - https://api.discogs.com/releases/2926373
+Planter's Club V - 2011 - https://api.discogs.com/releases/3228119
+Nighttime Lovers Collectors Box Volume 1 – 10 - 2011 - https://api.discogs.com/releases/3798369
+Pure... Chillout - 2011 - https://api.discogs.com/releases/6746244
+Hawthorne Radio, Episode 3 - 2011 - https://api.discogs.com/releases/12795456
+105 Disco Hits - 2011 - https://api.discogs.com/releases/20388616
+Smooth Soul - Piece Of My Heart - 2011 - https://api.discogs.com/releases/33499289
+Cooler Than Ice: Arctic Records And The Rise Of Philly Soul - 2012 - https://api.discogs.com/releases/4170869
+Lifetime Lover - 2012 - https://api.discogs.com/releases/7129299
+Music For Young Lovers Vol. 6 - 2012 - https://api.discogs.com/releases/11827555
+300 Hits: Soul - 2012 - https://api.discogs.com/releases/27716967
+West End Records Classics - 2012 - https://api.discogs.com/masters/1423132
+WR 008 - 2013 - https://api.discogs.com/releases/4730429
+Psycho Soul - 2013 - https://api.discogs.com/releases/4766346
+Disco Wonderland - 2013 - https://api.discogs.com/releases/4805418
+Philly Gems - More Philly Disco Floor-Fillers - 2013 - https://api.discogs.com/releases/4893187
+Disco Giants Volume 1-10 (200 Full Length Disco Classics Of The 80's) - 2013 - https://api.discogs.com/releases/7610609
+Disco & Boogie In NYC Vol:1 - 2013 - https://api.discogs.com/releases/10214388
+Siesta & The City - 2013 - https://api.discogs.com/releases/10783848
+Hawthorne Radio, Episode 5 - 2013 - https://api.discogs.com/releases/12806772
+The Greatest Ever... Divas - 2013 - https://api.discogs.com/releases/22135165
+Girl Grooves: Volume 3 - 2013 - https://api.discogs.com/releases/32703630
+Sample This! The Foundation Of Modern Classics - 2013 - https://api.discogs.com/masters/1068034
+Sweet Soul Music - 24 Scorching Classics From 1975 - 2014 - https://api.discogs.com/releases/6433106
+Free Soul. The Treasure Of West End - 2014 - https://api.discogs.com/releases/6535891
+Real Side Records Presents Soul On The Real Side #2 - 2014 - https://api.discogs.com/releases/7377365
+The London American Label Year By Year: 1965 - 2014 - https://api.discogs.com/releases/12048051
+The Sock Hop Collection: Save The Last Dance For Me - 2014 - https://api.discogs.com/releases/26227133
+Soul Of The '60s - 2014 - https://api.discogs.com/releases/32014250
+100 Hits Ultimate Soul - 2014 - https://api.discogs.com/masters/1284226
+100 Hits Disco Fever - 2014 - https://api.discogs.com/masters/1089895
+30 Years And Still Counting - 2015 - https://api.discogs.com/releases/6870331
+You Are The Star (Soulful Sounds Of West End) - 2015 - https://api.discogs.com/releases/7094374
+Back To The River (More Southern Soul Stories 1961-1978) - 2015 - https://api.discogs.com/releases/7781612
+Double Trouble - Kensei's West End Super 7" Delites - 2015 - https://api.discogs.com/releases/7786851
+Everybody Get Dancin' (Daniel Wang's Personal West End Records Megamix) - 2015 - https://api.discogs.com/releases/8184954
+Soul Music Lovers Only Vol.3 - 2016 - https://api.discogs.com/releases/9218100
+Classic Love Songs Of Rock 'N' Roll - 2016 - https://api.discogs.com/releases/15764356
+Nothing But A House Party (The Birth Of The Philly Sound 1967-71) - 2017 - https://api.discogs.com/releases/10385743
+100 Hits: Supersonic 70's - 2017 - https://api.discogs.com/releases/11282386
+100 Hit Tracks 80s Groove (The Ultimate Collection) - 2017 - https://api.discogs.com/releases/11789058
+Good Old Rock 'N' Roll - 56 Great Hits Original Artists - 2017 - https://api.discogs.com/releases/19575859
+Ultimate Soul - 2017 - https://api.discogs.com/masters/1560346
+100 Hits The Best Soul Album - 2018 - https://api.discogs.com/releases/11852884
+Ultimate Disco - 2018 - https://api.discogs.com/releases/11900258
+Shaolin Soul Episode 4 - 2018 - https://api.discogs.com/masters/1429491
+This Is Lowrider Soul 1962-1970 - 2019 - https://api.discogs.com/releases/13129597
+Dr. Packer Reworks - 2019 - https://api.discogs.com/releases/14119537
+Move On Up (The Songs of Curtis Mayfield) - 2019 - https://api.discogs.com/releases/14419388
+100 Disco Classics (The Sound Of My Life) - 2019 - https://api.discogs.com/releases/14814999
+Breezin' - 100 Smooth Pop Songs (The Ultimate Collection) - 2019 - https://api.discogs.com/releases/26857028
+Move On Up (The Songs of Curtis Mayfield) - 2019 - https://api.discogs.com/releases/33619092
+A Mixed Tape Made By Black Marble - 2020 - https://api.discogs.com/releases/15755811
+Salsoul Meets West End Reworks - 2020 - https://api.discogs.com/releases/16559331
+R&B Anthems (The Ultimate Collection) - 2020 - https://api.discogs.com/releases/31548883
+Greatest Ever Decade 80s - 2021 - https://api.discogs.com/releases/19879438
+Greatest Ever Soul & Disco - 2021 - https://api.discogs.com/releases/20076556
+People Get Ready (The Curtis Mayfield Songbook) - 2021 - https://api.discogs.com/releases/20799811
+This Is Lowrider Soul Vol 2 - 2021 - https://api.discogs.com/releases/21195262
+Soul - 2021 - https://api.discogs.com/releases/25980499
+DMC - Producer Mixes - Pete Le Freq (Vol.1) (Nu Soul & Disco Remixes) - 2022 - https://api.discogs.com/releases/21824602
+Superstars Of '70s Soul: Classic Masters - 2022 - https://api.discogs.com/releases/32168427
+Groove Diggin' - 2023 - https://api.discogs.com/releases/28091185
+A Different World (The Holland-Dozier-Holland Songbook) - 2024 - https://api.discogs.com/releases/30597160
+The Winners Of The West End Mix Contest - Desconocido - https://api.discogs.com/releases/259103
+WOLF / The Big 15: Double Golden - Desconocido - https://api.discogs.com/releases/2952852
+The Best Of Biggie Beats (Original Samples Used By B.I.G.) - Desconocido - https://api.discogs.com/releases/3132084
+Georgie Woods And His Girls - Desconocido - https://api.discogs.com/releases/3753558
+Soul & Blues On CD Vol1 No1 - Desconocido - https://api.discogs.com/releases/4571439
+30 Klassics 30 - Desconocido - https://api.discogs.com/releases/4765426
+Curtisom Rio - Flash Backs Implacaveis - Desconocido - https://api.discogs.com/releases/4998056
+KAKC Solid Gold - Desconocido - https://api.discogs.com/releases/5053079
+Sounds Of Solid Soul Volume 7 - Desconocido - https://api.discogs.com/releases/5333179
+Soul's Greatest Hits - Desconocido - https://api.discogs.com/releases/5426264
+Party Dolls - Desconocido - https://api.discogs.com/releases/5680902
+WKBW · 30 Klassics - Desconocido - https://api.discogs.com/releases/6587085
+Soul's Greatest Hits / Kings And Queens Of Soul - Desconocido - https://api.discogs.com/releases/6762896
+20 Golden Nuggets (...Because You Dugget) - Desconocido - https://api.discogs.com/releases/7916175
+Black Horse Discoteca - Desconocido - https://api.discogs.com/releases/7975935
+The Heart Of Rock 'N' Roll - 1965-1966 - Desconocido - https://api.discogs.com/releases/8055618
+30 Golden Souvenirs - Desconocido - https://api.discogs.com/releases/8133476
+Sounds Of Solid Soul Volume 6 - Desconocido - https://api.discogs.com/releases/8377240
+Blue Soul - Desconocido - https://api.discogs.com/releases/8689133
+SOUL 16 - Desconocido - https://api.discogs.com/releases/9069352
+Sounds Of Solid Soul Vol. 3 - Desconocido - https://api.discogs.com/releases/9630620
+Butterball: Of WDAS Presents 20 Oldies Designed With Young Lovers In Mind! - Desconocido - https://api.discogs.com/releases/10001893
+Heavy Soul! Club Sounds Volume 2 - Desconocido - https://api.discogs.com/releases/10224318
+Lowrider Oldies Box Set Volumes 1-9 - Desconocido - https://api.discogs.com/releases/10713538
+Rock 'N' Roll Reunion Class Of 65 - Desconocido - https://api.discogs.com/releases/10881828
+The Sock Hop Collection - Desconocido - https://api.discogs.com/releases/11278814
+Black Horse Discoteca - Desconocido - https://api.discogs.com/releases/11305890
+Koil - 22 Golden Classics - Desconocido - https://api.discogs.com/releases/11402528
+Soul - Desconocido - https://api.discogs.com/releases/11782753
+More Dancing Dirty Vol. I - Desconocido - https://api.discogs.com/releases/14111349
+Eternamente Elas Volume 2 - Desconocido - https://api.discogs.com/releases/14325600
+Kerby Scott Presents 22 Original Golden Galaxies - Desconocido - https://api.discogs.com/releases/15382161
+Golden Hits From 1965  Vol. 3 - Desconocido - https://api.discogs.com/releases/15479995
+Untitled  - Desconocido - https://api.discogs.com/releases/15555014
+WMID Souvenir Album 22 Boss Oldies - Desconocido - https://api.discogs.com/releases/16305303
+Funky Divas - Do You Funk? - Desconocido - https://api.discogs.com/releases/17416915
+City Of Soul Vol 4 - Desconocido - https://api.discogs.com/releases/20521216
+B-Boy Park 99 Presents / 80s...Club Hits - Desconocido - https://api.discogs.com/releases/22610765
+Untitled - Desconocido - https://api.discogs.com/releases/22988060
+Cheap Beat Collective Vol.1 - Desconocido - https://api.discogs.com/releases/23087159
+Throwback Oldies Volume 2 - Desconocido - https://api.discogs.com/releases/24017678
+Roots Of Soul Vol. 2 - Desconocido - https://api.discogs.com/releases/24344291
+Sweet Soul Rolas Vol. 6 - Desconocido - https://api.discogs.com/releases/25730599
+Golden Rhythm & Blues Hits - Desconocido - https://api.discogs.com/releases/26610341
+Rock Party - Desconocido - https://api.discogs.com/releases/27408609
+Jet Black Vol. 9 Internacional - Desconocido - https://api.discogs.com/releases/27582942
+Year 1965 Super Hits - Desconocido - https://api.discogs.com/releases/27650427
+South Side Soul Vol.6 - Desconocido - https://api.discogs.com/releases/28908880
+To Every Story Vol.2 - Desconocido - https://api.discogs.com/releases/28913542
+To Every Story Vol.3 - Desconocido - https://api.discogs.com/releases/28914472
+To Every Story Vol.4 - Desconocido - https://api.discogs.com/releases/28914844
+World Famous Oldies Mid Tempo Soul Rolas Vol.1 - Desconocido - https://api.discogs.com/releases/28928572
+Soulside The Best Of Underground Oldies - Desconocido - https://api.discogs.com/releases/28949176
+Soulside The Best Of Underground Souldies Vol.2 - Desconocido - https://api.discogs.com/releases/28949272
+Gangster Of Love Killer Souldies Vol.4 - Desconocido - https://api.discogs.com/releases/29022037
+Chicano Sweet Soundz "Natural High" - Desconocido - https://api.discogs.com/releases/29100172
+Rockin' Jukebox 1965 - Desconocido - https://api.discogs.com/releases/29981992
+Sounds Of Solid Gold Vol. 7 - Desconocido - https://api.discogs.com/releases/31875245
+Micky Records Vol.47 - Desconocido - https://api.discogs.com/releases/32552919
+Our Town - Oldies Classics - Desconocido - https://api.discogs.com/releases/32922816
+Backin'a Days 80's Mix #3 - Desconocido - https://api.discogs.com/releases/34362373
+Pure Groove 80's - 80's Hits Volume 2 - Desconocido - https://api.discogs.com/masters/3630693
+Theory Of Old School - Desconocido - https://api.discogs.com/masters/1630321
+70 Ounces Of Gold / Solid Gold - Desconocido - https://api.discogs.com/masters/1039610
+WDAS Charities Presents 22 Original Soul Sounds - Desconocido - https://api.discogs.com/masters/3756393
+East Side Story Vol. 4 - Desconocido - https://api.discogs.com/masters/1511821
+West End Mix - Desconocido - https://api.discogs.com/masters/177131
+24 Top Pop February 1973 - 1973 - https://api.discogs.com/releases/11235760
+Give Me Your Love - 1973 - https://api.discogs.com/masters/263852
+Maureen McGovern - 1979 - https://api.discogs.com/masters/552697
+Techno Dance 3 - 1994 - https://api.discogs.com/releases/5030640
+Charme Collection Vol. 2 - 1996 - https://api.discogs.com/releases/4244446
+The Premo Collection - 1999 - https://api.discogs.com/releases/771671
+Charme Classic's R & B - 1999 - https://api.discogs.com/releases/4660237
+Sound Of Gold 7 - 2003 - https://api.discogs.com/releases/2712428
+Soulful Thangs Vol. 3 - 2005 - https://api.discogs.com/releases/12739592
+Electrik Company - 2010 - https://api.discogs.com/releases/2214280
+Ain't Got The Love Of One Girl (On My Mind) - 2010 - https://api.discogs.com/masters/343038
+Eros - 2011 - https://api.discogs.com/releases/3027858
+20 More Monster Hits - 2013 - https://api.discogs.com/masters/1637957
+Unofficial Edits, Overdubs & Unreleased Remixes (Promo Sampler Two) - 2014 - https://api.discogs.com/releases/5739437
+Moonlight Madness - 2017 - https://api.discogs.com/masters/155722
+WFMU Side Story (Vol. 1) - 2018 - https://api.discogs.com/releases/12284494
+Old-School Party Jams: Vol. 9 - Desconocido - https://api.discogs.com/releases/1037315
+A B.I.G. Sack - Desconocido - https://api.discogs.com/releases/1104807
+Milk Crate Collection Vol. 6 - Part II Of The Biggie Collection (R.I.P.) - Desconocido - https://api.discogs.com/releases/1677042
+Gangsta Soul 9 To Be Gangsta Or Not Be ... - Desconocido - https://api.discogs.com/releases/3115155
+Arthur King's Slowly But Surely: The Best Slow Jams In Town - Desconocido - https://api.discogs.com/releases/3456754
+Soul Mastercuts - Desconocido - https://api.discogs.com/releases/5316032
+1984 Buick Regal Deluxe Edition - Desconocido - https://api.discogs.com/releases/9021079
+Girls Girls Girls - The Girlfriends - Vol. 1 - Desconocido - https://api.discogs.com/releases/9784690
+Untitled - Desconocido - https://api.discogs.com/releases/15126406
+Lost Jukebox Vol. 173 - Desconocido - https://api.discogs.com/releases/16065997
+Lost Jukebox Vol. 177 - Desconocido - https://api.discogs.com/releases/16135709
+Shiny Funk Vol.1 - Desconocido - https://api.discogs.com/releases/19946152
+Somebody Been Messin' - R&B / Soul / Funk Women 45s - Desconocido - https://api.discogs.com/releases/30321212
+Gordon's War (Original Motion Picture Soundtrack) - Desconocido - https://api.discogs.com/masters/324317
+East Side Story Vol. 4 - Desconocido - https://api.discogs.com/masters/1511821
