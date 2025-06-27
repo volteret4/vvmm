@@ -1,28 +1,39 @@
 Listado de releases del artista:
-Soft Power / Lose The Baby - 2017 - https://api.discogs.com/masters/1358734
-Chameleon Paint - 2017 - https://api.discogs.com/masters/1251777
-Less Artists More Condos Series #18 - 2018 - https://api.discogs.com/masters/1426179
-You Let My Tyres Down / Back To The Wall - 2018 - https://api.discogs.com/masters/1325069
-Rubber Bullies / Stayin' Alive - 2018 - https://api.discogs.com/masters/1356307
-A Laughing Death In Meatspace  - 2018 - https://api.discogs.com/masters/1365395
-Stayin' Alive - 2018 - https://api.discogs.com/masters/1766095
-Braindrops - 2019 - https://api.discogs.com/masters/1591843
-The Planet Of Straw Men - 2019 - https://api.discogs.com/masters/1539274
-Legal Ghost / Heaven - 2020 - https://api.discogs.com/masters/1787032
-Suburbiopia / This Perfect Day - 2020 - https://api.discogs.com/masters/1719914
-Deep States - 2021 - https://api.discogs.com/masters/2267410
-Hat Jam - 2022 - https://api.discogs.com/releases/22932227
-Satanic Slumber Party - 2022 - https://api.discogs.com/masters/2582033
-Goody Goody Gumdrops - 2022 - https://api.discogs.com/masters/2748566
-Golden Ratio - 2022 - https://api.discogs.com/masters/2965402
-Submersive Behaviour - 2022 - https://api.discogs.com/masters/2963791
-Moonburn - 2022 - https://api.discogs.com/masters/2758499
-Aneurysm - 2023 - https://api.discogs.com/releases/28800133
-Tropical Fuck Storm's Inflatable Graveyard - 2024 - https://api.discogs.com/masters/3605822
-Fairyland Codex - 2025 - https://api.discogs.com/masters/3883309
-Sounds of Studio 5 Live Midnight Snack - 2018 - https://api.discogs.com/releases/19604014
-2019 Cass Sampler - 2019 - https://api.discogs.com/releases/13883011
-Secretly Distribution Fall 2019 Sampler - 2019 - https://api.discogs.com/releases/14134569
-Abortion Rights Benefit - 2022 - https://api.discogs.com/releases/28899439
-Cardinals At The Window - 2024 - https://api.discogs.com/masters/3622151
-The New Sounds (15 Tracks Of The Month's Best Music) - 2025 - https://api.discogs.com/releases/34061029
+Demo - 2010 - https://api.discogs.com/masters/289877
+Deafheaven - 2011 - https://api.discogs.com/releases/2654207
+Roads To Judah - 2011 - https://api.discogs.com/masters/334904
+Live At The Blacktop 01.15.11 - 2011 - https://api.discogs.com/masters/1436059
+Sonic Cathedrals Vol. XXVII - 2012 - https://api.discogs.com/releases/3335852
+Deafheaven / Bosse-De-Nage - 2012 - https://api.discogs.com/masters/498237
+Sunbather - 2013 - https://api.discogs.com/masters/559132
+From The Kettle Onto The Coil - 2014 - https://api.discogs.com/masters/1396165
+New Bermuda - 2015 - https://api.discogs.com/masters/879823
+Ordinary Corrupt Human Love - 2018 - https://api.discogs.com/masters/1390740
+Black Brick - 2019 - https://api.discogs.com/masters/1509048
+10 Years Gone - 2020 - https://api.discogs.com/masters/1849848
+Infinite Granite - 2021 - https://api.discogs.com/masters/2261338
+Heathen  - 2025 - https://api.discogs.com/releases/33524622
+Lonely People With Power - 2025 - https://api.discogs.com/masters/3794430
+Adult Swim Singles Program 2014 - 2014 - https://api.discogs.com/releases/13643211
+Goodies Vol. 1 - 2015 - https://api.discogs.com/releases/10775828
+100% Volume No. 148 - 2011 - https://api.discogs.com/releases/7720633
+Summer 2012 - 2012 - https://api.discogs.com/releases/3698015
+Remixes - 2012 - https://api.discogs.com/releases/5190384
+Spring 2013 - 2013 - https://api.discogs.com/releases/4374274
+Ampmix022 - 2013 - https://api.discogs.com/releases/5000061
+Stay The Night #8 - 2013 - https://api.discogs.com/releases/5246308
+Fear Candy 122 - 2013 - https://api.discogs.com/releases/5507139
+The Coldest Nights Vol II - 2013 - https://api.discogs.com/releases/6481257
+Adult Swim Singles Program 2014 - 2014 - https://api.discogs.com/releases/13643211
+2014: A Summer Of Blood - 2014 - https://api.discogs.com/masters/727056
+All Areas Volume 178 - 2015 - https://api.discogs.com/releases/7576686
+Urban Outfitters Mixtape 11 - 2015 - https://api.discogs.com/releases/7695976
+Anti- Fall Sampler - 2015 - https://api.discogs.com/releases/7816142
+2015 Rare Tracks - Volume One - 2015 - https://api.discogs.com/releases/7990765
+Musik Zur Zeit CD 144 Spex No.381 - 2018 - https://api.discogs.com/releases/12186064
+All Areas Volume 207 - 2018 - https://api.discogs.com/releases/12303387
+Highlights 2021 - 2022 - https://api.discogs.com/releases/21789823
+You're Everything To Me - 2011 - https://api.discogs.com/releases/3188449
+Unrequited - 2011 - https://api.discogs.com/releases/7599164
+Ordinary Corrupt Human Love - 2018 - https://api.discogs.com/masters/1390740
+Sunbather - Desconocido - https://api.discogs.com/masters/559132
