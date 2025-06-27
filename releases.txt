@@ -1,88 +1,28 @@
 Listado de releases del artista:
-Ephedrine EP - 1999 - https://api.discogs.com/releases/229677
-M³ (Daily Assortment Of Sound) - 2000 - https://api.discogs.com/masters/1799181
-Me Touching Dead Air (Live Radio Performance - York, UK) - 2001 - https://api.discogs.com/releases/9131756
-I Am A Dead Sea - 2001 - https://api.discogs.com/releases/9131812
-Fly! - 2001 - https://api.discogs.com/masters/1100093
-Drain Mode On - 2001 - https://api.discogs.com/masters/315002
-These Open Fields - 2002 - https://api.discogs.com/masters/13008
-Girls Suck But You Don't (15 Tracks From My Hard Drive) - 2003 - https://api.discogs.com/masters/1799176
-Lawn Funeral EP - 2003 - https://api.discogs.com/masters/1100091
-Resent And The April Sunshine Shed - 2003 - https://api.discogs.com/masters/1799163
-Red Extensions Of Me - 2004 - https://api.discogs.com/masters/543
-Binedump EP - 2005 - https://api.discogs.com/masters/554
-Réunion - 2005 - https://api.discogs.com/masters/1799158
-Kirlian Selections - 2005 - https://api.discogs.com/masters/1799167
-Flexing Habitual - 2006 - https://api.discogs.com/masters/560
-That Missing Week EP - 2007 - https://api.discogs.com/masters/1799159
-Soundtrack To A Vacant Life - 2008 - https://api.discogs.com/masters/12992
-Arboreal - 2010 - https://api.discogs.com/masters/252988
-Terra Firma - 2011 - https://api.discogs.com/masters/398460
-Love As A Dark Hallway - 2011 - https://api.discogs.com/masters/398462
-Hardscrabble - 2012 - https://api.discogs.com/masters/484140
-Opus At The End Of Everything - 2012 - https://api.discogs.com/masters/1799155
-Solar One - 2014 - https://api.discogs.com/masters/693630
-Nothing Is Real - 2014 - https://api.discogs.com/masters/690258
-aBliss - 2015 - https://api.discogs.com/releases/7057153
-Compositions For Piano - 2015 - https://api.discogs.com/masters/819791
-Ephedrine - 2016 - https://api.discogs.com/releases/9132904
-Piety Of Ashes - 2017 - https://api.discogs.com/masters/1232610
-Dormant (Movement 1 Through 7) - 2018 - https://api.discogs.com/masters/1378861
-Our Simulacra - 2020 - https://api.discogs.com/masters/1705154
-Seven Quarantine Poems  - 2021 - https://api.discogs.com/releases/18647167
-Kirlian Tapes v1​.​0  - 2022 - https://api.discogs.com/releases/25595242
-Drapes Before Storm - 2023 - https://api.discogs.com/releases/29249089
-Papillon - 2025 - https://api.discogs.com/releases/34360540
-Music From My Laptop - Desconocido - https://api.discogs.com/releases/11395464
-Clone EP - 1999 - https://api.discogs.com/releases/229985
-Untitled - 2002 - https://api.discogs.com/masters/709414
-Raiding The 20th Century (Words & Music Expansion) - 2005 - https://api.discogs.com/masters/228642
-The Drummondii Days - 2007 - https://api.discogs.com/releases/2286941
-Bartel - 2009 - https://api.discogs.com/releases/1783455
-'96 Drum n Bass Classixxx - 2019 - https://api.discogs.com/masters/1349719
-Letting Go - 2012 - https://api.discogs.com/masters/492479
-Energized - 2001 - https://api.discogs.com/releases/102520
-Ctrl-F2 - 2004 - https://api.discogs.com/releases/351481
-Transitional Days - 2004 - https://api.discogs.com/releases/355235
-Big System Morsels - 2004 - https://api.discogs.com/releases/406502
-Suburban Trash Sampler Vol.1 - 2004 - https://api.discogs.com/releases/607257
-The Sound Of One Constant Pitch - 2004 - https://api.discogs.com/releases/4345194
-We Are The Music Makers | Volume One - 2005 - https://api.discogs.com/releases/376046
-Something Bad - 2005 - https://api.discogs.com/releases/409525
-Jagoff Uprising (A Rhinoplex.org Compilation) - 2005 - https://api.discogs.com/releases/692976
-Legacy : 1995-2005 (Visual Chicago Acid Edition) - 2005 - https://api.discogs.com/masters/524679
-Eyelicker - 2006 - https://api.discogs.com/releases/684924
-Do:Nation Volume 1 - A Compilation For The Animal Charities Of America - 2006 - https://api.discogs.com/releases/1787555
-The Warp Records Memorial Mix - 2006 - https://api.discogs.com/releases/5385500
-30 Days - 2006 - https://api.discogs.com/masters/86283
-Imaginary Friends - 2007 - https://api.discogs.com/releases/1012173
-Incite 48 - 2007 - https://api.discogs.com/releases/11857293
-Gozombie Growing Compilation - 2008 - https://api.discogs.com/releases/1458830
-Intelligent Breakcore - 2009 - https://api.discogs.com/releases/3267053
-RA.281 - 2011 - https://api.discogs.com/releases/3180751
-cOmaWrek Presentz tha nOdcast (v01) - 2011 - https://api.discogs.com/releases/18577789
-Old Trees (1999 - 2011) - 2011 - https://api.discogs.com/masters/649690
-'Waiting For An Angel' Mix - 2012 - https://api.discogs.com/releases/4426109
-061812 Chicago Mix - 2012 - https://api.discogs.com/releases/8398299
-Isolatedmix 28 - 2012 - https://api.discogs.com/releases/12833120
-Hallucinations : Live In Hongdae, South Korea - 2012 - https://api.discogs.com/releases/16277338
-'Dawn' An Ambient Mix - 2013 - https://api.discogs.com/releases/4425859
-The Musical Odyssey – Matinee At The Eyelid Cinema - 2013 - https://api.discogs.com/releases/6781489
-cOmaWrek Presentz Tha nOdcast (v58) - 2013 - https://api.discogs.com/releases/18616057
-r.room Podcast #8 (Unline Special) - 2015 - https://api.discogs.com/releases/6741360
-Lyra Vistro - 2015 - https://api.discogs.com/releases/8344979
-Café Del Mar - Terrace Mix 6 - 2016 - https://api.discogs.com/releases/16522935
-ComaWrek Presentz Tha Nodcast (v81) The Catdog Collection - 2016 - https://api.discogs.com/releases/18602209
-Unline Mix - 2018 - https://api.discogs.com/releases/8319601
-Auxilia - 2018 - https://api.discogs.com/releases/11437260
-Mindcast Mixtape 10/2018 - 2018 - https://api.discogs.com/releases/12730448
-Billegal Beats Vol​.​0 - 2019 - https://api.discogs.com/releases/13186144
-Raiding The 20th Century (A History Of The Cut Up) - 2024 - https://api.discogs.com/masters/228642
-Never Mind The Bootlegs - 2002 - https://api.discogs.com/releases/891083
-2002 V.1 - 2002 - https://api.discogs.com/releases/1542232
-Morsure - 2006 - https://api.discogs.com/releases/736912
-Electric Eclectic Extracts - 2006 - https://api.discogs.com/releases/1032869
-H2O - 2008 - https://api.discogs.com/releases/1255663
-Lawn Funeral EP - 2019 - https://api.discogs.com/masters/1100091
-Our Simulacra - 2020 - https://api.discogs.com/masters/1705154
-Atmospheric Inspiration - Desconocido - https://api.discogs.com/releases/6764105
+Soft Power / Lose The Baby - 2017 - https://api.discogs.com/masters/1358734
+Chameleon Paint - 2017 - https://api.discogs.com/masters/1251777
+Less Artists More Condos Series #18 - 2018 - https://api.discogs.com/masters/1426179
+You Let My Tyres Down / Back To The Wall - 2018 - https://api.discogs.com/masters/1325069
+Rubber Bullies / Stayin' Alive - 2018 - https://api.discogs.com/masters/1356307
+A Laughing Death In Meatspace  - 2018 - https://api.discogs.com/masters/1365395
+Stayin' Alive - 2018 - https://api.discogs.com/masters/1766095
+Braindrops - 2019 - https://api.discogs.com/masters/1591843
+The Planet Of Straw Men - 2019 - https://api.discogs.com/masters/1539274
+Legal Ghost / Heaven - 2020 - https://api.discogs.com/masters/1787032
+Suburbiopia / This Perfect Day - 2020 - https://api.discogs.com/masters/1719914
+Deep States - 2021 - https://api.discogs.com/masters/2267410
+Hat Jam - 2022 - https://api.discogs.com/releases/22932227
+Satanic Slumber Party - 2022 - https://api.discogs.com/masters/2582033
+Goody Goody Gumdrops - 2022 - https://api.discogs.com/masters/2748566
+Golden Ratio - 2022 - https://api.discogs.com/masters/2965402
+Submersive Behaviour - 2022 - https://api.discogs.com/masters/2963791
+Moonburn - 2022 - https://api.discogs.com/masters/2758499
+Aneurysm - 2023 - https://api.discogs.com/releases/28800133
+Tropical Fuck Storm's Inflatable Graveyard - 2024 - https://api.discogs.com/masters/3605822
+Fairyland Codex - 2025 - https://api.discogs.com/masters/3883309
+Sounds of Studio 5 Live Midnight Snack - 2018 - https://api.discogs.com/releases/19604014
+2019 Cass Sampler - 2019 - https://api.discogs.com/releases/13883011
+Secretly Distribution Fall 2019 Sampler - 2019 - https://api.discogs.com/releases/14134569
+Abortion Rights Benefit - 2022 - https://api.discogs.com/releases/28899439
+Cardinals At The Window - 2024 - https://api.discogs.com/masters/3622151
+The New Sounds (15 Tracks Of The Month's Best Music) - 2025 - https://api.discogs.com/releases/34061029
