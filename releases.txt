@@ -1,479 +1,1171 @@
 Listado de releases del artista:
-Watching The Detectives - 1977 - https://api.discogs.com/masters/42825
-Talking In The Dark - 1978 - https://api.discogs.com/releases/2387813
-Pump It Up - 1978 - https://api.discogs.com/masters/265957
-Radio Radio - 1978 - https://api.discogs.com/masters/42823
-(I Don't Want To Go To) Chelsea - 1978 - https://api.discogs.com/masters/42827
-This Year's Model - 1978 - https://api.discogs.com/masters/455505
-I Don't Want To Go To Chelsea / Tiny Steps / Night Rally - 1978 - https://api.discogs.com/masters/1696227
-Senior Service - 1979 - https://api.discogs.com/releases/22901213
-Armed Forces 4 Track Sampler Promo - 1979 - https://api.discogs.com/releases/27132654
-Accidents Will Happen - 1979 - https://api.discogs.com/masters/197769
-Armed Forces - 1979 - https://api.discogs.com/masters/42659
-Accidents Will Happen / Alison - 1979 - https://api.discogs.com/masters/1061615
-Oliver's Army - 1979 - https://api.discogs.com/masters/42851
-King Biscuit Flower Hour  - 1980 - https://api.discogs.com/releases/4520381
-Excerpts from "Ten Bloody Mary's..." E.P. - 1980 - https://api.discogs.com/releases/8928879
-King Biscuit Fower Hour - 1980 - https://api.discogs.com/releases/31418321
-Clubland / Clean Money / Hoover Factory - 1980 - https://api.discogs.com/masters/470032
-New Amsterdam - 1980 - https://api.discogs.com/masters/422590
-Get Happy!! - 1980 - https://api.discogs.com/masters/42856
-High Fidelity - 1980 - https://api.discogs.com/masters/42858
-I Can't Stand Up For Falling Down - 1980 - https://api.discogs.com/masters/42864
-I Can't Stand Up For Falling Down - 1980 - https://api.discogs.com/masters/467336
-4 Tracks From The Forthcoming Album "Trust" - 1981 - https://api.discogs.com/releases/4718724
-Excerpts From The Album "Almost Blue" - 1981 - https://api.discogs.com/releases/5182528
-Different Finger - 1981 - https://api.discogs.com/releases/10158022
-Strict Time - 1981 - https://api.discogs.com/releases/17573275
-Sweet Dreams - 1981 - https://api.discogs.com/masters/244444
-Watch Your Step - 1981 - https://api.discogs.com/masters/422735
-Good Year For The Roses - 1981 - https://api.discogs.com/masters/42869
-Almost Blue - 1981 - https://api.discogs.com/masters/42880
-Trust - 1981 - https://api.discogs.com/masters/42889
-From A Whisper To A Scream - 1981 - https://api.discogs.com/masters/469982
-Almost New - 1982 - https://api.discogs.com/releases/3406358
-Shabby Doll - 1982 - https://api.discogs.com/releases/3864199
-Party Party / No Feelings - 1982 - https://api.discogs.com/releases/4367532
-Excerpts From The Imperial Bedroom - 1982 - https://api.discogs.com/releases/8430572
-Party Party - 1982 - https://api.discogs.com/releases/28765795
-From Head To Toe - 1982 - https://api.discogs.com/masters/634524
-I'm Your Toy - 1982 - https://api.discogs.com/masters/42890
-Imperial Bedroom - 1982 - https://api.discogs.com/masters/42894
-Man Out Of Time - 1982 - https://api.discogs.com/masters/42903
-Party Party - 1982 - https://api.discogs.com/masters/42906
-You Little Fool - 1982 - https://api.discogs.com/masters/42912
-Punch The Clock  6-Track Sampler  - 1983 - https://api.discogs.com/releases/5638360
-Everyday I Write The Book - 1983 - https://api.discogs.com/releases/34296046
-Let Them All Talk - 1983 - https://api.discogs.com/masters/525512
-Shipbuilding / The World And His Wife - 1983 - https://api.discogs.com/masters/1652097
-Everyday I Write The Book - 1983 - https://api.discogs.com/masters/42914
-Let Them All Talk - 1983 - https://api.discogs.com/masters/42916
-Punch The Clock - 1983 - https://api.discogs.com/masters/42921
-King Biscuit Flower Hour  - 1984 - https://api.discogs.com/releases/13032606
-Ten Bloody Marys & Ten How's Your Fathers - 1984 - https://api.discogs.com/masters/317261
-Goodbye Cruel World - 1984 - https://api.discogs.com/masters/42926
-I Wanna Be Loved - 1984 - https://api.discogs.com/masters/42930
-The Only Flame In Town - 1984 - https://api.discogs.com/masters/42932
-The Best Of Elvis Costello And The Attractions - 1985 - https://api.discogs.com/masters/1734167
-Green Shirt - 1985 - https://api.discogs.com/masters/265967
-The Best Of Elvis Costello And The Attractions - 1985 - https://api.discogs.com/masters/42933
-Highlights From 'Blood & Chocolate' - 1986 - https://api.discogs.com/releases/2918544
-Seven-Day Weekend - 1986 - https://api.discogs.com/masters/207402
-The History Of Rock (Volume Thirty Nine) - 1986 - https://api.discogs.com/masters/807645
-Lovable - 1986 - https://api.discogs.com/masters/394985
-Blood & Chocolate - 1986 - https://api.discogs.com/masters/42938
-I Want You - 1986 - https://api.discogs.com/masters/42941
-Tokyo Storm Warning Pts 1 & 2 - 1986 - https://api.discogs.com/masters/42943
-In Concert-400 - 1987 - https://api.discogs.com/masters/1394002
-King Biscuit Flower Hour  - 1990 - https://api.discogs.com/releases/13445691
-King Biscuit Flower Hour  - 1991 - https://api.discogs.com/releases/13053013
-King Biscuit Flower Hour  - 1992 - https://api.discogs.com/releases/13445623
-In Concert: New Rock - 1993 - https://api.discogs.com/releases/1995807
-2 1/2 Years (In 22 Minutes) - 1993 - https://api.discogs.com/releases/13025601
-2½ Years - 1993 - https://api.discogs.com/masters/219895
-Highlights From Almost Blue & Imperial Bedroom - 1994 - https://api.discogs.com/releases/1330130
-Almost Blue / Imperial Bedroom - 1994 - https://api.discogs.com/releases/2518047
-King Biscuit Flower Hour  - 1994 - https://api.discogs.com/releases/13025769
-Get Happy / Trust - Video Marketing Tool - 1994 - https://api.discogs.com/releases/15348985
-Classic In Concert - 37 - 1994 - https://api.discogs.com/releases/17737354
-You Tripped At Every Step - 1994 - https://api.discogs.com/masters/470043
-Get Happy !! / Trust - 1994 - https://api.discogs.com/masters/1473341
-London's Brilliant Parade - 1994 - https://api.discogs.com/masters/42952
-The Very Best Of Elvis Costello And The Attractions - 1994 - https://api.discogs.com/masters/42954
-Punch The Clock / Goodbye Cruel World - 1995 - https://api.discogs.com/releases/7408448
-All This Useless Beauty - 1996 - https://api.discogs.com/releases/996557
-The Other End Of The Telescope - 1996 - https://api.discogs.com/releases/8270528
-It's Time - 1996 - https://api.discogs.com/masters/225315
-The Other End Of The Telescope - 1996 - https://api.discogs.com/masters/1381532
-You Bowed Down - 1996 - https://api.discogs.com/masters/265966
-Distorted Angel - 1996 - https://api.discogs.com/masters/707899
-All This Useless Beauty - 1996 - https://api.discogs.com/masters/42958
-Little Atoms - 1996 - https://api.discogs.com/masters/1549295
-King of America - 2005 - https://api.discogs.com/masters/42965
-Rock And Roll Music - 2007 - https://api.discogs.com/masters/952675
-Live At Hollywood High - 2010 - https://api.discogs.com/releases/2241509
-Live At Hollywood High - 2010 - https://api.discogs.com/masters/235346
-Live In Germany 1978 - 2013 - https://api.discogs.com/releases/15918268
-Armed Forces (Super Deluxe Edition) - 2020 - https://api.discogs.com/releases/16040078
-Armed Forces (Super Deluxe Edition) - 2020 - https://api.discogs.com/releases/16160191
-Good year For The Roses / Why Don't You Love Me / Sweet Dreams - Desconocido - https://api.discogs.com/releases/15095370
-This Year's Model - 1978 - https://api.discogs.com/masters/455505
-Heard It, Seen It, Done It - 1998 - https://api.discogs.com/masters/3598
-Partytime For Assholes - 1998 - https://api.discogs.com/masters/340973
-Kings For A Day - The Vinyl Japan Years - 2008 - https://api.discogs.com/masters/838098
-Live At The El Mocambo - 2009 - https://api.discogs.com/masters/202952
-If It Ain't Stiff, It Ain't Worth A F**k! - 2014 - https://api.discogs.com/releases/15973131
-These Songs Aren't Ours - 2020 - https://api.discogs.com/releases/26110852
-Spanish Model - 2021 - https://api.discogs.com/masters/2296276
-My Aim Is True - 1977 - https://api.discogs.com/masters/39488
-Watching The Detectives - 1977 - https://api.discogs.com/masters/42825
-Alison - 1977 - https://api.discogs.com/masters/380334
-Concerto De Rock, Volume 2 - 1978 - https://api.discogs.com/releases/5232367
-Top Of The Pops-702 - 1978 - https://api.discogs.com/releases/8978135
-Rock Power - 1978 - https://api.discogs.com/releases/22604831
-This Year's Model - 1978 - https://api.discogs.com/masters/455505
-Stranger In The House - 1978 - https://api.discogs.com/masters/1247686
-Stiffs Live Stiffs - 1978 - https://api.discogs.com/masters/105954
-Top Of The Pops-746 - 1979 - https://api.discogs.com/releases/10111954
-Stiff Records - 1979 - https://api.discogs.com/releases/10345420
-WEA Makes It Happen - 1979 - https://api.discogs.com/releases/17187148
-Top Of The Pops - 797 - 1980 - https://api.discogs.com/releases/3364263
-Top Of The Pops - 799 - 1980 - https://api.discogs.com/releases/4381592
-WEA New Wave '80 - 1980 - https://api.discogs.com/releases/21159187
-New Wave Of The 80's - 1980 - https://api.discogs.com/masters/1465434
-Rock Against Racism - RAR's Greatest Hits - 1980 - https://api.discogs.com/masters/137619
-Dancin' Master - 1981 - https://api.discogs.com/releases/952541
-Tomorrow Coast To Coast (The Elvis Costello Interview With Tom Snyder) - 1981 - https://api.discogs.com/releases/4370005
-Top Of The Pops-883 - 1981 - https://api.discogs.com/releases/29477275
-Top Of The Pops-893 - 1981 - https://api.discogs.com/releases/32802759
-Concerts For The People Of Kampuchea - 1981 - https://api.discogs.com/releases/33572997
-Concerts For The People Of Kampuchea - 1981 - https://api.discogs.com/masters/68676
-Good Year For The Roses - 1981 - https://api.discogs.com/masters/42869
-From A Whisper To A Scream - 1981 - https://api.discogs.com/masters/469982
-Mighty Reel - 1982 - https://api.discogs.com/releases/952567
-A Conversation With Elvis Costello (In Which He Talks About The Tracks From His New Album 'Imperial Bedroom') - 1982 - https://api.discogs.com/releases/2317051
-Rock Star Guest D.J. - 1982 - https://api.discogs.com/releases/12165678
-Rock Star Guest D.J. - 1982 - https://api.discogs.com/releases/13617555
-Top Of The Pops-945 - 1982 - https://api.discogs.com/releases/32977833
-Top Of The Pops - 919 - 1982 - https://api.discogs.com/releases/33258027
-Top Of The Pops - 921 - 1982 - https://api.discogs.com/releases/33261582
-The Love Songs Album - 1982 - https://api.discogs.com/masters/227880
-Modern Rockers - 1982 - https://api.discogs.com/masters/705759
-Party Party (Original Motion Picture Soundtrack) - 1982 - https://api.discogs.com/masters/131501
-Why Study? - 1983 - https://api.discogs.com/releases/2302996
-Expresso Video - 1983 - https://api.discogs.com/releases/2715480
-Guest D.J. - 1983 - https://api.discogs.com/releases/12511767
-Rock USA (Week Of September 3, 1983) - 1983 - https://api.discogs.com/releases/16421670
-Guest D.J. - 1983 - https://api.discogs.com/releases/25350595
-Guest D.J. - 1983 - https://api.discogs.com/releases/31463801
-Top Of The Pops - 976 - 1983 - https://api.discogs.com/releases/32818974
-Án Vörugjalds - 1983 - https://api.discogs.com/masters/1481706
-Rock Over London #147 - 1984 - https://api.discogs.com/releases/15016325
-Top Of The Pops - 1024 - 1984 - https://api.discogs.com/releases/16497615
-RCA All Star Collection - 1984 - https://api.discogs.com/releases/17272021
-Guest D.J. - 1984 - https://api.discogs.com/releases/29689156
-Every Man Has A Woman - 1984 - https://api.discogs.com/releases/30339482
-Every Man Has A Woman - 1984 - https://api.discogs.com/masters/324291
-The Only Flame In Town - 1984 - https://api.discogs.com/masters/42932
-Nice Price - Each Album Only $3.99 - Rock - 1985 - https://api.discogs.com/releases/23917562
-Live For Ireland - 1986 - https://api.discogs.com/releases/3816003
-Fourplay - 1986 - https://api.discogs.com/masters/1352238
-Pogo À Go Go! - 1986 - https://api.discogs.com/masters/451154
-Live For Ireland - 1986 - https://api.discogs.com/masters/128611
-Club Paradise - Original Motion Picture Soundtrack - 1986 - https://api.discogs.com/masters/265965
-Don't Let Me Be Misunderstood - 1986 - https://api.discogs.com/masters/42963
-59 To 1 Nr. 14 - 1987 - https://api.discogs.com/releases/1956700
-Video Rock - 1987 - https://api.discogs.com/releases/9893500
-Video Disco Show No. 49 Februar 1987 - 1987 - https://api.discogs.com/releases/14947886
-Rock Over London # 444 - 1987 - https://api.discogs.com/releases/31599778
-Out Of Our Idiot - 1987 - https://api.discogs.com/masters/42948
-25 Years Of Rock 'N' Roll 1980 - 1988 - https://api.discogs.com/masters/596000
-25 Years Of Rock 'N' Roll 1981 - 1988 - https://api.discogs.com/masters/780525
-The Sound Of The Suburbs - 1991 - https://api.discogs.com/masters/109731
-Punk & Disorderly - 1991 - https://api.discogs.com/masters/250330
-The Sound Of The City - 1992 - https://api.discogs.com/masters/605495
-Country Moods - 1992 - https://api.discogs.com/masters/1147194
-The Best Punk Album In The World ... Ever! - 1992 - https://api.discogs.com/masters/123285
-Sound Of The Suburbs - 1992 - https://api.discogs.com/masters/1828343
-The Compact 2 Tone Story - 1993 - https://api.discogs.com/releases/5195896
-Car Crash Love: The Odds In Context, Vol. 2 - 1993 - https://api.discogs.com/releases/19236808
-Going Underground (The Sound Of A Generation) - 1993 - https://api.discogs.com/masters/595996
-Back To The 70's - 1993 - https://api.discogs.com/masters/620882
-The Best Of 2 Tone - 1993 - https://api.discogs.com/masters/25049
-Sexo, Drogas Y Rock 'n' Roll - 1993 - https://api.discogs.com/masters/1118169
-Festival Rock - 1994 - https://api.discogs.com/releases/1064187
-WEA Compilation - 1994 - https://api.discogs.com/releases/12222694
-Live Classics From The Cutting Edge II - 1994 - https://api.discogs.com/releases/13052444
-Q Country - 1994 - https://api.discogs.com/masters/1931196
-La Fabuleuse Histoire Du Rock 15 - Rock Décadent-Punk - 1995 - https://api.discogs.com/releases/1115906
-Drivetime 3 - 1995 - https://api.discogs.com/releases/2921512
-The Demon Bible According To Tower, Book One - 1995 - https://api.discogs.com/releases/7741630
-The Mix - 53 - 1995 - https://api.discogs.com/releases/15215763
-La Fabuleuse Histoire Du Rock 10 - New Wave - Cold Wave - 1995 - https://api.discogs.com/releases/30188861
-Into The Eighties - 1995 - https://api.discogs.com/masters/160379
-Teenage Kicks - 1995 - https://api.discogs.com/masters/1004241
-Lo Mejor De Los 80 Volumen 2 - 1995 - https://api.discogs.com/masters/1261558
-Music Matters Volume 8 - 1996 - https://api.discogs.com/releases/2109747
-The No. 1 Punk Album - 1996 - https://api.discogs.com/releases/2169291
-Damn Critics Damn Right - 1996 - https://api.discogs.com/releases/12158065
-Warner Music Canada Promotional CD - Volume 294 - July 1996 - 1996 - https://api.discogs.com/releases/15684576
-EuroXclusive - Show # 96/09 - 1996 - https://api.discogs.com/releases/21554446
-Top Of The Pops - 1644 - 1996 - https://api.discogs.com/releases/26544371
-Torhout Werchter 1977-1996 - 1996 - https://api.discogs.com/masters/982039
-Rock Anthems Volume 2 - 1996 - https://api.discogs.com/masters/2984915
-The Best Punk Album In The World ... Ever! 2 - 1996 - https://api.discogs.com/masters/1338879
-The Best Of  New Wave - The 33 Greatest Hits Of Punk And New Wave - 1997 - https://api.discogs.com/releases/2237277
-Not With That Clown (Great Songs Of Sexual Jealousy) - 1997 - https://api.discogs.com/releases/4090618
-Video Hits Past Hits Volume 1 - 1997 - https://api.discogs.com/releases/9035499
-The Power Of Love: 1981 - 1983 - 1997 - https://api.discogs.com/releases/9495021
-Il Grande Pop Inglese - 1997 - https://api.discogs.com/releases/12765926
-Once In A Lifetime - 1997 - https://api.discogs.com/masters/3754635
-The Power Of Love: 1978 - 1980 - 1997 - https://api.discogs.com/masters/1317173
-Extreme Honey (The Very Best Of The Warner Bros. Years) - 1997 - https://api.discogs.com/masters/270142
-The All Time Greatest Country Songs From The 60's, 70's, 80's & 90's - 1997 - https://api.discogs.com/masters/1142620
-CMJ - The Year In Music 1979 - 1998 - https://api.discogs.com/releases/1370446
-Pure Rock 1980 - The History Of Rockmusic - 1998 - https://api.discogs.com/releases/6223732
-That's Country - 1998 - https://api.discogs.com/releases/8131397
-Classic Rock: 1975-1979 - 1998 - https://api.discogs.com/releases/9585753
-Classic Rock: 1980-1985 - 1998 - https://api.discogs.com/releases/9596023
-Fantastic 70's! - 1998 - https://api.discogs.com/masters/1160227
-Ultimate Country - 40 Country Greats - 1998 - https://api.discogs.com/masters/1343208
-The All Time Greatest Country Songs Of The Millennium - 1998 - https://api.discogs.com/masters/3577069
-Musical Messenger - 1998 - https://api.discogs.com/masters/204066
-The Best Country Ballads In The World... Ever - 1998 - https://api.discogs.com/masters/1025436
-Fantastic 80's! - 1998 - https://api.discogs.com/masters/1884600
-The Best Punk Anthems ...Ever! - 1998 - https://api.discogs.com/masters/1140693
-The Best Seventies Album In The World ...Ever! II - 1998 - https://api.discogs.com/masters/1160188
-The Singer & The Song - 1999 - https://api.discogs.com/releases/1895531
-The Best Ever Footy Album - 1999 - https://api.discogs.com/releases/15285315
-The Very Best Of Elvis Costello - 1999 - https://api.discogs.com/masters/201389
-200 Cigarettes - Music From The Motion Picture - 1999 - https://api.discogs.com/masters/713427
-The Sopranos - Music From The HBO Original Series - 1999 - https://api.discogs.com/masters/72684
-Decades: The Story Of The 60's / 70's / 80's - 2000 - https://api.discogs.com/releases/3544953
-The Best Punk Songs Of The Millenium - 2000 - https://api.discogs.com/releases/8004756
-Film 2000 With Jonathan Ross - 2000 - https://api.discogs.com/releases/9302648
-High Fidelity (Original Soundtrack) - 2000 - https://api.discogs.com/masters/56840
-Cinema Classics (Greatest Classic Movie Songs) - 2000 - https://api.discogs.com/masters/2986145
-Maybe Baby - Original Soundtrack - 2000 - https://api.discogs.com/masters/578723
-Music Of The Millennium 2 - 2000 - https://api.discogs.com/masters/119643
-Tempted (A Collection Of Mellow 80s Classics) - 2000 - https://api.discogs.com/masters/2011612
-To Be Someone - 2001 - https://api.discogs.com/releases/1943955
-A Kick Up The 80s - 2001 - https://api.discogs.com/releases/1958733
-Cash From Chaos - 2001 - https://api.discogs.com/releases/2869390
-Re-Examine (Selections From All This Useless Beauty, Spike And My Aim Is True) - 2001 - https://api.discogs.com/releases/2911364
-Almost Blue - Quasi Blu - 2001 - https://api.discogs.com/releases/6371619
-The Grimleys - The Official Soundtrack To The Hit TV Show - 2001 - https://api.discogs.com/releases/7403326
-Mersey Boys & Liverpool Girls: Sounds Of The Mersey 1978-2001 - 2001 - https://api.discogs.com/releases/8663561
-Mersey Boys & Liverpool Girls - 2001 - https://api.discogs.com/releases/9435359
-Get Over It (Music From The Miramax Motion Picture) - 2001 - https://api.discogs.com/masters/728607
-The Sopranos - Peppers & Eggs - Music From The HBO Original Series - 2001 - https://api.discogs.com/masters/457027
-Alternative Eighties - 2002 - https://api.discogs.com/releases/744375
-Jubilee Punk!3 - 2002 - https://api.discogs.com/releases/1569676
-The Very Best Of The Tube - 2002 - https://api.discogs.com/releases/1961249
-School Disco.com - Spring Term - 2002 - https://api.discogs.com/releases/2600846
-Panasonic Präsentiert "Legends Of Rock" - 2002 - https://api.discogs.com/releases/3782593
-Mod And Beyond - On Target With Four Generations Of Mod Music - 2002 - https://api.discogs.com/releases/4874769
-Pop Goes The 70s - 2002 - https://api.discogs.com/releases/6399231
-Best Of British - 50 Golden Years Of British Popular Music - 2002 - https://api.discogs.com/releases/10552841
-School Disco.com The Best Days Of Your Life - 2002 - https://api.discogs.com/releases/11436874
-Martha Stewart Kids: Playtime - 2002 - https://api.discogs.com/releases/23578568
-הבורגנים (פסקול הסדרה) - 2002 - https://api.discogs.com/releases/24453032
+Lonely Feelin' - 1971 - https://api.discogs.com/releases/14061254
+Tongue In Cheek / Sun Oh Son - 1971 - https://api.discogs.com/releases/17258722
+Vibeka - 1971 - https://api.discogs.com/releases/17683798
+Special Radio Spot Commercial - 1971 - https://api.discogs.com/releases/18214183
+All Day Music - 1971 - https://api.discogs.com/releases/28464646
+Sun Oh Son / Lonely Feelin' - 1971 - https://api.discogs.com/masters/157802
+All Day Music - 1971 - https://api.discogs.com/masters/116934
+War - 1971 - https://api.discogs.com/masters/116936
+Get Down / All Day Music - 1971 - https://api.discogs.com/masters/279333
+Slippin' Into Darkness - 1971 - https://api.discogs.com/masters/202303
+Selections From "The World Is A Ghetto" - 1972 - https://api.discogs.com/releases/649880
+Rockin' With The King / Slippin' Into Darkness - 1972 - https://api.discogs.com/releases/7216743
+The World Is A Ghetto - 1972 - https://api.discogs.com/masters/116938
+The World Is A Ghetto / Four Cornered Room - 1972 - https://api.discogs.com/masters/153080
+The Cisco Kid - 1972 - https://api.discogs.com/masters/118579
+The Cisco Kid / Over The Hill - 1973 - https://api.discogs.com/releases/4813242
+El Mundo Es Un Ghetto / Donde Estabas Tu - 1973 - https://api.discogs.com/releases/15639678
+War Live - 1973 - https://api.discogs.com/masters/116980
+Gypsy Man - 1973 - https://api.discogs.com/masters/149875
+Deliver The Word - 1973 - https://api.discogs.com/masters/100781
+Ballero - 1973 - https://api.discogs.com/masters/153075
+The Cisco Kid / The World Is A Ghetto - 1973 - https://api.discogs.com/masters/405263
+Me And Baby Brother / In Your Eyes - 1973 - https://api.discogs.com/masters/102222
+Radio Free War - 1974 - https://api.discogs.com/releases/3973090
+Yo Y Mi Hermano Pequeño - 1974 - https://api.discogs.com/releases/5338230
+War - 1974 - https://api.discogs.com/masters/1719223
+Why Can't We Be Friends?/Stronghold - 1975 - https://api.discogs.com/releases/32732118
+Why Can't We Be Friends? - 1975 - https://api.discogs.com/masters/116935
+The First Annual Benefit Concert For The Congressional Black Caucus - 1975 - https://api.discogs.com/masters/453729
+Me & Baby Brother / Ballero - 1975 - https://api.discogs.com/masters/2073943
+Why Can't We Be Friends? - 1975 - https://api.discogs.com/masters/153079
+Low Rider - 1975 - https://api.discogs.com/masters/153087
+Low Rider / I'll Always Love My Mama - 1976 - https://api.discogs.com/releases/9671142
+War Sampler - 1976 - https://api.discogs.com/releases/15550477
+Platinum Jazz A Story Of War - A Radio Special - 1976 - https://api.discogs.com/releases/18861703
+My Name Is Jermaine / Greatest Hits - 1976 - https://api.discogs.com/releases/30745422
+Greatest Hits - 1976 - https://api.discogs.com/masters/116968
+Lee Oskar = 約束の旅 - 1976 - https://api.discogs.com/masters/174427
+Summer / All Day Music  - 1976 - https://api.discogs.com/masters/149874
+Galaxy / Theme Song From "Which Way Is Up" - 1977 - https://api.discogs.com/releases/1741867
+Love is All Around - 1977 - https://api.discogs.com/masters/120870
+Platinum Funk - 1977 - https://api.discogs.com/masters/872572
+Galaxy - 1977 - https://api.discogs.com/masters/116937
+Galaxy - 1977 - https://api.discogs.com/masters/116973
+The Seven Tin Soldiers - 1977 - https://api.discogs.com/masters/1143381
+Hey Señorita - 1977 - https://api.discogs.com/masters/277183
+L.A. Sunshine - 1977 - https://api.discogs.com/masters/202302
+Platinum Jazz - 1977 - https://api.discogs.com/masters/118593
+Promotional Sampler - Not For Sale - 1978 - https://api.discogs.com/releases/8312750
+Youngblood (Original Motion Picture Soundtrack) - 1978 - https://api.discogs.com/masters/116966
+Baby Face (She Said Do Do Do Do) - 1978 - https://api.discogs.com/masters/1489393
+The Original War - 1978 - https://api.discogs.com/masters/3101175
+Sing A Happy Song / This Funky Music Makes You Feel Good - 1978 - https://api.discogs.com/masters/449307
+Youngblood (Livin' In The Streets) - 1978 - https://api.discogs.com/masters/153078
+Different Moods Of Me - 1978 - https://api.discogs.com/masters/128679
+Galaxy / Junkie To My Music - 1978 - https://api.discogs.com/masters/128680
+War Vol.1 - 1979 - https://api.discogs.com/releases/1660323
+Good, Good Feelin' / Galaxy - 1979 - https://api.discogs.com/masters/157805
+The Music Band - 1979 - https://api.discogs.com/masters/116939
+The Music Band 2 - 1979 - https://api.discogs.com/masters/116982
+I'll Take Care Of You / The World Is A Ghetto - 1979 - https://api.discogs.com/masters/858443
+Don't Take It Away - 1979 - https://api.discogs.com/masters/408353
+The Music Band 2 (We Are The Music Band) / Don't Take It Away - 1979 - https://api.discogs.com/masters/1287388
+I'm The One Who Understands / Cisco Kid / Me & Baby Brother - 1979 - https://api.discogs.com/masters/714733
+The Rock Wave - 1980 - https://api.discogs.com/releases/4954647
+The World Is A Ghetto - 1980 - https://api.discogs.com/releases/30887118
+I'll Be Around - 1980 - https://api.discogs.com/masters/695734
+The Music Band Live - 1980 - https://api.discogs.com/masters/153081
+Budweiser Concert Of The Month - 1981 - https://api.discogs.com/releases/5665126
+Cinco De Mayo - 1981 - https://api.discogs.com/masters/153076
+Menergy / You Got The Power - 1982 - https://api.discogs.com/releases/588025
+Island Of Lost Souls / You Got The Power - 1982 - https://api.discogs.com/releases/1927183
+Outlaw - 1982 - https://api.discogs.com/releases/5057080
+Baby It's Cold Outside - 1982 - https://api.discogs.com/releases/5307733
+Outlaw - 1982 - https://api.discogs.com/masters/116952
+You Got The Power - 1982 - https://api.discogs.com/masters/149877
+Just Because - 1982 - https://api.discogs.com/masters/346760
+Galaxy / Cold Turkey / New Dimension - 1982 - https://api.discogs.com/masters/1301957
+Outlaw - 1982 - https://api.discogs.com/masters/153084
+The Best Of The Music Band - 1982 - https://api.discogs.com/masters/405264
+Life (Is So Strange) - 1983 - https://api.discogs.com/masters/116985
+The Music Band Jazz - 1983 - https://api.discogs.com/masters/497176
+Life (Is So Strange) - 1983 - https://api.discogs.com/masters/1054277
+Groovin' - 1984 - https://api.discogs.com/masters/149876
+Still In Love - 1985 - https://api.discogs.com/releases/6011789
+Where There's Smoke - 1985 - https://api.discogs.com/masters/510565
+Bad Mutha Trucka - 1985 - https://api.discogs.com/masters/669683
+The Other Side Of War Warms Your Heart - 1987 - https://api.discogs.com/masters/546883
+House Of The Rising Sun - 1987 - https://api.discogs.com/masters/777438
+The Best Of War And More - 1987 - https://api.discogs.com/masters/274026
+Lethal Weapon - 1989 - https://api.discogs.com/masters/111128
+You Got The Power / Outlaw - 1990 - https://api.discogs.com/releases/1100443
+Jazz Rock  - 1990 - https://api.discogs.com/releases/14583086
+Lowrider (On The Boulevard) - 1991 - https://api.discogs.com/masters/95162
+Collector's Edition - 1992 - https://api.discogs.com/releases/16006533
+Rap Declares War (The Single) - 1992 - https://api.discogs.com/masters/592402
+Don't Let No One Get You Down - 1992 - https://api.discogs.com/masters/3064586
+Live At The Watts Jazz Festival - Volume 1 - 1993 - https://api.discogs.com/masters/659007
+Angel - 1994 - https://api.discogs.com/masters/1700525
+Anthology - 1994 - https://api.discogs.com/masters/1103268
+Peace Sign - 1994 - https://api.discogs.com/masters/153082
+Peace Sign - 1994 - https://api.discogs.com/masters/153083
+Da Roof - 1994 - https://api.discogs.com/masters/202301
+Colección Latina - 1994 - https://api.discogs.com/masters/706292
+Peace Sign - 1995 - https://api.discogs.com/releases/34285405
+War Is Coming! Ⅱ - The Best Of War - 1996 - https://api.discogs.com/releases/11234774
+Anthology - 1996 - https://api.discogs.com/releases/16466124
+War Is Coming!  Ⅰ- The Best Of War - 1996 - https://api.discogs.com/releases/25763029
+The Best Of War And More... Vol 2 - 1996 - https://api.discogs.com/masters/2300899
+Spill The Wine (Junior Vasquez Remixes) - 1996 - https://api.discogs.com/masters/202304
+The Cisco Kid And Other Hits - 1998 - https://api.discogs.com/masters/1234550
+The Music Band Volume 1 & 2 - 1999 - https://api.discogs.com/releases/2421466
+Grooves & Messages - The Greatest Hits Of War - 1999 - https://api.discogs.com/masters/324106
+Slippin Into Darkness 1999 - 1999 - https://api.discogs.com/masters/148960
+Galaxy 2000 - 1999 - https://api.discogs.com/masters/148962
+Round And Round (Remix) / Cisco Kid - 2001 - https://api.discogs.com/masters/703546
+Low Rider - 2002 - https://api.discogs.com/masters/94017
+The Very Best Of - 2003 - https://api.discogs.com/masters/274027
+In Concert - 2006 - https://api.discogs.com/masters/1609740
+War Collector's Edition ( The Eight Original Gold & Platinum Studio Albums) - 2008 - https://api.discogs.com/releases/11221321
+Greatest Hits Live - 2008 - https://api.discogs.com/masters/2337814
+Greatest Hits Live - 2008 - https://api.discogs.com/masters/2631272
+Icon (The Hits) - 2010 - https://api.discogs.com/releases/2543589
+Live In Concert - 2010 - https://api.discogs.com/releases/16121602
+Icon 2 - The Hits & More - 2011 - https://api.discogs.com/masters/3244801
+The Music Of War 1970-1994 - 2013 - https://api.discogs.com/releases/5220123
+Evolutionary  - 2014 - https://api.discogs.com/masters/2050627
+Low Rider - 2018 - https://api.discogs.com/releases/20308009
+That L.A. Sunshine / E.R.A. Remix - 2019 - https://api.discogs.com/releases/13475049
+The Vinyl: 1971-1975 - 2021 - https://api.discogs.com/releases/19529098
+Greatest Hits 2.0 - 2021 - https://api.discogs.com/masters/2404723
+Now Playing - 2024 - https://api.discogs.com/releases/31611835
+The Vinyl: 1977-1994 - 2024 - https://api.discogs.com/masters/3706797
+Live In Japan 1974 - 2025 - https://api.discogs.com/masters/3754380
+Summer / Why Can't We Be Friends ? - Desconocido - https://api.discogs.com/releases/1100410
+LA Sunshine / The World Is A Ghetto - Desconocido - https://api.discogs.com/releases/1100418
+Cisco Kid / All Day Music - Desconocido - https://api.discogs.com/releases/1100423
+Evolution Of War - The Music Band - Desconocido - https://api.discogs.com/releases/3080682
+Greatest Hits - Desconocido - https://api.discogs.com/releases/4418960
+Naughty Times / You Got The Power - Desconocido - https://api.discogs.com/releases/11253487
+Soul Sound (Seoul Sound) Volume 3 - Desconocido - https://api.discogs.com/releases/15340292
+Concert Presentation VHS - Desconocido - https://api.discogs.com/releases/15866761
+Doing It To Death / Low Rider - Desconocido - https://api.discogs.com/releases/23140403
+War - Desconocido - https://api.discogs.com/releases/26666822
+The Best Of - Desconocido - https://api.discogs.com/releases/27418653
+War And The Hollydood Saxons - Desconocido - https://api.discogs.com/releases/27872859
+Steppin' Into Darkness (sic) - Desconocido - https://api.discogs.com/releases/29869849
+Smash Your Head Against The Wall / All Day Music - Desconocido - https://api.discogs.com/releases/30635767
+The Best - Lo Mejor - Desconocido - https://api.discogs.com/releases/31901446
+L.a Sunshine / The Cisco Kid  - Desconocido - https://api.discogs.com/masters/1287364
+Flauta Con Tumba / Where Was You At - Desconocido - https://api.discogs.com/masters/2073832
+Slippin' Into Darkness / Gypsy Man - Desconocido - https://api.discogs.com/masters/1015347
+The Funk Box - 2000 - https://api.discogs.com/releases/875436
+Samjazz Quintet - 1970 - https://api.discogs.com/releases/3224675
+Summertime Blues / Spill The Wine - 1970 - https://api.discogs.com/releases/3591791
+Top Hits - Top Stars - 1970 - https://api.discogs.com/releases/4230414
+20 Electrifying Hits - 1970 - https://api.discogs.com/releases/4504785
+Derrama El Vino / La Pregunta  - 1970 - https://api.discogs.com/releases/15769191
+As 14 P'ra Frente - Vol. 10 - 1970 - https://api.discogs.com/releases/16642323
+Spill The Wine / Magic Mountain - 1970 - https://api.discogs.com/releases/31171861
+They Can't Take Away Our Music / Home Cookin' - 1970 - https://api.discogs.com/masters/268307
+Eric Burdon Declares "War" - 1970 - https://api.discogs.com/masters/116928
+Spill The Wine - 1970 - https://api.discogs.com/masters/116932
+The Black-Man's Burdon - 1970 - https://api.discogs.com/masters/116978
+Music From The Motion Picture Soundtrack "The Magic Garden Of Stanley Sweetheart" - 1970 - https://api.discogs.com/masters/409992
+Non Stop Dancing 11 (28 Top Hits For Dancing) - 1970 - https://api.discogs.com/masters/238280
+I'm Gon' Git Myself Together - 1970 - https://api.discogs.com/masters/242566
+Fogoso Impacto - 1970 - https://api.discogs.com/masters/1848363
+Theme From "Medical Center" / Spill The Wine - 1970 - https://api.discogs.com/masters/1008763
+Home Cookin' / Jimbo - 1970 - https://api.discogs.com/masters/3386785
+Supergroups, Vol. III - 1970 - https://api.discogs.com/masters/605785
+All Good Clean Fun - 1971 - https://api.discogs.com/masters/407988
+Stop, Think, Get It Together - 1971 - https://api.discogs.com/masters/1614480
+Sounds Of The Woodstock Age Volume 2 - 1971 - https://api.discogs.com/masters/1034955
+Non Stop Dancing 71 (Folge: 11 & 12) - 1971 - https://api.discogs.com/masters/1114887
+Paint It Black / Spirit - 1971 - https://api.discogs.com/masters/417541
+14 Raccolta - 1972 - https://api.discogs.com/masters/119306
+Upendo Ni Pamoja - 1972 - https://api.discogs.com/masters/56908
+Half And Half Volume 1 - 1972 - https://api.discogs.com/masters/335454
+Slipping Into Darkness / Collage - 1972 - https://api.discogs.com/masters/403261
+Alta Mira - 1973 - https://api.discogs.com/masters/1384540
+Golden Hits - 1973 - https://api.discogs.com/masters/56394
+Slipping Into Darkness  - 1973 - https://api.discogs.com/masters/1713882
+Urban Education: First You Crawl... - 1974 - https://api.discogs.com/releases/2252044
+Let's Go Down To Funksville / Slippin' In To Darkness - 1974 - https://api.discogs.com/releases/5776171
+Heavy Metal - 24 Electrifying Performances - 1974 - https://api.discogs.com/masters/550941
+Live At The Club Saint-Germain - 1974 - https://api.discogs.com/masters/468248
+Tonight / Slippin' Into Darkness - 1974 - https://api.discogs.com/masters/165607
+Music Is What We Like To Play - 1974 - https://api.discogs.com/masters/624489
+Show The World - 1974 - https://api.discogs.com/masters/933838
+Memories Are Made Of This - 1975 - https://api.discogs.com/releases/7780246
+Rap N' Rhythm (Programs #229 - 232) - 1975 - https://api.discogs.com/releases/13015880
+The Hustle - 1975 - https://api.discogs.com/releases/15277953
+Super Groups Vol. 3 - 1975 - https://api.discogs.com/releases/32865384
+Philadelphia Freedom - 1975 - https://api.discogs.com/masters/143503
+The First Annual Benefit For The Congressional Black Caucus - 1975 - https://api.discogs.com/masters/453729
+Tobacco Road / Spill The Wine - 1975 - https://api.discogs.com/masters/634319
+Upendo Ni Pamoja / Funky Serenity - 1975 - https://api.discogs.com/masters/855816
+Canadian Sunset / Low Rider - 1976 - https://api.discogs.com/releases/1272367
+Changes - 1976 - https://api.discogs.com/releases/7529332
+Vamos A Tratar / Lori - Anna - 1976 - https://api.discogs.com/releases/11664687
+Discotheque Number Two - 1976 - https://api.discogs.com/releases/13873877
+Beyond Mobius - 1976 - https://api.discogs.com/masters/325179
+Tenement Yard - 1976 - https://api.discogs.com/masters/360063
+Funkgus II - 1976 - https://api.discogs.com/masters/1101612
+Get It Together / Spill The Wine - 1976 - https://api.discogs.com/masters/1513345
+Step On It - 1977 - https://api.discogs.com/releases/2142922
+I Feel Love, Shake It Well - 1977 - https://api.discogs.com/releases/29551348
+Live In Shalanda - 1978 - https://api.discogs.com/releases/3777736
+Youngblood (Radio Spots) - 1978 - https://api.discogs.com/releases/15075824
+Up In Smoke - 1978 - https://api.discogs.com/masters/116947
+Kaleidoscope = カレイドスコープ  - 1978 - https://api.discogs.com/masters/541805
+ロンリーガール = Lonely Girl - 1978 - https://api.discogs.com/masters/2498032
+Eric Burdon & War - 1979 - https://api.discogs.com/masters/3368017
+Ready For Battle - 1984 - https://api.discogs.com/masters/121211
+Live 1984 Tour - 1985 - https://api.discogs.com/masters/274334
+Day Of St. Christopher b/w Low Rider - 1986 - https://api.discogs.com/masters/1194414
+Animal Peace (14 Romantic Oldies) - 1987 - https://api.discogs.com/releases/2997074
+Low Rider - 1987 - https://api.discogs.com/masters/267773
+Buried Alive (The Best From Smoke 7 Records 1981-1983) - 1987 - https://api.discogs.com/masters/384531
+Funky Alternatives Volume One And Two - 1988 - https://api.discogs.com/releases/55212
+Cinco De Mayo - 1988 - https://api.discogs.com/masters/135575
+The Latin Connection - 1989 - https://api.discogs.com/masters/1208646
+Lethal Weapon - 1989 - https://api.discogs.com/masters/111128
+Heartbeat (Remix) - 1989 - https://api.discogs.com/masters/526272
+Hog Wild - 1990 - https://api.discogs.com/masters/1528337
+Spice Of Life - 1990 - https://api.discogs.com/masters/744067
+Fun Street - 1990 - https://api.discogs.com/masters/86673
+Latin Alliance - 1991 - https://api.discogs.com/releases/31610818
+Thirty Footer In Your Face - 1991 - https://api.discogs.com/masters/111045
+Lowrider (On The Boulevard) - 1991 - https://api.discogs.com/masters/95162
+Latin Alliance - 1991 - https://api.discogs.com/masters/95163
+LIVE im WUK 11.91 - 1992 - https://api.discogs.com/releases/8774951
+Hip Hop Locos - 1992 - https://api.discogs.com/masters/477632
+Spill The Rhyme - 1992 - https://api.discogs.com/masters/202080
+Access All Areas Live - 1993 - https://api.discogs.com/masters/2641490
+Tha Triflin' Album - 1993 - https://api.discogs.com/masters/61276
+Dirty Disco Dance! CD 2 - 1994 - https://api.discogs.com/releases/2171071
+Lowrider Video Soundtrack Vol. 7 - 1994 - https://api.discogs.com/releases/12353417
+Dummy - 1994 - https://api.discogs.com/masters/5542
+Eric Burdon / The Animals / War  - 1995 - https://api.discogs.com/releases/8442220
+Bass Patrol! Vol. 7 - 1996 - https://api.discogs.com/releases/5217063
+On Ya Way - 1996 - https://api.discogs.com/masters/135606
+Life Is Peachy - 1996 - https://api.discogs.com/masters/32528
+Moods...Moments - 1996 - https://api.discogs.com/masters/128872
+The Pin Group - 1997 - https://api.discogs.com/releases/1192976
+SkyBopFly 2 - 1997 - https://api.discogs.com/releases/15842092
+Disconnected - 1997 - https://api.discogs.com/releases/27482247
+Crni Je Zvuk Za Svaki Struk - 1997 - https://api.discogs.com/masters/391418
+A.D.I.D.A.S. - 1997 - https://api.discogs.com/masters/58724
+The Velvet Rope - 1997 - https://api.discogs.com/masters/100041
+Indiaan In De Stad - 1998 - https://api.discogs.com/releases/6832294
+The Official Live Bootleg #2 - 1998 - https://api.discogs.com/masters/1555159
+Moment Of Truth - 1998 - https://api.discogs.com/masters/24326
+Full Clip: A Decade Of Gang Starr - 1999 - https://api.discogs.com/masters/24354
+Do What You Like - 2000 - https://api.discogs.com/releases/2743159
+Latin Hip Hop - Barrio Beatz Con Sazón - 2000 - https://api.discogs.com/releases/25837765
+Conspiracy Of One - 2000 - https://api.discogs.com/masters/77243
+Cisco Kid - 2001 - https://api.discogs.com/releases/1365608
+The Mexican (Music From The Motion Picture) - 2001 - https://api.discogs.com/releases/30066097
+How High (The Soundtrack) - 2001 - https://api.discogs.com/masters/116941
+How High Soundtrack Sampler - 2001 - https://api.discogs.com/masters/3148281
+The Mexican (Music From The Motion Picture) - 2001 - https://api.discogs.com/masters/697096
+Earl Zinger's Put Your Phazers On Stun Throw Your Health Food Skyward - 2001 - https://api.discogs.com/masters/80986
+All For You - 2001 - https://api.discogs.com/masters/79177
+Greatest Joints - 2001 - https://api.discogs.com/masters/3581896
+Slippin' In To Darkness - 2002 - https://api.discogs.com/releases/1120329
+Broken Dreams Repaired - 2002 - https://api.discogs.com/releases/32084382
+AnotherLateNight - 2002 - https://api.discogs.com/masters/84171
+Get It In Ya! - 2003 - https://api.discogs.com/releases/14804458
+Livephish 07.15.03 USANA Amphitheatre, West Valley City, UT - 2003 - https://api.discogs.com/masters/2795750
+Pass That Dutch - 2003 - https://api.discogs.com/masters/140240
+21 Grams (Original Motion Picture Soundtrack) - 2003 - https://api.discogs.com/masters/275955
+The PJBS EP - 2004 - https://api.discogs.com/releases/4039854
+All My Best - 2004 - https://api.discogs.com/releases/4065237
+Cold Heat - Heavy Funk Rarities 1968-1974 Vol.1 - 2004 - https://api.discogs.com/masters/258913
+Kids Rock For Peas - 2005 - https://api.discogs.com/releases/15987281
+Tints Of Darkness - 2005 - https://api.discogs.com/releases/17347096
+Low Rider / Squat That Rabbit - 2006 - https://api.discogs.com/releases/883209
+Napoleon Of Temperance - 2006 - https://api.discogs.com/masters/655343
+Space Tranquil - Volumen Tres - 2007 - https://api.discogs.com/masters/259975
+O3 - 2007 - https://api.discogs.com/masters/921511
+Pas Dans Mon Ryhtme Mixtapes (Paris, 2008) - 2008 - https://api.discogs.com/releases/1718754
+You Can't Catch Me  - 2008 - https://api.discogs.com/releases/15793820
+Fabulous Disaster - 2008 - https://api.discogs.com/masters/106082
+Mash-Up Your Bootz Party Sampler Vol. 20 - 2009 - https://api.discogs.com/releases/4235649
+That's Gonna Leave A Mark - 2009 - https://api.discogs.com/releases/5966748
+Deep & Meaningless - 2010 - https://api.discogs.com/releases/2228339
+Mash-Up Your Bootz Party Sampler Vol. 42 - 2010 - https://api.discogs.com/releases/4241588
+Upendo Ni Pamoja & Sun Goddess - 2010 - https://api.discogs.com/releases/6185320
+The Deep Well Sessions (Disc 2) - 2012 - https://api.discogs.com/releases/12553310
+Ambivalence - 2012 - https://api.discogs.com/masters/489732
+Bacc 2 Tha Old School Vol. 1  - 2013 - https://api.discogs.com/releases/5142384
+Greatest Hits - 2013 - https://api.discogs.com/masters/77252
+McFarland, U.S.A. - 2015 - https://api.discogs.com/releases/15325956
+An Australian Jazz Anthology - 2015 - https://api.discogs.com/masters/952881
+Tru Thoughts Covers 2 - 2015 - https://api.discogs.com/masters/869655
+The World Is A Ghetto / One Fist    - 2016 - https://api.discogs.com/releases/8067100
+Explosive Hits - 2016 - https://api.discogs.com/masters/1051327
+Wake Up You! The Rise And Fall of Nigerian Rock 1972-1977 Vol. 2 - 2016 - https://api.discogs.com/masters/1010518
+The Plot Thickens - 2017 - https://api.discogs.com/releases/22293019
+Studio One Records Dub Plate Special Box Set - 2018 - https://api.discogs.com/releases/11897951
+Fudge Sandwich - 2018 - https://api.discogs.com/masters/1441177
+Philadelphia Freedom & Summertime - 2019 - https://api.discogs.com/masters/3650262
+Spill The Wine - 2020 - https://api.discogs.com/releases/15685930
+45's Are Going, Going, Gone - 2020 - https://api.discogs.com/releases/15703547
+Quattro - 2020 - https://api.discogs.com/releases/16402635
+They Can't Take Away Our Music - 2021 - https://api.discogs.com/releases/18217852
+Sing! - 2021 - https://api.discogs.com/releases/25142656
+JFA / Sin34 - 2021 - https://api.discogs.com/masters/1784026
+LateNightTales - Version Excursion - 2021 - https://api.discogs.com/masters/2311189
+Native Sons - 2021 - https://api.discogs.com/masters/2232046
+What Can I Say? No Regrets... (Out Of The Grey + Live, Demos & Outtakes) - 2022 - https://api.discogs.com/masters/31507
+De La Soul Is Dead - 2022 - https://api.discogs.com/masters/19501
+The Complete Vinyl Collection - 2022 - https://api.discogs.com/masters/3783947
+Rappel*le - 2023 - https://api.discogs.com/masters/3778739
+Art Official Intelligence: Mosaic Thump - 2023 - https://api.discogs.com/masters/56415
+Live At Tramps, NYC, 1996 - 2024 - https://api.discogs.com/masters/248524
+The Best Of Gimmicks ~ From Acapulco To Tokyo - Desconocido - https://api.discogs.com/releases/5540660
+Junior Walker & The All Stars - Desconocido - https://api.discogs.com/releases/7936947
+Live At Viola's Lounge - Desconocido - https://api.discogs.com/releases/11022567
+The Sexy Sax Of Fausto Papetti Vol. 4 - Desconocido - https://api.discogs.com/releases/11417943
+Limited Edition CD - Desconocido - https://api.discogs.com/releases/11431724
+La Vraie Version Présente - Le Pacte 2 - Desconocido - https://api.discogs.com/releases/20031169
+Super Stars Of The 70's - Desconocido - https://api.discogs.com/masters/1568777
+El Party Con La Crema - Desconocido - https://api.discogs.com/masters/653853
+Ain't No Party Like A Goldfish Party, Cuz A Goldfish Party Don't Stop - Desconocido - https://api.discogs.com/masters/1645249
+The Electric Jazz Of Gus Giordano - Desconocido - https://api.discogs.com/masters/1688872
+Crazy Life - Desconocido - https://api.discogs.com/masters/904864
+Dazed And Confused - Desconocido - https://api.discogs.com/masters/87941
+20 Electrifying Hits - 1970 - https://api.discogs.com/releases/4504785
+United Artists Records - 1971 - https://api.discogs.com/releases/5659855
+Electric Rock 71 (Idee 2000) - 1971 - https://api.discogs.com/masters/754326
+The United States Air Force Presents Wolfman Jack: Series #8 - 1972 - https://api.discogs.com/releases/13869441
+American Top 40 (Week Ending 4/29/72) - 1972 - https://api.discogs.com/releases/25767301
+American Top 40 (Week Of 6/3/72) - 1972 - https://api.discogs.com/releases/27559494
+Get Off - 1973 - https://api.discogs.com/releases/2751146
+WIXY's Top Bananas - 1973 - https://api.discogs.com/releases/2936152
+Roland Bynum Soul In Motion - 1973 - https://api.discogs.com/releases/11005218
+Untitled - 1973 - https://api.discogs.com/releases/14307165
+American Top 40 (Week Of August 25, 1973) - 1973 - https://api.discogs.com/releases/14848886
+The United States Air Force Presents Wolfman Jack: Series #26 - 1973 - https://api.discogs.com/releases/16423767
+Alison's Tea House - 1973 - https://api.discogs.com/releases/18632803
+The United States Air Force Presents Wolfman Jack: Series #22 - 1973 - https://api.discogs.com/releases/18687397
+American Top 40: Week Ending January 20, 1973 - 1973 - https://api.discogs.com/releases/24621683
+American Top 40 (Week Ending 1/6/73) - 1973 - https://api.discogs.com/releases/25756468
+American Top 40 (Week Ending 4/21/73) - 1973 - https://api.discogs.com/releases/25767343
+Roland Bynum Soul In Motion - 1973 - https://api.discogs.com/releases/27200211
+Hitbound E - 1973 - https://api.discogs.com/releases/27883968
+Billion Seller Or ? - 1973 - https://api.discogs.com/releases/32798067
+Roland Bynum Soul In Motion - 1974 - https://api.discogs.com/releases/14740520
+Rap N' Rhythm (Programs #165-168) - 1974 - https://api.discogs.com/releases/17976265
+American Top 40 (Week Ending 7/20/74) - 1974 - https://api.discogs.com/releases/19145545
+American Top 40 (Week Of 7/13/74) - 1974 - https://api.discogs.com/releases/27572196
+Heavy Metal - 24 Electrifying Performances - 1974 - https://api.discogs.com/masters/550941
+The Now Explosion - 1974 - https://api.discogs.com/masters/335460
+Billy Pearl For Today's Army Series 25 - 1975 - https://api.discogs.com/releases/7514069
+Estacion Contacto - 1975 - https://api.discogs.com/releases/10162420
+American Top 40 (Program No. 753-10 For Week Ending September 6, 1975) - 1975 - https://api.discogs.com/releases/10188673
+Black Caucus Concert - 1975 - https://api.discogs.com/releases/10824692
+Various Series 26 - 1975 - https://api.discogs.com/releases/12373604
+Rap N' Rhythm (Programs #229 - 232) - 1975 - https://api.discogs.com/releases/13015880
+Billy Pearl For Today's Army Series 23 - 1975 - https://api.discogs.com/releases/14309023
+American Top 40: Week Ending 25 October 1975 - 1975 - https://api.discogs.com/releases/15855472
+20 Smash Hits Vol. 1 Todays Hits As Done By Original Artists - 1975 - https://api.discogs.com/releases/19884724
+American Top 40 (1975 Top 100 Part 1, 12/27/75) - 1975 - https://api.discogs.com/releases/20434408
+United Artists Especial Para Divulgação - 1975 - https://api.discogs.com/releases/28173571
+Billy Pearl For Today's Army Series 24 - 1975 - https://api.discogs.com/releases/29709508
+Best Of The Underground Hits - 1975 - https://api.discogs.com/releases/32795295
+Music Express - 1975 - https://api.discogs.com/masters/520235
+The First Annual Benefit For The Congressional Black Caucus - 1975 - https://api.discogs.com/masters/453729
+The United States Air Force Presents Wolfman Jack: Series #66 - 1976 - https://api.discogs.com/releases/10776539
+American Top 40 (Week Ending September 4, 1976) - 1976 - https://api.discogs.com/releases/13393302
+Block Buster - 1976 - https://api.discogs.com/masters/1532383
+36 Super Gold Hits - 1976 - https://api.discogs.com/masters/1526395
+Hit Machine - 1976 - https://api.discogs.com/masters/533290
+Mind Bender - 1976 - https://api.discogs.com/masters/467826
+Block Buster - 1976 - https://api.discogs.com/masters/1149931
+Disco Rocket - 1976 - https://api.discogs.com/masters/400399
+Right On 20 Original Hits Original Stars - 1976 - https://api.discogs.com/masters/523831
+Discotech - A Ritmo De Hustle Y Bump Vol. 2 - 1977 - https://api.discogs.com/releases/8755483
+The United States Air Force Presents Wolfman Jack: Series #70 - 1977 - https://api.discogs.com/releases/11762691
+The United States Air Force Presents Wolfman Jack: Series #72 - 1977 - https://api.discogs.com/releases/11762734
+Trio Super-Mellow Sound Special - 1977 - https://api.discogs.com/releases/14336885
+The United States Air Force Presents Wolfman Jack Series #25 - 1977 - https://api.discogs.com/releases/18010135
+Pure Gold Collection - 1977 - https://api.discogs.com/masters/3164436
+Stars - 1977 - https://api.discogs.com/masters/948845
+Pure Gold Collection - 1977 - https://api.discogs.com/masters/768687
+Disco Magic Volume II - 1977 - https://api.discogs.com/masters/3701604
+Stars - 1977 - https://api.discogs.com/masters/1053623
+Pure Power - 1977 - https://api.discogs.com/masters/714106
+Pure Gold Collection (Volume Two) - 1977 - https://api.discogs.com/masters/1813901
+Here Comes Summer - 1977 - https://api.discogs.com/masters/1283479
+Metronome '78 - 1978 - https://api.discogs.com/releases/4199261
+American Top 40 Program No. 781-8 For Week Ending February 18, 1978 - 1978 - https://api.discogs.com/releases/4724145
+Este Fue El Año De La Fiebre... Gracias Por Haberla Compartido - 1978 - https://api.discogs.com/releases/12368232
+American Top 40 With Casey Kasem (Program No. 781-7) Week Ending 2/11/78 - 1978 - https://api.discogs.com/releases/24020447
+Big 4 Soul - 1978 - https://api.discogs.com/releases/24954544
+Especial Discoteca - 1978 - https://api.discogs.com/releases/30369929
+Downtown Disco Party - 1978 - https://api.discogs.com/releases/30855513
+Up In Smoke - 1978 - https://api.discogs.com/masters/116947
+Beat Parade - 1978 - https://api.discogs.com/masters/1882617
+Hit Explosion 9 - 1978 - https://api.discogs.com/masters/3726120
+Downtown Disco Party - 1978 - https://api.discogs.com/masters/877868
+Disco Colour - 1979 - https://api.discogs.com/masters/2430823
+Spring'80 - 1980 - https://api.discogs.com/releases/10321525
+Spring Sampler - 1980 - https://api.discogs.com/releases/14950245
+Space Invasion - 1980 - https://api.discogs.com/masters/1237303
+Ear & Foot Refreshment - 1981 - https://api.discogs.com/masters/724095
+12 Succès Discothèque - 1982 - https://api.discogs.com/releases/1208143
+Original Reggae / Vol. 4 - 1982 - https://api.discogs.com/releases/1664286
+RCA Records And Associated Labels Black Music Sampler 1982 - 1982 - https://api.discogs.com/releases/2205006
+Whiskadão Volume 8 - 1982 - https://api.discogs.com/releases/4483543
+Pop Rio Funk Music - 1982 - https://api.discogs.com/releases/4502199
+4 Super Temas Originais De Novelas - 1982 - https://api.discogs.com/releases/4578065
+Disco Promozionale - 1982 - https://api.discogs.com/releases/4678072
+Marco Mix - Funk Now - 1982 - https://api.discogs.com/releases/5181483
+Con Mucha Marcha Vol.1 - 1982 - https://api.discogs.com/releases/8574258
+Superdisco Brillante Internacional - 1982 - https://api.discogs.com/releases/8949201
+DJ's  - 1982 - https://api.discogs.com/releases/10615177
+Dance Special II February 1982 - 1982 - https://api.discogs.com/releases/11144960
+Fantásticos Vol. 16 - 1982 - https://api.discogs.com/releases/12973115
+Disco Radio Action - 1982 - https://api.discogs.com/releases/21315331
+Fever - Songs, Die Unter Die Haut Gehen - 1982 - https://api.discogs.com/masters/969236
+Sétimo Sentido (Internacional) - 1982 - https://api.discogs.com/masters/1682757
+Neon Nights: Rock's Danceable Side - 1982 - https://api.discogs.com/masters/1054297
+Show Time - 1983 - https://api.discogs.com/releases/32960010
+Celebration Of America - 1984 - https://api.discogs.com/releases/19263862
+チーチ&チョン スモーキング作戦 = Cheech & Chong "Up In Smoke" Sound Track Album - 1984 - https://api.discogs.com/releases/34160281
+Art Laboe's "Dedicated To You" - 1984 - https://api.discogs.com/masters/1198220
+Mr Music No 8 - 1985 - 1985 - https://api.discogs.com/releases/9247995
+Virgin Flowers (60 Minuti Di Fiori Musicali Per L'Estate) - 1985 - https://api.discogs.com/releases/11168123
+Video Disco Show No. 29 Juni 1985 - 1985 - https://api.discogs.com/releases/15356530
+Now Dance: The 12" Mixes - 1985 - https://api.discogs.com/masters/1276170
+Now Dance: The 12" Mixes - 1985 - https://api.discogs.com/masters/879692
+Hi Power 6 - 1985 - https://api.discogs.com/masters/2026831
+Citylights - 1985 - https://api.discogs.com/masters/3714531
+Oldies But Goodies Vol. 15 - 1985 - https://api.discogs.com/masters/1164904
+Turn It Up - 1985 - https://api.discogs.com/masters/233156
+High Class Disco - 1985 - https://api.discogs.com/masters/118588
+Solid Gold Scrapbook: July 19 - 25, 1986 - 1986 - https://api.discogs.com/releases/32129043
+The Latin Kick - 1986 - https://api.discogs.com/masters/769188
+Summer Beach Party 1987 - 1987 - https://api.discogs.com/releases/21324556
+Dick Bartley’s Solid Gold Summer Hits All Time Favorite Oldies Countdown - 1987 - https://api.discogs.com/releases/27533172
+21 ROCK N' ROLL HITS AT The MOVIES - 1987 - https://api.discogs.com/releases/32963463
+Fatal Beauty (Original Motion Picture Soundtrack) - 1987 - https://api.discogs.com/masters/324528
+The Latin Beat - 1988 - https://api.discogs.com/releases/8977035
+20 Years Of Solid Gold Groups: 1960 - 1979 - 1988 - https://api.discogs.com/masters/1177575
+Summer Beach Party 1989 (Weekend Of June 30, 1989) - 1989 - https://api.discogs.com/releases/13633050
+Summer & Sun - 1989 - https://api.discogs.com/masters/616603
+Super Rock Sizzlers - 1989 - https://api.discogs.com/masters/2926762
+Woodstock Rock (20th Anniversary Collection) - 1989 - https://api.discogs.com/masters/1028289
+Lethal Weapon - 1989 - https://api.discogs.com/masters/111128
+Golden Oldies Vol. 9 - 1989 - https://api.discogs.com/masters/916474
+Soul-Disco Connection - 1989 - https://api.discogs.com/masters/1300016
+Heartbeat (Remix) - 1989 - https://api.discogs.com/masters/526272
+Those Funky '70s - 1990 - https://api.discogs.com/releases/10955442
+The Sixties Gold Collection - 1990 - https://api.discogs.com/releases/14724484
+Dick Clark's Summer Memories - 1990 - https://api.discogs.com/releases/19285018
+My Top Ten - 1990 - https://api.discogs.com/releases/24439289
+Sounds Of The Seventies 1975 - 1990 - https://api.discogs.com/masters/616604
+Sounds Of The Seventies 1973 - 1990 - https://api.discogs.com/masters/616605
+Soul Hits Of The 70's - Didn't It Blow Your Mind! (Vol. 6 - 10) - 1991 - https://api.discogs.com/releases/5352575
+Seventies Rock & Pop 76 - 1991 - https://api.discogs.com/releases/8291762
+Saúde É O Que Interessa - 1991 - https://api.discogs.com/releases/27471138
+Sounds Of The Seventies 1975: Take Two - 1991 - https://api.discogs.com/masters/2709740
+Original Motion Picture Sound Track: Young Soul Rebels - 1991 - https://api.discogs.com/masters/116975
+Sounds Of The Seventies 1973: Take Two - 1991 - https://api.discogs.com/masters/1366517
+Dance Dance Dance (The Non-Stop Classic Soul Mix) - 1991 - https://api.discogs.com/masters/1383217
+Soul Hits Of The '70s - Didn't It Blow Your Mind, Vol. 10 - 1991 - https://api.discogs.com/masters/1919898
+Good Times - 1991 - https://api.discogs.com/masters/1445085
+Super Bad: Can't Get Enough Of That Funky Stuff - 1991 - https://api.discogs.com/masters/525576
+Rock 'n' Roll "The Greatest Years" 1973 - 75 - 1991 - https://api.discogs.com/masters/3183882
+Do The Funk Vol. 3 - 1992 - https://api.discogs.com/releases/1395469
+Rollin' To The 70's - 1992 - https://api.discogs.com/releases/12995670
+Release #8 1992 The Atlantic Group - 1992 - https://api.discogs.com/releases/26529641
+Release #9 1992 The Atlantic Group - 1992 - https://api.discogs.com/releases/26530511
+Mi Vida Loca Original Movie Soundtrack  - 1992 - https://api.discogs.com/releases/34002486
+Art Laboe's 60 Killer Oldies - 1992 - https://api.discogs.com/masters/3846183
+Dance Classics - The Megamix - 1992 - https://api.discogs.com/masters/1169930
+American Me - Music From The Motion Picture Soundtrack - 1992 - https://api.discogs.com/masters/860796
+Dance Dance Dance: 100% Funk Vol. 3 - 1992 - https://api.discogs.com/masters/1728389
+Rap Declares War - 1992 - https://api.discogs.com/masters/1025989
+Funky Beat 3 - 1993 - https://api.discogs.com/releases/4939538
+Your Goodtime Oldies Magazine - 1993 - https://api.discogs.com/releases/12763643
+Miller Genuine Draft Coolest Classics - 1993 - https://api.discogs.com/releases/14763824
+Release #4 1993 The Atlantic Group - 1993 - https://api.discogs.com/releases/26555657
+Release #7 1993 The Atlantic Group - 1993 - https://api.discogs.com/releases/26575877
+Elektra Entertainment February 1993 New Releases - 1993 - https://api.discogs.com/releases/26757809
+Elektra Entertainment May 1993 New Releases - 1993 - https://api.discogs.com/releases/26758610
+How Time Flies - 1993 - https://api.discogs.com/releases/27173175
+Killer Riffs - 1993 - https://api.discogs.com/releases/29709958
+Bound By Honor - 1993 - https://api.discogs.com/masters/616607
+In Yo' Face! The History Of Funk, Vol. 1 - 1993 - https://api.discogs.com/masters/1300017
+Live At The Watts Jazz Festival - Volume 1 - 1993 - https://api.discogs.com/masters/659007
+Even More Dazed And Confused (Music From The Motion Picture) - 1993 - https://api.discogs.com/masters/118585
+Dazed And Confused (Music From The Motion Picture) - 1993 - https://api.discogs.com/masters/87941
+Rhino's Famous Sweet 16 Sampler - 1994 - https://api.discogs.com/releases/6392505
+The Album Network TuneUp In-Store Play Edition  - 1994 - https://api.discogs.com/releases/9831129
+Pure Dance June 1994 - 1994 - https://api.discogs.com/releases/10154451
+The Dance Classic Showcase Vol. 4 - 1994 - https://api.discogs.com/releases/10293978
+Future Jams #43 - 1994 - https://api.discogs.com/releases/11072935
+Lowrider Video Soundtrack Vol. 7 - 1994 - https://api.discogs.com/releases/12353417
+Behind The Hits - #95-08 - Feb. 13-19, 1994 - 1994 - https://api.discogs.com/releases/15900037
+Warner/Elektra/Atlantic Salutes Black Music Month 1994 - 1994 - https://api.discogs.com/releases/19045156
+Blockbuster Music July 1994 Sound Check - Western Zone - 1994 - https://api.discogs.com/releases/24954262
+Hitmakers Top 40 CD Sampler Volume 100 May 13, 1994 - 1994 - https://api.discogs.com/releases/29101606
+Hitmakers Top 40 CD Sampler Volume 107 November 4, 1994 - 1994 - https://api.discogs.com/releases/29103682
+Heartland Music Presents Party Rock - 1994 - https://api.discogs.com/releases/30107612
+HitDisc 049B - 1994 - https://api.discogs.com/releases/34131736
+Dazed And Confused (Music From The Motion Picture) - 1994 - https://api.discogs.com/releases/34346656
+Deep In The Groove Rhino R & B - 1994 - https://api.discogs.com/masters/2151703
+Sounds Of The Seventies - More AM Nuggets - 1994 - https://api.discogs.com/masters/3736992
+Mega Funk - 1995 - https://api.discogs.com/releases/1713839
+Burger King Beats - Volume 2 - 1995 - https://api.discogs.com/releases/1851084
+Wicked Mix - Classic Collection 18 - 1995 - https://api.discogs.com/releases/2806012
+Only Flash Vol. 2 - 1995 - https://api.discogs.com/releases/4238532
+Movin' On Up Vol. 2 - 1995 - https://api.discogs.com/releases/11426547
+La Bamba - Pop Classics Vol.9 - 1995 - https://api.discogs.com/releases/13553635
+Naked Recordings 1995 CD4 - Danmarks Radio P3 - 1995 - https://api.discogs.com/releases/13918029
+Champion Carnival - October 1995 - 1995 - https://api.discogs.com/releases/15940379
+Keepin' The 70's Alive - Show #95-20 - May 8-14, 1995 - 1995 - https://api.discogs.com/releases/16809642
+Bmg Victor Champion Carnival December 1995 - 1995 - https://api.discogs.com/releases/20007484
+Mega Disco - 1995 - https://api.discogs.com/masters/1443987
+Soul Train (25th Anniversary Hall Of Fame) - 1995 - https://api.discogs.com/masters/748519
+Mighty Real - LIFEbeat Dance Classics Volume 1 - 1995 - https://api.discogs.com/masters/384134
+ESPN Presents: Jock Rock, Volume 2 - 1995 - https://api.discogs.com/masters/1666241
+Dance (December 1995) - 1995 - https://api.discogs.com/masters/2192620
+Old School Friday: More Music From The Original Motion Picture - 1995 - https://api.discogs.com/masters/992941
+Funkdafied - 1995 - https://api.discogs.com/masters/118582
+Soul Hits Of The '70s - Didn't It Blow Your Mind, Vol. 17 - 1995 - https://api.discogs.com/masters/3747693
+Latin Lingo: Hip-Hop From The Raza - 1995 - https://api.discogs.com/masters/884722
+AM Gold 1975 - 1996 - https://api.discogs.com/releases/3509126
+Disco Classics - 1996 - https://api.discogs.com/releases/8640640
+Funk Classics - 1996 - https://api.discogs.com/releases/12800633
+Classic Funk: Volume Two - 1996 - https://api.discogs.com/releases/13681874
+GoldDisc 1827 - 1996 - https://api.discogs.com/releases/16056143
+The House Of Blues Radio Hour: Elwood's Summertime Blues (Show 142: May 25-27, 1996 - 1996 - https://api.discogs.com/releases/16148479
+Mega Hits ～ Dance Classics - 1996 - https://api.discogs.com/releases/27192660
+Champion Carnival - America Group 1 April 1996 - 1996 - https://api.discogs.com/releases/29206657
+AM Gold 1975 - 1996 - https://api.discogs.com/releases/31128374
+Rock'N USA: All Out Rock - 1996 - https://api.discogs.com/masters/3379252
+Black Brothers - 1996 - https://api.discogs.com/masters/3780947
+Slow Jams - The Timeless Collection Volume 5 - 1996 - https://api.discogs.com/masters/1387216
+Latin Oldies Volume Two - 1996 - https://api.discogs.com/masters/3132294
+Sinbad's Summer Jam & 70's Soul Music Festival The Funk: Part 1 - 1996 - https://api.discogs.com/masters/1188804
+Rhythm & Blues 1973 - 1996 - https://api.discogs.com/masters/2165752
+Los 100 Mayores Exitos De La Musica Disco - 1996 - https://api.discogs.com/masters/3562820
+Rhythm & Blues 1975 - 1996 - https://api.discogs.com/masters/1314127
+Latin Oldies - 1996 - https://api.discogs.com/masters/1918348
+Rhythm & Blues 1976 - 1996 - https://api.discogs.com/masters/2166580
+Black Roots - From 70's Funk To Hip Hop - 1996 - https://api.discogs.com/masters/634866
+Uncut Funk - 1997 - https://api.discogs.com/releases/559579
+The Old Skool Reunion - 1997 - https://api.discogs.com/releases/561204
+Blaxploitation: The Payback - Volume Three - 1997 - https://api.discogs.com/releases/574217
+The Very Best Of Black Moviehits (Blaxploitation Vol.1) - 1997 - https://api.discogs.com/releases/2165718
+The History Of Dance Volume One: 1978 - 1997 - https://api.discogs.com/releases/2572020
+The Rock Files - 1997 - https://api.discogs.com/releases/2617331
+Searchin' For The Perfect Beat - 1997 - https://api.discogs.com/releases/3089553
+Legends Of Rock Collection - 1997 - https://api.discogs.com/releases/4979676
+The Carwash Experience - 1997 - https://api.discogs.com/releases/5305882
+The Old Skool - 1997 - https://api.discogs.com/releases/6031551
+Return To The Planet Funk - 1997 - https://api.discogs.com/releases/6297100
+Sensational 70's - 1997 - https://api.discogs.com/releases/6522266
+Goldies 4 - Disco • Reggae • Soul & Blues - 1997 - https://api.discogs.com/releases/8208935
+Goldies 5 - That's Soul Music - 1997 - https://api.discogs.com/releases/8209110
+Brown Eyed Soul (The Sound Of East L.A. Vol. 2) - 1997 - https://api.discogs.com/releases/8947588
+Brown Eyed Soul (The Sound Of East L.A. Vol. 1 ) - 1997 - https://api.discogs.com/releases/9331201
+70's All Out Rock - 1997 - https://api.discogs.com/releases/11266932
+On The Road With Hard Rock Live - 1997 - https://api.discogs.com/releases/11361560
+Boogie Nights - 1997 - https://api.discogs.com/releases/12659234
+That's Soul Music Vol. 2 - 1997 - https://api.discogs.com/releases/12761995
+Soul, Disco & Reggae - 1997 - https://api.discogs.com/releases/12762124
+That's Soul Music Vol.1 - 1997 - https://api.discogs.com/releases/12766860
+Summer Soul Jam Featuring R&B Legends - 1997 - https://api.discogs.com/releases/13371219
+105.1 Crossover 2 Classics - 1997 - https://api.discogs.com/releases/14337362
+Latin Lingo: Hip-Hop From The Raza, Vol. 2 - 1997 - https://api.discogs.com/releases/14594756
+Mobile BEAT 21 - 1997 - https://api.discogs.com/releases/16174915
+Brown Eyed Soul Vol. 1 (The Sound Of East L.A.) - 1997 - https://api.discogs.com/releases/19466767
+Blaxploitation (The Sequel) - 1997 - https://api.discogs.com/masters/3221872
+Boogie Nights (Music From The Original Motion Picture) - 1997 - https://api.discogs.com/masters/189249
+Beverly Hills Ninja (Original Motion Picture Soundtrack) - 1997 - https://api.discogs.com/masters/441234
+Classic Jazz-Funk Mastercuts Volume 7 - 1997 - https://api.discogs.com/masters/121968
+Funk Classics The 70's Vol. 2 - 1997 - https://api.discogs.com/masters/906679
+Los Mayores Exitos De La Musica Funky - 1997 - https://api.discogs.com/masters/3759567
+50 Hits Of Soul (That's Soul Music) - 1997 - https://api.discogs.com/masters/480777
+After The Break - 1997 - https://api.discogs.com/masters/2491927
+50 Hits Of Soul (That's Soul Music) - 1997 - https://api.discogs.com/masters/2782751
+Brown Eyed Soul (The Sound Of East L.A. Vol. 3) - 1997 - https://api.discogs.com/masters/2055817
+50 Disco, Reggae, Soul & Blues Greatest - 1997 - https://api.discogs.com/masters/2688755
+Blaxploitation 4 (Harlem Hu$tle) - 1998 - https://api.discogs.com/releases/656560
+Cash Box Clássicos Do Funk Volume 2 - 1998 - https://api.discogs.com/releases/1258371
+Hidden Jewels - 1998 - https://api.discogs.com/releases/1397913
+¡Ay Califas! Raza Rock Of The '70s & '80s - 1998 - https://api.discogs.com/releases/1899225
+O.G. Funk - Locking Vol. Two - The Original Soundtrack - 1998 - https://api.discogs.com/releases/3145414
+70's & 80's Dance 2 Red - 1998 - https://api.discogs.com/releases/3997918
+It's Alright Now Volume 2 - 1998 - https://api.discogs.com/releases/4285158
+Μουσικό Λεύκωμα 1970 - 1998 - https://api.discogs.com/releases/4848889
+Μουσικό Λεύκωμα 1973 - 1998 - https://api.discogs.com/releases/4850044
+Μουσικό Λεύκωμα 1975 - 1998 - https://api.discogs.com/releases/4854273
+The History Of Funk - Funk Jam! - 1998 - https://api.discogs.com/releases/5769053
+The Best Songs Of All Time Volume 1: Funk Soul + R&B - 1998 - https://api.discogs.com/releases/6889245
+Line Dance Fever 8 - 1998 - https://api.discogs.com/releases/8429776
+The Mega CD - Songs For Everyone - 1998 - https://api.discogs.com/releases/8588618
+Funky People Vol. 2 - 1998 - https://api.discogs.com/releases/9077190
+Just The Hits - '70s Classic Rock - 1998 - https://api.discogs.com/releases/11790339
+And We Got The Funk - 1998 - https://api.discogs.com/releases/12341842
+Old School Mega Mix Volume 3 - 1998 - https://api.discogs.com/releases/13470203
+Classic Rock Roots Volume l - 1998 - https://api.discogs.com/releases/13707197
+54 - Music From The Miramax Motion Picture - 1998 - https://api.discogs.com/releases/14049213
+Tropical Heat - 1998 - https://api.discogs.com/releases/16161789
+Rock On 1975: Midnight Blue - 1998 - https://api.discogs.com/releases/16182328
+It's All Right Now - 89 Original 60s & 70s Grooves - 1998 - https://api.discogs.com/releases/17130972
+Rock On 1976: Summer - 1998 - https://api.discogs.com/releases/27639681
+Superbad - Inner City Funk & Soul - 1998 - https://api.discogs.com/releases/32656875
+Ritmo Caliente! Latin House 2 - 1998 - https://api.discogs.com/releases/33082545
+Super Dance Hits - 1998 - https://api.discogs.com/masters/1474670
+Radioactiva - Energía Que Te Mueve En Verano - 1998 - https://api.discogs.com/masters/1442262
+54 (Music From The Miramax Motion Picture - Volume 2) - 1998 - https://api.discogs.com/masters/469962
+70's Funk 'n' Soul Classics - 1998 - https://api.discogs.com/masters/349354
+Starsky & Hutch™ Presents 70sFunksouljazzdisco™ - 1998 - https://api.discogs.com/masters/517718
+The Big Score - 1998 - https://api.discogs.com/masters/118584
+54 (Music From The Miramax Motion Picture) - 1998 - https://api.discogs.com/masters/118638
+Latin Oldies Volume Three - 1998 - https://api.discogs.com/masters/3313543
+Have A Nice Decade - The '70s Pop Culture Box - 1998 - https://api.discogs.com/masters/1236903
+Nu Disko - Housemusic With The Groove Of The 70's - 1999 - https://api.discogs.com/releases/96918
+Hot Rods & Custom Classics - 1999 - https://api.discogs.com/releases/614209
+Unconditionally Guaranteed Volume 10 November 1999 (Uncut's Guide To The Month's Best Music) - 1999 - https://api.discogs.com/releases/976448
+Promo Only Rhythm Club: October 99 - 1999 - https://api.discogs.com/releases/1729211
+Fresh News - 1999 - https://api.discogs.com/releases/2170315
+Superbad Vol 3 (Inner City Funk & Soul) - 1999 - https://api.discogs.com/releases/3173920
+Fast Forward - 1999 - https://api.discogs.com/releases/3900830
+BMG Dance Compilation #30 - 1999 - https://api.discogs.com/releases/3933893
+BMG Dance Compilation #29 - 1999 - https://api.discogs.com/releases/3937654
+The Best Of 60's R&B Soul & 70's Funk 'N' Soul Classics - 1999 - https://api.discogs.com/releases/4756402
+Saturday Night Party - 70's & 80's Disco Vol. 1 - 1999 - https://api.discogs.com/releases/5056797
+Latin Gold - 1999 - https://api.discogs.com/releases/5099123
+Festa Dos Anos 80's - 1999 - https://api.discogs.com/releases/5511316
+Top 99 - 1999 - https://api.discogs.com/releases/7030117
+Roots Of Rhythm: Under The Boardwalk - 1999 - https://api.discogs.com/releases/8661198
+75 Soul Disco & Reggae - 1999 - https://api.discogs.com/releases/9174911
+1970's Rock Volume 2 - 1999 - https://api.discogs.com/releases/9620851
+Rockin' Down the Highway - 1999 - https://api.discogs.com/releases/10595001
+Old School Love Songs Volume 5 - 1999 - https://api.discogs.com/releases/10659790
+Americanos - Latino Life In The United States - A Musical Celebration - 1999 - https://api.discogs.com/releases/11790408
+Venezia Soul - 1999 - https://api.discogs.com/releases/12318427
+Black Files - 1999 - https://api.discogs.com/releases/13697990
+What's New Vol. 20 17.05.99 - 1999 - https://api.discogs.com/releases/14205572
+BMG Entertainment International - 1999 - https://api.discogs.com/releases/14446548
+Classic Rock Volume One - 1999 - https://api.discogs.com/releases/14475395
+Pc Disc Only For Radio - 1999 - https://api.discogs.com/releases/14559207
+Lowrider Oldies Volume 8 - 1999 - https://api.discogs.com/releases/14710250
+Johnboy & Billy's Rockin' Race Tracks  - 1999 - https://api.discogs.com/releases/15404003
+Funk Essentials - 1999 - https://api.discogs.com/releases/16355823
+Black History In Music Sampler 1999 - 1999 - https://api.discogs.com/releases/17753713
+Black Files - Volume 2 - 1999 - https://api.discogs.com/releases/18085006
+John Boy & Billy's Rockin' Race Tracks - 1999 - https://api.discogs.com/releases/27364158
+Pop In The 70s, Vol. 2 - 1999 - https://api.discogs.com/releases/34327693
+Additional Productions - 1999 - https://api.discogs.com/masters/24636
+Barrio Nuevo (Latin Funk • Latin Rock • Latin Disco • Latin Soul) - 1999 - https://api.discogs.com/masters/116944
+Dance Train 99/3 (Club Edition) - 1999 - https://api.discogs.com/masters/233729
+Sounds Of The Seventies - Feel Good '70s - 1999 - https://api.discogs.com/masters/2192434
+Funk Soul Brother - 1999 - https://api.discogs.com/masters/1899582
+100% Funk - 1999 - https://api.discogs.com/masters/365646
+Yoshiesque - 1999 - https://api.discogs.com/masters/48452
+Let Us Be Heard/Chicanos Explode In Concert - 1999 - https://api.discogs.com/masters/1082751
+INCredible Sound Of Gilles Peterson - 1999 - https://api.discogs.com/masters/32150
+The Loft - 1999 - https://api.discogs.com/masters/99836
+Negro Disco Vol 2 - 2000 - https://api.discogs.com/releases/163623
+The Funk Box - 2000 - https://api.discogs.com/releases/875436
+B-Boy Classics Vol. 1 - 2000 - https://api.discogs.com/releases/2118289
+Pacific For Ever - 100% Funk Vol 1 - 2000 - https://api.discogs.com/releases/2560501
+Spirit Of Funk - 2000 - https://api.discogs.com/releases/3000936
+High In Honolulu - 2000 - https://api.discogs.com/releases/3902279
+Experience Music Project Presents Funk Blast! A Collection Of Classic Funk - 2000 - https://api.discogs.com/releases/5425308
+More Than A Feeling- 32 Easy Listening Rock Songs - 2000 - https://api.discogs.com/releases/6053447
+25 All-Time Greatest Summer Songs The Ultimate Collection - 2000 - https://api.discogs.com/releases/8318257
+R&B LIVE! Essentials - 2000 - https://api.discogs.com/releases/8678147
+Entertainment Weekly: The Greatest Hits 1973 - 2000 - https://api.discogs.com/releases/9811953
+2000 1st Quarter In-Store Sampler - 2000 - https://api.discogs.com/releases/9998465
+Soul Train 1975 - 2000 - https://api.discogs.com/releases/11716735
+Survivor: Official Party Survival Kit - 2000 - https://api.discogs.com/releases/11756952
+Fresh Beats - 2000 - https://api.discogs.com/releases/12943104
+Soul Train 1973 - 2000 - https://api.discogs.com/releases/13334563
+Summertime - 2000 - https://api.discogs.com/releases/14135460
+Casey Kasem Presents America's Top 10 Through The Years - 2000 - https://api.discogs.com/releases/15886325
+The Only Boat Album You'll Ever Need! - 2000 - https://api.discogs.com/releases/18662845
+The Radio Essential Series - 2000 - https://api.discogs.com/releases/18673987
+Rock Party • 1972-1982: 10 Years Of American Rock N'Roll Hits - 2000 - https://api.discogs.com/releases/21308569
+Hits Hits Hits 60s 70s - 2000 - https://api.discogs.com/releases/23155253
+Survivor: Official Party Survival Kit - 2000 - https://api.discogs.com/releases/28897417
+Make It Funky - 2000 - https://api.discogs.com/releases/30607831
+A Better Place - 2000 - https://api.discogs.com/releases/32001311
+25 Años De Éxitos Vol.2 - 2000 - https://api.discogs.com/releases/32358840
+Flashback! Show 703 - 2000 - https://api.discogs.com/releases/34402645
+A Plump Night Out - 2000 - https://api.discogs.com/masters/32972
+A Plump Night Out (Sampler One) - 2000 - https://api.discogs.com/masters/938210
+Disco Box Vol. 8 - Beat Box - 2000 - https://api.discogs.com/masters/3438989
+The Mood Mosaic 9 - The Sound Bullett - 2000 - https://api.discogs.com/masters/53713
+Stop And Listen 5 - 2000 - https://api.discogs.com/masters/215712
+Remix Galaxy - 2000 - https://api.discogs.com/masters/1850184
+Mega Disco Funk - 2000 - https://api.discogs.com/masters/78799
+Eskimo: Various Artists And Many Others - 2000 - https://api.discogs.com/masters/64467
+1970's Rock Volume 4 - 2000 - https://api.discogs.com/masters/2438266
+I Want My Dvd Vol. 2 - 2000 - https://api.discogs.com/masters/1572595
+Structure Surfari - 2000 - https://api.discogs.com/masters/3116961
+Switch - 2001 - https://api.discogs.com/releases/49695
+Crunch Presents Music To Sweat To - 2001 - https://api.discogs.com/releases/660317
+Can You Dig It? The '70s Soul Experience - 2001 - https://api.discogs.com/releases/1024667
+The Huey Session - 2001 - https://api.discogs.com/releases/2099028
+Royal Funk - 2001 - https://api.discogs.com/releases/3714811
+MCM Tubes Funk - 2001 - https://api.discogs.com/releases/5256536
+Martha Stewart Living: Summer Entertaining - 2001 - https://api.discogs.com/releases/5525677
+Tobacco Groove - 2001 - https://api.discogs.com/releases/5633572
+The Electric Chair - Basement Soul Music - 2001 - https://api.discogs.com/releases/5957917
+Live A Little Volume Two - Caribbean Lifestyles - Saks Fifth Avenue - 2001 - https://api.discogs.com/releases/9502626
+Discotheque - 2001 - https://api.discogs.com/releases/12148405
+Old School Love Songs  - 2001 - https://api.discogs.com/releases/13979691
+Solid Gold Soul Make It Funky - 2001 - https://api.discogs.com/releases/19132291
+Solid Gold Soul - Soul Stars Of The 70s - 2001 - https://api.discogs.com/releases/23131643
+Summer Fun - 2001 - https://api.discogs.com/releases/28642555
+Spirit Of The 70s - 2001 - https://api.discogs.com/releases/28665190
+The Mexican (Music From The Motion Picture) - 2001 - https://api.discogs.com/releases/30066097
+The Greatest Hits: 1970-74 - 2001 - https://api.discogs.com/releases/33789300
+Music... A Reason To Celebrate / Un Dia Bonito - 2001 - https://api.discogs.com/masters/2900107
+How High - The Soundtrack - 2001 - https://api.discogs.com/masters/116941
+Solid Gold Soul Superbad! The Soul Of The City - 2001 - https://api.discogs.com/masters/1796406
+A Knight's Tale (Music From The Motion Picture) - 2001 - https://api.discogs.com/masters/336434
+The Electric Chair (Basement Soul Music) - 2001 - https://api.discogs.com/masters/531158
+The Mexican (Music From The Motion Picture) - 2001 - https://api.discogs.com/masters/697096
+The Digital Blueprint Of Soulful, Funky Grooves - 2001 - https://api.discogs.com/masters/1575793
+Grass Roots (Musical Influences And Inspiration) - 2001 - https://api.discogs.com/masters/159066
+Funkology - One Nation Under A Groove! - 2001 - https://api.discogs.com/masters/224703
+Repro - 2001 - https://api.discogs.com/masters/177963
+Two, Three Break Volume 2 - 2002 - https://api.discogs.com/releases/1518520
+Music From Soundtrack Of Jungle Boogie - 2002 - https://api.discogs.com/releases/1540831
+Pole Position - 2002 - https://api.discogs.com/releases/1760359
+(Music Inspired By) BaadAsssss Cinema: The Sounds Of Blaxploitation - 2002 - https://api.discogs.com/releases/2697532
+The Sound Of The City: Los Angeles - 2002 - https://api.discogs.com/releases/5586904
+Liberty Funk - 2002 - https://api.discogs.com/releases/7246543
+25 Years Of Classic Rock - 2002 - https://api.discogs.com/releases/8836576
+Classic TP Mix #20 - 2002 - https://api.discogs.com/releases/12497977
+Hits From The Flicks - 2002 - https://api.discogs.com/releases/13843297
+Ultimate Disco Classics (Volume Two) - 2002 - https://api.discogs.com/releases/14521443
+Legends Of Harmonica - 2002 - https://api.discogs.com/releases/15490740
+The Greatest Hits Of The 70's - Volume. 6 - 2002 - https://api.discogs.com/releases/15976132
+Viva Latin 2002 - 2002 - https://api.discogs.com/releases/19487926
+僕たちの洋楽ヒット Vol.6 (1976~77) - 2002 - https://api.discogs.com/releases/21382885
+The Magnificent Harmony Collection (32 Soul Group Classics) - 2002 - https://api.discogs.com/releases/23794931
 Partymix Volume One - 2002 - https://api.discogs.com/masters/39009
-UK - 2002 - https://api.discogs.com/masters/978039
-No Thanks! The '70s Punk Rebellion - 2003 - https://api.discogs.com/releases/384475
-Was Het Nu 70, 80 Of 90?  File 5 - 2003 - https://api.discogs.com/releases/970040
-No Thanks! The '70s Punk Rebellion Sampler - 2003 - https://api.discogs.com/releases/8534148
-Rock And Roll Hall Of Fame Eighteenth Annual Induction Dinner - March 10, 2003 - 2003 - https://api.discogs.com/releases/11252380
-Rock And Roll Hall Of Fame Foundation, Inc.: Eighteenth Annual Election: Nominees - 2003 - https://api.discogs.com/releases/14843000
-All Time Classic Country Tearjerkers - 2003 - https://api.discogs.com/releases/15490641
-The Power Of Love: Night Moods - 2003 - https://api.discogs.com/releases/28385881
-Edge Of The 80s: Early 80s - 2003 - https://api.discogs.com/releases/31034275
-Smile -Acoustic Hppy Music- - 2003 - https://api.discogs.com/releases/31173637
-Singles, Volume 1 - 2003 - https://api.discogs.com/masters/2588231
-Soloalbum - Die Musik Zum Film - 2003 - https://api.discogs.com/masters/1554156
-Capital Gold British Legends - 2003 - https://api.discogs.com/masters/1758481
-Singles, Volume 2 - 2003 - https://api.discogs.com/masters/2588504
-Singles, Volume 3 - 2003 - https://api.discogs.com/masters/2588513
-All That Chill - 2004 - https://api.discogs.com/releases/8280027
-Diana Krall - Music That Matters To Her - 2004 - https://api.discogs.com/releases/9376676
-The Best Pub Jukebox...Ever! - 2004 - https://api.discogs.com/releases/12612652
-I Miei Feelings - 2004 - https://api.discogs.com/releases/14551811
-Stateside - 2004 - https://api.discogs.com/releases/15352316
-Super 70's Rock - 2004 - https://api.discogs.com/masters/2837320
-1980 (Ein Jahr Und Seine 20 Songs)  - 2005 - https://api.discogs.com/releases/564682
-Sound Of The Underground: 18 Alternative Hits - 2005 - https://api.discogs.com/releases/1219459
-The 80's Collection Vols 1 & 2 - 2005 - https://api.discogs.com/releases/2757077
-Capital Gold Platinum Legends - 2005 - https://api.discogs.com/releases/4205239
-Howzat! - 2005 - https://api.discogs.com/releases/4218676
-The Cornbury Music Festival 2005 - 2005 - https://api.discogs.com/releases/7002227
-BMG Synctank Cannes Lions 2005 / Sync-2-Fit - 2005 - https://api.discogs.com/releases/13868298
-Classic Cuts 45 - Punk/New Wave - 2005 - https://api.discogs.com/masters/2799173
-New Waves - 2005 - https://api.discogs.com/masters/1181967
-I Walk The Line (An All-Star Tribute To Johnny Cash) - 2006 - https://api.discogs.com/releases/2058652
-Sound Of The Underground - 2006 - https://api.discogs.com/releases/5119285
-The Tomorrow Show With Tom Snyder: Punk & New Wave - 2006 - https://api.discogs.com/releases/11169270
-Classic Cuts Presents 80's Night The Definitive DJ Collection - B To D - 2006 - https://api.discogs.com/releases/14794786
-Mastermix Issue 237 - 2006 - https://api.discogs.com/releases/14801127
-The Punk UK Hits - 2006 - https://api.discogs.com/releases/15077825
-New Wave Heroes - 2006 - https://api.discogs.com/masters/322048
-Classic Cuts 66 - Punk/New Wave - 2006 - https://api.discogs.com/masters/3403105
-Welcome To The Working Week (Demo) / Lovers Walk - 2007 - https://api.discogs.com/releases/1731866
-Seventies Top 100 Vol.2 - 2007 - https://api.discogs.com/releases/13687555
-Take It Easy: The Ultimate Soft Rock Collection - 2007 - https://api.discogs.com/releases/14337780
-Shouting From The Streets: Songs Of Protest - 2007 - https://api.discogs.com/releases/15883699
-The Best Of Elvis Costello - The First 10 Years - 2007 - https://api.discogs.com/masters/287808
-The Second Wave - 2008 - https://api.discogs.com/releases/1401992
-Acoustic Songs 1 - 2008 - https://api.discogs.com/releases/2663142
-De Langste 100 (4FM) - Volume 2 - 2008 - https://api.discogs.com/releases/6045566
-There Is No One Like Mom - 2008 - https://api.discogs.com/releases/14407612
-Life Is Music - 2008 - https://api.discogs.com/masters/2714927
-Simply The Best New Wave - 2009 - https://api.discogs.com/releases/2661420
-Hitarchief Top 2000 - Joe FM - 2009 - https://api.discogs.com/releases/3472678
-Classic Cuts 67 - Country - 2009 - https://api.discogs.com/releases/4392230
-Black Is Beautiful 9 - White Man's Soul - 2009 - https://api.discogs.com/releases/11318097
-The Tiswas Album - 2009 - https://api.discogs.com/releases/11967698
-Black Is Beautiful - Celebrating The Genius Of Black Music - 2009 - https://api.discogs.com/releases/12829618
-War Child Heroes - 2009 - https://api.discogs.com/masters/112775
-Kitsuné Tabloid - 2009 - https://api.discogs.com/masters/311290
-Collectorama # 8 - British Pop (Du Swinging London A La Britpop) - 2010 - https://api.discogs.com/releases/5614249
-Either Side Of The Same Town (The Elvis Costello Sampler) - 2010 - https://api.discogs.com/releases/6746424
-A Day On The Green - Celebrating 10 Years - 2010 - https://api.discogs.com/releases/10060861
-Alternative Dance 1980-1983 volume 2 - 2010 - https://api.discogs.com/releases/25387213
-Canada's Hockey Anthems - Sounds Of The Vancouver 2010 Olympic Winter Games  - 2010 - https://api.discogs.com/masters/1526829
-Songs About Love - 2010 - https://api.discogs.com/masters/3375877
-Starbucks 40 (The 40th Anniversary Collection) - 2011 - https://api.discogs.com/releases/2758427
-Best Of British - 2011 - https://api.discogs.com/releases/2873270
-Going Underground (66 Smash New Wave Hits) - 2011 - https://api.discogs.com/releases/2942924
-Rock Generation - 2011 - https://api.discogs.com/releases/7791139
-Bluesfest 2011 - 2011 - https://api.discogs.com/releases/11560869
-Top 40 Hitarchief 1981 - 2011 - https://api.discogs.com/releases/14312506
-New Wave Post Punk - 1977 1981  - 2011 - https://api.discogs.com/masters/1781267
-Grandmaster Teenage Kicks - 2012 - https://api.discogs.com/releases/7612694
-Grandmaster Teenage Kicks 2 - 2012 - https://api.discogs.com/releases/7612742
-The Boys Are Back In Town - 2012 - https://api.discogs.com/releases/7619526
-Rockwiz Uncovered Volume Two - 2012 - https://api.discogs.com/releases/15728052
-101 Rock Hits - 2013 - https://api.discogs.com/releases/5305584
-This Is Cool! - 2013 - https://api.discogs.com/releases/5935330
-Las 50 Mejores Canciones De Los Ochenta - 2013 - https://api.discogs.com/releases/6549650
-Magic Of The Seventies - 2013 - https://api.discogs.com/releases/13266305
-Iwata Recommends 13 Numbers! - 2013 - https://api.discogs.com/releases/14665537
-The Suggs Selection  - 2014 - https://api.discogs.com/releases/5963994
-De Tijdloze - 2014 - https://api.discogs.com/releases/6586296
-(Het Beste Uit) Radio 1 Classics 100 - 2014 - https://api.discogs.com/masters/739820
-The Strypes Presents Let It Rock - Rock 'N' Roll 60th Anniversary - 2015 - https://api.discogs.com/releases/7257487
-Countdown 40th Anniversary Continues - 2015 - https://api.discogs.com/releases/9598358
-Joe Fm 80's Top 800 Volume 3  - 2015 - https://api.discogs.com/releases/9966233
-Unfaithful Music & Soundtrack Album - 2015 - https://api.discogs.com/masters/903654
-Punk. 40 Years Of Subversive Culture - 2016 - https://api.discogs.com/releases/8635729
-Classic Punk - 2016 - https://api.discogs.com/releases/9921820
-Generation 80 Vol. 2 - 2016 - https://api.discogs.com/releases/10217599
-This Is Radio Punk (1977-1980) - 2016 - https://api.discogs.com/releases/10231773
-101 Songs For Dad - 2016 - https://api.discogs.com/releases/12150851
-Best Of The Best Volume 2 - 2016 - https://api.discogs.com/releases/17170303
-Het Beste Uit De Nostalgie 1000 Vol. 3 - 2017 - https://api.discogs.com/releases/12448251
-Top 2000 Volume 10 - 2018 - https://api.discogs.com/releases/12699143
-Harmony In My Head (UK Power Pop & New Wave 1977-81) - 2018 - https://api.discogs.com/releases/12888898
-Top Of The Pops '78  - 2018 - https://api.discogs.com/releases/12893621
-Deutschland 86 - Original Soundtrack - 2018 - https://api.discogs.com/releases/18969157
-Het Allerbeste Uit Radio 1 Classics 1000 - 2019 - 2019 - https://api.discogs.com/releases/13850175
-Gary Stewart Trunk Sounds - 2019 - https://api.discogs.com/releases/15571256
-Now 100 Hits Country - 2020 - https://api.discogs.com/releases/15894917
-Platinum 70s - 2020 - https://api.discogs.com/releases/22368661
-The Sound Of The Suburbs - 2020 - https://api.discogs.com/masters/1779699
-Now Yearbook Extra '83 (60 More Essential Hits From 1983) - 2021 - https://api.discogs.com/releases/21299545
-Now That's What I Call Country - 2021 - https://api.discogs.com/releases/26490239
-Original Album Series - 2021 - https://api.discogs.com/masters/639269
-Now Yearbook '83 - 2021 - https://api.discogs.com/masters/2187196
-Gary Crowley's Lost 80s Vol. 2 (65 More Diverse And Eclectic Tracks, 1980-86) - 2021 - https://api.discogs.com/masters/2227168
-Now Yearbook Extra '80 (66 More Essential Hits From 1980) - 2022 - https://api.discogs.com/releases/24347510
-Kids On The Street (UK Power Pop And New Wave 1977-81) - 2022 - https://api.discogs.com/releases/25285576
-Mastermix Issue 438 - 2022 - https://api.discogs.com/masters/3178020
-Now Yearbook '80 - 2022 - https://api.discogs.com/masters/2710583
-Now Yearbook '81 - 2022 - https://api.discogs.com/masters/2646656
-De Tijdloze 2022 - 2022 - https://api.discogs.com/masters/3611627
-Now Yearbook '79 - 2022 - https://api.discogs.com/masters/2785790
-Now Yearbook Extra '80-'84 (The Final Chapter) (63 More Essential Hits From 1980 - 1984) - 2023 - https://api.discogs.com/releases/26067502
-Now Yearbook Extra '78 (66 More Essential Hits From 1978) - 2023 - https://api.discogs.com/releases/27342489
-The Songs Of Bacharach & Costello - 2023 - https://api.discogs.com/masters/59906
-Now Yearbook '78 - 2023 - https://api.discogs.com/masters/3077327
-New Guitars In Town:  Power Pop 1978-82 - 2024 - https://api.discogs.com/releases/29845465
-Roots Rock Rebels (When Punk Met Reggae 1975-1982) - 2024 - https://api.discogs.com/releases/31266014
-Heaven Sent (The Rise Of New Pop 1979-1983) - 2024 - https://api.discogs.com/releases/31326106
-More Deep 70s (Undiscovered Jewels From Music's Most Action-Packed Decade) - 2025 - https://api.discogs.com/releases/33247644
-Now That's What I Call An Era The Sound Of The Suburbs 1977~1980 - 2025 - https://api.discogs.com/masters/3750489
-Now That's What I Call An Era: The Albums 1980 > 1984 (Essential Tracks From Iconic Albums) - 2025 - https://api.discogs.com/masters/3863767
-The Sopranos: Music From The HBO Original Series / Peppers & Eggs - Desconocido - https://api.discogs.com/releases/11382858
-Pure Rock 1979 - The History Of Rockmusic - Desconocido - https://api.discogs.com/releases/12106895
-Byron Bay Bluesfest 2014 - Desconocido - https://api.discogs.com/releases/12742582
-My Generation (The Soundtrack Of Our Lives) The 70s (Part One) - Desconocido - https://api.discogs.com/releases/14302213
-Vol 1 The Art Of Roger Bechirian - Desconocido - https://api.discogs.com/releases/31081421
-Anarchy - The Best Of New Wave - Desconocido - https://api.discogs.com/masters/1745064
-Double Impact - Desconocido - https://api.discogs.com/masters/3623174
-Radio Radio...Live In Toronto At The El Macombo Club 3/78 - 1978 - https://api.discogs.com/masters/202952
-50,000,000 Elvis Fans Can't Be Wrong - 1979 - https://api.discogs.com/releases/1756075
-Elvis Goes To Washington And Dave Edmunds And Rockpile Don't - 1979 - https://api.discogs.com/masters/602166
-The Last Foxtrot - 1979 - https://api.discogs.com/masters/602185
-Blitzkrieg - 1980 - https://api.discogs.com/releases/9374877
-Get Happy!! - 1980 - https://api.discogs.com/masters/42856
-Concerts For The People Of Kampuchea Vol 1. - 1981 - https://api.discogs.com/masters/68676
-Shaken, Not Stirred - 1981 - https://api.discogs.com/masters/1394501
-Trust - 1981 - https://api.discogs.com/masters/42889
-Heatwave 1980 - 1982 - https://api.discogs.com/masters/677406
-Mystery Boy - 1982 - https://api.discogs.com/masters/1189241
-Almost Blue - 1982 - https://api.discogs.com/masters/42880
-Imperial Bedroom - 1982 - https://api.discogs.com/masters/42894
-Punch The Clock - 1983 - https://api.discogs.com/releases/23697239
-Everyday I Play The Boot - 1983 - https://api.discogs.com/masters/1394012
-Revenge And Guilty - 1984 - https://api.discogs.com/releases/5920731
-Elvis Costello Live - 1984 - https://api.discogs.com/releases/15075382
-Lucky Spike - 1989 - https://api.discogs.com/masters/602181
-I Stand Accused  - 1990 - https://api.discogs.com/masters/1092074
-Riot Act '83 - 1992 - https://api.discogs.com/masters/1398263
-Live At The Agora 1977 - 1992 - https://api.discogs.com/masters/1189061
-This Is Tomorrow - 1992 - https://api.discogs.com/masters/1394002
-The Gangster Is Back - 1992 - https://api.discogs.com/masters/1397234
-Red Shoes - 1993 - https://api.discogs.com/releases/10108135
-1986-10-04: Beverly Hills, Beverly Theatre (I Did Talk To Tom Waits) - 1994 - https://api.discogs.com/releases/8266042
-Brillant Parade - 1994 - https://api.discogs.com/releases/9228034
-So Like Candy - 1994 - https://api.discogs.com/releases/12192004
-Radioactivity - 1995 - https://api.discogs.com/releases/5375572
-Going Stateside - 1995 - https://api.discogs.com/releases/6303236
-Plugging The Gaps - 1995 - https://api.discogs.com/releases/6538648
-Pluggelectric - 1995 - https://api.discogs.com/releases/7923965
-The Rise And Rise Of Declan MacManus - 1995 - https://api.discogs.com/releases/12219581
-I Never Talked To Jim Reeves - 1995 - https://api.discogs.com/releases/12219676
-I Never Talked To Jim Reeves - 1995 - https://api.discogs.com/releases/20768365
-Hidden Charms - 1995 - https://api.discogs.com/masters/1382568
-Main Attraction - 1996 - https://api.discogs.com/masters/1387285
-Superlative Live! - 1996 - https://api.discogs.com/masters/980273
-Live Memories - 1998 - https://api.discogs.com/releases/8990284
-The Great Unknown Vols. 1-4 - 1999 - https://api.discogs.com/releases/8995115
-Some Like It Hot - 1999 - https://api.discogs.com/masters/759106
-Best Of Broadway - 2000 - https://api.discogs.com/releases/10382826
-Orpheum Theater - 2000 - https://api.discogs.com/releases/16075004
-Radio Sweet Hearts - 2001 - https://api.discogs.com/releases/8160388
-Get Over It - Music From The Miramax Motion Picture - 2001 - https://api.discogs.com/masters/728607
-Maybe The Last Time - 2002 - https://api.discogs.com/releases/8379421
-1981 - 2004 - https://api.discogs.com/releases/10096281
-Dancing New York - 2004 - https://api.discogs.com/releases/14436749
-Concerts For The People Of Kampuchea - 2004 - https://api.discogs.com/masters/836585
-Fanzine No. 1 - 2005 - https://api.discogs.com/releases/7824856
-Don't Ask Me To Apologize - 2005 - https://api.discogs.com/releases/20871928
-100 Клипов Лучших Мировых Певцов - Mega Collection - 2005 - https://api.discogs.com/masters/712984
-The Last Foxtrot - 2006 - https://api.discogs.com/releases/8269711
-Augmented The Core Band - 2008 - https://api.discogs.com/releases/14462850
-Armed Funk And Country - 2009 - https://api.discogs.com/releases/14484055
-Female & The Sound Improves - 2010 - https://api.discogs.com/releases/14504983
-Transmission (Volume Three) - 2012 - https://api.discogs.com/masters/1229338
-Waiting For Columbia - 2013 - https://api.discogs.com/releases/9273073
-You Better Listen To The Radio - 2014 - https://api.discogs.com/releases/5649872
-Concerts For The People Of Kampuchea Outtakes - 2015 - https://api.discogs.com/releases/7083439
-Live Broadcasts 1983 - 2015 - https://api.discogs.com/releases/9262335
-Radio Radio: Winterland, San Francisco, June 7, 1978 - KSAN-FM - 2015 - https://api.discogs.com/masters/1356137
-Oslo 1980 - 2020 - https://api.discogs.com/releases/16762455
-Santa Monica 1978 Jon Wizardo Master Cassette Tape - 2021 - https://api.discogs.com/releases/18322312
-Heatwave Festival 1980:  The Ontario Broadcast - 2022 - https://api.discogs.com/releases/23845334
-Romeo Was Restless - 2022 - https://api.discogs.com/releases/24827024
-Still Mystified - 2023 - https://api.discogs.com/releases/26212577
-Winterland 1978 Soundboard - 2023 - https://api.discogs.com/releases/29190136
-"Hiding Under Covers" - Desconocido - https://api.discogs.com/releases/2887201
-John Peel 1978 - Desconocido - https://api.discogs.com/releases/2896122
-Glastonbury Festival 20:June:1987 - Desconocido - https://api.discogs.com/releases/4199423
-Stiff At The BBC - Desconocido - https://api.discogs.com/releases/4421087
-Ska-Volution (The Ska-Sampler 1979-80) - Desconocido - https://api.discogs.com/releases/5840080
-The Stone Pony - Asbury Park, NJ - 16 Dec 1977 (Early Show) - Desconocido - https://api.discogs.com/releases/8270670
-The Stone Pony - Asbury Park, NJ - 16 Dec 1977 (Late Show) - Desconocido - https://api.discogs.com/releases/8270705
-Goodbye Cruel World - Desconocido - https://api.discogs.com/releases/13252846
-Live At Montreux 1980 - Desconocido - https://api.discogs.com/releases/17072493
-The Greatest Rock Recordings Of The 80th - Desconocido - https://api.discogs.com/releases/17514547
-The Armed Forces Live Collection 1978 - 1983 - Desconocido - https://api.discogs.com/releases/26542907
-Punch The Clock Live '83 - Desconocido - https://api.discogs.com/releases/26786390
-Almost Blue - Desconocido - https://api.discogs.com/releases/34351714
-Cornered On Plastic - Desconocido - https://api.discogs.com/masters/2016352
-Armed Forces - Desconocido - https://api.discogs.com/masters/42659
-This Year's Model - Desconocido - https://api.discogs.com/masters/455505
-The Best Punk Album In The World...Ever! Vol. 1 - Desconocido - https://api.discogs.com/masters/1140643
-Punch The Clock - Desconocido - https://api.discogs.com/masters/42921
-Goodbye Cruel World - Desconocido - https://api.discogs.com/masters/42926
-The Best Of Elvis Costello And The Attractions - Desconocido - https://api.discogs.com/masters/42933
-Blood & Chocolate - Desconocido - https://api.discogs.com/masters/42938
+Disco Kandi 05.02 - 2002 - https://api.discogs.com/masters/838298
+Diggin' O.S.T - 2002 - https://api.discogs.com/masters/660672
+Ultimate Power of the 70s - 2002 - https://api.discogs.com/masters/3194397
+Multitubes Funk - 2003 - https://api.discogs.com/releases/7674092
+Tropical Punch - 2003 - https://api.discogs.com/releases/10529061
+Going Latin! - 2003 - https://api.discogs.com/releases/10584297
+On The Radio - 2003 - https://api.discogs.com/releases/12359969
+Aerosoul - 2003 - https://api.discogs.com/releases/14085281
+Classic Cuts Presents 70's Night The Definitive DJ Collection - T To Z - 2003 - https://api.discogs.com/releases/14778773
+Lowriders Oldies Box Set · Volumes 7-9 - 2003 - https://api.discogs.com/releases/17819992
+Stimulas Tack Libraly Vol. 13 - 2003 - https://api.discogs.com/releases/27061488
+Excess Luggage - 2003 - https://api.discogs.com/masters/44152
+Funk 1 - 2003 - https://api.discogs.com/masters/1734274
+Am/Pm Mix - 2004 - https://api.discogs.com/releases/2878748
+American Pimp - 2004 - https://api.discogs.com/releases/5111904
+Simply Funky - 2004 - https://api.discogs.com/releases/8793437
+Summer Sun - 2004 - https://api.discogs.com/releases/10990659
+70s Grandmaster 2 - 2004 - https://api.discogs.com/releases/12222125
+Rock N Roll Fantasy - 2004 - https://api.discogs.com/releases/12757895
+Superstars Of Seventies Soul Sampler - 2004 - https://api.discogs.com/releases/15820760
+Real Funk 4 Real B.Boyz Vol.1 - 60 Minutes De Pure Funk 70's - 2004 - https://api.discogs.com/releases/20884732
+Superbad - 2004 - https://api.discogs.com/masters/476150
+Baadasssss! Soundtrack Album Sampler - 2004 - https://api.discogs.com/masters/1580405
+Mr.3000. Original Soundtrack - 2004 - https://api.discogs.com/masters/1809881
+Dance Machine '81 '82 - 2005 - https://api.discogs.com/releases/1364242
+Connect - 2005 - https://api.discogs.com/releases/3046129
+Cops Spies PI's Themes And Moviescreens - 2005 - https://api.discogs.com/releases/8098056
+Lukoil - Road Mix 1 - 2005 - https://api.discogs.com/releases/9180742
+Always Living Never Dying - 2005 - https://api.discogs.com/releases/10936159
+All You Need Is Love Love Is All You Need - 2005 - https://api.discogs.com/releases/11114795
+Old School Soul Party - 2005 - https://api.discogs.com/releases/11548740
+Funk Baby! - 2005 - https://api.discogs.com/releases/12417475
+A Beach Boys Rock And Roll Beach Party - 2005 - https://api.discogs.com/releases/14606109
+Can You Dig? - 2005 - https://api.discogs.com/releases/26596649
+Classic 040 - 2005 - https://api.discogs.com/releases/31510073
+Friday (Original Motion Picture Soundtrack) / Old School Friday (More Music From The Original Motion Picture) - 2005 - https://api.discogs.com/masters/82111
+70s Music Explosion Vol 1: Sunshine - 2005 - https://api.discogs.com/masters/3340501
+Robots (Original Motion Picture Soundtrack) - 2005 - https://api.discogs.com/masters/1028687
+Super Disco Friends - 2005 - https://api.discogs.com/masters/1225820
+100% Funky Roots - 2006 - https://api.discogs.com/releases/1134509
+Burt Sugarman's The Midnight Special: 1973 - 2006 - https://api.discogs.com/releases/2274531
+Maximum Cowbell - 2006 - https://api.discogs.com/releases/2914728
+Retrohits: Dance Hits 1970-1990 - 2006 - https://api.discogs.com/releases/3526358
+Live From Outer Space - 2006 - https://api.discogs.com/releases/3534389
+We Got The Funk - 2006 - https://api.discogs.com/releases/5302232
+The Best Of Funk Vol. 2 - 2006 - https://api.discogs.com/releases/11202610
+We Got The Funk - 2006 - https://api.discogs.com/releases/13123989
+Impalaville - 2006 - https://api.discogs.com/releases/13903187
+The Best Of 80's Groove - 2006 - https://api.discogs.com/releases/14032647
+Road Tested - The Ultimate Driving Album - 2006 - https://api.discogs.com/releases/26203946
+Grand 12-Inches 4 - 2007 - https://api.discogs.com/releases/987752
+100% Blaxploitation - 2007 - https://api.discogs.com/releases/1112891
+Burt Sugarman's The Midnight Special: Legendary Performances 1973-1981 - 2007 - https://api.discogs.com/releases/2275517
+Mastercuts Disco - 2007 - https://api.discogs.com/releases/2946231
+Out Of Sight - 2007 - https://api.discogs.com/releases/3079975
+Mastercuts 80's Groove - 2007 - https://api.discogs.com/releases/3523896
+Motown 50th Anniversary - 2007 - https://api.discogs.com/releases/5629589
+Classic Rock - The Greatest Song Of All Time - 2007 - https://api.discogs.com/releases/11327542
+Nationwide Road Tunes - 2007 - https://api.discogs.com/releases/13541171
+Uptown Saturday Night - Classic R&B Jams - 2007 - https://api.discogs.com/releases/13601154
+Urban Mixx: Kool Jam - Show: 723 - 2007 - https://api.discogs.com/releases/14691273
+Unmistakable Ride - 2007 - https://api.discogs.com/releases/17678638
+Mastercuts 80's Groove - 2007 - https://api.discogs.com/releases/30111407
+Vintage Grooves - Funk Volume 1 - 2007 - https://api.discogs.com/masters/754199
+The Nanny Diaries Original Motion Picture Soundtrack - 2007 - https://api.discogs.com/masters/1289549
+Ferry Maat's Soulshow Top 100 (35th Anniversary Compilation) - 2008 - https://api.discogs.com/releases/6532614
+Icons Rock (Celebrating 105 Years Of Great Motorcycles) - 2008 - https://api.discogs.com/releases/10578494
+Guy Fieri - Diners, Drive-ins And Dives - Road Songs That Rock - 2008 - https://api.discogs.com/releases/11767341
+Funk - 2008 - https://api.discogs.com/releases/13675156
+Out Of Sight - 2008 - https://api.discogs.com/releases/20339722
+Beverly Hills Chihuahua - Songs From Film (As Of 7/28/08)  - 2008 - https://api.discogs.com/releases/21035860
+Uptown Saturday Night - Classic R&B Jams - 2008 - https://api.discogs.com/releases/33639546
+RocknRolla Original Film Soundtrack - 2008 - https://api.discogs.com/masters/121951
+Semi-Pro Original Motion Picture Soundtrack - 2008 - https://api.discogs.com/masters/1343012
+Fix Your Face - 2008 - https://api.discogs.com/masters/294556
+Forget The Obvious.. - 2009 - https://api.discogs.com/releases/2274580
+RA.185 - 2009 - https://api.discogs.com/releases/3402396
+Theme Time Radio Hour With Bob Dylan: Friends & Neighbors - 2009 - https://api.discogs.com/releases/10055723
+Sweet Soul Of The '70s (Just To Be Close To You) - 2009 - https://api.discogs.com/releases/12285638
+Jazz Funk & Groove - 2009 - https://api.discogs.com/releases/13964319
+The Best Of 1975 - 2009 - https://api.discogs.com/releases/26379152
+Retrodance - The Greatest Dance Hits Of The 80's & 90's - 2009 - https://api.discogs.com/releases/33755205
+Together Through Life - 2009 - https://api.discogs.com/masters/125668
+Sweet Soul Of The '70s - 2009 - https://api.discogs.com/masters/3660705
+The Boogie Back (Post Disco Club Jams) - 2009 - https://api.discogs.com/masters/204584
+The Story Of Musikladen No. 1 1972-1976 - 2010 - https://api.discogs.com/releases/3523363
+The Best Of Soul Train - 2010 - https://api.discogs.com/releases/6020439
+Universal Music Publishing Group Presents: Classic Rock - 2010 - https://api.discogs.com/releases/14456647
+Tracks From the Track - 2010 - https://api.discogs.com/releases/14729122
+Funky 70s Party Playlist - 2010 - https://api.discogs.com/releases/14730996
+Strange Games & Funky Things Volume 5 (Smoking 70's Soul And Rare Grooves) - 2010 - https://api.discogs.com/masters/323733
+The Best Of Soul Train - 2010 - https://api.discogs.com/masters/1804239
+RA.272 - 2011 - https://api.discogs.com/releases/3050770
+Take Me With You - 2011 - https://api.discogs.com/releases/3387427
+Voices Of Other Times - 2011 - https://api.discogs.com/releases/3799411
+Dez Electric - 2011 - https://api.discogs.com/releases/5037108
+Sunny Side Up 11 - 2011 - https://api.discogs.com/releases/8480513
+First Sequence - 2011 - https://api.discogs.com/releases/8780571
+Vacation - Rare Music​,​ Samples And More  - 2011 - https://api.discogs.com/releases/10857327
+180atomosphere 3 - 2011 - https://api.discogs.com/releases/12264517
+Soul Story Vol. 2 - Greatest Soul Hits Of The 60's & 70's - 2011 - https://api.discogs.com/releases/12972183
+Pure... Funky Jamz - 2011 - https://api.discogs.com/releases/15675680
+40 Jahre Disco - Absolut Disco - 2011 - https://api.discogs.com/releases/17457295
+40 Jahre Disco - Disco Nights - 2011 - https://api.discogs.com/releases/17457829
+40 Jahre Disco - Disco Fever - 2011 - https://api.discogs.com/releases/17459659
+Black Match - Code Number 16 - 2011 - https://api.discogs.com/masters/2402767
+The M+M Mixes Volume 2: NYC Underground Disco Anthems & Previously Unreleased Exclusive Disco Mixes - 2011 - https://api.discogs.com/masters/395856
+The Entertainer - 2011 - https://api.discogs.com/masters/1781501
+Sound City Studios Comp - 2012 - https://api.discogs.com/releases/4217343
+Return To Soul City - 2012 - https://api.discogs.com/releases/6423091
+The Music Of Cars Land - 2012 - https://api.discogs.com/releases/7657333
+Lowrider Fiesta Cinco De Mayo Celebration Two Pack - 2012 - https://api.discogs.com/releases/19852990
+Forgotten Treasures Mix #06 - 2013 - https://api.discogs.com/releases/5153929
+Soul of the '70s (Let's Get It On) - 2013 - https://api.discogs.com/releases/21271726
+Romancing The 70s - Lovin' You - 2013 - https://api.discogs.com/masters/1457085
+Summer Waves Vol. 4 - 2014 - https://api.discogs.com/releases/9253363
+Original5 - 2014 - https://api.discogs.com/releases/33405860
+The Midnight Special - 2014 - https://api.discogs.com/masters/2507677
+RA.466 - 2015 - https://api.discogs.com/releases/8102892
+McFarland, USA - 2015 - https://api.discogs.com/releases/14998834
+Outa Space, Outta Sight! Sci-Fi Soul, Disco, And Funk, 1973-1981 - 2015 - https://api.discogs.com/releases/15712502
+AOR Disco Vintage Edits Vol.3 - 2015 - https://api.discogs.com/releases/26977739
+Fact Mix 496 - 2015 - https://api.discogs.com/releases/29412256
+The Many Faces Of Daft Punk - 2015 - https://api.discogs.com/masters/1807850
+Nitetime Beatdown - 2016 - https://api.discogs.com/releases/8311889
+Wag (Iconic Tunes From The Wag Club 1983-1987) - 2016 - https://api.discogs.com/releases/8667492
+Superstar Seventies - 2016 - https://api.discogs.com/releases/9456598
+The Reunion 2001 - 2004 - 2016 - https://api.discogs.com/releases/11910233
+Rock Legends Cruise III - 2016 - https://api.discogs.com/releases/12327075
+Saturday Night Special - 2016 - https://api.discogs.com/releases/20051479
+Simply Seventies - 2016 - https://api.discogs.com/releases/30110363
+Suicide Squad (The Album) - 2016 - https://api.discogs.com/masters/1039599
+The Many Faces Of Prince (A Journey Through The Inner World Of Prince) - 2016 - https://api.discogs.com/masters/1564259
+70s Dancefloor (The Ultimate Collection) - 2017 - https://api.discogs.com/releases/10724815
+100 Hit Tracks 80s Groove (The Ultimate Collection) - 2017 - https://api.discogs.com/releases/11789058
+Schall & Rauch - 2017 - https://api.discogs.com/releases/11981426
+Greatest Ever! Summer Road Trip - 2017 - https://api.discogs.com/releases/12021962
+Die Hit-Giganten - Best Of Funk & Soul - 2017 - https://api.discogs.com/releases/19564162
+The Mr K Edits (The Most Excellent Collection) / モースト・エクセレント・コレクション - 2017 - https://api.discogs.com/masters/1628289
+Glitterbox (Love Is The Message) - 2017 - https://api.discogs.com/masters/1194117
+Extend The 80s Groove (Essential 12" And Extended Mixes Of 80s Groove Classics) - 2018 - https://api.discogs.com/releases/11901863
+Captain Vinyl Presents Diggin' Disco - 2018 - https://api.discogs.com/releases/11968005
+Driven By The 70s - 100 Essential Driving Songs - 2018 - https://api.discogs.com/releases/13373985
+Driving Songs (The Ultimate Collection) - 2018 - https://api.discogs.com/releases/33036639
+Stand By Me (The Ultimate Collection) - 2019 - https://api.discogs.com/releases/33049038
+Winter Mixdown R  - 2020 - https://api.discogs.com/releases/14495075
+Ultimate Seventies (The Classics) - 2020 - https://api.discogs.com/releases/15776476
+North Side Story Vol. 1 - 2020 - https://api.discogs.com/releases/16210921
+The Tom Moulton Unreleased Mixes Volume 3 - 2020 - https://api.discogs.com/releases/16617225
+Seventies (The Ultimate Collection) - 2020 - https://api.discogs.com/releases/19574170
+The Many Faces Of Daft Punk - 2020 - https://api.discogs.com/releases/28242175
+Singalong Anthems (The Ultimate Collection) - 2020 - https://api.discogs.com/releases/28650691
+Car Anthems  (The Ultimate Collection) - 2020 - https://api.discogs.com/releases/30458039
+The Starter Era - Dope Raps 1989-1993 - 2020 - https://api.discogs.com/masters/1781506
+Mixtape 12021 - 2021 - https://api.discogs.com/releases/18404152
+Back Spins Twenty One - 2021 - https://api.discogs.com/releases/18578893
+Edits From The Vaults Vol. 11 - 2021 - https://api.discogs.com/releases/21803986
+Dad  - 2021 - https://api.discogs.com/releases/28429291
+Soul Superstars Of The '70s - 2021 - https://api.discogs.com/releases/31408565
+Musikladen - Die Anfänge - 100% Live - 2022 - https://api.discogs.com/releases/30184901
+Crate 024: 70s Funk - 2022 - https://api.discogs.com/masters/3186948
+DMC - Mixpack (EP 29) - 2023 - https://api.discogs.com/releases/27895863
+Private Press 01 - 2023 - https://api.discogs.com/releases/29123155
+Private Press 02 - 2023 - https://api.discogs.com/releases/29123230
+Black Oldies : The Return Of The Classics - 2024 - https://api.discogs.com/releases/31135385
+MOVELT HOUSE PARTY 5 - 2024 - https://api.discogs.com/releases/32529954
+Trainspotting 1974-1980 This Is Not Acid Jazz - Desconocido - https://api.discogs.com/releases/119679
+Casey Kasem Presents America's Top Τen Hits: The Seventies - Desconocido - https://api.discogs.com/releases/2099556
+Cold Chillin In The Ghetto - Desconocido - https://api.discogs.com/releases/2332665
+Classic Ser.01/Vol.34 - Desconocido - https://api.discogs.com/releases/3170303
+Live Demo Compilation (Chicago Classics) - Desconocido - https://api.discogs.com/releases/5080326
+Sounds Of Solid Soul (Volume 5) - Desconocido - https://api.discogs.com/releases/5620858
+Billboard 6 - Desconocido - https://api.discogs.com/releases/5997011
+Soul Flight Featuring "Big Bill" Haywood - Desconocido - https://api.discogs.com/releases/6516865
+Τα Θυμάστε; Νο2 - Desconocido - https://api.discogs.com/releases/6756377
+Future Grooves - Desconocido - https://api.discogs.com/releases/6788049
+The Original Oldies II - Desconocido - https://api.discogs.com/releases/7259168
+Funk's Story - Tome 2 - Desconocido - https://api.discogs.com/releases/7534107
+Old School: Something Good - Desconocido - https://api.discogs.com/releases/7825469
+Hobby Music Coctail - Desconocido - https://api.discogs.com/releases/8294007
+Sounds Of Solid Soul Volume 6 - Desconocido - https://api.discogs.com/releases/8377240
+Hard Rock Greatest Hits Vol 3 - Desconocido - https://api.discogs.com/releases/8522456
+Be Thankful For The Message In Ouer Music - Desconocido - https://api.discogs.com/releases/8749956
+Non-Stop "Soul Now" Disco Party - Desconocido - https://api.discogs.com/releases/8840674
+Funky Nights - Desconocido - https://api.discogs.com/releases/8940379
+War / Lee Oskar / Greg Errico etc. - Desconocido - https://api.discogs.com/releases/9154324
+Announcing The Nocturnal DJ's Classic Club Mix Live - Volume 1 - Desconocido - https://api.discogs.com/releases/9847473
+Lowrider Oldies Box Set Volumes 1-9 - Desconocido - https://api.discogs.com/releases/10713538
+Sound Of Soul, Show 6 & Show 7 - Desconocido - https://api.discogs.com/releases/10807415
+100% Funk Classics - Desconocido - https://api.discogs.com/releases/11163699
+The Best Soundtracks In Show Business!!! Hollywood Records Goes Hollywood - Desconocido - https://api.discogs.com/releases/11689653
+The Original Oldies - Volume 1 - Desconocido - https://api.discogs.com/releases/12273539
+Go Go Party Vol.4 - Desconocido - https://api.discogs.com/releases/12605791
+Highway And Car Crusin' Songs - Desconocido - https://api.discogs.com/releases/12701695
+Flamingo Sürpriz - Desconocido - https://api.discogs.com/releases/13624287
+Son Of Hollywood Records Goes Hollywood - Desconocido - https://api.discogs.com/releases/14152573
+12 Underground Artistes Vol. 2 - Desconocido - https://api.discogs.com/releases/14411307
+Summer Madness - Desconocido - https://api.discogs.com/releases/15118541
+Vintage Session With TD Camp Vol. 2 - Desconocido - https://api.discogs.com/releases/15437667
+Vintage Session With TD Camp Vol. 3 - Desconocido - https://api.discogs.com/releases/15437819
+New-York Groove - Desconocido - https://api.discogs.com/releases/15465918
+Like Minded People - Freedom - Desconocido - https://api.discogs.com/releases/16814796
+Sound Of Soul - Desconocido - https://api.discogs.com/releases/17429803
+In Store Programmer No. 3 - Desconocido - https://api.discogs.com/releases/18491515
+Latin Oldies Trilogy - Desconocido - https://api.discogs.com/releases/18533101
+Unknown - Desconocido - https://api.discogs.com/releases/20507398
+Legends Of Rock & Funk - Desconocido - https://api.discogs.com/releases/21310132
+Those Crazy Years of Rock & Roll, Volume 4: The Middle Seventies - Desconocido - https://api.discogs.com/releases/21317416
+GoldDisc3 592 - Desconocido - https://api.discogs.com/releases/21429577
+Panoramic Stereo - Disco Dance Party ! - Desconocido - https://api.discogs.com/releases/24988786
+Director's Cut (The Mixtape) - Desconocido - https://api.discogs.com/releases/25035907
+Now Hits! - Desconocido - https://api.discogs.com/releases/25647595
+Soul Of The '70s - Desconocido - https://api.discogs.com/releases/26363165
+Series17 1775 - Desconocido - https://api.discogs.com/releases/26465621
+World Hits Vol. 2 - Desconocido - https://api.discogs.com/releases/26503610
+Oldies But Goodies Collection 5 - Desconocido - https://api.discogs.com/releases/27240114
+Pop Super Sounds Volume 7 - Desconocido - https://api.discogs.com/releases/27907302
+Superstars of the 70's 48 Electrifying Performances - Desconocido - https://api.discogs.com/releases/27956364
+Top Rock Volume 21 - Desconocido - https://api.discogs.com/releases/29072950
+Welcome To Jamrock Part One  - Desconocido - https://api.discogs.com/releases/29630068
+When Performance Matters... It's JVC - Desconocido - https://api.discogs.com/releases/30350609
+Super Smash Hits Vol - 1 - Desconocido - https://api.discogs.com/releases/30505576
+Sound Of Soul Show #6 / # 7 - Desconocido - https://api.discogs.com/releases/30744711
+Quit' Actin' Brand New - Desconocido - https://api.discogs.com/releases/32283636
+Dazed And Confused (Music From The Motion Picture) - Desconocido - https://api.discogs.com/releases/32312370
+Top Of The Pops Vol. 16. - Desconocido - https://api.discogs.com/releases/32757567
+Monstaville.net & Playa Rae present Cinco De Mayo Mixtape - Desconocido - https://api.discogs.com/releases/32979681
+Racing Rocks: Songs Of The Speedway - Desconocido - https://api.discogs.com/releases/33120948
+Mix Art Gallery Vol.2 - Desconocido - https://api.discogs.com/releases/34011900
+Super Stars Of The 70's - Desconocido - https://api.discogs.com/masters/1568777
+The Magic Garden Of Stanley Sweetheart (From The Motion Picture Soundtrack)  - Desconocido - https://api.discogs.com/masters/409992
+Sueno De Valencia - Desconocido - https://api.discogs.com/masters/202074
+Promo Only Hot Video Classics - Best Of The 70's - Vol.1 - Desconocido - https://api.discogs.com/masters/3690276
+The Student Sound 38 (1971年美國“告示牌”排行十名内熱門歌選) - 1971 - https://api.discogs.com/releases/19900840
+All Day Music - 1971 - https://api.discogs.com/masters/116934
+The World Is A Ghetto - 1972 - https://api.discogs.com/masters/116938
+The Student Sound, Vol. 59 - 1973 - https://api.discogs.com/releases/6684719
+The Student Sound Vol. 62, The Golden Hits In 73' "Billboard" - 1973 - https://api.discogs.com/releases/10473327
+Happening Hits Vol. 3 - 1973 - https://api.discogs.com/releases/12853190
+Hit Songs Vol. 38 - 1973 - https://api.discogs.com/releases/14936401
+The Best Sellers Of The Year - 1974 - https://api.discogs.com/releases/7555265
+Speciale Discoteca - 1974 - https://api.discogs.com/releases/27823371
+The Cisco Kids - 1974 - https://api.discogs.com/masters/116980
+12 Underground Artistes - 1975 - https://api.discogs.com/releases/5710284
+Rock Steady Go Underground - 1975 - https://api.discogs.com/releases/5713534
+Eny 16 Best Hit Songs No. 5 - 1975 - https://api.discogs.com/releases/6027217
+New Top Hits Vol. 2 - 1975 - https://api.discogs.com/releases/13907493
+Sensational Rock Volume 12 - 1975 - https://api.discogs.com/releases/27220164
+Why Can't We Be Friends? - 1975 - https://api.discogs.com/masters/116935
+For The Congressional Black - 1975 - https://api.discogs.com/masters/453729
+The Student Sound Vol. 96 - 1976 - https://api.discogs.com/releases/24458303
+First Sound - Billboard Hot 100 - 1976 - https://api.discogs.com/releases/24476165
+Rock 36 - 1976 - https://api.discogs.com/releases/30364088
+Greatest Hits - 1976 - https://api.discogs.com/masters/116968
+Galaxy - 1977 - https://api.discogs.com/masters/116937
+Platinum Jazz - 1977 - https://api.discogs.com/masters/118593
+Bits & Pieces I  Special Disco Mixer - 1979 - https://api.discogs.com/releases/17163859
+Bits & Pieces (Disco 79 - Special Disco Mixer) - 1979 - https://api.discogs.com/masters/152646
+Transform - 1980 - https://api.discogs.com/releases/837808
+War And Peace 'Slippin' Into Darkness' - 1980 - https://api.discogs.com/releases/5488056
+Goody Goody Mixer - 1980 - https://api.discogs.com/masters/222326
+Everybody Get Up - 1981 - https://api.discogs.com/masters/500312
+This Is It / Time Has Come - 1982 - https://api.discogs.com/releases/356598
+American Disco - 1982 - https://api.discogs.com/releases/935317
+Black-Out 2 - 1982 - https://api.discogs.com/releases/1801318
+1982 Top Tune Medley - 1982 - https://api.discogs.com/releases/2834044
+You Got The Power / If You Read My Mind / (Love Is Just) The Game - 1982 - https://api.discogs.com/releases/11315007
+Disco Recuerdo Vol. 1 - 1982 - https://api.discogs.com/releases/33762552
+Shadow 1 - 1983 - https://api.discogs.com/releases/1594647
+Hot Mix 82\83 - 1983 - https://api.discogs.com/releases/1694533
+New Generation - Move On - 1983 - https://api.discogs.com/releases/1716305
+Untitled - 1986 - https://api.discogs.com/releases/1909163
+Remix 45 Two - 1988 - https://api.discogs.com/releases/297168
+Sensitive Collection 4 - 1988 - https://api.discogs.com/releases/2271680
+Só Porrada Vol. 02 - 1989 - https://api.discogs.com/releases/2398977
+Special Flash - 1991 - https://api.discogs.com/releases/2236751
+Super Dance Classics Vol.6 - 1991 - https://api.discogs.com/releases/2558005
+New Rapper's Vol. 2 - 1992 - https://api.discogs.com/releases/2252816
+Fina Nostalgia - 1993 - https://api.discogs.com/releases/2940686
+Saturday Night Hot And Fever Volume 1 - 1994 - https://api.discogs.com/releases/5534306
+Fina Nostalgia - 1994 - https://api.discogs.com/releases/7975822
+Loft Classics Volume III - 1995 - https://api.discogs.com/releases/219372
+Black Total 95 Volume 10 - 1995 - https://api.discogs.com/releases/242735
+Balanço Geral - 1995 - https://api.discogs.com/releases/3694522
+Rap Som - 1995 - https://api.discogs.com/releases/5731980
+Loft Classics Volume IV - 1995 - https://api.discogs.com/masters/501979
+The Chase Scene II - 1995 - https://api.discogs.com/masters/534484
+Classic Funk Vol. 1 - 1996 - https://api.discogs.com/releases/133627
+Classic Funk Vol. 6 - 1996 - https://api.discogs.com/releases/2233748
+Reggae Party Mix 4 - 1996 - https://api.discogs.com/releases/2274472
+When The Lights Go Down - 1996 - https://api.discogs.com/masters/3831099
+Rare Funk Nine - Junk Funk - 1996 - https://api.discogs.com/masters/2598533
+NY Milk Crate Collection Volume 5 - 1997 - https://api.discogs.com/releases/1510569
+Dance Classics - 1997 - https://api.discogs.com/releases/12329818
+Dance Classics Vol. 16 - 1997 - https://api.discogs.com/releases/22273399
+Dusty Fingers Volume Three - 1998 - https://api.discogs.com/masters/647954
+The Premo Collection - 1999 - https://api.discogs.com/releases/771671
+Yoshiesque - 1999 - https://api.discogs.com/masters/48452
+Absolute Funk - 2000 - https://api.discogs.com/releases/10315589
+DJ World Attack Volume 4 - 2000 - https://api.discogs.com/releases/11129982
+Disco Box Vol. 8 - Beat Box - 2000 - https://api.discogs.com/masters/3438989
+Conspiracy Of One - 2000 - https://api.discogs.com/masters/77243
+The World Is A Ghetto - 2001 - https://api.discogs.com/releases/6809592
+105.1 Crossover 2 Classics - 2001 - https://api.discogs.com/releases/15348682
+A Knight's Tale. Music From The Motion Picture - 2001 - https://api.discogs.com/masters/336434
+The De La Collection - 2002 - https://api.discogs.com/releases/473459
+Untitled - 2002 - https://api.discogs.com/releases/635544
+Sound Of Gold 4 - 2002 - https://api.discogs.com/releases/1919341
+The Best Of - 70's 80's - 2002 - https://api.discogs.com/releases/19070104
+Future Trance Vol.19 - 2002 - https://api.discogs.com/masters/3198462
+Grooves & Messages - The Greatest Hits Of War - 2003 - https://api.discogs.com/releases/6878779
+Galaxy / Not Tonight - 2004 - https://api.discogs.com/releases/332667
+The De La Collection 2 - 2004 - https://api.discogs.com/releases/723986
+Galaxy - 2004 - https://api.discogs.com/masters/116973
+Rvng Prsnts Mx4: Crazy Rhythms - 2005 - https://api.discogs.com/releases/574486
+Other Side Of Town - 2005 - https://api.discogs.com/releases/11665443
+The Beastie Collection 2 - 2006 - https://api.discogs.com/releases/728885
+Brand Nubian Collection - 2006 - https://api.discogs.com/releases/917942
+Greatest Hits - 2006 - https://api.discogs.com/masters/1636878
+Loft Classics Volume 1 - 2008 - https://api.discogs.com/releases/1205842
+Fragment 3:1 Hope/Black Out - 2008 - https://api.discogs.com/releases/1575421
+Gypsy Man (Live) / House Of The Rising Sun - 2008 - https://api.discogs.com/releases/1891133
+Dusty Fingers The Complete Collection - 2008 - https://api.discogs.com/releases/1963084
+Greatest Hits - 2008 - https://api.discogs.com/releases/2131184
+Prince Live In London 2007 - The Indigo Chronicles - Chapter One - 2008 - https://api.discogs.com/releases/6665006
+Loft Classics Volume 2 - 2009 - https://api.discogs.com/releases/348407
+Dungeon Disco Mix - 2009 - https://api.discogs.com/releases/5221581
+Detroit Classics 2 - 2010 - https://api.discogs.com/releases/2112094
+Cosmic Boogie 004 - 2010 - https://api.discogs.com/releases/2328976
+Eric Burdon Declares “War” - 2010 - https://api.discogs.com/masters/116928
+The Black-Man's Burdon - 2010 - https://api.discogs.com/masters/116978
+Ken@Work Remixes - 2011 - https://api.discogs.com/releases/13919354
+Pete & Mik's Music Emporium - Vol. 3 - 2011 - https://api.discogs.com/releases/22882625
+Garage Classics: Vol. 5 - 2012 - https://api.discogs.com/releases/3579990
+The World Is A Ghetto EP - 2012 - https://api.discogs.com/releases/3647056
+Keep On Doin', The Kingsmen Sigh, Junk Yard - 2013 - https://api.discogs.com/releases/4242024
+Latin Soul Brothas Remixes - 2013 - https://api.discogs.com/releases/4358265
+Loft Classics Vol. 12 - 2016 - https://api.discogs.com/releases/8393695
+City / Sun Sun Sun - 2016 - https://api.discogs.com/releases/10233121
+New York November ´92 - 2016 - https://api.discogs.com/releases/15940405
+The Mr K Edits (The Most Excellent Collection) / モースト・エクセレント・コレクション - 2017 - https://api.discogs.com/masters/1628289
+DJ's  - 2021 - https://api.discogs.com/releases/20703283
+Skate 2 - Soundtrack - 2021 - https://api.discogs.com/releases/23747615
+Les Cigales - 2021 - https://api.discogs.com/masters/2390170
+The Nineties - 2024 - https://api.discogs.com/releases/32206818
+Flying Machine / How Much Are They? - 2025 - https://api.discogs.com/releases/34045231
+Flash Collection Vol. 5/6 - Desconocido - https://api.discogs.com/releases/133620
+The World Is A Ghetto / Galaxy - Desconocido - https://api.discogs.com/releases/209357
+City Country City / Hot To Trot - Desconocido - https://api.discogs.com/releases/868891
+Flying Machine (The Chase) / City Country City - Desconocido - https://api.discogs.com/releases/1657788
+Discognosis Vol. IV - Desconocido - https://api.discogs.com/releases/2864393
+Untitled - Desconocido - https://api.discogs.com/releases/3950114
+Hip Hop Music - Desconocido - https://api.discogs.com/releases/4248925
+MP3 Collection - Desconocido - https://api.discogs.com/releases/5754433
+(Shake, Shake, Shake) Shake Your Booty - Desconocido - https://api.discogs.com/releases/6702280
+Vocal Jazz Selection 4 - Desconocido - https://api.discogs.com/releases/6918810
+2 In 1: Conspiracy Of One / Ignition - Desconocido - https://api.discogs.com/releases/7794910
+Greatest Hits - Desconocido - https://api.discogs.com/releases/8216409
+Brand Nubian Breaks - Desconocido - https://api.discogs.com/releases/8712260
+Shake Your Booty / Summer / Play That Funky Music / Getaway - Desconocido - https://api.discogs.com/releases/8952593
+Composite Truth - Desconocido - https://api.discogs.com/releases/8960297
+Gypsy Man / Let's Get It On - Desconocido - https://api.discogs.com/releases/9996757
+Top Songs For Today Vol.15 - Desconocido - https://api.discogs.com/releases/10335926
+Flash Rap Vol. 6 - Desconocido - https://api.discogs.com/releases/11105489
+Rockin' Robin / Smilin' / Run Run Run / Slippin' Into Darkness - Desconocido - https://api.discogs.com/releases/11522882
+Change With The Times / I Love Music (Part 1) / For The Love Of You (Part 1 & 2) / Low Rider - Desconocido - https://api.discogs.com/releases/11545691
+Funk Outta Here Vol 1 - Desconocido - https://api.discogs.com/releases/13040235
+Night Drive Music - Instrumental Vol.1 - Desconocido - https://api.discogs.com/releases/13280233
+New Favourite Hits - Desconocido - https://api.discogs.com/releases/13444547
+1000% Funky Music - Desconocido - https://api.discogs.com/releases/13675913
+The Cisco Kid / The World Is The Ghetto / Me And Baby Brother / Gypsy Man - Desconocido - https://api.discogs.com/releases/13994704
+MP3 Stereo - Desconocido - https://api.discogs.com/releases/14215068
+Ballero - Desconocido - https://api.discogs.com/releases/14569317
+Big 12 Inches Vol. 3: 49 Rare and Hard-To-Get Mixes - Desconocido - https://api.discogs.com/releases/14881277
+Everybody Needs A Friend - Desconocido - https://api.discogs.com/releases/15123367
+Rock News #4 - Desconocido - https://api.discogs.com/releases/15657282
+Play That Funky Music - Desconocido - https://api.discogs.com/releases/17360266
+Duke Of Earl (The Soundtrack) - Desconocido - https://api.discogs.com/releases/17650954
+Me And Baby Brother - Desconocido - https://api.discogs.com/releases/19224556
+The World Is A Ghetto - Desconocido - https://api.discogs.com/releases/19224685
+Rock 77  - Desconocido - https://api.discogs.com/releases/19893700
+(Shake, Shake, Shake) Shake Your Booty - Desconocido - https://api.discogs.com/releases/21177205
+Sixteen Bars / Summer / 4:55 (Part Of The Game) / Reflections Of My Life - Desconocido - https://api.discogs.com/releases/22454425
+Golden Favourites III - Desconocido - https://api.discogs.com/releases/22759793
+45 Remix Two - Desconocido - https://api.discogs.com/releases/22960433
+All You Had To Do Was Tell Me / Don't Let No One Get You Down - Desconocido - https://api.discogs.com/releases/24536912
+Express Songs - Desconocido - https://api.discogs.com/releases/24693974
+The Cisco Kid - Desconocido - https://api.discogs.com/releases/25015063
+Let's Get It On - Desconocido - https://api.discogs.com/releases/25375885
+Untitled - Desconocido - https://api.discogs.com/releases/25986094
+Untitled - Desconocido - https://api.discogs.com/releases/26050819
+Untitled - Desconocido - https://api.discogs.com/releases/26050867
+Untitled  - Desconocido - https://api.discogs.com/releases/26178368
+New Top Hits Vol. 7 - Desconocido - https://api.discogs.com/releases/26767823
+War Platinum Jazz Vol. 1 - Desconocido - https://api.discogs.com/releases/26813057
+Do You Feel Alright / Help Yourself / Magic Mind / Sing A Happy Song - Desconocido - https://api.discogs.com/releases/27192996
+Low Rider / Chinese Kung Fu / I'm On Fire / Messin' With My Mine - Desconocido - https://api.discogs.com/releases/27193008
+A Little Bit More / Summer / Walking A Tightrope / You Just Might See Me Cry - Desconocido - https://api.discogs.com/releases/27193041
+The World Is A Ghetto - Desconocido - https://api.discogs.com/releases/27193065
+Pop Song 3rd Album - Desconocido - https://api.discogs.com/releases/27666297
+Superdiscoteca N.9 - Desconocido - https://api.discogs.com/releases/28828249
+Top 24 Popular (May & June 1973) - Desconocido - https://api.discogs.com/releases/29424307
+Afternoon Dilight / Sweet Lady From Georgia / If You Leve Me Now / Summer - Desconocido - https://api.discogs.com/releases/29788543
+Sing Baby Sing / Why Can't We Be Friends / What Can I Do For You / Ease On Down The Road - Desconocido - https://api.discogs.com/releases/29881105
+Best Of My Love / See You When I Git There / L.A.Sunshine / Funky Music - Desconocido - https://api.discogs.com/releases/29881111
+Breakdown / Put Your Love In Me / Galaxy / Jamming - Desconocido - https://api.discogs.com/releases/30022153
+Cosmic C 80 - Desconocido - https://api.discogs.com/releases/31278752
+Flash Hits II - Desconocido - https://api.discogs.com/releases/31449284
+Gypsy Man / If You Want Me To Stay / Future Shock / That Lady (Part 1) - Desconocido - https://api.discogs.com/releases/32211057
+Super Hits Pop Vol. 8 - Desconocido - https://api.discogs.com/releases/32910621
+I'm A Rocker - Desconocido - https://api.discogs.com/releases/33059316
+Top Hits 86 - Desconocido - https://api.discogs.com/releases/33513647
+Give The People What They Want / Why Can't We Be Friends / Rockin' Chair / What Can I Do For You - Desconocido - https://api.discogs.com/releases/33922092
+The Music Band - Desconocido - https://api.discogs.com/masters/116939
+MP3 Stereo - Desconocido - https://api.discogs.com/masters/1245580
+Deliver The Word - Desconocido - https://api.discogs.com/masters/100781
+The Mexican (Music From The Motion Picture) - Desconocido - https://api.discogs.com/masters/697096
+70's Funk 'N' Soul Classics - Desconocido - https://api.discogs.com/masters/349354
+The Loft - Desconocido - https://api.discogs.com/masters/99836
+The Best Of War And More - Desconocido - https://api.discogs.com/masters/274026
