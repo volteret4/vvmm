@@ -6,8 +6,15 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 08 Jul 2025 22:03:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 23:40:19 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techno</title>
+      <link>/tags/techno/</link>
+      <pubDate>Tue, 08 Jul 2025 23:40:19 +0200</pubDate>
+      <guid>/tags/techno/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Disco</title>
       <link>/tags/disco/</link>
@@ -265,13 +272,6 @@
       <link>/tags/33-tours-et-puis-s-en-vont/</link>
       <pubDate>Tue, 01 Apr 2025 23:54:55 +0200</pubDate>
       <guid>/tags/33-tours-et-puis-s-en-vont/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Techno</title>
-      <link>/tags/techno/</link>
-      <pubDate>Tue, 01 Apr 2025 23:54:55 +0200</pubDate>
-      <guid>/tags/techno/</guid>
       <description></description>
     </item>
     <item>

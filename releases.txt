@@ -1,366 +1,188 @@
 Listado de releases del artista:
-In The Bush / The Greatest Show On Earth - 1978 - https://api.discogs.com/releases/4985517
-Themes From The Wizard Of Oz / Keep On Jumpin' - 1978 - https://api.discogs.com/releases/7631762
-Keep On Jumpin' - 1978 - https://api.discogs.com/masters/49207
-Summer Love (Disco Version) - 1978 - https://api.discogs.com/masters/49228
-In The Bush - 1978 - https://api.discogs.com/masters/49241
-In The Bush / Keep On Jumpin' - 1978 - https://api.discogs.com/masters/192777
-Keep On Jumpin' / Summer Love Theme - 1978 - https://api.discogs.com/masters/224614
-Number One / Good And Plenty Lover - 1979 - https://api.discogs.com/releases/2078907
-Keep On Jumping / Wastin´ My Love - 1979 - https://api.discogs.com/releases/5352225
-Musique II - 1979 - https://api.discogs.com/masters/49217
-Love Massage - 1979 - https://api.discogs.com/masters/224729
-Can You Handle It (Remix) / Keep On Jumpin' / In The Bush - 1982 - https://api.discogs.com/releases/410375
-In The Bush / Everybody Get Off - 1988 - https://api.discogs.com/masters/1056858
-The Groove / In The Bush / Check Out The Groove / Strut Your Funky Stuff - 1989 - https://api.discogs.com/masters/923430
-Push, Push In The Bush - 1995 - https://api.discogs.com/masters/281663
-You're The One For Me (Bootleg Mix) / In The Bush (Bootleg Mix) - 1997 - https://api.discogs.com/releases/772621
-In The Bush / I'm A Man - Desconocido - https://api.discogs.com/releases/20638174
-Pourquoi Pas Moi ? (Bande Originale Du Film) - 1999 - https://api.discogs.com/releases/9772395
-A Complete Introduction To Disco 1970 - 1980 - 2010 - https://api.discogs.com/releases/2617994
-Volume 1, Number 12 - 1978 - https://api.discogs.com/releases/1583730
-Instant Replays - 1978 - https://api.discogs.com/releases/2980554
-Volume 2, Number 4 - 1978 - https://api.discogs.com/releases/3613031
-Volume 2, Number 5 - 1978 - https://api.discogs.com/releases/4307705
-4 Discodance - 1978 - https://api.discogs.com/releases/11942982
-Para Nuestros Amigos - 1978 - https://api.discogs.com/releases/16261023
-Rafael P. Sarmiento Presenta  - 1978 - https://api.discogs.com/releases/19134436
-Banana Power - 1978 - https://api.discogs.com/masters/2579786
-Pecado Rasgado (Internacional) - 1978 - https://api.discogs.com/masters/3276127
-Disco And After - 1979 - https://api.discogs.com/releases/1129684
-Maxi Disco Action ! - 1979 - https://api.discogs.com/releases/1634613
-Volume 2, Number 9 - 1979 - https://api.discogs.com/releases/1950024
-Keep On Dancing - 1979 - https://api.discogs.com/releases/2703616
-Top Disco - 1979 - https://api.discogs.com/releases/4494687
-Schwerpunkte-Neuheiten März/April 1979 - 1979 - https://api.discogs.com/releases/5858481
-K-Tel Disco Show - 1979 - https://api.discogs.com/releases/8719521
-Automatic Disco Express' 79 - Hits Of The World - Volume 2  - 1979 - https://api.discogs.com/releases/9831928
-Power House Disco - 1979 - https://api.discogs.com/releases/11452929
-Special Discoteca - Volumen 1 - 1979 - https://api.discogs.com/releases/13459980
-50 Original Disco Greats - 1979 - https://api.discogs.com/releases/15907051
-Dipy 2 - 1979 - https://api.discogs.com/releases/27868116
-Disco Nights - 1979 - https://api.discogs.com/masters/3079199
-16 Top Hits 1 - 1979 - https://api.discogs.com/masters/1355813
-Hot Nights & City Lights (Original Non-Stop Disco Hits) - 1979 - https://api.discogs.com/masters/1258569
-Hi-Energy - 1979 - https://api.discogs.com/masters/916045
-Studio 80 - 1979 - https://api.discogs.com/masters/1428601
-Pop World (20 Successi 20) - 1979 - https://api.discogs.com/masters/1608361
-Music Like Studio 54 - 1979 - https://api.discogs.com/masters/183466
-Disco Dancing - 1979 - https://api.discogs.com/masters/1728223
-Original Disco Hits '79 - 1979 - https://api.discogs.com/masters/2914564
-This Is It! 20 Of The Hottest Hits Around - 1979 - https://api.discogs.com/masters/324880
-A Night At Studio 54 - 1979 - https://api.discogs.com/masters/571155
-Disco Heat - 1979 - https://api.discogs.com/masters/1360175
-Der Neue Hitladen International - 1979 - https://api.discogs.com/masters/558931
-Discotheque Aquarius - 1979 - https://api.discogs.com/masters/962432
-Hit-Disco '79 - 1979 - https://api.discogs.com/masters/1120661
-Pure Disco - 1979 - https://api.discogs.com/masters/318916
-Disco Dynamos - 1979 - https://api.discogs.com/masters/2147788
-Disco Nights (Continuous Disco Music) - 1979 - https://api.discogs.com/masters/755175
-Disco Heat - 1979 - https://api.discogs.com/masters/442347
-Marshal Love / Bad-Eyed Bandit / 4 On The Floor / Love Massage - 1980 - https://api.discogs.com/releases/584153
-Four For Disco - 1980 - https://api.discogs.com/releases/863785
-Disco Fever '80 - 1980 - https://api.discogs.com/releases/2695630
-Schwerpunkte-Neuheiten Frühjahr 1980 - 1980 - https://api.discogs.com/releases/5858306
-Disco Dance - 1980 - https://api.discogs.com/releases/9533758
-Dancing In The Street - 1980 - https://api.discogs.com/masters/1008516
-Yag Music - 1981 - https://api.discogs.com/releases/9985184
-20 All Time Disco Favourites - 1981 - https://api.discogs.com/releases/13388462
-Mirror Ball - 1981 - https://api.discogs.com/releases/13627117
-Super Especial  - 1981 - https://api.discogs.com/releases/18167632
-New York Disco Action - 1981 - https://api.discogs.com/releases/26908853
-Dance Music Vol. 1 Preludance - 1981 - https://api.discogs.com/masters/1372469
-Prelude's Greatest Hits - 1982 - https://api.discogs.com/masters/203070
-Funky Fever (18 Disco Knaller) - 1982 - https://api.discogs.com/masters/1298354
-Funky Party / Disco Magic - 1983 - https://api.discogs.com/releases/920390
-Dance Music, Vol.1 - 1983 - https://api.discogs.com/releases/1459018
-Prelude's Greatest Hits. Volumes 1 & 2 - 1983 - https://api.discogs.com/masters/1241748
-The Dance Decade 1973-1983 - 1983 - https://api.discogs.com/masters/67973
-Untitled - 1984 - https://api.discogs.com/releases/295133
-Prelude's Golden Disco Hits # 1 - 1984 - https://api.discogs.com/releases/22984124
-Disco Nights - 1984 - https://api.discogs.com/masters/2389258
-Preludio - 1985 - https://api.discogs.com/releases/10157126
-25 Years of Rock 'N' Roll 1978 - 1988 - https://api.discogs.com/masters/957587
-100 All Time Classic Dance Hits Of The 1970s - 1988 - https://api.discogs.com/masters/234231
-Prelude Master Mixes - 1988 - https://api.discogs.com/masters/201010
-That's Disco Classic Vol. 7 (~Non-Stop Mix1) - 1989 - https://api.discogs.com/releases/4677847
-The History Of Prelude Records - 1989 - https://api.discogs.com/masters/3547742
-That's Disco Classic Vol. 6 (featuring USA Disco Hits) - 1989 - https://api.discogs.com/masters/1427555
-The History Of Prelude Records - 1989 - https://api.discogs.com/masters/724594
-Classic Preludes - 1989 - https://api.discogs.com/masters/624852
-That's Disco Classic Vol. 4 (featuring Prelude Best Hits) - 1989 - https://api.discogs.com/masters/1863942
-Mega Hits Dance Classics Volume 3 - 1989 - https://api.discogs.com/masters/1054586
-Groove Zone Sector Three - 1989 - https://api.discogs.com/masters/905122
-Prelude's Greatest Hits - Volume II - 1989 - https://api.discogs.com/masters/53699
-The Must Of Prelude Records Vol. 1 - 1990 - https://api.discogs.com/releases/6558249
-Non-Stop Disco Classics Vol.2 - 1990 - https://api.discogs.com/releases/16297316
-The Must Of Prelude Records Vol. 4 - 1990 - https://api.discogs.com/masters/1932375
-Dance Classics TV - 1990 - https://api.discogs.com/masters/1814676
-The Soul Collection Volume 2 - 1990 - https://api.discogs.com/masters/746694
-Staying Alive Volume 1 - 1990 - https://api.discogs.com/masters/197405
-That's Disco Classic –The Best– - 1991 - https://api.discogs.com/releases/6822200
-Disco Night Live At The New York Palladium 1991 - 1991 - https://api.discogs.com/releases/14637462
-Dance Dance Dance (The Non-Stop Classic Soul Mix) - 1991 - https://api.discogs.com/masters/1383217
-Disco Fever - 1991 - https://api.discogs.com/masters/1433396
-Disco Disco - 1992 - https://api.discogs.com/releases/3133367
-Disco Sucks (Disco Years Sampler, Vols. 1-5) - 1992 - https://api.discogs.com/releases/7065421
-Do The Funk Volume 4 - 6 - 1992 - https://api.discogs.com/releases/21059590
-Do The Funk Vol. 5 - 1992 - https://api.discogs.com/masters/480832
-Disco Night Fever 2 - 1992 - https://api.discogs.com/masters/817903
-Blame It On The Boogie - 1992 - https://api.discogs.com/masters/742660
-Disco Classics Volume II - 1992 - https://api.discogs.com/masters/1360207
-The Disco Years (Lost In Music) Volume Four - 1992 - https://api.discogs.com/masters/821182
-Disco Power 3 - 1993 - https://api.discogs.com/releases/339266
-Super Maxi Dancer - 1993 - https://api.discogs.com/releases/1481266
-West End Girls - 1993 - https://api.discogs.com/releases/3006435
-Mix Madness Polyester Edition - 1993 - https://api.discogs.com/releases/7990077
-Dee Jay Story L'Intégrale - Volume 1 & 2 - 1993 - https://api.discogs.com/releases/8989575
-Classic Disco Part Two - 1993 - https://api.discogs.com/releases/12013522
-Dance Classics - The Hits VI - 1993 - https://api.discogs.com/masters/757914
-Dee Jay Story Volume 2 - 1993 - https://api.discogs.com/masters/1411268
-Let's Go Disco - 1993 - https://api.discogs.com/masters/608587
-Deep Grooves Prelude - 1993 - https://api.discogs.com/masters/53741
-Essential Disco Dancefloor Classics Volume 1 - 1994 - https://api.discogs.com/releases/1009324
-That's Pop - 1994 - https://api.discogs.com/releases/3919128
-Disco Power Box - 1994 - https://api.discogs.com/releases/7828683
-The Dance Classic Showcase Vol. 3 - 1994 - https://api.discogs.com/releases/10293837
-The Dance Classic Showcase Vol. 4 - 1994 - https://api.discogs.com/releases/10293978
-Disco Nights Vol. 6: #1 Disco Hits - 1994 - https://api.discogs.com/releases/11404437
-Disco Hits Of The Seventies - 1994 - https://api.discogs.com/masters/2166367
-Direct Hit Volume 7 - 1994 - https://api.discogs.com/masters/393847
-#1 Disco Hits (Disco Nights Vol. 6) - 1994 - https://api.discogs.com/masters/1461977
-Boys Night Out - 1994 - https://api.discogs.com/masters/1386476
-Check Out The Groove - 1995 - https://api.discogs.com/releases/1369808
-Disco Dance Hits - 1995 - https://api.discogs.com/releases/1657321
-Dancefloor Fever - 1995 - https://api.discogs.com/releases/7968471
-Disco Fever - 1995 - https://api.discogs.com/releases/8147447
-Golden Hits - Disco Dance - 1995 - https://api.discogs.com/releases/16153592
-All DJs Have A 12" Version Volume Three - 1995 - https://api.discogs.com/masters/2864146
-New Beat Vol. 16 - 1995 - https://api.discogs.com/masters/785512
-Prelude's "Mastermixes" Volume II - 1995 - https://api.discogs.com/masters/251742
-Dancefloor Classics Volume 3 - 1996 - https://api.discogs.com/releases/1029580
-Dance Dance Dance 2 - 1996 - https://api.discogs.com/releases/1799283
-The Best Of Soul Street Records - Keep On Movin' - 1996 - https://api.discogs.com/releases/1937652
-Mega Hits Disco Express Volume 1 - 1996 - https://api.discogs.com/releases/3068938
-S.I.N.®'s Radio CD Program Vol. III - 1996 - https://api.discogs.com/releases/13838323
-Hot Sound '96 - 1996 - https://api.discogs.com/releases/31132841
-Disco Inferno - 1996 - https://api.discogs.com/masters/3069446
-Thump'n Disco Quick Mixx - 1996 - https://api.discogs.com/masters/1259043
-Star-Funk Volume 12 - 1996 - https://api.discogs.com/masters/464936
-Dance N-R-G Vol. 5 - 1996 - https://api.discogs.com/masters/3030155
-The Best Of Lime Inc. - 1996 - https://api.discogs.com/masters/1209558
-The Best Of Dance Classics - Hits & Rarities - 1996 - https://api.discogs.com/masters/1149707
-We Got The Funk: Disco Classics - 1996 - https://api.discogs.com/masters/1018740
-The Dance Classic Showcase Vol. 6 - 1997 - https://api.discogs.com/releases/2370747
-The History Of Dance Volume One: 1978 - 1997 - https://api.discogs.com/releases/2572020
-Unidisc Sampler - 1997 - https://api.discogs.com/releases/2716009
-Dancefloor Classics - 1997 - https://api.discogs.com/releases/4116045
-Bootleg Dance Classics - 1997 - https://api.discogs.com/releases/4765888
-Disco Queens (The '70s) - 1997 - https://api.discogs.com/releases/6172380
-Mega Groove - 1997 - https://api.discogs.com/releases/13090688
-100% Rap Attack '97 - 1997 - https://api.discogs.com/releases/18155146
-Double D'Or Disco - 1997 - https://api.discogs.com/releases/22139476
-Charivari 95,5 Dance Classics - 1997 - https://api.discogs.com/releases/33617166
-Disco Fever - 1997 - https://api.discogs.com/masters/1604097
-Absolutely... The Very Best Of Prelude Records - 1997 - https://api.discogs.com/masters/2585765
-Can't Stop Dancing : Volume 1 - 1997 - https://api.discogs.com/masters/1706215
-Can't Stop Dancing : Volume 3 - 1997 - https://api.discogs.com/masters/1706237
-Jumpin' (Original Full Length Classics From The Disco Underground) - 1997 - https://api.discogs.com/masters/53685
-Ultimate Disco - 1998 - https://api.discogs.com/releases/4175690
-The Best Disco Album In The World...Ever! 2 - 1998 - https://api.discogs.com/releases/4738579
-Disco Nights - 1998 - https://api.discogs.com/releases/6190555
-Disco Fever - 1998 - https://api.discogs.com/releases/7848028
-Disco Mix - 1998 - https://api.discogs.com/releases/15308179
-Ultimate Disco Volume: 2 - 1998 - https://api.discogs.com/releases/19958104
-Night Fever - 60 Dancefloor Sensations - 1998 - https://api.discogs.com/releases/29582890
-Disco Nights Volume 2 - 1998 - https://api.discogs.com/masters/745015
-Mega Disco Funk Gold - 1998 - https://api.discogs.com/masters/1443988
-Carwash - 1998 - https://api.discogs.com/masters/307433
-Disco Fever - 1998 - https://api.discogs.com/masters/2450710
-Disco Nights Volume 1 - 1998 - https://api.discogs.com/masters/731964
-Dancemania Club Classics - 1999 - https://api.discogs.com/releases/939515
-The Best 100 Classic Dance Hits - 1999 - https://api.discogs.com/releases/4586563
-Classic Funk - 1999 - https://api.discogs.com/releases/4657045
-Por Fin Es Viernes 4  - 1999 - https://api.discogs.com/releases/8797669
-Moment Of My Life - Jocelyn Brown Anthology - 1999 - https://api.discogs.com/masters/1457665
-Disco Hits - 1999 - https://api.discogs.com/masters/428623
-The Disco Box - 1999 - https://api.discogs.com/masters/1546887
-Rare Preludes Volume 6 - 1999 - https://api.discogs.com/masters/201009
-One Shot Disco The Definitive Discollection - 1999 - https://api.discogs.com/masters/1717046
-Dancin' Days - 1999 - https://api.discogs.com/masters/1569095
-The All Time Greatest Disco Songs - 1999 - https://api.discogs.com/masters/2821490
-Studio 54 Vol. 3 - 2000 - https://api.discogs.com/releases/6155740
-The Best Disco In Town - 2000 - https://api.discogs.com/releases/19859476
-Hitmix 2000 - 2000 - https://api.discogs.com/releases/25752613
-Por Fin Es Viernes 5 - 2000 - https://api.discogs.com/masters/1949218
-Disco Box Vol. 5 - Discomania - 2000 - https://api.discogs.com/masters/3438863
-Disco Box Vol. 7 - Do It - 2000 - https://api.discogs.com/masters/3438968
-Sampled - 2000 - https://api.discogs.com/masters/910748
-Disco Box Vol. 11 - Dance Crazy - 2000 - https://api.discogs.com/masters/3439076
-Classic Mixes Vol. 1 - 2001 - https://api.discogs.com/releases/41726
-Spirit Of Disco - 2001 - https://api.discogs.com/releases/690116
-Red & Blue - Dance Compilation - 2001 - https://api.discogs.com/releases/2865862
-La Compile De Jean-Patrick Par Jean-Patrick - 2001 - https://api.discogs.com/releases/8413866
-Mes Soirées Disco N°4 - 2001 - https://api.discogs.com/releases/18771643
-Power Dance 3568 November 2001 - 2001 - https://api.discogs.com/releases/23921681
-Hot Hitz Video November 2001 - 2001 - https://api.discogs.com/releases/24005786
-U-mode May 2001 - 2001 - https://api.discogs.com/releases/24304031
-25 Ans De Disco - 2001 - https://api.discogs.com/masters/1470652
-Disco Breaks Mastercuts - 2001 - https://api.discogs.com/masters/53701
-Mastercuts Discothèque - 2002 - https://api.discogs.com/releases/313773
-80s Groove Sessions - 2002 - https://api.discogs.com/releases/1088962
-Dance Collection - Good Times - 2002 - https://api.discogs.com/releases/1746937
-Dance Collection - Anni '70 - 2002 - https://api.discogs.com/releases/1749010
-Monster Disco  - 2002 - https://api.discogs.com/releases/6253096
-Vinylmania  - 2002 - https://api.discogs.com/releases/11406581
-Disco - Vol. 2 - 2002 - https://api.discogs.com/releases/12945535
-Ultime Disco Funk - 2002 - https://api.discogs.com/releases/14158802
-Hits Of The 70's - 2002 - https://api.discogs.com/releases/19821490
-Box Dancin' Days - 2002 - https://api.discogs.com/releases/20149585
-Mega Disco - 2002 - https://api.discogs.com/releases/31750388
-Disco Heat - 2002 - https://api.discogs.com/masters/156171
-Disco Fever 2 - 2002 - https://api.discogs.com/masters/3117285
-Disco Fever Anthology - 2002 - https://api.discogs.com/masters/2880292
-One Shot Disco The Definitive Discollection Volume 5 - 2002 - https://api.discogs.com/masters/1047898
-Disco Classics - 2003 - https://api.discogs.com/releases/635843
-Grandmix - The Disco Edition 2 - 2003 - https://api.discogs.com/releases/1221740
-Boogie Nights (Classic Disco Anthems) - 2003 - https://api.discogs.com/releases/1334431
-Oxydance - 2003 - https://api.discogs.com/releases/2255568
-Let's Groove Again - 2003 - https://api.discogs.com/releases/4128829
-The Best Of The 70's - 2003 - https://api.discogs.com/releases/8929643
-Sounds Of The 70s - Hit Wonders - 2003 - https://api.discogs.com/releases/9738555
-Radioactive - Modern Rock Series February 2003 - 2003 - https://api.discogs.com/releases/29181493
-Flares - Feel Good Funk 'N' Disco - 2003 - https://api.discogs.com/masters/2925775
-DISCOinferno GOLD - 2003 - https://api.discogs.com/masters/3443954
-Privilege Winter Sensations 03 - 2003 - https://api.discogs.com/masters/2179843
-Disco Classics - 2004 - https://api.discogs.com/releases/1152453
-The Very Best Of Euphoric Disco Breakdown - 2004 - https://api.discogs.com/releases/1708726
-Disco Funk - 2004 - https://api.discogs.com/releases/2004232
-Party People Present: Ladies Night - 2004 - https://api.discogs.com/releases/6840295
-Boys Keep Swinging - 2005 - https://api.discogs.com/releases/1777785
-54 Volumen 2 - 2005 - https://api.discogs.com/releases/3069751
-Hot Party - 70 Classics Vol. 2 - 2005 - https://api.discogs.com/releases/10413051
-Disco 54 The Most Wanted Disco Tracks Ever - 2005 - https://api.discogs.com/releases/11093382
-Disco Nights Volume 4 - 2005 - https://api.discogs.com/masters/732219
-For DJ's Only 01 (Rare Extended Versions) - 2006 - https://api.discogs.com/releases/1481490
-Disco Club - The Finest Dancefloor Disco Tunes From 70's & 80's - 2006 - https://api.discogs.com/releases/1516313
-Disco Fever - I Love The Nightlife - 2006 - https://api.discogs.com/releases/2124316
-Hot Party - 70 Classics Vol. 3 - 2006 - https://api.discogs.com/releases/2125253
-Disco Funk - 2006 - https://api.discogs.com/releases/11486222
-Disco Fever - Could It Be Magic - 2006 - https://api.discogs.com/releases/12267073
-Disco Fever - Young Hearts Run Free - 2006 - https://api.discogs.com/releases/12730012
-30 Jaar Disco - 2006 - https://api.discogs.com/releases/17042340
-Les 100 Plus Grands Tubes Disco - 2006 - https://api.discogs.com/masters/1494704
-The Master Of The Masterpiece (The Very Best Of Mr. Patrick Adams) - 2006 - https://api.discogs.com/masters/81688
-Disco Fever - 2007 - https://api.discogs.com/releases/1319542
-100 Hits Disco - 2007 - https://api.discogs.com/releases/3369669
-Disco Funk - 2007 - https://api.discogs.com/releases/5585884
-Pure Disco Juice - 2007 - https://api.discogs.com/releases/11626520
-Disco - 2007 - https://api.discogs.com/releases/13970729
-A Musical Tribute To Ron Hardy - 2007 - https://api.discogs.com/releases/15841220
-Cosmo Galactic Prism - 2007 - https://api.discogs.com/masters/357465
-Vintage Grooves (Disco Volume 1) - 2007 - https://api.discogs.com/masters/671196
-Disco - 2008 - https://api.discogs.com/releases/1318664
-100% Disco - 2008 - https://api.discogs.com/releases/7640477
-Best Of Disco - 2008 - https://api.discogs.com/releases/9996153
-Greatest Ever! Disco (The Definitive Collection) - 2008 - https://api.discogs.com/releases/10169393
-Mega Disco - 2008 - https://api.discogs.com/releases/10863042
-Soul Sonic Boogie Classics Mix Vol,48 - 2008 - https://api.discogs.com/releases/25398166
-Ultimate Disco Party - 2008 - https://api.discogs.com/masters/903766
-Return To The Playboy Mansion - 2008 - https://api.discogs.com/masters/79592
-Saturday Night Club Classics - 2009 - https://api.discogs.com/releases/1990998
-100 Hits RTL - Disco Show - 2009 - https://api.discogs.com/releases/9892732
-Disco Lost Tunes - 2009 - https://api.discogs.com/releases/12145102
-Disco Attitude - 2009 - https://api.discogs.com/releases/18180076
-A Complete Introduction To Disco 1970 - 1980 - 2010 - https://api.discogs.com/releases/2617994
-Anthems Disco - 2010 - https://api.discogs.com/releases/3057843
-Soul, Funk & Disco Monsterjam (Volume Two) - 2010 - https://api.discogs.com/releases/10071558
-50 Greatest Songs of Disco Fever - 2010 - https://api.discogs.com/releases/11300988
-Party Hot II - Special Extended & Full Length Versions - 2010 - https://api.discogs.com/masters/1078211
-Anthems Collection - 2011 - https://api.discogs.com/releases/4346760
-We Love The Night Life - 2011 - https://api.discogs.com/releases/11984040
-The World's Biggest Happy Songs - 2011 - https://api.discogs.com/releases/13570532
-A Night To Remember - 2012 - https://api.discogs.com/releases/6051730
-Studio 55 - 2012 - https://api.discogs.com/releases/14337026
-Grand 12-Inches 10 - 2013 - https://api.discogs.com/releases/4686984
-Dance Classics - Pop Edition Vol. 11 - 2013 - https://api.discogs.com/releases/4695952
-WR 004 - 2013 - https://api.discogs.com/releases/4730319
-Commercial Collection 364 - 2013 - https://api.discogs.com/releases/5219836
-The Best Of Disco Lost Tunes - 2013 - https://api.discogs.com/releases/7374000
-DJ Essentials - Disco (Vol. 3) - 2013 - https://api.discogs.com/releases/11994028
-Disco (Les Plus Grands Tubes Disco) - 2013 - https://api.discogs.com/releases/13155890
-Pacha Ibiza: 40 Years 1973-2013 - 2013 - https://api.discogs.com/masters/1344355
-Last Night A DJ Saved My Life - 2014 - https://api.discogs.com/releases/5649117
-Disco Inferno - 2014 - https://api.discogs.com/releases/8049423
-Club Classics Monsterjam Vol. Three - 2015 - https://api.discogs.com/releases/6966845
-Grand 12-Inches 13 - 2015 - https://api.discogs.com/releases/7084069
-Disco (Classic Mixes) (Volume 2) - 2015 - https://api.discogs.com/releases/7470446
-Studio 54 : the legendary party grooves - 2015 - https://api.discogs.com/releases/13342922
-Rewind To The 80's 90's - 2015 - https://api.discogs.com/releases/32878254
-Mastermix Issue 363 - 2016 - https://api.discogs.com/releases/9021590
-Darkness Has Never Been So Bright - 2016 - https://api.discogs.com/releases/9491417
-Very Vinyl Medley - 2016 - https://api.discogs.com/releases/14863338
-Mastermix Issue 372 - 2017 - https://api.discogs.com/releases/10369626
-Seventies Anthems - 2018 - https://api.discogs.com/releases/11845298
-Commercial Collection 436 - May 2019 - 2019 - https://api.discogs.com/releases/13550269
-DMC - Disco Monsterjam (Volume 3) - 2019 - https://api.discogs.com/releases/14017407
-DMC - Disco Monsterjam (Volume 4) - 2019 - https://api.discogs.com/releases/14128977
-DMC - Commercial Collection 461 - June 2021 - 2021 - https://api.discogs.com/releases/18943765
-Now Boogie Nights: Disco Classics - 2021 - https://api.discogs.com/releases/20631469
-Boiler Room: The Blessed Madonna In London, Sep 4, 2021 - 2021 - https://api.discogs.com/releases/23809307
-Now Yearbook Extra '78 (66 More Essential Hits From 1978) - 2023 - https://api.discogs.com/releases/27342489
-DMC - Commercial Collection 489 - Oct 2023 - 2023 - https://api.discogs.com/releases/28530709
-NOW Presents Disco - 2023 - https://api.discogs.com/releases/29306545
-Dr Packer Remixes 4: 70s & 80s - Extended - 2024 - https://api.discogs.com/releases/34143025
-Disco Classics - I'm On Fire - Desconocido - https://api.discogs.com/releases/1453664
-Supersoul - Desconocido - https://api.discogs.com/releases/5997003
-That's American Disco Sound - Desconocido - https://api.discogs.com/releases/6303266
-Disco Hitmix - Feel The Fever 1 - Desconocido - https://api.discogs.com/releases/8168463
-Sound Stars - Sounds With Like - Desconocido - https://api.discogs.com/releases/8359735
-Disco - Desconocido - https://api.discogs.com/releases/10593302
-Feel The Fever Of The 80's - Desconocido - https://api.discogs.com/releases/13280696
-MCA Music - Desconocido - https://api.discogs.com/releases/15877519
-Club Disco - Originals Saturday Night - Desconocido - https://api.discogs.com/releases/15983719
-Alejandro Pont Lezica Vol III - Desconocido - https://api.discogs.com/releases/19134085
-Disco Hits Volume 1 - Desconocido - https://api.discogs.com/releases/21533425
-Retro Sweet - Desconocido - https://api.discogs.com/releases/22280083
-Disco Fever Volumes 1 & 2 - Desconocido - https://api.discogs.com/releases/22635413
-Get Rhythm - Desconocido - https://api.discogs.com/releases/30045064
-Flashy Decadence - Desconocido - https://api.discogs.com/releases/32972283
-Keep On Jumpin' - 1978 - https://api.discogs.com/masters/49207
-In The Bush - 1978 - https://api.discogs.com/masters/192777
-The Greatest Mixers - Disco Decade - 1979 - https://api.discogs.com/releases/1358302
-Hollywood-2 \ Village People Mix - 1979 - https://api.discogs.com/masters/115857
-Buena Onda - 1980 - https://api.discogs.com/releases/1701351
-Hollywood-4 - 1980 - https://api.discogs.com/masters/732681
-Remix By Mach (Party / Disco Brake) - 1980 - https://api.discogs.com/masters/260756
-Another One Madly '81 / Disco Tops (Part 1 & 2) - 1981 - https://api.discogs.com/releases/1667176
-Stop - 1981 - https://api.discogs.com/releases/1697176
-Volume 1, Program 2 - 1985 - https://api.discogs.com/masters/601413
-Classic Disco Dance - 1987 - https://api.discogs.com/releases/4094454
-World Dance Wold Vol 2 - 1994 - https://api.discogs.com/releases/11882454
-Dance Revival - 1995 - https://api.discogs.com/releases/13120056
-Dance Mission Vol. 3 - 1996 - https://api.discogs.com/releases/12362059
-20 Non Stop Old School - High Energy Mix - 1997 - https://api.discogs.com/masters/1259043
-Disco Box Vol. 5 - Discomania - 2000 - https://api.discogs.com/masters/3438863
-Disco Box Vol. 7 - Do It - 2000 - https://api.discogs.com/masters/3438968
-Disco Box Vol. 11 - Dance Crazy - 2000 - https://api.discogs.com/masters/3439076
-In Станция 2000 Mix 2 - 2002 - https://api.discogs.com/releases/32927490
-Best Of Musique - Volume 1 - 2004 - https://api.discogs.com/releases/297857
-Musique II - 2005 - https://api.discogs.com/masters/49217
-U Jump / Chicken Jumpin' - 2006 - https://api.discogs.com/releases/737164
-The Sunshine Years 1977-1982 - 2007 - https://api.discogs.com/releases/1152362
-Secret Mixes Fixes Vol. 8 - The Bathhouse Etiquette EP - 2008 - https://api.discogs.com/releases/1212481
-Return To The Playboy Mansion - 2008 - https://api.discogs.com/masters/79592
-Ms. Lady B Noir And L4D Present: Dirty Disco 69 - 2009 - https://api.discogs.com/releases/1949430
-Disconet Greatest Hits Volume 24 - 2009 - https://api.discogs.com/releases/6746506
-Disconet Greatest Hits Volume 01 - 27 - 2009 - https://api.discogs.com/releases/6747884
-A Night At Studio IMD - 2019 - https://api.discogs.com/masters/571155
-The Prelude Master Mix Series – Volume Four - Desconocido - https://api.discogs.com/releases/541270
-Untitled - Desconocido - https://api.discogs.com/releases/2548654
-Smylonylon 26 - Desconocido - https://api.discogs.com/releases/2659847
-Back In The Day Volume One - Desconocido - https://api.discogs.com/releases/3675410
-The Best Dance Trax 15 - Desconocido - https://api.discogs.com/releases/11306339
-The Real Deal - Desconocido - https://api.discogs.com/masters/632035
-Classic Medley - Desconocido - https://api.discogs.com/masters/321399
-Pure Disco - Desconocido - https://api.discogs.com/masters/318916
+Outbreak EP - 2011 - https://api.discogs.com/releases/4976761
+DD#1 - 2012 - https://api.discogs.com/releases/3756045
+2x2 EP - 2012 - https://api.discogs.com/releases/4095735
+F.1 EP - 2012 - https://api.discogs.com/releases/11972928
+Intruder EP - 2012 - https://api.discogs.com/releases/11972936
+X - 2012 - https://api.discogs.com/masters/479698
+Brood Remixes02: Yan Cook Remixed - 2012 - https://api.discogs.com/masters/1360375
+Spiegeln EP - 2013 - https://api.discogs.com/releases/5091897
+W - 2013 - https://api.discogs.com/releases/11972868
+Drag Me - 2013 - https://api.discogs.com/releases/11972919
+Jammed / Kosmos - 2013 - https://api.discogs.com/releases/12019261
+Mutual Exceptions - 2013 - https://api.discogs.com/masters/738005
+Alptraum EP - 2013 - https://api.discogs.com/masters/3141351
+Morse EP - 2014 - https://api.discogs.com/masters/778651
+Deformer EP - 2014 - https://api.discogs.com/masters/1055311
+Melter EP - 2014 - https://api.discogs.com/masters/1831249
+Gravity EP - 2014 - https://api.discogs.com/masters/777951
+Berg EP - 2014 - https://api.discogs.com/masters/845677
+Essential Wave EP - 2014 - https://api.discogs.com/masters/670326
+Dead End EP - 2015 - https://api.discogs.com/masters/2829464
+Alpha / Sigma EP - 2015 - https://api.discogs.com/masters/3138969
+Shift EP - 2015 - https://api.discogs.com/masters/1055312
+Inverted EP - 2015 - https://api.discogs.com/masters/1360373
+Heat EP - 2015 - https://api.discogs.com/masters/2832887
+XX - 2016 - https://api.discogs.com/masters/1170219
+Loophole EP - 2016 - https://api.discogs.com/masters/1068791
+Hidden Message - 2017 - https://api.discogs.com/releases/10684348
+Magnesia - 2017 - https://api.discogs.com/masters/1216900
+Razor Sharp - 2017 - https://api.discogs.com/masters/1925778
+Arrival EP - 2017 - https://api.discogs.com/masters/1168672
+Old Friend EP - 2017 - https://api.discogs.com/masters/1199406
+Dialogue - 2017 - https://api.discogs.com/masters/1262534
+Drifted Island EP - 2017 - https://api.discogs.com/masters/1246436
+Wide Angle EP - 2018 - https://api.discogs.com/releases/11861792
+Toxin EP - 2018 - https://api.discogs.com/releases/12359428
+Dead Satellite - 2018 - https://api.discogs.com/releases/12727674
+Invisible Force EP - 2018 - https://api.discogs.com/masters/1828903
+Perfect Mess EP - 2018 - https://api.discogs.com/masters/1404492
+Graphite EP - 2018 - https://api.discogs.com/masters/1330301
+Freedive EP - 2019 - https://api.discogs.com/releases/13534704
+Miles Below The Surface - 2019 - https://api.discogs.com/releases/13876247
+Somatic - 2019 - https://api.discogs.com/releases/14630870
+Hammerhead - 2019 - https://api.discogs.com/masters/1791446
+Counterclockwise EP - 2020 - https://api.discogs.com/releases/14887378
+88 Mph - 2020 - https://api.discogs.com/releases/24551699
+Lullaby - 2020 - https://api.discogs.com/releases/27514158
+Inferno EP - 2020 - https://api.discogs.com/masters/1889463
+Blades EP - 2021 - https://api.discogs.com/releases/17647240
+Echus Chasma EP - 2021 - https://api.discogs.com/releases/18409897
+106.11 - 2021 - https://api.discogs.com/releases/20386102
+Unreleased [Raw]  - 2021 - https://api.discogs.com/releases/20943937
+Unreleased [Melodic]  - 2021 - https://api.discogs.com/releases/20944264
+Unreleased [Dub]  - 2021 - https://api.discogs.com/releases/20961490
+Antimatter EP - 2021 - https://api.discogs.com/releases/21126634
+Cold Spots - 2021 - https://api.discogs.com/masters/2027419
+LTD 20 - 2021 - https://api.discogs.com/masters/2409553
+LTD 10 - 2021 - https://api.discogs.com/masters/2409571
+Mirror Maze - 2022 - https://api.discogs.com/releases/24410930
+XXX LP - 2022 - https://api.discogs.com/masters/2789672
+PRRUKBLK20.24 - 2023 - https://api.discogs.com/masters/3163512
+Distorted Memories - 2023 - https://api.discogs.com/masters/3738270
+Collateral Damage - 2023 - https://api.discogs.com/masters/3312439
+Hydraulic EP - 2024 - https://api.discogs.com/releases/29599960
+Liminal Space - 2024 - https://api.discogs.com/masters/3627554
+Freak Show EP - 2024 - https://api.discogs.com/masters/3528230
+Nocturnal EP - 2024 - https://api.discogs.com/masters/3538342
+Equinox EP - 2025 - https://api.discogs.com/releases/34408975
+Eyes Adjust To The Dark - 2025 - https://api.discogs.com/masters/3731415
+Illusions EP - 2011 - https://api.discogs.com/releases/4976765
+Black Shapes EP - 2011 - https://api.discogs.com/releases/5640187
+The Bane EP - 2012 - https://api.discogs.com/releases/3638503
+Displaced Remixes - 2012 - https://api.discogs.com/releases/3754530
+Four EP - 2012 - https://api.discogs.com/releases/4857759
+Hysteria EP - 2012 - https://api.discogs.com/releases/4971364
+Gamma EP - Part II - 2012 - https://api.discogs.com/releases/14628558
+Dark Shade / Brain Revolution - 2013 - https://api.discogs.com/releases/4417030
+Erratic Podcast 43 - 2013 - https://api.discogs.com/releases/4892332
+Kaparezz EP - 2013 - https://api.discogs.com/releases/9733955
+Dark Shade EP - 2013 - https://api.discogs.com/releases/9797028
+Recycled Tracks Pt. 4 - 2013 - https://api.discogs.com/masters/631076
+Out Of Hell - 2013 - https://api.discogs.com/masters/2616188
+Analog Series Remixes Ep  - 2014 - https://api.discogs.com/masters/3141405
+Läuft. Weiter! - 2014 - https://api.discogs.com/masters/1536448
+Fernweh (Remixes Two) - 2015 - https://api.discogs.com/masters/977593
+Binary Shift Remixes - 2015 - https://api.discogs.com/masters/796118
+Storm Coming EP - 2017 - https://api.discogs.com/releases/10682537
+Repetitive Music Remixed #3 - 2017 - https://api.discogs.com/releases/10682700
+8 Bit Lullaby - 2017 - https://api.discogs.com/releases/10943798
+Repetitive Music Remixes - 2017 - https://api.discogs.com/releases/11276414
+Broken Knives & Pinkies - 2018 - https://api.discogs.com/releases/11572532
+Visualise The Future EP - 2019 - https://api.discogs.com/releases/13923145
+Dual - 2019 - https://api.discogs.com/releases/14348283
+Untitled - 2019 - https://api.discogs.com/releases/15180783
+Modular Expansion Podcast #122 - 2020 - https://api.discogs.com/releases/16051602
+Clash Of Titans - 2022 - https://api.discogs.com/releases/22217491
+Best Of Sleaze Vol. 14 - 2022 - https://api.discogs.com/releases/30016327
+Special 10 Year Anniversary Edition - 2019 - https://api.discogs.com/masters/1562547
+Zork - 2012 - https://api.discogs.com/releases/11357710
+Special 10 Year Anniversary Edition - 2019 - https://api.discogs.com/masters/1562547
+Kalia - 2020 - https://api.discogs.com/releases/15289711
+Mindset - 2021 - https://api.discogs.com/releases/20925106
+Horizon  - 2021 - https://api.discogs.com/releases/23829890
+Pax Aurora - 2021 - https://api.discogs.com/masters/2486596
+Target EP - 2022 - https://api.discogs.com/releases/32088570
+Vibrate LP - 2022 - https://api.discogs.com/releases/32088690
+Unprocessed EP - 2022 - https://api.discogs.com/releases/32088744
+Deep In Your Mind EP - 2022 - https://api.discogs.com/releases/32088792
+Good Omen LP - 2022 - https://api.discogs.com/releases/32089152
+Various Artists Presented By: E-HRZN Records - 2022 - https://api.discogs.com/releases/32089230
+Primal Instincts EP - 2022 - https://api.discogs.com/masters/3747864
+Primary Funktion LP - 2023 - https://api.discogs.com/releases/32087385
+Virtus EP - 2023 - https://api.discogs.com/releases/32087433
+The Illusion Of Lust EP - 2023 - https://api.discogs.com/releases/32087472
+115 EP - 2023 - https://api.discogs.com/releases/32088510
+E-HRZN Presents: Various Artists 002 - 2023 - https://api.discogs.com/releases/32089248
+The Observer EP - 2023 - https://api.discogs.com/releases/33099117
+The Painful Quest Of Denji LP - 2024 - https://api.discogs.com/releases/32064177
+Invasion EP - 2024 - https://api.discogs.com/releases/32086536
+Carrera EP - 2024 - https://api.discogs.com/releases/32086605
+Emotionally Naked - 2024 - https://api.discogs.com/releases/32086632
+Ávila EP - 2024 - https://api.discogs.com/releases/32087103
+Ohh, Really EP - 2024 - https://api.discogs.com/releases/32087178
+Meet Me In Madrid EP - 2024 - https://api.discogs.com/releases/32087337
+Take It From Here EP - 2024 - https://api.discogs.com/releases/32217861
+Brood Techno 01 - 2011 - https://api.discogs.com/releases/4976770
+Brood Techno02 - Brood Collaborations - 2012 - https://api.discogs.com/masters/486409
+Erratic Podcast 43 - 2013 - https://api.discogs.com/releases/4892332
+Podcast 353 - 2014 - https://api.discogs.com/releases/6188082
+CLR Podcast 301 - 2014 - https://api.discogs.com/releases/6387479
+Erratic Podcast 79 - 2014 - https://api.discogs.com/releases/7730573
+TresorCast 007 - 2014 - https://api.discogs.com/releases/12420575
+ Jon Hussey – Monument 51 - 2014 - https://api.discogs.com/releases/17008017
+Frag System - 2014 - https://api.discogs.com/releases/25994596
+Läuft. Weiter! - 2014 - https://api.discogs.com/masters/1536448
+Sonorous Episode #14 - 2015 - https://api.discogs.com/releases/6730739
+6th Anniversary - 2015 - https://api.discogs.com/releases/6929903
+Ground-Fault-Interrupt Volume 1 / Part 1 - 2015 - https://api.discogs.com/releases/7085015
+NovaFuture Blog Mix May 2015 - 2015 - https://api.discogs.com/releases/7105399
+NovaFuture Blog Mix April 2015 - 2015 - https://api.discogs.com/releases/7344765
+PoleGroup Radio 12.06 - 2015 - https://api.discogs.com/releases/7708221
+Erratic Podcast 100 - 2015 - https://api.discogs.com/releases/7732023
+Death Techno 110 - 2015 - https://api.discogs.com/releases/12090524
+The Bunker Podcast 097 - 2015 - https://api.discogs.com/releases/12281676
+Nightshade #2 - 2015 - https://api.discogs.com/releases/12578108
+Mega Blocks, Mega Highways - 2015 - https://api.discogs.com/releases/26313764
+Living In The Ruin Of The Old World - 2015 - https://api.discogs.com/releases/26484320
+How To Hack The Future - 2015 - https://api.discogs.com/releases/26484332
+Ready For Domination - 2015 - https://api.discogs.com/releases/26676302
+Ground-Fault-Interrupt Vol. 1 - 2015 - https://api.discogs.com/masters/2784287
+Dnepr_Vancouver 1.0 - 2015 - https://api.discogs.com/masters/926665
+Ant On A Rubber Rope EP - 2015 - https://api.discogs.com/masters/823414
+FACT Mix 532 - 2016 - https://api.discogs.com/releases/11540410
+Curated by DSH #019 - 2016 - https://api.discogs.com/releases/12826796
+#048: Wax Treatment Podcast - 2016 - https://api.discogs.com/releases/15198704
+Planet Rhythm 2015 Compilation - 2016 - https://api.discogs.com/releases/15405862
+A Completion Of Three - 2016 - https://api.discogs.com/releases/27480675
+Acid Planet EP - 2016 - https://api.discogs.com/masters/2821028
+Politics Of Greed EP - 2016 - https://api.discogs.com/masters/1037260
+Curated by DSH #028 - 2017 - https://api.discogs.com/releases/11952148
+Santario #15 (10.02.17) - 2017 - https://api.discogs.com/releases/18316738
+Dia Cero - 2018 - https://api.discogs.com/releases/11434673
+Parabel Podcast 32 - 2018 - https://api.discogs.com/releases/12261529
+Delsin Records - Best Of 2018 - 2018 - https://api.discogs.com/releases/12973334
+Kingphisher EP - 2018 - https://api.discogs.com/masters/1307284
+Shellshock EP - 2018 - https://api.discogs.com/masters/1457049
+PRRUKRECAP2018 - 2018 - https://api.discogs.com/masters/2402374
+Further Memories II - 2018 - https://api.discogs.com/masters/2319568
+Herdersmat (Part 19-22)  - 2018 - https://api.discogs.com/masters/1474812
+Evidence Based Vol IV - 2019 - https://api.discogs.com/releases/14227768
+Those Who Dare EP Vol. 1 - 2019 - https://api.discogs.com/releases/14409616
+Planet Rhythm 2019 - 2019 - https://api.discogs.com/releases/14671913
+Arts Compilation 2019 - 2019 - https://api.discogs.com/releases/24760307
+From the Vault Pt. V - 2019 - https://api.discogs.com/masters/2601860
+Grizzly EP - 2019 - https://api.discogs.com/masters/2818214
+Dark Techno Sessions Part 45 - 2020 - https://api.discogs.com/releases/16076451
+Best Of 2020 - 2020 - https://api.discogs.com/releases/24940045
+Hourglass EP - 2020 - https://api.discogs.com/masters/2149837
+Ellen Allien Presents We Are Not Alone, Pt. 1  - 2020 - https://api.discogs.com/masters/3604697
+106.11 - 2021 - https://api.discogs.com/releases/19640368
+Stone Techno Series - Cubic EP  - 2021 - https://api.discogs.com/releases/20079112
+Various Artists II - 2021 - https://api.discogs.com/releases/24388007
+Uncod3d - 2021 - https://api.discogs.com/releases/32632041
+Best Of Delsin Records 2022 - 2022 - https://api.discogs.com/releases/27046690
+Planet Rhythm Recap 2022 - 2022 - https://api.discogs.com/releases/32078052
+Best Of Delsin Records 2023 - 2023 - https://api.discogs.com/releases/29272423
+Treadwheel 01 - 2024 - https://api.discogs.com/releases/29807377
+HI - 2024 - https://api.discogs.com/releases/30685882
