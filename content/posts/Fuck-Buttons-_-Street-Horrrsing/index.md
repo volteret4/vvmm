@@ -4,50 +4,47 @@ date: 2025-06-26T22:20:35+02:00
 image: "image.jpeg"
 draft: false
 tags:
- - Street-Horrrsing
- - noise
- - drone
- - experimental
- #- tagE
+  - noise
+  - drone
+  - experimental
+  #- tagE
 ---
-![cover](image.jpeg (Fuck-Buttons - Street-Horrrsing))
- 
-[![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/8267)
-[![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Fuck-Buttons/Street-Horrrsing)
-[![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2U3XrrPNxhADr4YNS9KcPT)
-[![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLoVQSPhAgWlfjfADp0abB5nAUMG0gl-gK)
- 
+
+![cover](image.jpeg "Fuck-Buttons - Street-Horrrsing")
+
+[![discogs](../links/svg/discogs.png "discogs")](https://www.discogs.com/master/8267)
+[![lastfm](../links/svg/lastfm.png "lastfm")](https://www.last.fm/music/Fuck-Buttons/Street-Horrrsing)
+[![spotify](../links/svg/spotify.png "putify")](https://open.spotify.com/album/2U3XrrPNxhADr4YNS9KcPT)
+[![youtube](../links/svg/youtube.png "youtube")](https://www.youtube.com/playlist?list=PLoVQSPhAgWlfjfADp0abB5nAUMG0gl-gK)
+
 <!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))](error) error busqueda -->
 <!-- [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]() -->
 <!-- [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error) -->
- 
+
 > Información del álbum facilitada por discogs.com:
-> 
+>
 > **Fecha de lanzamiento**: 2008
-> 
+>
 > **Géneros**: Electronic
-> 
+>
 > **Estilos**: Noise, Drone, Experimental
-> 
+>
 > **Pais:** Germany
-> 
+>
 > **Votos:** Media de 4.5 con 4 votos
-> 
+>
 > **Sello:** Jazzanova Records
-> 
-> 
-> 
+>
 > **Tracklist:**
-> 
->   A1. Sweet Love For Planet Earth    
-> 
->   A2. Ribs Out    
-> 
->   B. Ok, Let's Talk About Magic    
-> 
->   C. Race You To My Bedroom / Spirit Rise    
-> 
->   D1. Bright Tomorrow    
-> 
->   D2. Colours Move    
-> 
+>
+> A1. Sweet Love For Planet Earth
+>
+> A2. Ribs Out
+>
+> B. Ok, Let's Talk About Magic
+>
+> C. Race You To My Bedroom / Spirit Rise
+>
+> D1. Bright Tomorrow
+>
+> D2. Colours Move
