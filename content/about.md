@@ -8,8 +8,6 @@ weight: 3
 
 _Actualizado el 09-07-2025_
 
-[test](https://open.spotify.com/playlist/2GJoUqVjsgW737baE5q6IF) eteme
-
 [Cantadas](https://open.spotify.com/playlist/7gbqRr6cigPuAJY4BOjjiJ) ylist creada el 22&#x2F;05&#x2F;2025 con spotify_add_song.py
 
 [Happy Times](https://open.spotify.com/playlist/2wqa8YV84z9Th1DFuJz5Ls) ylist creada el 21&#x2F;05&#x2F;2025 con spotify_add_song.py

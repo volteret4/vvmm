@@ -5,7 +5,8 @@ title = 'vvmm'
 theme = 'm10c'
 staticDir = ['static']
 
-
+[pagination]
+  pagerSize = 15
 
 [menu]
   [[menu.main]]
@@ -46,6 +47,10 @@ staticDir = ['static']
   description = 'descubrimientos sonoros'
   menu_item_separator = " - "
   avatar = 'avatar.jpg'
+  [[params.social]]
+    icon = "brand-github"
+    name = "Github"
+    url = "https://github.com/volteret4"
 #  columns = 2
 #  mainSections = ["posts"]
 #  dateFormat = "January 02, 2006"
@@ -67,3 +72,10 @@ staticDir = ['static']
 #    url = "https://github.com/volteret4"
 
 
+# Green theme
+[params.style]
+  darkestColor = "#1a1a22"
+  darkColor = "#1f1f28"
+  lightColor = "#96a879"
+  lightestColor = "#fff"
+  primaryColor = "#dad865"
