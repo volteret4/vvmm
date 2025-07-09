@@ -6,24 +6,24 @@ theme = 'hugo-theme-m10c'
 staticDir = ['static']
 
 [pagination]
-  pagerSize = 15
+    pagerSize = 15
 
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "discos"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = 'tags'
-    name = "generos"
-    url = "/tags/"
-    weight= 2
-  [[menu.main]]
-    identifier = "coleccion"
-    name = "colección"
-    url = "/coleccion/"
-    weight = 3
+    [[menu.main]]
+        identifier = "home"
+        name = "discos"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = 'tags'
+        name = "generos"
+        url = "/tags/"
+        weight= 2
+    [[menu.main]]
+        identifier = "coleccion"
+        name = "colección"
+        url = "/coleccion/"
+        weight = 3
 
 #[menu]
 #  [[menu.main]]
@@ -43,14 +43,14 @@ staticDir = ['static']
 
 [params]
 #  mode = 'dark'
-  author = 'pollo'
-  description = 'descubrimientos sonoros'
-  menu_item_separator = " - "
-  avatar = 'avatar.jpg'
-  [[params.social]]
-    icon = "brand-github"
-    name = "Github"
-    url = "https://github.com/volteret4"
+    author = 'pollo'
+    description = 'descubrimientos sonoros'
+    menu_item_separator = " - "
+    avatar = 'avatar.jpg'
+    [[params.social]]
+        icon = "brand-github"
+        name = "Github"
+        url = "https://github.com/volteret4"
 #  columns = 2
 #  mainSections = ["posts"]
 #  dateFormat = "January 02, 2006"
@@ -74,8 +74,13 @@ staticDir = ['static']
 
 # Green theme
 [params.style]
-  darkestColor = "#1a1a22"
-  darkColor = "#1f1f28"
-  lightColor = "#a06d9c"
-  lightestColor = "#fff"
-  primaryColor = "#caa5f6"
+    darkestColor = "#1a1a22"
+    darkColor = "#1f1f28"
+    lightColor = "#a06d9c"
+    lightestColor = "#fff"
+    primaryColor = "#caa5f6"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
