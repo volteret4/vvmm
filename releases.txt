@@ -1,6 +1,0 @@
-Listado de releases del artista:
-Disco Jazz - 1982 - https://api.discogs.com/masters/1136324
-Disco Jazz - 2022 - https://api.discogs.com/masters/2867425
-Piccadilly Records Sampler 2019 - 2019 - https://api.discogs.com/releases/14503960
-Disco Jazz Rework (Visions & Edits) - 2017 - https://api.discogs.com/masters/1293178
-Disco Jazz - 2017 - https://api.discogs.com/masters/1136324
