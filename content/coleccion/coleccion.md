@@ -1,5 +1,5 @@
 ---
-title: "Colección de Discos 09-07-2025"
+title: "coleccion"
 date: 2025-07-09T16:14:34
 tags:
   - coleccion
@@ -1071,7 +1071,7 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 
 ---
 
-## Hollie Kenniff - The Quiet Drift 
+## Hollie Kenniff - The Quiet Drift
 
 <div style="display: flex; margin-bottom: 2rem; gap: 1rem;">
   <div style="flex-shrink: 0; width: 150px;">
@@ -1405,7 +1405,7 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 
 ---
 
-## Mogwai - As The Love Continues 
+## Mogwai - As The Love Continues
 
 <div style="display: flex; margin-bottom: 2rem; gap: 1rem;">
   <div style="flex-shrink: 0; width: 150px;">
@@ -1532,7 +1532,7 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 
 ---
 
-## Tim Tama - Wave Of Nostalgia EP 
+## Tim Tama - Wave Of Nostalgia EP
 
 <div style="display: flex; margin-bottom: 2rem; gap: 1rem;">
   <div style="flex-shrink: 0; width: 150px;">
@@ -2200,7 +2200,7 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 
 ---
 
-## Dolly Parton - 9 To 5 
+## Dolly Parton - 9 To 5
 
 <div style="display: flex; margin-bottom: 2rem; gap: 1rem;">
   <div style="flex-shrink: 0; width: 150px;">
@@ -2644,7 +2644,7 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 
 ---
 
-## Tom Jones - Delilah 
+## Tom Jones - Delilah
 
 <div style="display: flex; margin-bottom: 2rem; gap: 1rem;">
   <div style="flex-shrink: 0; width: 150px;">
@@ -2818,7 +2818,7 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 
 ---
 
-## MC Hammer - Please Hammer  Don't Hurt 'Em
+## MC Hammer - Please Hammer Don't Hurt 'Em
 
 <div style="display: flex; margin-bottom: 2rem; gap: 1rem;">
   <div style="flex-shrink: 0; width: 150px;">
@@ -2912,4 +2912,3 @@ Esta es mi colección personal de discos obtenida desde [Discogs](https://www.di
 </div>
 
 ---
-
