@@ -6,8 +6,29 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 09 Jul 2025 16:26:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 16:35:23 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disco</title>
+      <link>/tags/disco/</link>
+      <pubDate>Wed, 09 Jul 2025 16:35:23 +0200</pubDate>
+      <guid>/tags/disco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funk</title>
+      <link>/tags/funk/</link>
+      <pubDate>Wed, 09 Jul 2025 16:35:23 +0200</pubDate>
+      <guid>/tags/funk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soul</title>
+      <link>/tags/soul/</link>
+      <pubDate>Wed, 09 Jul 2025 16:35:23 +0200</pubDate>
+      <guid>/tags/soul/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ambient</title>
       <link>/tags/ambient/</link>
@@ -51,20 +72,6 @@
       <description></description>
     </item>
     <item>
-      <title>Disco</title>
-      <link>/tags/disco/</link>
-      <pubDate>Wed, 09 Jul 2025 15:31:40 +0200</pubDate>
-      <guid>/tags/disco/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Funk</title>
-      <link>/tags/funk/</link>
-      <pubDate>Wed, 09 Jul 2025 15:31:40 +0200</pubDate>
-      <guid>/tags/funk/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Fusion</title>
       <link>/tags/fusion/</link>
       <pubDate>Wed, 09 Jul 2025 15:31:40 +0200</pubDate>
@@ -104,13 +111,6 @@
       <link>/tags/rock/</link>
       <pubDate>Tue, 08 Jul 2025 14:25:32 +0200</pubDate>
       <guid>/tags/rock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soul</title>
-      <link>/tags/soul/</link>
-      <pubDate>Thu, 03 Jul 2025 23:01:49 +0200</pubDate>
-      <guid>/tags/soul/</guid>
       <description></description>
     </item>
     <item>
@@ -258,20 +258,6 @@
       <link>/tags/glitch/</link>
       <pubDate>Sun, 26 Jan 2025 17:53:45 +0100</pubDate>
       <guid>/tags/glitch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coleccion</title>
-      <link>/tags/coleccion/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/coleccion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Discogs</title>
-      <link>/tags/discogs/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/discogs/</guid>
       <description></description>
     </item>
     <item>
@@ -429,10 +415,10 @@
       <description></description>
     </item>
     <item>
-      <title>Rhytm-and-Blues</title>
-      <link>/tags/rhytm-and-blues/</link>
+      <title>Rhythm-and-Blues</title>
+      <link>/tags/rhythm-and-blues/</link>
       <pubDate>Thu, 20 Jun 2024 19:31:21 +0200</pubDate>
-      <guid>/tags/rhytm-and-blues/</guid>
+      <guid>/tags/rhythm-and-blues/</guid>
       <description></description>
     </item>
     <item>
@@ -450,13 +436,6 @@
       <description></description>
     </item>
     <item>
-      <title>Rhythm-and-Blues</title>
-      <link>/tags/rhythm-and-blues/</link>
-      <pubDate>Thu, 20 Jun 2024 17:11:52 +0200</pubDate>
-      <guid>/tags/rhythm-and-blues/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Trihop</title>
       <link>/tags/trihop/</link>
       <pubDate>Thu, 20 Jun 2024 13:22:04 +0200</pubDate>
@@ -464,10 +443,10 @@
       <description></description>
     </item>
     <item>
-      <title>Rock_progresivo</title>
-      <link>/tags/rock_progresivo/</link>
+      <title>Rock-Progresivo</title>
+      <link>/tags/rock-progresivo/</link>
       <pubDate>Thu, 20 Jun 2024 13:12:35 +0200</pubDate>
-      <guid>/tags/rock_progresivo/</guid>
+      <guid>/tags/rock-progresivo/</guid>
       <description></description>
     </item>
     <item>
