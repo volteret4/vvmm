@@ -1,80 +1,19 @@
 Listado de releases del artista:
-Learning - 2010 - https://api.discogs.com/masters/264975
-Mr. Peterson - 2010 - https://api.discogs.com/masters/1007337
-Dark Parts - 2012 - https://api.discogs.com/releases/3693803
-Take Me Home - 2012 - https://api.discogs.com/releases/4247097
-Rusty Chains - 2012 - https://api.discogs.com/releases/5723592
-Hood - 2012 - https://api.discogs.com/releases/7283515
-Put Your Back N 2 It - 2012 - https://api.discogs.com/masters/416585
-Grid - 2014 - https://api.discogs.com/releases/6754990
-Queen - 2014 - https://api.discogs.com/releases/6755018
-Too Bright - 2014 - https://api.discogs.com/masters/736428
-No Shape - 2017 - https://api.discogs.com/masters/1173559
-Slip Away - 2017 - https://api.discogs.com/masters/2936053
-Reshaped - 2018 - https://api.discogs.com/releases/12121725
-W Records x Perfume Genius - 2018 - https://api.discogs.com/releases/13741461
-Eye In The Wall - 2019 - https://api.discogs.com/releases/14130709
-Pop Song - 2019 - https://api.discogs.com/releases/14288614
-W Records Volume 1 - 2019 - https://api.discogs.com/releases/14943384
-When I'm With Him (Perfume Genius Cover) - 2019 - https://api.discogs.com/releases/31962359
-On The Floor (Initial Talk Remix) - 2020 - https://api.discogs.com/releases/20399935
-Set My Heart On Fire Immediately - 2020 - https://api.discogs.com/masters/1738432
-Immediately Remixes - 2021 - https://api.discogs.com/masters/2169088
-Ugly Season - 2022 - https://api.discogs.com/masters/2681414
-Smalltown Boy - 2024 - https://api.discogs.com/masters/33841
-Glory - 2025 - https://api.discogs.com/masters/3794427
-Good Ones (Perfume Genius Remix) - 2021 - https://api.discogs.com/masters/2326771
-Christmas Heart Throbs - 2012 - https://api.discogs.com/releases/6844111
-C0UNT3RF31T5 - 2013 - https://api.discogs.com/releases/6989719
-Mug Museum - 2013 - https://api.discogs.com/masters/622764
-Folkadelphia Session 6/13/2014 - 2014 - https://api.discogs.com/releases/12219352
-Chaleur Humaine - 2014 - https://api.discogs.com/masters/706804
-Christine And The Queens EP  - 2015 - https://api.discogs.com/releases/8048467
-Live Au Zenith De Lille - 2015 - https://api.discogs.com/releases/8994504
-Christine And The Queens - 2015 - https://api.discogs.com/masters/917570
-Darkness And Light - 2016 - https://api.discogs.com/masters/1099240
-I Am Not An Easy Man (Original Music From The Netflix Film) - 2018 - https://api.discogs.com/releases/16605285
-This Is A Mindfulness Drill - 2021 - https://api.discogs.com/masters/2254747
-Fun House - 2021 - https://api.discogs.com/masters/2348623
-The Space Between - 2022 - https://api.discogs.com/releases/32069955
-Cool It Down - 2022 - https://api.discogs.com/masters/2797622
-The Space Between - 2022 - https://api.discogs.com/masters/2853436
-Bastard Jargon - 2023 - https://api.discogs.com/masters/3103485
-A Love You Cannot Shake - 2024 - https://api.discogs.com/releases/32237469
-The Age Of Consent - 2024 - https://api.discogs.com/masters/33859
-Matador At 21 - 2010 - https://api.discogs.com/releases/2505849
-Matador At 21 - 2010 - https://api.discogs.com/releases/2575731
-TheUnfound.com Mixtape Vol.3 - 2010 - https://api.discogs.com/releases/14160830
-Intended Play (Matador & True Panther 2011-2012) - 2012 - https://api.discogs.com/releases/3357811
-Hartzine Janvier 2012 - 2012 - https://api.discogs.com/releases/3378302
-Humo Selecteert Meer Dan Het Beste Uit 2012 - 2012 - https://api.discogs.com/releases/4485031
-Independent Almanac 2012 - 2012 - https://api.discogs.com/releases/4799073
-Hostess Sampler 2012 Feb - 2012 Mar - 2012 - https://api.discogs.com/releases/15929941
-Momentos 2012 - Canciones Internacionales Vol. II - 2013 - https://api.discogs.com/releases/4247102
-Elemental/Sentimental Mixtape - 2013 - https://api.discogs.com/releases/14161992
-Humo Selecteert Het Beste Uit 2014 - 2014 - https://api.discogs.com/releases/6317165
-Caroline International 2014 Sampler - 2014 - https://api.discogs.com/releases/9471489
-Rough Trade Shops (End Of The Road Festival 2014) - 2014 - https://api.discogs.com/releases/9796505
-Momentos 2014 Vol. II Canciones Internacionales - 2015 - https://api.discogs.com/releases/7100621
-Duyster.Sessions - 2015 - https://api.discogs.com/releases/7118867
-On The Highway (15 Tracks Of The Month's Best Music) - 2016 - https://api.discogs.com/releases/8273040
-Day Of The Dead 2 - 2016 - https://api.discogs.com/releases/17001222
-Duos (Les Plus Belles Chansons En Duo) - 2016 - https://api.discogs.com/releases/21228727
-30 Ans Des InRocKuptibles  - 2016 - https://api.discogs.com/masters/1482505
-Day Of The Dead - 2016 - https://api.discogs.com/masters/1049963
-Remote Control May Sampler II - 2017 - https://api.discogs.com/releases/10449990
-End Of The Road 2017 - 2017 - https://api.discogs.com/masters/1594616
-Booksmart (Music From The Motion Picture) - 2019 - https://api.discogs.com/releases/13997862
-Remote Control September Sampler II 2019 - 2019 - https://api.discogs.com/releases/14244004
-Remote Control November Sampler 2019 - 2019 - https://api.discogs.com/releases/14401631
-Remote Control March Sampler 2020 - 2020 - https://api.discogs.com/releases/14954970
-Good Music To Avert The Collapse Of American Democracy (Volume 2) - 2020 - https://api.discogs.com/releases/16288965
-Explorations In Sound Vol. 1 & 2 - 2020 - https://api.discogs.com/masters/2188051
-This Is A Mindfulness Drill - 2021 - https://api.discogs.com/masters/2254747
-Rough Trade Shops: End Of The Road 2022 - 2022 - https://api.discogs.com/releases/28561015
-The World Is Collapsing But The Internet Is Complaining About Edits​.​.​. - 2023 - https://api.discogs.com/releases/27992616
-TRANSA - 2024 - https://api.discogs.com/releases/32530443
-The New Look - 2024 - https://api.discogs.com/masters/3570893
-Good Music To Lift Los Angeles - 2025 - https://api.discogs.com/masters/3755478
-Remote Control Touring - Desconocido - https://api.discogs.com/releases/7913267
-2020 Vinyl: Have A Better Year - 2021 - https://api.discogs.com/releases/21500575
+Have A Nice Life Vs. You - 2004 - https://api.discogs.com/masters/834939
+Powers Of Ten - 2006 - https://api.discogs.com/releases/7000842
+Demos 06 - 2006 - https://api.discogs.com/releases/7000958
+Deathconsciousness - 2008 - https://api.discogs.com/masters/172974
+Live At The Stone NYC / Glastonburykids - 2010 - https://api.discogs.com/releases/5269856
+Time Of Land - 2010 - https://api.discogs.com/masters/298575
+Voids - 2010 - https://api.discogs.com/masters/667995
+The Unnatural World - 2014 - https://api.discogs.com/masters/646171
+Sea Of Worry - 2019 - https://api.discogs.com/masters/1629425
+Basic - 2024 - https://api.discogs.com/releases/32425041
+Airs - 2011 - https://api.discogs.com/releases/3027312
+Gloomer - 2012 - https://api.discogs.com/releases/3398130
+The Bile Has Consumed Me - 2022 - https://api.discogs.com/releases/24641123
+Sonic Cathedrals XIX - 2011 - https://api.discogs.com/releases/3317148
+Santa Is Real - 2012 - https://api.discogs.com/releases/3334559
+Your Voice Is Not Enough - 2024 - https://api.discogs.com/releases/30732905
+Druse Mix Tape 2018 - 2018 - https://api.discogs.com/releases/12187768
+Country Worse - 2021 - https://api.discogs.com/masters/2163559
