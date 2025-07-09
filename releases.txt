@@ -1,19 +1,182 @@
 Listado de releases del artista:
-Have A Nice Life Vs. You - 2004 - https://api.discogs.com/masters/834939
-Powers Of Ten - 2006 - https://api.discogs.com/releases/7000842
-Demos 06 - 2006 - https://api.discogs.com/releases/7000958
-Deathconsciousness - 2008 - https://api.discogs.com/masters/172974
-Live At The Stone NYC / Glastonburykids - 2010 - https://api.discogs.com/releases/5269856
-Time Of Land - 2010 - https://api.discogs.com/masters/298575
-Voids - 2010 - https://api.discogs.com/masters/667995
-The Unnatural World - 2014 - https://api.discogs.com/masters/646171
-Sea Of Worry - 2019 - https://api.discogs.com/masters/1629425
-Basic - 2024 - https://api.discogs.com/releases/32425041
-Airs - 2011 - https://api.discogs.com/releases/3027312
-Gloomer - 2012 - https://api.discogs.com/releases/3398130
-The Bile Has Consumed Me - 2022 - https://api.discogs.com/releases/24641123
-Sonic Cathedrals XIX - 2011 - https://api.discogs.com/releases/3317148
-Santa Is Real - 2012 - https://api.discogs.com/releases/3334559
-Your Voice Is Not Enough - 2024 - https://api.discogs.com/releases/30732905
-Druse Mix Tape 2018 - 2018 - https://api.discogs.com/releases/12187768
-Country Worse - 2021 - https://api.discogs.com/masters/2163559
+Replace EP - 2005 - https://api.discogs.com/masters/31619
+Ceramics - 2005 - https://api.discogs.com/masters/241201
+Demon In The Attic EP - 2005 - https://api.discogs.com/masters/244986
+Choke / For The Love - 2006 - https://api.discogs.com/releases/705386
+Merciless - 2006 - https://api.discogs.com/masters/31620
+The Nervous EP - 2006 - https://api.discogs.com/masters/2711705
+Handle With Care / See In Me - 2007 - https://api.discogs.com/releases/907532
+The Massacre EP - 2007 - https://api.discogs.com/releases/972816
+Hostile - 2007 - https://api.discogs.com/masters/192773
+Fear Of Heights EP - 2007 - https://api.discogs.com/masters/783303
+Bad Landing EP - 2008 - https://api.discogs.com/releases/1264462
+Unknown Exception - 2008 - https://api.discogs.com/releases/1440051
+RA.088 - 2008 - https://api.discogs.com/releases/1627535
+Brief Encounter / Drippin - 2009 - https://api.discogs.com/releases/1705104
+Night Jewel - 2009 - https://api.discogs.com/masters/192774
+Tell Me Anything - 2010 - https://api.discogs.com/masters/297870
+Passed Me By - 2011 - https://api.discogs.com/masters/338786
+Passed Me By / We Stay Together - 2011 - https://api.discogs.com/masters/637426
+We Stay Together - 2011 - https://api.discogs.com/masters/373491
+Luxury Problems - 2012 - https://api.discogs.com/masters/483836
+Anytime Soon - 2013 - https://api.discogs.com/releases/7454120
+Faith In Strangers - 2014 - https://api.discogs.com/masters/759305
+Too Many Voices - 2016 - https://api.discogs.com/masters/992382
+It Should Be Us - 2019 - https://api.discogs.com/masters/1633825
+Never The Right Time - 2021 - https://api.discogs.com/masters/2080504
+The Slow Ribbon - 2022 - https://api.discogs.com/masters/2555726
+Out (Version) / Love (Version) - 2024 - https://api.discogs.com/releases/29855944
+Techno Dub - 2008 - https://api.discogs.com/releases/2677028
+Recovery Idea (Part Two) - 2008 - https://api.discogs.com/masters/65524
+Isolation Mix - 2009 - https://api.discogs.com/releases/3473569
+Great - 2011 - https://api.discogs.com/releases/3133052
+Second Kiss - 2011 - https://api.discogs.com/releases/3156585
+Hype Machine Radio: December 2011 - 2011 - https://api.discogs.com/releases/3787884
+Tri Angle Records 2011 And Beyond - 2011 - https://api.discogs.com/releases/16024453
+The Axiom EP - 2011 - https://api.discogs.com/masters/372000
+14 Tracks: Knackered House - 2012 - https://api.discogs.com/releases/3398263
+Scrapewing - 2012 - https://api.discogs.com/releases/4131422
+Keep It Low - 2012 - https://api.discogs.com/masters/453379
+Blondes - 2012 - https://api.discogs.com/masters/554182
+Recovery IDea (Part Two - A​) - 2012 - https://api.discogs.com/masters/2774090
+Vicissitude Remixes & Demo Recordings - 2013 - https://api.discogs.com/releases/4714144
+Vicissitude Bonus MP3s - 2013 - https://api.discogs.com/releases/4722763
+Concrete (Andy Stott Remix) - 2013 - https://api.discogs.com/releases/5167104
+DJ-Kicks - 2013 - https://api.discogs.com/masters/623653
+Valentine (Andy Stott Remix) - 2013 - https://api.discogs.com/masters/653094
+Vicissitude - 2013 - https://api.discogs.com/masters/573995
+Shuffle Good - 2013 - https://api.discogs.com/masters/603064
+Realigned - Album Sampler - 2014 - https://api.discogs.com/releases/5871009
+Realigned - 2014 - https://api.discogs.com/releases/6001090
+Erratic Podcast 76 - 2014 - https://api.discogs.com/releases/7727957
+PBVSGR Remixes - 2015 - https://api.discogs.com/releases/7401414
+Europa Hymn (Andy Stott Remix) - 2015 - https://api.discogs.com/masters/827693
+MG EP - 2015 - https://api.discogs.com/masters/897095
+Void Of Reason - 2017 - https://api.discogs.com/releases/10431844
+Async - Remodels - 2017 - https://api.discogs.com/masters/1308536
+Mute Tonal Evidence 4.0 - 2018 - https://api.discogs.com/releases/12657723
+I Heard Them Say - 2024 - https://api.discogs.com/masters/565930
+Keep It Low - 2012 - https://api.discogs.com/masters/453379
+Bad History - 2014 - https://api.discogs.com/releases/5657625
+Drop The Vowels - 2014 - https://api.discogs.com/masters/667157
+Black Phillip - 2017 - https://api.discogs.com/masters/1214058
+Async - Remodels - 2018 - https://api.discogs.com/masters/1308536
+Groulx - 1990 - https://api.discogs.com/masters/1275662
+Groulx - 1990 - https://api.discogs.com/masters/1275662
+Groove #100/N°9 - 2006 - https://api.discogs.com/releases/672091
+Groove #102/N°11 - 2006 - https://api.discogs.com/releases/772759
+Sonar 07 - British Label Sampler - 2006 - https://api.discogs.com/releases/1235942
+Warrior Dubz - 2006 - https://api.discogs.com/masters/17924
+Gold Series Vol. 1 - 2008 - https://api.discogs.com/releases/1210700
+14 Tracks : From The Echo Chamber - 2008 - https://api.discogs.com/releases/4326295
+Recovery IDea (Part Two) - 2008 - https://api.discogs.com/masters/65524
+Recovery IDea (Part Two _ A) - 2011 - https://api.discogs.com/masters/2774090
+Groove 140 / CD 49 - 2012 - https://api.discogs.com/releases/4118703
+I Heard Them Say - 2013 - https://api.discogs.com/masters/565930
+Vicissitude - 2013 - https://api.discogs.com/masters/573995
+Groove 152 CD 61 - 2014 - https://api.discogs.com/releases/6412117
+Drop The Vowels - 2014 - https://api.discogs.com/masters/667157
+MG EP - 2015 - https://api.discogs.com/masters/897095
+Headlines (N.E.W.S. Distribution 2017) - 2016 - https://api.discogs.com/releases/10174586
+Singularity Station - 2021 - https://api.discogs.com/masters/1955434
+Groove #100/N°9 - 2006 - https://api.discogs.com/releases/672091
+Groove #102/N°11 - 2006 - https://api.discogs.com/releases/772759
+Sonar 07 - British Label Sampler - 2006 - https://api.discogs.com/releases/1235942
+On+On - Nuevas Aventuras En La IDM Y La Inteligencia Artificial - 2006 - https://api.discogs.com/releases/7584673
+Warrior Dubz - 2006 - https://api.discogs.com/masters/17924
+RA.057 - 2007 - https://api.discogs.com/releases/1887951
+Tales Of The Unexpected 3 - 2008 - https://api.discogs.com/releases/1396354
+14 Tracks In Love With The Cover Version - 2008 - https://api.discogs.com/releases/3135826
+14 Tracks In Hypercolour: A Synthfunk Sampler - 2009 - https://api.discogs.com/releases/3050650
+FACT Mix 33 - 2009 - https://api.discogs.com/releases/3575537
+RA.205 - 2010 - https://api.discogs.com/releases/2271104
+Field Recording 013 - 2010 - https://api.discogs.com/releases/2502649
+Signal Flow Podcast 15 - 2010 - https://api.discogs.com/releases/2503251
+Strategy Review - 2010 - https://api.discogs.com/releases/2659037
+Electric Deluxe Podcast 032 - 2010 - https://api.discogs.com/releases/19889344
+14 Tracks: Baby, Go Slow - 2011 - https://api.discogs.com/releases/3083465
+RA.276 - 2011 - https://api.discogs.com/releases/3104269
+Ssg Special - Antonio (n/e.s.) - 2011 - https://api.discogs.com/releases/3314914
+14 Tracks For The End Of The Rope... - 2011 - https://api.discogs.com/releases/3433144
+Get Us The Hell Out Of Here - 2011 - https://api.discogs.com/releases/5240216
+Balance 020 - 2011 - https://api.discogs.com/masters/387063
+LWE Podcast 113 - 2012 - https://api.discogs.com/releases/3425697
+Mix 2012 - 2012 - https://api.discogs.com/releases/3525107
+RA.307 - 2012 - https://api.discogs.com/releases/3549041
+Untitled Mix - 2012 - https://api.discogs.com/releases/3863697
+RA.333 - 2012 - https://api.discogs.com/releases/3951899
+Decibel 2012 Showcase - 2012 - https://api.discogs.com/releases/3986850
+Offcast #12 - 2012 - https://api.discogs.com/releases/3998404
+Cinematicpod #012 - 2012 - https://api.discogs.com/releases/4046600
+14 Tracks: Crepuscular Electronica - 2012 - https://api.discogs.com/releases/4056902
+Groove 140 / CD 49 - 2012 - https://api.discogs.com/releases/4118703
+Ein Stueckchen Urstoff Mix - 2012 - https://api.discogs.com/releases/4251307
+The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
+The Best Of 2012: Part Two - 2012 - https://api.discogs.com/releases/4325369
+The Future Is Yet To Come - 2012 - https://api.discogs.com/releases/4696740
+A Colourful Storm 012 - 2012 - https://api.discogs.com/releases/5631974
+RA.318 - 2012 - https://api.discogs.com/masters/512427
+Secret Thirteen Mix 059 - 2013 - https://api.discogs.com/releases/4306562
+Denovali Swingfest 2013 London Sampler - 2013 - https://api.discogs.com/releases/4403075
+Offcast #17 - 2013 - https://api.discogs.com/releases/4422800
+NPR Music Presents: The Austin 100 - 2013 - https://api.discogs.com/releases/4460742
+Secret Thirteen Mix 063 - 2013 - https://api.discogs.com/releases/4466198
+M.U. Podcast 56 # - 2013 - https://api.discogs.com/releases/4594836
+RA.367 - 2013 - https://api.discogs.com/releases/4643225
+RA.369 - 2013 - https://api.discogs.com/releases/4685401
+Fader Mix - 2013 - https://api.discogs.com/releases/4696759
+Deathmetaldiscoclub #004 - 2013 - https://api.discogs.com/releases/4890374
+Deathmetaldiscoclub #003 - 2013 - https://api.discogs.com/releases/4892453
+non lieux - 2013 - https://api.discogs.com/releases/5142658
+Adult Swim Singles Program 2013 - 2013 - https://api.discogs.com/releases/5957796
+Obscure Waves Podcast 001 - 2013 - https://api.discogs.com/releases/6756628
+Cultwave Recruitment Mixtape - 2013 - https://api.discogs.com/releases/9317537
+Solid Steel Radio Show 15/2/2013 - Part 3 + 4 - 2013 - https://api.discogs.com/releases/11107991
+Paula Temple Exclusive Mix (Podcast) - 2013 - https://api.discogs.com/releases/11540509
+Formless Worlds Pass By Me - 2013 - https://api.discogs.com/releases/13402258
+Fact Mix 394 - 2013 - https://api.discogs.com/releases/29428198
+Podcast 311 - 2013 - https://api.discogs.com/masters/594543
+FACT Mix 421 - 2014 - https://api.discogs.com/releases/5317858
+Secret Thirteen Mix 106 - 2014 - https://api.discogs.com/releases/5352587
+Secret Thirteen Mix 112 - 2014 - https://api.discogs.com/releases/5630488
+/ I A / MIX 130 - 2014 - https://api.discogs.com/releases/5633216
+I Have Nothing To Say And I'm Saying It - 2014 - https://api.discogs.com/releases/5638811
+Isolatedmix 46 - 2014 - https://api.discogs.com/releases/5889745
+Groove 152 CD 61 - 2014 - https://api.discogs.com/releases/6412117
+The Top 100 Tracks Of 2014 - 2014 - https://api.discogs.com/releases/6627220
+FACT Mix 464 - 2014 - https://api.discogs.com/releases/6896554
+simplicity :: mixtape for dreamers - 2014 - https://api.discogs.com/releases/12487432
+Old Manual by BATIDA - 2014 - https://api.discogs.com/releases/13526178
+0010 1110 - 2015 - https://api.discogs.com/releases/6589488
+/ I A / MIX 163 - 2015 - https://api.discogs.com/releases/6850700
+Isolatedmix 54 - 2015 - https://api.discogs.com/releases/6933497
+ML146: Nico Niquo - 2015 - https://api.discogs.com/releases/7277304
+Electronic Explorations 372 - 2015 - https://api.discogs.com/releases/7712333
+PoleGroup Radio 13.03 - 2015 - https://api.discogs.com/releases/7712376
+The Winter Walk Mix - 2015 - https://api.discogs.com/releases/7920818
+Long Road with D.NOTE - 2015 - https://api.discogs.com/releases/12488187
+Fact Mix 478 - 2015 - https://api.discogs.com/releases/29416945
+Cold Sun Edits - 2016 - https://api.discogs.com/releases/8622238
+Calabi - Yau Manifold Mix - 2016 - https://api.discogs.com/releases/8756644
+Alrealon Musique Show / Little Water Radio - May 21st, 2016, presented by SVUVN - 2016 - https://api.discogs.com/releases/8851456
+Headlines (N.E.W.S. Distribution 2017) - 2016 - https://api.discogs.com/releases/10174586
+The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
+Electronic Explorations 426 - 2016 - https://api.discogs.com/releases/12550022
+Some Deejay Cmix - 2017 - https://api.discogs.com/releases/10773265
+Jesus Is A Flower - 2017 - https://api.discogs.com/releases/11052853
+Funeral Mix - 2017 - https://api.discogs.com/releases/11095483
+Vykhod Sily Podcast — Yukhalov Guest Mix - 2017 - https://api.discogs.com/releases/14094952
+Fact Mix 664 - 2018 - https://api.discogs.com/releases/29397943
+Revera Mix 001 - 2019 - https://api.discogs.com/releases/13665426
+Clubsport #16 (LYL Radio 25.01.18) - 2019 - https://api.discogs.com/releases/16248521
+Isolatedmix 102 - 2020 - https://api.discogs.com/releases/17342593
+Akita - 2020 - https://api.discogs.com/releases/25791190
+Fact Mix 768 - 2020 - https://api.discogs.com/releases/29373142
+Bleep 100 Tracks 2021 - 2021 - https://api.discogs.com/releases/23174816
+Chanel MCR - 2023 - https://api.discogs.com/releases/30705053
+BassDay - Illegal Mixtape #2 - 2010 - https://api.discogs.com/releases/2295528
+Fire Lands - 2013 - https://api.discogs.com/releases/6814576
+White Light 102 - 2014 - https://api.discogs.com/releases/5839221
+The Remix Collection - 2014 - https://api.discogs.com/masters/759299
+Haunted Springs - 2015 - https://api.discogs.com/releases/11560170
+A Disorderly School Mix Tape No.1 Newwave - 2019 - https://api.discogs.com/releases/14561105

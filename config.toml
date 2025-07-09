@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = 'es-ES'
 title = 'vvmm'
-theme = 'm10c'
+theme = 'hugo-theme-m10c'
 staticDir = ['static']
 
 [pagination]
@@ -76,6 +76,6 @@ staticDir = ['static']
 [params.style]
   darkestColor = "#1a1a22"
   darkColor = "#1f1f28"
-  lightColor = "#96a879"
+  lightColor = "#a06d9c"
   lightestColor = "#fff"
-  primaryColor = "#dad865"
+  primaryColor = "#caa5f6"
