@@ -6,20 +6,34 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 08 Jul 2025 23:40:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 15:31:40 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disco</title>
+      <link>/tags/disco/</link>
+      <pubDate>Wed, 09 Jul 2025 15:31:40 +0200</pubDate>
+      <guid>/tags/disco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funk</title>
+      <link>/tags/funk/</link>
+      <pubDate>Wed, 09 Jul 2025 15:31:40 +0200</pubDate>
+      <guid>/tags/funk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fusion</title>
+      <link>/tags/fusion/</link>
+      <pubDate>Wed, 09 Jul 2025 15:31:40 +0200</pubDate>
+      <guid>/tags/fusion/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Techno</title>
       <link>/tags/techno/</link>
       <pubDate>Tue, 08 Jul 2025 23:40:19 +0200</pubDate>
       <guid>/tags/techno/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disco</title>
-      <link>/tags/disco/</link>
-      <pubDate>Tue, 08 Jul 2025 22:03:58 +0200</pubDate>
-      <guid>/tags/disco/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +76,6 @@
       <link>/tags/rock/</link>
       <pubDate>Tue, 08 Jul 2025 14:25:32 +0200</pubDate>
       <guid>/tags/rock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Funk</title>
-      <link>/tags/funk/</link>
-      <pubDate>Thu, 03 Jul 2025 23:01:49 +0200</pubDate>
-      <guid>/tags/funk/</guid>
       <description></description>
     </item>
     <item>

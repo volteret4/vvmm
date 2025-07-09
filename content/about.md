@@ -6,7 +6,7 @@ menu: main
 weight: 3
 ---
 
-_Actualizado el 08-07-2025_
+_Actualizado el 09-07-2025_
 
 [test](https://open.spotify.com/playlist/2GJoUqVjsgW737baE5q6IF) eteme
 
