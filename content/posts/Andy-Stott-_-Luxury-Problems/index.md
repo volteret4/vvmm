@@ -1,12 +1,12 @@
 ---
 title: "Andy Stott - Luxury Problems"
-date: 2025-07-10T21:30:21+02:00
+date: 2025-07-10T21:34:22+02:00
 image: "image.jpeg"
 draft: false
 tags:
  - techno
  - ambient
- #- tagC
+ - dubtechno
  #- tagD
  #- tagE
 ---
@@ -28,6 +28,18 @@ tags:
 **Año:** 2012-10-18
 
 **Total de pistas:** 8
+
+
+## Información de Producción
+
+| Campo | Información |
+|-------|-------------|
+| **Sello** | Modern Love |
+| **Año** | 2012-10-18 |
+| **Género** | Techno |
+| **Total de pistas** | 8 |
+| **Masterización** | Matt Colton |
+| **Créditos adicionales** | {"mastered by, lacquer cut by": ["Matt Colton"], "photography by [image by]": ["Corbis", "Otto Bettmann"]} |
 
 
 ## Tracklist
