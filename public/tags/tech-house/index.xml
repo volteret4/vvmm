@@ -1,36 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech-house on vvmm</title>
+    <title>Tech-House on vvmm</title>
     <link>/tags/tech-house/</link>
-    <description>Recent content in tech-house on vvmm</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tech-House on vvmm</description>
+    <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 20 Jun 2024 22:47:23 +0200</lastBuildDate><atom:link href="/tags/tech-house/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 02:14:10 +0200</lastBuildDate>
+    <atom:link href="/tags/tech-house/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Long Island Sound - Lost Connection</title>
-      <link>/posts/long-island-sound-_-lost-connection/</link>
-      <pubDate>Thu, 20 Jun 2024 22:47:23 +0200</pubDate>
-      
-      <guid>/posts/long-island-sound-_-lost-connection/</guid>
-      <description>Información del álbum facilitada por discogs.com:
-Fecha de lanzamiento: 2010
-Géneros: Electronic
-Estilos: Trance, Progressive Trance
-Pais: Finland
-Votos: Media de 3.17 con 6 votos
-Sello: EMI
-Copyright (c): Oy EMI Finland Ab
-Phonographic Copyright (p): Oy EMI Finland Ab
-Published By: Love Kustannus Oy
-Published By: Imudico
-Recorded At: Finnvox
-Mixed At: Finnvox
-Printed By: Uudenmaan Ammattipaino Ky
-Arranged By - Yari
-Backing Vocals - Arja Häyhä
-Backing Vocals - Mari Rantasila</description>
+      <title>Against All Logic - 20122017</title>
+      <link>/posts/against-all-logic-_-20122017/</link>
+      <pubDate>Thu, 10 Jul 2025 02:14:10 +0200</pubDate>
+      <guid>/posts/against-all-logic-_-20122017/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.jpeg&#34; alt=&#34;cover&#34; title=&#34;Against All Logic - 20122017&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://api.discogs.com&#34;&gt;&lt;img src=&#34;../links/svg/discogs.png&#34; alt=&#34;discogs&#34; title=&#34;discogs&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nicolas_Jaar&#34;&gt;&lt;img src=&#34;../links/svg/wikipedia.png&#34; alt=&#34;wikipedia&#34; title=&#34;wikipedia&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL9rByFUQL1ASXGUMp8z-HNtn8wfhJG9r2&#34;&gt;&lt;img src=&#34;../links/svg/youtube.png&#34; alt=&#34;youtube&#34; title=&#34;youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))](error) error busqueda --&gt;&#xA;&lt;!-- [![lastfm](../links/svg/lastfm.png (lastfm))]() --&gt;&#xA;&lt;!-- [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]() --&gt;&#xA;&lt;!-- [![spotify](../links/svg/spotify.png (spotify))]() --&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Información del álbum facilitada por discogs.com:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha de lanzamiento&lt;/strong&gt;: Desconocida&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Géneros&lt;/strong&gt;: Desconocidos&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estilos&lt;/strong&gt;: Desconocidos&lt;/p&gt;&#xA;&lt;p&gt;Tracklist: Desconocida&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
-    
   </channel>
 </rss>
