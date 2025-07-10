@@ -6,8 +6,29 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 10 Jul 2025 04:47:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 16:14:29 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folk</title>
+      <link>/tags/folk/</link>
+      <pubDate>Thu, 10 Jul 2025 16:14:29 +0200</pubDate>
+      <guid>/tags/folk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pop</title>
+      <link>/tags/pop/</link>
+      <pubDate>Thu, 10 Jul 2025 16:14:29 +0200</pubDate>
+      <guid>/tags/pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vocal</title>
+      <link>/tags/vocal/</link>
+      <pubDate>Thu, 10 Jul 2025 16:14:29 +0200</pubDate>
+      <guid>/tags/vocal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ambient</title>
       <link>/tags/ambient/</link>
@@ -20,13 +41,6 @@
       <link>/tags/dream-pop/</link>
       <pubDate>Thu, 10 Jul 2025 04:47:14 +0200</pubDate>
       <guid>/tags/dream-pop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pop</title>
-      <link>/tags/pop/</link>
-      <pubDate>Thu, 10 Jul 2025 04:47:14 +0200</pubDate>
-      <guid>/tags/pop/</guid>
       <description></description>
     </item>
     <item>
@@ -191,13 +205,6 @@
       <description></description>
     </item>
     <item>
-      <title>Vocal</title>
-      <link>/tags/vocal/</link>
-      <pubDate>Sat, 28 Jun 2025 00:47:58 +0200</pubDate>
-      <guid>/tags/vocal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>New-Wave</title>
       <link>/tags/new-wave/</link>
       <pubDate>Sat, 28 Jun 2025 00:19:45 +0200</pubDate>
@@ -251,13 +258,6 @@
       <link>/tags/progressive/</link>
       <pubDate>Thu, 08 May 2025 17:12:02 +0200</pubDate>
       <guid>/tags/progressive/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Folk</title>
-      <link>/tags/folk/</link>
-      <pubDate>Mon, 21 Apr 2025 19:09:05 +0200</pubDate>
-      <guid>/tags/folk/</guid>
       <description></description>
     </item>
     <item>
@@ -482,6 +482,20 @@
       <link>/tags/synthpop/</link>
       <pubDate>Sun, 16 Jun 2024 17:58:01 +0200</pubDate>
       <guid>/tags/synthpop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coleccion</title>
+      <link>/tags/coleccion/</link>
+      <pubDate>Sat, 03 Dec 2022 13:00:11 -0800</pubDate>
+      <guid>/tags/coleccion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discogs</title>
+      <link>/tags/discogs/</link>
+      <pubDate>Sat, 03 Dec 2022 13:00:11 -0800</pubDate>
+      <guid>/tags/discogs/</guid>
       <description></description>
     </item>
   </channel>
