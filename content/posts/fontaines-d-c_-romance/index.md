@@ -1,12 +1,12 @@
 ---
 title: "Fontaines D C- Romance"
-date: 2025-07-10T22:12:59+02:00
+date: 2025-07-10T22:16:59+02:00
 image: "image.jpeg"
 draft: false
 tags:
  - rock
- - post-punk
  - gothic-rock
+ - post-punk
  #- tagD
  #- tagE
 ---
@@ -42,7 +42,27 @@ tags:
 | **Productores** | James Ford |
 | **Ingeniería** | Anthony Cazade, Luke Pritchard, Chiara Ferracuti, Samuel Borst, Animesh Raval |
 | **Masterización** | Matt Colton |
-| **Créditos adicionales** | **Band Fontaines D.C. Are, Bass, 6-String Bass Bass Vi**: Conor Deegan • **Band Fontaines D.C. Are, Drums, Percussion**: Tom Coll • **Band Fontaines D.C. Are, Guitar**: Conor Curley • **Band Fontaines D.C. Are, Guitar, Keyboards Keys**: Carlos O'Connell • **Band Fontaines D.C. Are, Vocals, Guitar**: Grian Chatten • **Cover Cover Images**: Lulu Lin • **Design, Art Direction**: Carlos O'Connell, Texas Maragh • **Engineer**: Anthony Cazade, Luke Pritchard • **Engineer Assistant Engineer**: Chiara Ferracuti, Samuel Borst • **Engineer Strings Engineered By**: Animesh Raval • **Management**: Trevor Dietz, Wildlife Entertainment Ltd. • **Mastered By**: Matt Colton • **Music By**: Fontaines D.C. • **Musician Additional Musicians, Arranged By Keys Arrangement**: Freddy Wordsworth • **Musician Additional Musicians, Synthesizer Suiko Koto Synth, Synthesizer Therevox, Synthesizer Moog, Effects Fuzz Guitar**: James Ford • **Producer, Mixed By**: James Ford • **Strings, Cello**: Laura Moody • **Strings, Double Bass**: Marianne Schofield • **Strings, Viola**: Richard Jones (40) • **Strings, Violin**: Emma Smith, Jennymay Logan • **Words By**: Carlos O'Connell, Conor Curley, Grian Chatten |
+| **Band Fontaines D.C. Are, Bass, 6-String Bass Bass Vi** | Conor Deegan |
+| **Band Fontaines D.C. Are, Drums, Percussion** | Tom Coll |
+| **Band Fontaines D.C. Are, Guitar** | Conor Curley |
+| **Band Fontaines D.C. Are, Guitar, Keyboards Keys** | Carlos O'Connell |
+| **Band Fontaines D.C. Are, Vocals, Guitar** | Grian Chatten |
+| **Cover Cover Images** | Lulu Lin |
+| **Design, Art Direction** | Carlos O'Connell, Texas Maragh |
+| **Engineer** | Anthony Cazade, Luke Pritchard |
+| **Engineer Assistant Engineer** | Chiara Ferracuti, Samuel Borst |
+| **Engineer Strings Engineered By** | Animesh Raval |
+| **Management** | Trevor Dietz, Wildlife Entertainment Ltd. |
+| **Mastered By** | Matt Colton |
+| **Music By** | Fontaines D.C. |
+| **Musician Additional Musicians, Arranged By Keys Arrangement** | Freddy Wordsworth |
+| **Musician Additional Musicians, Synthesizer Suiko Koto Synth, Synthesizer Therevox, Synthesizer Moog, Effects Fuzz Guitar** | James Ford |
+| **Producer, Mixed By** | James Ford |
+| **Strings, Cello** | Laura Moody |
+| **Strings, Double Bass** | Marianne Schofield |
+| **Strings, Viola** | Richard Jones (40) |
+| **Strings, Violin** | Emma Smith, Jennymay Logan |
+| **Words By** | Carlos O'Connell, Conor Curley, Grian Chatten |
 
 
 ## Tracklist
@@ -126,3 +146,22 @@ tags:
 | **unknown** | TC Electronic | Polytune 2 Noir | 2025 | - | - | [🎛️ Equipboard](https://equipboard.com/items/tc-electronic-polytune-noir-mini-2-pedal-tuner) |
 | **bass_guitar** | Tech | 21 SansAmp Programmable Bass Driver Direct Input | 2025 | - | - | [🎛️ Equipboard](https://equipboard.com/items/tech-21-sansamp-3-channel-programmable-bass-driver-di) |
 | **unknown** | ThorpyFX | The Chain Home Tremolo | 2025 | - | - | [🎛️ Equipboard](https://equipboard.com/items/thorpyfx-the-chain-home-tremolo) |
+
+
+## Reviews y Menciones
+
+
+### 📝 Reviews y Artículos
+
+| Fuente | Título | Fecha | Origen |
+|--------|--------|-------|--------|
+| **spectrumculture.com** | [Fontaines D.C.: Romance - Spectrum Culture](https://spectrumculture.com/2024/09/05/fontaines-d-c-romance-review/) | 26/05/2025 | review_anydecentmusic |
+| **pitchfork.com** | [Fontaines D.C.: Romance Album Review | Pitchfork](https://pitchfork.com/reviews/albums/fontaines-dc-romance/) | 26/05/2025 | review_anydecentmusic |
+| **loudandquiet.com** | [Fontaines D.C. â Romance - Loud And Quiet](https://www.loudandquiet.com/reviews/fontaines-d-c-romance/) | 26/05/2025 | review_anydecentmusic |
+| **independent.co.uk** | [Fontaines DC review, Romance: Leaves post-punk in its dust and roars off into broad new horizons | The Independent](https://www.independent.co.uk/arts-entertainment/music/reviews/fontaines-dc-romance-review-b2599563.html) | 26/05/2025 | review_anydecentmusic |
+| **spillmagazine.com** | [SPILL ALBUM REVIEW: FONTAINES D.C. - ROMANCE - The Spill Magazine](https://spillmagazine.com/spill-album-review-fontaines-d-c-romance/) | 26/05/2025 | review_anydecentmusic |
+| **exclaim.ca** | [Fontaines D.C. Pen an Unreliable Encyclopedia of 'Romance' │ Exclaim!](https://exclaim.ca/music/article/fontaines-d-c-romance-album-review) | 26/05/2025 | review_anydecentmusic |
+| **theguardian.com** | [Fontaines DC: Romance review – their best record yet | Fontaines DC | The Guardian](https://www.theguardian.com/music/article/2024/aug/23/fontaines-dc-romance-review-their-best-record-yet) | 26/05/2025 | review_anydecentmusic |
+| **rollingstone.com** | [Review: Fontaines D.C. Find Love At the End of the World on 'Romance'](https://www.rollingstone.com/music/music-album-reviews/fontaines-dc-romance-review-1235085815/) | 26/05/2025 | review_anydecentmusic |
+| **beatsperminute.com** | [Album Review: Fontaines D.C. – Romance – Beats Per Minute](https://beatsperminute.com/album-review-fontaines-d-c-romance/) | 26/05/2025 | review_anydecentmusic |
+| **irishtimes.com** | [Fontaines DC: Romance – Incredibly compelling indie rock that takes the Dublin band to the next level – The Irish Times](https://www.irishtimes.com/culture/music/review/2024/08/15/fontaines-dc-romance-incredibly-compelling-indie-rock-that-takes-the-dublin-band-to-the-next-level/) | 26/05/2025 | review_anydecentmusic |
