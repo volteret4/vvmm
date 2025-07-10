@@ -1,54 +1,174 @@
 Listado de releases del artista:
-I Can See You - 2009 - https://api.discogs.com/masters/1832446
-Cigarettes After Sex (Romans 13:9)  - 2011 - https://api.discogs.com/releases/12809504
-I. - 2012 - https://api.discogs.com/masters/1011035
-Affection - 2015 - https://api.discogs.com/masters/937810
- K. - 2016 - https://api.discogs.com/masters/1192068
-Tiny Desk Concert - 2017 - https://api.discogs.com/releases/24369056
-Each Time You Fall In Love - 2017 - https://api.discogs.com/masters/1192071
-Cigarettes After Sex - 2017 - https://api.discogs.com/masters/1192593
-Apocalypse - 2017 - https://api.discogs.com/masters/1178396
-Sweet (Single Version) - 2017 - https://api.discogs.com/masters/3154770
-Neon Moon - 2018 - https://api.discogs.com/masters/2962078
-Crush - 2018 - https://api.discogs.com/masters/1377011
-Heavenly - 2019 - https://api.discogs.com/releases/14074644
-Falling In Love - 2019 - https://api.discogs.com/releases/14243483
-Cry - 2019 - https://api.discogs.com/masters/1622969
-You're All I Want - 2020 - https://api.discogs.com/masters/2962099
-Pistol - 2022 - https://api.discogs.com/masters/2962096
-Bubblegum / Stop Waiting - 2023 - https://api.discogs.com/masters/3182703
-X's - 2024 - https://api.discogs.com/masters/3539875
-Drafts Of The Love Apocalypse - 2020 - https://api.discogs.com/releases/16077886
-2021 Subscriber-Only Covers - 2021 - https://api.discogs.com/releases/17304079
-Don't Forget Where You Came From - 2021 - https://api.discogs.com/releases/17769406
-I Said I Love Your First... And You Said It Back - 2025 - https://api.discogs.com/releases/34457083
-Printemps-été 2017 - Volume 2 - 2017 - https://api.discogs.com/releases/10409240
-Partisan Records Spring 2017 Sampler - 2017 - https://api.discogs.com/releases/10476599
+Bloodflood / Tessellate - 2011 - https://api.discogs.com/masters/495511
+Breezeblocks - 2011 - https://api.discogs.com/masters/458940
+Tiny Desk Concert - 2012 - https://api.discogs.com/releases/13021505
+Fitzpleasure - 2012 - https://api.discogs.com/masters/1668391
+An Awesome Wave - 2012 - https://api.discogs.com/masters/443194
+Matilda - 2012 - https://api.discogs.com/masters/550852
+Dissolve Me - 2012 - https://api.discogs.com/masters/578269
+Something Good - 2012 - https://api.discogs.com/masters/523234
+Tessellate - 2012 - https://api.discogs.com/masters/462826
+Matilda / Fitzpleasure - 2012 - https://api.discogs.com/masters/462827
+Live In Concert: SXSW 2013 - 2013 - https://api.discogs.com/releases/4939706
+iTunes Session - 2013 - https://api.discogs.com/releases/5287511
+Summer - 2013 - https://api.discogs.com/masters/885427
+The Gospel Of John Hurt - 2014 - https://api.discogs.com/releases/10420901
+Every Other Freckle - 2014 - https://api.discogs.com/masters/1185072
+Warm Foothills - 2014 - https://api.discogs.com/masters/1108784
+This Is All Yours - 2014 - https://api.discogs.com/masters/734411
+Hunger Of The Pine - 2014 - https://api.discogs.com/masters/978151
+Left Hand Free - 2014 - https://api.discogs.com/masters/786413
+This Is All Yours, Too - 2015 - https://api.discogs.com/releases/6807008
+Feels Like 37 / Story 4: Sleeplessly Embracing - 2015 - https://api.discogs.com/releases/7380077
+Live At Red Rocks - 2016 - https://api.discogs.com/masters/1019321
+2017 Live EP - 2017 - https://api.discogs.com/releases/11412657
+In Cold Blood - 2017 - https://api.discogs.com/masters/1397787
+3WW - 2017 - https://api.discogs.com/masters/1397790
+Relaxer - 2017 - https://api.discogs.com/masters/1188665
+Adeline - 2017 - https://api.discogs.com/masters/1397852
+Deadcrushed - 2017 - https://api.discogs.com/masters/1397873
+Pleader (Edit) - 2017 - https://api.discogs.com/masters/1397877
+Reduxer - 2018 - https://api.discogs.com/masters/1429660
+The Dream  - 2022 - https://api.discogs.com/masters/2502505
+An Awesome Wave - 2012 - https://api.discogs.com/masters/443194
+Hummingbird - 2015 - https://api.discogs.com/masters/1472358
+An Awesome Wave - 2012 - https://api.discogs.com/masters/443194
+Winter - 2015 - https://api.discogs.com/releases/13937437
+Rattled This Scene -A Strange Brew Collection No.20 - 2011 - https://api.discogs.com/releases/15936981
+Bitch House Mushtape Vol.1 - 2011 - https://api.discogs.com/releases/25451389
+Un Printemps 2012 - Volume 3 - 2012 - https://api.discogs.com/releases/3579802
+Sampler Digital - Juin 2012 - 2012 - https://api.discogs.com/releases/3656956
+ME-CD Nr. 0812 - 2012 - https://api.discogs.com/releases/3751907
+This Is [PIAS] Nordic - 2012 - https://api.discogs.com/releases/3758212
+Hype Machine Radio: July 2012 - 2012 - https://api.discogs.com/releases/3766972
+Mind The Gap #98 - 2012 - https://api.discogs.com/releases/3874819
+La Bande-son 2012 - 2012 - https://api.discogs.com/releases/4131589
+Mixtape 2012 - 2012 - https://api.discogs.com/releases/4312059
+Rough Trade Shops (Counter Culture 12) - 2012 - https://api.discogs.com/releases/4575330
+ La Route Du Rock - La Compilation 2012 - 2012 - https://api.discogs.com/releases/4591892
+36 Serious Tracks - 2012 - https://api.discogs.com/releases/7427089
+Sports Stadium Playlist SUMMER 2012 - 2012 - https://api.discogs.com/releases/12358885
+Promo Only Modern Rock Radio: December 2012 - 2012 - https://api.discogs.com/releases/19542391
+[PIAS] 2012 - 2012 - https://api.discogs.com/releases/21311878
+Banana Mix - 2012 - https://api.discogs.com/masters/806025
+All Gone Pete Tong & Reboot Future Sounds - 2012 - https://api.discogs.com/masters/575499
+Silver Linings Playbook (Original Motion Picture Soundtrack) - 2012 - https://api.discogs.com/masters/862301
+P.I.A.S. Label Sampler 2013 - Amazon.de Label Des Monats - 2013 - https://api.discogs.com/releases/4282237
+N° 344 - 2013 - https://api.discogs.com/releases/4416989
+NPR Music Presents: The Austin 100 - 2013 - https://api.discogs.com/releases/4460742
+De Afrekening 54 - 2013 - https://api.discogs.com/releases/4508252
+FUT.UR.ISM - 2013 - https://api.discogs.com/releases/4525787
+Rare Livesongs Der Besten Bands Des Festivalsommers 2013 - 2013 - https://api.discogs.com/releases/4541333
+Isolatedmix 40 - Away - 2013 - https://api.discogs.com/releases/4771597
+Chillout Sessions Classics - 2013 - https://api.discogs.com/releases/4814279
+Infectious Music 2013: Chew On This! - 2013 - https://api.discogs.com/releases/5010026
+Live At KEXP - Volume Nine - 2013 - https://api.discogs.com/releases/5289352
+TopGear Driving Anthems - 2013 - https://api.discogs.com/releases/5450265
+Haute Musique Nova - 2013 - https://api.discogs.com/releases/5633800
+Dermot O'Leary Presents The Saturday Sessions 2013 - 2013 - https://api.discogs.com/releases/8346442
+King Kong Kicks - Indie Pop & Electro Sensations Vol. 5 - 2013 - https://api.discogs.com/releases/8882058
+SHC. 10. 0 - 2013 - https://api.discogs.com/releases/9059326
+Brit Awards 2013 - 2013 - https://api.discogs.com/releases/9885831
+Folk You! - 2013 - https://api.discogs.com/releases/11186955
+Showreel - 2013 - https://api.discogs.com/releases/16010163
+88Nine Radio Milwaukee Presents: Studio Milwaukee Vol 3 - 2013 - https://api.discogs.com/releases/16078021
+Hostess Sampler 2013 Feb - 2013 Apr - 2013 - https://api.discogs.com/releases/16095082
+Month Of Music September 2014 - 2013 - https://api.discogs.com/releases/26254262
+Atlantic Records Group Winter 2013 Sampler - 2013 - https://api.discogs.com/releases/30138362
+PowerBytes Volume 1.1 - 2013 - https://api.discogs.com/releases/33508952
+Nova Tunes 2.7 - 2013 - https://api.discogs.com/masters/1119240
+Triple J's Hottest 100 Volume 20 - 2013 - https://api.discogs.com/masters/1673772
+89.3 The Current | Live Current Volume 9 - 2013 - https://api.discogs.com/masters/882758
+KUTX Live Volume 1 - 2013 - https://api.discogs.com/masters/1343198
+Young Folks - 2013 - https://api.discogs.com/masters/1238513
+ME-CD Nr. 0914 - 2014 - https://api.discogs.com/releases/6056683
+Une Rentrée 2014 - 2014 - https://api.discogs.com/releases/6058092
+Monster CD 48 - 2014 - https://api.discogs.com/releases/6105758
+N° 356 - 2014 - https://api.discogs.com/releases/6105806
+See Me On Top 4 - 2014 - https://api.discogs.com/releases/6133778
+Life Is Music 2014.2 - 2014 - https://api.discogs.com/releases/6261826
+De Afrekening 57 - 2014 - https://api.discogs.com/releases/6316305
+Humo Selecteert Het Beste Uit 2014 - 2014 - https://api.discogs.com/releases/6317165
+The Morning After The Night Before - 2014 - https://api.discogs.com/releases/6328575
+Chillout Sessions XVII - 2014 - https://api.discogs.com/releases/6387381
+La Bande-son 2014 - 2014 - https://api.discogs.com/releases/6425176
+The Saturday Sessions From The Dermot O'Leary Show - 2014 - https://api.discogs.com/releases/6744380
+Rock Werchter 40 1975-2014 - 2014 - https://api.discogs.com/releases/7254074
+BBC Radio 6 Music’s Alternative Jukebox - 2014 - https://api.discogs.com/releases/8019137
+Sunny Side Up 14 - 2014 - https://api.discogs.com/releases/8485639
+This Is Chill - 2014 - https://api.discogs.com/releases/9181126
+Coffret 60 Ans De Musique - 2014 - https://api.discogs.com/releases/9707829
+First Classics - 2014 - https://api.discogs.com/releases/9709187
+egoFM Vol. 3 - 2014 - https://api.discogs.com/releases/9834983
+Remixes - 2014 - https://api.discogs.com/releases/10663600
+Musique Couture & Lala Berlin Fashion Week Mix (July 2014) - 2014 - https://api.discogs.com/releases/11359888
+Chilled Summer - 2014 - https://api.discogs.com/releases/11753600
+Sundjsetmix© L​-​GRV 1991 Post​-​Ethernet (Anti​-​Klicheéz Vibe) - 2014 - https://api.discogs.com/releases/13525940
+Radioactive - 2014 - https://api.discogs.com/releases/17340610
+GoldDisc3 / 1691 - 2014 - https://api.discogs.com/releases/19966846
+L'Esprit Inter 02 - Le Son De France Inter - 2014 - https://api.discogs.com/releases/24583868
+The Saturday Sessions From The Dermot O'Leary Show - 2014 - https://api.discogs.com/releases/27892383
+Collection FNAC 60 ANS - Rock - 2014 - https://api.discogs.com/releases/33413831
+Mix Tape 2014 - Die Songs Des Jahres - 2015 - https://api.discogs.com/releases/6494488
+egoFM Vol. 4 - 2015 - https://api.discogs.com/releases/6601607
+Journeys - Escape. Sleep. Relax. Repeat. - 2015 - https://api.discogs.com/releases/6746433
+De Afrekening 58 - 2015 - https://api.discogs.com/releases/6915446
+Chilled - 2015 - https://api.discogs.com/releases/6930508
+Rare Trax Vol. 92 - Cover Me Vol. 2 - 10 Songs Neu Interpretiert - 2015 - https://api.discogs.com/releases/6975995
+Life Is Music 2015.1 - 2015 - https://api.discogs.com/releases/7015398
+Perfectly Chilled. - 2015 - https://api.discogs.com/releases/7683894
+Latest & Greatest Indie Anthems - 2015 - https://api.discogs.com/releases/8103255
+FM4 Soundselection 31 - 2015 - https://api.discogs.com/releases/8467116
+Coffret FIP Vol.1 - 2015 - https://api.discogs.com/releases/8489102
+Ram Café 10 - 2015 - https://api.discogs.com/releases/8845680
+100% Chilled - 2015 - https://api.discogs.com/releases/10181838
+Nova Tunes 2.1_3.0 [2010-2014] - 2015 - https://api.discogs.com/releases/12272611
+88.5 KCSN Collector's Edition CD Sampler Vol. VIII - 2015 - https://api.discogs.com/releases/15558668
+Pure Lazy Factory - 2015 - https://api.discogs.com/releases/15608890
+A New You - 2015 - https://api.discogs.com/releases/21747886
+FluxFM Vol. 3 (Popkultur Kompakt) - 2015 - https://api.discogs.com/releases/25021891
+Triple J 40 Years Of Music - 2015 - https://api.discogs.com/masters/1547011
+Brit Awards 2015 - 2015 - https://api.discogs.com/masters/1401883
+89.3 The Current | Live Current Volume 11 - 2015 - https://api.discogs.com/masters/1350988
+Triple J's Hottest 100 (Volume 22) - 2015 - https://api.discogs.com/masters/2929786
+Greatest Ever! Indie Disco - 2016 - https://api.discogs.com/releases/8113036
+Brit Awards Best Group - 2016 - https://api.discogs.com/releases/8167816
+Modern Classics - 2016 - https://api.discogs.com/releases/8575353
+Greatest Ever! Festival Anthems - 2016 - https://api.discogs.com/releases/12018807
+Greatest Ever! Relaxing Songs - 2016 - https://api.discogs.com/releases/12021179
+Live At The World Café Volume 39 - 2016 - https://api.discogs.com/releases/12142263
+Танцевальный рай 36 - 2016 - https://api.discogs.com/releases/14416813
+PIAS Les sorties du 24/06 au 01/07 - 2016 - https://api.discogs.com/releases/23210099
+Pause 2016 - 2016 - https://api.discogs.com/releases/25637980
+Tristeturno  - 2016 - https://api.discogs.com/releases/32725449
+30 Ans Des InRocKuptibles  - 2016 - https://api.discogs.com/masters/1482505
+Life Is Strange - Soundtrack - 2016 - https://api.discogs.com/masters/948125
+Un Printemps 2017 - Volume 2 - 2017 - https://api.discogs.com/releases/10093091
+Live! Die Besten Bands Des Festivalsommers 2017 - 2017 - https://api.discogs.com/releases/10430670
+Life Is Music 2017.1 - 2017 - https://api.discogs.com/releases/10456104
 Hostess Sampler 2017 June - July / Hostess Sampler 2017 Summer Festival Special - 2017 - https://api.discogs.com/releases/11080752
 FM4 Soundselection 36 - 2017 - https://api.discogs.com/releases/11139234
-La Bande-son 2017 - 2017 - https://api.discogs.com/releases/11297643
-Club Der Roten Bänder (Staffel 03) - 2017 - https://api.discogs.com/releases/11471106
-Sun:Set 5 - 2017 - https://api.discogs.com/releases/22100206
+Q Presents Best Of The Best - 2017 - https://api.discogs.com/releases/11168965
+ONXRT: Live From The Archives Vol. 19 - 2017 - https://api.discogs.com/releases/11223262
+Life Is Music 2017.2 - 2017 - https://api.discogs.com/releases/11240542
+Hostess Sampler 2017 Oct - Nov - 2017 - https://api.discogs.com/releases/14080317
+Los 40 Trending - 2017 - https://api.discogs.com/releases/15745388
+Radio Extra May/Jun 2017 - 2017 - https://api.discogs.com/releases/27043872
+Hostess Sampler 2017 Mar - May - 2017 - https://api.discogs.com/releases/27131637
 Hostess Sampler 2017 May - Jun - 2017 - https://api.discogs.com/releases/32160087
-Momentos Rockdelux. Canciones Internacionales. 2017 / Vol. 2  - 2018 - https://api.discogs.com/releases/11527200
-De Afrekening 65 - 2018 - https://api.discogs.com/releases/12794965
-Ram Café 13 - 2018 - https://api.discogs.com/releases/13112968
-Pure Lazy Factory Volume 4 - 2018 - https://api.discogs.com/releases/15358086
-FUV Live 21 - 2018 - https://api.discogs.com/releases/19703815
-Victoria Place (Echoes Live 23) - 2018 - https://api.discogs.com/releases/29858596
-Rough Trade Shops Counter Culture 17 - 2018 - https://api.discogs.com/masters/1399754
-Vernon Subutex (La Bande Originale De La Série) - 2019 - https://api.discogs.com/releases/13670927
-La Bande-son De L'automne 2019 - 2019 - https://api.discogs.com/releases/14296362
-Sorties d'Octobre 2019 - 2019 - https://api.discogs.com/releases/14459214
-Killing Eve Season One & Two (Original Series Soundtrack) (Amazon Exclusive Edition) - 2019 - https://api.discogs.com/releases/14698307
-Zapraszamy Do Trójki - 2019 - https://api.discogs.com/releases/21945481
-Killing Eve Season One (Original Series Soundtrack) - 2019 - https://api.discogs.com/masters/1656510
-Killing Eve Season Two (Original Series Soundtrack) - 2019 - https://api.discogs.com/masters/1656511
-Momentos Rockdelux. Canciones Internacionales Vol. 1/2019 - 2020 - https://api.discogs.com/releases/14611227
-Duyster.2020 - 2020 - https://api.discogs.com/masters/1998388
-Suite 2021 - 2021 - https://api.discogs.com/releases/20647642
-Été 2024 - 2024 - https://api.discogs.com/releases/31124522
-Bubblegum  - 2023 - https://api.discogs.com/releases/29606317
-Cigarettes After Sex - 2023 - https://api.discogs.com/masters/1192593
-Cry - 2023 - https://api.discogs.com/masters/1622969
-X's - 2024 - https://api.discogs.com/masters/3539875
+Bright (The Album) - 2017 - https://api.discogs.com/masters/1517326
+De Afrekening 64 - 2018 - https://api.discogs.com/releases/11916433
+Live At The World Café Volume 42 - 2018 - https://api.discogs.com/releases/12142397
+Festival Anthems The Headliners - 2018 - https://api.discogs.com/releases/14687039
+KUTX Live! Volume 11 - 2018 - https://api.discogs.com/releases/15271992
+L'album Des Découvertes [Pias] En Qualité Studio - 2019 - https://api.discogs.com/releases/30901557
+This Is Not Our Universe - 2019 - https://api.discogs.com/masters/1612829
+Amor De Mãe Vol. 1 - 2020 - https://api.discogs.com/releases/14859715
+4751 - 2021 - https://api.discogs.com/masters/2637554
+Scott Mills Weekend Anthems - Desconocido - https://api.discogs.com/releases/8217868
+Peugeot Music Volume One - Desconocido - https://api.discogs.com/releases/19460089
+A Nous Volume 13 - Desconocido - https://api.discogs.com/releases/25518181
+Thank God It's Friday! Vol. 2 - Desconocido - https://api.discogs.com/releases/31252228
+Something Good (Leon Bolier Remix) - 2013 - https://api.discogs.com/masters/523234
+TD5 Mixtape - desIRE NEstles here - 2014 - https://api.discogs.com/releases/7030789
+Life Is Strange - Soundtrack - 2021 - https://api.discogs.com/masters/948125
