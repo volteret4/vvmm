@@ -1,174 +1,287 @@
 Listado de releases del artista:
-Bloodflood / Tessellate - 2011 - https://api.discogs.com/masters/495511
-Breezeblocks - 2011 - https://api.discogs.com/masters/458940
-Tiny Desk Concert - 2012 - https://api.discogs.com/releases/13021505
-Fitzpleasure - 2012 - https://api.discogs.com/masters/1668391
-An Awesome Wave - 2012 - https://api.discogs.com/masters/443194
-Matilda - 2012 - https://api.discogs.com/masters/550852
-Dissolve Me - 2012 - https://api.discogs.com/masters/578269
-Something Good - 2012 - https://api.discogs.com/masters/523234
-Tessellate - 2012 - https://api.discogs.com/masters/462826
-Matilda / Fitzpleasure - 2012 - https://api.discogs.com/masters/462827
-Live In Concert: SXSW 2013 - 2013 - https://api.discogs.com/releases/4939706
-iTunes Session - 2013 - https://api.discogs.com/releases/5287511
-Summer - 2013 - https://api.discogs.com/masters/885427
-The Gospel Of John Hurt - 2014 - https://api.discogs.com/releases/10420901
-Every Other Freckle - 2014 - https://api.discogs.com/masters/1185072
-Warm Foothills - 2014 - https://api.discogs.com/masters/1108784
-This Is All Yours - 2014 - https://api.discogs.com/masters/734411
-Hunger Of The Pine - 2014 - https://api.discogs.com/masters/978151
-Left Hand Free - 2014 - https://api.discogs.com/masters/786413
-This Is All Yours, Too - 2015 - https://api.discogs.com/releases/6807008
-Feels Like 37 / Story 4: Sleeplessly Embracing - 2015 - https://api.discogs.com/releases/7380077
-Live At Red Rocks - 2016 - https://api.discogs.com/masters/1019321
-2017 Live EP - 2017 - https://api.discogs.com/releases/11412657
-In Cold Blood - 2017 - https://api.discogs.com/masters/1397787
-3WW - 2017 - https://api.discogs.com/masters/1397790
-Relaxer - 2017 - https://api.discogs.com/masters/1188665
-Adeline - 2017 - https://api.discogs.com/masters/1397852
-Deadcrushed - 2017 - https://api.discogs.com/masters/1397873
-Pleader (Edit) - 2017 - https://api.discogs.com/masters/1397877
-Reduxer - 2018 - https://api.discogs.com/masters/1429660
-The Dream  - 2022 - https://api.discogs.com/masters/2502505
-An Awesome Wave - 2012 - https://api.discogs.com/masters/443194
-Hummingbird - 2015 - https://api.discogs.com/masters/1472358
-An Awesome Wave - 2012 - https://api.discogs.com/masters/443194
-Winter - 2015 - https://api.discogs.com/releases/13937437
-Rattled This Scene -A Strange Brew Collection No.20 - 2011 - https://api.discogs.com/releases/15936981
-Bitch House Mushtape Vol.1 - 2011 - https://api.discogs.com/releases/25451389
-Un Printemps 2012 - Volume 3 - 2012 - https://api.discogs.com/releases/3579802
-Sampler Digital - Juin 2012 - 2012 - https://api.discogs.com/releases/3656956
-ME-CD Nr. 0812 - 2012 - https://api.discogs.com/releases/3751907
-This Is [PIAS] Nordic - 2012 - https://api.discogs.com/releases/3758212
-Hype Machine Radio: July 2012 - 2012 - https://api.discogs.com/releases/3766972
-Mind The Gap #98 - 2012 - https://api.discogs.com/releases/3874819
-La Bande-son 2012 - 2012 - https://api.discogs.com/releases/4131589
-Mixtape 2012 - 2012 - https://api.discogs.com/releases/4312059
-Rough Trade Shops (Counter Culture 12) - 2012 - https://api.discogs.com/releases/4575330
- La Route Du Rock - La Compilation 2012 - 2012 - https://api.discogs.com/releases/4591892
-36 Serious Tracks - 2012 - https://api.discogs.com/releases/7427089
-Sports Stadium Playlist SUMMER 2012 - 2012 - https://api.discogs.com/releases/12358885
-Promo Only Modern Rock Radio: December 2012 - 2012 - https://api.discogs.com/releases/19542391
-[PIAS] 2012 - 2012 - https://api.discogs.com/releases/21311878
-Banana Mix - 2012 - https://api.discogs.com/masters/806025
-All Gone Pete Tong & Reboot Future Sounds - 2012 - https://api.discogs.com/masters/575499
-Silver Linings Playbook (Original Motion Picture Soundtrack) - 2012 - https://api.discogs.com/masters/862301
-P.I.A.S. Label Sampler 2013 - Amazon.de Label Des Monats - 2013 - https://api.discogs.com/releases/4282237
+Eulogy For Evolution - 2007 - https://api.discogs.com/masters/58166
+Variations Of Static - 2008 - https://api.discogs.com/masters/58169
+Variations Of Static & Found Songs - 2009 - https://api.discogs.com/releases/2080107
+Found Songs - 2009 - https://api.discogs.com/masters/176291
+Dyad 1909 - 2009 - https://api.discogs.com/masters/214982
+Endalaus - 2010 - https://api.discogs.com/releases/21888520
+...And They Have Escaped The Weight Of Darkness - 2010 - https://api.discogs.com/masters/251603
+Another Happy Day (Original Motion Picture Soundtrack) - 2011 - https://api.discogs.com/masters/414539
+Living Room Songs - 2011 - https://api.discogs.com/masters/393653
+Living Room Songs & Dyad 1909 - 2012 - https://api.discogs.com/releases/3706624
+Two Songs For Dance - 2012 - https://api.discogs.com/masters/1942542
+Stare - 2012 - https://api.discogs.com/masters/475395
+The Winter EP - 2013 - https://api.discogs.com/releases/17072799
+Only The Winds (The Remixes EP) - 2013 - https://api.discogs.com/releases/17072952
+For Now I Am Winter - 2013 - https://api.discogs.com/masters/527641
+Broadchurch (Music From The Original Soundtrack) - 2013 - https://api.discogs.com/masters/1264568
+Two Songs For Dance · Stare · Thrown EP - 2014 - https://api.discogs.com/releases/5608558
+Gimme Shelter (Music From The Motion Picture) - 2014 - https://api.discogs.com/releases/5755033
+The Invisible Front EP - 2014 - https://api.discogs.com/releases/6143125
+Not Alone (Broadchurch) - 2015 - https://api.discogs.com/releases/6992979
+Life Story Love And Glory - 2015 - https://api.discogs.com/masters/879194
+Collaborative Works - 2015 - https://api.discogs.com/masters/1606381
+Loon - 2015 - https://api.discogs.com/masters/893227
+The Chopin Project - 2015 - https://api.discogs.com/masters/820598
+Broadchurch - 2015 - https://api.discogs.com/masters/830936
+Study For Generative Piano (i) - 2016 - https://api.discogs.com/releases/8390172
+Particles - 2016 - https://api.discogs.com/releases/9049157
+LateNightTales - 2016 - https://api.discogs.com/masters/1019559
+Island Songs - 2016 - https://api.discogs.com/masters/1081550
+Trance Frendz - An Evening With Ólafur Arnalds And Nils Frahm - 2016 - https://api.discogs.com/masters/968089
+Take My Leave Of You (Lambert Rework) - 2017 - https://api.discogs.com/releases/17073168
+Hipshaking Edit No.2 - 2017 - https://api.discogs.com/releases/24727256
+0026 (Rêve Remix) - 2017 - https://api.discogs.com/releases/25769260
+Öldurot - 2017 - https://api.discogs.com/masters/1162335
+Broadchurch: The Final Chapter - 2017 - https://api.discogs.com/masters/1175994
+Re:member - 2018 - https://api.discogs.com/releases/11830901
+Re:member - 2018 - https://api.discogs.com/masters/1412623
+Partial + Ypsilon - 2019 - https://api.discogs.com/releases/17072625
+Re:member (Choir Versions) - 2019 - https://api.discogs.com/masters/1985620
+Re:visions (Live) - 2019 - https://api.discogs.com/masters/1721248
+Re:member – String Quartets - 2019 - https://api.discogs.com/masters/2592206
+Back To The Sky - 2020 - https://api.discogs.com/releases/17731063
+Some Kind Of Peace  - 2020 - https://api.discogs.com/masters/1835696
+Oceans - 2020 - https://api.discogs.com/masters/2173156
+Epilogue - 2021 - https://api.discogs.com/releases/17801920
+Saudade (When We Are Born) - 2021 - https://api.discogs.com/releases/19248739
+The Invisible - 2021 - https://api.discogs.com/releases/20690815
+Tree - 2021 - https://api.discogs.com/releases/25376284
+A Sunrise Session - 2021 - https://api.discogs.com/masters/2043598
+Live On KEXP - 2022 - https://api.discogs.com/releases/28894033
+Some Kind Of Peace - Piano Reworks - 2022 - https://api.discogs.com/masters/2862238
+And We'll Leave It There… - 2023 - https://api.discogs.com/releases/27402516
+Trying To Think Of Nothing - 2023 - https://api.discogs.com/releases/29024599
+Forever Held - 2024 - https://api.discogs.com/releases/33054819
+Forever Held (We Are All Astronauts Remix)  - 2025 - https://api.discogs.com/releases/33045399
+A Dawning - 2025 - https://api.discogs.com/releases/34489471
+Keep Your Teeth Sharp EP - 2009 - https://api.discogs.com/masters/343463
+To Die For (Remixes) - 2020 - https://api.discogs.com/masters/1698453
+Zeit - 2022 - https://api.discogs.com/masters/2545906
+Clarion - 2022 - https://api.discogs.com/masters/2596718
+Remixes - 2022 - https://api.discogs.com/masters/3454385
+Iconoclast - 2008 - https://api.discogs.com/masters/66083
+Til Hennar - 2010 - https://api.discogs.com/releases/10336624
+Antigone - 2010 - https://api.discogs.com/masters/66074
+Svefns Og Vöku Skil - 2011 - https://api.discogs.com/masters/568423
+Deep Ellum - 2013 - https://api.discogs.com/releases/5111874
+Kiasmos - 2014 - https://api.discogs.com/masters/751011
+Sorry - 2016 - https://api.discogs.com/releases/9376012
+Expo I - 2017 - https://api.discogs.com/masters/1387030
+Silhouettes - 2017 - https://api.discogs.com/masters/1128032
+Easy Quiet - 2020 - https://api.discogs.com/releases/17730121
+Infinity - 2021 - https://api.discogs.com/masters/3668229
+Clarion - 2022 - https://api.discogs.com/masters/2596718
+II - 2024 - https://api.discogs.com/masters/3531545
+Flown - 2024 - https://api.discogs.com/masters/3437438
+Hefnið Okkar - 2017 - https://api.discogs.com/masters/1264441
+Gott Andrúm - 2005 - https://api.discogs.com/releases/16995750
+Má Bjóða Þér Lán? - 2006 - https://api.discogs.com/releases/10294150
+Chainlike Burden - 2007 - https://api.discogs.com/masters/1372120
+Iconoclast - 2008 - https://api.discogs.com/masters/66083
+Í Fríkirkjunni - 2009 - https://api.discogs.com/releases/10336417
+Dry Land - 2011 - https://api.discogs.com/masters/397048
+Swept EP - 2015 - https://api.discogs.com/masters/917017
+Blurred EP - 2017 - https://api.discogs.com/masters/1248871
+Philip K. Dick's Electric Dreams: An Anthology Series (Original Soundtrack) - 2018 - https://api.discogs.com/masters/1657939
+Mauled - 2024 - https://api.discogs.com/releases/33198450
+Hot Tears / Clogging E.P. - 2024 - https://api.discogs.com/releases/33321591
+Antigone - 2004 - https://api.discogs.com/masters/66074
+No Pasaran - 2004 - https://api.discogs.com/masters/484047
+!Bothered! EP - 2005 - https://api.discogs.com/releases/7242070
+Gott Andrúm - 2005 - https://api.discogs.com/releases/16995750
+The Split Program II - 2005 - https://api.discogs.com/masters/66078
+Má Bjóða Þér Lán? - 2006 - https://api.discogs.com/releases/10294150
+Ljósalagið 2006 - 2006 - https://api.discogs.com/releases/34201582
+Bad Sects - 2007 - https://api.discogs.com/masters/2858002
+Activism - 2008 - https://api.discogs.com/releases/1755444
+Iconoclast - 2008 - https://api.discogs.com/masters/66083
+At The Borders Of Arcadia - 2008 - https://api.discogs.com/masters/562767
+Spot Festival 2009 CD - 2009 - https://api.discogs.com/releases/4380956
+My Arms - 2009 - https://api.discogs.com/releases/10023975
+65 / Milo - 2009 - https://api.discogs.com/masters/436506
+Bildersturm (The Visual Resistance) - Iconoclast II - 2009 - https://api.discogs.com/masters/548123
+For Nihon - 2011 - https://api.discogs.com/releases/2934675
+Le Voyage Abstrait Vol. 2 - 2011 - https://api.discogs.com/masters/514789
+Dry Land - 2011 - https://api.discogs.com/masters/397048
+Hot Spring - Landmannalaugar - 2012 - https://api.discogs.com/releases/3671764
+Thrown - 2012 - https://api.discogs.com/masters/748489
+Hot Spring - Askja - 2013 - https://api.discogs.com/releases/5100955
+Klara Presents The Original Soundtrack Part 2 - 2013 - https://api.discogs.com/releases/13792830
+Tracing Echoes - 2013 - https://api.discogs.com/masters/542542
+Le Café Abstrait Vol. 10 - 2013 - https://api.discogs.com/masters/1476506
+Taking Ship - 2014 - https://api.discogs.com/releases/5299079
+Hugar - 2014 - https://api.discogs.com/masters/1759446
+The Soundgarden - Volume One - 2014 - https://api.discogs.com/masters/695533
+Kiasmos - 2014 - https://api.discogs.com/masters/751011
+Anjunadeep 06 - 2014 - https://api.discogs.com/masters/733115
+Klassik Lounge Werk / 13 - 2015 - https://api.discogs.com/releases/7348245
+Iskra - 2015 - https://api.discogs.com/releases/7691147
+ME-CD Nr. 1215 - 2015 - https://api.discogs.com/releases/7764270
+Hot Spring - Gunnuhver - 2015 - https://api.discogs.com/releases/9062963
+New & Smooth (Moderne Klassik Für Die Seele) - 2015 - https://api.discogs.com/releases/13218346
+Swept EP - 2015 - https://api.discogs.com/masters/917017
+Kontor Sunset Chill 2015 - 2015 - https://api.discogs.com/masters/1375784
+Looped EP - 2015 - https://api.discogs.com/masters/835706
+Classically Chilled - 2015 - https://api.discogs.com/masters/1835788
+Buddha-Bar XVII - 2015 - https://api.discogs.com/masters/906546
+Dream Forever (A Dream Pop Compendium) - 2016 - https://api.discogs.com/releases/9386695
+The Complete Chopin - 2016 - https://api.discogs.com/releases/10986873
+Soundscapes - 2016 - https://api.discogs.com/releases/32720649
+The Glass Effect (The Music Of Philip Glass) - 2016 - https://api.discogs.com/masters/1208839
+Winter - 2016 - https://api.discogs.com/masters/2443378
+Anjunadeep 08 - 2016 - https://api.discogs.com/masters/1106197
+Banda Sonora Del Documental El Bosco. El Jardín De Los Sueños - 2016 - https://api.discogs.com/masters/2001754
+Erased Tapes Collection VII - 2016 - https://api.discogs.com/masters/988051
+Darklight - 2017 - https://api.discogs.com/releases/10473943
+Like Deep Water - 2017 - https://api.discogs.com/releases/10689568
+Peaceful Piano: A Journey To Complete Relaxation - 2017 - https://api.discogs.com/releases/11009859
+Aangenaam... Klassiek 2017 - 2017 - https://api.discogs.com/releases/11711349
+EXPO I - 2017 - https://api.discogs.com/masters/1387030
+Nordic Noir - 2017 - https://api.discogs.com/masters/1283683
+Blurred EP - 2017 - https://api.discogs.com/masters/1248871
+Erased Tapes Collection VIII - 2017 - https://api.discogs.com/masters/1151384
+Musikexpress 07/18 - 2018 - https://api.discogs.com/releases/12289843
+For Now I Am Winter - 2018 - https://api.discogs.com/releases/16992189
+Philip K. Dick's Electric Dreams: An Anthology Series (Original Soundtrack) - 2018 - https://api.discogs.com/masters/1657939
+1 + 1 = X - 2018 - https://api.discogs.com/masters/1407769
+Global Underground: Select 3 - 2018 - https://api.discogs.com/masters/1312098
+Pulsations - 2019 - https://api.discogs.com/releases/15959184
+Minimal Works - 2019 - https://api.discogs.com/releases/22081738
+Emulsion - 2019 - https://api.discogs.com/masters/1554000
+Spirit - 2019 - https://api.discogs.com/masters/1569101
+Nimbostratus - 2020 - https://api.discogs.com/releases/18132103
+Defending Jacob (Apple TV+ Limited Series Soundtrack) - 2020 - https://api.discogs.com/releases/27190230
+Light Year - 2021 - https://api.discogs.com/releases/31015069
+Calm - 2021 - https://api.discogs.com/releases/32598519
+Nomadland (Original Motion Picture Soundtrack) - 2021 - https://api.discogs.com/masters/2188012
+Infinity - 2021 - https://api.discogs.com/masters/3668229
+Keep Me Imperfect - 2022 - https://api.discogs.com/releases/29884657
+Peaceful Piano Moods - 2022 - https://api.discogs.com/releases/31971020
+The Last Goodbye - 2022 - https://api.discogs.com/masters/2715656
+Zeit - 2022 - https://api.discogs.com/masters/2545906
+Blood Moon - 2022 - https://api.discogs.com/masters/2763575
+Are You Still Somewhere? - 2022 - https://api.discogs.com/masters/2932543
+Ghosts - 2023 - https://api.discogs.com/masters/3265648
+Winter - 2024 - https://api.discogs.com/releases/30445811
+Litli Dauði / Stóri Hvellur - 2024 - https://api.discogs.com/releases/31006690
+Mauled - 2024 - https://api.discogs.com/releases/33198450
+Hot Tears / Clogging E.P. - 2024 - https://api.discogs.com/releases/33321591
+II - 2024 - https://api.discogs.com/masters/3531545
+Flown - 2024 - https://api.discogs.com/masters/3437438
+Tuned For Thrash - Desconocido - https://api.discogs.com/masters/1914420
+The Silent Ballet IX - 2008 - https://api.discogs.com/releases/2272207
+14 Tracks That Make You Wish You Played The Piano - 2008 - https://api.discogs.com/releases/3061908
+Made In Iceland - 2008 - https://api.discogs.com/releases/3762613
+Sound Check No. 110 - 2008 - https://api.discogs.com/releases/5613873
+Autumn Sampler 2008 - 2008 - https://api.discogs.com/releases/7176576
+Erased Tapes Collection I - At The End Of All Music Happiness Will Be Erased - 2008 - https://api.discogs.com/masters/1871802
+Modern Classical - 2009 - https://api.discogs.com/releases/2685464
+Alfa Sound I - 2009 - https://api.discogs.com/releases/3344951
+Spot Festival 2009 CD - 2009 - https://api.discogs.com/releases/4380956
+Mind The Gap Volume 84 - 2010 - https://api.discogs.com/releases/2277179
+Cold Air - 2010 - https://api.discogs.com/releases/2604446
+Hot Spring - 2010 - https://api.discogs.com/releases/4208014
+Variations Of Shade - 2010 - https://api.discogs.com/releases/6037738
+Chillin' At Ocean Drive Hotel Ibiza - 2010 - https://api.discogs.com/releases/7684427
+Made In Iceland 3 - 2010 - https://api.discogs.com/releases/8738968
+Erased Tapes Collection II - 2010 - https://api.discogs.com/masters/392941
+Destination: Future - 2010 - https://api.discogs.com/masters/569650
+Best Of Modern Classical 2010 - 2011 - https://api.discogs.com/releases/2637594
+For Nihon - 2011 - https://api.discogs.com/releases/2934675
+部屋、音楽が溶けて - 2011 - https://api.discogs.com/releases/3801899
+Echoing Voices - 2011 - https://api.discogs.com/releases/9673689
+Echo Location (The Echoes Living Room Concerts Volume 17) - 2011 - https://api.discogs.com/releases/29580085
+Le Voyage Abstrait Vol. 2 - 2011 - https://api.discogs.com/masters/514789
+Erased Tapes Collection III - 2011 - https://api.discogs.com/masters/1537391
+Hot Spring - Landmannalaugar - 2012 - https://api.discogs.com/releases/3671764
+Made In Iceland V - 2012 - https://api.discogs.com/releases/3726329
+Secret Thirteen Mix 037 - 2012 - https://api.discogs.com/releases/3940724
+Ein Stueckchen Urstoff Mix - 2012 - https://api.discogs.com/releases/4251307
+The Top 100 Tracks Of 2012 - 2012 - https://api.discogs.com/releases/4258621
+Decibel Mix - 2012 - https://api.discogs.com/releases/4333273
+In Pleasant Company: A Mixtape For Jason - 2012 - https://api.discogs.com/releases/4421815
+The Coldest Nights Mix - 2012 - https://api.discogs.com/releases/6481191
+Kontor Sunset Chill 2012 - 2012 - https://api.discogs.com/releases/11023737
+Issaya Siamese Club - 2012 - https://api.discogs.com/releases/14959236
+Erased Tapes - 2012 - https://api.discogs.com/releases/26323295
+Erased Tapes Collection IV - 2012 - https://api.discogs.com/masters/1452687
+... And Darkness Came - 2012 - https://api.discogs.com/masters/613246
+Made In Iceland VI - 2013 - https://api.discogs.com/releases/4400053
 N° 344 - 2013 - https://api.discogs.com/releases/4416989
+'Dawn' An Ambient Mix - 2013 - https://api.discogs.com/releases/4425859
 NPR Music Presents: The Austin 100 - 2013 - https://api.discogs.com/releases/4460742
-De Afrekening 54 - 2013 - https://api.discogs.com/releases/4508252
-FUT.UR.ISM - 2013 - https://api.discogs.com/releases/4525787
-Rare Livesongs Der Besten Bands Des Festivalsommers 2013 - 2013 - https://api.discogs.com/releases/4541333
-Isolatedmix 40 - Away - 2013 - https://api.discogs.com/releases/4771597
-Chillout Sessions Classics - 2013 - https://api.discogs.com/releases/4814279
-Infectious Music 2013: Chew On This! - 2013 - https://api.discogs.com/releases/5010026
-Live At KEXP - Volume Nine - 2013 - https://api.discogs.com/releases/5289352
-TopGear Driving Anthems - 2013 - https://api.discogs.com/releases/5450265
-Haute Musique Nova - 2013 - https://api.discogs.com/releases/5633800
-Dermot O'Leary Presents The Saturday Sessions 2013 - 2013 - https://api.discogs.com/releases/8346442
-King Kong Kicks - Indie Pop & Electro Sensations Vol. 5 - 2013 - https://api.discogs.com/releases/8882058
-SHC. 10. 0 - 2013 - https://api.discogs.com/releases/9059326
-Brit Awards 2013 - 2013 - https://api.discogs.com/releases/9885831
-Folk You! - 2013 - https://api.discogs.com/releases/11186955
-Showreel - 2013 - https://api.discogs.com/releases/16010163
-88Nine Radio Milwaukee Presents: Studio Milwaukee Vol 3 - 2013 - https://api.discogs.com/releases/16078021
-Hostess Sampler 2013 Feb - 2013 Apr - 2013 - https://api.discogs.com/releases/16095082
-Month Of Music September 2014 - 2013 - https://api.discogs.com/releases/26254262
-Atlantic Records Group Winter 2013 Sampler - 2013 - https://api.discogs.com/releases/30138362
-PowerBytes Volume 1.1 - 2013 - https://api.discogs.com/releases/33508952
-Nova Tunes 2.7 - 2013 - https://api.discogs.com/masters/1119240
-Triple J's Hottest 100 Volume 20 - 2013 - https://api.discogs.com/masters/1673772
-89.3 The Current | Live Current Volume 9 - 2013 - https://api.discogs.com/masters/882758
-KUTX Live Volume 1 - 2013 - https://api.discogs.com/masters/1343198
-Young Folks - 2013 - https://api.discogs.com/masters/1238513
-ME-CD Nr. 0914 - 2014 - https://api.discogs.com/releases/6056683
-Une Rentrée 2014 - 2014 - https://api.discogs.com/releases/6058092
-Monster CD 48 - 2014 - https://api.discogs.com/releases/6105758
-N° 356 - 2014 - https://api.discogs.com/releases/6105806
-See Me On Top 4 - 2014 - https://api.discogs.com/releases/6133778
-Life Is Music 2014.2 - 2014 - https://api.discogs.com/releases/6261826
-De Afrekening 57 - 2014 - https://api.discogs.com/releases/6316305
-Humo Selecteert Het Beste Uit 2014 - 2014 - https://api.discogs.com/releases/6317165
-The Morning After The Night Before - 2014 - https://api.discogs.com/releases/6328575
-Chillout Sessions XVII - 2014 - https://api.discogs.com/releases/6387381
-La Bande-son 2014 - 2014 - https://api.discogs.com/releases/6425176
-The Saturday Sessions From The Dermot O'Leary Show - 2014 - https://api.discogs.com/releases/6744380
-Rock Werchter 40 1975-2014 - 2014 - https://api.discogs.com/releases/7254074
-BBC Radio 6 Music’s Alternative Jukebox - 2014 - https://api.discogs.com/releases/8019137
-Sunny Side Up 14 - 2014 - https://api.discogs.com/releases/8485639
-This Is Chill - 2014 - https://api.discogs.com/releases/9181126
-Coffret 60 Ans De Musique - 2014 - https://api.discogs.com/releases/9707829
-First Classics - 2014 - https://api.discogs.com/releases/9709187
-egoFM Vol. 3 - 2014 - https://api.discogs.com/releases/9834983
-Remixes - 2014 - https://api.discogs.com/releases/10663600
-Musique Couture & Lala Berlin Fashion Week Mix (July 2014) - 2014 - https://api.discogs.com/releases/11359888
-Chilled Summer - 2014 - https://api.discogs.com/releases/11753600
-Sundjsetmix© L​-​GRV 1991 Post​-​Ethernet (Anti​-​Klicheéz Vibe) - 2014 - https://api.discogs.com/releases/13525940
-Radioactive - 2014 - https://api.discogs.com/releases/17340610
-GoldDisc3 / 1691 - 2014 - https://api.discogs.com/releases/19966846
-L'Esprit Inter 02 - Le Son De France Inter - 2014 - https://api.discogs.com/releases/24583868
-The Saturday Sessions From The Dermot O'Leary Show - 2014 - https://api.discogs.com/releases/27892383
-Collection FNAC 60 ANS - Rock - 2014 - https://api.discogs.com/releases/33413831
-Mix Tape 2014 - Die Songs Des Jahres - 2015 - https://api.discogs.com/releases/6494488
-egoFM Vol. 4 - 2015 - https://api.discogs.com/releases/6601607
-Journeys - Escape. Sleep. Relax. Repeat. - 2015 - https://api.discogs.com/releases/6746433
-De Afrekening 58 - 2015 - https://api.discogs.com/releases/6915446
-Chilled - 2015 - https://api.discogs.com/releases/6930508
-Rare Trax Vol. 92 - Cover Me Vol. 2 - 10 Songs Neu Interpretiert - 2015 - https://api.discogs.com/releases/6975995
-Life Is Music 2015.1 - 2015 - https://api.discogs.com/releases/7015398
-Perfectly Chilled. - 2015 - https://api.discogs.com/releases/7683894
-Latest & Greatest Indie Anthems - 2015 - https://api.discogs.com/releases/8103255
-FM4 Soundselection 31 - 2015 - https://api.discogs.com/releases/8467116
-Coffret FIP Vol.1 - 2015 - https://api.discogs.com/releases/8489102
-Ram Café 10 - 2015 - https://api.discogs.com/releases/8845680
-100% Chilled - 2015 - https://api.discogs.com/releases/10181838
-Nova Tunes 2.1_3.0 [2010-2014] - 2015 - https://api.discogs.com/releases/12272611
-88.5 KCSN Collector's Edition CD Sampler Vol. VIII - 2015 - https://api.discogs.com/releases/15558668
-Pure Lazy Factory - 2015 - https://api.discogs.com/releases/15608890
-A New You - 2015 - https://api.discogs.com/releases/21747886
-FluxFM Vol. 3 (Popkultur Kompakt) - 2015 - https://api.discogs.com/releases/25021891
-Triple J 40 Years Of Music - 2015 - https://api.discogs.com/masters/1547011
-Brit Awards 2015 - 2015 - https://api.discogs.com/masters/1401883
-89.3 The Current | Live Current Volume 11 - 2015 - https://api.discogs.com/masters/1350988
-Triple J's Hottest 100 (Volume 22) - 2015 - https://api.discogs.com/masters/2929786
-Greatest Ever! Indie Disco - 2016 - https://api.discogs.com/releases/8113036
-Brit Awards Best Group - 2016 - https://api.discogs.com/releases/8167816
-Modern Classics - 2016 - https://api.discogs.com/releases/8575353
-Greatest Ever! Festival Anthems - 2016 - https://api.discogs.com/releases/12018807
-Greatest Ever! Relaxing Songs - 2016 - https://api.discogs.com/releases/12021179
-Live At The World Café Volume 39 - 2016 - https://api.discogs.com/releases/12142263
-Танцевальный рай 36 - 2016 - https://api.discogs.com/releases/14416813
-PIAS Les sorties du 24/06 au 01/07 - 2016 - https://api.discogs.com/releases/23210099
-Pause 2016 - 2016 - https://api.discogs.com/releases/25637980
-Tristeturno  - 2016 - https://api.discogs.com/releases/32725449
-30 Ans Des InRocKuptibles  - 2016 - https://api.discogs.com/masters/1482505
-Life Is Strange - Soundtrack - 2016 - https://api.discogs.com/masters/948125
-Un Printemps 2017 - Volume 2 - 2017 - https://api.discogs.com/releases/10093091
-Live! Die Besten Bands Des Festivalsommers 2017 - 2017 - https://api.discogs.com/releases/10430670
-Life Is Music 2017.1 - 2017 - https://api.discogs.com/releases/10456104
-Hostess Sampler 2017 June - July / Hostess Sampler 2017 Summer Festival Special - 2017 - https://api.discogs.com/releases/11080752
-FM4 Soundselection 36 - 2017 - https://api.discogs.com/releases/11139234
-Q Presents Best Of The Best - 2017 - https://api.discogs.com/releases/11168965
-ONXRT: Live From The Archives Vol. 19 - 2017 - https://api.discogs.com/releases/11223262
-Life Is Music 2017.2 - 2017 - https://api.discogs.com/releases/11240542
-Hostess Sampler 2017 Oct - Nov - 2017 - https://api.discogs.com/releases/14080317
-Los 40 Trending - 2017 - https://api.discogs.com/releases/15745388
-Radio Extra May/Jun 2017 - 2017 - https://api.discogs.com/releases/27043872
-Hostess Sampler 2017 Mar - May - 2017 - https://api.discogs.com/releases/27131637
-Hostess Sampler 2017 May - Jun - 2017 - https://api.discogs.com/releases/32160087
-Bright (The Album) - 2017 - https://api.discogs.com/masters/1517326
-De Afrekening 64 - 2018 - https://api.discogs.com/releases/11916433
-Live At The World Café Volume 42 - 2018 - https://api.discogs.com/releases/12142397
-Festival Anthems The Headliners - 2018 - https://api.discogs.com/releases/14687039
-KUTX Live! Volume 11 - 2018 - https://api.discogs.com/releases/15271992
-L'album Des Découvertes [Pias] En Qualité Studio - 2019 - https://api.discogs.com/releases/30901557
-This Is Not Our Universe - 2019 - https://api.discogs.com/masters/1612829
-Amor De Mãe Vol. 1 - 2020 - https://api.discogs.com/releases/14859715
-4751 - 2021 - https://api.discogs.com/masters/2637554
-Scott Mills Weekend Anthems - Desconocido - https://api.discogs.com/releases/8217868
-Peugeot Music Volume One - Desconocido - https://api.discogs.com/releases/19460089
-A Nous Volume 13 - Desconocido - https://api.discogs.com/releases/25518181
-Thank God It's Friday! Vol. 2 - Desconocido - https://api.discogs.com/releases/31252228
-Something Good (Leon Bolier Remix) - 2013 - https://api.discogs.com/masters/523234
-TD5 Mixtape - desIRE NEstles here - 2014 - https://api.discogs.com/releases/7030789
-Life Is Strange - Soundtrack - 2021 - https://api.discogs.com/masters/948125
+Deathmetaldiscoclub #014 - 2013 - https://api.discogs.com/releases/4912770
+Deathmetaldiscoclub #026 - 2013 - https://api.discogs.com/releases/4912844
+MoeskoMusic Podcast #02 - 2013 - https://api.discogs.com/releases/4956622
+SSS Podcast #057  - 2013 - https://api.discogs.com/releases/5023050
+Hot Spring - Askja - 2013 - https://api.discogs.com/releases/5100955
+A Strangely Isolated Place SpacesFM Guest Mix - 2013 - https://api.discogs.com/releases/5142323
+Ten Years After : Pastel Music 10th Anniversary - 2013 - https://api.discogs.com/releases/5265801
+Reflections: 2013 - 2013 - https://api.discogs.com/releases/5272953
+Pottþétt 59 - 2013 - https://api.discogs.com/releases/6083745
+Bezdna Radio Essentials 028 - 2013 - https://api.discogs.com/releases/6372163
+Erased Tapes Showcase - 2013 - https://api.discogs.com/releases/6523423
+Sexto 'Nplugged Compilation 2012 - 2013 - https://api.discogs.com/releases/7291950
+Don't Drop It In The Dustbin VOL. 3 - 2013 - https://api.discogs.com/releases/11161480
+Transmissions (The Echoes Living Room Concerts Volume 19) - 2013 - https://api.discogs.com/releases/14718540
+Yogi Beats CD No 5 - 2013 - https://api.discogs.com/releases/31421444
+Erased Tapes Collection V - 2013 - https://api.discogs.com/masters/1801219
+Le Café Abstrait Vol. 10 - 2013 - https://api.discogs.com/masters/1476506
+Pianorama 2b - 2014 - https://api.discogs.com/releases/5426293
+Øresundsbroen | 05:50 | tåge - 2014 - https://api.discogs.com/releases/6243655
+Fyrir Gaza - 2014 - https://api.discogs.com/releases/7672224
+Day Zero: Countdown To Zero - 2014 - https://api.discogs.com/releases/7932823
+Elite (Fashion Fantasy - Puerto Banus) - 2014 - https://api.discogs.com/releases/12667788
+The Sound Of Yellow Lounge - 2014 - https://api.discogs.com/releases/24627611
+Anjunadeep 06 Sampler One - 2014 - https://api.discogs.com/masters/725148
+The Soundgarden (Volume One) - 2014 - https://api.discogs.com/masters/695533
+Anjunadeep 06 - 2014 - https://api.discogs.com/masters/733115
+Anjunabeats Journeys 02 - 2015 - https://api.discogs.com/releases/7119393
+Klassik Lounge Werk / 13 - 2015 - https://api.discogs.com/releases/7348245
+ME-CD Nr. 1215 - 2015 - https://api.discogs.com/releases/7764270
+Hot Spring - Gunnuhver - 2015 - https://api.discogs.com/releases/9062963
+#escape - 2015 - https://api.discogs.com/releases/9078336
+Classically Chilled - 2015 - https://api.discogs.com/masters/1835788
+Calabi - Yau Manifold Mix - 2016 - https://api.discogs.com/releases/8756644
+Autotroph Mix - 2016 - https://api.discogs.com/releases/8880613
+Mooncake Mix - 2016 - https://api.discogs.com/releases/9237915
+Dream Forever (A Dream Pop Compendium) - 2016 - https://api.discogs.com/releases/9386695
+Kontor Sunset Chill 2016 - 2016 - https://api.discogs.com/releases/9480176
+Piccadilly Records - End Of Year Sampler 2016 - 2016 - https://api.discogs.com/releases/9489647
+Resident Sampler #9 - 2016 - https://api.discogs.com/releases/9634746
+Beau Paysage La Montagne 2017 - 2016 - https://api.discogs.com/releases/9777964
+The Top 100 Tracks Of 2016 - 2016 - https://api.discogs.com/releases/10936033
+Anjunadeep 08 - 2016 - https://api.discogs.com/masters/1106197
+Erased Tapes Collection VII - 2016 - https://api.discogs.com/masters/988051
+The Voynich Manuscript Mix - 2016 - https://api.discogs.com/masters/983017
+Untold Story (Unline Special Mix) - 2017 - https://api.discogs.com/releases/9954313
+Ending music - 2017 - https://api.discogs.com/releases/10923904
+Discover Iceland - 2017 - https://api.discogs.com/releases/11145417
+Music For Mindfulness - 2017 - https://api.discogs.com/releases/11390072
+KuschelKlassik Vol. 19 - 2017 - https://api.discogs.com/releases/11654895
+Scandinavian Feelings - 2017 - https://api.discogs.com/releases/13431603
+Najlepsza muzyka z seriali - Maciej Ulewicz prezentuje. - 2017 - https://api.discogs.com/releases/18575209
+EXPO I - 2017 - https://api.discogs.com/masters/1387030
+Natural Rhythm - 2017 - https://api.discogs.com/masters/3305626
+Music For A Newborn Babe - 2017 - https://api.discogs.com/masters/1341136
+Music For A Newborn Babe Vol. 2 - 2017 - https://api.discogs.com/masters/1341179
+Mamihlapinatapai - 2017 - https://api.discogs.com/masters/1627997
+LateNightTales - The Cover Versions (2017 Edition) - 2017 - https://api.discogs.com/masters/650637
+Erased Tapes Collection VIII - 2017 - https://api.discogs.com/masters/1151384
+Radio 2 Klassiekers - Funiculi Funicula 6 - 2018 - https://api.discogs.com/releases/12689214
+Balance 030 - 2018 - https://api.discogs.com/masters/1365051
+Philip K. Dick's Electric Dreams: An Anthology Series (Original Soundtrack) - 2018 - https://api.discogs.com/masters/1657939
+Erased Tapes Collection IX - 2018 - https://api.discogs.com/masters/1324333
+Tarifa Groove Collections 19 - 2019 - https://api.discogs.com/releases/13798736
+Spirit - 2019 - https://api.discogs.com/masters/1569101
+Collaboration - 2019 - https://api.discogs.com/masters/1813367
+Isolatedmix 102 - 2020 - https://api.discogs.com/releases/17342593
+RAM Café 15 - 2020 - https://api.discogs.com/releases/18715006
+Flow - 2020 - https://api.discogs.com/masters/1871988
+Nomadland (Original Motion Picture Soundtrack) - 2021 - https://api.discogs.com/masters/2188012
+RAM Café 17 - 2022 - https://api.discogs.com/releases/25633267
+Piano Day Vol. 1 - 2022 - https://api.discogs.com/masters/2682221
+Sleepmix2010 - 2011 - https://api.discogs.com/releases/2756463
+So Far (Guy Mantzur Sleepless Mix) - 2016 - https://api.discogs.com/releases/15379803
+Zeit - 2022 - https://api.discogs.com/masters/2612324
