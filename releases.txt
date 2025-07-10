@@ -1,109 +1,54 @@
 Listado de releases del artista:
-Blanck Mass - 2011 - https://api.discogs.com/masters/356151
-White Math / Polymorph - 2012 - https://api.discogs.com/masters/997754
-Tour EP - 2013 - https://api.discogs.com/releases/5776150
-A Field In England - Original Soundtrack Recording - 2013 - https://api.discogs.com/masters/609617
-RA.475 - 2015 - https://api.discogs.com/releases/7207256
-No Lite   - 2015 - https://api.discogs.com/releases/7589442
-Secret Thirteen Mix 155 - 2015 - https://api.discogs.com/releases/7631238
-Dead Format - 2015 - https://api.discogs.com/releases/8945815
-Dumb Flesh Bleep Exclusive Mixtape - 2015 - https://api.discogs.com/releases/20273158
-Dumb Flesh - 2015 - https://api.discogs.com/masters/833614
-The Great Confuso EP - 2015 - https://api.discogs.com/masters/921844
-D7-D5 - 2016 - https://api.discogs.com/masters/1087558
-Silent Treatment - 2017 - https://api.discogs.com/releases/10247651
-Please - 2017 - https://api.discogs.com/releases/10509407
-The Rat - 2017 - https://api.discogs.com/releases/10967049
-World Eater - 2017 - https://api.discogs.com/masters/1141920
-World Eater Re-Voxed - 2018 - https://api.discogs.com/releases/11879613
-Odd Scene / Shit Luck - 2018 - https://api.discogs.com/masters/2590862
-A Mixed Tape Made By Blanck Mass - 2019 - https://api.discogs.com/releases/14043535
-House Vs. House - 2019 - https://api.discogs.com/releases/14347130
-Love Is A Parasite - 2019 - https://api.discogs.com/releases/22855058
-Animated Violence Mild - 2019 - https://api.discogs.com/masters/1589115
-A Mixed Tape Made By Blanck Mass - 2020 - https://api.discogs.com/releases/15755749
-FACT Mix 747 - 2020 - https://api.discogs.com/releases/20358526
-Calm With Horses (Original Score) - 2020 - https://api.discogs.com/masters/1698624
-A Mixed Tape Made By Blanck Mass - 2021 - https://api.discogs.com/releases/17544679
-Starstuff (Single Edit) - 2021 - https://api.discogs.com/releases/22855004
-Mind Killer - 2021 - https://api.discogs.com/masters/2129176
-In Ferneaux - 2021 - https://api.discogs.com/masters/1991506
-A Mixed Tape Made By Blanck Mass - 2022 - https://api.discogs.com/releases/23704760
-Ted K (Original Motion Picture Score) - 2022 - https://api.discogs.com/masters/2624192
-The Rig (Music From The Original Series On Prime Video) - 2023 - https://api.discogs.com/masters/3064295
-Bloodhound / You - 2024 - https://api.discogs.com/releases/32514192
-The Rig: Season Two - 2025 - https://api.discogs.com/releases/34119109
-Higher - 2012 - https://api.discogs.com/masters/513036
-Kveikur - 2013 - https://api.discogs.com/masters/566165
-Brennisteinn - 2013 - https://api.discogs.com/masters/564477
-Music Industry 3. Fitness Industry 1. - 2014 - https://api.discogs.com/masters/764273
-Remix EP - 2015 - https://api.discogs.com/releases/22686806
-Lost Themes Remixed - 2015 - https://api.discogs.com/masters/898565
-Lost Themes - 2015 - https://api.discogs.com/masters/791464
-Fleshed Out - 2016 - https://api.discogs.com/masters/1294912
-Life's What You Make It Remixes - 2017 - https://api.discogs.com/masters/1070606
-The Light Is Clear In My Eyes (Blanck Mass Inauguration Ball Mix) - 2017 - https://api.discogs.com/masters/2047390
-Are You Lost In The World Like Me? (Remixes) - 2017 - https://api.discogs.com/masters/3035828
-Speedway - 2019 - https://api.discogs.com/releases/13127045
-White Pony - 2020 - https://api.discogs.com/masters/46576
-The Blanck Mass Sessions - 2019 - https://api.discogs.com/masters/1532770
-Kiss - 2022 - https://api.discogs.com/masters/2913547
-Karma Climb - 2022 - https://api.discogs.com/masters/2667536
-Vibe - 2022 - https://api.discogs.com/masters/2957104
-EBM - 2022 - https://api.discogs.com/masters/2794172
-Heart Attack - 2022 - https://api.discogs.com/masters/2601827
-Isles Of Wonder (Music For The Opening Ceremony Of The London 2012 Olympic Games) - 2012 - https://api.discogs.com/masters/460934
-Higher - 2012 - https://api.discogs.com/masters/513036
-Kveikur - 2013 - https://api.discogs.com/masters/566165
-Deleted Scenes - 2013 - https://api.discogs.com/masters/613362
-Blanck Mass Presents The Strange Colour Of Your Body's Tears Re-Score - 2015 - https://api.discogs.com/masters/870070
-Drill Hiss/Fishing Trip EP - 2018 - https://api.discogs.com/masters/1531892
-The Blanck Mass Sessions - 2019 - https://api.discogs.com/masters/1532770
-Kiss - 2022 - https://api.discogs.com/masters/2913547
-Karma Climb - 2022 - https://api.discogs.com/masters/2667536
-Vibe - 2022 - https://api.discogs.com/masters/2957104
-EBM - 2022 - https://api.discogs.com/masters/2794172
-Heart Attack - 2022 - https://api.discogs.com/masters/2601827
-Heartless Places / Heaven N Hell - 2025 - https://api.discogs.com/masters/3869935
-Get Us The Hell Out Of Here - 2011 - https://api.discogs.com/releases/5240216
-Ra Ra Rave On - 2011 - https://api.discogs.com/releases/8654764
-White Light 57 - 2012 - https://api.discogs.com/releases/3596624
-Isles Of Wonder (Music For The Opening Ceremony Of The London 2012 Olympic Games) - 2012 - https://api.discogs.com/masters/460934
-London 2012 Olympic Games - 2012 - https://api.discogs.com/masters/1770291
-Rock Action Records Sampler Vol.3 - 2013 - https://api.discogs.com/releases/4497492
-SSS Podcast #031 - 2013 - https://api.discogs.com/releases/4508797
-FACT Mix 424 - 2014 - https://api.discogs.com/releases/5391015
-Software Comp One, 2014 - 2014 - https://api.discogs.com/releases/5749994
-Lullabies For The Sleeping Gypsies - 2015 - https://api.discogs.com/releases/6819177
-Uncut's High Numbers (15 Tracks Of The Best New Music) - 2015 - https://api.discogs.com/releases/7022300
-Mindcast Mixtape 05/2015 - 2015 - https://api.discogs.com/releases/7074738
-The Resident Sweetener 8 - 2015 - https://api.discogs.com/releases/7832318
-The Top 100 Tracks Of 2015 - 2015 - https://api.discogs.com/releases/7912029
-Mind The Gap #117 - 2015 - https://api.discogs.com/releases/8118430
-Piccadilly Records 2015 Sampler - 2015 - https://api.discogs.com/releases/10483947
-PZYK Vol. 1 - 2015 - https://api.discogs.com/masters/892560
-Blanck Mass Presents The Strange Colour Of Your Body's Tears Re-Score - 2015 - https://api.discogs.com/masters/870070
-No No - 2015 - https://api.discogs.com/masters/904275
-Todo Muere Volume 5 - 2016 - https://api.discogs.com/releases/8397250
-Alrealon Musique Show / Little Water Radio - May 21st, 2016, presented by SVUVN - 2016 - https://api.discogs.com/releases/8851456
-How Much Beauty In The World? - 2016 - https://api.discogs.com/releases/8884369
-Like Shadows Dancing In The Dark - 2016 - https://api.discogs.com/releases/9148088
-Tempus Fugit - 2016 - https://api.discogs.com/releases/9483633
-Settt1 - 2016 - https://api.discogs.com/releases/11873794
-Adult Swim Singles Program 2016 - 2016 - https://api.discogs.com/releases/13643336
-Transmissions From The Underground Vol.1 - 2017 - https://api.discogs.com/releases/10438746
-Resident Sampler #10 - 2017 - https://api.discogs.com/releases/11254062
-Rockomotives 26ème Édition - 2017 - https://api.discogs.com/releases/13534101
-Terraform - 2017 - https://api.discogs.com/masters/1295404
-Now We Rise And We Are Everywhere: A Sacred Bones Sampler A.D. 2017 - 2017 - https://api.discogs.com/masters/1345361
-Resident Annual 2019 Sampler #12 - 2019 - https://api.discogs.com/releases/14492875
-Republic Of Music - Best Of 2019 Sampler - 2019 - https://api.discogs.com/releases/14500473
-Piccadilly Records Sampler 2019 - 2019 - https://api.discogs.com/releases/14503960
-Electronic Sound Bulletin F - 2019 - https://api.discogs.com/releases/14531354
-100 Tracks 2019 - 2019 - https://api.discogs.com/releases/14588272
-I Fall In Love With The Light (A Sacred Bones Compilation) - 2020 - https://api.discogs.com/masters/1874964
-Posthaste - 2021 - https://api.discogs.com/releases/21309298
-A Mixed Tape Made By Chvrches  - 2021 - https://api.discogs.com/releases/21355450
-Programme 004 "Spring Oscillations" - 2012 - https://api.discogs.com/releases/4741005
-White Light 81 - 2013 - https://api.discogs.com/releases/4737011
-White Pony 20 Year Anniversary - 2025 - https://api.discogs.com/masters/46576
+I Can See You - 2009 - https://api.discogs.com/masters/1832446
+Cigarettes After Sex (Romans 13:9)  - 2011 - https://api.discogs.com/releases/12809504
+I. - 2012 - https://api.discogs.com/masters/1011035
+Affection - 2015 - https://api.discogs.com/masters/937810
+ K. - 2016 - https://api.discogs.com/masters/1192068
+Tiny Desk Concert - 2017 - https://api.discogs.com/releases/24369056
+Each Time You Fall In Love - 2017 - https://api.discogs.com/masters/1192071
+Cigarettes After Sex - 2017 - https://api.discogs.com/masters/1192593
+Apocalypse - 2017 - https://api.discogs.com/masters/1178396
+Sweet (Single Version) - 2017 - https://api.discogs.com/masters/3154770
+Neon Moon - 2018 - https://api.discogs.com/masters/2962078
+Crush - 2018 - https://api.discogs.com/masters/1377011
+Heavenly - 2019 - https://api.discogs.com/releases/14074644
+Falling In Love - 2019 - https://api.discogs.com/releases/14243483
+Cry - 2019 - https://api.discogs.com/masters/1622969
+You're All I Want - 2020 - https://api.discogs.com/masters/2962099
+Pistol - 2022 - https://api.discogs.com/masters/2962096
+Bubblegum / Stop Waiting - 2023 - https://api.discogs.com/masters/3182703
+X's - 2024 - https://api.discogs.com/masters/3539875
+Drafts Of The Love Apocalypse - 2020 - https://api.discogs.com/releases/16077886
+2021 Subscriber-Only Covers - 2021 - https://api.discogs.com/releases/17304079
+Don't Forget Where You Came From - 2021 - https://api.discogs.com/releases/17769406
+I Said I Love Your First... And You Said It Back - 2025 - https://api.discogs.com/releases/34457083
+Printemps-été 2017 - Volume 2 - 2017 - https://api.discogs.com/releases/10409240
+Partisan Records Spring 2017 Sampler - 2017 - https://api.discogs.com/releases/10476599
+Hostess Sampler 2017 June - July / Hostess Sampler 2017 Summer Festival Special - 2017 - https://api.discogs.com/releases/11080752
+FM4 Soundselection 36 - 2017 - https://api.discogs.com/releases/11139234
+La Bande-son 2017 - 2017 - https://api.discogs.com/releases/11297643
+Club Der Roten Bänder (Staffel 03) - 2017 - https://api.discogs.com/releases/11471106
+Sun:Set 5 - 2017 - https://api.discogs.com/releases/22100206
+Hostess Sampler 2017 May - Jun - 2017 - https://api.discogs.com/releases/32160087
+Momentos Rockdelux. Canciones Internacionales. 2017 / Vol. 2  - 2018 - https://api.discogs.com/releases/11527200
+De Afrekening 65 - 2018 - https://api.discogs.com/releases/12794965
+Ram Café 13 - 2018 - https://api.discogs.com/releases/13112968
+Pure Lazy Factory Volume 4 - 2018 - https://api.discogs.com/releases/15358086
+FUV Live 21 - 2018 - https://api.discogs.com/releases/19703815
+Victoria Place (Echoes Live 23) - 2018 - https://api.discogs.com/releases/29858596
+Rough Trade Shops Counter Culture 17 - 2018 - https://api.discogs.com/masters/1399754
+Vernon Subutex (La Bande Originale De La Série) - 2019 - https://api.discogs.com/releases/13670927
+La Bande-son De L'automne 2019 - 2019 - https://api.discogs.com/releases/14296362
+Sorties d'Octobre 2019 - 2019 - https://api.discogs.com/releases/14459214
+Killing Eve Season One & Two (Original Series Soundtrack) (Amazon Exclusive Edition) - 2019 - https://api.discogs.com/releases/14698307
+Zapraszamy Do Trójki - 2019 - https://api.discogs.com/releases/21945481
+Killing Eve Season One (Original Series Soundtrack) - 2019 - https://api.discogs.com/masters/1656510
+Killing Eve Season Two (Original Series Soundtrack) - 2019 - https://api.discogs.com/masters/1656511
+Momentos Rockdelux. Canciones Internacionales Vol. 1/2019 - 2020 - https://api.discogs.com/releases/14611227
+Duyster.2020 - 2020 - https://api.discogs.com/masters/1998388
+Suite 2021 - 2021 - https://api.discogs.com/releases/20647642
+Été 2024 - 2024 - https://api.discogs.com/releases/31124522
+Bubblegum  - 2023 - https://api.discogs.com/releases/29606317
+Cigarettes After Sex - 2023 - https://api.discogs.com/masters/1192593
+Cry - 2023 - https://api.discogs.com/masters/1622969
+X's - 2024 - https://api.discogs.com/masters/3539875
