@@ -6,20 +6,34 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 15 Jul 2025 21:45:55 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 21:51:41 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone</title>
+      <link>/tags/drone/</link>
+      <pubDate>Tue, 15 Jul 2025 21:51:41 +0200</pubDate>
+      <guid>/tags/drone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metal</title>
+      <link>/tags/metal/</link>
+      <pubDate>Tue, 15 Jul 2025 21:51:41 +0200</pubDate>
+      <guid>/tags/metal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shoegaze</title>
+      <link>/tags/shoegaze/</link>
+      <pubDate>Tue, 15 Jul 2025 21:51:41 +0200</pubDate>
+      <guid>/tags/shoegaze/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ambient</title>
       <link>/tags/ambient/</link>
       <pubDate>Tue, 15 Jul 2025 21:45:55 +0200</pubDate>
       <guid>/tags/ambient/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drone</title>
-      <link>/tags/drone/</link>
-      <pubDate>Tue, 15 Jul 2025 21:45:55 +0200</pubDate>
-      <guid>/tags/drone/</guid>
       <description></description>
     </item>
     <item>
@@ -160,13 +174,6 @@
       <link>/tags/dub-techno/</link>
       <pubDate>Wed, 09 Jul 2025 22:06:04 +0200</pubDate>
       <guid>/tags/dub-techno/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shoegaze</title>
-      <link>/tags/shoegaze/</link>
-      <pubDate>Wed, 09 Jul 2025 20:40:09 +0200</pubDate>
-      <guid>/tags/shoegaze/</guid>
       <description></description>
     </item>
     <item>
@@ -356,13 +363,6 @@
       <link>/tags/stoner/</link>
       <pubDate>Thu, 02 Jan 2025 16:42:09 +0100</pubDate>
       <guid>/tags/stoner/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metal</title>
-      <link>/tags/metal/</link>
-      <pubDate>Thu, 02 Jan 2025 15:03:01 +0100</pubDate>
-      <guid>/tags/metal/</guid>
       <description></description>
     </item>
     <item>
