@@ -1,137 +1,114 @@
 Listado de releases del artista:
-Gloomy Sunday / Just Imagining - 1966 - https://api.discogs.com/releases/22018432
-A Little Moore Barbara - 1967 - https://api.discogs.com/masters/936701
-Vocal Shades And Tones - 1972 - https://api.discogs.com/masters/436093
-Bright & Shining - 1981 - https://api.discogs.com/releases/1711810
-The World Of Barbara Moore - Collection 1966-1981 - 2001 - https://api.discogs.com/releases/3423793
-Sing Sweet ♡ Barbara Collection 1966-1990 - 2001 - https://api.discogs.com/releases/15106900
-Condition Red / Steam Heat - 2011 - https://api.discogs.com/releases/3299713
-Meet Barbara Moore - 2025 - https://api.discogs.com/releases/33723369
-Say Tango - Desconocido - https://api.discogs.com/releases/15517196
-Cocktail For Two - 1963 - https://api.discogs.com/masters/1190949
-Stan Butcher His Birds And Brass - 1966 - https://api.discogs.com/masters/370086
-Latin A Go-Go - 1966 - https://api.discogs.com/masters/752864
-Swing Like A B...... - 1967 - https://api.discogs.com/releases/5406572
-So This Is Love - 1967 - https://api.discogs.com/releases/6228530
-Love Me, Please Love Me - 1967 - https://api.discogs.com/masters/463835
-If My Friends Could See Me Now / Here Today, Gone Tomorrow - 1967 - https://api.discogs.com/masters/777465
-Morgan Music - 1968 - https://api.discogs.com/releases/2511284
-Out Of The Blue - 1968 - https://api.discogs.com/releases/6204009
-Scarborough Fair - 1968 - https://api.discogs.com/masters/603021
-White Horses - 1968 - https://api.discogs.com/masters/367377
-From Chico...With Love - 1968 - https://api.discogs.com/masters/888479
-We're Off And Running - 1968 - https://api.discogs.com/masters/367395
-Sunny - 1968 - https://api.discogs.com/masters/978735
-Love Me, Please Love Me - 1968 - https://api.discogs.com/masters/2303032
-Voices In Latin - 1968 - https://api.discogs.com/masters/355041
-Chico - 1969 - https://api.discogs.com/releases/2918980
-A Flask Of Wine - 1969 - https://api.discogs.com/releases/5776084
-September In The Rain - 1969 - https://api.discogs.com/releases/6543068
-Love Me, Please Love Me - 1969 - https://api.discogs.com/releases/14463462
-The Music Of Dudley Moore (Composed For The Film "30 Is A Dangerous Age Cynthia") - 1969 - https://api.discogs.com/masters/738442
-Leander Angeline - 1969 - https://api.discogs.com/masters/1359374
-Love Is Now - 1969 - https://api.discogs.com/masters/367394
-Music From Fiddler On The Roof - 1969 - https://api.discogs.com/masters/740830
-My Cherie Amour - 1969 - https://api.discogs.com/masters/3587812
-30 Is A Dangerous Age, Cynthia! - 1969 - https://api.discogs.com/masters/455935
-Chappell Recorded Music - 1970 - https://api.discogs.com/releases/2693539
-Sports Line London - 1970 - https://api.discogs.com/releases/3073915
-A Love Affair - 1970 - https://api.discogs.com/releases/6432714
-At The Sign Of The Swinging Cymbal (Theme From "Pick Of The Pops") - Advance Promotion Copy - 1970 - https://api.discogs.com/releases/19667851
-Give A Damn - 1970 - https://api.discogs.com/masters/1123215
-All God's Children Got Soul - 1970 - https://api.discogs.com/masters/649752
-Our House - 1970 - https://api.discogs.com/masters/1538586
-The Romantic World Of Los Zafiros - 1970 - https://api.discogs.com/masters/585900
-At The Sign Of The Swinging Cymbal (Theme From "Pick Of The Pops") - 1970 - https://api.discogs.com/masters/1092530
-Birds Of A Feather - 1970 - https://api.discogs.com/masters/1276107
-Soundsational - 1970 - https://api.discogs.com/masters/1100620
-Rupert - 1970 - https://api.discogs.com/masters/303313
-Walk This Way - 1970 - https://api.discogs.com/masters/674917
-Green Green Yesterday - 1970 - https://api.discogs.com/masters/1462628
-Elton John - 1970 - https://api.discogs.com/masters/84203
-Take Me To The Pilot - 1970 - https://api.discogs.com/masters/2145775
-Chappell Recorded Music - 1971 - https://api.discogs.com/releases/2879701
-Jackie's Junior Choice - 1971 - https://api.discogs.com/releases/3207770
-Flying High - 1971 - https://api.discogs.com/masters/2032528
-Moonshade - 1971 - https://api.discogs.com/masters/3315895
-Country Comfort - 1971 - https://api.discogs.com/masters/2584382
-Ping Pong Song - 1971 - https://api.discogs.com/masters/1944672
-Vocal Patterns - 1971 - https://api.discogs.com/masters/1453546
-Caballero - 1971 - https://api.discogs.com/masters/1390835
-Chappell Recorded Music - 1972 - https://api.discogs.com/releases/2107006
-Jackie Lee Sings Rupert And Other Junior Favourites - 1972 - https://api.discogs.com/releases/3207761
-The Musical Carousel - 1972 - https://api.discogs.com/releases/11849426
-Friends With You - 1972 - https://api.discogs.com/masters/367403
-One Way Ticket - 1972 - https://api.discogs.com/masters/1220855
-Good Morning - 1973 - https://api.discogs.com/releases/7310812
-Geordie Sunday - 1973 - https://api.discogs.com/masters/2185105
-She - 1973 - https://api.discogs.com/masters/1271496
-Minstrel In Flight - 1973 - https://api.discogs.com/masters/361930
-On The Street Where I Live - 1973 - https://api.discogs.com/masters/971991
-Songs We Heard Upstairs And Downstairs - 1973 - https://api.discogs.com/masters/1595866
-Greatest Hits - 1974 - https://api.discogs.com/masters/85568
-Are Back - 1974 - https://api.discogs.com/masters/1679552
-Headline - 1981 - https://api.discogs.com/releases/3320293
-Voyage Pour L'Immédiat - 1983 - https://api.discogs.com/releases/8292399
-Manhattan Rhythm - 1983 - https://api.discogs.com/masters/1178762
-I'm A Blues Man - 1983 - https://api.discogs.com/masters/345949
-Everything To Me / Somewhere In Time - 1986 - https://api.discogs.com/releases/5564210
-You Can Have What's Left Of Me - 1986 - https://api.discogs.com/releases/8847117
-We All Play The Same Guitar - 1986 - https://api.discogs.com/releases/15526585
-Ghosts ...Of The Civil Dead - 1989 - https://api.discogs.com/masters/28103
-To Be Continued... - 1990 - https://api.discogs.com/masters/230022
-The Go-Go Music Of The Mark Wirtz Orchestra & Chorus - 1996 - https://api.discogs.com/releases/960122
-Styles 2 - 1997 - https://api.discogs.com/releases/30971878
-Elton John = 僕の歌は君の歌 - 1997 - https://api.discogs.com/releases/34361179
-Experience Hendrix (The Best Of Jimi Hendrix) - 1997 - https://api.discogs.com/masters/75394
-Cliché Favourites 2 - 1998 - https://api.discogs.com/releases/18222955
-Cheesy Listening - 2000 - https://api.discogs.com/releases/18213664
-Hot Heels / Grey Sigh - 2001 - https://api.discogs.com/releases/254613
-Good Times (The Best Of Dusty Springfield's BBC TV Performances 1966 - 1979)	 - 2001 - https://api.discogs.com/releases/4999818
-Girl In A Suitcase - 2001 - https://api.discogs.com/masters/366824
-Soundsational - 2004 - https://api.discogs.com/masters/2954836
-Department TV - 2005 - https://api.discogs.com/releases/2538667
-Shindig!...We Set The Scene! - 2005 - https://api.discogs.com/releases/3762035
-Chronicles - 3 Classic Albums - 2005 - https://api.discogs.com/releases/10834611
-End Of A Rainbow: A Pye Anthology - 2007 - https://api.discogs.com/releases/3207624
-Live At The BBC - 2007 - https://api.discogs.com/masters/611289
-Goin' Back The Definitive Dusty Springfield - 2011 - https://api.discogs.com/releases/3302963
-Running With The Rat Pack: Albums, Singles, Unreleased 1972-1973 - 2012 - https://api.discogs.com/releases/5718823
-Chico & From Chico ... With Love - 2012 - https://api.discogs.com/releases/11944697
-Hagood Hardy And The Montage - 2015 - https://api.discogs.com/masters/1574125
-Themes About The House (From The De Wolfe Music Library) - 2018 - https://api.discogs.com/releases/11896647
-The Goodies - 2018 - https://api.discogs.com/releases/12568530
-Shadows Of Fear - 2021 - https://api.discogs.com/releases/21286291
-What A Groovy Day (The British Sunshine Pop Sound 1967-1972) - 2023 - https://api.discogs.com/releases/26032330
-Amalgam - 2025 - https://api.discogs.com/releases/33978936
-Holyday Dancing - Desconocido - https://api.discogs.com/releases/11827149
-Griffith, Smith, And Co. - Desconocido - https://api.discogs.com/releases/14943803
-Parade Des Succes - 1963 - https://api.discogs.com/releases/4655121
-Hit Parade 1963 - 1963 - https://api.discogs.com/masters/3243583
-Ritmi E Canzoni N. 3 - 1963 - https://api.discogs.com/masters/1696599
-Romantic/Nostalgic/Sad - Comedy/Children - 1970 - https://api.discogs.com/masters/3067448
-Synthesis (Music For Strings) - 1972 - https://api.discogs.com/masters/3169818
-Wallpaper Music - 1992 - https://api.discogs.com/releases/7894684
-Archive - What A Carry On! - 1997 - https://api.discogs.com/releases/9024650
-Sound Book: De Wolfe Music Library & Background Sound - 1998 - https://api.discogs.com/masters/624935
-Irma Cocktail Lounge Vol. 1 - 1999 - https://api.discogs.com/masters/311884
-Shut It! The Music Of The Sweeney - 2001 - https://api.discogs.com/masters/154996
-Premium Cuts: De Wolfe - 2003 - https://api.discogs.com/masters/1671091
-Premium Cuts: Sylvester - 2003 - https://api.discogs.com/masters/1020280
-Audio - 2007 - https://api.discogs.com/masters/1815322
-Bradford's Noise Of The Valleys: The Music 1967-1987 - 2009 - https://api.discogs.com/releases/14739094
-Bradford's Noise Of The Valleys: The Missing Music - 2010 - https://api.discogs.com/releases/14738686
-Forgotten Treasures Mix #04 - 2012 - https://api.discogs.com/releases/5152872
-TV Sound And Image (British Television, Film And Library Composers 1956-80) - 2012 - https://api.discogs.com/masters/555316
-Twenty-Seven Years Later - 2017 - https://api.discogs.com/releases/11255699
-Themes About The House (From The De Wolfe Music Library) - 2018 - https://api.discogs.com/releases/11896647
-Back To Mine - 2019 - https://api.discogs.com/masters/1633672
-What A Groovy Day (The British Sunshine Pop Sound 1967-1972) - 2023 - https://api.discogs.com/releases/26032330
-Bradford's Noise Of The Valleys: The Missing Music 9 - 2025 - https://api.discogs.com/releases/33378911
-Midnight Twist - Desconocido - https://api.discogs.com/releases/8187254
-Elton John - 1971 - https://api.discogs.com/masters/84203
-Greatest Hits - 1975 - https://api.discogs.com/masters/85568
-Piccadilly Sunshine Part Three (British Pop Psych And Other Flavours 1967 - 1970) - 2010 - https://api.discogs.com/releases/2265519
-Piccadilly Sunshine Volumes 1 - 10 (A Compendium Of Rare Pop Curios From The British Psychedelic Era) - 2015 - https://api.discogs.com/releases/7786288
-Oldays Records 2022 Sampler Vol.2 - 2022 - https://api.discogs.com/releases/27433914
-Erotheque - Turn Me On! - 2023 - https://api.discogs.com/releases/28630237
+Bainted Smile EP - 1998 - https://api.discogs.com/masters/146635
+Radiotin E.P. - 1998 - https://api.discogs.com/masters/146636
+Acid Quakers 1000 - 2000 - https://api.discogs.com/releases/3530
+FSK 005 + Drive Time - 2000 - https://api.discogs.com/masters/1723830
+Acid Legacy EP - 2003 - https://api.discogs.com/releases/124631
+Part 2 - 2003 - https://api.discogs.com/releases/204757
+Part 1 - 2003 - https://api.discogs.com/masters/1792667
+Exidy Tours - 2003 - https://api.discogs.com/masters/15413
+Ceephax Acid Crew - 2003 - https://api.discogs.com/masters/281938
+Drive Time - 2004 - https://api.discogs.com/masters/15456
+Funboxing In The Kitchen - 2006 - https://api.discogs.com/releases/29094079
+Ceerial Port EP - 2006 - https://api.discogs.com/masters/15420
+Hardcore Esplanade - 2006 - https://api.discogs.com/masters/15433
+Hardcore Wick - 2006 - https://api.discogs.com/masters/3096909
+FUNBOX01 - 2006 - https://api.discogs.com/masters/2080885
+Volume One - 2007 - https://api.discogs.com/masters/15423
+Volume Two - 2007 - https://api.discogs.com/masters/15426
+Megalift E.P. - 2007 - https://api.discogs.com/masters/184042
+Eurostar Acid - 2007 - https://api.discogs.com/masters/1999084
+Wild Westie / Romantic Gestures - 2008 - https://api.discogs.com/releases/1255249
+Pages From Ceephax - 2008 - https://api.discogs.com/releases/1353872
+Ceeland - 2009 - https://api.discogs.com/masters/378551
+Psychtapolis - 2010 - https://api.discogs.com/masters/277402
+United Acid Emirates - 2010 - https://api.discogs.com/masters/223937
+The Unstoppable Phax Machine - 2011 - https://api.discogs.com/masters/329030
+Live - 2011 - https://api.discogs.com/masters/1288931
+Biocarbon Amalgamate - 2012 - https://api.discogs.com/releases/16600947
+Capsule In Space / Mediterranean Acid - 2012 - https://api.discogs.com/masters/819160
+Cro Magnox - 2013 - https://api.discogs.com/masters/538646
+World Dissolver EP - 2013 - https://api.discogs.com/masters/957299
+Ceephax Acid Crew Live At Bombomatic 01​-​08​-​2008  - 2015 - https://api.discogs.com/releases/14079955
+Ceephax Acid Crew Live At Schism, Manchester 06​-​03​-​1999  - 2015 - https://api.discogs.com/releases/14079974
+Charismatic Integrity Slam - 2015 - https://api.discogs.com/masters/864306
+Ceephax Acid Crew Live At 333 Club London 17​-​10​-​1997  - 2016 - https://api.discogs.com/releases/14079998
+Ceephax Acid Crew Live At Intellighenzia Electronica Milan 31-01-2015 - 2017 - https://api.discogs.com/masters/1600535
+Byron’s Ballads - 2017 - https://api.discogs.com/masters/1281902
+Acid Fourniture EP - 2017 - https://api.discogs.com/masters/1281903
+Fossil Funk - 2018 - https://api.discogs.com/masters/1456947
+Camelot Arcade - 2018 - https://api.discogs.com/masters/1339577
+Acid Cask I Pandemonium - 2018 - https://api.discogs.com/masters/1470267
+Ceephax Acid Crew Live At Boiler Room 15​-​04​-​17  - 2019 - https://api.discogs.com/releases/14079902
+Acid Cask III: Mindwharf - 2019 - https://api.discogs.com/masters/1607323
+Acid Cask II: Sinistor - 2019 - https://api.discogs.com/masters/1504711
+Acid Cask - 2019 - https://api.discogs.com/masters/1605834
+Box Steady - 2021 - https://api.discogs.com/masters/2299210
+Baddow Moods - 2022 - https://api.discogs.com/masters/3139044
+FSK 005 + Acid Quakers 1000 - 2023 - https://api.discogs.com/masters/3126417
+Slam Zone - 2025 - https://api.discogs.com/masters/3807753
+Remixes 12" - 1998 - https://api.discogs.com/releases/1329
+Kerrier District 2 - 2006 - https://api.discogs.com/masters/130949
+A Journey To Freedom Remixes - 2010 - https://api.discogs.com/releases/2758793
+Morena / Time Of My Life - 2010 - https://api.discogs.com/releases/21979705
+Untitled - 2010 - https://api.discogs.com/releases/23028080
+Celebrity Come Down With Me - 2010 - https://api.discogs.com/masters/1497506
+Time Of My Life - 2010 - https://api.discogs.com/masters/307878
+Midsummer Tales (Remixes)  - 2011 - https://api.discogs.com/releases/4309879
+Winter Music Conference 2011 - 2011 - https://api.discogs.com/releases/6949732
+Armageddon Remixes - 2013 - https://api.discogs.com/masters/850523
+Rave Armageddon Survival Kit - 2014 - https://api.discogs.com/releases/5616201
+Kerrier District 1 & 2 - 2016 - https://api.discogs.com/releases/8602481
+Shifting Multiverse EP - 2016 - https://api.discogs.com/masters/1022896
+Chelmsford's Most Wanted - 2006 - https://api.discogs.com/releases/850760
+Hakai - 2008 - https://api.discogs.com/masters/1008941
+Breakin' Records Presents... Volume 1 - 1998 - https://api.discogs.com/releases/48438
+Breakin' Records Presents... Volume 2 - 2001 - https://api.discogs.com/releases/42675
+Fresh Fruit - 2001 - https://api.discogs.com/releases/50625
+Sonic Mook Experiment (Rare Mixes, Electronic Action And Future Rock & Roll) - 2001 - https://api.discogs.com/masters/5075
+Five Million (Wrecked Mix 06) - 2003 - https://api.discogs.com/releases/23287214
+Live @ 2939 - 2004 - https://api.discogs.com/releases/243815
+Breakin' Records Presents... Volume 3 - 2004 - https://api.discogs.com/releases/302853
+Nitsa Nights - 2004 - https://api.discogs.com/releases/308048
+Etc - 2006 - https://api.discogs.com/releases/845833
+Абракадабра - 2007 - https://api.discogs.com/releases/4136780
+2OO - 2007 - https://api.discogs.com/masters/17867
+030303 #2 - 2007 - https://api.discogs.com/masters/3703389
+Various Acid - 2008 - https://api.discogs.com/releases/1202552
+Plan µ - 2008 - https://api.discogs.com/releases/1335981
+Bug Klinik Megamix 2008 - 2008 - https://api.discogs.com/masters/9051
+030303 - 2009 - https://api.discogs.com/masters/286597
+Field Recording 016 - 2010 - https://api.discogs.com/releases/2502657
+Full Of Shit! - 2010 - https://api.discogs.com/releases/2614993
+BTS Mixtape - Andrew Meza's BTS Radio - 2010 - https://api.discogs.com/releases/2722138
+Sonic Router Mix #84 - 2011 - https://api.discogs.com/releases/6329820
+14 Tracks From Planet Mu - 2011 - https://api.discogs.com/masters/500345
+3am Surfing Mix - 2012 - https://api.discogs.com/releases/3676022
+Mixtape For Densinghour - 2013 - https://api.discogs.com/releases/4727508
+Branemelt - Vol. 1 - 2013 - https://api.discogs.com/releases/5139625
+Lavender AM - 2013 - https://api.discogs.com/releases/5185815
+Secret Thirteen Mix 100 - 2013 - https://api.discogs.com/releases/5274525
+BangFace - Neo-Rave Armageddon - 2013 - https://api.discogs.com/releases/5289186
+Distant Thoughts - 2013 - https://api.discogs.com/releases/9548054
+Vertical67's Springtime Bike Ride - 2013 - https://api.discogs.com/releases/11154542
+Touched Two - 2014 - https://api.discogs.com/masters/780074
+WeMe10ans - 2014 - https://api.discogs.com/masters/734402
+10 Years Bug Klinik Records - 2015 - https://api.discogs.com/releases/7439002
+XPLAYMIX 17 | 2015 - 2015 - https://api.discogs.com/releases/7496015
+Galactic Acid Mix - Joia Mixtapes - 2015 - https://api.discogs.com/releases/9048926
+10TRAX #044 - 2016 - https://api.discogs.com/releases/29307064
+Mindcast Mix Recording 03/2018 - 2018 - https://api.discogs.com/releases/11790316
+The Tardigrade's Lament - 2018 - https://api.discogs.com/releases/14964135
+Raving For Srave - 2019 - https://api.discogs.com/releases/15484176
+Bangface 2023: Eurovision-o-Rama - 2023 - https://api.discogs.com/releases/27610539
+Jungle Mixxx 1&2 - 2023 - https://api.discogs.com/masters/3240901
+Santuario April 2024 w/Sassmouth - 2024 - https://api.discogs.com/releases/30420962
+Secret Stash - 2024 - https://api.discogs.com/releases/31982876
+Borrow & Benefit - 2024 - https://api.discogs.com/releases/32408094
+Île Europa Vol.4: L'Effondrement Des Embruns - 2024 - https://api.discogs.com/releases/33465926
+I Hate Sonic Mook Experiment EP3 - Desconocido - https://api.discogs.com/releases/52680
+H2O - 2008 - https://api.discogs.com/releases/1255663
+Grr Spit Breathe Fire!!! - 2010 - https://api.discogs.com/releases/2392824
+The Hyper Safari - 2011 - https://api.discogs.com/releases/3652101
+White Light 106 - 2014 - https://api.discogs.com/releases/6053064
+Camelot Arcade - 2019 - https://api.discogs.com/masters/1339577
