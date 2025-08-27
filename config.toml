@@ -5,6 +5,7 @@ title = 'vvmm'
 theme = 'hugo-theme-m10c'
 staticDir = ['static']
 favicon = '/favicon.png'
+
 [pagination]
     pagerSize = 15
 
