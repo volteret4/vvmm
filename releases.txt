@@ -1,114 +1,99 @@
 Listado de releases del artista:
-Bainted Smile EP - 1998 - https://api.discogs.com/masters/146635
-Radiotin E.P. - 1998 - https://api.discogs.com/masters/146636
-Acid Quakers 1000 - 2000 - https://api.discogs.com/releases/3530
-FSK 005 + Drive Time - 2000 - https://api.discogs.com/masters/1723830
-Acid Legacy EP - 2003 - https://api.discogs.com/releases/124631
-Part 2 - 2003 - https://api.discogs.com/releases/204757
-Part 1 - 2003 - https://api.discogs.com/masters/1792667
-Exidy Tours - 2003 - https://api.discogs.com/masters/15413
-Ceephax Acid Crew - 2003 - https://api.discogs.com/masters/281938
-Drive Time - 2004 - https://api.discogs.com/masters/15456
-Funboxing In The Kitchen - 2006 - https://api.discogs.com/releases/29094079
-Ceerial Port EP - 2006 - https://api.discogs.com/masters/15420
-Hardcore Esplanade - 2006 - https://api.discogs.com/masters/15433
-Hardcore Wick - 2006 - https://api.discogs.com/masters/3096909
-FUNBOX01 - 2006 - https://api.discogs.com/masters/2080885
-Volume One - 2007 - https://api.discogs.com/masters/15423
-Volume Two - 2007 - https://api.discogs.com/masters/15426
-Megalift E.P. - 2007 - https://api.discogs.com/masters/184042
-Eurostar Acid - 2007 - https://api.discogs.com/masters/1999084
-Wild Westie / Romantic Gestures - 2008 - https://api.discogs.com/releases/1255249
-Pages From Ceephax - 2008 - https://api.discogs.com/releases/1353872
-Ceeland - 2009 - https://api.discogs.com/masters/378551
-Psychtapolis - 2010 - https://api.discogs.com/masters/277402
-United Acid Emirates - 2010 - https://api.discogs.com/masters/223937
-The Unstoppable Phax Machine - 2011 - https://api.discogs.com/masters/329030
-Live - 2011 - https://api.discogs.com/masters/1288931
-Biocarbon Amalgamate - 2012 - https://api.discogs.com/releases/16600947
-Capsule In Space / Mediterranean Acid - 2012 - https://api.discogs.com/masters/819160
-Cro Magnox - 2013 - https://api.discogs.com/masters/538646
-World Dissolver EP - 2013 - https://api.discogs.com/masters/957299
-Ceephax Acid Crew Live At Bombomatic 01​-​08​-​2008  - 2015 - https://api.discogs.com/releases/14079955
-Ceephax Acid Crew Live At Schism, Manchester 06​-​03​-​1999  - 2015 - https://api.discogs.com/releases/14079974
-Charismatic Integrity Slam - 2015 - https://api.discogs.com/masters/864306
-Ceephax Acid Crew Live At 333 Club London 17​-​10​-​1997  - 2016 - https://api.discogs.com/releases/14079998
-Ceephax Acid Crew Live At Intellighenzia Electronica Milan 31-01-2015 - 2017 - https://api.discogs.com/masters/1600535
-Byron’s Ballads - 2017 - https://api.discogs.com/masters/1281902
-Acid Fourniture EP - 2017 - https://api.discogs.com/masters/1281903
-Fossil Funk - 2018 - https://api.discogs.com/masters/1456947
-Camelot Arcade - 2018 - https://api.discogs.com/masters/1339577
-Acid Cask I Pandemonium - 2018 - https://api.discogs.com/masters/1470267
-Ceephax Acid Crew Live At Boiler Room 15​-​04​-​17  - 2019 - https://api.discogs.com/releases/14079902
-Acid Cask III: Mindwharf - 2019 - https://api.discogs.com/masters/1607323
-Acid Cask II: Sinistor - 2019 - https://api.discogs.com/masters/1504711
-Acid Cask - 2019 - https://api.discogs.com/masters/1605834
-Box Steady - 2021 - https://api.discogs.com/masters/2299210
-Baddow Moods - 2022 - https://api.discogs.com/masters/3139044
-FSK 005 + Acid Quakers 1000 - 2023 - https://api.discogs.com/masters/3126417
-Slam Zone - 2025 - https://api.discogs.com/masters/3807753
-Remixes 12" - 1998 - https://api.discogs.com/releases/1329
-Kerrier District 2 - 2006 - https://api.discogs.com/masters/130949
-A Journey To Freedom Remixes - 2010 - https://api.discogs.com/releases/2758793
-Morena / Time Of My Life - 2010 - https://api.discogs.com/releases/21979705
-Untitled - 2010 - https://api.discogs.com/releases/23028080
-Celebrity Come Down With Me - 2010 - https://api.discogs.com/masters/1497506
-Time Of My Life - 2010 - https://api.discogs.com/masters/307878
-Midsummer Tales (Remixes)  - 2011 - https://api.discogs.com/releases/4309879
-Winter Music Conference 2011 - 2011 - https://api.discogs.com/releases/6949732
-Armageddon Remixes - 2013 - https://api.discogs.com/masters/850523
-Rave Armageddon Survival Kit - 2014 - https://api.discogs.com/releases/5616201
-Kerrier District 1 & 2 - 2016 - https://api.discogs.com/releases/8602481
-Shifting Multiverse EP - 2016 - https://api.discogs.com/masters/1022896
-Chelmsford's Most Wanted - 2006 - https://api.discogs.com/releases/850760
-Hakai - 2008 - https://api.discogs.com/masters/1008941
-Breakin' Records Presents... Volume 1 - 1998 - https://api.discogs.com/releases/48438
-Breakin' Records Presents... Volume 2 - 2001 - https://api.discogs.com/releases/42675
-Fresh Fruit - 2001 - https://api.discogs.com/releases/50625
-Sonic Mook Experiment (Rare Mixes, Electronic Action And Future Rock & Roll) - 2001 - https://api.discogs.com/masters/5075
-Five Million (Wrecked Mix 06) - 2003 - https://api.discogs.com/releases/23287214
-Live @ 2939 - 2004 - https://api.discogs.com/releases/243815
-Breakin' Records Presents... Volume 3 - 2004 - https://api.discogs.com/releases/302853
-Nitsa Nights - 2004 - https://api.discogs.com/releases/308048
-Etc - 2006 - https://api.discogs.com/releases/845833
-Абракадабра - 2007 - https://api.discogs.com/releases/4136780
-2OO - 2007 - https://api.discogs.com/masters/17867
-030303 #2 - 2007 - https://api.discogs.com/masters/3703389
-Various Acid - 2008 - https://api.discogs.com/releases/1202552
-Plan µ - 2008 - https://api.discogs.com/releases/1335981
-Bug Klinik Megamix 2008 - 2008 - https://api.discogs.com/masters/9051
-030303 - 2009 - https://api.discogs.com/masters/286597
-Field Recording 016 - 2010 - https://api.discogs.com/releases/2502657
-Full Of Shit! - 2010 - https://api.discogs.com/releases/2614993
-BTS Mixtape - Andrew Meza's BTS Radio - 2010 - https://api.discogs.com/releases/2722138
-Sonic Router Mix #84 - 2011 - https://api.discogs.com/releases/6329820
-14 Tracks From Planet Mu - 2011 - https://api.discogs.com/masters/500345
-3am Surfing Mix - 2012 - https://api.discogs.com/releases/3676022
-Mixtape For Densinghour - 2013 - https://api.discogs.com/releases/4727508
-Branemelt - Vol. 1 - 2013 - https://api.discogs.com/releases/5139625
-Lavender AM - 2013 - https://api.discogs.com/releases/5185815
-Secret Thirteen Mix 100 - 2013 - https://api.discogs.com/releases/5274525
-BangFace - Neo-Rave Armageddon - 2013 - https://api.discogs.com/releases/5289186
-Distant Thoughts - 2013 - https://api.discogs.com/releases/9548054
-Vertical67's Springtime Bike Ride - 2013 - https://api.discogs.com/releases/11154542
-Touched Two - 2014 - https://api.discogs.com/masters/780074
-WeMe10ans - 2014 - https://api.discogs.com/masters/734402
-10 Years Bug Klinik Records - 2015 - https://api.discogs.com/releases/7439002
-XPLAYMIX 17 | 2015 - 2015 - https://api.discogs.com/releases/7496015
-Galactic Acid Mix - Joia Mixtapes - 2015 - https://api.discogs.com/releases/9048926
-10TRAX #044 - 2016 - https://api.discogs.com/releases/29307064
-Mindcast Mix Recording 03/2018 - 2018 - https://api.discogs.com/releases/11790316
-The Tardigrade's Lament - 2018 - https://api.discogs.com/releases/14964135
-Raving For Srave - 2019 - https://api.discogs.com/releases/15484176
-Bangface 2023: Eurovision-o-Rama - 2023 - https://api.discogs.com/releases/27610539
-Jungle Mixxx 1&2 - 2023 - https://api.discogs.com/masters/3240901
-Santuario April 2024 w/Sassmouth - 2024 - https://api.discogs.com/releases/30420962
-Secret Stash - 2024 - https://api.discogs.com/releases/31982876
-Borrow & Benefit - 2024 - https://api.discogs.com/releases/32408094
-Île Europa Vol.4: L'Effondrement Des Embruns - 2024 - https://api.discogs.com/releases/33465926
-I Hate Sonic Mook Experiment EP3 - Desconocido - https://api.discogs.com/releases/52680
-H2O - 2008 - https://api.discogs.com/releases/1255663
-Grr Spit Breathe Fire!!! - 2010 - https://api.discogs.com/releases/2392824
-The Hyper Safari - 2011 - https://api.discogs.com/releases/3652101
-White Light 106 - 2014 - https://api.discogs.com/releases/6053064
-Camelot Arcade - 2019 - https://api.discogs.com/masters/1339577
+It's On / Only Love Can Break Your Heart - 1990 - https://api.discogs.com/releases/874360
+Only Love Can Break Your Heart - 1990 - https://api.discogs.com/masters/22652
+Kiss And Make Up - 1990 - https://api.discogs.com/masters/8973
+My CD-Single Life Saver - 1991 - https://api.discogs.com/releases/14507406
+Nothing Can Stop Us c/w Speedwell - 1991 - https://api.discogs.com/masters/20847
+Filthy - 1991 - https://api.discogs.com/masters/74230
+Foxbase Alpha - 1991 - https://api.discogs.com/masters/8981
+Live - Paris '92 - 1992 - https://api.discogs.com/releases/8491
+Join Our Club / People Get Real - 1992 - https://api.discogs.com/masters/20839
+The Fred EP - 1992 - https://api.discogs.com/masters/75548
+So Tough - 1992 - https://api.discogs.com/masters/67550
+Avenue - 1992 - https://api.discogs.com/masters/32734
+You're In A Bad Way - 1993 - https://api.discogs.com/masters/20809
+Hobart Paving / Who Do You Think You Are - 1993 - https://api.discogs.com/masters/32746
+Who Do You Think You Are - 1993 - https://api.discogs.com/masters/32753
+Xmas 93 - 1993 - https://api.discogs.com/masters/32757
+You Need A Mess Of Help To Stand Alone - 1993 - https://api.discogs.com/masters/32760
+Pale Movie - 1994 - https://api.discogs.com/masters/32770
+Tiger Bay - 1994 - https://api.discogs.com/masters/32773
+Hug My Soul (4 Songs) - 1994 - https://api.discogs.com/masters/32764
+Like A Motorway - 1994 - https://api.discogs.com/masters/32767
+Xmas 95 - 1995 - https://api.discogs.com/releases/8511
+Cool Kids Of Death - 1995 - https://api.discogs.com/releases/100715
+He's On The Phone - 1995 - https://api.discogs.com/masters/32776
+Too Young To Die (Singles 1990-1995) - 1995 - https://api.discogs.com/masters/32777
+I Love To Paint - 1995 - https://api.discogs.com/masters/545018
+Fairy Tales From Saint Etienne - 1995 - https://api.discogs.com/masters/647686
+Too Young To Die (Videos 1990-1995) - 1995 - https://api.discogs.com/masters/1969585
+The Sea (PFM Mix) - 1996 - https://api.discogs.com/releases/19036
+The EMIDISC Theme / On The Brink - 1996 - https://api.discogs.com/releases/803602
+Angel / Burnt Out Car - 1996 - https://api.discogs.com/masters/259809
+Casino Classics - 1996 - https://api.discogs.com/masters/67542
+Valentines Day '97 - 1997 - https://api.discogs.com/releases/8514
+Sylvie - 1997 - https://api.discogs.com/masters/32784
+Continental - 1997 - https://api.discogs.com/masters/100480
+Bronx Dogs Mixes - 1998 - https://api.discogs.com/releases/8520
+Kid Loco Mixes - 1998 - https://api.discogs.com/releases/107621
+Lose That Girl - 1998 - https://api.discogs.com/releases/1755007
+Xmas 98 - 1998 - https://api.discogs.com/releases/1853449
+In Concert Featuring Saint Etienne - 1998 - https://api.discogs.com/releases/5267440
+Album Sampler - 1998 - https://api.discogs.com/releases/22436983
+Good Humor - 1998 - https://api.discogs.com/masters/32781
+The Bad Photographer - 1998 - https://api.discogs.com/masters/32787
+52 Pilot - 1999 - https://api.discogs.com/releases/119153
+Lover Plays The Bass - 1999 - https://api.discogs.com/releases/911832
+Saturday / F32 - 1999 - https://api.discogs.com/masters/2416990
+Built On Sand - 1999 - https://api.discogs.com/masters/291755
+Places To Visit - 1999 - https://api.discogs.com/masters/67507
+The Misadventures Of Saint Etienne - 1999 - https://api.discogs.com/masters/67508
+Sound Of Water - 2000 - https://api.discogs.com/masters/20823
+Tell Me Why (The Riddle) - 2000 - https://api.discogs.com/masters/8607
+Heart Failed (In The Back Of A Taxi) - 2000 - https://api.discogs.com/masters/67511
+How We Used To Live - 2000 - https://api.discogs.com/masters/67512
+Boy Is Crying - 2000 - https://api.discogs.com/masters/67514
+Interlude - 2001 - https://api.discogs.com/masters/67516
+Smash The System (Singles And More) - 2001 - https://api.discogs.com/masters/67523
+Only Love Can Break Your Heart / The Sea - 2002 - https://api.discogs.com/releases/182507
+Smash The System (Videos And More) - 2002 - https://api.discogs.com/releases/467553
+Finisterre - 2002 - https://api.discogs.com/releases/6348061
+Asleep At The Wheels Of Steel (Music For Lost And Other Films By Saint Etienne) - 2002 - https://api.discogs.com/masters/1462458
+Shower Scene - 2002 - https://api.discogs.com/masters/482028
+Action - 2002 - https://api.discogs.com/masters/67518
+Finisterre - 2002 - https://api.discogs.com/masters/67521
+Xmas 2003 - 2003 - https://api.discogs.com/releases/223040
+Soft Like Me - 2003 - https://api.discogs.com/masters/67525
+Songs For Mario's Cafe - 2004 - https://api.discogs.com/masters/3698457
+The Trip - 2004 - https://api.discogs.com/masters/53051
+Travel Edition 1990-2005 - 2004 - https://api.discogs.com/masters/67526
+Finisterre  (A Film About London)  - 2005 - https://api.discogs.com/masters/231693
+Tales From Turnpike House - 2005 - https://api.discogs.com/masters/20832
+A Good Thing - 2005 - https://api.discogs.com/masters/67528
+Side Streets - 2005 - https://api.discogs.com/masters/67531
+What Have You Done Today Mervyn Day? (Original Soundtrack Recording) - 2006 - https://api.discogs.com/masters/1234050
+Merry Xmas 2006 From Saint Etienne - 2006 - https://api.discogs.com/masters/234785
+Nice Price - 2006 - https://api.discogs.com/masters/1279543
+Dance Remixes Volume 1 - Stars Above Us - 2006 - https://api.discogs.com/masters/67532
+This Is Tomorrow - 2007 - https://api.discogs.com/releases/1130083
+Boxette - 2008 - https://api.discogs.com/releases/1223184
+London Conversations - The Best Of Saint Etienne - 2008 - https://api.discogs.com/releases/11525254
+Burnt Out Car - 2008 - https://api.discogs.com/masters/9009
+London Conversations - The Best Of Saint Etienne - 2008 - https://api.discogs.com/masters/67534
+Now 4 - 2009 - https://api.discogs.com/releases/1810201
+Trumpton Comes Alive - 2009 - https://api.discogs.com/releases/1929825
+Songs For The Dog & Duck - 2009 - https://api.discogs.com/releases/2094135
+Only Love Can Break Your Heart (Foxbase Beta Mix) - 2009 - https://api.discogs.com/masters/186812
+Method Of Modern Love / This Is Tomorrow - 2009 - https://api.discogs.com/masters/8990
+Foxbase Beta - 2009 - https://api.discogs.com/masters/702434
+Re-Issue Roustabout - 2010 - https://api.discogs.com/releases/2493042
+A Glimpse Of Stocking - 2010 - https://api.discogs.com/masters/426745
+Saint Etienne On 45. Part One - 2011 - https://api.discogs.com/releases/2829652
+Xmas '11 EP - 2011 - https://api.discogs.com/masters/393931
+Songs For The Lyons Cornerhouse - 2012 - https://api.discogs.com/releases/3762665
+I've Got Your Music - 2012 - https://api.discogs.com/masters/449165
+Words And Music By Saint Etienne - 2012 - https://api.discogs.com/masters/437591
+Tonight - 2012 - https://api.discogs.com/masters/417243
+A London Trilogy (The Films Of Saint Etienne 2003-2007) - 2013 - https://api.discogs.com/releases/4763031
+Songs For A Central Park Picnic - 2013 - https://api.discogs.com/releases/4781931
+Saint Etienne Remixes - 2013 - https://api.discogs.com/releases/5207733
