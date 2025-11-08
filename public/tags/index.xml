@@ -6,20 +6,27 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 08 Nov 2025 19:03:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 19:19:39 +0100</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambient</title>
+      <link>/tags/ambient/</link>
+      <pubDate>Sat, 08 Nov 2025 19:19:39 +0100</pubDate>
+      <guid>/tags/ambient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark-Ambient</title>
+      <link>/tags/dark-ambient/</link>
+      <pubDate>Sat, 08 Nov 2025 19:19:39 +0100</pubDate>
+      <guid>/tags/dark-ambient/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Jazz</title>
       <link>/tags/jazz/</link>
       <pubDate>Sat, 08 Nov 2025 19:03:05 +0100</pubDate>
       <guid>/tags/jazz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ambient</title>
-      <link>/tags/ambient/</link>
-      <pubDate>Tue, 14 Oct 2025 21:33:23 +0200</pubDate>
-      <guid>/tags/ambient/</guid>
       <description></description>
     </item>
     <item>
