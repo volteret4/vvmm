@@ -6,8 +6,15 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 15 Nov 2025 22:01:38 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 23:25:20 +0100</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jazz</title>
+      <link>/tags/jazz/</link>
+      <pubDate>Sat, 15 Nov 2025 23:25:20 +0100</pubDate>
+      <guid>/tags/jazz/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Krautrock</title>
       <link>/tags/krautrock/</link>
@@ -69,13 +76,6 @@
       <link>/tags/dark-ambient/</link>
       <pubDate>Sat, 08 Nov 2025 19:19:39 +0100</pubDate>
       <guid>/tags/dark-ambient/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jazz</title>
-      <link>/tags/jazz/</link>
-      <pubDate>Sat, 08 Nov 2025 19:03:05 +0100</pubDate>
-      <guid>/tags/jazz/</guid>
       <description></description>
     </item>
     <item>
