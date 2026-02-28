@@ -6,8 +6,15 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 25 Jan 2026 14:20:27 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 12:53:44 +0100</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disco</title>
+      <link>/tags/disco/</link>
+      <pubDate>Sat, 28 Feb 2026 12:53:44 +0100</pubDate>
+      <guid>/tags/disco/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Funk</title>
       <link>/tags/funk/</link>
@@ -62,13 +69,6 @@
       <link>/tags/experimental/</link>
       <pubDate>Sat, 15 Nov 2025 16:54:44 +0100</pubDate>
       <guid>/tags/experimental/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disco</title>
-      <link>/tags/disco/</link>
-      <pubDate>Sun, 09 Nov 2025 20:56:04 +0100</pubDate>
-      <guid>/tags/disco/</guid>
       <description></description>
     </item>
     <item>

@@ -1,88 +1,178 @@
 Listado de releases del artista:
-Recycled Music - 2008 - https://api.discogs.com/releases/2265218
-Swamp Delta Gas Flares - 2008 - https://api.discogs.com/releases/2790787
-Ancestral Visions Etched On Skulls - 2009 - https://api.discogs.com/releases/1724210
-Longhouse Spirits Gather For Fragrant Island River Dreams - 2009 - https://api.discogs.com/releases/1806701
-Khual Yaang:  To Summon The Spirits - 2009 - https://api.discogs.com/releases/2014422
-Trance In Bamboo Infinity - 2009 - https://api.discogs.com/releases/2090091
-Flowers Of The Honey Tree - 2009 - https://api.discogs.com/releases/2121063
-River Gods Strike Tuned Bronze Flowers - 2009 - https://api.discogs.com/releases/2244189
-Thunderous Slit-Gongs On Islands Of Cloud - 2009 - https://api.discogs.com/masters/1032068
-For Gunde Svan - 2009 - https://api.discogs.com/masters/891342
-In The Great Swamp You Were Conceived - 2010 - https://api.discogs.com/releases/2090055
-Plurals / Tuluum Shimmering - 2010 - https://api.discogs.com/releases/2108196
-Heart Of Sky Heart Of Earth - 2010 - https://api.discogs.com/releases/2266180
-Flowers Are Offered - 2010 - https://api.discogs.com/releases/2409395
-Untitled - 2010 - https://api.discogs.com/releases/2698807
-A Film Without End Dvd 1 - 2011 - https://api.discogs.com/releases/16044598
-A Film Without End Dvd 2 - 2011 - https://api.discogs.com/releases/16044727
-One - 2012 - https://api.discogs.com/releases/4210472
-Two - 2012 - https://api.discogs.com/releases/4210474
-Three - 2012 - https://api.discogs.com/releases/4210476
-Music & Films 2009-11 - 2012 - https://api.discogs.com/releases/4930560
-Raag Wichikapache / Lake Of Mapang - 2013 - https://api.discogs.com/releases/4314013
-Untitled - 2013 - https://api.discogs.com/releases/4328884
-Orange & White Feathered String - 2013 - https://api.discogs.com/releases/4356315
-Five - 2013 - https://api.discogs.com/releases/4552860
-Four - 2013 - https://api.discogs.com/releases/4552869
-Rites For The New Sun (Day 33 / 4:27am) - 2013 - https://api.discogs.com/releases/4552886
-Before Us Is Our Ocean - 2013 - https://api.discogs.com/releases/4594027
-Ulau Tau / Spirit Of Sun - 2013 - https://api.discogs.com/releases/4649132
-Islands Of The Sun And Moon - 2013 - https://api.discogs.com/releases/4671559
-Red Bird Messenger - 2013 - https://api.discogs.com/releases/5103046
-Festival At The Shallow River - 2013 - https://api.discogs.com/releases/5291164
-Inside The Mountain - 2013 - https://api.discogs.com/masters/558077
-The Sky Tree - 2014 - https://api.discogs.com/releases/5525988
-The Sun Harp - 2014 - https://api.discogs.com/releases/6038519
-Qin Song - 2014 - https://api.discogs.com/releases/6149037
-It Became Night / Dawn Again - 2014 - https://api.discogs.com/masters/911508
-Dark Star - 2014 - https://api.discogs.com/masters/3120954
-In The Grove The Moon Is Drowned With Stars - 2015 - https://api.discogs.com/releases/7006158
-Bundle Of Flames - 2015 - https://api.discogs.com/releases/7006167
-The Edge Of The Sky On Either Side - 2015 - https://api.discogs.com/releases/7006170
-Over Seven Mountains, Over Seven Plains - 2015 - https://api.discogs.com/releases/7006179
-Whose Bark Is Bent Into Circles - 2015 - https://api.discogs.com/releases/7329164
-Great Star Entered The Fire - 2015 - https://api.discogs.com/releases/7329196
-Wide Water Entered The Fire - 2015 - https://api.discogs.com/releases/7329212
-Banner Stone Entered The Fire - 2015 - https://api.discogs.com/releases/7329219
-Hummingbird Entered The Fire - 2015 - https://api.discogs.com/releases/7329226
-New Ghosts, The Creator Has A Master Plan, A Love Supreme - 2015 - https://api.discogs.com/releases/7550525
-Space Is The Place / Prince Of Peace - 2015 - https://api.discogs.com/releases/7620616
-Where The Turquoise Spring Sings Among Pebbles - 2016 - https://api.discogs.com/releases/8371680
-Song Of The Thunder - 2016 - https://api.discogs.com/releases/8578644
-Dance Song Of The Swallow - 2016 - https://api.discogs.com/releases/8578655
-Song Of The Sky Loom - 2016 - https://api.discogs.com/releases/8578676
-Flower Dance Song - 2016 - https://api.discogs.com/releases/8578782
-Love Light - 2016 - https://api.discogs.com/releases/9448885
-People & Music Series Volume 2 - 2016 - https://api.discogs.com/releases/9448923
-People & Music Series Volume 1 - 2016 - https://api.discogs.com/masters/2300098
-Drinking Shadow Lantern Bird Fog - 2017 - https://api.discogs.com/releases/10510232
-Halfway Between The Leaves And The Root - 2017 - https://api.discogs.com/releases/10929487
-Autumnal Equinox - 2017 - https://api.discogs.com/releases/32728092
-Linus & Lucy - 2018 - https://api.discogs.com/releases/11706613
-The One That Touched The Sky - 2018 - https://api.discogs.com/releases/11722267
-Dancing In The Seven Skies - 2018 - https://api.discogs.com/releases/12594791
-These Flowers In Dawn's Twilight At Illusion Temple  - 2019 - https://api.discogs.com/releases/13257279
-Blue Water Sunray - 2019 - https://api.discogs.com/releases/14338344
-Flowers Of Daybreak - 2020 - https://api.discogs.com/releases/15872408
-The Bright Moon Emerges - 2021 - https://api.discogs.com/releases/18753613
-Emerald Trees Of Mottled Green - 2021 - https://api.discogs.com/releases/18753865
-Pitched Like A Stone Into The Flowing Water - 2021 - https://api.discogs.com/releases/18753943
-Waterfall Arcing In The Still Of Night - 2021 - https://api.discogs.com/releases/18754045
-Sun Bird - 2021 - https://api.discogs.com/masters/2322520
-Cinnamon Girl - 2022 - https://api.discogs.com/releases/22328380
-Aftaglid - 2022 - https://api.discogs.com/releases/22723037
-Planet Caravan - 2022 - https://api.discogs.com/releases/25328698
-A Distant Moon - 2022 - https://api.discogs.com/releases/27993147
-Under The Sky - 2022 - https://api.discogs.com/releases/27993216
-Behind The Cloud Horizon - 2023 - https://api.discogs.com/releases/27993279
-The Mountains Are Singing And The Roses Are Singing - 2023 - https://api.discogs.com/releases/28925866
-Tuluum's Time Travel Tape Trunk, Vol. 1, January 2010: It's Here In The Circle - 2023 - https://api.discogs.com/releases/30355154
-Tuluum's Time Travel Tape Trunk, Vol. 2, January And February 2010: Sunbeams Stream Forward - 2024 - https://api.discogs.com/releases/30355214
-Lotus Blossoms Blooming In Four Directions - 2024 - https://api.discogs.com/releases/31464647
-Space is the Place (For Sun Ra) - Desconocido - https://api.discogs.com/releases/15928410
-Prince of Peace (For Pharoah Sanders) - Desconocido - https://api.discogs.com/releases/15928420
-Tokyo Remixes - 2014 - https://api.discogs.com/releases/30563002
-Good Wheel Tea Carpentry - 2010 - https://api.discogs.com/releases/2123304
-Exercises In Futility - 2015 - https://api.discogs.com/releases/6608976
-Board Music - Desconocido - https://api.discogs.com/releases/3060290
+Malaika / Accidental Lover - 1977 - https://api.discogs.com/releases/230269
+Accidental Lover / Gelosia - 1977 - https://api.discogs.com/releases/5739874
+Accidental Lover - 1977 - https://api.discogs.com/masters/447469
+I've Found Love (Now That I've Found You) - 1977 - https://api.discogs.com/masters/73330
+Love And Kisses - 1977 - https://api.discogs.com/masters/25594
+You're The Most Precious Thing In My Life - 1978 - https://api.discogs.com/releases/498877
+Space Lady Love / Thank God It's Friday - 1978 - https://api.discogs.com/releases/5120543
+El Ultimo Baile = Last Dance / Gracias A Dios Que Es Viernes = Thank God It's Friday - 1978 - https://api.discogs.com/releases/35505637
+Thank God It's Friday - 1978 - https://api.discogs.com/masters/25601
+Last Dance / Thank God It's Friday - 1978 - https://api.discogs.com/masters/2530081
+How Much, How Much I Love You - 1978 - https://api.discogs.com/masters/2530084
+How Much, How Much I Love You - 1978 - https://api.discogs.com/masters/1304054
+How Much, How Much I Love You - 1978 - https://api.discogs.com/masters/25596
+You Must Be Love / Woman To Woman - 1979 - https://api.discogs.com/releases/702400
+You Must Be Love / Synergy - 1979 - https://api.discogs.com/releases/4615070
+You Must Be Love - 1979 - https://api.discogs.com/masters/73347
+You Must Be Love - 1979 - https://api.discogs.com/masters/260321
+The World Of Alec Costandinos - 1980 - https://api.discogs.com/releases/7448924
+Bap Bap - 1982 - https://api.discogs.com/masters/73353
+Greatest Hits - 1988 - https://api.discogs.com/releases/1955850
+Funkytown / Thank God It's Friday - 1991 - https://api.discogs.com/masters/73355
+Thank God It's Friday / I Just Want To Be - 1994 - https://api.discogs.com/releases/412747
+Diva Megamix - 1997 - https://api.discogs.com/releases/2910093
+Disco Wash / 20 Super Disco Hits - 1977 - https://api.discogs.com/releases/4106192
+Terror En La Discoteca - 1977 - https://api.discogs.com/releases/4535585
+Tracazos - 1977 - https://api.discogs.com/releases/7588312
+Best N. 2 (Versioni Originali) - 1977 - https://api.discogs.com/releases/10767677
+Le Disco Album - 1977 - https://api.discogs.com/masters/334353
+De Daverende Dertien Vol. 7 - 1977 - https://api.discogs.com/masters/739742
+Discotheque Whiskadão "Ilha Porchat" - 1977 - https://api.discogs.com/masters/3017408
+Return To Casablanca Volume 1 / Number Two - 1978 - https://api.discogs.com/releases/3021076
+Discolåtar 3 - 1978 - https://api.discogs.com/releases/3032114
+Super Hits Special In Disco '78 - 1978 - https://api.discogs.com/releases/6463343
+Les Meilleures Musiques De Films Disco - 1978 - https://api.discogs.com/releases/7003952
+Thank God It's Friday (The Original Motion Picture Soundtrack) - 1978 - https://api.discogs.com/releases/9392183
+Felicidades '78* - 1978 - https://api.discogs.com/releases/10915823
+Philadelphia City Volume 2 - 1978 - https://api.discogs.com/releases/12805580
+Verano Lee - 1978 - https://api.discogs.com/releases/13517525
+American Top 40 (Program No. 783-2 For Week Ending July 8, 1978) - 1978 - https://api.discogs.com/releases/14600183
+Los Super Exitos Del Año - 1978 - https://api.discogs.com/releases/18508366
+American Top 40 (Week Ending 7/15/78) - 1978 - https://api.discogs.com/releases/18917425
+Pato C Special (Vol.6) - Collection Show - 1978 - https://api.discogs.com/releases/19103266
+Thank God It's Friday (The Original Motion Picture Soundtrack) - Part 1 - 1978 - https://api.discogs.com/releases/23764148
+Thank God It's Friday (The Original Motion Picture Soundtrack) Part 1 - 1978 - https://api.discogs.com/releases/24176018
+American Top 40 (Week Ending 7/22/78) - 1978 - https://api.discogs.com/releases/25756423
+American Top 40 (Week Ending In 7/8/78) - 1978 - https://api.discogs.com/releases/27463527
+Thank God It's Friday Sampler - 1978 - https://api.discogs.com/releases/28050015
+Rock-64 - 16 Hits Aug. 1978 - 1978 - https://api.discogs.com/releases/30428636
+Moviexitos Promocion 1 - 1978 - https://api.discogs.com/releases/33785967
+Último Baile - 1978 - https://api.discogs.com/masters/837651
+Thank God It's Friday (The Original Motion Picture Soundtrack) - 1978 - https://api.discogs.com/masters/73366
+Fusion (Disco Mix) - 1978 - https://api.discogs.com/masters/231848
+Return To Casablanca - 1978 - https://api.discogs.com/masters/722609
+Disco Fever - 1978 - https://api.discogs.com/masters/1347057
+Direct From Studio 54 - 1979 - https://api.discogs.com/releases/322356
+Acontece - 1979 - https://api.discogs.com/releases/2543814
+Disco Explosion Hits - 1979 - https://api.discogs.com/releases/5155217
+Antena Um - 1979 - https://api.discogs.com/releases/6853455
+K-Tel Disco Show - 1979 - https://api.discogs.com/releases/8719521
+Let's Disco - 1979 - https://api.discogs.com/releases/15825414
+Disco Dance Fever Vol. 1 - 1979 - https://api.discogs.com/releases/35856211
+A Night At Studio 54 - 1979 - https://api.discogs.com/masters/571155
+Pop World (20 Successi 20) - 1979 - https://api.discogs.com/masters/1608361
+Superconcerto - 1979 - https://api.discogs.com/masters/2820278
+Disco Diamond - 1979 - https://api.discogs.com/masters/2091088
+Hit Parade N. 21 - 1979 - https://api.discogs.com/masters/1996372
+Let's Dance 83 - 1983 - https://api.discogs.com/releases/5299773
+イッツフライデー - 1985 - https://api.discogs.com/releases/32551680
+Series 8, Issue 2 - 1989 - https://api.discogs.com/releases/2861254
+Mix Madness Polyester Edition - 1993 - https://api.discogs.com/releases/7990077
+70's Blast - 12" Hits: Volume 1 - 1993 - https://api.discogs.com/releases/11770154
+Dance Classics - The Hits II - 1993 - https://api.discogs.com/masters/758231
+Selections From The Casablanca Records Story - 1994 - https://api.discogs.com/releases/1995742
+The Dance Classic Showcase Vol. 1 - 1994 - https://api.discogs.com/releases/10292893
+The Dance Classic Showcase Vol. 4 - 1994 - https://api.discogs.com/releases/10293978
+The Casablanca Records Story - 1994 - https://api.discogs.com/masters/239695
+The Best Of Euro Disco (Disco Nights Vol. 3) - 1994 - https://api.discogs.com/masters/162551
+Dance Floor Hits (Disco Nights Volume 8) - 1995 - https://api.discogs.com/masters/1360909
+Dance Fever - The Best Of Disco - 1995 - https://api.discogs.com/masters/3119823
+Disco's Greatest Movie Hits (Disco Nights Vol. 10) - 1996 - https://api.discogs.com/releases/3406959
+Behind The Hits: Show #96-18 (Airdates April 29-May 5, 1996) - 1996 - https://api.discogs.com/releases/16251957
+ 70’s Party Mix Disc 3 - 1996 - https://api.discogs.com/releases/32884689
+Pure Disco 2 - 1996 - https://api.discogs.com/masters/1340698
+Casablanca Records Greatest Hits - 1996 - https://api.discogs.com/masters/410919
+The Best Disco In Town - 1996 - https://api.discogs.com/masters/1788654
+I Will Survive (Remix) / The Diva Megamix - 1997 - https://api.discogs.com/releases/3863038
+Diva Megamix - 1997 - https://api.discogs.com/releases/7593047
+Total Disco - 1997 - https://api.discogs.com/releases/13141663
+Fiebre Del Sábado Por La Noche - 1997 - https://api.discogs.com/releases/14377364
+Thump's Flashback Disco - 1997 - https://api.discogs.com/releases/21875626
+Pure Disco 2 - 1997 - https://api.discogs.com/masters/468994
+Pure Disco 3 - 1997 - https://api.discogs.com/masters/1513473
+Thump's Flashback Disco - 1997 - https://api.discogs.com/masters/837642
+From The Vaults - 1998 - https://api.discogs.com/releases/1296481
+Boogie Fever - CD Three - 1998 - https://api.discogs.com/releases/11434067
+Los Más Grandes Del Rock Internacional - 29 - 1998 - https://api.discogs.com/releases/13194855
+Yester Disco - 1998 - https://api.discogs.com/releases/14949402
+Pure Disco 3 - 1998 - https://api.discogs.com/releases/22897451
+You Should Be Dancing - 1998 - https://api.discogs.com/releases/34302811
+Boogie Nights - 1998 - https://api.discogs.com/masters/3079667
+1 Hit Wonders And Hard To Find Classics - 1999 - https://api.discogs.com/releases/10642900
+Por Fin Es Viernes 3 - 1999 - https://api.discogs.com/masters/1478718
+Boogie Fever - 1999 - https://api.discogs.com/masters/3974348
+3FM Hard To Find Classics Volume One - 1999 - https://api.discogs.com/masters/1779289
+3FM Hard To Find Classics Volume Two - 1999 - https://api.discogs.com/masters/1180001
+Corné Klijn's Disco Classics Party 2 - 2000 - https://api.discogs.com/releases/458912
+Disco Volume 2 - 2000 - https://api.discogs.com/releases/10407897
+Disco Hits Volume 2 - 2000 - https://api.discogs.com/releases/11801062
+Granny Lee's Disco Hits Of The 70s & 80s - 2000 - https://api.discogs.com/releases/15709396
+The Best Disco In Town - 2000 - https://api.discogs.com/releases/19859476
+Generación Disco-Dance - 2000 - https://api.discogs.com/releases/32612403
+Disco Box Vol. 7 - Do It - 2000 - https://api.discogs.com/masters/3438968
+Dance Classics Volume 15 & 16 - 2001 - https://api.discogs.com/releases/951950
+Ultimate Disco Classics (Volume One) - 2002 - https://api.discogs.com/releases/8084388
+Vinylmania  - 2002 - https://api.discogs.com/releases/11406581
+Los Hits Gordos Disco - 2002 - https://api.discogs.com/releases/14652851
+Muziekhits Uit 1977 25 Jaar Holland Casino Valkenburg - 2002 - https://api.discogs.com/releases/19535956
+Disco Fever Anthology - 2002 - https://api.discogs.com/masters/2880292
+One Shot Disco The Definitive Discollection Volume 5 - 2002 - https://api.discogs.com/masters/1047898
+Disco Fever 2 - 2002 - https://api.discogs.com/masters/3117285
+Solid Gold - 2003 - https://api.discogs.com/releases/15909341
+Disco Lives! - 2003 - https://api.discogs.com/releases/35649349
+The Disco Love Collection  - 2004 - https://api.discogs.com/releases/12378508
+70-80 Soul Explosion Vol.3 - 2004 - https://api.discogs.com/releases/14396359
+Pop Klassiker - 2004 - https://api.discogs.com/releases/35348449
+Hot Party - 70 Classics Vol. 2 - 2005 - https://api.discogs.com/releases/10413051
+Back To Disco - 2006 - https://api.discogs.com/releases/12105580
+Disco Fever - Could It Be Magic - 2006 - https://api.discogs.com/releases/12267073
+One Shot Disco (60 Most Wanted Hits) - 2007 - https://api.discogs.com/releases/5554994
+Classic Disco Number 1's - 2007 - https://api.discogs.com/releases/7520229
+30 Años De Música D.I.S.C.O. - 2007 - https://api.discogs.com/releases/12992531
+il Dramma 04 - Locked - 2007 - https://api.discogs.com/releases/28683673
+Y Los Dejo Con La Mezcla De Los 70/80 - 2007 - https://api.discogs.com/releases/34856390
+Happy Birthday Disco - 2008 - https://api.discogs.com/releases/10056932
+Back To Disco, Vol. 1 - 2008 - https://api.discogs.com/releases/35145673
+Sólo Disco - 2010 - https://api.discogs.com/releases/14486659
+Studio 54: The Original And Definitive Collection Vol.2 - 2011 - https://api.discogs.com/releases/2878066
+Fact Mix 598 - 2017 - https://api.discogs.com/releases/29408848
+The Absolute Disco Fever Collection - 2020 - https://api.discogs.com/releases/31813274
+Get On The Funk Train - Desconocido - https://api.discogs.com/releases/1627188
+Summer Hits - Desconocido - https://api.discogs.com/releases/7520992
+Westwood Solid Gold '70's - Desconocido - https://api.discogs.com/releases/7911770
+Summer Disco - I Grandi Successi Da Ballare - Desconocido - https://api.discogs.com/releases/17315632
+King Super Disco Sampler Vol. 1 - Desconocido - https://api.discogs.com/releases/22185085
+Twin Pak Hits Of The 70's Vol. 2 - Desconocido - https://api.discogs.com/releases/27393909
+Mobil Album No. 7 - Desconocido - https://api.discogs.com/releases/28584469
+D.J. Promos  - Desconocido - https://api.discogs.com/releases/34276807
+Hollywood - Desconocido - https://api.discogs.com/masters/333984
+Hot Sound Vol. 10 - 1978 - https://api.discogs.com/releases/36398104
+Hot Sound Vol. 10 - 1978 - https://api.discogs.com/releases/36399925
+Fusion - 1978 - https://api.discogs.com/masters/231848
+How Much, How Much I Love You - 1978 - https://api.discogs.com/masters/25596
+Disco Box Vol. 1 - Boogie Nights - 2000 - https://api.discogs.com/releases/203952
+Disco Box Vol. 7 - Do It - 2000 - https://api.discogs.com/masters/3438968
+New Syndicate - Part III - 2003 - https://api.discogs.com/masters/2540704
+Gangsta Soul 20 A Soul Man Apart... - 2005 - https://api.discogs.com/releases/3130161
+You Must Be Love - 2005 - https://api.discogs.com/masters/73347
+Love And Kisses - 2005 - https://api.discogs.com/masters/25594
+Dance Your Pants Off Vol. 1, 2 & 3 - 2006 - https://api.discogs.com/releases/784133
+Dance Your Pants Off Vol. 1 - 2006 - https://api.discogs.com/releases/1319946
+Даёшь Музыку MP3 Collection часть 1 - 2007 - https://api.discogs.com/releases/8543421
+You Must Be Love - 2013 - https://api.discogs.com/releases/14000376
+Love And Kisses / How Much, How Much I Love You - 2014 - https://api.discogs.com/releases/6312733
+The Original Masters Disco Vol.11 - 2015 - https://api.discogs.com/releases/7203376
+The Original Masters: The Music History Of The Disco Vol.14  - 2018 - https://api.discogs.com/releases/11439102
+The Original Masters: The Music History Of The Disco Vol.15 - 2019 - https://api.discogs.com/releases/13441733
+A Night At Studio IMD - 2019 - https://api.discogs.com/masters/571155
+I Found Love / Heaven Knows - 2023 - https://api.discogs.com/releases/27033453
+Super Disco Hits For The 1980s Vol. 2 - Desconocido - https://api.discogs.com/releases/3091742
+Donna Summer часть 1-2 - Desconocido - https://api.discogs.com/releases/8532985
+Beatles Disco (Queen Of Chinatown, Buggy Boy) - Desconocido - https://api.discogs.com/releases/9505027
+Donna Summer - Part 1 - Desconocido - https://api.discogs.com/releases/18388795
+Love And Kisses - Desconocido - https://api.discogs.com/releases/28245688
+How Much, How Much I Love You - Desconocido - https://api.discogs.com/releases/28245805
+Hot Line 6 排行天地 - Desconocido - https://api.discogs.com/releases/31592749
+Le Disco Album - Desconocido - https://api.discogs.com/masters/334353
+Thank God It's Friday Vol. 1 (The Original Motion Picture Soundtrack Of) - Desconocido - https://api.discogs.com/masters/73366
