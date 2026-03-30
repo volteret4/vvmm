@@ -6,12 +6,19 @@
     <description>Recent content in Tags on vvmm</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 28 Mar 2026 21:56:12 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 20:01:27 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House</title>
+      <link>/tags/house/</link>
+      <pubDate>Mon, 30 Mar 2026 20:01:27 +0200</pubDate>
+      <guid>/tags/house/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Techno</title>
       <link>/tags/techno/</link>
-      <pubDate>Sat, 28 Mar 2026 21:56:12 +0100</pubDate>
+      <pubDate>Mon, 30 Mar 2026 20:01:27 +0200</pubDate>
       <guid>/tags/techno/</guid>
       <description></description>
     </item>
@@ -111,13 +118,6 @@
       <link>/tags/rock/</link>
       <pubDate>Sun, 14 Sep 2025 21:48:38 +0200</pubDate>
       <guid>/tags/rock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>House</title>
-      <link>/tags/house/</link>
-      <pubDate>Wed, 27 Aug 2025 03:24:19 +0200</pubDate>
-      <guid>/tags/house/</guid>
       <description></description>
     </item>
     <item>
