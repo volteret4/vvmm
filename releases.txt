@@ -1,41 +1,359 @@
 Listado de releases del artista:
- David Crane's Amazing Tennis - 2013 - https://api.discogs.com/releases/12748924
-Alex Brown - 2015 - https://api.discogs.com/masters/1056842
-You'll Understand - 2016 - https://api.discogs.com/masters/1104481
-The Outsiders - 2017 - https://api.discogs.com/masters/1228693
-Don't Sleep, There Are Snakes  - 2017 - https://api.discogs.com/masters/1162104
-Champagne - 2018 - https://api.discogs.com/releases/11534317
-Family Portrait - 2018 - https://api.discogs.com/masters/1400398
-Aphelion EP - 2018 - https://api.discogs.com/masters/1350900
-Epiphany - 2019 - https://api.discogs.com/masters/1601655
-Love Divide - 2021 - https://api.discogs.com/releases/20608021
-Tread - 2021 - https://api.discogs.com/masters/2368099
-Portraits Remixed - 2015 - https://api.discogs.com/masters/971791
-Loose Wood EP - 2016 - https://api.discogs.com/releases/9215313
-A Kind Of Us - 2016 - https://api.discogs.com/releases/9409940
-Nerve EP - 2017 - https://api.discogs.com/masters/3590552
-Burn So Deep (Remixes) - 2018 - https://api.discogs.com/masters/1374740
-Brainfeeder X - 2018 - https://api.discogs.com/masters/1455859
-Let You Know (Ross From Friends Remix) - 2019 - https://api.discogs.com/masters/1608896
-Please (Ross From Friends Remix) - 2021 - https://api.discogs.com/masters/2250379
-Combinisions I - 2022 - https://api.discogs.com/releases/23272736
-Bleep 100 Tracks 2022  - 2022 - https://api.discogs.com/releases/25723519
-Remixes - 2025 - https://api.discogs.com/releases/35875192
-Portraits - 2025 - https://api.discogs.com/masters/843986
-Brainfeeder X - 2018 - https://api.discogs.com/masters/1455859
-SETTINGS001 - 2016 - https://api.discogs.com/releases/11340558
-Lit Level 002 - 2016 - https://api.discogs.com/masters/2656847
-SETTINGS002 - 2017 - https://api.discogs.com/releases/11341117
-DJ-Kicks - 2017 - https://api.discogs.com/masters/1246208
-Brainfeeder 2017 ∞ 2018 - 2018 - https://api.discogs.com/releases/11589336
-SETTINGS003 - 2018 - https://api.discogs.com/releases/12080278
-Panorama Bar 07 - 2018 - https://api.discogs.com/releases/12964353
-Brainfeeder X "Shinka" - 2018 - https://api.discogs.com/releases/30368612
-Ibiza Underground 2018 - 2018 - https://api.discogs.com/masters/2296027
-Panorama Bar 07 Part II - 2018 - https://api.discogs.com/masters/1718109
-Brainfeeder X - 2018 - https://api.discogs.com/masters/1455859
-Summer Sampler 2019 - 2019 - https://api.discogs.com/releases/14293158
-Lobster Deep Classics - 2020 - https://api.discogs.com/releases/16792194
-Deep LoFi House From Chicago Vol.2 - 2020 - https://api.discogs.com/releases/29220031
-Remixes - 2020 - https://api.discogs.com/releases/34320919
-Combinisions I - 2022 - https://api.discogs.com/releases/23272736
+Too Fortiche - 1997 - https://api.discogs.com/masters/3980356
+Discobole - 1997 - https://api.discogs.com/masters/1000832
+Puzzle - 2000 - https://api.discogs.com/masters/71214
+Frontal Funk / Prism - 2000 - https://api.discogs.com/masters/215384
+Auto Power - 2001 - https://api.discogs.com/releases/13694
+Two Remixes And 1 Previously Unreleased Track - 2001 - https://api.discogs.com/masters/71216
+Remixent - 2002 - https://api.discogs.com/releases/50960
+Crash Test - 2002 - https://api.discogs.com/releases/682976
+Cosmic Race - 2002 - https://api.discogs.com/masters/1184391
+Brain On Drugs - 2002 - https://api.discogs.com/masters/1115861
+The Meal - 2004 - https://api.discogs.com/masters/71221
+Les Antipodes - Versions Spéciales - 2004 - https://api.discogs.com/masters/1137397
+Celestial Showers - 2005 - https://api.discogs.com/masters/31096
+Baroque EP - 2006 - https://api.discogs.com/releases/816868
+Les Vampires (Original Soundtrack) - 2006 - https://api.discogs.com/releases/851769
+RA.044 - 2007 - https://api.discogs.com/releases/2474130
+Body Language Five - 2007 - https://api.discogs.com/masters/71225
+Baltringue - 2007 - https://api.discogs.com/masters/1692282
+Chichi Devils - 2011 - https://api.discogs.com/masters/353412
+Cosmic Race / Instant Replay - 2012 - https://api.discogs.com/releases/3923464
+Kounka - 2012 - https://api.discogs.com/masters/1024957
+La Pregunta - 2013 - https://api.discogs.com/releases/4697157
+Terry Riley Cover EP - 2014 - https://api.discogs.com/releases/5734222
+Classic 003 - 2014 - https://api.discogs.com/releases/5761912
+Dam House E.P - 2018 - https://api.discogs.com/masters/4299903
+Nookoqo - 2023 - https://api.discogs.com/releases/28617505
+La Folie Studio  - 2024 - https://api.discogs.com/masters/3478231
+Le Soleil Est Près De Moi - 1997 - https://api.discogs.com/masters/58544
+Métamorphose - Messe Pour Le Temps Présent - 1997 - https://api.discogs.com/masters/84243
+Remixes - 1998 - https://api.discogs.com/releases/794627
+Music Sounds Better With You (Remixé) - 1998 - https://api.discogs.com/masters/29410
+Beng Beng Beng - 1998 - https://api.discogs.com/masters/90961
+Twice Thinking / Reve#1 - 1999 - https://api.discogs.com/releases/44635
+Exclusive House Volume 1 - 1999 - https://api.discogs.com/releases/1271816
+The French Touch - 1999 - https://api.discogs.com/releases/2282196
+Shoki Remixed - 1999 - https://api.discogs.com/masters/90962
+Shoki Shoki - 1999 - https://api.discogs.com/masters/90963
+Psyché Rock Sessions - 2000 - https://api.discogs.com/masters/970780
+Le Big Sloppy Kiss - 2000 - https://api.discogs.com/masters/1341492
+Second Nature (Château Flight Remix) / Lies (Volga Select Double Dub) - 2000 - https://api.discogs.com/masters/49225
+Tiger Sushi Remixed - 2000 - https://api.discogs.com/masters/191627
+Abstract Funk Theory - 2000 - https://api.discogs.com/masters/32129
+No One, No How, Never - 2000 - https://api.discogs.com/masters/318403
+Test Four - 2001 - https://api.discogs.com/releases/138917
+I♥︎Serge (Electronica Gainsbourg M1) - 2001 - https://api.discogs.com/releases/179101
+Test The Box - 2001 - https://api.discogs.com/releases/1226498
+Free Ways - 2001 - https://api.discogs.com/releases/6925099
+The Ritual - 2001 - https://api.discogs.com/masters/192010
+Music To Keep Your Wife Happy (The Exciting History Of Yellow Producions 1994-2001) - 2001 - https://api.discogs.com/masters/34868
+Private Lounge 2 - 2001 - https://api.discogs.com/masters/1887873
+I ♥ Serge (Electronica Gainsbourg 1) - 2001 - https://api.discogs.com/masters/396429
+Phuturistic Dancin' (Mission One) - 2001 - https://api.discogs.com/masters/443563
+It's Complete (Part2) - 2001 - https://api.discogs.com/masters/572619
+Tanto Tempo Remixes - 2001 - https://api.discogs.com/masters/36559
+I ♥ Serge (Electronica Gainsbourg) - 2001 - https://api.discogs.com/masters/9429
+Nova Mix 01 (Full Spectrum) - 2001 - https://api.discogs.com/masters/109812
+Second Nature - 2001 - https://api.discogs.com/masters/248062
+De'compressed - 2001 - https://api.discogs.com/masters/43276
+Remixes - 2001 - https://api.discogs.com/masters/299459
+The Magnificent Sounds Of Click & More - 2002 - https://api.discogs.com/releases/145080
+Nova Tunes 06 - 2002 - https://api.discogs.com/releases/165352
+Lisboa Gare - 2002 - https://api.discogs.com/releases/175263
+ReVE[s] - Les Rendez Vous Electroniques - 2002 - https://api.discogs.com/releases/765731
+Rundfunk.fm - Rhythmus Einer Stadt Vol. 2 (Oliver Scotoni Und Sequel) - 2002 - https://api.discogs.com/releases/1902809
+Studio Distribution Summer 2002 Sampler - 2002 - https://api.discogs.com/releases/1964948
+Stars'n'Bars Volume 2 - 2002 - https://api.discogs.com/releases/7438502
+MRA 2002 Sampler - A Collision Of Styles - 2002 - https://api.discogs.com/releases/14042978
+Never Satisfied (Remixes) - 2002 - https://api.discogs.com/masters/1307178
+2000 Black: Good Good 2 - 2002 - https://api.discogs.com/masters/135265
+LabResults - 2002 - https://api.discogs.com/masters/161913
+Soul Fiesta - 2002 - https://api.discogs.com/masters/2265265
+House Cafe Paris Vol. 1 - 2002 - https://api.discogs.com/masters/1113284
+Pearl Diver No One - 2002 - https://api.discogs.com/masters/2747087
+A Little Help For Your Friends - 2002 - https://api.discogs.com/masters/828
+Black Coffee Chapter 5: Booty Cooler - 2002 - https://api.discogs.com/masters/424811
+Reset - 2002 - https://api.discogs.com/masters/101320
+Off Limits 3 - 2002 - https://api.discogs.com/masters/776185
+French Disco '03 - 2003 - https://api.discogs.com/releases/160871
+Lisboa Gare - 2003 - https://api.discogs.com/releases/164628
+Bug Powder - A Compilation Of Mantis Recording Artists - 2003 - https://api.discogs.com/releases/293875
+The Very Best Of World Divas - 2003 - https://api.discogs.com/releases/479466
+NL2 : Nouveau Noir - 2003 - https://api.discogs.com/releases/531391
+In Bloom II: A Collection Of French Electronica - 2003 - https://api.discogs.com/releases/726496
+Alternatives Collection:02 - 2003 - https://api.discogs.com/releases/3223786
+The Disco-Tech Of... - 2003 - https://api.discogs.com/masters/73386
+Come Into My Kitchen - 2003 - https://api.discogs.com/masters/87242
+Club Sodade (Cesaria Evora By...) - 2003 - https://api.discogs.com/masters/36569
+Never Be Alone / Steamulation / Anything Is Possible (Chateau Flight Remix) - 2003 - https://api.discogs.com/masters/497914
+Technikart.02 - 2003 - https://api.discogs.com/masters/575740
+Da Minimal Funk Vol. 3 - 2003 - https://api.discogs.com/masters/53536
+Paris Lounge 3 - 2003 - https://api.discogs.com/masters/279464
+Besame Mucho & More - 2003 - https://api.discogs.com/masters/1630179
+Boombox II - 2004 - https://api.discogs.com/releases/654083
+It's In The Mix - 2004 - https://api.discogs.com/masters/196145
+MPS Jazzreworks - 2004 - https://api.discogs.com/masters/174186
+Rebel Futurism Session One - 2004 - https://api.discogs.com/masters/261912
+Versatile Mixtape - 2004 - https://api.discogs.com/masters/718270
+Re-Ragalet - 2004 - https://api.discogs.com/masters/1363415
+Tides - 2004 - https://api.discogs.com/masters/59352
+ReD (Restaurant & Design Sounds Collection 1) - 2005 - https://api.discogs.com/releases/35989666
+1.0 - 2005 - https://api.discogs.com/masters/662776
+Jazz Beats - 2005 - https://api.discogs.com/masters/1499538
+The French Club Night - 2006 - https://api.discogs.com/releases/5479784
+We Do Remix (Remix Management - Roster Showreel) (Part 1) - 2006 - https://api.discogs.com/releases/9122788
+At The Controls - 2006 - https://api.discogs.com/masters/70206
+Earth Beats Remixed - 2006 - https://api.discogs.com/masters/481729
+Before I Started To Dance - 2007 - https://api.discogs.com/masters/1308406
+RA.121 - 2008 - https://api.discogs.com/releases/1624963
+Remixed - 2008 - https://api.discogs.com/masters/752264
+Worst Than Love - 2008 - https://api.discogs.com/masters/642248
+Versatile 2008 - 2008 - https://api.discogs.com/masters/82741
+City Clubbing Paris (The French Touch Edition) - 2008 - https://api.discogs.com/masters/1487857
+Black Shark - 2009 - https://api.discogs.com/releases/1900784
+THISISNOTANEXIT Mix 2009 - 2009 - https://api.discogs.com/releases/2118348
+Disco Circus Vol. 01 - 2009 - https://api.discogs.com/masters/1131057
+The Lab 02 - Sampler 01 - 2009 - https://api.discogs.com/masters/1269935
+If Alone - 2009 - https://api.discogs.com/masters/780019
+The Lab 02 - 2009 - https://api.discogs.com/masters/247053
+Happy House - 2009 - https://api.discogs.com/masters/49475
+Airplane Electronique / Counter Clock 319 - 2010 - https://api.discogs.com/releases/2122801
+Oblique - 2010 - https://api.discogs.com/releases/2318399
+Renaissance: Platform - 2010 - https://api.discogs.com/releases/2330168
+Deep Throat - 2010 - https://api.discogs.com/releases/2488294
+East Volume Mandarin - 2010 - https://api.discogs.com/releases/17765545
+Tanto Tempo & Remixes - 2010 - https://api.discogs.com/releases/18239431
+In The Mix (The Sound Of The 11th Season) - 2010 - https://api.discogs.com/masters/310049
+When A Banana Was Just A Banana Remixed & Peeled - 2010 - https://api.discogs.com/masters/235996
+THISISNOTANEXIT - Manifesto # 1 - 2010 - https://api.discogs.com/masters/389086
+RA.312 - 2012 - https://api.discogs.com/releases/3620876
+East. Restaurant Lounge & Deep Bar - 2012 - https://api.discogs.com/releases/4510722
+Tsugi Bonus Digital : Tsugi Hors Série #5 - 2013 - https://api.discogs.com/releases/4249402
+25 Years Of DJing - Part II - 2013 - https://api.discogs.com/masters/729655
+No Life In This Ghost Town (The Château Flight & Librah Remixes)  - 2013 - https://api.discogs.com/masters/885436
+Body Language Vol. 14 - 2014 - https://api.discogs.com/masters/685345
+Days Go By - 2015 - https://api.discogs.com/releases/15397937
+The Remixes - Vol.1 - 2015 - https://api.discogs.com/masters/1053368
+Minority Mix 14 - 2016 - https://api.discogs.com/releases/21089554
+1996 - 2016 - Versatile Records 20 Years  - 2016 - https://api.discogs.com/masters/2151118
+Nubreed 10 - 2017 - https://api.discogs.com/masters/1269333
+12" Remixes  - 2019 - https://api.discogs.com/releases/13392507
+Africadelic - 2021 - https://api.discogs.com/masters/223903
+Afro Rhythms Vol.1 Singles & Remixes 1999-2001 - 2021 - https://api.discogs.com/masters/2477533
+Living This Life - 2023 - https://api.discogs.com/releases/28784584
+[bracid] : Acid House Is A State Of Mind (Clear Vinyl)(Part 1/5) - 2024 - https://api.discogs.com/releases/31537036
+[bracid] : Acid House Is A State Of Mind - 2024 - https://api.discogs.com/masters/3415609
+Funk No. 9 (Disco/Funky House) - Desconocido - https://api.discogs.com/releases/5080585
+Syncrophone 10th Anniversary 2005-2015 - Desconocido - https://api.discogs.com/releases/32534145
+Basic Laws Vol. 1 - 2001 - https://api.discogs.com/masters/76366
+Tanto Tempo Remixes - 2001 - https://api.discogs.com/masters/36559
+Exclusive Tony: Tony Allen Works Compiled By Kaoru Inoue - 2003 - https://api.discogs.com/releases/18126772
+Permanent Vacation Selected Label Works 4 - 2013 - https://api.discogs.com/masters/723809
+Livingroom.fm Broadcasted One - 2008 - https://api.discogs.com/masters/1423509
+Hivernal Fresh Mix - 2002 - https://api.discogs.com/releases/35934667
+Soul Fiesta - 2002 - https://api.discogs.com/masters/2265265
+Mascarade - 2003 - https://api.discogs.com/masters/209206
+Trax Sampler 108 - 2007 - https://api.discogs.com/releases/1138324
+Second Nature (Chateau Flight Remix) / Lies (Volga Select Double Dub) - 2000 - https://api.discogs.com/masters/49225
+The Ritual - 2001 - https://api.discogs.com/masters/192010
+Tanto Tempo Remixes - 2001 - https://api.discogs.com/masters/36559
+Lisboa Gare - 2002 - https://api.discogs.com/releases/175263
+Red Hot + Riot - 2002 - https://api.discogs.com/releases/1452923
+Soul Fiesta - 2002 - https://api.discogs.com/masters/2265265
+Fabric 02 - 2002 - https://api.discogs.com/masters/54453
+Prestige 2 - 2002 - https://api.discogs.com/masters/409901
+Reset - 2002 - https://api.discogs.com/masters/101320
+Impala Lounge II (Selected By Fra & Denis Dantas) - 2003 - https://api.discogs.com/masters/1426506
+Close To You / Tides (Remixes) - 2004 - https://api.discogs.com/releases/249456
+Versatile Mixtape - 2004 - https://api.discogs.com/masters/718270
+...Mixing - 2006 - https://api.discogs.com/masters/66101
+Innervisions - Where We At - 2006 - https://api.discogs.com/masters/1033944
+Coast 2 Coast - Âme LP02 - 2007 - https://api.discogs.com/masters/260779
+Falling Up (Original Version & Remixes) - 2007 - https://api.discogs.com/masters/53938
+Antibodies - 2007 - https://api.discogs.com/masters/233895
+Balance 013 - 2008 - https://api.discogs.com/masters/884630
+All Night Long - 2009 - https://api.discogs.com/releases/1819379
+If Alone EP - 2009 - https://api.discogs.com/masters/780019
+Bermuda 2010 Presents City Sound Berlin - 2010 - https://api.discogs.com/releases/1967011
+Is Fixed - 2010 - https://api.discogs.com/masters/1704522
+Kinetic Radio Volume One - 2011 - https://api.discogs.com/releases/10297507
+Pyrography - 2017 - https://api.discogs.com/masters/1161970
+Source Lab 3 X - 1997 - https://api.discogs.com/masters/90010
+I Love Source Lab 3 X/Y - 1997 - https://api.discogs.com/masters/74736
+Versatile - 1998 - https://api.discogs.com/releases/37697547
+Versatile 98 - 1998 - https://api.discogs.com/masters/618875
+Freezone 6 : Fourth Person Singular - 1999 - https://api.discogs.com/masters/62883
+Trax Sampler 035 - 2000 - https://api.discogs.com/releases/147689
+Un Automne 2000 - 2000 - https://api.discogs.com/releases/549954
+Love Music Volume One - 2000 - https://api.discogs.com/releases/725966
+Music First - 2000 - https://api.discogs.com/releases/1133225
+22e Rencontres Transmusicales De Rennes / 29,30 Nov. - 1,2 Dec. 2000 - 2000 - https://api.discogs.com/releases/1510929
+Blonde Music Présente - 2000 - https://api.discogs.com/releases/9911024
+Test Three - 2000 - https://api.discogs.com/masters/1813414
+Versatile Family Sampler - 2001 - https://api.discogs.com/releases/13692
+Monumix (Ballade Dans Les Monuments...) - 2001 - https://api.discogs.com/releases/142801
+I♥︎Serge (Electronica Gainsbourg M1) - 2001 - https://api.discogs.com/releases/179101
+YORN SoundSystem - 2001 - https://api.discogs.com/releases/374716
+Test The Box - 2001 - https://api.discogs.com/releases/1226498
+Massage Musical & Autres Sensualités ... - 2001 - https://api.discogs.com/releases/4230919
+Fashionable Lounge CCP Presents Kafuka Records - 2001 - https://api.discogs.com/releases/10512491
+Paris Lounge - 2001 - https://api.discogs.com/masters/1280518
+Basic Laws Vol. 1 - 2001 - https://api.discogs.com/masters/76366
+Brazilectro: Session 3: The Fall - Winter Edition - 2001 - https://api.discogs.com/masters/174179
+I ♥ Serge (Electronica Gainsbourg 1) - 2001 - https://api.discogs.com/masters/396429
+Versatile Family Album - 2001 - https://api.discogs.com/masters/135854
+Private Lounge - 2001 - https://api.discogs.com/masters/855269
+Jazz In The House 10 (Le Dixième Chapitre) - 2001 - https://api.discogs.com/masters/492810
+Magic Garden Presents D'julz Boxes - 2001 - https://api.discogs.com/masters/153417
+Cosmopolis (Festival Internacional de Artes Electrónicas 2001) - 2001 - https://api.discogs.com/masters/1639786
+Fashion TV Spring-Summer 2001 Collection - 2001 - https://api.discogs.com/masters/199572
+The Chillout Session Ibiza 2002 - 2002 - https://api.discogs.com/releases/249424
+Nights In French Satin Vol. 2 - 2002 - https://api.discogs.com/releases/639245
+Prague Loves Paris - 2002 - https://api.discogs.com/releases/2361283
+Almost Sound - 2002 - https://api.discogs.com/releases/2370645
+Source Labs - Classiques De 1995 A 1997 - 2002 - https://api.discogs.com/masters/74788
+Deck Safari (Part Two) - 2002 - https://api.discogs.com/masters/1134139
+Fabric 02 - 2002 - https://api.discogs.com/masters/54453
+Le Maquis - Prestige - 2002 - https://api.discogs.com/masters/409901
+Africa All Stars - 2002 - https://api.discogs.com/masters/1623888
+House Things Vol. 2 - 2002 - https://api.discogs.com/masters/2399614
+Red Hot + Riot - 2002 - https://api.discogs.com/masters/170901
+Findomestic Jazz Exploring Vol.4 ("Jazz Club") - 2002 - https://api.discogs.com/masters/1848234
+Surrrrround Vol. 2 - 2003 - https://api.discogs.com/releases/221386
+U60311 Compilation House Division Vol. 2 - 2003 - https://api.discogs.com/releases/255506
+Versatile Past-Present-Future - 2003 - https://api.discogs.com/releases/1078849
+The Cornerstone Player 044 - 2003 - https://api.discogs.com/releases/1649636
+Sex Lounge 2 (More Sex Lounge - Le Plaisir Se Prolonge) - 2003 - https://api.discogs.com/releases/2109357
+Alternatives Collection:02 - 2003 - https://api.discogs.com/releases/3223786
+Sonderelektronik 16 - 2003 - https://api.discogs.com/releases/35658904
+Trip Do West (An Electronic Adventure In The Wild Wild West) - 2003 - https://api.discogs.com/masters/109594
+Impala Lounge II (Selected By Fra & Denis Dantas) - 2003 - https://api.discogs.com/masters/1426506
+Trip Do West - 2003 - https://api.discogs.com/masters/2461777
+In The Mix (The Sound Of The 4th Season) - 2003 - https://api.discogs.com/masters/260313
+Da Minimal Funk Vol. 3 - 2003 - https://api.discogs.com/masters/53536
+Jazz In The House - Box Set 4 - 2004 - https://api.discogs.com/releases/322620
+Urban Sessions Vol 1: Paris - 2004 - https://api.discogs.com/releases/360262
+Brazilectro: Latin Flavoured Club Tunes Session One - Six - 2004 - https://api.discogs.com/releases/667747
+Listen To Chill 02 Music Playlist & Skateboard Footages - 2004 - https://api.discogs.com/releases/21517414
+AgeHa Vol.05 - 2004 - https://api.discogs.com/releases/22145620
+So Frenchy So Chic III ! - 2004 - https://api.discogs.com/releases/28387333
+Versatile Mixtape - 2004 - https://api.discogs.com/masters/718270
+Trax Sampler 080 - 2005 - https://api.discogs.com/releases/371822
+Agent Du Monde Presents The Paris Connection (Café Cool, Le Jazz Groove & Beats From The Boulevards) - 2005 - https://api.discogs.com/releases/575432
+On My Radio 2 - 2005 - https://api.discogs.com/releases/576692
+Ppaper Epice - 2005 - https://api.discogs.com/releases/737921
+Afterdark - Paris - 2005 - https://api.discogs.com/releases/762626
+City Lounge - 2005 - https://api.discogs.com/releases/859302
+Blacktronic 2 (The Electronic Spirit Of Blackness) - 2005 - https://api.discogs.com/releases/1014535
+French Talent 2005 - 2005 - https://api.discogs.com/releases/1174568
+Caosessions 1 - 2005 - https://api.discogs.com/releases/3567048
+Seleção Do Brasil Vol.2: Electronic Brasilian Tunes - 2005 - https://api.discogs.com/releases/6070583
+Versatile Hot Shots - 2005 - https://api.discogs.com/releases/7504518
+Acid Jazz Vol. 108 - 2005 - https://api.discogs.com/releases/24127769
+24 Hours In Paris - 2005 - https://api.discogs.com/masters/1586799
+Life Force - 2005 - https://api.discogs.com/masters/3689259
+My Playlist - 2005 - https://api.discogs.com/masters/77304
+French Essentials (Electronic Music Produced In France) - 2005 - https://api.discogs.com/masters/1664484
+Versatile Hot Shots - 2005 - https://api.discogs.com/masters/583160
+Trip Hop Anthology - 2006 - https://api.discogs.com/releases/1128748
+Subatomic Frequencies - 2006 - https://api.discogs.com/releases/1200924
+BI - 2006 - https://api.discogs.com/releases/2025160
+Brazilian Dancefloor - 2006 - https://api.discogs.com/releases/2567421
+Rainer Klang - 2006 - https://api.discogs.com/releases/5676178
+Afro Dancefloor - 2006 - https://api.discogs.com/releases/7271145
+ƧS Link - 2006 - https://api.discogs.com/releases/7906464
+25 Ans Radio Nova - 2006 - https://api.discogs.com/masters/852514
+...Mixing - 2006 - https://api.discogs.com/masters/66101
+Innervisions - Where We At - 2006 - https://api.discogs.com/masters/1033944
+Skin Is In - 2006 - https://api.discogs.com/masters/2843959
+Contre-Temps #04 - 2007 - https://api.discogs.com/releases/1007963
+Trax Sampler 108 - 2007 - https://api.discogs.com/releases/1138324
+Saint-Germain Des-Prés Café Paris - 2007 - https://api.discogs.com/releases/1368341
+French Electro Connection - 2007 - https://api.discogs.com/releases/3082548
+20 Minuten Clubbers Night - 2007 - https://api.discogs.com/releases/4374188
+RBMA Mix 2007 - 2007 - https://api.discogs.com/releases/4481390
+Body Parts - 2007 - https://api.discogs.com/releases/7135339
+Exclusive Sessions - 2007 - https://api.discogs.com/releases/8616115
+Lounge.mp3 - 2007 - https://api.discogs.com/releases/9521224
+Zen Electro - 2007 - https://api.discogs.com/masters/874077
+Coast 2 Coast - 2007 - https://api.discogs.com/masters/260779
+Beach House - 2007 - https://api.discogs.com/masters/1257723
+Champs-Elysées Café - 2007 - https://api.discogs.com/masters/671502
+Café Solo 2 - 2007 - https://api.discogs.com/masters/336199
+Body Language Vol. 4 - 2007 - https://api.discogs.com/masters/147308
+City Lounge 3 - 2007 - https://api.discogs.com/masters/279463
+Computer Incarnations For World Peace II - 2008 - https://api.discogs.com/releases/1270333
+Versatile 2008 Sampler - 2008 - https://api.discogs.com/releases/1543937
+Levitations - 2008 - https://api.discogs.com/releases/1759838
+The Space In Between: Upcoming SK Singles Volume / Sixteen - 2008 - https://api.discogs.com/releases/5460802
+Bentwave, WNYU - 2008 - https://api.discogs.com/releases/15302043
+Radio MultiCulti - 2008 - https://api.discogs.com/releases/20602807
+Livingroom.fm Broadcasted One - 2008 - https://api.discogs.com/masters/1423509
+Versatile 2008 - 2008 - https://api.discogs.com/masters/82741
+Electrolounge Vol.2 (New Music For Delicate Ears) - 2008 - https://api.discogs.com/masters/1765197
+Computer Incarnations For World Peace II - 2008 - https://api.discogs.com/masters/76145
+City Clubbing Paris (The French Touch Edition) - 2008 - https://api.discogs.com/masters/1487857
+RA.137 - 2009 - https://api.discogs.com/releases/1611704
+Ether 09 - 2009 - https://api.discogs.com/releases/1741381
+Confiote De Bits / A Remix Collection - 2009 - https://api.discogs.com/masters/291071
+G-Stone Master Series №1 Peter Kruder Private Collection - 2009 - https://api.discogs.com/masters/357689
+GUDJ Volume // 01: Nic Fanciulli - 2009 - https://api.discogs.com/masters/173043
+Five Years Of Innervisions Compiled & Mixed By Dixon × Air - 2010 - https://api.discogs.com/releases/2467044
+Field Recording 012 - 2010 - https://api.discogs.com/releases/2502645
+Is Fixed - 2010 - https://api.discogs.com/masters/1704522
+RA.290 - 2011 - https://api.discogs.com/releases/3296855
+This Is His House - 2011 - https://api.discogs.com/releases/3536129
+Smoke Machine Podcast 028 - 2011 - https://api.discogs.com/releases/3961663
+Neocodion Mixtape Vol. 1 - 2011 - https://api.discogs.com/releases/4022826
+Electric Street Orchestra - 2011 - https://api.discogs.com/releases/4047326
+Mind Warp Minimix 13 - 2011 - https://api.discogs.com/releases/5078244
+Best Of Lounge Paris - 2011 - https://api.discogs.com/releases/11043938
+Versatile 15 Ans - 2011 - https://api.discogs.com/releases/20797219
+In The Mix (The Sound Of The 12th Season) - 2011 - https://api.discogs.com/masters/393339
+Wuppdeckmischmampflow - 2011 - https://api.discogs.com/masters/756045
+Live - 2012 - https://api.discogs.com/releases/4054854
+ClashMusic DJ Mix Podcast - Matthias Zimmermann - 2012 - https://api.discogs.com/releases/4568868
+Lounge Anthology - 2012 - https://api.discogs.com/releases/9814943
+I ❤ Lounge - 2012 - https://api.discogs.com/releases/26824541
+Tapes - 2012 - https://api.discogs.com/masters/452780
+Panorama Bar 04 - 2012 - https://api.discogs.com/masters/465637
+The Lab 04 - 2012 - https://api.discogs.com/masters/1308923
+Ruling - 2013 - https://api.discogs.com/releases/6827849
+French Lounge - 2013 - https://api.discogs.com/releases/7553279
+Permanent Vacation Selected Label Works 4 - 2013 - https://api.discogs.com/masters/723809
+Vagabundos 2013 Volume II - 2013 - https://api.discogs.com/masters/1433525
+For Your Ears Only - An Exclusive Versatile Comp - 2014 - https://api.discogs.com/releases/6260256
+French Touch Vol. 01 (Electronic Music Made in France) - 2014 - https://api.discogs.com/releases/9349604
+Permanent Vacation Safari III - 2015 - https://api.discogs.com/masters/2122318
+I Love Serge - 2015 - https://api.discogs.com/masters/9429
+The Best Of Kerozen Vol. 1 - 2015 - https://api.discogs.com/masters/939921
+1996 - 2016 - Versatile Records 20 Years  - 2016 - https://api.discogs.com/masters/2151118
+Fabric 93 - 2017 - https://api.discogs.com/releases/9990495
+Nova La Nuit - 2018 - https://api.discogs.com/releases/13528882
+So Deep 1995-20XX - Lesson Six - - 2019 - https://api.discogs.com/releases/14033216
+Clubsport #16 (LYL Radio 25.01.18) - 2019 - https://api.discogs.com/releases/16248521
+Berlin #GU42 - 2019 - https://api.discogs.com/masters/1529840
+Trip Hop Vibes Vol.3 - 2021 - https://api.discogs.com/releases/19445113
+Mai 2024 - 2024 - https://api.discogs.com/releases/30546310
+Many Shades Of House Vol 2 - 2026 - https://api.discogs.com/releases/38201745
+White Trance - Desconocido - https://api.discogs.com/releases/11930505
+Sound Contact #10 - Subdominant Effect - Desconocido - https://api.discogs.com/releases/23099492
+Brazilectro: Session 3: The Fall - Winter Edition - 2001 - https://api.discogs.com/masters/174179
+Tanto Tempo Remixes - 2001 - https://api.discogs.com/masters/36559
+I ♥ Serge (Electronica Gainsbourg) - 2001 - https://api.discogs.com/masters/9429
+Fashion TV Spring-Summer 2001 Collection - 2001 - https://api.discogs.com/masters/199572
+Deck Safari (Part Two) - 2002 - https://api.discogs.com/masters/1134139
+Club Sodade: Cesaria Evora By... - 2003 - https://api.discogs.com/masters/36569
+Da Minimal Funk Vol. 3 - 2003 - https://api.discogs.com/masters/53536
+In The Mix (The Sound Of The 4th Season) - 2004 - https://api.discogs.com/masters/260313
+My Playlist - 2006 - https://api.discogs.com/releases/9948750
+... Mixing - 2006 - https://api.discogs.com/masters/66101
+At The Controls - 2006 - https://api.discogs.com/masters/70206
+Zen Electro - 2007 - https://api.discogs.com/masters/874077
+Innercity 2005 - 2008 - 2008 - https://api.discogs.com/releases/1218904
+Draw The 9 - 2011 - https://api.discogs.com/releases/26973197
+The Home Truths Mix Tape 03.13 - 2013 - https://api.discogs.com/releases/4415576
+The House I Once Lived In - 2020 - https://api.discogs.com/releases/15339162
+Ibiza Chillout - Desconocido - https://api.discogs.com/releases/1896460
+MP3 Collection - Desconocido - https://api.discogs.com/releases/7430618
