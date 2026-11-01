@@ -1,0 +1,13 @@
+{{/* Separa artista y álbum. Prioridad: front matter > alt de la portada > título */}}
+{{ $artist := .Params.artist }}
+{{ $album := .Params.album }}
+{{ if not $album }}
+  {{ $m := findRESubmatch `(?m)^!\[cover\]\(image\.jpeg \((.+?) - (.*)\)\)\s*$` .RawContent 1 }}
+  {{ if $m }}
+    {{ $artist = index (index $m 0) 1 }}{{ $album = index (index $m 0) 2 }}
+  {{ else }}
+    {{ $m = findRESubmatch `^(.+?)\s*-\s+(.+)$` .Title 1 }}
+    {{ if $m }}{{ $artist = index (index $m 0) 1 }}{{ $album = index (index $m 0) 2 }}{{ else }}{{ $album = .Title }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ return dict "artist" (trim $artist " -") "album" (trim $album " ") }}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }} · {{ site.Params.description }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .IsHome }}{{ site.Params.description }}{{ else }}{{ .Title }}{{ end }}">
+  <link rel="icon" href="{{ "favicon.png" | relURL }}">
+  {{ $css := resources.Get "css/vvmm.css" | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">{{ end }}
+  {{ template "_internal/opengraph.html" . }}
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="{{ "" | relURL }}">
+      <img src="{{ "avatar.jpg" | relURL }}" alt="">
+      <span><b>{{ site.Title }}</b><small>{{ site.Params.description }}</small></span>
+    </a>
+    <nav>
+      {{ $cur := . }}
+      {{ range site.Menus.main }}
+        {{ $u := .URL | relURL }}
+        <a href="{{ $u }}"{{ if or ($cur.IsMenuCurrent "main" .) (eq $cur.RelPermalink $u) }} class="on"{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </header>
+  <main>
+    {{ block "main" . }}{{ .Content }}{{ end }}
+  </main>
+  <footer class="foot">
+    {{ len (where site.RegularPages "Section" "posts") }} discos escuchados ·
+    {{ range site.Params.social }}<a href="{{ .url }}" rel="me noopener">{{ .name }}</a>{{ end }}
+  </footer>
+</body>
+</html>

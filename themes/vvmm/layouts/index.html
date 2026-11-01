@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $posts := where site.RegularPages "Section" "posts" }}
+{{ $pag := .Paginate $posts 24 }}
+{{ if eq $pag.PageNumber 1 }}
+  {{ with index $posts 0 }}
+    {{ $m := partial "meta.html" . }}
+    {{ $img := partial "cover.html" . }}
+    <a class="now" href="{{ .RelPermalink }}">
+      {{ with $img }}{{ $t := .Fill "520x520 Center webp q82" }}<img src="{{ $t.RelPermalink }}" alt="">{{ end }}
+      <div>
+        <small>último disco · {{ .Date | time.Format "2 de January de 2006" }}</small>
+        <h1>{{ $m.album }}</h1>
+        <h2>{{ $m.artist }}</h2>
+        <p class="tags">{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</p>
+      </div>
+    </a>
+  {{ end }}
+{{ end }}
+<section class="grid">
+  {{ range $pag.Pages }}{{ partial "card.html" . }}{{ end }}
+</section>
+{{ partial "pager.html" $pag }}
+{{ end }}

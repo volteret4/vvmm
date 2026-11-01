@@ -1,0 +1,12 @@
+{{ define "main" }}
+<header class="pagehead">
+  <h1>{{ if eq .Kind "term" }}#{{ .Title | lower }}{{ else }}{{ .Title }}{{ end }}</h1>
+  <p>{{ len .RegularPages }} discos</p>
+</header>
+{{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+{{ $pag := .Paginate .RegularPages 24 }}
+<section class="grid">
+  {{ range $pag.Pages }}{{ partial "card.html" . }}{{ end }}
+</section>
+{{ partial "pager.html" $pag }}
+{{ end }}

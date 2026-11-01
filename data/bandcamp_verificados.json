@@ -1,0 +1,898 @@
+{
+ "coleccion/Yan-Cook---XXX-LP": {
+  "album": "XXX LP",
+  "artista": "Yan Cook",
+  "id": 1801873457,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/AceMo-_-Save-the-World": {
+  "album": "Save The World",
+  "artista": "AceMo",
+  "id": 4016894973,
+  "ok": true,
+  "pistas": 14
+ },
+ "posts/Actress-_-LXXXVIII": {
+  "album": "LXXXVIII",
+  "artista": "Actress",
+  "id": 759662059,
+  "ok": true,
+  "pistas": 13
+ },
+ "posts/Alabaster-Deplume-_-A-Blade-Because-a-Blade-Is-Whole": {
+  "album": "A Blade Because A Blade Is Whole",
+  "artista": "Alabaster DePlume",
+  "id": 3953169686,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Andy-Stott-_-Faith-in-Strangers": {
+  "album": "FAITH IN STRANGERS - DEMO 01",
+  "artista": "FAITH IN STRANGERS",
+  "id": 1487541194,
+  "ok": false,
+  "pistas": 3
+ },
+ "posts/Andy-Stott-_-Luxury-Problems": {
+  "album": "Luxury Problems",
+  "artista": "The Homeless Gospel Choir",
+  "id": 696415200,
+  "ok": false,
+  "pistas": 10
+ },
+ "posts/Bardo-Pond-_-Melt-Away": {
+  "album": "Melt Away",
+  "artista": "Bardo Pond",
+  "id": 3655507539,
+  "ok": true,
+  "pistas": 2
+ },
+ "posts/Basic-Channel-_-BCD": {
+  "album": "BCD et OCT",
+  "artista": "L'Invisible",
+  "id": 2582257041,
+  "ok": false,
+  "pistas": 8
+ },
+ "posts/Beverly-Glenn-Copeland-_-The-Ones-Ahead": {
+  "album": "The Ones Ahead",
+  "artista": "Beverly Glenn-Copeland",
+  "id": 488834368,
+  "ok": true,
+  "pistas": 1
+ },
+ "posts/Bicep-_-CHROMA-010": {
+  "album": "CHROMA 010",
+  "artista": "Bicep",
+  "id": 3196984561,
+  "ok": true,
+  "pistas": 1
+ },
+ "posts/Bill-Ryder-Jones-_-Iechyd-Da": {
+  "album": "Iechyd Da",
+  "artista": "Bill Ryder-Jones",
+  "id": 3736515723,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/Blanck-Mass-_-Dumb-Flesh": {
+  "album": "Dumb Flesh",
+  "artista": "Blanck Mass",
+  "id": 2149305922,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Bolis-Pupul-_-Letter-To-Yu": {
+  "album": "Letter To Yu",
+  "artista": "Bolis Pupul",
+  "id": 3646366602,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Brutus-_-Burst": {
+  "album": "Burst",
+  "artista": "BRUTUS",
+  "id": 2171184904,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Carbon-Based-Lifeforms-_-Derelicts": {
+  "album": "Derelicts",
+  "artista": "Carbon Based Lifeforms",
+  "id": 837877769,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/Carbon-Based-Lifeforms-_-Interloper": {
+  "album": "Interloper",
+  "artista": "Carbon Based Lifeforms",
+  "id": 2039997761,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Chromeo-_-Adult-Contemporary": {
+  "album": "Adult Contemporary",
+  "artista": "Chromeo",
+  "id": 2024084452,
+  "ok": true,
+  "pistas": 15
+ },
+ "posts/Cigarettes-After-Sex-_-Cigarettes-After-Sex": {
+  "album": "Cigarettes After Sex",
+  "artista": "Cigarettes After Sex",
+  "id": 3513368987,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Cigarettes-After-Sex-_-Cry": {
+  "album": "Cry Cry Cry",
+  "artista": "Wolf Parade",
+  "id": 4045813607,
+  "ok": false,
+  "pistas": 11
+ },
+ "posts/Cigarettes-After-Sex-_-I": {
+  "album": "I.",
+  "artista": "Cigarettes After Sex",
+  "id": 936267329,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/Cristalli-Liquidi-_-Cristalli-Liquidi": {
+  "album": "Cristalli Liquidi LP",
+  "artista": "Cristalli Liquidi",
+  "id": 1384617598,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Daft-Punk-_-Random-Access-Memories": {
+  "album": "Random Access Memories",
+  "artista": "Franz Kirmann",
+  "id": 2541844925,
+  "ok": false,
+  "pistas": 11
+ },
+ "posts/Death-and-Vanilla-_-Flicker": {
+  "album": "Flicker",
+  "artista": "Death & Vanilla",
+  "id": 842356790,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/Ela-Minus-_-DiA": {
+  "album": "DÍA",
+  "artista": "Ela Minus",
+  "id": 1056602543,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Elsiane-_-Hybrid": {
+  "album": "Hybrid",
+  "artista": "E L S I A N E",
+  "id": 2364614574,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Evian-Christ-_-Revanchist": {
+  "album": "Revanchist",
+  "artista": "Evian Christ",
+  "id": 3341441138,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Explosions-in-the-Sky-_-Those-Who-Tell-the-Truth-Shall-Die-Those-Who-Tell-the-Truth-Shall-Live-Forever": {
+  "album": "Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever – Anniversary Edition",
+  "artista": "Explosions in the Sky",
+  "id": 2275670266,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/FACS-_-Still-Life-in-Decay": {
+  "album": "Still Life In Decay",
+  "artista": "FACS",
+  "id": 428051111,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/Feel-Fly-_-Syrius": {
+  "album": "Syrius",
+  "artista": "Feel Fly",
+  "id": 1622417219,
+  "ok": false,
+  "pistas": 0
+ },
+ "posts/Fennesz-_-Endless-Summer": {
+  "album": "Endless Summer",
+  "artista": "Fennesz",
+  "id": 3745560239,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Fila-Brazillia-_-Maim-That-Tune": {
+  "album": "Maim That Tune (30th anniversary re-master)",
+  "artista": "Fila Brazillia",
+  "id": 2982174459,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/Floating-Points-_-Birth4000": {
+  "album": "Birth4000",
+  "artista": "Floating Points",
+  "id": 2834808434,
+  "ok": true,
+  "pistas": 1
+ },
+ "posts/Floating-Points-_-Cascade": {
+  "album": "Cascade",
+  "artista": "Floating Points",
+  "id": 1204527868,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/Floating-World-Pictures-_-The-Twenty-three-Views": {
+  "album": "The Twenty-three Views",
+  "artista": "Floating World Pictures",
+  "id": 3383771512,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Gaussian-Curve-_-The-Distance": {
+  "album": "The Distance",
+  "artista": "The Begging Sea",
+  "id": 864375685,
+  "ok": false,
+  "pistas": 11
+ },
+ "posts/Genesis-Owusu-_-STRUGGLER": {
+  "album": "Struggler",
+  "artista": "Genesis Owusu",
+  "id": 1640553202,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Gigi-Masin-_-Dolphin": {
+  "album": "Dolphin",
+  "artista": "Greg Foat & Gigi Masin",
+  "id": 3647419482,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Hammock-_-Nevertheless": {
+  "album": "Nevertheless",
+  "artista": "Hammock",
+  "id": 2620896449,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Have-a-Nice-Life-_-Deathconsciousness": {
+  "album": "Deathconsciousness",
+  "artista": "HAVE A NICE LIFE",
+  "id": 2171081182,
+  "ok": true,
+  "pistas": 13
+ },
+ "posts/I-Hate-Models-_-Warehouse-Memories": {
+  "album": "Warehouse Memories",
+  "artista": "I Hate Models",
+  "id": 3212449325,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/ISAN-_-Beautronics": {
+  "album": "Beautronics",
+  "artista": "Isan",
+  "id": 3489814883,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/Ichisan-_-Metamundus": {
+  "album": "Ichisan - Metamundus EP",
+  "artista": "Ichisan",
+  "id": 828403173,
+  "ok": true,
+  "pistas": 3
+ },
+ "posts/International-Pony-_-We-Love-Music": {
+  "album": "We Love Music EP",
+  "artista": "mundane music",
+  "id": 1039391448,
+  "ok": false,
+  "pistas": 3
+ },
+ "posts/JKriv-_-Within": {
+  "album": "Within EP",
+  "artista": "JKriv",
+  "id": 3127961389,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/Jamie-xx-_-In-Waves": {
+  "album": "In Waves",
+  "artista": "Jamie xx",
+  "id": 150871303,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/Jesu-_-Silver": {
+  "album": "Silver",
+  "artista": "jesu",
+  "id": 2770934093,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/Joe-Goddard-_-Harmonics": {
+  "album": "Harmonics in The Silence",
+  "artista": "Andy Pickford",
+  "id": 1355704993,
+  "ok": false,
+  "pistas": 17
+ },
+ "posts/John-Cale-_-Mercy": {
+  "album": "Mercy Bell",
+  "artista": "Mercy Bell",
+  "id": 724387118,
+  "ok": false,
+  "pistas": 10
+ },
+ "posts/Jonny-Nash-_-Point-of-Entry": {
+  "album": "Point Of Entry",
+  "artista": "Jonny Nash",
+  "id": 3848278059,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Keinemusik-_-You-Are-Safe": {
+  "album": "You Are Safe",
+  "artista": "Rampa, Adam Port, &ME, Keinemusik",
+  "id": 1296268808,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Khruangbin-_-A-LA-SALA": {
+  "album": "A LA SALA",
+  "artista": "Khruangbin",
+  "id": 1836174753,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/Kings-of-Convenience-_-Quiet-Is-the-New-Loud": {
+  "album": "Quiet is the new loud",
+  "artista": "Motionfield",
+  "id": 962655620,
+  "ok": false,
+  "pistas": 4
+ },
+ "posts/Kosmischer-Laufer-_-The-Secret-Cosmic-Music-of-the-East-German-Olympic-Program-1972-83-Volume-Five": {
+  "album": "Volume Five",
+  "artista": "Kosmischer Läufer",
+  "id": 1266287649,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Lalo-Schifrin-_-Black-Widow": {
+  "album": "Black Widow Nebula",
+  "artista": "Caelestra",
+  "id": 4263677853,
+  "ok": false,
+  "pistas": 6
+ },
+ "posts/Loket-_-All-Ages": {
+  "album": "All Ages EP",
+  "artista": "loket",
+  "id": 2271079340,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/Loraine-James-_-Reflection": {
+  "album": "Reflection",
+  "artista": "Loraine James",
+  "id": 390354471,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Los-Hermanos-_-On-Another-Level": {
+  "album": "On Another Level",
+  "artista": "Los Hermanos Detroit",
+  "id": 1267346546,
+  "ok": true,
+  "pistas": 16
+ },
+ "posts/M-geddes-gengras-_-hawaiki-tapes": {
+  "album": "Hawaiki Tapes",
+  "artista": "M. Geddes Gengras",
+  "id": 2379843704,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/M83-_-DSVII": {
+  "album": "DSVII",
+  "artista": "M83",
+  "id": 1664388080,
+  "ok": true,
+  "pistas": 15
+ },
+ "posts/M83-_-Dead-Cities-Red-Seas-": {
+  "album": "Dead Cities, Red Seas & Lost Ghosts",
+  "artista": "M83",
+  "id": 3672094821,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/MPU101-_-MPU104": {
+  "album": "ITX031 - MPU104",
+  "artista": "MPU101",
+  "id": 2520624459,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/Mannequin-Pussy-_-I-Got-Heaven": {
+  "album": "I Got Heaven",
+  "artista": "MANNEQUIN PUSSY",
+  "id": 1798724224,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Matthew-Halsall-_-Changing-Earth": {
+  "album": "Changing Earth",
+  "artista": "Matthew Halsall",
+  "id": 523030661,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/Mildlife-_-Chorus": {
+  "album": "Chorus",
+  "artista": "Mildlife",
+  "id": 1449279904,
+  "ok": true,
+  "pistas": 7
+ },
+ "posts/Mogwai-_-The-Bad-Fire": {
+  "album": "The Bad Fire",
+  "artista": "Mogwai",
+  "id": 3160421753,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Mount-Eerie-_-Night-Palace": {
+  "album": "Night Palace",
+  "artista": "Mount Eerie",
+  "id": 4140456101,
+  "ok": true,
+  "pistas": 26
+ },
+ "posts/Nala-Sinephro-_-Endlessness": {
+  "album": "Endlessness",
+  "artista": "Nala Sinephro",
+  "id": 3750427797,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Nation-of-Language-_-Strange-Disciple": {
+  "album": "Strange Disciple",
+  "artista": "Nation of Language",
+  "id": 269744058,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Nia-Archives-_-Forbidden-Feelingz": {
+  "album": "Forbidden Feelingz",
+  "artista": "Nia Archives",
+  "id": 2754458780,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/Nils-Frahm-_-Day": {
+  "album": "Day",
+  "artista": "Nils Frahm",
+  "id": 1899601025,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/Nuron-_-DAT-Tapes-1993-1994": {
+  "album": "DAT Tapes 1993-1994",
+  "artista": "Nuron",
+  "id": 1085145671,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Off-With-Their-Heads-_-Be-Good": {
+  "album": "BE GOOD EP",
+  "artista": "BANZAi",
+  "id": 2816411658,
+  "ok": false,
+  "pistas": 2
+ },
+ "posts/Oliver-Coates-_-Aftersun": {
+  "album": "Aftersun (Original Motion Picture Soundtrack)",
+  "artista": "Oliver Coates",
+  "id": 1422252547,
+  "ok": true,
+  "pistas": 14
+ },
+ "posts/PJ-Harvey-_-I-Inside-the-Old-Year-Dying": {
+  "album": "I Inside the Old Year Dying",
+  "artista": "PJ Harvey",
+  "id": 1255314163,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/Patrick-Holland-_-Infra": {
+  "album": "Infra",
+  "artista": "Patrick Holland",
+  "id": 3152343611,
+  "ok": true,
+  "pistas": 16
+ },
+ "posts/Perfume-Genius-_-Glory": {
+  "album": "Glory (Extended)",
+  "artista": "Perfume Genius",
+  "id": 572788343,
+  "ok": true,
+  "pistas": 5
+ },
+ "posts/Phase-Fatale-_-Burning-the-Rural-District": {
+  "album": "Burning The Rural District",
+  "artista": "Phase Fatale",
+  "id": 2084351844,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Prins-Thomas-_-9": {
+  "album": "9 Dead Alive",
+  "artista": "Rodrigo y Gabriela",
+  "id": 2630288542,
+  "ok": false,
+  "pistas": 9
+ },
+ "posts/Prins-Thomas-_-Ambitions": {
+  "album": "Ambitions",
+  "artista": "Prins Thomas",
+  "id": 322768310,
+  "ok": true,
+  "pistas": 7
+ },
+ "posts/Protomartyr-_-The-Agent-Intellect": {
+  "album": "The Agent Intellect",
+  "artista": "Protomartyr",
+  "id": 1763124191,
+  "ok": true,
+  "pistas": 3
+ },
+ "posts/Rival-Consoles-_-Landscape-from-Memory": {
+  "album": "Landscape from Memory",
+  "artista": "Rival Consoles",
+  "id": 3329175291,
+  "ok": true,
+  "pistas": 14
+ },
+ "posts/Romy-_-Mid-Air": {
+  "album": "Mid Air",
+  "artista": "Romy",
+  "id": 377154366,
+  "ok": true,
+  "pistas": 3
+ },
+ "posts/Rupa-_-Disco-Jazz": {
+  "album": "Disco Jazz",
+  "artista": "Rupa",
+  "id": 4095204016,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/Sigur-Ros-_-ATTA": {
+  "album": "ÁTTA",
+  "artista": "Sigur Rós",
+  "id": 1617634061,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Slift-_-Ilion": {
+  "album": "ILION",
+  "artista": "SLIFT",
+  "id": 1225258679,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Slowdive-_-everything-is-alive": {
+  "album": "everything is alive",
+  "artista": "Slowdive",
+  "id": 518621864,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Sofia-Kourtesis-_-Madres": {
+  "album": "Madres",
+  "artista": "Sofia Kourtesis",
+  "id": 2792202025,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/Soshi-Takeda-_-Secret-Communication": {
+  "album": "Secret Communication",
+  "artista": "Soshi Takeda",
+  "id": 1651287326,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/Spiritualized-_-Ladies-and-gentlemen-we-are-floating-in-space": {
+  "album": "Ladies and gentlemen we are floating in space",
+  "artista": "Spiritualized",
+  "id": 3151187748,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/Stereolab-_-Instant-Holograms-on-Metal-Film": {
+  "album": "Instant Holograms On Metal Film",
+  "artista": "Stereolab",
+  "id": 3824324964,
+  "ok": true,
+  "pistas": 13
+ },
+ "posts/Svaneborg-Kardyb-_-Over-Tage": {
+  "album": "Over Tage",
+  "artista": "Svaneborg Kardyb",
+  "id": 2232335185,
+  "ok": true,
+  "pistas": 14
+ },
+ "posts/Talking-Heads-_-Remain-in-Light": {
+  "album": "Remain In Light",
+  "artista": "High aura'd",
+  "id": 1664809616,
+  "ok": false,
+  "pistas": 1
+ },
+ "posts/Tanukichan-_-Sundays": {
+  "album": "Sundays",
+  "artista": "Tanukichan",
+  "id": 1273246413,
+  "ok": true,
+  "pistas": 10
+ },
+ "posts/The-Beach-Boys-_-Pet-Sounds": {
+  "album": "Pet Sounds Vol. 2",
+  "artista": "PETBRICK",
+  "id": 1691517664,
+  "ok": false,
+  "pistas": 6
+ },
+ "posts/The-Body-_-The-Crying-Out-of-Things": {
+  "album": "The Crying Out of Things",
+  "artista": "the body",
+  "id": 4150704667,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/The-Brothers-Johnson-_-Winners": {
+  "album": "WINNERS CIRCLE MIXTAPE VOL. 1",
+  "artista": "DISTINGUISH",
+  "id": 2157248947,
+  "ok": false,
+  "pistas": 16
+ },
+ "posts/The-Doors-_-The-Doors": {
+  "album": "The Doors of Perception",
+  "artista": "Madcat",
+  "id": 3199923585,
+  "ok": false,
+  "pistas": 4
+ },
+ "posts/The-Flashbulb-_-Papillon": {
+  "album": "Papillon",
+  "artista": "The Flashbulb",
+  "id": 463419962,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/The-Spinners-_-Spinners": {
+  "album": "The Spinners",
+  "artista": "The Spinners",
+  "id": 4097356385,
+  "ok": true,
+  "pistas": 13
+ },
+ "posts/Till-von-Sein-_-Ocean": {
+  "album": "Till von Sein - Ocean",
+  "artista": "Till von Sein",
+  "id": 1617271011,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Tomorrow-Comes-The-Harvest-_-Evolution": {
+  "album": "Evolution",
+  "artista": "INSECTOR",
+  "id": 3669464154,
+  "ok": false,
+  "pistas": 9
+ },
+ "posts/Traumprinz-_-All-the-Things": {
+  "album": "all the things",
+  "artista": "traumprinz",
+  "id": 1318111338,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/Traumprinz-_-Mothercave": {
+  "album": "mothercave",
+  "artista": "traumprinz",
+  "id": 1996852910,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/Underworld-_-Strawberry-Hotel": {
+  "album": "Strawberry Hotel",
+  "artista": "Underworld",
+  "id": 4061440112,
+  "ok": true,
+  "pistas": 15
+ },
+ "posts/Vril-_-Animist": {
+  "album": "Animist",
+  "artista": ".Vril",
+  "id": 3861313227,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/Yan-Cook-_-Equinox-EP": {
+  "album": "Equinox EP",
+  "artista": "Black Capricorn",
+  "id": 2975893853,
+  "ok": false,
+  "pistas": 4
+ },
+ "posts/Yo-La-Tengo-_-The-Sounds-of-the-Sounds-of-Science": {
+  "album": "The Sounds of the Sounds of Science",
+  "artista": "Yo La Tengo",
+  "id": 2672027977,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/Young-Fathers-_-Cocoa-Sugar": {
+  "album": "Cocoa Sugar",
+  "artista": "Young Fathers",
+  "id": 2302440866,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/blawan_-soft-waahls": {
+  "album": "Soft Waahls EP",
+  "artista": "Blawan",
+  "id": 165757366,
+  "ok": true,
+  "pistas": 6
+ },
+ "posts/ceephax-acid-crew_-slam-zone": {
+  "album": "Slam Zone",
+  "artista": "Ceephax Acid Crew",
+  "id": 290948773,
+  "ok": true,
+  "pistas": 15
+ },
+ "posts/claire-rousay-_-The-Bloody-Lady": {
+  "album": "The Bloody Lady",
+  "artista": "claire rousay",
+  "id": 2190986307,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/david-bowie_-the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars": {
+  "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+  "artista": "Tighe Bodalla",
+  "id": 26716766,
+  "ok": false,
+  "pistas": 11
+ },
+ "posts/fontaines-d-c_-romance": {
+  "album": "Romance",
+  "artista": "Fontaines D.C.",
+  "id": 3061662693,
+  "ok": true,
+  "pistas": 4
+ },
+ "posts/fontaines-d-c_-skinty-fia": {
+  "album": "Skinty Fia",
+  "artista": "Fontaines D.C.",
+  "id": 57726827,
+  "ok": true,
+  "pistas": 18
+ },
+ "posts/gaussian-curve_-clouds": {
+  "album": "Clouds Sample Pack 001",
+  "artista": "Clouds",
+  "id": 2700158197,
+  "ok": false,
+  "pistas": 6
+ },
+ "posts/holy-fuck_-event-beat": {
+  "album": "Event Beat",
+  "artista": "Holy Fuck",
+  "id": 2521820026,
+  "ok": true,
+  "pistas": 11
+ },
+ "posts/jesu_-conqueror": {
+  "album": "Conqueror",
+  "artista": "jesu",
+  "id": 2332978303,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/john-maus_-we-must-become-the-pitiless-censors-of-ourselves": {
+  "album": "Addendum",
+  "artista": "John Maus",
+  "id": 1075375072,
+  "ok": false,
+  "pistas": 12
+ },
+ "posts/jose-james-_-1978": {
+  "album": "1978",
+  "artista": "José James",
+  "id": 3293497198,
+  "ok": true,
+  "pistas": 9
+ },
+ "posts/jungle_-volcano": {
+  "album": "Volcano",
+  "artista": "Jungle",
+  "id": 3448924291,
+  "ok": true,
+  "pistas": 14
+ },
+ "posts/love-and-kisses_-love-and-kisses": {
+  "album": "love and kisses",
+  "artista": "little star",
+  "id": 4248266605,
+  "ok": false,
+  "pistas": 15
+ },
+ "posts/mum_-history-of-silence": {
+  "album": "History of Silence",
+  "artista": "múm",
+  "id": 3686878551,
+  "ok": true,
+  "pistas": 8
+ },
+ "posts/ross-from-friends_-tread": {
+  "album": "Tread",
+  "artista": "Ross From Friends",
+  "id": 1002687036,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/saint-etienne_-international": {
+  "album": "Saint Etienne - International",
+  "artista": "Heavenly Recordings",
+  "id": 1572597338,
+  "ok": true,
+  "pistas": 12
+ },
+ "posts/sandwell-district_-end-beginnings": {
+  "album": "End Beginnings",
+  "artista": "Lesego Rampolokeng with the Kalahari Surfers",
+  "id": 1304256768,
+  "ok": false,
+  "pistas": 13
+ },
+ "posts/sarah-davachi_-the-head-as-form-d-in-the-crier-s-choir": {
+  "album": "The Head As Form’d In The Crier’s Choir",
+  "artista": "Sarah Davachi",
+  "id": 3354886901,
+  "ok": true,
+  "pistas": 7
+ },
+ "posts/sonic-youth_-goo": {
+  "album": "Goo Lagoon EP",
+  "artista": "Goo Lagoon",
+  "id": 2607413904,
+  "ok": false,
+  "pistas": 5
+ },
+ "posts/surgeon_-shell-wave": {
+  "album": "Crash Recoil",
+  "artista": "Surgeon",
+  "id": 1551153499,
+  "ok": false,
+  "pistas": 8
+ }
+}

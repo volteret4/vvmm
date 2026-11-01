@@ -1,0 +1,12 @@
+{{/* Devuelve la imagen de portada del bundle, ignorando el placeholder del archetype */}}
+{{ $placeholder := "f45d252775ee8f1fa376587ef7ebed4e" }}
+{{ $img := false }}
+{{ with .Resources.GetMatch "image.jpeg" }}
+  {{ if and (ne (md5 .Content) $placeholder) (not (strings.HasPrefix .Content "<")) }}{{ $img = . }}{{ end }}
+{{ end }}
+{{ if not $img }}
+  {{ range .Resources.ByType "image" }}
+    {{ if and (not $img) (ne .Name "image.jpeg") (not (strings.HasPrefix .Content "<")) }}{{ $img = . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ return $img }}

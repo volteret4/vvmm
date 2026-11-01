@@ -1,0 +1,17 @@
+{{ $m := partial "meta.html" . }}
+{{ $img := partial "cover.html" . }}
+<a class="card" href="{{ .RelPermalink }}">
+  <div class="sleeve">
+    {{ with $img }}
+      {{ $t := .Fill "360x360 Center webp q78" }}
+      <img src="{{ $t.RelPermalink }}" width="360" height="360" loading="lazy" alt="{{ $m.artist }} - {{ $m.album }}">
+    {{ else }}
+      <div class="nocover"><span>{{ $m.album }}</span></div>
+    {{ end }}
+  </div>
+  <div class="cap">
+    <b>{{ $m.album }}</b>
+    <span>{{ $m.artist }}</span>
+    <time>{{ .Date | time.Format "2 Jan 2006" }}</time>
+  </div>
+</a>

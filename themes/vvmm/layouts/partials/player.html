@@ -1,0 +1,18 @@
+{{/* Reproductor del disco según data/reproductor.json: Bandcamp > playlist de YouTube > vídeo del álbum */}}
+{{ $r := false }}
+{{ with .File }}{{ $r = index (site.Data.reproductor | default dict) (strings.TrimSuffix "/" (replace .Dir "\\" "/")) }}{{ end }}
+{{ with $r }}
+  {{ if eq .tipo "bandcamp" }}
+    <section class="player bc">
+      <iframe src="https://bandcamp.com/EmbeddedPlayer/album={{ int .id }}/size=large/bgcol=1c1b24/linkcol=caa5f6/artwork=none/tracklist=true/transparent=true/" loading="lazy" seamless title="Bandcamp"></iframe>
+    </section>
+  {{ else if eq .tipo "yt_playlist" }}
+    <section class="player yt">
+      <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={{ .id }}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" title="Playlist de YouTube"></iframe>
+    </section>
+  {{ else if eq .tipo "yt_video" }}
+    <section class="player yt">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ .id }}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" title="Álbum completo en YouTube"></iframe>
+    </section>
+  {{ end }}
+{{ end }}

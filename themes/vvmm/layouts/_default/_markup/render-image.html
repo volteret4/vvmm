@@ -1,0 +1,10 @@
+{{- $d := .Destination -}}
+{{- $labels := dict "spotify" "Spotify" "bandcamp" "Bandcamp" "youtube" "YouTube" "lastfm" "Last.fm" "discogs" "Discogs" "musicbrainz" "MusicBrainz" "wikipedia" "Wikipedia" "rateyourmusic" "RYM" "allmusic" "AllMusic" "soundcloud" "SoundCloud" "whosampled" "WhoSampled" "genius" "Genius" "boomkat" "Boomkat" "resident_advisor" "RA" -}}
+{{- if hasPrefix $d "image.jpeg" -}}
+{{- /* la portada ya se muestra en la cabecera */ -}}
+{{- else if in $d "links/svg/" -}}
+{{- $n := path.BaseName $d -}}
+<span class="svc svc-{{ $n }}"><img src="{{ printf "posts/links/svg/%s" (path.Base $d) | relURL }}" alt="" width="20" height="20">{{ index $labels $n | default $n }}</span>
+{{- else -}}
+<img src="{{ $d | safeURL }}" alt="{{ .Text }}" loading="lazy">
+{{- end -}}
