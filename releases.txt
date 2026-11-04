@@ -1,99 +1,337 @@
 Listado de releases del artista:
-Mobility - 1990 - https://api.discogs.com/masters/2497
-Go - 1991 - https://api.discogs.com/masters/79590
-Moby Compilation - 1992 - https://api.discogs.com/releases/3352616
-Drop A Beat - 1992 - https://api.discogs.com/masters/2532
-Moby - 1992 - https://api.discogs.com/masters/2829
-Next Is The E - 1992 - https://api.discogs.com/masters/22494
-The Story So Far - 1993 - https://api.discogs.com/masters/2703710
-Mixmag Live! Vol. 7 - 1993 - https://api.discogs.com/masters/66912
-Ambient - 1993 - https://api.discogs.com/masters/2667
-Early Underground - 1993 - https://api.discogs.com/masters/2772
-Move - 1993 - https://api.discogs.com/masters/22029
-All That I Need Is To Be Loved - 1993 - https://api.discogs.com/masters/22156
-Hymn - 1994 - https://api.discogs.com/masters/2864
-Feeling So Real - 1994 - https://api.discogs.com/masters/22135
-Everything Is Wrong Interview - 1995 - https://api.discogs.com/releases/559751
-Global Trance Wave - 1995 - https://api.discogs.com/releases/1537101
-Everything Is Wrong (Mixed + Remixed + Remixed + Mixed) - 1995 - https://api.discogs.com/releases/5042122
-3 Track Compile - 1995 - https://api.discogs.com/releases/10824422
-4 TRACKS - 1995 - https://api.discogs.com/releases/15074763
-Bring Back My Happiness! - 1995 - https://api.discogs.com/masters/2919
-Everything Is Wrong - 1995 - https://api.discogs.com/masters/2972
-Everything Is Wrong (DJ Mix Album) - 1995 - https://api.discogs.com/masters/3023
-Disk - 1995 - https://api.discogs.com/masters/1069848
-Into The Blue - 1995 - https://api.discogs.com/masters/22096
-Everytime You Touch Me - 1995 - https://api.discogs.com/masters/22340
-What Love - 1995 - https://api.discogs.com/masters/22528
-Animal Rights: Live At The Splash Club - 1996 - https://api.discogs.com/releases/31619
-Animal Rights Interview - 1996 - https://api.discogs.com/releases/603299
-Animal Rights EPK - 1996 - https://api.discogs.com/releases/18377173
-Demo Tape #2 - 1996 - https://api.discogs.com/releases/18653632
-Assos Rave - 1996 - https://api.discogs.com/releases/29996641
-Come On Baby - 1996 - https://api.discogs.com/masters/22081
-Mixmag Live! Volume 2 - 1996 - https://api.discogs.com/masters/14114
-Animal Rights - 1996 - https://api.discogs.com/masters/22315
-That's When I Reach For My Revolver - 1996 - https://api.discogs.com/masters/22600
-Rare: The Collected B-Sides (1989–1993) - 1996 - https://api.discogs.com/masters/22696
-I Like To Score / Everything Is Wrong / Animal Rights - 1997 - https://api.discogs.com/releases/407530
-The End Of Everything - 1997 - https://api.discogs.com/masters/1939
-James Bond Theme (Moby's Re-Version) - 1997 - https://api.discogs.com/masters/22292
-I Like To Score - 1997 - https://api.discogs.com/masters/22673
-Get Mobylized Remixes: Vol. V - 1998 - https://api.discogs.com/releases/3354785
-Get Mobylized Remixes: Vol. I - 1998 - https://api.discogs.com/releases/4297707
-Get Mobylized Remixes: Vol. II - 1998 - https://api.discogs.com/releases/4297753
-Get Mobylized Remixes: Vol. III - 1998 - https://api.discogs.com/releases/4297792
-Get Mobylized Remixes: Vol. IV - 1998 - https://api.discogs.com/releases/4297849
-Get Mobylized: Remixes Vol. VI - 1998 - https://api.discogs.com/releases/4732570
-Get Mobylized: Remixes Vol. I - 1998 - https://api.discogs.com/releases/11927870
-Moby Demos - 1998 - https://api.discogs.com/releases/21583156
-Honey - 1998 - https://api.discogs.com/masters/54175
-Excerpts From Play - 1999 - https://api.discogs.com/releases/126593
-Play ► VCD - 1999 - https://api.discogs.com/releases/150962
-Sampler - 1999 - https://api.discogs.com/releases/4266325
-Play ► - 1999 - https://api.discogs.com/releases/5252971
-Play EPK - 1999 - https://api.discogs.com/releases/14404047
-Play - 1999 - https://api.discogs.com/masters/82202
-Why Does My Heart Feel So Bad? - 1999 - https://api.discogs.com/masters/41570
-Selections From Play - 1999 - https://api.discogs.com/masters/796672
-Play - 1999 - https://api.discogs.com/masters/748871
-Sonic Net All Access - 1999 - https://api.discogs.com/masters/3381283
-Run On - 1999 - https://api.discogs.com/masters/22776
-Bodyrock - 1999 - https://api.discogs.com/masters/24457
-Honey / Run On - 1999 - https://api.discogs.com/masters/24490
-Exclusive To Readers Of The Observer - 2000 - https://api.discogs.com/releases/115927
-Calvin Klein Promo - 2000 - https://api.discogs.com/releases/143965
-Powered By Yahoo! Music - 2000 - https://api.discogs.com/releases/256252
-Re-Play - 2000 - https://api.discogs.com/releases/355164
-Play Interview - 2000 - https://api.discogs.com/releases/559779
-Interview - 2000 - https://api.discogs.com/releases/1160774
-Porcelain Promo - 2000 - https://api.discogs.com/releases/2209468
-In The Zone - 2000 - https://api.discogs.com/releases/2639098
-Play / I Like To Score - 2000 - https://api.discogs.com/releases/4530185
-Unreleased 6/14/00 - 2000 - https://api.discogs.com/releases/12178175
-Untitled (Promo Video Reel 2000) - 2000 - https://api.discogs.com/releases/15662133
-Play - Moby 2000 Compile - 2000 - https://api.discogs.com/releases/15837118
-Plays - 2000 - https://api.discogs.com/releases/24191021
-In Concert 825 - 2000 - https://api.discogs.com/releases/24495149
-B-sides And Unreleased Material - 2000 - https://api.discogs.com/releases/25655884
-Find My Baby / Honey - 2000 - https://api.discogs.com/masters/82228
-Natural Blues - 2000 - https://api.discogs.com/masters/82370
-Play: The B Sides - 2000 - https://api.discogs.com/masters/82421
-Porcelain - 2000 - https://api.discogs.com/masters/41720
-Why Can't It Stop? - 2000 - https://api.discogs.com/masters/2035
-Play: The Outtakes - 2000 - https://api.discogs.com/masters/2132296
-Play - 2000 - https://api.discogs.com/masters/453774
-Find My Baby - 2000 - https://api.discogs.com/masters/912767
-Why Does My Heart Feel So Bad? / Honey - 2000 - https://api.discogs.com/masters/200808
-Mobysongs 1993-1998 - 2000 - https://api.discogs.com/masters/324284
-South Side - 2000 - https://api.discogs.com/masters/29517
-Slackman Sound / Southside - 2001 - https://api.discogs.com/releases/22916840
-Play (The DVD) - 2001 - https://api.discogs.com/masters/93534
-We Are All Made Of Stars - 2001 - https://api.discogs.com/masters/39070
-In This World / In My Heart - 2002 - https://api.discogs.com/releases/123943
-Love At First Sight / Extreme Ways - 2002 - https://api.discogs.com/releases/589866
-18 Interview - 2002 - https://api.discogs.com/releases/603322
-Moby's EPK 2002 - 2002 - https://api.discogs.com/releases/14404106
-In This World - 2002 - https://api.discogs.com/releases/18269515
-Music For: The Truth About Charlie - 2002 - https://api.discogs.com/releases/21585613
-In This World / We're Going To Be Friends - 2002 - https://api.discogs.com/releases/38590017
+Metalhammer (Clubmix) - 1990 - https://api.discogs.com/masters/12910
+Second Voice - 1991 - https://api.discogs.com/releases/12025915
+Anguish - 1991 - https://api.discogs.com/masters/12920
+Aus Der Traum! (Deutzschh-Version) - 1991 - https://api.discogs.com/masters/12933
+Techno Man - 1991 - https://api.discogs.com/masters/12951
+Saddam Hussein - 1991 - https://api.discogs.com/masters/1597675
+Turn The Nation / Die Mitte (Dresden Mix) - 1992 - https://api.discogs.com/releases/687053
+Monotonie EP - 1992 - https://api.discogs.com/masters/12959
+Flop! - 1992 - https://api.discogs.com/masters/4769
+Spot - 1993 - https://api.discogs.com/masters/12895
+Life Isn't Easy In Germany - 1993 - https://api.discogs.com/masters/12970
+I.S.T. - 1994 - https://api.discogs.com/masters/12882
+Driving With My Darling - 1994 - https://api.discogs.com/masters/1005145
+Deutschmaschine - 1995 - https://api.discogs.com/masters/209596
+Sweety Sweety - 1997 - https://api.discogs.com/releases/253551
+Nordhausen - 1997 - https://api.discogs.com/masters/4781
+Sometimes - 1997 - https://api.discogs.com/masters/358659
+Sitata Tirulala - 1997 - https://api.discogs.com/masters/358664
+Best Of - 1997 - https://api.discogs.com/masters/13086
+Get You Closer - 1998 - https://api.discogs.com/releases/154864
+9.9.99 9 Uhr - 1998 - https://api.discogs.com/masters/13077
+Wasted - 2000 - https://api.discogs.com/releases/226828
+Virgin Superstar - 2000 - https://api.discogs.com/masters/342613
+Amerika Brennt! - 2001 - https://api.discogs.com/masters/2973448
+Aggressor - 2003 - https://api.discogs.com/masters/12985
+Krieger - 2003 - https://api.discogs.com/masters/13042
+Computer Star - 2006 - https://api.discogs.com/masters/718910
+Frontfeuer - 2006 - https://api.discogs.com/masters/400465
+Traumfrau - 2006 - https://api.discogs.com/masters/1697964
+Bodypop - 2006 - https://api.discogs.com/masters/13001
+Military Fashion Show - 2006 - https://api.discogs.com/masters/530636
+So Klingt Liebe (S) - 2006 - https://api.discogs.com/masters/13025
+Paddy Is My DJ - 2008 - https://api.discogs.com/masters/400472
+Live Naghavi Selection DJ Elite Nr.1 - 2009 - https://api.discogs.com/releases/2079192
+Live - 2009 - https://api.discogs.com/masters/1026639
+Live - 2009 - https://api.discogs.com/masters/217211
+Bodypop 1½ - 2009 - https://api.discogs.com/masters/13109
+Naghavi's Selection 97-03 - 2011 - https://api.discogs.com/releases/2811598
+Tanzomat - 2011 - https://api.discogs.com/masters/327824
+Zerstörer - 2011 - https://api.discogs.com/masters/305347
+Back Home - 2012 - https://api.discogs.com/releases/3339379
+Shouts Of Joy - 2012 - https://api.discogs.com/releases/3506006
+Shice Guy - 2012 - https://api.discogs.com/masters/492406
+S.T.O.P. - 2012 - https://api.discogs.com/masters/446965
+Magnet (Trilogie I) - 2014 - https://api.discogs.com/masters/718447
+Magnet - 2014 - https://api.discogs.com/masters/1222113
+Propeller - 2015 - https://api.discogs.com/masters/1222120
+Achtung 80 - 2015 - https://api.discogs.com/masters/1222131
+Re_Laborat - 1999 - https://api.discogs.com/masters/38476
+Elegy - Numéro 9 - 2000 - https://api.discogs.com/releases/346408
+Nachtschwärmer 3 - 2000 - https://api.discogs.com/releases/661037
+The Voice - 2000 - https://api.discogs.com/masters/29185
+Solaris - 2000 - https://api.discogs.com/masters/29187
+Critical M@55 - 2000 - https://api.discogs.com/masters/2019844
+Virtual State - 2000 - https://api.discogs.com/masters/13146
+Timekiller - 2001 - https://api.discogs.com/releases/193685
+Collector: Fireworks & Colorchange - 2003 - https://api.discogs.com/releases/150730
+Nachtschwärmer - Die Klassiker 2 - 2006 - https://api.discogs.com/releases/669544
+Addendum - 2007 - https://api.discogs.com/releases/1007532
+Engel Im Rausch - 2018 - https://api.discogs.com/masters/1449200
+A Human Scan(ner) (The 20th Anniversary Compilation) - 2020 - https://api.discogs.com/masters/1887366
+10 Years Of Zillo 1989 - 1999 - 1999 - https://api.discogs.com/releases/1398702
+Moonraker Vol. II - 1995 - https://api.discogs.com/releases/91330
+Pop Couture Vol. 1 - 1996 - https://api.discogs.com/releases/1354126
+Virgin Land - 1997 - https://api.discogs.com/releases/1686563
+Wellenreiter In Schwarz Vol. 1 - 1998 - https://api.discogs.com/releases/228220
+Cyberl@b - 1998 - https://api.discogs.com/masters/179333
+World Of Synthpop - 1999 - https://api.discogs.com/masters/1785515
+Jump 'N  Wave (The Finest Of Electro Pop) - 2001 - https://api.discogs.com/releases/3770440
+Mash-Up Your Bootz Vol. 02 - 2007 - https://api.discogs.com/releases/4222280
+Motherview - 2008 - https://api.discogs.com/masters/3091413
+Mash-Up Your Bootz Vol. 04 - 2009 - https://api.discogs.com/releases/4222376
+Mash-Up Your Top 15 Producers - 2010 - https://api.discogs.com/releases/4248163
+Awake The Machines Vol. 7 - 2011 - https://api.discogs.com/releases/2999652
+Radio EBM Unidos y Fuertes! Presents: Apocalypse Don't Come​.​.​.​We Are Still Stomping Vol III (V​.​0​.​1 Like A South & Central American Stomp​!​) - 2013 - https://api.discogs.com/releases/5816968
+Wanted: Songs Of Desire - 2014 - https://api.discogs.com/masters/1602340
+Kompressor - 2016 - https://api.discogs.com/masters/1966969
+Cold Hearted - 2018 - https://api.discogs.com/masters/1734119
+The Silence - 2020 - https://api.discogs.com/masters/2006794
+Inslag - 2022 - https://api.discogs.com/masters/3839436
+How To Use Machinery - 1991 - https://api.discogs.com/masters/1084579
+Maquina Total 2 - 1991 - https://api.discogs.com/masters/13156
+Total Techno 2 - 1991 - https://api.discogs.com/masters/13170
+This Is Rough Mix - 1992 - https://api.discogs.com/releases/95482
+Nur Mut! - 1992 - https://api.discogs.com/releases/1533703
+Zona De Baile Vol. 2 - 1992 - https://api.discogs.com/masters/13193
+Scanning... Vol. 1 - 1993 - https://api.discogs.com/releases/549260
+Stars On Video Show No. 127 August 1993 - 1993 - https://api.discogs.com/releases/21599122
+How To Use Machinery II - 1993 - https://api.discogs.com/masters/857439
+How To Use Machinery Vol. III - 1994 - https://api.discogs.com/releases/157747
+Electrocity Vol.5 - 1994 - https://api.discogs.com/releases/459647
+Electrocity CD-ROM - 1994 - https://api.discogs.com/releases/922403
+Moonraker Vol. II - 1995 - https://api.discogs.com/releases/91330
+A Label Introduction - 1995 - https://api.discogs.com/masters/332000
+Best Of EBM & Electro Vol. 1 - 1996 - https://api.discogs.com/releases/154043
+Body Rapture Vol. 6 - 1996 - https://api.discogs.com/releases/161974
+Pop Couture Vol. 1 - 1996 - https://api.discogs.com/releases/1354126
+Machinery Vol. 1 - 1996 - https://api.discogs.com/masters/454900
+Strange Love - 1996 - https://api.discogs.com/masters/13183
+Sound-Line Vol. 6 - 1997 - https://api.discogs.com/releases/352655
+Electrosphere - A Collection Of Synthiepop & Wave Volume 1 - 1997 - https://api.discogs.com/releases/635888
+Extreme Club Hits - 1997 - https://api.discogs.com/releases/647449
+Undercover 4 - 1997 - https://api.discogs.com/releases/1301276
+Promo 21 - 1997 - https://api.discogs.com/releases/1335053
+Virgin Land - 1997 - https://api.discogs.com/releases/1686563
+Dance Mission 7 - 1997 - https://api.discogs.com/releases/11464559
+Poprock Power 2 - 1997 - https://api.discogs.com/releases/13516042
+Virgin Unser - Unser Täglich Brot Geben Wir Euch Heute. - 1997 - https://api.discogs.com/releases/19454218
+More Power 4 - 1997 - https://api.discogs.com/releases/21006421
+Kendo 18 Pop Hits No. 12 - 1997 - https://api.discogs.com/releases/25308667
+Chart Hits Vol. 4 - 1997 - https://api.discogs.com/masters/1538602
+Puzzletron 5 - 1997 - https://api.discogs.com/masters/798872
+NAU B-3 En Session - 1997 - https://api.discogs.com/masters/1023140
+Select Series One Volume Five - 1997 - https://api.discogs.com/masters/3658467
+The Best From The West Volume 3 - 1997 - https://api.discogs.com/masters/469802
+Sender Rio Presents Rock And Wave - 1998 - https://api.discogs.com/releases/177608
+ZilloScope: New Signs & Sounds 7/8-98 - 1998 - https://api.discogs.com/releases/179355
+Wellenreiter In Schwarz Vol. 1 - 1998 - https://api.discogs.com/releases/228220
+Elegy - Numéro 1 - 1998 - https://api.discogs.com/releases/301969
+Zillo Festival Sampler 1998 - 1998 - https://api.discogs.com/releases/355605
+Strange Love 2 - 1998 - https://api.discogs.com/releases/401890
+Body Rapture 8 - 1998 - https://api.discogs.com/releases/469104
+Deejay Tribe - 1998 - https://api.discogs.com/releases/599835
+Electrocity Level X - 1998 - https://api.discogs.com/releases/726685
+We Came To Watch Part 1 - 1998 - https://api.discogs.com/releases/800608
+We Came To Dance - Indie Dancefloor Vol. 11 - 1998 - https://api.discogs.com/releases/831437
+Makinaria DJ's Live 2 - 1998 - https://api.discogs.com/releases/1266102
+Crossing All Over! - Vol. 8 - 1998 - https://api.discogs.com/releases/1544259
+Darkness: Best Of Wave & Independent - 1998 - https://api.discogs.com/releases/2310574
+Cyberl@b - 1998 - https://api.discogs.com/masters/179333
+Maxi Dance Sensation 98/2 - 1998 - https://api.discogs.com/masters/1128083
+Best Of Electronic Music - 1998 - https://api.discogs.com/masters/498890
+Techno Pop 2 - 1998 - https://api.discogs.com/masters/38120
+EBM Club Classics - 1998 - https://api.discogs.com/masters/4014319
+German Classics Electrobeats - 1998 - https://api.discogs.com/masters/1743225
+Cover Classics (Volume One) - 1999 - https://api.discogs.com/releases/238320
+Nachtschwärmer 2 - 1999 - https://api.discogs.com/releases/656250
+Strange Love 3 - 1999 - https://api.discogs.com/releases/660891
+Sanctuary - 1999 - https://api.discogs.com/releases/814309
+Wellenreiter In Schwarz Vol. 3 - 1999 - https://api.discogs.com/releases/854081
+Xtra Compilation II - 1999 - https://api.discogs.com/releases/993977
+We Came To Watch Part 2 - 1999 - https://api.discogs.com/releases/997104
+Electrocity Vol.11 - 1999 - https://api.discogs.com/releases/1121904
+10 Years Of Zillo 1989 - 1999 - 1999 - https://api.discogs.com/releases/1398702
+World Of Synthpop - 1999 - https://api.discogs.com/masters/1785515
+Attica - Las Fiestas Secretas - 1999 - https://api.discogs.com/masters/750282
+Feuertanz - Neuer Deutscher Liederwahn - 1999 - https://api.discogs.com/masters/1726242
+EBM Club Classics - Volume 2 - 1999 - https://api.discogs.com/masters/3535751
+Club Bizarre 1 - 2000 - https://api.discogs.com/releases/329391
+9. Wave-Gotik-Treffen - 2000 - https://api.discogs.com/releases/353917
+Extreme Clubhits IV - 2000 - https://api.discogs.com/releases/591630
+10 Jahre The Legendary Independent Club - 2000 - https://api.discogs.com/releases/1197731
+Orkus Presents The Best Of 2000 - 2000 - https://api.discogs.com/releases/2084736
+Attica - Actividad Constante - 2000 - https://api.discogs.com/masters/3736662
+Chartmix 7 - 2000 - https://api.discogs.com/masters/1135511
+N.O.D. The Final Sessions - 2000 - https://api.discogs.com/masters/1711045
+Electro Club Attack - The Classix I - 2001 - https://api.discogs.com/releases/254278
+Zillo Club Hits 6 - 2001 - https://api.discogs.com/releases/355596
+Extreme Clubhits VI - 2001 - https://api.discogs.com/releases/515406
+Sonic Seducer Cold Hands Seduction Vol. XII - 2001 - https://api.discogs.com/releases/598762
+Euro Rock Fest VL  - 2001 - https://api.discogs.com/releases/948575
+Künstler Zum 10. Wave Gotik Treffen - 2001 - https://api.discogs.com/releases/1095873
+Ochenta Y Pop Volumen Dos - 2001 - https://api.discogs.com/releases/1698242
+German Tribe V.01 - 2001 - https://api.discogs.com/releases/2177746
+Jump 'N  Wave (The Finest Of Electro Pop) - 2001 - https://api.discogs.com/releases/3770440
+Especial 10 años de música con Abel Ramos - 2001 - https://api.discogs.com/releases/38481096
+Orkus Presents The Best Of The 90s 2 - 2002 - https://api.discogs.com/releases/441780
+80's History - The Session 2 - 2002 - https://api.discogs.com/releases/489122
+10 Años De Música Con: Abel Ramos Vol.2 - 2002 - https://api.discogs.com/releases/809368
+Synth & Wave Essentials - 2002 - https://api.discogs.com/releases/1112506
+Techno Pop 80 - 2002 - https://api.discogs.com/releases/2372802
+CD Side 18 - 2003 - https://api.discogs.com/releases/519513
+DJ Revelation 01 (Compiled By L'âme Immortelle) - 2003 - https://api.discogs.com/releases/654255
+Clasicos De La Fiesta - 2003 - https://api.discogs.com/releases/889951
+Dark Nights (The Best Of Technopop & Futurepop) - 2003 - https://api.discogs.com/releases/936445
+Dark Roses - 36 Mystic And Electropop Romantics - 2003 - https://api.discogs.com/releases/964704
+Orkus Presents The Best Of 2003 - 2003 - https://api.discogs.com/releases/1036481
+Music For The Masses (Visions Of Future Pop) - 2003 - https://api.discogs.com/releases/1477212
+Schattenreich - 2003 - https://api.discogs.com/releases/10820652
+Schattenreich - 2003 - https://api.discogs.com/masters/355080
+The Dark Side - 2003 - https://api.discogs.com/masters/901111
+Remember Collection - 2004 - https://api.discogs.com/releases/1175799
+Synth Pop Dreams - 2004 - https://api.discogs.com/releases/3126464
+Synthetic Elixir - 2004 - https://api.discogs.com/releases/3567607
+Maschinebeat - 2004 - https://api.discogs.com/releases/6127423
+Beauty In Darkness Vol. 7 - 2004 - https://api.discogs.com/masters/745005
+100% 90's Vol. 3 (Vinyl 1) - 2005 - https://api.discogs.com/releases/625644
+This Is Electronic Body Music - 2005 - https://api.discogs.com/releases/760354
+Synth & Wave Essentials - 2005 - https://api.discogs.com/releases/924618
+100% 90's Vol. 3 - 2005 - https://api.discogs.com/releases/4910871
+CD Side 37 - 2006 - https://api.discogs.com/releases/834118
+Advanced Electronics Vol. 5 - 2006 - https://api.discogs.com/releases/860283
+Sonic Seducer Cold Hands Seduction Vol. 61 - 2006 - https://api.discogs.com/releases/870900
+Dark Visions - 2006 - https://api.discogs.com/releases/871445
+New Signs & Sounds 07-08/06 - 2006 - https://api.discogs.com/releases/1071408
+13th Street (The Sound Of Mystery 2) - 2006 - https://api.discogs.com/releases/1369571
+13th Street (The Sound Of Mystery) - 2006 - https://api.discogs.com/releases/2108304
+Zillo Club Hits Vol.12 - 2007 - https://api.discogs.com/releases/1009844
+Into The Darkness Volume 5 - 2007 - https://api.discogs.com/releases/1133880
+M'era Luna Festival 2007 (Der Film Zum Festival) - 2007 - https://api.discogs.com/releases/1163252
+Esto Es Techno! - 2007 - https://api.discogs.com/releases/1220050
+M'era Luna Festival 2007 - 2007 - https://api.discogs.com/releases/2753375
+Schattenreich Vol. 4 - 2007 - https://api.discogs.com/masters/1784147
+Sochi Bar - 2007 - https://api.discogs.com/masters/1011144
+Sonic Seducer Cold Hands Seduction Vol. 84 - 2008 - https://api.discogs.com/releases/1458836
+Lessons In EBM - 2008 - https://api.discogs.com/releases/5551529
+Awake The Machines Vol. 6 - 2008 - https://api.discogs.com/masters/70782
+Schattenreich Vol. 5 - 2008 - https://api.discogs.com/masters/4145641
+CD Side 51 - 2009 - https://api.discogs.com/releases/1694926
+Puro Techno - 2009 - https://api.discogs.com/releases/1758981
+Electrostorm - 2009 - https://api.discogs.com/releases/1789270
+Global Hits 4 - 2009 - https://api.discogs.com/releases/13105671
+20 Th Aniversary - 2009 - https://api.discogs.com/releases/36061942
+Feind Hört Mit! (Limited "Geheim-Dokument" Collectors Box) - 2009 - https://api.discogs.com/masters/151524
+Amphi Festival 2010 - 2010 - https://api.discogs.com/releases/2389475
+Electrostorm Volume 2 - 2010 - https://api.discogs.com/masters/687158
+Sonic Seducer Cold Hands Seduction - Vol. 116 / Mittelalter-Special Vol. IX - 2011 - https://api.discogs.com/releases/2757288
+Sonic Seducer Cold Hands Seduction - Vol. 117 - 2011 - https://api.discogs.com/releases/2774618
+Metropolis Records Sampler - 2011 - https://api.discogs.com/releases/2922791
+Awake The Machines Vol. 7 - 2011 - https://api.discogs.com/releases/2999652
+Xtrax Clubtrax Vol.3 - 2011 - https://api.discogs.com/releases/4936382
+Spring 2011 - RMB Spring Is Here - 2011 - https://api.discogs.com/releases/9602510
+Sonic Seducer Cold Hands Seduction - Vol. 130 - 2012 - https://api.discogs.com/releases/3552445
+Secret Thirteen Mix 029 - 2012 - https://api.discogs.com/releases/3860898
+Gothic Spirits (EBM Edition 4) - 2012 - https://api.discogs.com/releases/3984892
+Visions Of Machines - 2012 - https://api.discogs.com/releases/4076466
+Mash-Up Your Halloween - 2012 - https://api.discogs.com/releases/4248076
+Schwarze Welle 5 - 2013 - https://api.discogs.com/releases/6708461
+Sonic Seducer Cold Hands Seduction - Vol. 155 - 2014 - https://api.discogs.com/releases/5880158
+Sonic Seducer Cold Hands Seduction Vol. 160/161 - Jahresrückblick 2014 - M'era Luna Festival 2014 - 2014 - https://api.discogs.com/releases/7729493
+Schattenreich Vol.6 - 2014 - https://api.discogs.com/releases/29141674
+Lessons In EBM Vol. 2 - 2015 - https://api.discogs.com/releases/6539418
+Lessons In EBM Vol. 3 - 2015 - https://api.discogs.com/releases/7408928
+Amphi Festival 2015 - 2015 - https://api.discogs.com/releases/7725759
+Sonic Seducer - Cold Hands Seduction Vol. 172/173 - Jahresrückblick 2015 - M'era Luna Festival 2015 - 2015 - https://api.discogs.com/releases/8316230
+Lessons In EBM Vol. 4 - 2016 - https://api.discogs.com/releases/8679582
+Lessons In EBM Vol. 5 - 2017 - https://api.discogs.com/releases/11109232
+WEBE Redrums Vol. 4 - 2022 - https://api.discogs.com/releases/22717982
+Castle Party 2024 - 2024 - https://api.discogs.com/releases/31258333
+Lessons In EBM Vol. 9 - 2025 - https://api.discogs.com/releases/33542187
+Lessons In EBM Vol. 10 - 2025 - https://api.discogs.com/releases/34440985
+Technopolis Vol. III - 1992 - https://api.discogs.com/masters/1801010
+Techno House Vol. 14 - 1993 - https://api.discogs.com/releases/807081
+Flop! - 1993 - https://api.discogs.com/releases/38317023
+Cyber-Bollocks! - 1996 - https://api.discogs.com/releases/35505232
+I.S.T. Total - 1996 - https://api.discogs.com/masters/12882
+Рэйв 1 - 1996 - https://api.discogs.com/masters/454900
+Steve Ist Der Neue Gott - 1997 - https://api.discogs.com/releases/2562682
+Greatest Hits - 1997 - https://api.discogs.com/releases/2707572
+The Best From The West Volume 3 - 1997 - https://api.discogs.com/masters/469802
+Dancing Ass Vol.5 - 1998 - https://api.discogs.com/releases/6713605
+D.J. Hits Collection V.1 (98) - 1998 - https://api.discogs.com/releases/7376966
+American Discotheque Vol.1 - 1998 - https://api.discogs.com/releases/16962351
+9.9.99 9 Uhr - 1998 - https://api.discogs.com/masters/13077
+Re_Laborat - 1999 - https://api.discogs.com/masters/38476
+Virgin Superstar - 2000 - https://api.discogs.com/masters/342613
+Chartmix 7 - 2000 - https://api.discogs.com/masters/1135511
+Club 21 - Backbeat - 2001 - https://api.discogs.com/releases/650900
+Electropop Collection - 2001 - https://api.discogs.com/releases/6228937
+Comedy Booom 2000 - 2001 - https://api.discogs.com/releases/29644912
+Энциклопедия электронной музыки 1987-2001 - 2001 - https://api.discogs.com/releases/35239009
+Electro Pop - 2001 - https://api.discogs.com/releases/37177395
+Das Ich 2: 1999-2002 - 2002 - https://api.discogs.com/releases/2984664
+Radical 12º Aniversario - 2002 - https://api.discogs.com/releases/17246068
+Техно Романтика выпуск первый (1) - 2003 - https://api.discogs.com/releases/3175313
+Rares - 2003 - https://api.discogs.com/releases/3444431
+Aggressor - 2003 - https://api.discogs.com/masters/12985
+Syntetic Hits - 2004 - https://api.discogs.com/releases/8570989
+Mp3 Collection - 2004 - https://api.discogs.com/releases/15747365
+Der Aggressor In Berlin - 2004 - https://api.discogs.com/releases/22911950
+Beauty In Darkness Volume 7 - 2004 - https://api.discogs.com/masters/745005
+MP3 Collection - 2004 - https://api.discogs.com/masters/431318
+And One (2): 1998-2003 - 2004 - https://api.discogs.com/masters/1114896
+And One (1): 1990-1997 - 2004 - https://api.discogs.com/masters/4215621
+Music Box - 2004 - https://api.discogs.com/masters/835401
+Body Pop Tour (Live In Sankt-Petersburg 07/10/06) - 2006 - https://api.discogs.com/releases/5662864
+Fiesta Aniversario - Agosto 2006 - 2006 - https://api.discogs.com/releases/15317362
+Techno Dream - 2006 - https://api.discogs.com/releases/18204874
+Bodypop - 2006 - https://api.discogs.com/masters/13001
+So Klingt Liebe (SEX) - 2006 - https://api.discogs.com/masters/13025
+Даёшь Музыку MP3 Collection - 2006 - https://api.discogs.com/masters/4215633
+Metalhammer - 2007 - https://api.discogs.com/releases/28064952
+Metalhammer - 2007 - https://api.discogs.com/masters/12910
+Live Im Pumpwerk - 2007 - https://api.discogs.com/masters/851587
+Monotonie - 2007 - https://api.discogs.com/masters/12959
+Cover Lover Super Show Tour 2008 - 2008 - https://api.discogs.com/releases/28157317
+Tanzomat - 2011 - https://api.discogs.com/masters/327824
+Synthpop - The Ultimate Collection - 2012 - https://api.discogs.com/releases/5710027
+Italo Boutique / Il Terzo - 2014 - https://api.discogs.com/releases/5562583
+Bailando Al Final De Los Tiempos - 2014 - https://api.discogs.com/releases/5594768
+Magnet - 2014 - https://api.discogs.com/masters/1222113
+Mixes - 2015 - https://api.discogs.com/releases/13742777
+Robben Cepeda Presents Vocal Classics Volume 1  - 2016 - https://api.discogs.com/releases/7936754
+Samara Boot Mix 18 - 2016 - https://api.discogs.com/releases/9398145
+Nordhausen - 2016 - https://api.discogs.com/masters/4781
+Bodypop 33 1/3 - 2017 - https://api.discogs.com/releases/9613271
+DJ Mix - 2020 - https://api.discogs.com/releases/15430176
+Spot - 2020 - https://api.discogs.com/masters/12895
+Flop! - 2020 - https://api.discogs.com/masters/4769
+Anguish - 2021 - https://api.discogs.com/masters/12920
+Editing The Others Volume 1 - A Collection of remixes by Kaiser Soze - 2022 - https://api.discogs.com/releases/23063612
+Synthetisches Buffet # 1 - 2023 - https://api.discogs.com/releases/29896078
+Synthetisches Buffet # 2 - 2023 - https://api.discogs.com/releases/29896204
+Synthetisches Buffet # 3 - 2023 - https://api.discogs.com/releases/29896315
+Synthetisches Buffet # 4 - 2023 - https://api.discogs.com/releases/29896360
+Synthetisches Buffet # 5 THE FINAL COURSE - 2023 - https://api.discogs.com/releases/29896363
+Magnet (Trilogie I) - 2024 - https://api.discogs.com/masters/718447
+Techno Man (Live !) - 2024 - https://api.discogs.com/masters/12951
+Life Isn't Easy In Germany - 2024 - https://api.discogs.com/masters/12970
+Military Fashion Show - 2025 - https://api.discogs.com/masters/530636
+Танцевальные Хиты (Dance Trax -3) - Desconocido - https://api.discogs.com/releases/3032545
+Machinery 1 - Desconocido - https://api.discogs.com/releases/5451373
+Super Eurobeat Vol. 1 - Desconocido - https://api.discogs.com/releases/7101418
+We Came To Watch Part 1 & 2 - Desconocido - https://api.discogs.com/releases/7745338
+Das Ich & Kramm MP3 Collection - Desconocido - https://api.discogs.com/releases/8398212
+MP3 Collection: Козерог - Музыкальный Гороскоп (Техноромантика) - Desconocido - https://api.discogs.com/releases/9365625
+Machinery 3 - Desconocido - https://api.discogs.com/releases/10110523
+Brilliant, And One, In:Touch - Desconocido - https://api.discogs.com/releases/12850570
+Ko: ln E-werk/Cologne, 27.11.97 - Desconocido - https://api.discogs.com/releases/12913155
+Krypta 6 - Desconocido - https://api.discogs.com/releases/18583651
+A Berlin's Deliverance - Desconocido - https://api.discogs.com/releases/31507847
+1000 Tage Fritz Party ´95 - Desconocido - https://api.discogs.com/releases/33090852
+Festival Of Darkness - Desconocido - https://api.discogs.com/releases/33093099
+Uns Geht's Gut - Desconocido - https://api.discogs.com/releases/34217407
+Live In Chemnitz 1998 - Desconocido - https://api.discogs.com/releases/34365343
+Amok Live In Düsseldorf 16.1.99 - Desconocido - https://api.discogs.com/releases/34365964
+Live In Sweden '98 + '99 - Desconocido - https://api.discogs.com/releases/34366468
+M'era Luna - Desconocido - https://api.discogs.com/releases/34374694
+Waren Da! - Desconocido - https://api.discogs.com/releases/34374916
+Wet Spots - Desconocido - https://api.discogs.com/releases/34375222
+Live At The Schlachthof Dresden 2004 - Desconocido - https://api.discogs.com/releases/34994921
+Live Im Capitol Hannover 2004 - Desconocido - https://api.discogs.com/releases/34995533
+Aus Der Traum! / I Wanna Go Home! (Through Kuwait) - Desconocido - https://api.discogs.com/masters/12933
+Maxi Dance Sensation 98/2 - Desconocido - https://api.discogs.com/masters/1128083
+Amerika Brennt! - Desconocido - https://api.discogs.com/masters/2973448
+The Dark Side - Desconocido - https://api.discogs.com/masters/901111
