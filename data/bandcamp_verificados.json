@@ -860,6 +860,13 @@
   "ok": true,
   "pistas": 8
  },
+ "posts/new-order_-music-complete": {
+  "album": "Music Complete",
+  "artista": "New Order",
+  "id": 1930408285,
+  "ok": true,
+  "pistas": 11
+ },
  "posts/ross-from-friends_-tread": {
   "album": "Tread",
   "artista": "Ross From Friends",
