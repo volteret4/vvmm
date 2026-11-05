@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Wed, 04 Nov 2026 19:54:32 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 00:53:51 +0100</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EBM</title>
+				<link>/tags/ebm/</link>
+				<pubDate>Fri, 06 Nov 2026 00:53:51 +0100</pubDate>
+				<guid>/tags/ebm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Industrial</title>
+				<link>/tags/industrial/</link>
+				<pubDate>Fri, 06 Nov 2026 00:53:51 +0100</pubDate>
+				<guid>/tags/industrial/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Techno</title>
+				<link>/tags/techno/</link>
+				<pubDate>Fri, 06 Nov 2026 00:53:51 +0100</pubDate>
+				<guid>/tags/techno/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Electro</title>
 				<link>/tags/electro/</link>
@@ -39,13 +60,6 @@
 				<link>/tags/pop/</link>
 				<pubDate>Wed, 04 Nov 2026 18:56:38 +0100</pubDate>
 				<guid>/tags/pop/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Techno</title>
-				<link>/tags/techno/</link>
-				<pubDate>Mon, 30 Mar 2026 20:01:27 +0200</pubDate>
-				<guid>/tags/techno/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -249,13 +263,6 @@
 				<link>/tags/dream-pop/</link>
 				<pubDate>Thu, 10 Jul 2025 04:47:14 +0200</pubDate>
 				<guid>/tags/dream-pop/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Industrial</title>
-				<link>/tags/industrial/</link>
-				<pubDate>Thu, 10 Jul 2025 02:19:53 +0200</pubDate>
-				<guid>/tags/industrial/</guid>
 				<description></description>
 			</item>
 			<item>
