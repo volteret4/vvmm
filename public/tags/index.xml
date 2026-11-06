@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 01:33:13 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 01:36:04 +0100</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>City-Pop</title>
+				<link>/tags/city-pop/</link>
+				<pubDate>Fri, 06 Nov 2026 01:36:04 +0100</pubDate>
+				<guid>/tags/city-pop/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Soul</title>
+				<link>/tags/soul/</link>
+				<pubDate>Fri, 06 Nov 2026 01:36:04 +0100</pubDate>
+				<guid>/tags/soul/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Ambient</title>
 				<link>/tags/ambient/</link>
@@ -123,13 +137,6 @@
 				<link>/tags/experimental/</link>
 				<pubDate>Sat, 15 Nov 2025 16:54:44 +0100</pubDate>
 				<guid>/tags/experimental/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Soul</title>
-				<link>/tags/soul/</link>
-				<pubDate>Sun, 09 Nov 2025 20:56:04 +0100</pubDate>
-				<guid>/tags/soul/</guid>
 				<description></description>
 			</item>
 			<item>
