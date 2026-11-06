@@ -1,7 +1,9 @@
 ---
-title: "Jerez Texas - Sao"
+title: "Jerez-Texas - Saó"
 date: 2025-03-02T14:46:27+01:00
 image: "image.jpeg"
+artist: "Jerez-Texas"
+album: "Saó"
 draft: false
 tags:
  - Sao
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Jerez-Texas - Sao))
- 
+![cover](image.jpeg (Jerez-Texas - Saó))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1718558)
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jerez-Texas/Sao)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/4365f93b-c77a-47fc-8068-5137d90b2777)

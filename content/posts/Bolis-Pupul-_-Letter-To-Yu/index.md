@@ -1,7 +1,9 @@
 ---
-title: "Bolis Pupul - Letter to Yu"
+title: "Bolis Pupul - Letter To Yu"
 date: 2024-06-20T17:17:22+02:00
 image: "image.jpeg"
+artist: "Bolis Pupul"
+album: "Letter To Yu"
 draft: false
 tags:
  - pop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Bolis-Pupul - Letter-To-Yu))
- 
+![cover](image.jpeg (Bolis Pupul - Letter To Yu))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3420691)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/20832713-1a89-4671-8b7f-e51f12557ff7)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4NWbM9F8OhWw9pVM0dVNRk)

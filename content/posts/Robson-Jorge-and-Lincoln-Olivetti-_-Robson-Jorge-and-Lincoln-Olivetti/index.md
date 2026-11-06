@@ -1,7 +1,9 @@
 ---
-title: "Robson Jorge and Lincoln Olivetti - Robson Jorge and Lincoln Olivetti"
+title: "Robson Jorge & Lincoln Olivetti - Robson Jorge & Lincoln Olivetti"
 date: 2024-06-20T22:42:24+02:00
 image: "image.jpeg"
+artist: "Robson Jorge & Lincoln Olivetti"
+album: "Robson Jorge & Lincoln Olivetti"
 draft: false
 tags:
  - mpb
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Robson-Jorge-and-Lincoln-Olivetti - Robson-Jorge-and-Lincoln-Olivetti))
- 
+![cover](image.jpeg (Robson Jorge & Lincoln Olivetti - Robson Jorge & Lincoln Olivetti))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/839590)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/529a0cb0-5a1c-46ae-aa09-1dd2b91bfb65)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

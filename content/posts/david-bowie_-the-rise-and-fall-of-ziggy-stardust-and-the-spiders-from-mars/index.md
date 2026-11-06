@@ -1,5 +1,5 @@
 ---
-title: "David Bowie- The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
+title: "David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
 date: 2025-09-14T21:48:38+02:00
 image: "image.jpeg"
 draft: false

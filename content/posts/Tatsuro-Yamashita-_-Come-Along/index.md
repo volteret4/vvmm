@@ -2,6 +2,8 @@
 title: "Tatsuro Yamashita - Come Along"
 date: 2024-06-20T13:58:03+02:00
 image: "image.jpeg"
+artist: "Tatsuro Yamashita"
+album: "Come Along"
 draft: false
 tags:
  - pop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Tatsuro-Yamashita - Come-Along))
- 
+![cover](image.jpeg (Tatsuro Yamashita - Come Along))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1221609)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d17fca5e-a423-472c-aa0b-b936b15ca712)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](None)

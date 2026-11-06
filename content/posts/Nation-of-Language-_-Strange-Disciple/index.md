@@ -2,6 +2,8 @@
 title: "Nation of Language - Strange Disciple"
 date: 2024-06-16T17:58:01+02:00
 image: "image.jpeg"
+artist: "Nation of Language"
+album: "Strange Disciple"
 draft: false
 tags:
  - synthpop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nation-of-Language - Strange-Disciple))
- 
+![cover](image.jpeg (Nation of Language - Strange Disciple))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3240349)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f9ce1b16-f294-4516-b5e6-bc22f6a0da7a)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK)

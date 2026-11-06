@@ -2,6 +2,8 @@
 title: "Matthew Halsall - Changing Earth"
 date: 2024-06-20T22:53:41+02:00
 image: "image.jpeg"
+artist: "Matthew Halsall"
+album: "Changing Earth"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Matthew-Halsall - Changing-Earth))
- 
+![cover](image.jpeg (Matthew Halsall - Changing Earth))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2876380)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/6589ec7f-5648-42d9-a7bb-22ce3dba1cec)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3)

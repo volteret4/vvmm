@@ -1,4 +1,181 @@
 {
+ "coleccion/Acid-Coco---Mucho-Gusto": {
+  "id": 3498149914,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Adele---Live-At-The-Royal-Albert-Hall": {
+  "fuente": "busqueda",
+  "id": "PLgaFNC_I_ZkmJN-4EckGjv6MzhG9Vb1wv",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Afrika-Bambaataa---Just-Get-Up-And-Dance": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Afrika-Bambaataa-And-Family---The-Light": {
+  "fuente": "busqueda",
+  "id": "E2LMR2Xx85c",
+  "tipo": "yt_video"
+ },
+ "coleccion/Alva-Noto---Xerrox-Vol-4": {
+  "fuente": "busqueda",
+  "id": "PL3_TpZA4hzR3oYzsQVD3hqtT06Nzck5a_",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Amulets---Blooming": {
+  "id": 3715131426,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Antonio-Carlos-Jobim---The-Composer-Of-Desafinado-Plays": {
+  "fuente": "busqueda",
+  "id": "PLmTOc0fSC11jAMPnB75BkFWBEs5p0HMdM",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Aphex-Twin---I-Care-Because-You-Do": {
+  "id": 3671945923,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Aphex-Twin---Richard-D-James-Album": {
+  "fuente": "busqueda",
+  "id": "PLnif9Rfb5AdlnLJD_RCopvqxj7QPT91RW",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Aphex-Twin---Selected-Ambient-Works-85-92": {
+  "id": 1881652386,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Aquiles-Navarro-Tcheser-Holmes---Heritage-Of-The-Invisible-II": {
+  "id": 3362165413,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Bardo-Pond---Amanita": {
+  "id": 1519643203,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Beastie-Boys---Paul-s-Boutique": {
+  "fuente": "busqueda",
+  "id": "PLNPGM2D7aODdiSokEMqJpBW97EH-hLvZA",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Bebo-Cigala---Lágrimas-Negras": {
+  "fuente": "busqueda",
+  "id": "PLOHpWQP5EIqWHVus21mv6PG31c0T7VpPf",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Beethoven-Berlin-Philharmonic-Orchestra-Herbert-von-Karajan---Symphony-No-6-Pastoral": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Berliner-Philharmoniker-Herbert-von-Karajan---Adagio": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Bette-Midler---Quieres-Bailar-Superstar": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Calm---Before-いままでのむこうがわ-Up-Until-Now": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Camarón---La-Leyenda-Del-Tiempo": {
+  "fuente": "busqueda",
+  "id": "PLnVn29o5Rr-X3lYNFM0sezeGwrTh9jKZM",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Carpenters---Voice-Of-The-Heart": {
+  "fuente": "busqueda",
+  "id": "PLmvQzGNjflbSWOjMAAT6dsKxG5PPZxYe6",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Central-Line---Breaking-Point": {
+  "fuente": "busqueda",
+  "id": "PL0ncsFK7FvpewXnTOBmWD5xaFVERZx9yi",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Chaka-Khan---Chaka": {
+  "fuente": "busqueda",
+  "id": "PLiaAut-7Gn2SjtOzdK8lo0Xb8wVH8tDSE",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Change---Miracles": {
+  "fuente": "busqueda",
+  "id": "PLtzM367B3xdEVB4gDKw8Qv_8zEfhyQnYJ",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Chet-Baker---Chet": {
+  "fuente": "busqueda",
+  "id": "PLx3gPQ-E_ONnI_S4UOU6JBjK78HDWL7AO",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Chet-Baker---Chet-Baker-Sings": {
+  "fuente": "busqueda",
+  "id": "PLL-NbN8uTOiicYA9ZJKXb9b1Bhp6phnmL",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Cornelius-Brothers-And-Sister-Rose---Demasiado-Tarde-Para-Dar-Marcha-Atrás-Trátala-Como-A-Una-Dama": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Crosby-Stills-Nash---Suite-Judy-Ojos-Azules-Pasara-Mucho-Tiempo": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Daft-Punk---Random-Access-Memories": {
+  "fuente": "busqueda",
+  "id": "PLZ60rAdTLVNuCAWD8W3dZTLBXbSPda-DX",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Daniel-Avery---Ultra-Truth": {
+  "id": 3177667306,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Danza-Invisible---A-Tu-Alcance": {
+  "fuente": "busqueda",
+  "id": "PL9wD8KBXVf26YUtFDDmtuZuMUf2dkUj-T",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Depeche-Mode---Songs-Of-Faith-And-Devotion": {
+  "fuente": "busqueda",
+  "id": "PLQDkfQi15R80SvO02m1SHKcQ3cr4PZnNr",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Derby-Motoreta-s-Burrito-Kachimba---Derby-Motoreta-s-Burrito-Kachimba": {
+  "fuente": "busqueda",
+  "id": "PLPvN59W7rPOfq0aT2c_BnFLpm-Dh7XFnZ",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Derby-Motoreta-s-Burrito-Kachimba---Hilo-Negro": {
+  "fuente": "busqueda",
+  "id": "PLRMKzqby9049LSDPahVluMOamRXICIU9R",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Diskret---Diskret": {
+  "id": 2112764698,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Dolly-Parton---9-To-5": {
+  "fuente": "busqueda",
+  "id": "PLb9Kkxa5adU8",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Donna-Summer---A-Love-Trilogy": {
+  "fuente": "busqueda",
+  "id": "PL6wnl13nfE2flNgKdekGcwDLAMcnyPrk_",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Donna-Summer---Bad-Girls": {
+  "fuente": "busqueda",
+  "id": "PLFAcddgaFN8zAClft2yw0_u_ssWzJXr2H",
+  "tipo": "yt_playlist"
+ },
  "coleccion/Donna-Summer---Once-Upon-A-Time-Erase-Una-Vez": {
   "buscado": "2026-11-01",
   "fuente": "busqueda",
@@ -9,8 +186,143 @@
   "id": "PLNt3vETSy2lky9jBfqCUq_juyLSvKz0wI",
   "tipo": "yt_playlist"
  },
+ "coleccion/Dos-Santos---Logos": {
+  "id": 544986837,
+  "tipo": "bandcamp"
+ },
+ "coleccion/El-Payo-Malo---Con-Tierra-En-Los-Bolsillos": {
+  "fuente": "busqueda",
+  "id": "_VGQxQp5ryw",
+  "tipo": "yt_video"
+ },
+ "coleccion/Elton-John---Sleeping-With-The-Past": {
+  "fuente": "busqueda",
+  "id": "PLFAcddgaFN8yWxlyszkNOdwlK5RN3Rjwc",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Emmanuel---Emmanuel-Present-Stealth": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Emmanuel---Stamina": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Erich-Sendel---Órgano-Y-Ritmo": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Ethimm---By-Night-EP": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Etienne-De-La-Sayette---Kobugi": {
+  "fuente": "busqueda",
+  "id": "zqRGoJy5VKg",
+  "tipo": "yt_video"
+ },
+ "coleccion/Extremoduro---Canciones-Prohibidas": {
+  "fuente": "busqueda",
+  "id": "PL_RdJ0q8iQQcg8XljIsg4afJR9yt-SuTX",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Fennesz---Agora": {
+  "id": 239480068,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Fleet-Foxes---Crack-Up": {
+  "fuente": "busqueda",
+  "id": "PLIvS_STeeElYlcNR85WdswvwLJLk9rP9v",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Fleetwood-Mac---Muy-Bien": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Floating-Points-Pharoah-Sanders-The-London-Symphony-Orchestra---Promises": {
+  "id": 3149089081,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Francis-Lai---Love-Story-Historia-De-Amor-Banda-Sonora-Original-De-La-Pelicula-Paramount": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Gaussian-Curve---Clouds": {
+  "fuente": "busqueda",
+  "id": "Yms30XyuSWM",
+  "tipo": "yt_video"
+ },
+ "coleccion/Gaussian-Curve---The-Distance": {
+  "fuente": "busqueda",
+  "id": "rGy82jzbS9M",
+  "tipo": "yt_video"
+ },
+ "coleccion/George-Frideric-Handel-Choir-Of-Westminster-Abbey-The-English-Concert-Trevor-Pinnock-Simon-Preston---Coronation-Anthems": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Gábor-Szabó---Dreams": {
+  "fuente": "busqueda",
+  "id": "PLRQKT-Cu2_2S_zMHheZF6uNg3xf8wkXeC",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Haendel-Solistes-Monteverdi-Choir-Monteverdi-Orchestra-John-Eliot-Gardiner---Dixit-Dominus-Coronation-Anthem-N-1": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Harold-Melvin-The-Blue-Notes---Black-Blue-Featuring-The-Love-I-Lost": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Hartmut-Kiesewetter---Musikalische-Impressionen-Aus-Dem-Norden": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Hi-Gloss---Hi-Gloss": {
+  "fuente": "busqueda",
+  "id": "PLIdNjCBCY7t0S5gmwzQGE7RzZnL_pJPac",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Hollie-Kenniff---The-Quiet-Drift": {
+  "id": 4158818092,
+  "tipo": "bandcamp"
+ },
+ "coleccion/ISAN---Beautronics": {
+  "id": 3489814883,
+  "tipo": "bandcamp"
+ },
  "coleccion/Iron-Butterfly---In-A-Gadda-Da-Vida-Experiencia-Con-Soul": {
   "buscado": "2026-11-01",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Island-People---II": {
+  "fuente": "busqueda",
+  "id": "PLwXDv-VkEs4HryLuH5Qn8SairCc5dbGB8",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Island-People---Island-People": {
+  "fuente": "busqueda",
+  "id": "PL4PBIkIu5Atge9EIIn_jVK_U4BMnWlsJc",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Ismael-Serrano---Principio-De-Incertidumbre": {
+  "fuente": "busqueda",
+  "id": "PL5A282DE5A28BDCA8",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/J-G-Pisendel-J-S-Bach-J-G-Graun-W-A-Mozart---Violine-Des-Barock-Und-Der-Klassik": {
+  "buscado": "2026-11-06",
   "fuente": "busqueda",
   "tipo": null
  },
@@ -19,9 +331,140 @@
   "id": "PLOQuEw6WG25GbCTM1vRDmuRpBqu6HNg3C",
   "tipo": "yt_playlist"
  },
+ "coleccion/Jeanette---Palabras-Promesas-Debajo-Del-Platanero": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Jeanette---Soy-Rebelde-Oye-Mama-Oye-Papa": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/John-Coltrane---Both-Directions-At-Once-The-Lost-Album": {
+  "fuente": "busqueda",
+  "id": "PLVXkWPNT_2fwGCwF3AC7lLLtD0UK08R5O",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Johnny-Rivers---El-Septimo-Hijo-Susie-Q": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Jon-Hassell---Listening-To-Pictures-Pentimento-Volume-One": {
+  "id": 3271631258,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Jon-Hassell---Seeing-Through-Sound-Pentimento-Volume-Two": {
+  "id": 961232104,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Jon-Hassell-Farafina---Flash-Of-The-Spirit": {
+  "fuente": "busqueda",
+  "id": "PLBCYJDQ1g88A-WwDeAsoSIlgQ07ev3wXU",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Jonny-Nash---Make-A-Wilderness": {
+  "id": 2551398741,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Jonny-Nash---Point-Of-Entry": {
+  "id": 3848278059,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Joseph-Haydn-Herbert-von-Karajan---Chöre-Und-Arien-Aus-Die-Schöpfung": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Juan-Luis-Guerra-4-40---Fogaraté": {
+  "fuente": "busqueda",
+  "id": "PLplSI2POOXcxMwoPv9rknqcnBu-nhDR93",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Julee-Cruise---Floating-Into-The-Night": {
+  "fuente": "busqueda",
+  "id": "PLs9zwqXsceUgp0gq1aNXkp4ivmTiy_Nf9",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Jungle---Volcano": {
+  "id": 3448924291,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Karajan---Romance": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Kenny-G---Miracles-The-Holiday-Album": {
+  "fuente": "busqueda",
+  "id": "PLKtm2G15Yd1B0la8P6CV2kDLRMBGBEWyh",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Khruangbin---The-Universe-Smiles-Upon-You": {
+  "id": 2506726218,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Khruangbin-Leon-Bridges---Texas-Moon": {
+  "id": 3372930174,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Klaus-Schulze---Timewind": {
+  "fuente": "busqueda",
+  "id": "PLxzoGs04azKwhFQZQ_zmyECw0AHazUMot",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/LaBelle---Nightbirds": {
+  "fuente": "busqueda",
+  "id": "PLiTfUx1bmc-gNVnWciitx-HcKuB-mgtHn",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Lafayette-Street---Chariot-I-Will-Follow-Him": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Lanowa---Seven-Seas": {
+  "id": 3975935104,
+  "tipo": "bandcamp"
+ },
  "coleccion/Lonnie-Liston-Smith-And-The-Cosmic-Echoes---Renaissance": {
   "fuente": "busqueda",
   "id": "PL4-oCE2y-CrGPy5VPQmEk-KvwuFQrm6uU",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Los-Chincanayros---Tajaraste": {
+  "fuente": "busqueda",
+  "id": "xsme8b13pSE",
+  "tipo": "yt_video"
+ },
+ "coleccion/Los-Planetas---Una-Semana-En-El-Motor-De-Un-Autobús": {
+  "fuente": "busqueda",
+  "id": "PL6mpyAioMZGh88G03Pg3ZpZ_RAr1lNA0O",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Love-Unlimited-Orchestra---Music-Maestro-Please": {
+  "fuente": "busqueda",
+  "id": "PL90vEkgSIzoTzmx9DlK1_XpzWugrFTunl",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Ludwig-van-Beethoven-Herbert-von-Karajan-Berliner-Philharmoniker---Symphonien-Nr-5-8-Ouvertüre-Fidelio": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Luigi-Tozzi---Tender-Is-The-Night": {
+  "id": 877862053,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Luz---Pequeños-Medianos-Y-Grandes-Éxitos": {
+  "fuente": "busqueda",
+  "id": "PLdglbXu4y-U1XTVhxY28HHgRHCpiHPWyh",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/MC-Hammer---Please-Hammer-Don-t-Hurt-Em": {
+  "fuente": "busqueda",
+  "id": "PL-yyj19nFbTKKZFT1h0P34oPuJ1Cm_Dem",
   "tipo": "yt_playlist"
  },
  "coleccion/MRD---Superwoman-20": {
@@ -29,23 +472,140 @@
   "id": "PL1ntfXx-b2MwqfC6_qRMOL6fkJRi8htYk",
   "tipo": "yt_playlist"
  },
+ "coleccion/Manuel-Göttsching---E2-E4": {
+  "fuente": "busqueda",
+  "id": "PLdJMb0jVSvc-BT5Tn1MQl8BFYaJWkCR4Z",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Marea---Besos-De-Perro": {
+  "fuente": "busqueda",
+  "id": "PL6mpyAioMZGgsi4xT-Roh5ENb411jEapA",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Massive-Attack---Mezzanine": {
+  "fuente": "busqueda",
+  "id": "PLfGibfZATlGr5c_eKUQ6EuDyB7yw3OrYb",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Max-Essa---Black-Market-Laundrette-The-Cowboy-Rembrandt-Remixed": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Metallica---St-Anger": {
+  "fuente": "busqueda",
+  "id": "PLfqlpuz-LWL1J-E1MPQ-QZdXa5JXT5zfP",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Metallica---St-Anger-4004658": {
+  "fuente": "busqueda",
+  "id": "PLfqlpuz-LWL1J-E1MPQ-QZdXa5JXT5zfP",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Metro-Area---Metro-Area": {
+  "id": 1172643605,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Miguel-Bosé---Bandido": {
+  "fuente": "busqueda",
+  "id": "PLgaFNC_I_ZkmxF9GeWuVuB7F5855TiHGj",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Mike-Dehnert---Framework": {
+  "fuente": "busqueda",
+  "id": "PLYqPcKfpBgZZUq1JtK-9r8oFe3oWjoEfw",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Miles-Davis---Bitches-Brew": {
+  "fuente": "busqueda",
+  "id": "PL1RRNXldMeRH9BTnQmLcBEPypc3M6e9yJ",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Mirlaqi---Beyond-The-Sea-Of-Sand": {
+  "id": 639416020,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Mogwai---As-The-Love-Continues": {
+  "id": 3793168922,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Mogwai---The-Bad-Fire": {
+  "id": 3160421753,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Nils-Frahm---All-Melody": {
+  "id": 3467926826,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Perc---Fire-In-Negative": {
+  "id": 1818927594,
+  "tipo": "bandcamp"
+ },
  "coleccion/Radio-Futura---Veneno-En-La-Piel": {
   "fuente": "busqueda",
   "id": "PLDJLAYDGgGBQetW6UW9zyEwyCBkcqbL6u",
   "tipo": "yt_playlist"
+ },
+ "coleccion/Sciahri---Seyl": {
+  "id": 3239639286,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Sciahri-Desroi---In-Mirrors": {
+  "id": 1735949902,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Sigur-Rós---Átta": {
+  "id": 1617634061,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Suso-Saiz---Nothing-Is-Objective": {
+  "id": 3672984810,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Tangerine-Dream---Phaedra": {
+  "id": 3055212633,
+  "tipo": "bandcamp"
  },
  "coleccion/The-Cult---Ceremony": {
   "fuente": "busqueda",
   "id": "PLHTo__bpnlYXaStBIYMWo1PsuZcBZBETp",
   "tipo": "yt_playlist"
  },
+ "coleccion/The-Soft-Moon---Exister": {
+  "id": 61966160,
+  "tipo": "bandcamp"
+ },
+ "coleccion/The-Vendetta-Suite---The-Kempe-Stone-Portal": {
+  "id": 2418613374,
+  "tipo": "bandcamp"
+ },
+ "coleccion/The-Zenmenn---Enter-The-Zenmenn": {
+  "id": 1477325246,
+  "tipo": "bandcamp"
+ },
  "coleccion/Tim-Tama---Wave-Of-Nostalgia-EP": {
   "buscado": "2026-11-01",
   "fuente": "busqueda",
   "tipo": null
  },
+ "coleccion/Vladislav-Delay---Rakka": {
+  "id": 398741766,
+  "tipo": "bandcamp"
+ },
  "coleccion/Yan-Cook---XXX-LP": {
   "id": 1801873457,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Yo-La-Tengo---This-Stupid-World": {
+  "id": 2969978165,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Yussef-Kamaal---Black-Focus": {
+  "id": 1841959426,
+  "tipo": "bandcamp"
+ },
+ "coleccion/Zebra-Katz---Less-Is-Moor": {
+  "id": 3587642615,
   "tipo": "bandcamp"
  },
  "posts/A-Song-For-You-_-Home": {

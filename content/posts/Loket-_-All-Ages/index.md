@@ -2,6 +2,8 @@
 title: "Loket - All Ages"
 date: 2024-06-20T22:43:16+02:00
 image: "image.jpeg"
+artist: "Loket"
+album: "All Ages"
 draft: false
 tags:
  - electro
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Loket - All-Ages))
- 
+![cover](image.jpeg (Loket - All Ages))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://loketmusic.bandcamp.com/album/all-ages-ep)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9c80c069-011c-4e3a-8cd6-db737d0fa857)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0ZRgeYcX1AwXGH0LEZGPe3)

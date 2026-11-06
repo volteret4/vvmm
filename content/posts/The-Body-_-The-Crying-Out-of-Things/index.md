@@ -2,6 +2,8 @@
 title: "The Body - The Crying Out of Things"
 date: 2025-01-02T14:53:02+01:00
 image: "image.jpeg"
+artist: "The Body"
+album: "The Crying Out of Things"
 draft: false
 tags:
  - industrial
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (The-Body - The-Crying-Out-of-Things))
- 
+![cover](image.jpeg (The Body - The Crying Out of Things))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3651213)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f57e9e60-d322-48f5-b54b-c343068f6e35)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2fhTQMymeBwdEcjh4pDPc2)

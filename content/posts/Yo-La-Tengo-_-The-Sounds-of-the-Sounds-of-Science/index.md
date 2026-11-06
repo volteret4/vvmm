@@ -2,6 +2,8 @@
 title: "Yo La Tengo - The Sounds of the Sounds of Science"
 date: 2024-06-20T14:25:04+02:00
 image: "image.jpeg"
+artist: "Yo La Tengo"
+album: "The Sounds of the Sounds of Science"
 draft: false
 tags:
  - pop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Yo-La-Tengo - The-Sounds-of-the-Sounds-of-Science))
- 
+![cover](image.jpeg (Yo La Tengo - The Sounds of the Sounds of Science))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1737286)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/a880e2ec-176b-4b65-9883-841886668053)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/27Gh3nRYlEQMqgublKeBPh)

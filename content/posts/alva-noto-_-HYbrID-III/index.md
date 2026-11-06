@@ -1,7 +1,9 @@
 ---
-title: "Alva Noto - HYbrID III"
+title: "alva noto - HYbr:ID III"
 date: 2024-11-23T07:33:01+01:00
 image: "image.jpeg"
+artist: "alva noto"
+album: "HYbr:ID III"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (alva-noto - HYbrID-III))
- 
+![cover](image.jpeg (alva noto - HYbr:ID III))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3536642)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3BY3RJxwqckwpwTBJYP5SU)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

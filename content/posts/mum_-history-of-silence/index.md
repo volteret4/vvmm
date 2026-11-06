@@ -1,5 +1,5 @@
 ---
-title: "Mum- History of Silence"
+title: "Mum - History of Silence"
 date: 2025-10-14T21:33:23+02:00
 image: "image.jpeg"
 draft: false

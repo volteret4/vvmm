@@ -1,7 +1,9 @@
 ---
-title: "M Geddes Gengras - Hawaiki Tapes"
+title: "M. Geddes Gengras - hawaiki tapes"
 date: 2025-01-26T04:55:48+01:00
 image: "image.jpeg"
+artist: "M. Geddes Gengras"
+album: "hawaiki tapes"
 draft: false
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (M-geddes-gengras - hawaiki-tapes))
- 
+![cover](image.jpeg (M. Geddes Gengras - hawaiki tapes))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1640763)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d14bec5b-8dbb-4550-abfc-e5467ca72f3b)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0T3cIsmQPXydLSUMc7fLTk)

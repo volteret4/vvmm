@@ -1,7 +1,9 @@
 ---
-title: "M83 - Dead Cities Red Seas "
+title: "M83 - Dead Cities, Red Seas & Lost Ghosts"
 date: 2024-06-20T22:52:10+02:00
 image: "image.jpeg"
+artist: "M83"
+album: "Dead Cities, Red Seas & Lost Ghosts"
 draft: false
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (M83 - Dead-Cities-Red-Seas-))
- 
+![cover](image.jpeg (M83 - Dead Cities, Red Seas & Lost Ghosts))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://ilovem83.bandcamp.com/album/dead-cities-red-seas-lost-ghosts)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/9370)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/7b5db455-da86-4f7d-a302-3e995b0aec11)

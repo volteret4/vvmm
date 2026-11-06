@@ -1,7 +1,9 @@
 ---
-title: "Terraplana - Olhar Pra Tras"
+title: "terraplana - Olhar Pra Trás"
 date: 2024-06-20T16:23:34+02:00
 image: "image.jpeg"
+artist: "terraplana"
+album: "Olhar Pra Trás"
 draft: false
 tags:
  - shoegaze
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (terraplana - olhar-pra-tras))
- 
+![cover](image.jpeg (terraplana - Olhar Pra Trás))
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/daf1d632-7509-4b61-bad2-9aeb9ccb6b45)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1docUvWidO7gDyUNB2DUOL)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

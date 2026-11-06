@@ -1,5 +1,5 @@
 ---
-title: "Sarah Davachi- The Head as Form D in the Crier S Choir"
+title: "Sarah Davachi - The Head as Form D in the Crier S Choir"
 date: 2025-11-08T19:19:39+01:00
 image: "image.jpeg"
 draft: false

@@ -2,6 +2,8 @@
 title: "Nala Sinephro - Endlessness"
 date: 2025-01-02T14:54:25+01:00
 image: "image.jpeg"
+artist: "Nala Sinephro"
+album: "Endlessness"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nala-Sinephro - Endlessness))
- 
+![cover](image.jpeg (Nala Sinephro - Endlessness))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3590648)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/431d2e9d-580a-452c-b213-67da3ec292ec)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE)

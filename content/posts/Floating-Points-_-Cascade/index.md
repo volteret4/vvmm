@@ -2,6 +2,8 @@
 title: "Floating Points - Cascade"
 date: 2024-12-05T21:44:20+01:00
 image: "image.jpeg"
+artist: "Floating Points"
+album: "Cascade"
 draft: false
 tags:
  - techno
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Floating-Points - Cascade))
- 
+![cover](image.jpeg (Floating Points - Cascade))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3595454)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1cf2ae06-bb5e-4256-af6c-e40d406abba5)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L)

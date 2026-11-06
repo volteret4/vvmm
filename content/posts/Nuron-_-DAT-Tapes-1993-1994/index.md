@@ -1,7 +1,9 @@
 ---
-title: "Nuron - DAT Tapes 1993 1994"
+title: "Nuron - DAT Tapes 1993 - 1994"
 date: 2024-06-16T18:00:37+02:00
 image: "image.jpeg"
+artist: "Nuron"
+album: "DAT Tapes 1993 - 1994"
 draft: false
 tags:
  - idm
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nuron - DAT-Tapes-1993-1994))
- 
+![cover](image.jpeg (Nuron - DAT Tapes 1993 - 1994))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://nuron.bandcamp.com/album/dat-tapes-1993-1994)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2869459)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLDVRfs7ZUX0UvddpcCAQbISar3wXY-FX-)

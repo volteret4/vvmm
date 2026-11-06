@@ -1,7 +1,9 @@
 ---
-title: "The Isley Brothers - 33"
+title: "The Isley Brothers - 3 + 3"
 date: 2025-07-09T16:35:23+02:00
 image: "image.jpeg"
+artist: "The Isley Brothers"
+album: "3 + 3"
 draft: false
 tags:
  - funk
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (The Isley Brothers - 33))
- 
+![cover](image.jpeg (The Isley Brothers - 3 + 3))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2170513)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/The_Isley_Brothers)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLKX_kXylIRgbBU9LaQopO1VbTF-_Kn7X8)

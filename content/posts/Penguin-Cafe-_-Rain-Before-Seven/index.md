@@ -1,7 +1,9 @@
 ---
-title: "Penguin Cafe - Rain Before Seven"
+title: "Penguin Cafe - Rain Before Seven..."
 date: 2024-06-20T23:06:57+02:00
 image: "image.jpeg"
+artist: "Penguin Cafe"
+album: "Rain Before Seven..."
 draft: false
 tags:
  - chamber-music
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Penguin-Cafe - Rain-Before-Seven))
- 
+![cover](image.jpeg (Penguin Cafe - Rain Before Seven...))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3161781)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/6816f258-ba8a-4fa4-8bbb-3859e383d7c5)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4gGmqjw64211B9R3p2ikne)

@@ -1,5 +1,5 @@
 ---
-title: "Surgeon- Shell Wave"
+title: "Surgeon - Shell Wave"
 date: 2026-03-27T20:15:37+01:00
 image: "image.jpeg"
 draft: false

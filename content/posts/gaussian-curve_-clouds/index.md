@@ -1,5 +1,5 @@
 ---
-title: "Gaussian Curve- Clouds"
+title: "Gaussian Curve - Clouds"
 date: 2025-07-10T22:28:17+02:00
 image: "image.jpeg"
 draft: false

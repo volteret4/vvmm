@@ -1,5 +1,5 @@
 ---
-title: "John Maus- We Must Become the Pitiless Censors of Ourselves"
+title: "John Maus - We Must Become the Pitiless Censors of Ourselves"
 date: 2026-03-25T23:42:55+01:00
 image: "image.jpeg"
 draft: false

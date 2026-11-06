@@ -2,6 +2,8 @@
 title: "Oliver Coates - Aftersun"
 date: 2024-06-21T15:01:44+02:00
 image: "image.jpeg"
+artist: "Oliver Coates"
+album: "Aftersun"
 draft: false
 tags:
  - ost
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Oliver-Coates - Aftersun))
- 
+![cover](image.jpeg (Oliver Coates - Aftersun))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2975491)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/559f7415-504f-4520-b78a-ce571d57d520)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4wD76tshsvfxKYizJ7LsGa)

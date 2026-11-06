@@ -1,7 +1,9 @@
 ---
-title: "Ela Minus - DiA"
+title: "Ela Minus - Día"
 date: 2025-01-20T20:52:06+01:00
 image: "image.jpeg"
+artist: "Ela Minus"
+album: "Día"
 draft: true
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Ela-Minus - DiA))
- 
+![cover](image.jpeg (Ela Minus - Día))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=Ela-Minus%20DiA)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3722559)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/be186ecd-ed9e-42e6-826e-931d516a8bf0)

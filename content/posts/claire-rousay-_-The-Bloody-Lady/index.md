@@ -1,7 +1,9 @@
 ---
-title: "Claire Rousay - The Bloody Lady"
+title: "claire rousay - The Bloody Lady"
 date: 2025-01-20T22:08:36+01:00
 image: "image.jpeg"
+artist: "claire rousay"
+album: "The Bloody Lady"
 draft: false
 tags:
  - drone
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (claire-rousay - The-Bloody-Lady))
- 
+![cover](image.jpeg (claire rousay - The Bloody Lady))
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/27aae07f-548e-4ae8-a29f-10ba3c8a6539)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLZmpSK3klBc6CDfabOjkMV5iUVJ4ogflV)

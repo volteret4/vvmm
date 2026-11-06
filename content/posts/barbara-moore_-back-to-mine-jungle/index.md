@@ -1,5 +1,5 @@
 ---
-title: "Barbara Moore- Back to Mine Jungle"
+title: "Barbara Moore - Back to Mine Jungle"
 date: 2025-07-15T22:27:07+02:00
 image: "image.jpeg"
 draft: false

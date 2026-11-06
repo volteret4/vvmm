@@ -2,6 +2,8 @@
 title: "Death and Vanilla - Flicker"
 date: 2024-06-20T18:06:18+02:00
 image: "image.jpeg"
+artist: "Death and Vanilla"
+album: "Flicker"
 draft: false
 tags:
  - dreampop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Death-and-Vanilla - Flicker))
- 
+![cover](image.jpeg (Death and Vanilla - Flicker))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3017504)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/777651d4-c902-441a-8cca-94dcb29270f3)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/42AH0B8JxBoa8d0na8Du70)

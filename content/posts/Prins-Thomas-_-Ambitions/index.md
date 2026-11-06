@@ -2,6 +2,8 @@
 title: "Prins Thomas - Ambitions"
 date: 2024-06-17T12:36:25+02:00
 image: "image.jpeg"
+artist: "Prins Thomas"
+album: "Ambitions"
 draft: false
 tags:
  - house
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Prins-Thomas - Ambitions))
- 
+![cover](image.jpeg (Prins Thomas - Ambitions))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://oyvindmorken.bandcamp.com/track/prins-thomas-ambitions-yvind-morken-remix)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1530765)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/397145c2-b85a-4dec-98f3-44b541cfaa99)

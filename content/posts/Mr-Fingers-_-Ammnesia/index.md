@@ -1,7 +1,9 @@
 ---
-title: "Mr Fingers - Ammnesia"
+title: "Mr. Fingers - Ammnesia"
 date: 2024-06-17T20:14:35+02:00
 image: "image.jpeg"
+artist: "Mr. Fingers"
+album: "Ammnesia"
 draft: false
 tags:
  - house
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Mr-Fingers - Ammnesia))
- 
+![cover](image.jpeg (Mr. Fingers - Ammnesia))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/47878)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3573e120-92ea-48b3-bbc6-c612c868361f)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](None)

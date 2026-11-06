@@ -1,5 +1,5 @@
 ---
-title: "Saint Etienne- International"
+title: "Saint Etienne - International"
 date: 2025-09-13T13:22:56+02:00
 image: "image.jpeg"
 draft: false

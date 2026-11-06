@@ -2,6 +2,8 @@
 title: "Fink - Fresh Produce"
 date: 2024-06-20T19:21:08+02:00
 image: "image.jpeg"
+artist: "Fink"
+album: "Fresh Produce"
 draft: false
 tags:
  - idm
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Fink - Fresh-Produce))
- 
+![cover](image.jpeg (Fink - Fresh Produce))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/50517)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c3b67260-4558-4e12-8111-417acf083619)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Fink)

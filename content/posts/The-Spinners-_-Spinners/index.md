@@ -2,6 +2,8 @@
 title: "The Spinners - Spinners"
 date: 2024-06-20T13:15:15+02:00
 image: "image.jpeg"
+artist: "The Spinners"
+album: "Spinners"
 draft: false
 tags:
  - soul
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (The-Spinners - Spinners))
- 
+![cover](image.jpeg (The Spinners - Spinners))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://buffcatrecords.bandcamp.com/album/the-spinners)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/220115)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/cda576df-8313-423a-9029-9426c6f664f9)

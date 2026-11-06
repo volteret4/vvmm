@@ -1,5 +1,5 @@
 ---
-title: "Al Di Meola- Elegant Gypsy"
+title: "Al Di Meola - Elegant Gypsy"
 date: 2025-11-15T23:25:20+01:00
 image: "image.jpeg"
 draft: false

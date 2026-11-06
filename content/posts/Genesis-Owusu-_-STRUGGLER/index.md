@@ -2,6 +2,8 @@
 title: "Genesis Owusu - STRUGGLER"
 date: 2024-06-20T19:35:56+02:00
 image: "image.jpeg"
+artist: "Genesis Owusu"
+album: "STRUGGLER"
 draft: false
 tags:
  - hiphop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Genesis-Owusu - STRUGGLER))
- 
+![cover](image.jpeg (Genesis Owusu - STRUGGLER))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3208080)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b811f83a-9e21-452f-b9dc-f7af5f7ef485)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf)

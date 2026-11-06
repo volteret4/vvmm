@@ -1,7 +1,9 @@
 ---
-title: "Jamie Xx - In Waves"
+title: "Jamie xx - In Waves"
 date: 2025-01-02T15:18:42+01:00
 image: "image.jpeg"
+artist: "Jamie xx"
+album: "In Waves"
 draft: false
 tags:
  - house
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Jamie-xx - In-Waves))
- 
+![cover](image.jpeg (Jamie xx - In Waves))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3601646)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/baec576d-7546-4ea8-9936-8fdfeb354acc)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLxA687tYuMWinGW8shNk3EQzi3IICNZOO)

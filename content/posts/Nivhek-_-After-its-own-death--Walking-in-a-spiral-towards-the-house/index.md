@@ -1,7 +1,9 @@
 ---
-title: "Nivhek - After Its Own Death  Walking in a Spiral Towards the House"
+title: "Nivhek - After Its Own Death / Walking In A Spiral Towards The House"
 date: 2024-12-06T03:23:57+01:00
 image: "image.jpeg"
+artist: "Nivhek"
+album: "After Its Own Death / Walking In A Spiral Towards The House"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nivhek - After-its-own-death--Walking-in-a-spiral-towards-the-house))
- 
+![cover](image.jpeg (Nivhek - After Its Own Death / Walking In A Spiral Towards The House))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1501254)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Grouper_(musician))

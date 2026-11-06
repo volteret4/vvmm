@@ -1,5 +1,5 @@
 ---
-title: "Holy Fuck- Lp"
+title: "Holy Fuck - Lp"
 date: 2025-11-15T22:01:38+01:00
 image: "image.jpeg"
 draft: false

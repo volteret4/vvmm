@@ -2,6 +2,8 @@
 title: "Bardo Pond - Melt Away"
 date: 2025-01-02T16:42:09+01:00
 image: "image.jpeg"
+artist: "Bardo Pond"
+album: "Melt Away"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Bardo-Pond - Melt-Away))
- 
+![cover](image.jpeg (Bardo Pond - Melt Away))
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9d538a6b-e4e3-4c89-ad57-f20bfa3049ef)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLJLqdOfbdCg__vhXuGomEF054dzkYpDAn)
  

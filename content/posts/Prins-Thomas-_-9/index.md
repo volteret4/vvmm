@@ -2,6 +2,8 @@
 title: "Prins Thomas - 9"
 date: 2024-05-25T02:09:34+02:00
 image: "image.jpeg"
+artist: "Prins Thomas"
+album: "9"
 draft: false
 tags:
  - downtempo
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Prins-Thomas - 9))
- 
+![cover](image.jpeg (Prins Thomas - 9))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://eskimorecordings.bandcamp.com/track/hieroglyphic-being-imaginary-soundscapes-9-prins-thomas-version)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/239479)
 [![lastfm](../links/svg/lastfm.png (lastfm))]()

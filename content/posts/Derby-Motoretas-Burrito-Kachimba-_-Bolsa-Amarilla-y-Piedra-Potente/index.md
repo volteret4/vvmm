@@ -1,7 +1,9 @@
 ---
-title: "Derby Motoretas Burrito Kachimba - Bolsa Amarilla Y Piedra Potente"
+title: "Derby Motoreta's Burrito Kachimba - Bolsa Amarilla y Piedra Potente"
 date: 2025-01-02T14:48:12+01:00
 image: "image.jpeg"
+artist: "Derby Motoreta's Burrito Kachimba"
+album: "Bolsa Amarilla y Piedra Potente"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Derby-Motoretas-Burrito-Kachimba - Bolsa-Amarilla-y-Piedra-Potente))
- 
+![cover](image.jpeg (Derby Motoreta's Burrito Kachimba - Bolsa Amarilla y Piedra Potente))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3452135)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0yquHC6pspQ53P0ZguCxuu)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PL7H187RzaovnfQS9y4xbaeLacsAdk0hVJ)

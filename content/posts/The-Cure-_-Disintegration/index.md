@@ -2,6 +2,8 @@
 title: "The Cure - Disintegration"
 date: 2025-01-26T19:48:22+01:00
 image: "image.jpeg"
+artist: "The Cure"
+album: "Disintegration"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (The-Cure - Disintegration))
- 
+![cover](image.jpeg (The Cure - Disintegration))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=The-Cure%20Disintegration)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/31755)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/0dbcb4d0-6d42-42d6-880f-9e3e02a461a5)

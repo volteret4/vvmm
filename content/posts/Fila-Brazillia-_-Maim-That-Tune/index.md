@@ -2,6 +2,8 @@
 title: "Fila Brazillia - Maim That Tune"
 date: 2024-06-20T19:02:45+02:00
 image: "image.jpeg"
+artist: "Fila Brazillia"
+album: "Maim That Tune"
 draft: false
 tags:
  - downtempo
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Fila-Brazillia - Maim-That-Tune))
- 
+![cover](image.jpeg (Fila Brazillia - Maim That Tune))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/67440)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/da2432b3-0a57-494a-9233-f8c1356681f6)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF)

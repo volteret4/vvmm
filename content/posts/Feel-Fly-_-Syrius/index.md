@@ -2,6 +2,8 @@
 title: "Feel Fly - Syrius"
 date: 2024-05-25T22:34:31+02:00
 image: "image.jpeg"
+artist: "Feel Fly"
+album: "Syrius"
 draft: false
 tags:
  - deep
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Feel-Fly - Syrius))
- 
+![cover](image.jpeg (Feel Fly - Syrius))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://feel-fly.bandcamp.com/album/syrius)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1563426)
 [![lastfm](../links/svg/lastfm.png (lastfm))]()

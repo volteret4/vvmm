@@ -13,7 +13,7 @@
       {{ end }}
     </div>
     <div class="info">
-      <small>escuchado el {{ .Date | time.Format "2 de January de 2006" }}</small>
+      <small>{{ if eq .Section "coleccion" }}en mi colección desde el{{ else }}escuchado el{{ end }} {{ .Date | time.Format "2 de January de 2006" }}</small>
       <h1>{{ $m.album }}</h1>
       <h2>{{ $m.artist }}</h2>
       <p class="tags">{{ range .GetTerms "tags" }}<a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>{{ end }}</p>

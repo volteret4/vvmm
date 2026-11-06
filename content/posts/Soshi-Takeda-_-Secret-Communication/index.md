@@ -2,6 +2,8 @@
 title: "Soshi Takeda - Secret Communication"
 date: 2025-01-02T14:02:25+01:00
 image: "image.jpeg"
+artist: "Soshi Takeda"
+album: "Secret Communication"
 draft: false
 tags:
  - deephouse
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Soshi-Takeda - Secret-Communication))
- 
+![cover](image.jpeg (Soshi Takeda - Secret Communication))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3658899)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/80d2838d-f206-4679-9464-52a38643a31e)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLxn5hjlFRr9vEXcNxaeSKrwfiy2ykW09B)

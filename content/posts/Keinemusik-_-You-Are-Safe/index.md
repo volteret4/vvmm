@@ -2,6 +2,8 @@
 title: "Keinemusik - You Are Safe"
 date: 2024-06-26T17:21:58+02:00
 image: "image.jpeg"
+artist: "Keinemusik"
+album: "You Are Safe"
 draft: false
 tags:
  - deep
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Keinemusik - You-Are-Safe))
- 
+![cover](image.jpeg (Keinemusik - You Are Safe))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://keinemusik.bandcamp.com/album/you-are-safe)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1466278)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/82c29b5d-1ada-43ab-841e-e7b6fe1f1a21)

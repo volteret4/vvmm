@@ -2,6 +2,8 @@
 title: "Brittany Howard - What Now"
 date: 2024-06-20T17:48:01+02:00
 image: "image.jpeg"
+artist: "Brittany Howard"
+album: "What Now"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Brittany-Howard - What-Now))
- 
+![cover](image.jpeg (Brittany Howard - What Now))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3391306)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d5bcce0f-ddbd-436a-94e5-94ca7770e5c3)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2)

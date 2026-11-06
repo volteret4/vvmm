@@ -1,7 +1,9 @@
 ---
-title: "Sinead O Connor - I Do Not Want What I Haven T Got"
+title: "Sinéad O'Connor - I Do Not Want What I Haven't Got"
 date: 2024-06-20T23:20:59+02:00
 image: "image.jpeg"
+artist: "Sinéad O'Connor"
+album: "I Do Not Want What I Haven't Got"
 draft: false
 tags:
  - artpop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Sinead-O-Connor - I-Do-Not-Want-What-I-Haven-t-Got))
- 
+![cover](image.jpeg (Sinéad O'Connor - I Do Not Want What I Haven't Got))
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLI6kLIhBBwmTX2keqOPwLjYRWD-h8eHHL)
  

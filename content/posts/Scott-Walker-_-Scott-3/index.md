@@ -2,6 +2,8 @@
 title: "Scott Walker - Scott 3"
 date: 2024-11-26T20:37:48+01:00
 image: "image.jpeg"
+artist: "Scott Walker"
+album: "Scott 3"
 draft: false
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Scott-Walker - Scott-3))
- 
+![cover](image.jpeg (Scott Walker - Scott 3))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/68196)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLI6kLIhBBwmQLJn9HDtRzM4GY6oCqDyK-)

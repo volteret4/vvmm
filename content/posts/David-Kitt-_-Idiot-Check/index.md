@@ -2,6 +2,8 @@
 title: "David Kitt - Idiot Check"
 date: 2024-06-20T17:55:29+02:00
 image: "image.jpeg"
+artist: "David Kitt"
+album: "Idiot Check"
 draft: false
 tags:
  - folk
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (David-Kitt - Idiot-Check))
- 
+![cover](image.jpeg (David Kitt - Idiot Check))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3113784)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/85edbd8c-f5cc-4e57-ba08-30e917738747)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/3nRGL0zBcvoCRCG2fGj4wB)

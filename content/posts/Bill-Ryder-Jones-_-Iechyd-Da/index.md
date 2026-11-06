@@ -1,7 +1,9 @@
 ---
-title: "Bill Ryder Jones - Iechyd Da"
+title: "Bill Ryder-Jones - Iechyd Da"
 date: 2025-01-02T15:01:26+01:00
 image: "image.jpeg"
+artist: "Bill Ryder-Jones"
+album: "Iechyd Da"
 draft: false
 tags:
  - folk
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Bill-Ryder-Jones - Iechyd-Da))
- 
+![cover](image.jpeg (Bill Ryder-Jones - Iechyd Da))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3364006)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/26a88205-4a0e-4ab2-85ab-b5b716523262)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLvsYXqtYjMYfShFDRe4Gbpa1PFQnHw8WZ)

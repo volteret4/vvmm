@@ -1,5 +1,5 @@
 ---
-title: "The Trammps- Trammps"
+title: "The Trammps - Trammps"
 date: 2026-03-02T17:45:52+01:00
 image: "image.jpeg"
 draft: false

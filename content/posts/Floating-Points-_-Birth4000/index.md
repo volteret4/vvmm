@@ -2,6 +2,8 @@
 title: "Floating Points - Birth4000"
 date: 2024-06-20T13:09:56+02:00
 image: "image.jpeg"
+artist: "Floating Points"
+album: "Birth4000"
 draft: false
 tags:
  - idm
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Floating-Points - Birth4000))
- 
+![cover](image.jpeg (Floating Points - Birth4000))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3295228)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/0879a6e0-d800-47c8-808e-dee78d9a8206)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx)

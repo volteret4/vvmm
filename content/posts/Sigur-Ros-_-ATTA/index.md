@@ -1,7 +1,9 @@
 ---
-title: "Sigur Ros - ATTA"
+title: "Sigur Rós - Átta"
 date: 2024-06-16T18:06:54+02:00
 image: "image.jpeg"
+artist: "Sigur Rós"
+album: "Átta"
 draft: false
 tags:
  - post-rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Sigur-Ros - ATTA))
- 
+![cover](image.jpeg (Sigur Rós - Átta))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3136311)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/aa60ed1b-b7c9-4a36-a273-c4d058a07948)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4QHM0MaR2dPDWIaKhTt7hd)

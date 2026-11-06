@@ -2,6 +2,8 @@
 title: "International Pony - We Love Music"
 date: 2024-06-21T21:35:22+02:00
 image: "image.jpeg"
+artist: "International Pony"
+album: "We Love Music"
 draft: false
 tags:
  - house
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (International-Pony - We-Love-Music))
- 
+![cover](image.jpeg (International Pony - We Love Music))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/37454)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/788fa597-a146-4e9f-b3ab-1ec45bee47ce)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

@@ -2,6 +2,8 @@
 title: "Cristalli Liquidi - Cristalli Liquidi"
 date: 2024-06-25T21:14:38+02:00
 image: "image.jpeg"
+artist: "Cristalli Liquidi"
+album: "Cristalli Liquidi"
 draft: false
 tags:
  - italo-disco
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Cristalli-Liquidi - Cristalli-Liquidi))
- 
+![cover](image.jpeg (Cristalli Liquidi - Cristalli Liquidi))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bottin.bandcamp.com/album/cristalli-liquidi-lp)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1278908)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b33a4a05-0af9-47d2-ada5-7751eefcc406)

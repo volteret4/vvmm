@@ -1,5 +1,5 @@
 ---
-title: "Holy Fuck- Event Beat"
+title: "Holy Fuck - Event Beat"
 date: 2026-03-27T19:46:09+01:00
 image: "image.jpeg"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Keith Jarrett- The Koln Concert"
+title: "Keith Jarrett - The Koln Concert"
 date: 2025-11-08T19:03:05+01:00
 image: "image.jpeg"
 draft: false

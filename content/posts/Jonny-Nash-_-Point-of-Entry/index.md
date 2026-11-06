@@ -2,6 +2,8 @@
 title: "Jonny Nash - Point of Entry"
 date: 2024-06-20T22:17:06+02:00
 image: "image.jpeg"
+artist: "Jonny Nash"
+album: "Point of Entry"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Jonny-Nash - Point-of-Entry))
- 
+![cover](image.jpeg (Jonny Nash - Point of Entry))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3175785)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f95cdd5e-c559-4812-a79b-72b2eea69842)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe)

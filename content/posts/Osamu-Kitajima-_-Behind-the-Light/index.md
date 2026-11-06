@@ -2,6 +2,8 @@
 title: "Osamu Kitajima - Behind the Light"
 date: 2024-11-24T06:06:37+01:00
 image: "image.jpeg"
+artist: "Osamu Kitajima"
+album: "Behind the Light"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Osamu-Kitajima - Behind-the-Light))
- 
+![cover](image.jpeg (Osamu Kitajima - Behind the Light))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/766254)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d83548ac-f548-4ec2-8195-b8fd919ecec4)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1z84fizZIvlXo6a29jo0Lc)

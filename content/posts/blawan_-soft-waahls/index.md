@@ -1,5 +1,5 @@
 ---
-title: "Blawan- Soft Waahls"
+title: "Blawan - Soft Waahls"
 date: 2026-03-26T20:47:28+01:00
 image: "image.jpeg"
 draft: false

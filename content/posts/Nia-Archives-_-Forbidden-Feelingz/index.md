@@ -2,6 +2,8 @@
 title: "Nia Archives - Forbidden Feelingz"
 date: 2024-06-20T12:57:15+02:00
 image: "image.jpeg"
+artist: "Nia Archives"
+album: "Forbidden Feelingz"
 draft: false
 tags:
  - dnb
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nia-Archives - Forbidden-Feelingz))
- 
+![cover](image.jpeg (Nia Archives - Forbidden Feelingz))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2704013)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/90864d7a-e0d6-4181-8bff-c2a2a986adbf)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW)

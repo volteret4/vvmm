@@ -2,6 +2,8 @@
 title: "Fennesz - Endless Summer"
 date: 2025-01-26T17:53:45+01:00
 image: "image.jpeg"
+artist: "Fennesz"
+album: "Endless Summer"
 draft: false
 tags:
  - ambient,
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Fennesz - Endless-Summer))
- 
+![cover](image.jpeg (Fennesz - Endless Summer))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=Fennesz%20Endless-Summer)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/832)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1213358e-3e82-411a-8905-bbea0327a3a9)

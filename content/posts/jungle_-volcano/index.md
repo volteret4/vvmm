@@ -1,5 +1,5 @@
 ---
-title: "Jungle- Volcano"
+title: "Jungle - Volcano"
 date: 2025-11-09T20:56:04+01:00
 image: "image.jpeg"
 draft: false

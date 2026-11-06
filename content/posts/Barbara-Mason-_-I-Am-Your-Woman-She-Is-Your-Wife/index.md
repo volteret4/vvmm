@@ -1,7 +1,9 @@
 ---
-title: "Barbara Mason - I Am Your Woman She Is Your Wife"
+title: "Barbara Mason - I Am Your Woman, She Is Your Wife"
 date: 2024-06-20T17:11:52+02:00
 image: "image.jpeg"
+artist: "Barbara Mason"
+album: "I Am Your Woman, She Is Your Wife"
 draft: false
 tags:
  - soul
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Barbara-Mason - I-Am-Your-Woman-She-Is-Your-Wife))
- 
+![cover](image.jpeg (Barbara Mason - I Am Your Woman, She Is Your Wife))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/157469)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3e16aa91-187e-4602-b0f4-06e820f3ed6b)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2oHEpbMyKRWqLOkmgDnYjc)

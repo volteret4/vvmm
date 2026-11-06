@@ -1,7 +1,9 @@
 ---
-title: "Derby Motoretas Burrito Kachimba - Derby Motoreta S Burrito Kachimba"
+title: "Derby Motoreta's Burrito Kachimba - Derby Motoreta's Burrito Kachimba"
 date: 2024-12-05T23:10:49+01:00
 image: "image.jpeg"
+artist: "Derby Motoreta's Burrito Kachimba"
+album: "Derby Motoreta's Burrito Kachimba"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Derby-Motoretas-Burrito-Kachimba - Derby-Motoreta-s-Burrito-Kachimba))
- 
+![cover](image.jpeg (Derby Motoreta's Burrito Kachimba - Derby Motoreta's Burrito Kachimba))
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PL10AxNNLM0E0FiawkO-NtmmamuRWL1cmS)
  
 <!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))](error) error busqueda -->

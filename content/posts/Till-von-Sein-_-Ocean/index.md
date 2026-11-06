@@ -1,7 +1,9 @@
 ---
-title: "Till Von Sein - Ocean"
+title: "Till von Sein - Ocean"
 date: 2024-07-16T19:37:53+02:00
 image: "image.jpeg"
+artist: "Till von Sein"
+album: "Ocean"
 draft: false
 tags:
  - deep
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Till-von-Sein - Ocean))
- 
+![cover](image.jpeg (Till von Sein - Ocean))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://tillvonsein.bandcamp.com/album/till-von-sein-ocean)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/6QzZhzgkZeIjHkqJN17Par)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

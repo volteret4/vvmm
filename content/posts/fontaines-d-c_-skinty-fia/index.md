@@ -1,5 +1,5 @@
 ---
-title: "Fontaines D C- Skinty Fia"
+title: "Fontaines D C - Skinty Fia"
 date: 2025-07-10T22:19:39+02:00
 image: "image.jpeg"
 draft: false

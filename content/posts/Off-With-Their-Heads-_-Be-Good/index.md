@@ -2,6 +2,8 @@
 title: "Off With Their Heads - Be Good"
 date: 2025-01-07T21:46:41+01:00
 image: "image.jpeg"
+artist: "Off With Their Heads"
+album: "Be Good"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Off-With-Their-Heads - Be-Good))
- 
+![cover](image.jpeg (Off With Their Heads - Be Good))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1590881 )
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/ff69c46d-c071-41a0-9c4b-9c80380b05a6)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2yyLZ1fX8G4MBbtXdRlQm1)

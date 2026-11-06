@@ -2,6 +2,8 @@
 title: "Evian Christ - Revanchist"
 date: 2024-06-20T18:29:33+02:00
 image: "image.jpeg"
+artist: "Evian Christ"
+album: "Revanchist"
 draft: false
 tags:
  - trance
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Evian-Christ - Revanchist))
- 
+![cover](image.jpeg (Evian Christ - Revanchist))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3291598)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e8a52b71-0cd0-4d47-9601-e9c4b478a7fb)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2e5dgajfEhTCWniWQ8ZNHH)

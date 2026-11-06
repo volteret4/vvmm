@@ -1,5 +1,5 @@
 ---
-title: "Sandwell District- End Beginnings"
+title: "Sandwell District - End Beginnings"
 date: 2026-03-28T21:56:12+01:00
 image: "image.jpeg"
 draft: false

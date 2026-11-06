@@ -2,6 +2,8 @@
 title: "John Cale - Mercy"
 date: 2024-06-20T22:26:29+02:00
 image: "image.jpeg"
+artist: "John Cale"
+album: "Mercy"
 draft: false
 tags:
  - artpop
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (John-Cale - Mercy))
- 
+![cover](image.jpeg (John Cale - Mercy))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2946592 )
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/969be629-5208-4d9b-b077-47898e2b30a0)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0)

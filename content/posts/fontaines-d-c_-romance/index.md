@@ -1,5 +1,5 @@
 ---
-title: "Fontaines D C- Romance"
+title: "Fontaines D C - Romance"
 date: 2025-07-10T22:16:59+02:00
 image: "image.jpeg"
 draft: false

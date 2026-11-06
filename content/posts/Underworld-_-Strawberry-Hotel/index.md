@@ -2,6 +2,8 @@
 title: "Underworld - Strawberry Hotel"
 date: 2025-01-02T14:27:02+01:00
 image: "image.jpeg"
+artist: "Underworld"
+album: "Strawberry Hotel"
 draft: false
 tags:
  - techno
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Underworld - Strawberry-Hotel))
- 
+![cover](image.jpeg (Underworld - Strawberry Hotel))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=Underworld%20Strawberry-Hotel)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3635553)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f77c2e64-70d4-4709-be6e-b4eea59d8838)

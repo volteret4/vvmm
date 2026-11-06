@@ -1,5 +1,5 @@
 ---
-title: "Nicolas Jaar- Piedras 2"
+title: "Nicolas Jaar - Piedras 2"
 date: 2025-11-15T16:54:44+01:00
 image: "image.jpeg"
 draft: false

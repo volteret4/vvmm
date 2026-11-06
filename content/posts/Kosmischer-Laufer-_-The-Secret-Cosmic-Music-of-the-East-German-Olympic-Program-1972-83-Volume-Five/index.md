@@ -1,7 +1,9 @@
 ---
-title: "Kosmischer Laufer - The Secret Cosmic Music of the East German Olympic Program 1972 83 Volume Five"
+title: "Kosmischer Läufer - The Secret Cosmic Music Of The East German Olympic Program 1972-83 - Volume Five"
 date: 2024-06-20T22:38:27+02:00
 image: "image.jpeg"
+artist: "Kosmischer Läufer"
+album: "The Secret Cosmic Music Of The East German Olympic Program 1972-83 - Volume Five"
 draft: false
 tags:
  - krautrock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Kosmischer-Laufer - The-Secret-Cosmic-Music-of-the-East-German-Olympic-Program-1972-83-Volume-Five))
- 
+![cover](image.jpeg (Kosmischer Läufer - The Secret Cosmic Music Of The East German Olympic Program 1972-83 - Volume Five))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2983184)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/2e628bbe-a997-418c-ac55-5d71d11d2b74)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

@@ -1,7 +1,9 @@
 ---
-title: "Various - Claremont 56 Editions Vol 4"
+title: "Various - Claremont 56 Editions Vol. 4"
 date: 2024-07-09T20:53:02+02:00
 image: "image.jpeg"
+artist: "Various"
+album: "Claremont 56 Editions Vol. 4"
 draft: false
 tags:
  - balearic
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (various - Claremont-56-Editions-Vol-4))
- 
+![cover](image.jpeg (Various - Claremont 56 Editions Vol. 4))
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/4hJy1IT2T9cALh1aFNMP2e)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Various)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=OLAK5uy_npg1U4ouw6x3Mi0yjbE8ktSldX_nmJqCM)

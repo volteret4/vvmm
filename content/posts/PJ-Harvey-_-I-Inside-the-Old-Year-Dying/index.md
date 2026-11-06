@@ -2,6 +2,8 @@
 title: "PJ Harvey - I Inside the Old Year Dying"
 date: 2024-06-20T22:59:29+02:00
 image: "image.jpeg"
+artist: "PJ Harvey"
+album: "I Inside the Old Year Dying"
 draft: false
 tags:
  - art-rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (PJ-Harvey - I-Inside-the-Old-Year-Dying))
- 
+![cover](image.jpeg (PJ Harvey - I Inside the Old Year Dying))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3159660)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5daaed98-21a3-4bed-9674-c3df2954be72)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc)

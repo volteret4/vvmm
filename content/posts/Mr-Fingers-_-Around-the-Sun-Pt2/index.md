@@ -1,7 +1,9 @@
 ---
-title: "Mr Fingers - Around the Sun Pt2"
+title: "Mr. Fingers - Around The Sun Pt.2"
 date: 2024-06-16T15:38:27+02:00
 image: "image.jpeg"
+artist: "Mr. Fingers"
+album: "Around The Sun Pt.2"
 draft: false
 tags:
  - idm
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Mr-Fingers - Around-the-Sun-Pt2))
- 
+![cover](image.jpeg (Mr. Fingers - Around The Sun Pt.2))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))]()
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3123855)
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mr.+Fingers/Around+The+Sun+pt.2)

@@ -1,5 +1,5 @@
 ---
-title: "Ceephax Acid Crew- Slam Zone"
+title: "Ceephax Acid Crew - Slam Zone"
 date: 2025-07-31T00:19:46+02:00
 image: "image.jpeg"
 draft: false

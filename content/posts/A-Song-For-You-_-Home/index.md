@@ -1,7 +1,9 @@
 ---
-title: "A Song for You - Home"
+title: "A Song For You - Home"
 date: 2024-06-25T21:46:19+02:00
 image: "image.jpeg"
+artist: "A Song For You"
+album: "Home"
 draft: false
 tags:
  - soul
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (A-Song-For-You - Home))
- 
+![cover](image.jpeg (A Song For You - Home))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/186507)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e56cc007-b07e-4e4f-b633-8aa9c96454b2)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1crP14aLZznqwRsMsydZNN)

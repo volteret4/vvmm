@@ -2,6 +2,8 @@
 title: "Svaneborg Kardyb - Over Tage"
 date: 2024-06-20T13:03:57+02:00
 image: "image.jpeg"
+artist: "Svaneborg Kardyb"
+album: "Over Tage"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Svaneborg-Kardyb - Over-Tage))
- 
+![cover](image.jpeg (Svaneborg Kardyb - Over Tage))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2857264)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f55d89fb-bc0d-4d89-a222-895f386bf9a8)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/44pjaIp79cn38UjiGts0Cb)

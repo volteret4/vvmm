@@ -1,7 +1,9 @@
 ---
-title: "Beverly Glenn Copeland - The Ones Ahead"
+title: "Beverly Glenn-Copeland - The Ones Ahead"
 date: 2024-06-20T17:15:22+02:00
 image: "image.jpeg"
+artist: "Beverly Glenn-Copeland"
+album: "The Ones Ahead"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Beverly-Glenn-Copeland - The-Ones-Ahead))
- 
+![cover](image.jpeg (Beverly Glenn-Copeland - The Ones Ahead))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3182424)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5ac01bd4-155d-4228-88ce-3dc1260bf751)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/0AdkBNWEM8uprSOb2ah8aD)

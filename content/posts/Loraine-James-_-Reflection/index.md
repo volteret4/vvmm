@@ -2,6 +2,8 @@
 title: "Loraine James - Reflection"
 date: 2024-06-17T15:01:03+02:00
 image: "image.jpeg"
+artist: "Loraine James"
+album: "Reflection"
 draft: false
 tags:
  - idm
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Loraine-James - Reflection))
- 
+![cover](image.jpeg (Loraine James - Reflection))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2188930)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/96382bcc-e7f1-4e16-a891-cfc0a290cfd2)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/1NBpmmlaCy8gnTWBg7reKr)

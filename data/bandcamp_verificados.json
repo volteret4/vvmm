@@ -1,10 +1,416 @@
 {
+ "coleccion/Acid-Coco---Mucho-Gusto": {
+  "album": "Mucho Gusto",
+  "artista": "Acid Coco",
+  "id": 3498149914,
+  "ok": true,
+  "pistas": 10
+ },
+ "coleccion/Amulets---Blooming": {
+  "album": "Blooming",
+  "artista": "AMULETS",
+  "id": 3715131426,
+  "ok": true,
+  "pistas": 8
+ },
+ "coleccion/Aphex-Twin---I-Care-Because-You-Do": {
+  "album": "...I Care Because You Do",
+  "artista": "Aphex Twin",
+  "id": 3671945923,
+  "ok": true,
+  "pistas": 12
+ },
+ "coleccion/Aphex-Twin---Selected-Ambient-Works-85-92": {
+  "album": "Selected Ambient Works 85-92",
+  "artista": "Aphex Twin",
+  "id": 1881652386,
+  "ok": true,
+  "pistas": 13
+ },
+ "coleccion/Aquiles-Navarro-Tcheser-Holmes---Heritage-Of-The-Invisible-II": {
+  "album": "Heritage of the Invisible II",
+  "artista": "Aquiles Navarro & Tcheser Holmes",
+  "id": 3362165413,
+  "ok": true,
+  "pistas": 10
+ },
+ "coleccion/Bardo-Pond---Amanita": {
+  "album": "Amanita (Deluxe Edition)",
+  "artista": "Bardo Pond",
+  "id": 1519643203,
+  "ok": true,
+  "pistas": 2
+ },
+ "coleccion/Chet-Baker---Chet": {
+  "album": "Chet Baker",
+  "artista": "Calomine",
+  "id": 202511991,
+  "ok": false,
+  "pistas": 10
+ },
+ "coleccion/Daft-Punk---Random-Access-Memories": {
+  "album": "Random Access Memories",
+  "artista": "Franz Kirmann",
+  "id": 2541844925,
+  "ok": false,
+  "pistas": 11
+ },
+ "coleccion/Daniel-Avery---Ultra-Truth": {
+  "album": "Ultra Truth",
+  "artista": "Daniel Avery",
+  "id": 3177667306,
+  "ok": true,
+  "pistas": 15
+ },
+ "coleccion/Diskret---Diskret": {
+  "album": "Diskret",
+  "artista": "Diskret",
+  "id": 2112764698,
+  "ok": true,
+  "pistas": 4
+ },
+ "coleccion/Dos-Santos---Logos": {
+  "album": "Logos",
+  "artista": "Dos Santos",
+  "id": 544986837,
+  "ok": true,
+  "pistas": 11
+ },
+ "coleccion/Fennesz---Agora": {
+  "album": "Agora",
+  "artista": "Fennesz",
+  "id": 239480068,
+  "ok": true,
+  "pistas": 3
+ },
+ "coleccion/Floating-Points-Pharoah-Sanders-The-London-Symphony-Orchestra---Promises": {
+  "album": "Promises",
+  "artista": "Floating Points, Pharoah Sanders & The London Symphony Orchestra",
+  "id": 3149089081,
+  "ok": true,
+  "pistas": 9
+ },
+ "coleccion/Gaussian-Curve---Clouds": {
+  "album": "Clouds Sample Pack 001",
+  "artista": "Clouds",
+  "id": 2700158197,
+  "ok": false,
+  "pistas": 6
+ },
+ "coleccion/Gaussian-Curve---The-Distance": {
+  "album": "The Distance",
+  "artista": "The Begging Sea",
+  "id": 864375685,
+  "ok": false,
+  "pistas": 11
+ },
+ "coleccion/Gábor-Szabó---Dreams": {
+  "album": "Dreams",
+  "artista": "State Azure",
+  "id": 1345112098,
+  "ok": false,
+  "pistas": 10
+ },
+ "coleccion/Hollie-Kenniff---The-Quiet-Drift": {
+  "album": "The Quiet Drift",
+  "artista": "Hollie Kenniff",
+  "id": 4158818092,
+  "ok": true,
+  "pistas": 10
+ },
+ "coleccion/ISAN---Beautronics": {
+  "album": "Beautronics",
+  "artista": "Isan",
+  "id": 3489814883,
+  "ok": true,
+  "pistas": 9
+ },
+ "coleccion/Jon-Hassell---Listening-To-Pictures-Pentimento-Volume-One": {
+  "album": "Listening To Pictures (Pentimento Volume One)",
+  "artista": "Jon Hassell",
+  "id": 3271631258,
+  "ok": true,
+  "pistas": 8
+ },
+ "coleccion/Jon-Hassell---Seeing-Through-Sound-Pentimento-Volume-Two": {
+  "album": "Seeing Through Sound (Pentimento Volume Two)",
+  "artista": "Jon Hassell",
+  "id": 961232104,
+  "ok": true,
+  "pistas": 8
+ },
+ "coleccion/Jonny-Nash---Make-A-Wilderness": {
+  "album": "Make A Wilderness",
+  "artista": "Jonny Nash",
+  "id": 2551398741,
+  "ok": true,
+  "pistas": 8
+ },
+ "coleccion/Jonny-Nash---Point-Of-Entry": {
+  "album": "Point Of Entry",
+  "artista": "Jonny Nash",
+  "id": 3848278059,
+  "ok": true,
+  "pistas": 11
+ },
+ "coleccion/Jungle---Volcano": {
+  "album": "Volcano",
+  "artista": "Jungle",
+  "id": 3448924291,
+  "ok": true,
+  "pistas": 14
+ },
+ "coleccion/Khruangbin---The-Universe-Smiles-Upon-You": {
+  "album": "The Universe Smiles Upon You",
+  "artista": "Khruangbin",
+  "id": 2506726218,
+  "ok": true,
+  "pistas": 10
+ },
+ "coleccion/Khruangbin-Leon-Bridges---Texas-Moon": {
+  "album": "Texas Moon",
+  "artista": "Khruangbin",
+  "id": 3372930174,
+  "ok": true,
+  "pistas": 5
+ },
+ "coleccion/Lanowa---Seven-Seas": {
+  "album": "Lanowa - Seven Seas",
+  "artista": "Citizens Of Vice",
+  "id": 3975935104,
+  "ok": true,
+  "pistas": 4
+ },
+ "coleccion/Luigi-Tozzi---Tender-Is-The-Night": {
+  "album": "Tender Is The Night",
+  "artista": "Luigi Tozzi",
+  "id": 877862053,
+  "ok": true,
+  "pistas": 4
+ },
+ "coleccion/Massive-Attack---Mezzanine": {
+  "album": "Mezzanine",
+  "artista": "Adelyn Rose",
+  "id": 3139597666,
+  "ok": false,
+  "pistas": 11
+ },
+ "coleccion/Metro-Area---Metro-Area": {
+  "album": "Metro Area (15th Anniversary Edition)",
+  "artista": "Metro Area",
+  "id": 1172643605,
+  "ok": true,
+  "pistas": 12
+ },
+ "coleccion/Miles-Davis---Tutu": {
+  "album": "TuTu Duo 智斗",
+  "artista": "laodan dengboyu",
+  "id": 1741692674,
+  "ok": false,
+  "pistas": 6
+ },
+ "coleccion/Mirlaqi---Beyond-The-Sea-Of-Sand": {
+  "album": "Beyond the Sea of Sand",
+  "artista": "Mirlaqi",
+  "id": 639416020,
+  "ok": true,
+  "pistas": 3
+ },
+ "coleccion/Mogwai---As-The-Love-Continues": {
+  "album": "As The Love Continues",
+  "artista": "Mogwai",
+  "id": 3793168922,
+  "ok": true,
+  "pistas": 11
+ },
+ "coleccion/Mogwai---The-Bad-Fire": {
+  "album": "The Bad Fire",
+  "artista": "Mogwai",
+  "id": 3160421753,
+  "ok": true,
+  "pistas": 10
+ },
+ "coleccion/Mogwai---Young-Team": {
+  "album": "Young Team",
+  "artista": "Young Team",
+  "id": 2837246171,
+  "ok": false,
+  "pistas": 5
+ },
+ "coleccion/My-Bloody-Valentine---Loveless": {
+  "album": "loveless shadows [ep]",
+  "artista": "City Girl",
+  "id": 3995596396,
+  "ok": false,
+  "pistas": 8
+ },
+ "coleccion/Nils-Frahm---All-Melody": {
+  "album": "All Melody",
+  "artista": "Nils Frahm",
+  "id": 3467926826,
+  "ok": true,
+  "pistas": 12
+ },
+ "coleccion/Osibisa---Woyaya": {
+  "album": "Woyaya",
+  "artista": "Anaïs Mitchell and Kate Stables",
+  "id": 1545259142,
+  "ok": false,
+  "pistas": 3
+ },
+ "coleccion/Perc---Fire-In-Negative": {
+  "album": "Fire In Negative",
+  "artista": "Perc",
+  "id": 1818927594,
+  "ok": true,
+  "pistas": 4
+ },
+ "coleccion/Pink-Floyd---The-Dark-Side-Of-The-Moon": {
+  "album": "The Dark Side of the Moon",
+  "artista": "Ricsárdgír",
+  "id": 4136992360,
+  "ok": false,
+  "pistas": 12
+ },
+ "coleccion/Sciahri---Seyl": {
+  "album": "Seyl. NVR04",
+  "artista": "Sciahri",
+  "id": 3239639286,
+  "ok": true,
+  "pistas": 6
+ },
+ "coleccion/Sciahri-Desroi---In-Mirrors": {
+  "album": "In Mirrors. SEMANTICA 129",
+  "artista": "Sciahri & Desroi",
+  "id": 1735949902,
+  "ok": true,
+  "pistas": 5
+ },
+ "coleccion/Sigur-Rós---Átta": {
+  "album": "ÁTTA",
+  "artista": "Sigur Rós",
+  "id": 1617634061,
+  "ok": true,
+  "pistas": 10
+ },
+ "coleccion/Special-Touch---Garden-Of-Life": {
+  "album": "Garden of Life",
+  "artista": "YUNEA",
+  "id": 760633385,
+  "ok": false,
+  "pistas": 11
+ },
+ "coleccion/Suso-Saiz---Nothing-Is-Objective": {
+  "album": "Nothing Is Objective",
+  "artista": "Suso Saiz",
+  "id": 3672984810,
+  "ok": true,
+  "pistas": 20
+ },
+ "coleccion/Tangerine-Dream---Phaedra": {
+  "album": "Phaedra Farewell Tour 2014",
+  "artista": "Tangerine Dream",
+  "id": 3055212633,
+  "ok": true,
+  "pistas": 27
+ },
+ "coleccion/Tangerine-Dream---Stratosfear": {
+  "album": "Stratosfear",
+  "artista": "KoxBox",
+  "id": 3815394446,
+  "ok": false,
+  "pistas": 3
+ },
+ "coleccion/Tangerine-Dream---Zeit": {
+  "album": "Zeit",
+  "artista": "Zeit",
+  "id": 1477857625,
+  "ok": false,
+  "pistas": 11
+ },
+ "coleccion/The-Doors---The-Doors": {
+  "album": "The Doors of Perception",
+  "artista": "Madcat",
+  "id": 3199923585,
+  "ok": false,
+  "pistas": 4
+ },
+ "coleccion/The-Soft-Moon---Exister": {
+  "album": "Exister (Instrumentals)",
+  "artista": "The Soft Moon",
+  "id": 61966160,
+  "ok": true,
+  "pistas": 9
+ },
+ "coleccion/The-Vendetta-Suite---The-Kempe-Stone-Portal": {
+  "album": "The Kempe Stone Portal Remixes",
+  "artista": "The Vendetta Suite",
+  "id": 2418613374,
+  "ok": true,
+  "pistas": 3
+ },
+ "coleccion/The-Zenmenn---Enter-The-Zenmenn": {
+  "album": "Enter The Zenmenn",
+  "artista": "The Zenmenn",
+  "id": 1477325246,
+  "ok": true,
+  "pistas": 7
+ },
+ "coleccion/Triana---Hijos-Del-Agobio": {
+  "album": "Hijos del Agobio",
+  "artista": "Volden",
+  "id": 2763377315,
+  "ok": false,
+  "pistas": 6
+ },
+ "coleccion/Tyler-The-Creator---Igor": {
+  "album": "igor remixes",
+  "artista": "pandi",
+  "id": 2086746729,
+  "ok": false,
+  "pistas": 2
+ },
+ "coleccion/Vladislav-Delay---Rakka": {
+  "album": "Rakka",
+  "artista": "vladislav delay",
+  "id": 398741766,
+  "ok": true,
+  "pistas": 1
+ },
+ "coleccion/Weather-Report---Black-Market": {
+  "album": "Black Market & The Beach Boys",
+  "artista": "Black Market Dub",
+  "id": 2726314531,
+  "ok": false,
+  "pistas": 6
+ },
  "coleccion/Yan-Cook---XXX-LP": {
   "album": "XXX LP",
   "artista": "Yan Cook",
   "id": 1801873457,
   "ok": true,
   "pistas": 10
+ },
+ "coleccion/Yo-La-Tengo---This-Stupid-World": {
+  "album": "This Stupid World",
+  "artista": "Yo La Tengo",
+  "id": 2969978165,
+  "ok": true,
+  "pistas": 3
+ },
+ "coleccion/Yussef-Kamaal---Black-Focus": {
+  "album": "Black Focus",
+  "artista": "Yussef Kamaal",
+  "id": 1841959426,
+  "ok": true,
+  "pistas": 5
+ },
+ "coleccion/Zebra-Katz---Less-Is-Moor": {
+  "album": "LESS IS MOOR",
+  "artista": "ZEBRA KATZ",
+  "id": 3587642615,
+  "ok": true,
+  "pistas": 15
  },
  "posts/AceMo-_-Save-the-World": {
   "album": "Save The World",

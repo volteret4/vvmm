@@ -2,6 +2,8 @@
 title: "Gigi Masin - Dolphin"
 date: 2024-06-20T19:41:30+02:00
 image: "image.jpeg"
+artist: "Gigi Masin"
+album: "Dolphin"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Gigi-Masin - Dolphin))
- 
+![cover](image.jpeg (Gigi Masin - Dolphin))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3136266)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d43f90d8-93f1-4bb9-a541-964518cca9cd)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

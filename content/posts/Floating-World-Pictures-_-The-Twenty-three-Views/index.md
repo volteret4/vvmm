@@ -1,7 +1,9 @@
 ---
-title: "Floating World Pictures - The Twenty Three Views"
+title: "Floating World Pictures - The Twenty-three Views"
 date: 2024-06-20T13:07:42+02:00
 image: "image.jpeg"
+artist: "Floating World Pictures"
+album: "The Twenty-three Views"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Floating-World-Pictures - The-Twenty-three-Views))
- 
+![cover](image.jpeg (Floating World Pictures - The Twenty-three Views))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2917729)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/377989a1-180b-4636-90d3-1503e73aad66)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/22Y3i0MAp9qAcmEoQSkxHh)

@@ -2,6 +2,8 @@
 title: "Sofia Kourtesis - Madres"
 date: 2025-01-20T20:47:27+01:00
 image: "image.jpeg"
+artist: "Sofia Kourtesis"
+album: "Madres"
 draft: false
 tags:
  - techno
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Sofia-Kourtesis - Madres))
- 
+![cover](image.jpeg (Sofia Kourtesis - Madres))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=Sofia-Kourtesis%20Madres)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3291265)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/8c6c6e27-ef04-4d77-ac39-66dcbb573248)

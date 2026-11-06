@@ -2,6 +2,8 @@
 title: "FACS - Still Life in Decay"
 date: 2024-06-20T19:00:52+02:00
 image: "image.jpeg"
+artist: "FACS"
+album: "Still Life in Decay"
 draft: false
 tags:
  - rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (FACS - Still-Life-in-Decay))
- 
+![cover](image.jpeg (FACS - Still Life in Decay))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://wearefacs.bandcamp.com/album/still-life-in-decay)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3046859)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5a2941b2-15e6-49c5-b9cc-86bd2736b5da)

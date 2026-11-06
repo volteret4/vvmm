@@ -2,6 +2,8 @@
 title: "Khruangbin - A LA SALA"
 date: 2024-06-16T15:50:08+02:00
 image: "image.jpeg"
+artist: "Khruangbin"
+album: "A LA SALA"
 draft: false
 tags:
  - soul
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Khruangbin - A-LA-SALA))
- 
+![cover](image.jpeg (Khruangbin - A LA SALA))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://khruangbin.bandcamp.com/album/a-la-sala)
 [![discogs](../links/svg/discogs.png (discogs))]()
 [![lastfm](../links/svg/lastfm.png (lastfm))]()

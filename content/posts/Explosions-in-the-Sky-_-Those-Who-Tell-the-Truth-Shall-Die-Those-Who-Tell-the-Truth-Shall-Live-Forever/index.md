@@ -1,7 +1,9 @@
 ---
-title: "Explosions in the Sky - Those Who Tell the Truth Shall Die Those Who Tell the Truth Shall Live Forever"
+title: "Explosions in the Sky - Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever"
 date: 2024-06-20T18:59:54+02:00
 image: "image.jpeg"
+artist: "Explosions in the Sky"
+album: "Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever"
 draft: false
 tags:
  - post-rock
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Explosions-in-the-Sky - Those-Who-Tell-the-Truth-Shall-Die-Those-Who-Tell-the-Truth-Shall-Live-Forever))
- 
+![cover](image.jpeg (Explosions in the Sky - Those Who Tell The Truth Shall Die, Those Who Tell The Truth Shall Live Forever))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/4178)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/cc3d876f-a855-4152-85c9-dc2a4b8e3684)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2TmYd2YYLJ5dpKiL4pEqkD)

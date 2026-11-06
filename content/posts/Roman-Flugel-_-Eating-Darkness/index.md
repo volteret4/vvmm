@@ -1,7 +1,9 @@
 ---
-title: "Roman Flugel - Eating Darkness"
+title: "Roman Flügel - Eating Darkness"
 date: 2024-06-20T12:50:02+02:00
 image: "image.jpeg"
+artist: "Roman Flügel"
+album: "Eating Darkness"
 draft: false
 tags:
  - idm
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Roman-Flugel - Eating-Darkness))
- 
+![cover](image.jpeg (Roman Flügel - Eating Darkness))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2134222)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/890017b5-807e-4be0-a527-c9ecff94ec23)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/34yHPIYA4aNxsaDjzwG7zW)

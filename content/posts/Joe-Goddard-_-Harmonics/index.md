@@ -2,6 +2,8 @@
 title: "Joe Goddard - Harmonics"
 date: 2024-07-12T17:12:55+02:00
 image: "image.jpeg"
+artist: "Joe Goddard"
+album: "Harmonics"
 draft: false
 tags:
  - house
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Joe-Goddard - Harmonics))
- 
+![cover](image.jpeg (Joe Goddard - Harmonics))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3540739)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1079f93d-b020-4bfb-b44d-1d5f94884936)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00)

@@ -2,6 +2,8 @@
 title: "Shabaka - Perceive Its Beauty Acknowledge Its Grace"
 date: 2025-01-02T13:59:11+01:00
 image: "image.jpeg"
+artist: "Shabaka"
+album: "Perceive Its Beauty Acknowledge Its Grace"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Shabaka - Perceive-Its-Beauty-Acknowledge-Its-Grace))
- 
+![cover](image.jpeg (Shabaka - Perceive Its Beauty Acknowledge Its Grace))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3454571)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b881081c-5310-413a-bd8b-886934674a74)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLxqWirblRp-oCSWCqWNR9R_bHt7afPefb)

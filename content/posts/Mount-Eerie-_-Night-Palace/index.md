@@ -2,6 +2,8 @@
 title: "Mount Eerie - Night Palace"
 date: 2025-01-02T17:01:08+01:00
 image: "image.jpeg"
+artist: "Mount Eerie"
+album: "Night Palace"
 draft: false
 tags:
  - folk
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Mount-Eerie - Night-Palace))
- 
+![cover](image.jpeg (Mount Eerie - Night Palace))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3645021)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d71fd182-d6a0-4746-91da-f284e51d0fb7)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLvsYXqtYjMYej0ZWZCZQWIo5W9B7KnW-l)

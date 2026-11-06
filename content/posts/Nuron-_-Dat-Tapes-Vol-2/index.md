@@ -1,7 +1,9 @@
 ---
-title: "Nuron - Dat Tapes Vol 2"
+title: "Nuron - DAT Tapes Vol. 2"
 date: 2024-11-26T20:01:12+01:00
 image: "image.jpeg"
+artist: "Nuron"
+album: "DAT Tapes Vol. 2"
 draft: false
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nuron - Dat-Tapes-Vol-2))
- 
+![cover](image.jpeg (Nuron - DAT Tapes Vol. 2))
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLSOoOQUnwQesKt0IT5Csj4BWKXqyvVx1k)
  
 <!-- [![bandcamp](../links/svg/bandcamp.png (bandcamp))](error) error busqueda -->

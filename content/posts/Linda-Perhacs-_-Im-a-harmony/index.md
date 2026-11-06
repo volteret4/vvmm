@@ -1,7 +1,9 @@
 ---
-title: "Linda Perhacs - Im a Harmony"
+title: "Linda Perhacs - I'm A Harmony"
 date: 2024-11-23T06:09:47+01:00
 image: "image.jpeg"
+artist: "Linda Perhacs"
+album: "I'm A Harmony"
 draft: false
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Linda-Perhacs - Im-a-harmony))
- 
+![cover](image.jpeg (Linda Perhacs - I'm A Harmony))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/1351678)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/2owGUiIJ6d33gmPLQraykA)
 [![wikipedia](../links/svg/wikipedia.png (wikipedia))](error)

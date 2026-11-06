@@ -1,5 +1,5 @@
 ---
-title: "Fennesz- Becs"
+title: "Fennesz - Becs"
 date: 2025-07-15T21:45:55+02:00
 image: "image.jpeg"
 draft: false

@@ -2,6 +2,8 @@
 title: "Lalo Schifrin - Black Widow"
 date: 2025-01-20T17:10:27+01:00
 image: "image.jpeg"
+artist: "Lalo Schifrin"
+album: "Black Widow"
 draft: false
 tags:
  - jazz
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Lalo-Schifrin - Black-Widow))
- 
+![cover](image.jpeg (Lalo Schifrin - Black Widow))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/67650)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f07c594e-6e5b-46ed-bfeb-9082f7b7f578)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PLCX_SlmERpROJgBYaSsqOu6f6Yf8_Sc3b)

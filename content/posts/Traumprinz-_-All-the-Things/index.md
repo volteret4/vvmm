@@ -2,6 +2,8 @@
 title: "Traumprinz - All the Things"
 date: 2024-11-26T19:48:07+01:00
 image: "image.jpeg"
+artist: "Traumprinz"
+album: "All the Things"
 draft: false
 tags:
  #- tagA
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Traumprinz - All-the-Things))
- 
+![cover](image.jpeg (Traumprinz - All the Things))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/723952)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f30f17d6-13ea-4dbe-968d-270139b19942)
 [![youtube](../links/svg/youtube.png (youtube))](https://www.youtube.com/playlist?list=PL6Hrbe9bwu6_JKyTKvWHmq8t7_yDbnP0h)

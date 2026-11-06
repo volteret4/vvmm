@@ -1,4 +1,117 @@
 {
+ "coleccion/Adele---Live-At-The-Royal-Albert-Hall": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/74050265053328",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/74050265053328.html",
+  "grapa_n": 93
+ },
+ "coleccion/Afrika-Bambaataa---Just-Get-Up-And-Dance": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/7323874234463",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/7323874234463.html",
+  "grapa_n": 5
+ },
+ "coleccion/Alva-Noto---Xerrox-Vol-4": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/164734525545886",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/164734525545886.html",
+  "grapa_n": 2
+ },
+ "coleccion/Aphex-Twin---I-Care-Because-You-Do": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/184926421333499",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/195153634583913",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/184926421333499.html",
+  "grapa_n": 26
+ },
+ "coleccion/Aphex-Twin---Richard-D-James-Album": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/184926421333499",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/115101844518177",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/184926421333499.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/184926421333499.html#d115101844518177",
+  "grapa_disco_n": 6,
+  "grapa_n": 26
+ },
+ "coleccion/Aphex-Twin---Selected-Ambient-Works-85-92": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/184926421333499",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/33130898297762",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/184926421333499.html",
+  "grapa_n": 26
+ },
+ "coleccion/Bardo-Pond---Amanita": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/105473458203754",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/216418126636349",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/105473458203754.html",
+  "grapa_n": 7
+ },
+ "coleccion/Beastie-Boys---Paul-s-Boutique": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/41292547107430",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/192402342262437",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/41292547107430.html",
+  "grapa_n": 47
+ },
+ "coleccion/Bette-Midler---Quieres-Bailar-Superstar": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/93270761908213",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/93270761908213.html",
+  "grapa_n": 3
+ },
+ "coleccion/Camarón---La-Leyenda-Del-Tiempo": {
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/137052293205760"
+ },
+ "coleccion/Carpenters---Voice-Of-The-Heart": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/35992563704062",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/35992563704062.html",
+  "grapa_n": 5
+ },
+ "coleccion/Chaka-Khan---Chaka": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/198755539793088"
+ },
+ "coleccion/Chet-Baker---Chet": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/196914322842589",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/196914322842589.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/196914322842589.html#d162521531174140",
+  "grapa_disco_n": 4,
+  "grapa_n": 5
+ },
+ "coleccion/Chet-Baker---Chet-Baker-Sings": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/196914322842589",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/90338030040085",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/196914322842589.html",
+  "grapa_n": 5
+ },
+ "coleccion/Daft-Punk---Random-Access-Memories": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/97146718490072",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/170273329538222",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/97146718490072.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/97146718490072.html#d170273329538222",
+  "grapa_disco_n": 28,
+  "grapa_n": 28
+ },
+ "coleccion/Daniel-Avery---Ultra-Truth": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/101089089355212",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/190432364695083",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/101089089355212.html",
+  "grapa_n": 28
+ },
+ "coleccion/Depeche-Mode---Songs-Of-Faith-And-Devotion": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/211118108990164",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/95568083056112",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/211118108990164.html",
+  "grapa_n": 18
+ },
+ "coleccion/Dolly-Parton---9-To-5": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/25068057193424",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/25068057193424.html",
+  "grapa_n": 79
+ },
+ "coleccion/Donna-Summer---A-Love-Trilogy": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/160691614417378",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/145614108248021",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/160691614417378.html",
+  "grapa_n": 7
+ },
+ "coleccion/Donna-Summer---Bad-Girls": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/160691614417378",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/248495417555175",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/160691614417378.html",
+  "grapa_n": 7
+ },
  "coleccion/Donna-Summer---Once-Upon-A-Time-Erase-Una-Vez": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/160691614417378",
   "grapa_artista": "https://volteret4.github.io/grapa/artista/160691614417378.html",
@@ -7,13 +120,320 @@
  "coleccion/Donny-Hathaway---Live": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/35351590929729"
  },
+ "coleccion/Elton-John---Sleeping-With-The-Past": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/71021646329283",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/71021646329283.html",
+  "grapa_n": 69
+ },
+ "coleccion/Extremoduro---Canciones-Prohibidas": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/249538461450286"
+ },
+ "coleccion/Fennesz---Agora": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/176360368404962",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/176360368404962.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/176360368404962.html#d189691186846587",
+  "grapa_disco_n": 6,
+  "grapa_n": 11
+ },
+ "coleccion/Fleet-Foxes---Crack-Up": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/39599340211134",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/72062095871038",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/39599340211134.html",
+  "grapa_n": 19
+ },
+ "coleccion/Fleetwood-Mac---Muy-Bien": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/146498497979064",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/146498497979064.html",
+  "grapa_n": 40
+ },
+ "coleccion/Harold-Melvin-The-Blue-Notes---Black-Blue-Featuring-The-Love-I-Lost": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/47530208588641",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/47530208588641.html",
+  "grapa_n": 3
+ },
+ "coleccion/John-Coltrane---Both-Directions-At-Once-The-Lost-Album": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/135557885934307",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/135557885934307.html",
+  "grapa_n": 12
+ },
+ "coleccion/Johnny-Rivers---El-Septimo-Hijo-Susie-Q": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/34873051788813"
+ },
+ "coleccion/Jon-Hassell---Listening-To-Pictures-Pentimento-Volume-One": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/74264017076963",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/74264017076963.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/74264017076963.html#d250145126811595",
+  "grapa_disco_n": 6,
+  "grapa_n": 6
+ },
+ "coleccion/Jon-Hassell---Seeing-Through-Sound-Pentimento-Volume-Two": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/74264017076963",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/74264017076963.html",
+  "grapa_n": 6
+ },
+ "coleccion/Julee-Cruise---Floating-Into-The-Night": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/48128337747438",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/237567548893037",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/48128337747438.html",
+  "grapa_n": 8
+ },
+ "coleccion/Jungle---Volcano": {
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/225794532110900.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/225794532110900.html#d81077645102771",
+  "grapa_disco_n": 9,
+  "grapa_n": 39
+ },
+ "coleccion/Kenny-G---Miracles-The-Holiday-Album": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/252913069885899"
+ },
+ "coleccion/Khruangbin---The-Universe-Smiles-Upon-You": {
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/253094553763676.html",
+  "grapa_n": 25
+ },
+ "coleccion/Klaus-Schulze---Timewind": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/53558428829445",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/192272723004716",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/53558428829445.html",
+  "grapa_n": 1
+ },
+ "coleccion/LaBelle---Nightbirds": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/244617662995951"
+ },
+ "coleccion/Los-Planetas---Una-Semana-En-El-Motor-De-Un-Autobús": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/88965638067711",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/88965638067711.html",
+  "grapa_n": 3
+ },
+ "coleccion/MC-Hammer---Please-Hammer-Don-t-Hurt-Em": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/19234545468385"
+ },
+ "coleccion/Manuel-Göttsching---E2-E4": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/177789142118263",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/92311159219739"
+ },
+ "coleccion/Massive-Attack---Mezzanine": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/186195037976458",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/236616881107833",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/186195037976458.html",
+  "grapa_n": 12
+ },
+ "coleccion/Metallica---St-Anger": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/163959281143925",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/80533306657582",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/163959281143925.html",
+  "grapa_n": 131
+ },
+ "coleccion/Metallica---St-Anger-4004658": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/163959281143925",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/80533306657582",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/163959281143925.html",
+  "grapa_n": 131
+ },
+ "coleccion/Metro-Area---Metro-Area": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/165981579504613",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/12346018445687"
+ },
+ "coleccion/Miguel-Bosé---Bandido": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/174801049993520",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/174801049993520.html",
+  "grapa_n": 1
+ },
+ "coleccion/Miles-Davis---Bitches-Brew": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/92995535260784",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/32493259170817",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/92995535260784.html",
+  "grapa_n": 15
+ },
+ "coleccion/Miles-Davis---Live-Evil": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/92995535260784",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/265301242338701",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/92995535260784.html",
+  "grapa_n": 15
+ },
+ "coleccion/Miles-Davis---Tutu": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/92995535260784",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/92995535260784.html",
+  "grapa_n": 15
+ },
+ "coleccion/Mogwai---As-The-Love-Continues": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/56874892702270",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/56874892702270.html",
+  "grapa_n": 57
+ },
+ "coleccion/Mogwai---The-Bad-Fire": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/56874892702270",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/56874892702270.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/56874892702270.html#d112194103122877",
+  "grapa_disco_n": 16,
+  "grapa_n": 57
+ },
+ "coleccion/Mogwai---Young-Team": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/56874892702270",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/279672805141800",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/56874892702270.html",
+  "grapa_n": 57
+ },
+ "coleccion/My-Bloody-Valentine---Loveless": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/20552229075377",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/71674269730098",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/20552229075377.html",
+  "grapa_n": 54
+ },
+ "coleccion/My-Bloody-Valentine---m-b-v": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/20552229075377",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/243925181487016",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/20552229075377.html",
+  "grapa_n": 54
+ },
+ "coleccion/Nils-Frahm---All-Melody": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/16170207928754",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/16170207928754.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/16170207928754.html#d179801362152450",
+  "grapa_disco_n": 15,
+  "grapa_n": 34
+ },
+ "coleccion/Nine-Inch-Nails---Add-Violence": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/2805971814642",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/2805971814642.html",
+  "grapa_n": 65
+ },
+ "coleccion/Paco-De-Lucía---La-Búsqueda": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/252985387046118",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/252985387046118.html",
+  "grapa_n": 5
+ },
+ "coleccion/Paula-Abdul---Forever-Your-Girl": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/14743332704645"
+ },
+ "coleccion/Pink-Floyd---The-Dark-Side-Of-The-Moon": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/154607196593337",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/281150642851607",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/154607196593337.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/154607196593337.html#d281150642851607",
+  "grapa_disco_n": 4,
+  "grapa_n": 4
+ },
  "coleccion/Radio-Futura---Veneno-En-La-Piel": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/111309601847602"
+ },
+ "coleccion/Reincidentes---Y-Ahora-Que": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/127165654212754"
+ },
+ "coleccion/Santana---Abraxas": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/140956251051868",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/149448877397247",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/140956251051868.html",
+  "grapa_n": 64
+ },
+ "coleccion/Shirley-Bassey---Grande-Grande-Grande": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/23196024091611",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/23196024091611.html",
+  "grapa_n": 6
+ },
+ "coleccion/Sigur-Rós---Átta": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/35883852588104",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/35883852588104.html",
+  "grapa_n": 73
+ },
+ "coleccion/Suso-Saiz---Nothing-Is-Objective": {
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/241596571346413.html",
+  "grapa_n": 1
+ },
+ "coleccion/Tangerine-Dream---Phaedra": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/99404296345554",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/176797601163936",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/99404296345554.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/99404296345554.html#d176797601163936",
+  "grapa_disco_n": 1,
+  "grapa_n": 9
+ },
+ "coleccion/Tangerine-Dream---Stratosfear": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/99404296345554",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/99404296345554.html",
+  "grapa_n": 9
+ },
+ "coleccion/Tangerine-Dream---Zeit": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/99404296345554",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/33279271834443",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/99404296345554.html",
+  "grapa_n": 9
+ },
+ "coleccion/The-Beatles---1": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/175295617586008",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/175295617586008.html",
+  "grapa_n": 1
+ },
+ "coleccion/The-Chemical-Brothers---For-That-Beautiful-Feeling": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/207419165516242",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/207419165516242.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/207419165516242.html#d114872208707259",
+  "grapa_disco_n": 7,
+  "grapa_n": 60
  },
  "coleccion/The-Cult---Ceremony": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/133853170881742",
   "grapa_artista": "https://volteret4.github.io/grapa/artista/133853170881742.html",
   "grapa_n": 23
+ },
+ "coleccion/The-Cure---Disintegration": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/56470932674201",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/206817780776891",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/56470932674201.html",
+  "grapa_n": 74
+ },
+ "coleccion/The-Doors---The-Doors": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/257828953154463",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/231485679720163",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/257828953154463.html",
+  "grapa_n": 7
+ },
+ "coleccion/The-Housemartins---Now-That-s-What-I-Call-Quite-Good": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/113009635164271"
+ },
+ "coleccion/Tom-Jones---Delilah": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/83835041381253",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/83835041381253.html",
+  "grapa_n": 42
+ },
+ "coleccion/Triana---Hijos-Del-Agobio": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/135166001834496",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/276973529808814"
+ },
+ "coleccion/Tyler-The-Creator---Igor": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/188936971971949",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/22366131525278",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/188936971971949.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/188936971971949.html#d22366131525278",
+  "grapa_disco_n": 13,
+  "grapa_n": 74
+ },
+ "coleccion/UB40---Labour-Of-Love-II": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/152819974272590",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/152819974272590.html",
+  "grapa_n": 18
+ },
+ "coleccion/Vangelis---Themes": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/144286445159326",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/144286445159326.html",
+  "grapa_n": 11
+ },
+ "coleccion/Vladislav-Delay---Rakka": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/188140105972063"
+ },
+ "coleccion/Weather-Report---Black-Market": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/151397686027891"
+ },
+ "coleccion/Wilson-Pickett---No-Desprecies-Mi-Amor-Parte-1-Parte-2": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/109925983724815",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/109925983724815.html",
+  "grapa_n": 3
+ },
+ "coleccion/Yo-La-Tengo---This-Stupid-World": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/258660540736664",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/258660540736664.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/258660540736664.html#d122285034869570",
+  "grapa_disco_n": 18,
+  "grapa_n": 18
  },
  "posts/AceMo-_-Save-the-World": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/186037806559924"
@@ -226,6 +646,7 @@
  },
  "posts/M83-_-Dead-Cities-Red-Seas-": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/276394402622387",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/108012915748535",
   "grapa_artista": "https://volteret4.github.io/grapa/artista/276394402622387.html",
   "grapa_n": 37
  },
@@ -411,6 +832,7 @@
  },
  "posts/The-Isley-Brothers-_-33": {
   "encarta_artista": "https://volteret4.github.io/encarta/#/e/252069283033013",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/91290601473216",
   "grapa_artista": "https://volteret4.github.io/grapa/artista/252069283033013.html",
   "grapa_n": 8
  },

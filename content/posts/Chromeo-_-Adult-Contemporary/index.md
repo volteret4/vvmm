@@ -2,6 +2,8 @@
 title: "Chromeo - Adult Contemporary"
 date: 2024-06-20T17:51:50+02:00
 image: "image.jpeg"
+artist: "Chromeo"
+album: "Adult Contemporary"
 draft: false
 tags:
  - disco
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Chromeo - Adult-Contemporary))
- 
+![cover](image.jpeg (Chromeo - Adult Contemporary))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://chromeoduo.bandcamp.com/album/adult-contemporary)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3400117)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5c8d4500-8436-4ba2-af60-1c3025dfb53c)

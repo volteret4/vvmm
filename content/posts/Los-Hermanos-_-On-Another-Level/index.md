@@ -2,6 +2,8 @@
 title: "Los Hermanos - On Another Level"
 date: 2024-06-14T20:41:35+02:00
 image: "image.jpeg"
+artist: "Los Hermanos"
+album: "On Another Level"
 draft: false
 tags:
  - techno
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Los-Hermanos - On-Another-Level))
- 
+![cover](image.jpeg (Los Hermanos - On Another Level))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))]()
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/34404)
 [![lastfm](../links/svg/lastfm.png (lastfm))]()

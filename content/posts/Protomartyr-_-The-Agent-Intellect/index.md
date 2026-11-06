@@ -2,6 +2,8 @@
 title: "Protomartyr - The Agent Intellect"
 date: 2024-06-20T23:13:08+02:00
 image: "image.jpeg"
+artist: "Protomartyr"
+album: "The Agent Intellect"
 draft: false
 tags:
  - post-punk
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Protomartyr - The-Agent-Intellect))
- 
+![cover](image.jpeg (Protomartyr - The Agent Intellect))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://protomartyr.bandcamp.com/album/the-agent-intellect)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/895647)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e03cfdd5-3cba-4f7e-b2cd-13401f610dc6)

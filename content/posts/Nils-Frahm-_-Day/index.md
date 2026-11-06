@@ -2,6 +2,8 @@
 title: "Nils Frahm - Day"
 date: 2024-06-20T22:56:35+02:00
 image: "image.jpeg"
+artist: "Nils Frahm"
+album: "Day"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Nils-Frahm - Day))
- 
+![cover](image.jpeg (Nils Frahm - Day))
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/2797532)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f6c71465-3173-406c-83f8-b32104879e6a)
 [![spotify](../links/svg/spotify.png (putify))](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM)

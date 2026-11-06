@@ -2,6 +2,8 @@
 title: "Patrick Holland - Infra"
 date: 2024-06-16T14:55:10+02:00
 image: "image.jpeg"
+artist: "Patrick Holland"
+album: "Infra"
 draft: false
 tags:
  - ambient
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Patrick-Holland - Infra))
- 
+![cover](image.jpeg (Patrick Holland - Infra))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))]()
 [![discogs](../links/svg/discogs.png (discogs))]()
 [![lastfm](../links/svg/lastfm.png (lastfm))]()

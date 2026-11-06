@@ -2,6 +2,8 @@
 title: "Romy - Mid Air"
 date: 2024-06-14T21:00:18+02:00
 image: "image.jpeg"
+artist: "Romy"
+album: "Mid Air"
 draft: false
 tags:
  - house
@@ -10,8 +12,7 @@ tags:
  #- tagD
  #- tagE
 ---
-![cover](image.jpeg (Romy - Mid-Air))
- 
+![cover](image.jpeg (Romy - Mid Air))
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://romyromyromy.bandcamp.com/album/mid-air)
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/3230470)
 [![lastfm](../links/svg/lastfm.png (lastfm))]()
