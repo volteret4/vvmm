@@ -521,6 +521,16 @@
   "id": "PL1RRNXldMeRH9BTnQmLcBEPypc3M6e9yJ",
   "tipo": "yt_playlist"
  },
+ "coleccion/Miles-Davis---Live-Evil": {
+  "fuente": "busqueda",
+  "id": "PLLel4MS6yxonMv_xQdj8w57bzDNLdOh_X",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Miles-Davis---Tutu": {
+  "fuente": "busqueda",
+  "id": "PLROeMLXl5EWBLSz3bfYmrKWtJ3outdB4A",
+  "tipo": "yt_playlist"
+ },
  "coleccion/Mirlaqi---Beyond-The-Sea-Of-Sand": {
   "id": 639416020,
   "tipo": "bandcamp"
@@ -533,17 +543,112 @@
   "id": 3160421753,
   "tipo": "bandcamp"
  },
+ "coleccion/Mogwai---Young-Team": {
+  "fuente": "busqueda",
+  "id": "PLALdvEmx901QRvYGxGcQNvS30BXPbvSYO",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Morente-Lagartija-Nick---Omega": {
+  "fuente": "busqueda",
+  "id": "PLN6rR1CvXLCQ",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/My-Bloody-Valentine---Loveless": {
+  "fuente": "busqueda",
+  "id": "PLI6kLIhBBwmSLzNj5uZO2SrGmpqmzpLZU",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/My-Bloody-Valentine---m-b-v": {
+  "fuente": "busqueda",
+  "id": "PLI6kLIhBBwmSlNf0r1rudTX-rfiRKl8FU",
+  "tipo": "yt_playlist"
+ },
  "coleccion/Nils-Frahm---All-Melody": {
   "id": 3467926826,
   "tipo": "bandcamp"
+ },
+ "coleccion/Nine-Inch-Nails---Add-Violence": {
+  "fuente": "busqueda",
+  "id": "PLANZaPIQR4-ZtSe_UhZw5VlEquubEPso6",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Nino-Bravo---50-Aniversario": {
+  "fuente": "busqueda",
+  "id": "PL2BX1QIgb4BHyS0wSjywIWbrM5UMwTi8p",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Nuestro-Pequeño-Mundo---Uno-X-Uno": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Osibisa---Woyaya": {
+  "fuente": "busqueda",
+  "id": "PLz-9IkvCiDYwHLdEB7oCcAz5zZLF_iZ2l",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Paco-De-Lucía---La-Búsqueda": {
+  "fuente": "busqueda",
+  "id": "PL8UJweQdL_R-WyrqWLqFTlEWHPMTHmJ24",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Panna-Cotta---Sunrise-LP": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Paula-Abdul---Forever-Your-Girl": {
+  "fuente": "busqueda",
+  "id": "PLNPGM2D7aODfHTMcpEgf8yIxAAMdBbTTT",
+  "tipo": "yt_playlist"
  },
  "coleccion/Perc---Fire-In-Negative": {
   "id": 1818927594,
   "tipo": "bandcamp"
  },
+ "coleccion/Pink-Floyd---The-Dark-Side-Of-The-Moon": {
+  "fuente": "busqueda",
+  "id": "PLHmguiAhyeHWzYg8XE4wLT_iC0_RC1Wti",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Plastic-Ono-Band---Cold-Turkey-Don-t-Worry-Kyoko-Mummy-s-Only-Looking-For-A-Hand-In-The-Snow": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Platero-Y-Tu---7": {
+  "fuente": "busqueda",
+  "id": "PLenc09-d686JwjQNrTjfypgJnLQ98sRnY",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Platero-Y-Tu---7-8148869": {
+  "fuente": "busqueda",
+  "id": "PLenc09-d686JwjQNrTjfypgJnLQ98sRnY",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Presuntos-Implicados---Miss-Circuitos": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
  "coleccion/Radio-Futura---Veneno-En-La-Piel": {
   "fuente": "busqueda",
   "id": "PLDJLAYDGgGBQetW6UW9zyEwyCBkcqbL6u",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Reincidentes---Y-Ahora-Que": {
+  "fuente": "busqueda",
+  "id": "PLe4lRYvgoQAd-CxyWrmXIJscwvSAra9ua",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Roy-Davis-Jr-Peven-Everett---Gabriel": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Santana---Abraxas": {
+  "fuente": "busqueda",
+  "id": "PLMBlmXntszvYUElqiCGXyHjY2YY0G5LbX",
   "tipo": "yt_playlist"
  },
  "coleccion/Sciahri---Seyl": {
@@ -554,9 +659,29 @@
   "id": 1735949902,
   "tipo": "bandcamp"
  },
+ "coleccion/Sergio-Mendes-Brasil-77---Tanta-Gente-Pais-Tropical": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Shirley-Bassey---Grande-Grande-Grande": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
  "coleccion/Sigur-Rós---Átta": {
   "id": 1617634061,
   "tipo": "bandcamp"
+ },
+ "coleccion/Sindicato-Del-Crimen---Hip-Hop-Radical": {
+  "fuente": "busqueda",
+  "id": "PLqz2PAw1q8IsyVFOcPwcavWzk-RiMt5hK",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Special-Touch---Garden-Of-Life": {
+  "fuente": "busqueda",
+  "id": "PLjDixoDNui3hmcez9moP25ShoQKCrQUQ0",
+  "tipo": "yt_playlist"
  },
  "coleccion/Suso-Saiz---Nothing-Is-Objective": {
   "id": 3672984810,
@@ -566,14 +691,59 @@
   "id": 3055212633,
   "tipo": "bandcamp"
  },
+ "coleccion/Tangerine-Dream---Stratosfear": {
+  "fuente": "busqueda",
+  "id": "PLTtTBtrjo_rno3WXhXm3sj04heRVh6n7Y",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Tangerine-Dream---Zeit": {
+  "fuente": "busqueda",
+  "id": "PLWwSl0eJwcWJbBFnhG4RyRhzKsah2IMNw",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Tchaikowsky-Philharmonia-Orchestra-London-Otto-Klemperer---Sinfonie-Nr-5": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/The-Beatles---1": {
+  "fuente": "busqueda",
+  "id": "PLXVwJ7hZldiguNwNo1ZdsH5K4y1UYbuHq",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/The-Chemical-Brothers---For-That-Beautiful-Feeling": {
+  "fuente": "busqueda",
+  "id": "PLZxKy04e5wXqUzNHXQ4PDGSPLGUJsrYMv",
+  "tipo": "yt_playlist"
+ },
  "coleccion/The-Cult---Ceremony": {
   "fuente": "busqueda",
   "id": "PLHTo__bpnlYXaStBIYMWo1PsuZcBZBETp",
   "tipo": "yt_playlist"
  },
+ "coleccion/The-Cure---Disintegration": {
+  "fuente": "busqueda",
+  "id": "PLGFFTE0Sw8tStwmuVsAoeOEdmWBLceK9b",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/The-Doors---The-Doors": {
+  "fuente": "busqueda",
+  "id": "PLMBlmXntszvYpDo7l-qhiMKqF71H872Xu",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/The-Housemartins---Now-That-s-What-I-Call-Quite-Good": {
+  "fuente": "busqueda",
+  "id": "PLI6kLIhBBwmQAwLum-CRrS-vgwOiVJcRL",
+  "tipo": "yt_playlist"
+ },
  "coleccion/The-Soft-Moon---Exister": {
   "id": 61966160,
   "tipo": "bandcamp"
+ },
+ "coleccion/The-Theatre-Cast---Jesucristo-Superstar": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
  },
  "coleccion/The-Vendetta-Suite---The-Kempe-Stone-Portal": {
   "id": 2418613374,
@@ -588,9 +758,104 @@
   "fuente": "busqueda",
   "tipo": null
  },
+ "coleccion/Todd-Terje---It-s-The-Arps-EP": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Tom-Jones---Delilah": {
+  "fuente": "busqueda",
+  "id": "PLUHFk0JDea8PQreuMPDeOdeDtOHVtmzqM",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Triana---Hijos-Del-Agobio": {
+  "fuente": "busqueda",
+  "id": "PLIw1WGA25wxGVLFPve47ccRWWVk33_-b0",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Tyler-The-Creator---Igor": {
+  "fuente": "busqueda",
+  "id": "PLATQ8iWXs4GwXS2_einn497hNCzMCpBvy",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/UB40---Labour-Of-Love-II": {
+  "fuente": "busqueda",
+  "id": "PLTKEfzrDeoKlBfbIe2i3MP5QJLbOIxguB",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Vangelis---Themes": {
+  "fuente": "busqueda",
+  "id": "PLhcITJvc9oCi3lclPpxUVbvTEav6lVsbz",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Various---Buena-Onda-Balearic-Beats-2021-Sampler-Uno": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Various---Buena-Onda-Balearic-Beats-Vinyl-Sampler-Due": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Various---Color-De-Trópico": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Various---Colors-Original-Motion-Picture-Soundtrack": {
+  "fuente": "busqueda",
+  "id": "CVdMDkZux6E",
+  "tipo": "yt_video"
+ },
+ "coleccion/Various---La-Ola-Interior-Spanish-Ambient-Acid-Exoticism-1983-1990": {
+  "fuente": "busqueda",
+  "id": "PL8xl37x34OTpEjCwVUJtbXDMip3Rc1Fcg",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Various---Madrid-Hip-Hop": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Various---Platoon-Original-Motion-Picture-Soundtrack-And-Songs-From-The-Era": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Various---Stranger-Things-Music-From-The-Netflix-Original-Series": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Various---Virtual-Dreams-Ambient-Explorations-In-The-House-Techno-Age-1993-1997": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
  "coleccion/Vladislav-Delay---Rakka": {
   "id": 398741766,
   "tipo": "bandcamp"
+ },
+ "coleccion/Weather-Report---Black-Market": {
+  "fuente": "busqueda",
+  "id": "PLD9WLinkyEmgWYwKmtK9zCwYuAq6EA3AA",
+  "tipo": "yt_playlist"
+ },
+ "coleccion/Wilson-Pickett---No-Desprecies-Mi-Amor-Parte-1-Parte-2": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Wolfgang-Amadeus-Mozart-Karl-Böhm-Wiener-Philharmoniker---Requiem": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
+ },
+ "coleccion/Womack-Womack---Teardrops": {
+  "buscado": "2026-11-06",
+  "fuente": "busqueda",
+  "tipo": null
  },
  "coleccion/Yan-Cook---XXX-LP": {
   "id": 1801873457,
@@ -1328,6 +1593,11 @@
  "posts/and-one_-cd-1-s-t-o-p": {
   "fuente": "post",
   "id": "PLWFnqBgi5SSl-U9QcnOqTWhLA2hCmxwsC",
+  "tipo": "yt_playlist"
+ },
+ "posts/aviador-dro_-sintesis-la-produccion-al-poder": {
+  "fuente": "post",
+  "id": "PLtag4Z7o_UXiI4LztlYK0bIBzALGBmgQl",
   "tipo": "yt_playlist"
  },
  "posts/barbara-moore_-back-to-mine-jungle": {

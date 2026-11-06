@@ -29,7 +29,7 @@
     {{ block "main" . }}{{ .Content }}{{ end }}
   </main>
   <footer class="foot">
-    {{ len (where site.RegularPages "Section" "posts") }} discos escuchados ·
+    {{ len (where site.RegularPages "Section" "posts") }} discos destacados ·
     {{ range site.Params.social }}<a href="{{ .url }}" rel="me noopener">{{ .name }}</a>{{ end }}
   </footer>
 </body>

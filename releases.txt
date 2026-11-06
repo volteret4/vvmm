@@ -1,34 +1,207 @@
 Listado de releases del artista:
-Somehow, Somewhere They Had Heard This Before - 2018 - https://api.discogs.com/releases/11292070
-The Acceptance Ov Not Knowing - 2018 - https://api.discogs.com/masters/1361152
-Untitled - 2018 - https://api.discogs.com/masters/1548070
-Not What You See, Not What You Feel - 2018 - https://api.discogs.com/masters/1390703
-Digital Tsunami 162 - 2019 - https://api.discogs.com/releases/17411014
-Onto Duat - 2019 - https://api.discogs.com/masters/1632525
-Body Count - 2019 - https://api.discogs.com/masters/1668242
-Reassessment - 2020 - https://api.discogs.com/releases/15304187
-Comfort In Misery - 2021 - https://api.discogs.com/masters/2465833
-Ate-Up EP - 2018 - https://api.discogs.com/masters/1452932
-Escape EP - 2019 - https://api.discogs.com/releases/13623732
-The Cut (2016-2019) - 2020 - https://api.discogs.com/masters/1685591
-Still Ill EP - 2022 - https://api.discogs.com/releases/23422973
-Suicide Disco Vol. 2 Remixes - 2024 - https://api.discogs.com/masters/3680631
-Ate-Up EP - 2018 - https://api.discogs.com/masters/1452932
-The Cut (2016-2019) - 2020 - https://api.discogs.com/masters/1685591
-Through All Windows I See Only Infinity  - 2018 - https://api.discogs.com/masters/1467294
-The Cut (2016-2019) - 2020 - https://api.discogs.com/masters/1685591
-Love Reversed - 2022 - https://api.discogs.com/releases/25074352
-Visions - 2022 - https://api.discogs.com/releases/26989452
-La Métamorphose - 2023 - https://api.discogs.com/masters/3646095
-Reclaim Your City 284 - 2018 - https://api.discogs.com/releases/12403524
-Previously Undisclosed Rituals - 2018 - https://api.discogs.com/releases/12637212
-Podcast 539 - 2018 - https://api.discogs.com/releases/13771210
-Archaic Podcast 235 - 2018 - https://api.discogs.com/releases/14406597
-Reclaim Your City 349 - 2019 - https://api.discogs.com/releases/14295042
-Thrènes Mix 027 - 2020 - https://api.discogs.com/releases/15476687
-Seven Years Of Delirium - 2020 - https://api.discogs.com/releases/17077107
-Utopia Vanished: From Enslavement To Reiteration - 2021 - https://api.discogs.com/releases/20990794
-Palace Of Memory Where Nostalgia Is Fear - 2022 - https://api.discogs.com/releases/22520402
-Disco4 Generations - 2022 - https://api.discogs.com/masters/2741102
-Disco4 :: Part II - 2022 - https://api.discogs.com/masters/2738102
-Alligator Flavor Crocodile Bile 3 (A Cure For What Fails Thee) - 2023 - https://api.discogs.com/releases/28813219
+La Chica De Plexiglás - 1980 - https://api.discogs.com/masters/1364009
+La Vision - 1981 - https://api.discogs.com/masters/426505
+Selector De Frecuencias - 1982 - https://api.discogs.com/masters/1445699
+Programa En Espiral - 1982 - https://api.discogs.com/masters/1094745
+Nuclear, Sí - 1982 - https://api.discogs.com/masters/76895
+Alas Sobre El Mundo - 1982 - https://api.discogs.com/masters/111329
+Baila La Guerra - 1983 - https://api.discogs.com/releases/574772
+Sintesis - 1983 - https://api.discogs.com/releases/1672255
+Banana Split - DRO - Fanzisingle Nº 1 - 1983 - https://api.discogs.com/releases/4283530
+Tesis - 1983 - https://api.discogs.com/masters/671440
+Sintesis: La Produccion Al Poder - 1983 - https://api.discogs.com/masters/111328
+Amor Industrial - 1983 - https://api.discogs.com/masters/76899
+La Chica De Plexiglas / La Vision - 1983 - https://api.discogs.com/masters/145125
+Preterito Perfecto - 1983 - https://api.discogs.com/masters/1196653
+Vortex - 1984 - https://api.discogs.com/masters/2176135
+El Color De Tus Ojos Al Bailar - 1984 - https://api.discogs.com/masters/271676
+La Ciudad En Movimiento - 1985 - https://api.discogs.com/releases/2752034
+Intonarumore - 1985 - https://api.discogs.com/masters/1532610
+Himno Aéreo - 1985 - https://api.discogs.com/masters/270162
+Cromosomas Salvajes - 1985 - https://api.discogs.com/masters/338285
+La Unica Solucion Es La Venganza - 1986 - https://api.discogs.com/releases/574774
+¡Abrrr! - 1986 - https://api.discogs.com/releases/2960392
+Ciudadanos Del Imperio - 1986 - https://api.discogs.com/masters/441272
+Voy A Despegar - 1987 - https://api.discogs.com/releases/188396
+Grandes Exitos - 1987 - https://api.discogs.com/masters/1187811
+Picnic En Formalhaut - 1988 - https://api.discogs.com/releases/1638226
+Corazon Artificial - 1988 - https://api.discogs.com/masters/347921
+Ingravidez - 1988 - https://api.discogs.com/masters/1264579
+Heroes De Los 80 - 1990 - https://api.discogs.com/masters/854131
+Trance - 1991 - https://api.discogs.com/masters/273851
+Vivir Para Morir - 1991 - https://api.discogs.com/masters/436303
+Alter Ego - 1992 - https://api.discogs.com/releases/1058802
+Primer Aliento - 1992 - https://api.discogs.com/masters/565087
+Palida - 1994 - https://api.discogs.com/releases/1266820
+La T.V. Es Nutritiva - 1994 - https://api.discogs.com/releases/3514164
+Nestor El Cyborg - 1997 - https://api.discogs.com/releases/1673008
+Cyberiada - 1997 - https://api.discogs.com/masters/519931
+Vano Temporal - 1999 - https://api.discogs.com/releases/1463770
+Opera Cientifica 1979-1999 - 1999 - https://api.discogs.com/releases/2302985
+Radiante - 1999 - https://api.discogs.com/releases/4323657
+Amor Industrial (Pez Remix) - 1999 - https://api.discogs.com/releases/7418508
+Aviador Dro Re-Programado (Robots Para Los Átomos) - 2000 - https://api.discogs.com/releases/2583441
+Mecanisburgo - 2001 - https://api.discogs.com/releases/184701
+Todos Sus Singles Y EP's 1982 - 1998 - 2001 - https://api.discogs.com/releases/1773104
+Inteligencia Artificial - 2001 - https://api.discogs.com/releases/7220830
+Soy Un Macarra / Un hombre En Mi Nevera / Amor Industrial / De Vicio / Si Lo Llego A Saber - 2001 - https://api.discogs.com/releases/11709798
+Radioactivo Tour In Deutschland - 2003 - https://api.discogs.com/releases/420389
+Aviador Dro - 2003 - https://api.discogs.com/releases/1028935
+Ultimatum A La Tierra - 2004 - https://api.discogs.com/releases/1720212
+Aracne - 2004 - https://api.discogs.com/releases/7220818
+Confia En Tus Maquinas - 2004 - https://api.discogs.com/masters/701055
+Nuclear Siempre - 2005 - https://api.discogs.com/releases/1228218
+¡Eléctrico! (The Best Of El Aviador Dro 1978-2006) - 2006 - https://api.discogs.com/releases/893664
+Candidato Futurista - 2007 - https://api.discogs.com/releases/3645116
+!El Combate Del Siglo! - 2007 - https://api.discogs.com/releases/4333915
+Otro Mundo Mejor / Nuclear Sí, Por Supuesto - 2009 - https://api.discogs.com/releases/10549610
+Yo, Cyborg - 2009 - https://api.discogs.com/masters/865208
+La Voz De La Ciencia - 2012 - https://api.discogs.com/releases/5527752
+Crisis En Autonomías Infinitas - 2015 - https://api.discogs.com/releases/14577526
+Otros Mundos, Otras Estrellas [1979-1982] (Maquetas, Versiones Alternativas Y Éxitos Interplanetarios) - 2015 - https://api.discogs.com/masters/834792
+Acción Contra El Pasado - Directo. Madrid. 1980 - 2019 - https://api.discogs.com/masters/1637176
+Futuro Perfecto - 2019 - https://api.discogs.com/masters/1983703
+Como La Luz Radiante - 2023 - https://api.discogs.com/releases/29128612
+La Chica De Plexiglás / La Visión - 2026 - https://api.discogs.com/releases/38940523
+Materia Oscura - Desconocido - https://api.discogs.com/releases/1008003
+Sónar 99 - 1999 - https://api.discogs.com/releases/152638
+El Adefesio - 1999 - https://api.discogs.com/masters/1253496
+Despidete Del Lago (Las Rarezas De Antonio Luque 1993-2001) - 2001 - https://api.discogs.com/masters/245023
+One Brain - 2004 - https://api.discogs.com/masters/318641
+Frustración Total - 2011 - https://api.discogs.com/releases/2851394
+20 Años 20 Minutos - 2017 - https://api.discogs.com/releases/12714572
+Puñalada - 2018 - https://api.discogs.com/releases/12522660
+La Modelo - 2018 - https://api.discogs.com/releases/18927823
+Navidades Radioactivas - 1982 - https://api.discogs.com/masters/176905
+Maquetas - 1982 - https://api.discogs.com/masters/952435
+Despues Del Holocausto - Una Ofensiva Musical Dro 83 - 1983 - https://api.discogs.com/releases/2790167
+Despues Del Holocausto - Una Ofensiva Musical Dro 83 - 1983 - https://api.discogs.com/releases/37889568
+Ron Bacardi Disco Show Vol. 1 - 1985 - https://api.discogs.com/releases/8167230
+Rythmetic (Compilacion Internacional) - 1986 - https://api.discogs.com/releases/1612664
+Cemento Discoteca - 1986 - https://api.discogs.com/releases/26588936
+El Pecado Original - 1986 - https://api.discogs.com/masters/1771180
+1985 / Año Cero - Una coleccion DRO / Tres Cipreses - 1986 - https://api.discogs.com/masters/803770
+Refrescos Musicales Vol. 2 - 1986 - https://api.discogs.com/masters/3348310
+Salvaje Pasion - 1987 - https://api.discogs.com/masters/600974
+Recuerdos Del Rock-ola - 1987 - https://api.discogs.com/masters/823704
+Grandes Exitos Dro Vol. 2 - 1987 - https://api.discogs.com/masters/1119441
+La Edad De Oro Del Pop Español - 1987 - https://api.discogs.com/masters/767357
+Al Sol Que Mas Calienta - 1988 - https://api.discogs.com/releases/7255539
+DRO Gran reserva - 1988 - https://api.discogs.com/releases/14632931
+Aleacion - Un EP Insolito - 1988 - https://api.discogs.com/masters/2363500
+Al Sol Que Mas Calienta (Una Recopilación DRO-GASA) - 1988 - https://api.discogs.com/masters/1375599
+Heroes Del Pop Español - 1989 - https://api.discogs.com/releases/27015987
+Dro Gran Reserva II - 1989 - https://api.discogs.com/releases/34662625
+La Edad De Oro Del Pop Español Vol. 2 - 1989 - https://api.discogs.com/masters/421525
+La Edad De Oro Del Pop Español - 1992 - https://api.discogs.com/masters/571892
+Indisciplina - Una Coleccion De La Fabrica Magnetica 1988-92 - 1992 - https://api.discogs.com/masters/3813753
+¿Donde Estabas Tu... En El 86? - 1993 - https://api.discogs.com/releases/4710557
+¿Donde Estabas Tu... En El 85? - 1993 - https://api.discogs.com/releases/4710573
+¿Donde Estabas Tu... En El 84? - 1993 - https://api.discogs.com/releases/4710745
+¿Dónde Estabas Tu En El...'85 '86 '87? - 1993 - https://api.discogs.com/releases/22230388
+¿Dónde Estabas Tu En El...'82 '83 '84? - 1993 - https://api.discogs.com/releases/22245754
+Ese Chico Triste Y Solitario - 1993 - https://api.discogs.com/masters/313906
+Descontrolate! 2 - 1994 - https://api.discogs.com/masters/606119
+Masymas Vol 1 - 1996 - https://api.discogs.com/releases/8638270
+Mas Y Mas - 1996 - https://api.discogs.com/releases/16083739
+Corazon Loco  (40 Joyas Inencontrables Del Pop Español) - 1996 - https://api.discogs.com/masters/44359
+Lo Mejor De Los 80 En Español - 1996 - https://api.discogs.com/masters/1695082
+Discos Radioactivos Organizados 15 Años - 1997 - https://api.discogs.com/releases/1608535
+Grandes Canciones Del Pop Español - 1998 - https://api.discogs.com/releases/1191682
+Lollipop - 15 Años De Recuerdos - 1998 - https://api.discogs.com/releases/1952642
+Mega Fiesta - 1998 - https://api.discogs.com/releases/5014467
+Los 100 Exitos Del Pop Español. Volumen 1 - 1998 - https://api.discogs.com/releases/6311108
+Lo Mejor Del Pop Español De Los 90 - 1998 - https://api.discogs.com/releases/8479944
+A Tu Bola - La Música De La Movida - 1998 - https://api.discogs.com/masters/2065210
+Las 101 Mejores Canciones Del Pop Español - 1998 - https://api.discogs.com/masters/906604
+Sónar 99 - 1999 - https://api.discogs.com/releases/152638
+Mezclas - 1999 - https://api.discogs.com/releases/10103826
+4 Décadas De Pop Español - 1999 - https://api.discogs.com/releases/14284944
+20 Años De Movida - 1999 - https://api.discogs.com/releases/15794654
+Clásicos De Nuestro Tiempo - Años 80 / 2 - 1999 - https://api.discogs.com/releases/26190254
+La Gran Skapada - 1999 - https://api.discogs.com/releases/32210460
+Extreme Clubhits IV - 2000 - https://api.discogs.com/releases/591630
+Historia De La Música En España Capitulo 4 (La Movida) - 2000 - https://api.discogs.com/releases/1698142
+Tributo A Los 80 II - 2000 - https://api.discogs.com/releases/3502031
+Pop Español 82 (Vol.2) - 2000 - https://api.discogs.com/releases/4699041
+La Edad De Oro Del Pop Español (1978-1990) - 2001 - https://api.discogs.com/releases/1606297
+La Edad De Oro Del Pop Español (2) 1978~1990 - 2001 - https://api.discogs.com/releases/6561575
+La Edad De Oro Del Pop Español (5) 1978~1990 - 2001 - https://api.discogs.com/releases/8495272
+¡Que Mutada! - 2002 - https://api.discogs.com/releases/1683390
+La Otra Movida - La Fnac Recupera El Pop De Los 80 - 2002 - https://api.discogs.com/releases/1697789
+La Edad De Oro Del Pop Español (8) 1978~1990 - 2002 - https://api.discogs.com/releases/1701168
+Homenaje A Alaska - 2002 - https://api.discogs.com/releases/3542721
+FM62 - Revival 80s - 2002 - https://api.discogs.com/releases/3766297
+20 Años De Dro Y Una Vuelta De Tuerca - 2002 - https://api.discogs.com/releases/3852000
+Los Alegres 80 [I] - 2002 - https://api.discogs.com/releases/4959400
+La Edad De Oro Del Pop Español - Volumen II (1978-1990) - 2002 - https://api.discogs.com/releases/10822616
+Es PoPsible - 2002 - https://api.discogs.com/releases/11189822
+Discos Lollipop - 20 Años De Música 1982-2002 - 2002 - https://api.discogs.com/releases/15538801
+La Música de Policías: En El Corazón de la Calle - 2002 - https://api.discogs.com/releases/17379187
++ Versiones, Por Favor - 2002 - https://api.discogs.com/releases/36493621
+Futuristic Trips 1 - 2003 - https://api.discogs.com/releases/1192765
+¿Realmente Amas A Sandra Bullock? - 2003 - https://api.discogs.com/releases/1894998
+La Bola De Cristal. Edición Especial N°6 - 2003 - https://api.discogs.com/releases/5595461
+ Pop Español - 2003 - https://api.discogs.com/releases/15711624
+Un Verano De Pop & Rock (20 Grandes Exitos De Los 80) - 2003 - https://api.discogs.com/releases/19195498
+Trax#06 - 2004 - https://api.discogs.com/releases/727369
+Trax#13 - 2004 - https://api.discogs.com/releases/731763
+Grandes Exitos Tecno Pop Nacional - 2004 - https://api.discogs.com/releases/1200817
+La Bola De Cristal. Edición Especial 10. 2ª Temporada En DVD - 2004 - https://api.discogs.com/releases/5103410
+Lo Mejor Del Pop & Rock Hispano (1957-1989) - 2004 - https://api.discogs.com/releases/7037288
+Electronic Latin Freaks - 2004 - https://api.discogs.com/releases/13926143
+W.w.w.sgae.es Urban - 2004 - https://api.discogs.com/releases/15082344
+Religión Rock, Fe Y Cultura Popular - 2004 - https://api.discogs.com/releases/38248107
+Plylst - 2005 - https://api.discogs.com/releases/533808
+El Mejor Techno Pop Español - 2005 - https://api.discogs.com/releases/1676015
+Mejor Que Peor (Un Tributo A Peor Impossible) - 2005 - https://api.discogs.com/releases/3844477
+Stereoparty 2005 - 2005 - https://api.discogs.com/releases/4043742
+Viva el Pop - 2005 - https://api.discogs.com/releases/6822994
+Stereoparty 2006 - 2005 - https://api.discogs.com/releases/11381783
+Panorama 05 - 2005 - https://api.discogs.com/releases/14202753
+01 Noiselab By Numbers - Box Set - 2005 - https://api.discogs.com/releases/23983016
+BSO El Calentito - 2005 - https://api.discogs.com/masters/2470192
+Generación Negone - 2006 - https://api.discogs.com/releases/12140396
+Otros Mundos Pop 2006 - 2006 - https://api.discogs.com/releases/13546463
+25 Años de Pop&Rock de Aquí de Tocata Al Ipop El ritmo de la calle - 2006 - https://api.discogs.com/releases/15880606
+25 Años De Sintonías De Diario Pop - 2007 - https://api.discogs.com/releases/5484598
+Lo Mejor De La Edad De Oro (Antología De Artistas Españoles) - 2008 - https://api.discogs.com/releases/3224302
+Más Y Más (Más Nº 1 + Videoclips Más Imágenes Inéditas + Éxitos) - 2008 - https://api.discogs.com/releases/13090397
+1980. Las Canciones De Nuestra Vida - 2008 - https://api.discogs.com/releases/21326236
+Marzo Es marte - 2008 - https://api.discogs.com/releases/31947478
+Obras Completas - 2009 - https://api.discogs.com/releases/6052762
+Pop Español De Los 80's - 2010 - https://api.discogs.com/releases/2329019
+MixTaste - 2010 - https://api.discogs.com/releases/13406297
+The Raygun Years - 2012 - https://api.discogs.com/releases/4006911
+Non Plus Ultra 1980-1987 - 2012 - https://api.discogs.com/masters/439748
+Cuéntame Cómo Pasó - La Movida - 2013 - https://api.discogs.com/releases/13623228
+Sombras (Spanish Post Punk + Dark Pop 1981-1986) - 2013 - https://api.discogs.com/masters/656724
+Odd Waves - 2014 - https://api.discogs.com/releases/5627337
+Selector De Frecuencias - 2014 - https://api.discogs.com/releases/7971025
+Las 101 Canciones Del Pop Español - 2014 - https://api.discogs.com/releases/10220322
+Selector De Frecuencias - 2014 - https://api.discogs.com/releases/14120250
+El Futuro - 2015 - https://api.discogs.com/releases/6957785
+Halloween 2015 - 2015 - https://api.discogs.com/releases/11513847
+Madrid Fue Una Ciudad Mundial - 2018 - https://api.discogs.com/releases/12019778
+La Movida: Madrileñan Punk Power Pop And New Wave '80 -'85 - 2018 - https://api.discogs.com/releases/12149144
+La Contra Ola (Synth Wave And Post Punk From Spain 1980-86) - 2018 - https://api.discogs.com/masters/1309848
+Iberian Set - 2020 - https://api.discogs.com/releases/16022717
+DRO 40 Aniversario - ...Y El Futuro Sigue Caminando Un Paso Por Detrás De Nosotros - 2023 - https://api.discogs.com/releases/27196395
+Canciones de Verano y Costa - Un Tributo Del Pop Español A Paraiso Y La Mode - 2023 - https://api.discogs.com/releases/29959513
+Yo Fui Un Fresón Rebelde Adolescente (Un Homenaje A Los Fresones Rebeldes) - 2025 - https://api.discogs.com/releases/35496082
+La Ola Nocturna (Experimental Songs & Deviant Pop From The Spanish 80's) - 2026 - https://api.discogs.com/releases/38862360
+La Ola Nocturna (Experimental Songs & Deviant Pop From The Spanish 80's) - 2026 - https://api.discogs.com/releases/38863695
+La Ola Nocturna (Experimental Songs & Deviant Pop From The Spanish 80's) - 2026 - https://api.discogs.com/releases/38863737
+Avant-Garde Espanol (1980-89) - Desconocido - https://api.discogs.com/releases/12827895
+Disco Rare Raisins Volume 14 - Desconocido - https://api.discogs.com/releases/35050436
+Disco Rare Raisins Volume 15 - Desconocido - https://api.discogs.com/releases/35051156
+Electronic Dance - 1983 - https://api.discogs.com/releases/3156032
+Hacia Las Estrellas - 1992 - https://api.discogs.com/releases/5002421
+Shock Waves Vol. 3 - 1996 - https://api.discogs.com/releases/5431962
+Sesiones Diario Pop - 2005 - https://api.discogs.com/releases/3737214
+Kraftwerk Kover Kollektion 5 - 2009 - https://api.discogs.com/releases/3531548
+Interferencias Vol. 1 - Spanish Synth Wave 1980-1989 - 2017 - https://api.discogs.com/masters/1318083
+3, 6, 9: The Trinity Alignment - 2018 - https://api.discogs.com/releases/12371324
+A Tribute To Flexi-Pop Vol.1 - Desconocido - https://api.discogs.com/releases/671198
+A Tribute To Flexi-Pop Vol.2 - Desconocido - https://api.discogs.com/releases/681302
+Aviador Dro / Gabinete Caligari - Desconocido - https://api.discogs.com/releases/24267080

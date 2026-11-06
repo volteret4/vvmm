@@ -1,12 +1,15 @@
 {{ define "main" }}
 <header class="pagehead">
   <h1>géneros</h1>
-  <p>{{ len .Data.Terms }} etiquetas</p>
+  {{/* Estas etiquetas marcan de dónde viene el disco, no son géneros */}}
+  {{ $terms := slice }}
+  {{ range .Data.Terms.Alphabetical }}{{ if not (in (slice "coleccion" "discogs") .Name) }}{{ $terms = $terms | append . }}{{ end }}{{ end }}
+  <p>{{ len $terms }} etiquetas</p>
 </header>
 {{ $max := 1 }}
-{{ range .Data.Terms }}{{ if gt .Count $max }}{{ $max = .Count }}{{ end }}{{ end }}
+{{ range $terms }}{{ if gt .Count $max }}{{ $max = .Count }}{{ end }}{{ end }}
 <div class="cloud">
-  {{ range .Data.Terms.Alphabetical }}
+  {{ range $terms }}
     {{ $w := add 0.85 (mul 1.4 (div (float .Count) $max)) }}
     <a href="{{ .Page.RelPermalink }}" style="font-size:{{ $w }}rem">{{ .Page.Title | lower }}<sup>{{ .Count }}</sup></a>
   {{ end }}
