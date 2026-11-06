@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 06 Nov 2026 00:53:51 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 01:33:13 +0100</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ambient</title>
+				<link>/tags/ambient/</link>
+				<pubDate>Fri, 06 Nov 2026 01:33:13 +0100</pubDate>
+				<guid>/tags/ambient/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Postrock</title>
+				<link>/tags/postrock/</link>
+				<pubDate>Fri, 06 Nov 2026 01:33:13 +0100</pubDate>
+				<guid>/tags/postrock/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>EBM</title>
 				<link>/tags/ebm/</link>
@@ -63,13 +77,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Postrock</title>
-				<link>/tags/postrock/</link>
-				<pubDate>Fri, 27 Mar 2026 19:46:09 +0100</pubDate>
-				<guid>/tags/postrock/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Disco</title>
 				<link>/tags/disco/</link>
 				<pubDate>Mon, 02 Mar 2026 17:45:52 +0100</pubDate>
@@ -102,13 +109,6 @@
 				<link>/tags/psicodelia/</link>
 				<pubDate>Sat, 15 Nov 2025 22:01:38 +0100</pubDate>
 				<guid>/tags/psicodelia/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Ambient</title>
-				<link>/tags/ambient/</link>
-				<pubDate>Sat, 15 Nov 2025 16:54:44 +0100</pubDate>
-				<guid>/tags/ambient/</guid>
 				<description></description>
 			</item>
 			<item>
