@@ -578,6 +578,14 @@
   "grapa_artista": "https://volteret4.github.io/grapa/artista/145774105011033.html",
   "grapa_n": 6
  },
+ "posts/Grimes-_-Visions": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/203688491118316",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/243834609763935",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/203688491118316.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/203688491118316.html#d243834609763935",
+  "grapa_disco_n": 39,
+  "grapa_n": 133
+ },
  "posts/Have-a-Nice-Life-_-Deathconsciousness": {
   "encarta_disco": "https://volteret4.github.io/encarta/#/e/110188761792336"
  },
@@ -707,6 +715,14 @@
   "grapa_disco": "https://volteret4.github.io/grapa/artista/43126317299360.html#d158547193424206",
   "grapa_disco_n": 17,
   "grapa_n": 36
+ },
+ "posts/Primal-Scream-_-Screamadelica": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/241876596213446",
+  "encarta_disco": "https://volteret4.github.io/encarta/#/e/247013136706360",
+  "grapa_artista": "https://volteret4.github.io/grapa/artista/241876596213446.html",
+  "grapa_disco": "https://volteret4.github.io/grapa/artista/241876596213446.html#d247013136706360",
+  "grapa_disco_n": 1,
+  "grapa_n": 114
  },
  "posts/Prins-Thomas-_-9": {
   "grapa_artista": "https://volteret4.github.io/grapa/artista/139344531879451.html",
@@ -998,6 +1014,9 @@
   "encarta_disco": "https://volteret4.github.io/encarta/#/e/22701888706712",
   "grapa_artista": "https://volteret4.github.io/grapa/artista/262996145009995.html",
   "grapa_n": 2
+ },
+ "posts/kon-kan_-move-to-move": {
+  "encarta_artista": "https://volteret4.github.io/encarta/#/e/102268443679711"
  },
  "posts/love-and-kisses_-love-and-kisses": {
   "encarta_disco": "https://volteret4.github.io/encarta/#/e/15232576159782"

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 12 Nov 2026 19:19:30 +0100</lastBuildDate>
+			<lastBuildDate>Fri, 13 Nov 2026 01:16:52 +0100</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Synthpop</title>
+				<link>/tags/synthpop/</link>
+				<pubDate>Fri, 13 Nov 2026 01:16:52 +0100</pubDate>
+				<guid>/tags/synthpop/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Electro</title>
 				<link>/tags/electro/</link>
@@ -32,13 +39,6 @@
 				<link>/tags/techno/</link>
 				<pubDate>Thu, 12 Nov 2026 19:19:30 +0100</pubDate>
 				<guid>/tags/techno/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Synthpop</title>
-				<link>/tags/synthpop/</link>
-				<pubDate>Thu, 12 Nov 2026 03:52:55 +0100</pubDate>
-				<guid>/tags/synthpop/</guid>
 				<description></description>
 			</item>
 			<item>

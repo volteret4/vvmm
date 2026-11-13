@@ -890,6 +890,11 @@
   "id": 3953169686,
   "tipo": "bandcamp"
  },
+ "posts/And-One-_-Nordhausen": {
+  "fuente": "post",
+  "id": "PLV96e_MnYkXHhmLyXlIs1eB0K2SHbbhi7",
+  "tipo": "yt_playlist"
+ },
  "posts/Andy-Stott-_-Faith-in-Strangers": {
   "fuente": "busqueda",
   "id": "PLs43Mvpi_uF1CQaRSnfymKCXK1SDuA0sC",
@@ -1085,6 +1090,11 @@
   "id": "PLA45B52B1E05DDB56",
   "tipo": "yt_playlist"
  },
+ "posts/Gesaffelstein-_-Aleph": {
+  "fuente": "post",
+  "id": "PL_GpNlS7ysz8hXlz5OHICn3NYiJj_o7qY",
+  "tipo": "yt_playlist"
+ },
  "posts/Gigi-Masin-_-Dolphin": {
   "id": 3647419482,
   "tipo": "bandcamp"
@@ -1092,6 +1102,11 @@
  "posts/GoGo-Penguin-_-Necessary-Fictions": {
   "fuente": "post",
   "id": "PLZmpSK3klBc4cTuWz1W3RGWHJL-nXpdkl",
+  "tipo": "yt_playlist"
+ },
+ "posts/Grimes-_-Visions": {
+  "fuente": "post",
+  "id": "PLlq7Qg7QtlOFWRpTBSsv5Q7lPbMPY3uiY",
   "tipo": "yt_playlist"
  },
  "posts/Hammock-_-Nevertheless": {
@@ -1339,6 +1354,11 @@
  "posts/Phase-Fatale-_-Burning-the-Rural-District": {
   "id": 2084351844,
   "tipo": "bandcamp"
+ },
+ "posts/Primal-Scream-_-Screamadelica": {
+  "fuente": "busqueda",
+  "id": "PLNPGM2D7aODetpy_MAUTRjGb8C1v6gaJD",
+  "tipo": "yt_playlist"
  },
  "posts/Prins-Thomas-_-9": {
   "fuente": "post",
@@ -1674,6 +1694,11 @@
  "posts/keith-jarrett_-the-koln-concert": {
   "fuente": "busqueda",
   "id": "PLmMipYgkMCRsRppPthYHVdWRwGFLdNPPl",
+  "tipo": "yt_playlist"
+ },
+ "posts/kon-kan_-move-to-move": {
+  "fuente": "post",
+  "id": "PL6OjC8w7uBTkdP8TB5hJF6mToRV5yMrIZ",
   "tipo": "yt_playlist"
  },
  "posts/lafur-Arnalds-Talos-_-A-Dawning": {
