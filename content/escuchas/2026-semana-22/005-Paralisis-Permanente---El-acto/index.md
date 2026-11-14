@@ -6,9 +6,13 @@ album: "El acto"
 escuchas: 11
 puesto: 5
 semana: "2026-W22"
+nuevo_artista: true
+nuevo_album: true
 portada: "792930c89eb0e6e2.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Par%C3%A1lisis+Permanente/El+acto)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 11
 

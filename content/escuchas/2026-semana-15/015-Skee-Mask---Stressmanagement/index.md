@@ -6,11 +6,14 @@ album: "Stressmanagement"
 escuchas: 4
 puesto: 15
 semana: "2026-W15"
+nuevo_album: true
 portada: "234f92af7181ec6d.jpg"
 mbid: "f57be2c2-9192-4079-828c-2144ca6a272c"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Skee+Mask/Stressmanagement)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f57be2c2-9192-4079-828c-2144ca6a272c)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

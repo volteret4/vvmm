@@ -6,9 +6,12 @@ album: "Wuzzelbud \"kk\""
 escuchas: 3
 puesto: 11
 semana: "2026-W24"
+nuevo_album: true
 portada: "8ccc087e86bedcde.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Robag+Wruhme/Wuzzelbud+%22kk%22)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

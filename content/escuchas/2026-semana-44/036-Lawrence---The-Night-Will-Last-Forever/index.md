@@ -6,6 +6,7 @@ album: "The Night Will Last Forever"
 escuchas: 3
 puesto: 36
 semana: "2026-W44"
+mix: 2
 portada: "e0a671375eccd780.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/The+Night+Will+Last+Forever)
@@ -15,6 +16,8 @@ portada: "e0a671375eccd780.jpg"
 **Puesto:** 36 de 42
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic
 
@@ -28,4 +31,4 @@ portada: "e0a671375eccd780.jpg"
 |---------|---------:|
 | Attracted by Fire | 1 |
 | Happy Sometimes | 1 |
-| Lost Images | 1 |
+| Lost Images ♥ | 1 |

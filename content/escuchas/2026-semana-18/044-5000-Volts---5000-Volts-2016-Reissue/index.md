@@ -6,6 +6,7 @@ album: "5000 Volts (2016 Reissue)"
 escuchas: 3
 puesto: 44
 semana: "2026-W18"
+mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/5000+Volts/5000+Volts+%282016+Reissue%29)
 
@@ -15,6 +16,8 @@ semana: "2026-W18"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Disco
 
 **Año:** 1976
@@ -23,4 +26,4 @@ semana: "2026-W18"
 
 | Canción | Escuchas |
 |---------|---------:|
-| I'm On Fire | 3 |
+| I'm On Fire ♥ | 3 |

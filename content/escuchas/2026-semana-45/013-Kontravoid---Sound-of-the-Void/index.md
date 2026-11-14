@@ -6,11 +6,15 @@ album: "Sound of the Void"
 escuchas: 8
 puesto: 13
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "e0731e9acfed5111.jpg"
 mbid: "5d6fde12-14d0-4d71-b92e-60ff46e18cc9"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kontravoid/Sound+of+the+Void)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5d6fde12-14d0-4d71-b92e-60ff46e18cc9)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 8
 

@@ -6,11 +6,14 @@ album: "This Mirror Weighs A Ton"
 escuchas: 13
 puesto: 2
 semana: "2026-W35"
+nuevo_album: true
 portada: "38a3c0dfe2b5bf4f.jpg"
 mbid: "bee56bab-5b58-4ccf-9f98-7952e38504e9"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Interpol/This+Mirror+Weighs+A+Ton)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/bee56bab-5b58-4ccf-9f98-7952e38504e9)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 13
 

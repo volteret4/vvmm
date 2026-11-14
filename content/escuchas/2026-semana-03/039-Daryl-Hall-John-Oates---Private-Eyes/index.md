@@ -6,6 +6,7 @@ album: "Private Eyes"
 escuchas: 3
 puesto: 39
 semana: "2026-W03"
+mix: 1
 portada: "af4e855cecce52b5.jpg"
 mbid: "a3cb238e-a88e-4d8a-ac17-05acea6e79b3"
 ---
@@ -18,6 +19,8 @@ mbid: "a3cb238e-a88e-4d8a-ac17-05acea6e79b3"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** pop rock, blue-eyed soul, rock, pop, new wave, aor
 
 **Sello:** RCA
@@ -28,4 +31,4 @@ mbid: "a3cb238e-a88e-4d8a-ac17-05acea6e79b3"
 
 | Canción | Escuchas |
 |---------|---------:|
-| I Can't Go For That (No Can Do) | 3 |
+| I Can't Go For That (No Can Do) ♥ | 3 |

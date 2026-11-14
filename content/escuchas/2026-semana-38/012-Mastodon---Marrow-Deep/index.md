@@ -6,11 +6,14 @@ album: "Marrow Deep"
 escuchas: 3
 puesto: 12
 semana: "2026-W38"
+nuevo_album: true
 portada: "fd66353457416416.png"
 mbid: "48224ad0-ec94-48ed-8210-a5e9b8c30cea"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mastodon/Marrow+Deep)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/48224ad0-ec94-48ed-8210-a5e9b8c30cea)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

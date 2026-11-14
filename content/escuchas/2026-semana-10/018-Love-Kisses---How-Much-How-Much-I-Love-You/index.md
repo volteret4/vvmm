@@ -6,11 +6,15 @@ album: "How Much, How Much I Love You"
 escuchas: 3
 puesto: 18
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "bc1b5e991eb52843.jpg"
 mbid: "1ea3ee75-7e5d-47bc-94f5-9a01f76f79c6"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Love+%26+Kisses/How+Much%2C+How+Much+I+Love+You)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1ea3ee75-7e5d-47bc-94f5-9a01f76f79c6)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

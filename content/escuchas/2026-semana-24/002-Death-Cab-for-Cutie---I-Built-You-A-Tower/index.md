@@ -6,9 +6,12 @@ album: "I Built You A Tower"
 escuchas: 11
 puesto: 2
 semana: "2026-W24"
+nuevo_album: true
 portada: "bc6f5e552a3ea68e.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Death+Cab+for+Cutie/I+Built+You+A+Tower)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

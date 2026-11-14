@@ -6,6 +6,7 @@ album: "Declaration of Dependence"
 escuchas: 6
 puesto: 11
 semana: "2026-W03"
+mix: 4
 portada: "2cbfb15d53e0084f.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kings+of+Convenience/Declaration+of+Dependence)
@@ -15,6 +16,8 @@ portada: "2cbfb15d53e0084f.png"
 **Puesto:** 11 de 41
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥♥♥ 4 canciones
 
 **Género:** Ballad
 
@@ -26,7 +29,7 @@ portada: "2cbfb15d53e0084f.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Me in You | 2 |
-| Mrs. Cold | 2 |
-| 24-25 | 1 |
+| Me in You ♥ | 2 |
+| Mrs. Cold ♥ | 2 |
+| 24-25 ♥ | 1 |
 | Riot on an Empty Street | 1 |

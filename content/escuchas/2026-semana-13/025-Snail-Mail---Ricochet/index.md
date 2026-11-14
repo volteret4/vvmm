@@ -6,11 +6,15 @@ album: "Ricochet"
 escuchas: 6
 puesto: 25
 semana: "2026-W13"
+nuevo_artista: true
+nuevo_album: true
 portada: "358561e7e58c3ede.jpg"
 mbid: "1560e8d1-fdb3-4b6f-aee0-526144905e0a"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Snail+Mail/Ricochet)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1560e8d1-fdb3-4b6f-aee0-526144905e0a)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 6
 

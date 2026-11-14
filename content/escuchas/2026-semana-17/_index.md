@@ -7,5 +7,8 @@ desde: 2026-04-20
 hasta: 2026-04-26
 rango: "20–26 abr 2026"
 scrobbles: 340
+nuevos_artistas: 21
+nuevos_albumes: 26
+mix: 29
 completa: true
 ---

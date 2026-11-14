@@ -6,11 +6,15 @@ album: "Le Mystère des Voix Bulgares, Volume 2"
 escuchas: 4
 puesto: 6
 semana: "2026-W43"
+nuevo_artista: true
+nuevo_album: true
 portada: "d321a58e8cf6b2e6.png"
 mbid: "61f0da67-3963-4efd-998e-7d6819868307"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Le+Myst%C3%A8re+Des+Voix+Bulgares/Le+Myst%C3%A8re+des+Voix+Bulgares%2C+Volume+2)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/61f0da67-3963-4efd-998e-7d6819868307)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

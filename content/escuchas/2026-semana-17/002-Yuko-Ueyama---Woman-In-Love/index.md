@@ -6,8 +6,12 @@ album: "Woman In Love"
 escuchas: 18
 puesto: 2
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Yuko+Ueyama+%28%E6%A4%8D%E5%B1%B1%E9%81%8A%E5%AD%90%29/Woman+In+Love)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 18
 

@@ -6,8 +6,12 @@ album: "Irvin Lee Project"
 escuchas: 11
 puesto: 6
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Irvin+Lee+Project/Irvin+Lee+Project)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 11
 

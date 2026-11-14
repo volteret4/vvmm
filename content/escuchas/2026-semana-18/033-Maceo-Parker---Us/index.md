@@ -6,6 +6,7 @@ album: "Us"
 escuchas: 4
 puesto: 33
 semana: "2026-W18"
+mix: 1
 portada: "e582bb95d67c6300.jpg"
 mbid: "3621953d-d9fd-4fce-b502-6dc02542dc36"
 ---
@@ -18,6 +19,8 @@ mbid: "3621953d-d9fd-4fce-b502-6dc02542dc36"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** funk, soul
 
 **Sello:** People Records
@@ -28,4 +31,4 @@ mbid: "3621953d-d9fd-4fce-b502-6dc02542dc36"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Soul Power 74 | 4 |
+| Soul Power 74 ♥ | 4 |

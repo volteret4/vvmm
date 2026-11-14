@@ -6,9 +6,12 @@ album: "Existence is Bliss"
 escuchas: 12
 puesto: 7
 semana: "2026-W10"
+nuevo_album: true
 portada: "1ada1e9b264741d3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deadletter/Existence+is+Bliss)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 12
 

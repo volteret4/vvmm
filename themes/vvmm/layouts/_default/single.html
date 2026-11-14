@@ -13,7 +13,7 @@
       {{ end }}
     </div>
     <div class="info">
-      <small>{{ if eq .Section "escuchas" }}{{ with .Parent }}<a href="{{ .RelPermalink }}">semana {{ .Params.semana }} · {{ .Params.rango }}</a>{{ end }} · {{ .Params.escuchas }} escuchas{{ else }}{{ if eq .Section "coleccion" }}en mi colección desde el{{ else }}escuchado el{{ end }} {{ .Date | time.Format "2 de January de 2006" }}{{ end }}</small>
+      <small>{{ if eq .Section "escuchas" }}{{ with .Parent }}<a href="{{ .RelPermalink }}">semana {{ .Params.semana }} · {{ .Params.rango }}</a>{{ end }} · {{ .Params.escuchas }} escuchas{{ if .Params.nuevo_artista }} · <span class="nuevo-txt art">★ artista nuevo</span>{{ else if .Params.nuevo_album }} · <span class="nuevo-txt">✦ disco nuevo</span>{{ end }}{{ with .Params.mix }} · <span class="corazon">♥ {{ . }} en mix</span>{{ end }}{{ else }}{{ if eq .Section "coleccion" }}en mi colección desde el{{ else }}escuchado el{{ end }} {{ .Date | time.Format "2 de January de 2006" }}{{ end }}</small>
       <h1>{{ $m.album }}</h1>
       <h2>{{ $m.artist }}</h2>
       <p class="tags">{{ range .GetTerms "tags" }}<a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>{{ end }}</p>

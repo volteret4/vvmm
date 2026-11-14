@@ -6,9 +6,12 @@ album: "Other People, Other Wedding Songs"
 escuchas: 10
 puesto: 9
 semana: "2026-W45"
+nuevo_album: true
 portada: "3b13fc49cf9f239f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jens+Lekman/Other+People%2C+Other+Wedding+Songs)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

@@ -6,11 +6,15 @@ album: "Lake Street Dive & Lawrence: The City Winery Sessions"
 escuchas: 4
 puesto: 11
 semana: "2026-W27"
+nuevo_artista: true
+nuevo_album: true
 portada: "976f244ac80787f2.jpg"
 mbid: "f9bb6ff0-f448-4e91-b368-ac84c3527717"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lake+Street+Dive+%26+Lawrence/Lake+Street+Dive+%26+Lawrence%3A+The+City+Winery+Sessions)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f9bb6ff0-f448-4e91-b368-ac84c3527717)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

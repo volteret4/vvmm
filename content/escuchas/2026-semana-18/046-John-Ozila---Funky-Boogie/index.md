@@ -6,6 +6,7 @@ album: "Funky Boogie"
 escuchas: 3
 puesto: 46
 semana: "2026-W18"
+mix: 1
 portada: "858d2b11ab940d7d.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/John+Ozila/Funky+Boogie)
@@ -15,6 +16,8 @@ portada: "858d2b11ab940d7d.png"
 **Puesto:** 46 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic, Latin, Funk / Soul
 
@@ -26,4 +29,4 @@ portada: "858d2b11ab940d7d.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Funky Boogie (Disco Version) | 3 |
+| Funky Boogie (Disco Version) ♥ | 3 |

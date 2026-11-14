@@ -6,9 +6,12 @@ album: "Electronic City"
 escuchas: 7
 puesto: 23
 semana: "2026-W13"
+nuevo_album: true
 portada: "b5430bfc633d2f79.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Prurient/Electronic+City)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

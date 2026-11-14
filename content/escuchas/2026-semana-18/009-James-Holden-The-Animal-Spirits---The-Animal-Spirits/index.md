@@ -6,11 +6,15 @@ album: "The Animal Spirits"
 escuchas: 9
 puesto: 9
 semana: "2026-W18"
+nuevo_artista: true
+nuevo_album: true
 portada: "ca890852edcb507d.jpg"
 mbid: "c65cb719-e39b-4a43-9af7-fbf932eb9e07"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/James+Holden+%26+The+Animal+Spirits/The+Animal+Spirits)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c65cb719-e39b-4a43-9af7-fbf932eb9e07)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 9
 

@@ -6,8 +6,11 @@ album: "Sunrise LP"
 escuchas: 6
 puesto: 22
 semana: "2026-W16"
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Panna+Cotta/Sunrise+LP)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

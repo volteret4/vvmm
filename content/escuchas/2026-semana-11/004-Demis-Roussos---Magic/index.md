@@ -6,9 +6,13 @@ album: "Magic"
 escuchas: 10
 puesto: 4
 semana: "2026-W11"
+nuevo_artista: true
+nuevo_album: true
 portada: "1be45bd3bc436c4e.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Demis+Roussos/Magic)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

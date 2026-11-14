@@ -6,9 +6,13 @@ album: "Ultravox!"
 escuchas: 7
 puesto: 14
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "2114213fc7ace9b9.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ultravox/Ultravox%21)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 7
 

@@ -6,17 +6,23 @@ album: "Psychick Youth"
 escuchas: 9
 puesto: 5
 semana: "2026-W40"
+nuevo_album: true
+mix: 3
 portada: "3eda56addf006493.jpg"
 mbid: "889e1f04-b591-4fde-9751-d0b79bf12949"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Black+Dog/Psychick+Youth)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/889e1f04-b591-4fde-9751-d0b79bf12949)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 9
 
 **Puesto:** 5 de 11
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Ambient, Idm, Techno
 
@@ -28,12 +34,12 @@ mbid: "889e1f04-b591-4fde-9751-d0b79bf12949"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Beyond Thee Grey Book | 1 |
+| Beyond Thee Grey Book ♥ | 1 |
 | Faith and Fear | 1 |
-| Kali Called By | 1 |
+| Kali Called By ♥ | 1 |
 | Ov Powered | 1 |
 | Simon in Thee Pub | 1 |
 | Thee | 1 |
-| Theme 1 | 1 |
+| Theme 1 ♥ | 1 |
 | Theme 2 | 1 |
 | Three Cuts | 1 |

@@ -6,9 +6,12 @@ album: "Taana Gardner"
 escuchas: 8
 puesto: 5
 semana: "2026-W09"
+nuevo_album: true
 portada: "d5dc91deb3b67d1f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Taana+Gardner/Taana+Gardner)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

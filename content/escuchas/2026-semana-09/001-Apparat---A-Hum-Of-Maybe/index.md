@@ -6,9 +6,12 @@ album: "A Hum Of Maybe"
 escuchas: 13
 puesto: 1
 semana: "2026-W09"
+nuevo_album: true
 portada: "5cdc57cde088684d.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Apparat/A+Hum+Of+Maybe)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 13
 

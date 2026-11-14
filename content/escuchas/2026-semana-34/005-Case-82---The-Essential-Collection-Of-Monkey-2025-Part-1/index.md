@@ -6,11 +6,15 @@ album: "The Essential Collection Of Monkey 2025 - Part.1"
 escuchas: 3
 puesto: 5
 semana: "2026-W34"
+nuevo_artista: true
+nuevo_album: true
 portada: "f89ac13f78f5a808.jpg"
 mbid: "f86ee8f9-3a86-485e-8a5d-3ec9df1a1c27"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Case+82/The+Essential+Collection+Of+Monkey+2025+-+Part.1)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f86ee8f9-3a86-485e-8a5d-3ec9df1a1c27)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

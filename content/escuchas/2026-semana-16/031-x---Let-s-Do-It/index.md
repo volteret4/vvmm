@@ -6,11 +6,14 @@ album: "愛は思うまま (Let's Do It)"
 escuchas: 5
 puesto: 31
 semana: "2026-W16"
+nuevo_album: true
 portada: "d6a1389256e3a7e1.png"
 mbid: "8f767cc7-89e3-45c0-b8b7-748aed7b605d"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90/%E6%84%9B%E3%81%AF%E6%80%9D%E3%81%86%E3%81%BE%E3%81%BE+%28Let%27s+Do+It%29)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/8f767cc7-89e3-45c0-b8b7-748aed7b605d)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 

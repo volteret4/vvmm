@@ -7,5 +7,8 @@ desde: 2025-12-29
 hasta: 2026-01-04
 rango: "29 dic 2025 – 4 ene 2026"
 scrobbles: 40
+nuevos_artistas: 0
+nuevos_albumes: 1
+mix: 4
 completa: true
 ---

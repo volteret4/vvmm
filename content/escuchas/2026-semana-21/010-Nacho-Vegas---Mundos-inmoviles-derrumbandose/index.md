@@ -6,6 +6,7 @@ album: "Mundos inmóviles derrumbándose"
 escuchas: 5
 puesto: 10
 semana: "2026-W21"
+mix: 1
 portada: "dbf29a2b255d1a13.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nacho+Vegas/Mundos+inm%C3%B3viles+derrumb%C3%A1ndose)
@@ -16,6 +17,8 @@ portada: "dbf29a2b255d1a13.jpg"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Alternative
 
 **Año:** 2022
@@ -24,4 +27,4 @@ portada: "dbf29a2b255d1a13.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| La flor de la manzana | 5 |
+| La flor de la manzana ♥ | 5 |

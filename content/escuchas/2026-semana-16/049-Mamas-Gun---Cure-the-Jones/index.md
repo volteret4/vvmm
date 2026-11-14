@@ -6,15 +6,22 @@ album: "Cure the Jones"
 escuchas: 3
 puesto: 49
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "c3c7dd685ab79094.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mamas+Gun/Cure+the+Jones)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 
 **Puesto:** 49 de 59
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Soul
 
@@ -26,6 +33,6 @@ portada: "c3c7dd685ab79094.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Friends To Lovers | 1 |
+| Friends To Lovers ♥ | 1 |
 | Looking For Moses | 1 |
 | When You Stole The Sun From The Sky | 1 |

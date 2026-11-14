@@ -6,6 +6,7 @@ album: "Remain in Light"
 escuchas: 3
 puesto: 2
 semana: "2026-W02"
+mix: 2
 portada: "26fbd11e88b452d1.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Talking+Heads/Remain+in+Light)
@@ -15,6 +16,8 @@ portada: "26fbd11e88b452d1.png"
 **Puesto:** 2 de 2
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Rock
 
@@ -26,6 +29,6 @@ portada: "26fbd11e88b452d1.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Born Under Punches (The Heat Goes On) | 1 |
+| Born Under Punches (The Heat Goes On) ♥ | 1 |
 | Crosseyed and Painless | 1 |
-| Once in a Lifetime | 1 |
+| Once in a Lifetime ♥ | 1 |

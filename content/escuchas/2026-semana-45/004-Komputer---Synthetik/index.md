@@ -6,15 +6,22 @@ album: "Synthetik"
 escuchas: 15
 puesto: 4
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "4b70a560e02e620d.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Komputer/Synthetik)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 15
 
 **Puesto:** 4 de 44
 
 **Canciones distintas:** 11
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Synthpop, Electro
 
@@ -24,9 +31,9 @@ portada: "4b70a560e02e620d.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Breathing | 3 |
+| Breathing ♥ | 3 |
 | Headphones And Ringtones | 2 |
-| International Space Station | 2 |
+| International Space Station ♥ | 2 |
 | Blackie | 1 |
 | Gloopy | 1 |
 | Like A Bird | 1 |

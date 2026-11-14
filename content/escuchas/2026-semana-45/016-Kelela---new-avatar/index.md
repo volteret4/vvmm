@@ -6,9 +6,13 @@ album: "new avatar"
 escuchas: 7
 puesto: 16
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "36c0b5295661680d.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kelela/new+avatar)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 7
 

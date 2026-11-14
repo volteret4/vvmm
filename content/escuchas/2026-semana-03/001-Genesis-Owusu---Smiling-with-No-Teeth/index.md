@@ -6,6 +6,7 @@ album: "Smiling with No Teeth"
 escuchas: 13
 puesto: 1
 semana: "2026-W03"
+mix: 1
 portada: "0e7017f1caa77cad.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Genesis+Owusu/Smiling+with+No+Teeth)
@@ -15,6 +16,8 @@ portada: "0e7017f1caa77cad.jpg"
 **Puesto:** 1 de 41
 
 **Canciones distintas:** 13
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Ambient
 
@@ -36,6 +39,6 @@ portada: "0e7017f1caa77cad.jpg"
 | No Looking Back | 1 |
 | On the Move! | 1 |
 | Smiling with No Teeth | 1 |
-| The Other Black Dog | 1 |
+| The Other Black Dog ♥ | 1 |
 | Waitin’ on Ya | 1 |
 | Whip Cracker | 1 |

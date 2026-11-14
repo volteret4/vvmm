@@ -6,17 +6,24 @@ album: "Madonna"
 escuchas: 6
 puesto: 22
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "a658fd538ea6039f.jpg"
 mbid: "662ebe35-f168-4e4c-bf0d-0a3d828dd8f2"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Madonna/Madonna)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/662ebe35-f168-4e4c-bf0d-0a3d828dd8f2)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 6
 
 **Puesto:** 22 de 42
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** rock, new wave
 
@@ -29,6 +36,6 @@ mbid: "662ebe35-f168-4e4c-bf0d-0a3d828dd8f2"
 | Canción | Escuchas |
 |---------|---------:|
 | Borderline | 2 |
-| Burning Up | 2 |
+| Burning Up ♥ | 2 |
 | I Know It | 1 |
 | Lucky Star | 1 |

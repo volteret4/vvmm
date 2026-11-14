@@ -6,9 +6,12 @@ album: "MOVEMENT"
 escuchas: 3
 puesto: 14
 semana: "2026-W23"
+nuevo_album: true
 portada: "ad16ffefa0587011.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Gigi+Masin/MOVEMENT)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

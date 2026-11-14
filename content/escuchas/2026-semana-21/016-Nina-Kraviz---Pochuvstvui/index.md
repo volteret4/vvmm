@@ -6,9 +6,12 @@ album: "Pochuvstvui"
 escuchas: 3
 puesto: 16
 semana: "2026-W21"
+nuevo_album: true
 portada: "c5bca054988085d2.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nina+Kraviz/Pochuvstvui)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

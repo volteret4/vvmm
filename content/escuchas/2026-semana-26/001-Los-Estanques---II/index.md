@@ -6,9 +6,13 @@ album: "II"
 escuchas: 13
 puesto: 1
 semana: "2026-W26"
+nuevo_artista: true
+nuevo_album: true
 portada: "7731a5530752c68f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Los+Estanques/II)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 13
 

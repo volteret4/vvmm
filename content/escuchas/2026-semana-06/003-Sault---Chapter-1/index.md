@@ -6,9 +6,12 @@ album: "Chapter 1"
 escuchas: 10
 puesto: 3
 semana: "2026-W06"
+nuevo_album: true
 portada: "3c985ac8b5ae750d.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sault/Chapter+1)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

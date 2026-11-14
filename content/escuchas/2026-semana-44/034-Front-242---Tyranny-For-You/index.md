@@ -6,6 +6,7 @@ album: "Tyranny For You"
 escuchas: 3
 puesto: 34
 semana: "2026-W44"
+mix: 2
 portada: "797cba3ddcf339a1.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Front+242/Tyranny+For+You)
@@ -16,6 +17,8 @@ portada: "797cba3ddcf339a1.png"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** Electronic
 
 **Año:** 1991
@@ -24,6 +27,6 @@ portada: "797cba3ddcf339a1.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Moldavia | 1 |
+| Moldavia ♥ | 1 |
 | Neurobashing | 1 |
-| Tragedy For You | 1 |
+| Tragedy For You ♥ | 1 |

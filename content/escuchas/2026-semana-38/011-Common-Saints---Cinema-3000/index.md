@@ -6,11 +6,14 @@ album: "Cinema 3000"
 escuchas: 3
 puesto: 11
 semana: "2026-W38"
+nuevo_album: true
 portada: "3e7548acd716a512.jpg"
 mbid: "5f7a87c8-7308-4316-9611-5fca9ef4500d"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Common+Saints/Cinema+3000)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5f7a87c8-7308-4316-9611-5fca9ef4500d)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

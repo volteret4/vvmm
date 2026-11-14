@@ -7,5 +7,8 @@ desde: 2026-10-12
 hasta: 2026-10-18
 rango: "12–18 oct 2026"
 scrobbles: 61
+nuevos_artistas: 1
+nuevos_albumes: 5
+mix: 8
 completa: true
 ---

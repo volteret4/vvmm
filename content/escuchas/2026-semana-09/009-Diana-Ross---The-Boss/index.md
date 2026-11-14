@@ -6,9 +6,12 @@ album: "The Boss"
 escuchas: 6
 puesto: 9
 semana: "2026-W09"
+nuevo_album: true
 portada: "40c263d8a9a64c0f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Diana+Ross/The+Boss)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

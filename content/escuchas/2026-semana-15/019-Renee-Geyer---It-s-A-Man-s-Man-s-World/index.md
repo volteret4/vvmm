@@ -6,15 +6,22 @@ album: "It's A Man's Man's World"
 escuchas: 3
 puesto: 19
 semana: "2026-W15"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "71675859f863d3cb.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ren%C3%A9e+Geyer/It%27s+A+Man%27s+Man%27s+World)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 
 **Puesto:** 19 de 20
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Funk;Soul
 

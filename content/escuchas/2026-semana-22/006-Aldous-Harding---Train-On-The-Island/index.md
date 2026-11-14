@@ -6,15 +6,21 @@ album: "Train On The Island"
 escuchas: 9
 puesto: 6
 semana: "2026-W22"
+nuevo_album: true
+mix: 2
 portada: "f6e4fd751d7026f8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Aldous+Harding/Train+On+The+Island)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 
 **Puesto:** 6 de 7
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 
@@ -31,7 +37,7 @@ portada: "f6e4fd751d7026f8.jpg"
 | If Lady Does It | 1 |
 | One Stop | 1 |
 | Riding That Symbol | 1 |
-| San Francisco | 1 |
-| Train On The Island | 1 |
+| San Francisco ♥ | 1 |
+| Train On The Island ♥ | 1 |
 | What Am I Gonna Do? | 1 |
 | Worms | 1 |

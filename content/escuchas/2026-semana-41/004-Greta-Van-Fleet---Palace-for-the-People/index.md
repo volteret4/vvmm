@@ -6,11 +6,14 @@ album: "Palace for the People"
 escuchas: 7
 puesto: 4
 semana: "2026-W41"
+nuevo_album: true
 portada: "5b706500bf7ad5ce.jpg"
 mbid: "c8301d77-fd70-4e3a-b5b3-d20e07b85c6d"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Greta+Van+Fleet/Palace+for+the+People)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c8301d77-fd70-4e3a-b5b3-d20e07b85c6d)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

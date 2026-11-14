@@ -6,14 +6,21 @@ album: "Seyl"
 escuchas: 4
 puesto: 14
 semana: "2026-W15"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sciahri/Seyl)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 
 **Puesto:** 14 de 20
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -25,7 +32,7 @@ semana: "2026-W15"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Dorugh | 1 |
+| Dorugh ♥ | 1 |
 | Estro | 1 |
 | Forma | 1 |
 | Modj | 1 |

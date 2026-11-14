@@ -6,11 +6,14 @@ album: "Radical Frame"
 escuchas: 4
 puesto: 6
 semana: "2026-W38"
+nuevo_album: true
 portada: "2bd4424b0abd9663.jpg"
 mbid: "e596d6fc-a4eb-4062-947b-530382901f06"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Actress/Radical+Frame)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e596d6fc-a4eb-4062-947b-530382901f06)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

@@ -6,9 +6,12 @@ album: "You, Me And He"
 escuchas: 4
 puesto: 24
 semana: "2026-W18"
+nuevo_album: true
 portada: "e7851697c8ffb2ea.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mtume/You%2C+Me+And+He)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

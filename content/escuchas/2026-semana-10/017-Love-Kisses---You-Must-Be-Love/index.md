@@ -6,11 +6,15 @@ album: "You Must Be Love"
 escuchas: 4
 puesto: 17
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "6cc51e68c16b3277.jpg"
 mbid: "c15bc6d8-224f-4df4-a5c9-add7f4ae1897"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Love+%26+Kisses/You+Must+Be+Love)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c15bc6d8-224f-4df4-a5c9-add7f4ae1897)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

@@ -6,6 +6,7 @@ album: "NEU! '86"
 escuchas: 3
 puesto: 8
 semana: "2026-W43"
+mix: 1
 portada: "59ee2db5b6f89b07.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/NEU%21/NEU%21+%2786)
@@ -15,6 +16,8 @@ portada: "59ee2db5b6f89b07.jpg"
 **Puesto:** 8 de 13
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic
 
@@ -28,4 +31,4 @@ portada: "59ee2db5b6f89b07.jpg"
 |---------|---------:|
 | Crazy | 1 |
 | Drive (Grundfunken) | 1 |
-| La Bomba (Stop Apartheid World-Wide) | 1 |
+| La Bomba (Stop Apartheid World-Wide) ♥ | 1 |

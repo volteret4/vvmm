@@ -6,17 +6,23 @@ album: "Star Child"
 escuchas: 4
 puesto: 38
 semana: "2026-W16"
+nuevo_album: true
+mix: 2
 portada: "dd5fa46829800e16.jpg"
 mbid: "e26beef0-0c4e-498f-9db0-02aa1e055139"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jeff+Mills/Star+Child)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e26beef0-0c4e-498f-9db0-02aa1e055139)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 4
 
 **Puesto:** 38 de 59
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Techno, Minimal, Detroit Techno
 
@@ -30,5 +36,5 @@ mbid: "e26beef0-0c4e-498f-9db0-02aa1e055139"
 |---------|---------:|
 | Love Warrior | 1 |
 | Satori | 1 |
-| Starlight Trance Dancer | 1 |
-| Theme From Star Child | 1 |
+| Starlight Trance Dancer ♥ | 1 |
+| Theme From Star Child ♥ | 1 |

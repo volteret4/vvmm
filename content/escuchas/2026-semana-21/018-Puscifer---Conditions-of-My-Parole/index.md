@@ -6,6 +6,7 @@ album: "Conditions of My Parole"
 escuchas: 3
 puesto: 18
 semana: "2026-W21"
+mix: 2
 portada: "1ba7d2b85274510a.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Puscifer/Conditions+of+My+Parole)
@@ -15,6 +16,8 @@ portada: "1ba7d2b85274510a.jpg"
 **Puesto:** 18 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Rock
 
@@ -26,4 +29,4 @@ portada: "1ba7d2b85274510a.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Monsoons | 3 |
+| Monsoons ♥ | 3 |

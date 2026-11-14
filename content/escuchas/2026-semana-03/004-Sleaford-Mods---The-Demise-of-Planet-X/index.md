@@ -6,9 +6,12 @@ album: "The Demise of Planet X"
 escuchas: 11
 puesto: 4
 semana: "2026-W03"
+nuevo_album: true
 portada: "1d0770237d15d64f.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sleaford+Mods/The+Demise+of+Planet+X)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

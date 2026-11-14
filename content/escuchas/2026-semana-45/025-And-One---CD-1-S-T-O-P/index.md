@@ -6,6 +6,7 @@ album: "CD 1 - S.T.O.P."
 escuchas: 4
 puesto: 25
 semana: "2026-W45"
+mix: 4
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/And+One/CD+1+-+S.T.O.P.)
 
@@ -14,6 +15,8 @@ semana: "2026-W45"
 **Puesto:** 25 de 44
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥♥♥ 4 canciones
 
 **Género:** Electro-Pop
 
@@ -24,6 +27,6 @@ semana: "2026-W45"
 | Canción | Escuchas |
 |---------|---------:|
 | Back Home | 1 |
-| Don't Get Me Wrong | 1 |
+| Don't Get Me Wrong ♥ | 1 |
 | Everybody Dies Tonight | 1 |
 | S.T.O.P. The Sun | 1 |

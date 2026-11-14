@@ -6,6 +6,7 @@ album: "New Life"
 escuchas: 3
 puesto: 10
 semana: "2026-W40"
+mix: 2
 portada: "ee91cf0d96498e5b.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ellen+Allien/New+Life)
@@ -15,6 +16,8 @@ portada: "ee91cf0d96498e5b.jpg"
 **Puesto:** 10 de 11
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Techno
 
@@ -26,5 +29,5 @@ portada: "ee91cf0d96498e5b.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Mein Herz | 2 |
-| Lights Off | 1 |
+| Mein Herz ♥ | 2 |
+| Lights Off ♥ | 1 |

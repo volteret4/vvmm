@@ -6,6 +6,7 @@ album: "NOSSO RITMO"
 escuchas: 3
 puesto: 38
 semana: "2026-W03"
+mix: 1
 portada: "dcf5e8bc3211b40c.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Yuksek/NOSSO+RITMO)
@@ -15,6 +16,8 @@ portada: "dcf5e8bc3211b40c.jpg"
 **Puesto:** 38 de 41
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic
 

@@ -6,11 +6,14 @@ album: "A Man from the Future"
 escuchas: 10
 puesto: 2
 semana: "2026-W41"
+nuevo_album: true
 portada: "78b10f8b46f2254c.jpg"
 mbid: "15b3cc82-4ec3-4b55-9cb7-5361d9cbfb52"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Pet+Shop+Boys/A+Man+from+the+Future)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/15b3cc82-4ec3-4b55-9cb7-5361d9cbfb52)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

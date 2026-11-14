@@ -6,11 +6,14 @@ album: "Canciones chulas"
 escuchas: 9
 puesto: 2
 semana: "2026-W42"
+nuevo_album: true
 portada: "9ef916ec2e68a603.jpg"
 mbid: "da084cd5-b9b6-436b-bc9b-e24e2f52fd1f"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Los+Enemigos/Canciones+chulas)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/da084cd5-b9b6-436b-bc9b-e24e2f52fd1f)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

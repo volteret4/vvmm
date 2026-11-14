@@ -6,6 +6,7 @@ album: "Understanding"
 escuchas: 3
 puesto: 45
 semana: "2026-W18"
+mix: 1
 portada: "bdff3fce9882658b.jpg"
 mbid: "6130f585-9840-494a-be4e-886e84a3e429"
 ---
@@ -18,6 +19,8 @@ mbid: "6130f585-9840-494a-be4e-886e84a3e429"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** soul, funk, funk soul, r&b
 
 **Sello:** United Artists
@@ -28,4 +31,4 @@ mbid: "6130f585-9840-494a-be4e-886e84a3e429"
 
 | Canción | Escuchas |
 |---------|---------:|
-| I Can Understand It | 3 |
+| I Can Understand It ♥ | 3 |

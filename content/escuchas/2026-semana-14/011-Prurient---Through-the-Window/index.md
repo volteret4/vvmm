@@ -6,9 +6,12 @@ album: "Through the Window"
 escuchas: 3
 puesto: 11
 semana: "2026-W14"
+nuevo_album: true
 portada: "6bfc7728335132d8.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Prurient/Through+the+Window)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

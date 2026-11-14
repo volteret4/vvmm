@@ -6,15 +6,21 @@ album: "...And the Circus Leaves Town"
 escuchas: 5
 puesto: 2
 semana: "2026-W25"
+nuevo_album: true
+mix: 1
 portada: "83e8465b333fd974.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kyuss/...And+the+Circus+Leaves+Town)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 
 **Puesto:** 2 de 3
 
 **Canciones distintas:** 5
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Rock
 
@@ -25,7 +31,7 @@ portada: "83e8465b333fd974.png"
 | Canción | Escuchas |
 |---------|---------:|
 | Gloria Lewis | 1 |
-| Hurricane | 1 |
+| Hurricane ♥ | 1 |
 | One Inch Man | 1 |
 | Phototropic | 1 |
 | Thee Ol' Boozeroony | 1 |

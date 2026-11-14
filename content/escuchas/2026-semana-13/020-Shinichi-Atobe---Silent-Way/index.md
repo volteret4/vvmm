@@ -6,17 +6,23 @@ album: "Silent Way"
 escuchas: 9
 puesto: 20
 semana: "2026-W13"
+nuevo_album: true
+mix: 1
 portada: "9344a906773a82d9.jpg"
 mbid: "b4e99217-f371-445a-8a7e-27ae6addebef"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Shinichi+Atobe/Silent+Way)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b4e99217-f371-445a-8a7e-27ae6addebef)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 9
 
 **Puesto:** 20 de 35
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Techno, Minimal Techno, Dub Techno
 
@@ -34,6 +40,6 @@ mbid: "b4e99217-f371-445a-8a7e-27ae6addebef"
 | Durability | 1 |
 | Fractal | 1 |
 | Intro 6.1 | 1 |
-| Phase 2 | 1 |
+| Phase 2 ♥ | 1 |
 | Rain 1 | 1 |
 | Syndrom | 1 |

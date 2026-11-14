@@ -6,11 +6,15 @@ album: "Music For Empty Stadiums"
 escuchas: 10
 puesto: 9
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
 portada: "bf1af2f5e6ef0100.jpg"
 mbid: "3947e0bb-3281-4a46-9cfe-0a32112b4327"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Or/Music+For+Empty+Stadiums)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3947e0bb-3281-4a46-9cfe-0a32112b4327)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

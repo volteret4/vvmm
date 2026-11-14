@@ -6,9 +6,12 @@ album: "Snowdrop"
 escuchas: 8
 puesto: 8
 semana: "2026-W27"
+nuevo_album: true
 portada: "d8df77bf384b8082.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mono/Snowdrop)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

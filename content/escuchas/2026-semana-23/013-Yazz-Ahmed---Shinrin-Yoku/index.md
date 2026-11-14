@@ -6,9 +6,12 @@ album: "Shinrin Yoku"
 escuchas: 3
 puesto: 13
 semana: "2026-W23"
+nuevo_album: true
 portada: "97e5484e78a717eb.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Yazz+Ahmed/Shinrin+Yoku)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

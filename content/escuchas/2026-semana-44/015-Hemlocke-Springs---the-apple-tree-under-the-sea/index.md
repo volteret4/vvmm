@@ -6,15 +6,22 @@ album: "the apple tree under the sea"
 escuchas: 7
 puesto: 15
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "7a4e033968a5a4d3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Hemlocke+Springs/the+apple+tree+under+the+sea)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 7
 
 **Puesto:** 15 de 42
 
 **Canciones distintas:** 7
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 
@@ -26,10 +33,10 @@ portada: "7a4e033968a5a4d3.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| be the girl! | 1 |
+| be the girl! ♥ | 1 |
 | head, shoulders, knees and ankles | 1 |
 | moses | 1 |
 | sever the blight | 1 |
-| the beginning of the end | 1 |
+| the beginning of the end ♥ | 1 |
 | the red apple | 1 |
 | W-W-W-W-W | 1 |

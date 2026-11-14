@@ -6,9 +6,13 @@ album: "Y"
 escuchas: 11
 puesto: 10
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "89dc5a86c4f22d62.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Pop+Group/Y)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 11
 

@@ -6,9 +6,13 @@ album: "Baby Monkey"
 escuchas: 5
 puesto: 24
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "48d365de62dbe69a.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Voodoo+Child/Baby+Monkey)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 5
 

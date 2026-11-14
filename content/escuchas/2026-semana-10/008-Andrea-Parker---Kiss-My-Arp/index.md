@@ -6,9 +6,13 @@ album: "Kiss My Arp"
 escuchas: 11
 puesto: 8
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "bd3f515872f10a54.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Andrea+Parker/Kiss+My+Arp)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 11
 

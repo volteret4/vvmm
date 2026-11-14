@@ -6,11 +6,15 @@ album: "Garip"
 escuchas: 10
 puesto: 11
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "2135e2613a0e14c5.jpg"
 mbid: "49ba5b2e-f972-409b-8cfa-80cf9e3c4c2d"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Altin+G%C3%BCn/Garip)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/49ba5b2e-f972-409b-8cfa-80cf9e3c4c2d)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

@@ -6,6 +6,7 @@ album: "Vestibule"
 escuchas: 3
 puesto: 9
 semana: "2026-W11"
+mix: 3
 portada: "bc8c7cca7dc4266f.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Galcher+Lustwerk/Vestibule)
@@ -16,6 +17,8 @@ portada: "bc8c7cca7dc4266f.png"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** Unknown
 
 **Año:** 2026-02-13
@@ -24,6 +27,6 @@ portada: "bc8c7cca7dc4266f.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Shorty Out | 1 |
-| Vestibule | 1 |
-| Wet Bulb | 1 |
+| Shorty Out ♥ | 1 |
+| Vestibule ♥ | 1 |
+| Wet Bulb ♥ | 1 |

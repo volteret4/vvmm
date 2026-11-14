@@ -6,6 +6,7 @@ album: "Tim Maia"
 escuchas: 4
 puesto: 38
 semana: "2026-W18"
+mix: 1
 portada: "d93d95d33019c087.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tim+Maia/Tim+Maia)
@@ -15,6 +16,8 @@ portada: "d93d95d33019c087.jpg"
 **Puesto:** 38 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Funk
 
@@ -26,4 +29,4 @@ portada: "d93d95d33019c087.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Réu Confesso | 4 |
+| Réu Confesso ♥ | 4 |

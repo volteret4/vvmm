@@ -6,9 +6,12 @@ album: "Perfecth"
 escuchas: 10
 puesto: 10
 semana: "2026-W44"
+nuevo_album: true
 portada: "74ae413d22b3e31e.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Queens+of+the+Stone+Age/Perfecth)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

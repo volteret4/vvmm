@@ -6,17 +6,24 @@ album: "Reaching For The Top"
 escuchas: 11
 puesto: 5
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "067e1308d948b3d7.jpg"
 mbid: "edf04382-6774-4654-b78a-bf7d97954b23"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+9th+Creation/Reaching+For+The+Top)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/edf04382-6774-4654-b78a-bf7d97954b23)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 11
 
 **Puesto:** 5 de 29
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** funk, soul
 
@@ -29,7 +36,7 @@ mbid: "edf04382-6774-4654-b78a-bf7d97954b23"
 | Canción | Escuchas |
 |---------|---------:|
 | It Aint Right | 2 |
-| Reaching For The Top | 2 |
+| Reaching For The Top ♥ | 2 |
 | A Good Time | 1 |
 | Bionic Love Affair | 1 |
 | Come Back Home | 1 |

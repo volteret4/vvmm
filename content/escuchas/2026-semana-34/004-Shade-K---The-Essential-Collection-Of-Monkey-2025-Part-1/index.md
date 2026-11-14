@@ -6,11 +6,15 @@ album: "The Essential Collection Of Monkey 2025 - Part.1"
 escuchas: 4
 puesto: 4
 semana: "2026-W34"
+nuevo_artista: true
+nuevo_album: true
 portada: "48b5aeca41a08766.jpg"
 mbid: "d77ef5bb-f6df-41a5-906f-00135057ffa0"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Shade+K/The+Essential+Collection+Of+Monkey+2025+-+Part.1)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d77ef5bb-f6df-41a5-906f-00135057ffa0)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

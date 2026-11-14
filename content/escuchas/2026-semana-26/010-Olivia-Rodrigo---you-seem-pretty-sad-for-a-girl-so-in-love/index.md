@@ -6,9 +6,13 @@ album: "you seem pretty sad for a girl so in love"
 escuchas: 3
 puesto: 10
 semana: "2026-W26"
+nuevo_artista: true
+nuevo_album: true
 portada: "2355b7aaf6e77754.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Olivia+Rodrigo/you+seem+pretty+sad+for+a+girl+so+in+love)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

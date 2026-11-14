@@ -6,6 +6,7 @@ album: "SABLE, fABLE"
 escuchas: 3
 puesto: 17
 semana: "2026-W21"
+mix: 1
 portada: "971a2a8d7daa0f66.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bon+Iver/SABLE%2C+fABLE)
@@ -15,6 +16,8 @@ portada: "971a2a8d7daa0f66.jpg"
 **Puesto:** 17 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Art Pop
 
@@ -26,4 +29,4 @@ portada: "971a2a8d7daa0f66.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Things Behind Things Behind Things | 3 |
+| Things Behind Things Behind Things ♥ | 3 |

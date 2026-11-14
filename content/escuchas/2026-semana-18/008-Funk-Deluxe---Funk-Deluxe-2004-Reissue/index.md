@@ -6,14 +6,21 @@ album: "Funk Deluxe (2004 Reissue)"
 escuchas: 9
 puesto: 8
 semana: "2026-W18"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Funk+Deluxe/Funk+Deluxe+%282004+Reissue%29)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 9
 
 **Puesto:** 8 de 52
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Funk; Soul
 
@@ -28,7 +35,7 @@ semana: "2026-W18"
 | Friends | 1 |
 | Partime Lover | 1 |
 | She's What I Need | 1 |
-| Take It to the Top | 1 |
+| Take It to the Top ♥ | 1 |
 | Tender Lovin' | 1 |
-| This Time | 1 |
-| This Time (12'' Mix) | 1 |
+| This Time ♥ | 1 |
+| This Time (12'' Mix) ♥ | 1 |

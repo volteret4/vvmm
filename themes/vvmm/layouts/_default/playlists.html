@@ -22,7 +22,6 @@
           <a class="card yt" href="https://www.youtube.com/playlist?list={{ .id }}" target="_blank" rel="noopener" data-yt="{{ .id }}" title="{{ .descripcion }}">
             <div class="sleeve wide">
               {{ with .miniatura }}<img src="{{ . }}" loading="lazy" alt="">{{ else }}<div class="nocover"><span>{{ .titulo }}</span></div>{{ end }}
-              <span class="plays">{{ .videos }}</span>
             </div>
             <div class="cap">
               <b>{{ .titulo }}</b>

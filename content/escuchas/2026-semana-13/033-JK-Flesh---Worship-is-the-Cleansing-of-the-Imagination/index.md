@@ -6,11 +6,14 @@ album: "Worship is the Cleansing of the Imagination"
 escuchas: 3
 puesto: 33
 semana: "2026-W13"
+nuevo_album: true
 portada: "d1e96ba4b6ea8891.png"
 mbid: "a49b0f9d-b5dd-44de-9f6d-948a01f21dcc"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/JK+Flesh/Worship+is+the+Cleansing+of+the+Imagination)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/a49b0f9d-b5dd-44de-9f6d-948a01f21dcc)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

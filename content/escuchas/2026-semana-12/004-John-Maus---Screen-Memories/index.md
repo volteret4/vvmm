@@ -6,9 +6,12 @@ album: "Screen Memories"
 escuchas: 11
 puesto: 4
 semana: "2026-W12"
+nuevo_album: true
 portada: "14555c169dacf1cd.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/John+Maus/Screen+Memories)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

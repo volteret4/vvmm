@@ -6,9 +6,12 @@ album: "Dream Weapon"
 escuchas: 7
 puesto: 9
 semana: "2026-W30"
+nuevo_album: true
 portada: "54e7583f5a2329fa.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Genghis+Tron/Dream+Weapon)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

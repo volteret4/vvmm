@@ -6,11 +6,14 @@ album: "Substrata"
 escuchas: 8
 puesto: 7
 semana: "2026-W35"
+nuevo_album: true
 portada: "f273a399e8d904da.jpg"
 mbid: "c6f1a30b-82e0-4121-bdd6-3d4233d28c6b"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Biosphere/Substrata)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c6f1a30b-82e0-4121-bdd6-3d4233d28c6b)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

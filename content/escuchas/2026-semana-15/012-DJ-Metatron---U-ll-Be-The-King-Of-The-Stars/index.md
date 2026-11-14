@@ -6,6 +6,7 @@ album: "U’ll Be The King Of The Stars"
 escuchas: 5
 puesto: 12
 semana: "2026-W15"
+mix: 2
 portada: "82a14e80943d402d.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/DJ+Metatron/U%E2%80%99ll+Be+The+King+Of+The+Stars)
@@ -15,6 +16,8 @@ portada: "82a14e80943d402d.jpg"
 **Puesto:** 12 de 20
 
 **Canciones distintas:** 5
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Ambient;Breaks;House;Techno
 
@@ -26,8 +29,8 @@ portada: "82a14e80943d402d.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Oh Ah | 1 |
-| Rave Child | 1 |
+| Oh Ah ♥ | 1 |
+| Rave Child ♥ | 1 |
 | Spiral Worlds | 1 |
 | The Colour (Sad Sad Euphoria Breakbeat Mix) | 1 |
 | U’ll Be The King Of The Stars | 1 |

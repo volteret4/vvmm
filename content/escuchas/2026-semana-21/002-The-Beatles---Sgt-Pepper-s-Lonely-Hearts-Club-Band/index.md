@@ -6,6 +6,7 @@ album: "Sgt. Pepper’s Lonely Hearts Club Band"
 escuchas: 13
 puesto: 2
 semana: "2026-W21"
+mix: 4
 portada: "af3bbd776d3213aa.png"
 mbid: "c60b8b80-01be-4844-af15-df04375d316d"
 ---
@@ -18,6 +19,8 @@ mbid: "c60b8b80-01be-4844-af15-df04375d316d"
 
 **Canciones distintas:** 4
 
+**En Mix:** ♥♥♥♥ 4 canciones
+
 **Género:** rock, psychedelic rock, baroque pop, pop, classic rock, pop rock
 
 **Sello:** Capitol Records
@@ -28,7 +31,7 @@ mbid: "c60b8b80-01be-4844-af15-df04375d316d"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Getting Better | 6 |
-| Sgt. Pepper’s Lonely Hearts Club Band | 3 |
-| With a Little Help From My Friends | 3 |
-| Sgt. Pepper’s Lonely Hearts Club Band (Reprise) | 1 |
+| Getting Better ♥ | 6 |
+| Sgt. Pepper’s Lonely Hearts Club Band ♥ | 3 |
+| With a Little Help From My Friends ♥ | 3 |
+| Sgt. Pepper’s Lonely Hearts Club Band (Reprise) ♥ | 1 |

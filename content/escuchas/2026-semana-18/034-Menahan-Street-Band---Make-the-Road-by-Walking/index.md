@@ -6,6 +6,7 @@ album: "Make the Road by Walking"
 escuchas: 4
 puesto: 34
 semana: "2026-W18"
+mix: 1
 portada: "dedf620bae71b010.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Menahan+Street+Band/Make+the+Road+by+Walking)
@@ -15,6 +16,8 @@ portada: "dedf620bae71b010.png"
 **Puesto:** 34 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Funk
 
@@ -26,4 +29,4 @@ portada: "dedf620bae71b010.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Make the Road by Walking | 4 |
+| Make the Road by Walking ♥ | 4 |

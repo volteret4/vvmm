@@ -6,9 +6,12 @@ album: "Labour Division"
 escuchas: 7
 puesto: 14
 semana: "2026-W44"
+nuevo_album: true
 portada: "63c4bbca26252334.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Forward+Strategy+Group/Labour+Division)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

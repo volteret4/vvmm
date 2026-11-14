@@ -6,11 +6,14 @@ album: "Traces of the wind"
 escuchas: 3
 puesto: 7
 semana: "2026-W12"
+nuevo_album: true
 portada: "653db6765ace98bf.jpg"
 mbid: "ee81cbc2-dac8-455d-bdf2-5035f4fd119d"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Petre+Inspirescu/Traces+of+the+wind)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/ee81cbc2-dac8-455d-bdf2-5035f4fd119d)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

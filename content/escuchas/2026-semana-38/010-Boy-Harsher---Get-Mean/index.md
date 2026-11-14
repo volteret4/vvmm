@@ -6,17 +6,23 @@ album: "Get Mean"
 escuchas: 3
 puesto: 10
 semana: "2026-W38"
+nuevo_album: true
+mix: 1
 portada: "3cf1a75e419e8ca6.jpg"
 mbid: "9b8dd719-54f9-47bf-b015-ac36822b1c9b"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Boy+Harsher/Get+Mean)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9b8dd719-54f9-47bf-b015-ac36822b1c9b)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 3
 
 **Puesto:** 10 de 15
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Drone, Ebm, Coldwave
 

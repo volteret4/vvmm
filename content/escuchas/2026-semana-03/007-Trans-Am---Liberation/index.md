@@ -6,6 +6,7 @@ album: "Liberation"
 escuchas: 7
 puesto: 7
 semana: "2026-W03"
+mix: 2
 portada: "421373de9e5bcdb0.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Trans+Am/Liberation)
@@ -15,6 +16,8 @@ portada: "421373de9e5bcdb0.jpg"
 **Puesto:** 7 de 41
 
 **Canciones distintas:** 7
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** post Rock
 
@@ -31,5 +34,5 @@ portada: "421373de9e5bcdb0.jpg"
 | Music for Dogs | 1 |
 | Outmoder | 1 |
 | Pretty Close to the Edge | 1 |
-| Total Information Awareness | 1 |
-| White Rhino | 1 |
+| Total Information Awareness ♥ | 1 |
+| White Rhino ♥ | 1 |

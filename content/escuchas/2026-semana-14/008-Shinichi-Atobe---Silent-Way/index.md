@@ -6,6 +6,7 @@ album: "Silent Way"
 escuchas: 9
 puesto: 8
 semana: "2026-W14"
+mix: 1
 portada: "9344a906773a82d9.jpg"
 mbid: "b4e99217-f371-445a-8a7e-27ae6addebef"
 ---
@@ -17,6 +18,8 @@ mbid: "b4e99217-f371-445a-8a7e-27ae6addebef"
 **Puesto:** 8 de 12
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Techno, Minimal Techno, Dub Techno
 
@@ -34,6 +37,6 @@ mbid: "b4e99217-f371-445a-8a7e-27ae6addebef"
 | Durability | 1 |
 | Fractal | 1 |
 | Intro 6.1 | 1 |
-| Phase 2 | 1 |
+| Phase 2 ♥ | 1 |
 | Rain 1 | 1 |
 | Syndrom | 1 |

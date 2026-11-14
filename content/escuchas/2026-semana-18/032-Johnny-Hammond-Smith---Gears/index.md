@@ -6,6 +6,7 @@ album: "Gears"
 escuchas: 4
 puesto: 32
 semana: "2026-W18"
+mix: 1
 portada: "bb92dd26c9b33b57.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Johnny+%E2%80%9CHammond%E2%80%9D+Smith/Gears)
@@ -15,6 +16,8 @@ portada: "bb92dd26c9b33b57.png"
 **Puesto:** 32 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Jazz
 
@@ -26,4 +29,4 @@ portada: "bb92dd26c9b33b57.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Tell Me What to Do | 4 |
+| Tell Me What to Do ♥ | 4 |

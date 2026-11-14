@@ -6,9 +6,12 @@ album: "Please: Further Listening 1984-1986 (2018 Remastered Version)"
 escuchas: 24
 puesto: 1
 semana: "2026-W10"
+nuevo_album: true
 portada: "250e410516a6c189.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Pet+Shop+Boys/Please%3A+Further+Listening+1984-1986+%282018+Remastered+Version%29)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 24
 

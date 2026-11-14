@@ -6,6 +6,7 @@ album: "Jungle"
 escuchas: 3
 puesto: 47
 semana: "2026-W18"
+mix: 1
 portada: "a73edc2e0c083466.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jungle/Jungle)
@@ -15,6 +16,8 @@ portada: "a73edc2e0c083466.png"
 **Puesto:** 47 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic
 
@@ -26,4 +29,4 @@ portada: "a73edc2e0c083466.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| The Heat | 3 |
+| The Heat ♥ | 3 |

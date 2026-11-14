@@ -6,15 +6,21 @@ album: "If This Is It"
 escuchas: 12
 puesto: 4
 semana: "2026-W23"
+nuevo_album: true
+mix: 1
 portada: "21d6160c8dd708ff.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/DJ+Seinfeld/If+This+Is+It)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 12
 
 **Puesto:** 4 de 14
 
 **Canciones distintas:** 10
+
+**En Mix:** ♥ 1 canción
 
 **Género:** electronic
 
@@ -35,4 +41,4 @@ portada: "21d6160c8dd708ff.png"
 | Something That I've Never Known (feat. SG Lewis) | 1 |
 | The Right (feat. Confidence Man) | 1 |
 | Turning the Page | 1 |
-| U Can't Come Home (feat. TS Graye) | 1 |
+| U Can't Come Home (feat. TS Graye) ♥ | 1 |

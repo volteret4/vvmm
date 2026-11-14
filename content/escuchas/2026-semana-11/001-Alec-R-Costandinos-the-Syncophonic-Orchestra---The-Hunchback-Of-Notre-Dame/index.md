@@ -6,17 +6,24 @@ album: "The Hunchback Of Notre Dame"
 escuchas: 13
 puesto: 1
 semana: "2026-W11"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "1106a769a94bf2c1.jpg"
 mbid: "d39a398d-1368-40a6-b663-5f3129c604a0"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Alec+R.+Costandinos+%26+the+Syncophonic+Orchestra/The+Hunchback+Of+Notre+Dame)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d39a398d-1368-40a6-b663-5f3129c604a0)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 13
 
 **Puesto:** 1 de 9
 
 **Canciones distintas:** 13
+
+**En Mix:** ♥ 1 canción
 
 **Género:** disco
 
@@ -39,5 +46,5 @@ mbid: "d39a398d-1368-40a6-b663-5f3129c604a0"
 | The Attack | 1 |
 | The Court Of Miracles | 1 |
 | The Inconveniences Of Following A Pretty Girl In The Streets At Night | 1 |
-| The Pope Of Fools | 1 |
+| The Pope Of Fools ♥ | 1 |
 | You Are Accused Before Us... | 1 |

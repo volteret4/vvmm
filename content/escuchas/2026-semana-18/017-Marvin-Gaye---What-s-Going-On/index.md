@@ -6,6 +6,7 @@ album: "What's Going On"
 escuchas: 5
 puesto: 17
 semana: "2026-W18"
+mix: 6
 portada: "92c034ed87d4a5e6.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Marvin+Gaye/What%27s+Going+On)
@@ -15,6 +16,8 @@ portada: "92c034ed87d4a5e6.jpg"
 **Puesto:** 17 de 52
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥♥♥♥ 6 canciones
 
 **Género:** Soul
 
@@ -26,6 +29,6 @@ portada: "92c034ed87d4a5e6.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| What's Going On | 2 |
+| What's Going On ♥ | 2 |
 | What's Happening Brother | 2 |
-| God Is Love | 1 |
+| God Is Love ♥ | 1 |

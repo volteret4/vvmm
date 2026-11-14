@@ -6,9 +6,12 @@ album: "Venq Tolep"
 escuchas: 3
 puesto: 12
 semana: "2026-W24"
+nuevo_album: true
 portada: "c903b4d07d192a62.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Robag+Wruhme/Venq+Tolep)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

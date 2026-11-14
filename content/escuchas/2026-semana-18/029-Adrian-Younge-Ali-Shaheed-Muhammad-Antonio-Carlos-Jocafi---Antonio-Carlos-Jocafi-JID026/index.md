@@ -6,6 +6,7 @@ album: "Antonio Carlos & Jocafi JID026"
 escuchas: 4
 puesto: 29
 semana: "2026-W18"
+mix: 1
 portada: "a1a0d7a36dce2e6d.jpg"
 mbid: "9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2"
 ---
@@ -18,6 +19,8 @@ mbid: "9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** jazz
 
 **Sello:** Jazz Is Dead
@@ -28,4 +31,4 @@ mbid: "9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Rala-Bucho | 4 |
+| Rala-Bucho ♥ | 4 |

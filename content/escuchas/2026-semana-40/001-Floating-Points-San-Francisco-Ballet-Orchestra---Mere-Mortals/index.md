@@ -6,11 +6,15 @@ album: "Mere Mortals"
 escuchas: 15
 puesto: 1
 semana: "2026-W40"
+nuevo_artista: true
+nuevo_album: true
 portada: "e0b36123e4dcdd9f.jpg"
 mbid: "258796d2-ebb5-4d7f-b784-5ff00ddf5918"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Floating+Points+%26+San+Francisco+Ballet+Orchestra/Mere+Mortals)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/258796d2-ebb5-4d7f-b784-5ff00ddf5918)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 15
 

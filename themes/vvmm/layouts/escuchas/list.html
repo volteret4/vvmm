@@ -4,6 +4,13 @@
   <header class="pagehead weekhead">
     <h1>semana {{ .Params.semana }}<small>{{ .Params.anio }}</small></h1>
     <p>{{ .Params.rango }} · {{ .Params.scrobbles }} escuchas · {{ len .RegularPages }} discos{{ if not .Params.completa }} · en curso{{ end }}</p>
+    {{ $na := .Params.nuevos_artistas | default 0 }}{{ $nd := sub (.Params.nuevos_albumes | default 0) $na }}
+    {{ if or $na (gt $nd 0) }}
+    <p class="leyenda">
+      {{ with $na }}<span><i class="nuevo art">★</i> {{ . }} {{ cond (eq . 1) "artista nuevo" "artistas nuevos" }}</span>{{ end }}
+      {{ if gt $nd 0 }}<span><i class="nuevo">✦</i> {{ $nd }} {{ cond (eq $nd 1) "disco nuevo" "discos nuevos" }} de artistas conocidos</span>{{ end }}
+    </p>
+    {{ end }}
   </header>
   <nav class="pager weeknav">
     {{ $hermanas := .Parent.Sections.ByDate }}
@@ -24,12 +31,12 @@
           {{ else }}
             <div class="nocover"><span>{{ $m.album }}</span></div>
           {{ end }}
-          <span class="plays" title="{{ .Params.escuchas }} escuchas">{{ .Params.escuchas }}</span>
         </div>
         <div class="cap">
           <b>{{ $m.album }}</b>
           <span>{{ $m.artist }}</span>
-          <time>#{{ .Params.puesto }} · {{ .Params.escuchas }} escuchas</time>
+          <time>#{{ .Params.puesto }} · {{ .Params.escuchas }} escuchas{{ with .Params.mix }} · <span class="corazon" title="{{ . }} en Mix">♥ {{ . }}</span>{{ end }}</time>
+          {{ partial "nuevo.html" . }}
         </div>
       </a>
     {{ end }}
@@ -58,7 +65,7 @@
           <div class="cap">
             <b>semana {{ .Params.semana }}</b>
             <span>{{ .Params.rango }}</span>
-            <time>{{ .Params.scrobbles }} escuchas · {{ len .RegularPages }} discos{{ with $top }} · nº1 {{ (partial "meta.html" .).album }}{{ end }}</time>
+            <time>{{ .Params.scrobbles }} escuchas · {{ len .RegularPages }} discos{{ with .Params.nuevos_artistas }} · ★{{ . }}{{ end }}{{ $nd := sub (.Params.nuevos_albumes | default 0) (.Params.nuevos_artistas | default 0) }}{{ if gt $nd 0 }} · ✦{{ $nd }}{{ end }}{{ with $top }} · nº1 {{ (partial "meta.html" .).album }}{{ end }}</time>
           </div>
         </a>
       {{ end }}

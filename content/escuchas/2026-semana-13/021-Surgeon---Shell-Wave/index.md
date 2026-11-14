@@ -6,9 +6,12 @@ album: "Shell~Wave"
 escuchas: 9
 puesto: 21
 semana: "2026-W13"
+nuevo_album: true
 portada: "07a887f6cb419ce0.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Surgeon/Shell~Wave)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

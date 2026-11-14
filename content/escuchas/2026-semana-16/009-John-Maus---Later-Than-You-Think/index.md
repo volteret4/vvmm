@@ -6,6 +6,7 @@ album: "Later Than You Think"
 escuchas: 10
 puesto: 9
 semana: "2026-W16"
+mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/John+Maus/Later+Than+You+Think)
 
@@ -14,6 +15,8 @@ semana: "2026-W16"
 **Puesto:** 9 de 59
 
 **Canciones distintas:** 7
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Coldwave;Hypnagogic Pop;Minimal Synth;Pop;Post-Punk
 
@@ -26,7 +29,7 @@ semana: "2026-W16"
 | Canción | Escuchas |
 |---------|---------:|
 | Because We Built It | 2 |
-| Came & Got | 2 |
+| Came & Got ♥ | 2 |
 | Reconstruct Your Life | 2 |
 | Disappears | 1 |
 | I Hate Antichrist | 1 |

@@ -6,9 +6,12 @@ album: "JOY"
 escuchas: 6
 puesto: 10
 semana: "2026-W27"
+nuevo_album: true
 portada: "b762e6c1b3e4d922.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Rhye/JOY)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

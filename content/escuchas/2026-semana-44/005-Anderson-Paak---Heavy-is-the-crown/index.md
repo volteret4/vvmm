@@ -6,15 +6,21 @@ album: "Heavy is the crown"
 escuchas: 11
 puesto: 5
 semana: "2026-W44"
+nuevo_album: true
+mix: 2
 portada: "84dc84e9d3a8af33.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Anderson+.Paak/Heavy+is+the+crown)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 
 **Puesto:** 5 de 42
 
 **Canciones distintas:** 11
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 
@@ -27,8 +33,8 @@ portada: "84dc84e9d3a8af33.jpg"
 | Canción | Escuchas |
 |---------|---------:|
 | 58th Floor | 1 |
-| A Good Day | 1 |
-| Airbender | 1 |
+| A Good Day ♥ | 1 |
+| Airbender ♥ | 1 |
 | Crown | 1 |
 | Days Go By | 1 |
 | Days Like This | 1 |

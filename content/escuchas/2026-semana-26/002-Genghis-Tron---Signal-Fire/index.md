@@ -6,9 +6,12 @@ album: "Signal Fire"
 escuchas: 13
 puesto: 2
 semana: "2026-W26"
+nuevo_album: true
 portada: "49abdda6eb2937ae.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Genghis+Tron/Signal+Fire)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 13
 

@@ -6,11 +6,15 @@ album: "Tragic Magic"
 escuchas: 5
 puesto: 13
 semana: "2026-W03"
+nuevo_artista: true
+nuevo_album: true
 portada: "d60003aa4a3e5ec9.jpg"
 mbid: "b2b3f3ac-1bd7-4e12-b0cb-675f60173954"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Julianna+Barwick+%26+Mary+Lattimore/Tragic+Magic)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b2b3f3ac-1bd7-4e12-b0cb-675f60173954)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 5
 

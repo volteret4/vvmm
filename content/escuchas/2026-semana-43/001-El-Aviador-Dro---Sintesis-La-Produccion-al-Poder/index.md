@@ -6,11 +6,15 @@ album: "Sintesis: La Produccion al Poder"
 escuchas: 30
 puesto: 1
 semana: "2026-W43"
+nuevo_artista: true
+nuevo_album: true
 portada: "34c3b3e5a9545188.jpg"
 mbid: "f64ff3ab-5cf1-484b-9a23-a2504e3f1531"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/El+Aviador+Dro/Sintesis%3A+La+Produccion+al+Poder)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f64ff3ab-5cf1-484b-9a23-a2504e3f1531)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 30
 

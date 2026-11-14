@@ -6,9 +6,12 @@ album: "Yoyogi Park"
 escuchas: 3
 puesto: 38
 semana: "2026-W44"
+nuevo_album: true
 portada: "4d54d88641abeb82.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/Yoyogi+Park)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

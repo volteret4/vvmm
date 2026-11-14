@@ -6,9 +6,13 @@ album: "Blues for the Red Sun"
 escuchas: 16
 puesto: 4
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "72333f858dda59df.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kyuss/Blues+for+the+Red+Sun)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 16
 

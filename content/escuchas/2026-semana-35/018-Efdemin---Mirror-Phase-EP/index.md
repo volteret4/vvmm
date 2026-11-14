@@ -6,17 +6,23 @@ album: "Mirror Phase EP"
 escuchas: 3
 puesto: 18
 semana: "2026-W35"
+nuevo_album: true
+mix: 2
 portada: "002684ba7ede03c3.jpg"
 mbid: "ee3506f2-8bf8-4f82-a528-a1603c322042"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Efdemin/Mirror+Phase+EP)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/ee3506f2-8bf8-4f82-a528-a1603c322042)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 3
 
 **Puesto:** 18 de 21
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic, Techno, Minimal
 
@@ -29,5 +35,5 @@ mbid: "ee3506f2-8bf8-4f82-a528-a1603c322042"
 | Canción | Escuchas |
 |---------|---------:|
 | Mirror Phase | 1 |
-| Slip | 1 |
-| Unity Grain | 1 |
+| Slip ♥ | 1 |
+| Unity Grain ♥ | 1 |

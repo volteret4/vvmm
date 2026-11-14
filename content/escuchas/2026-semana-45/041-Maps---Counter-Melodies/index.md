@@ -6,6 +6,7 @@ album: "Counter Melodies"
 escuchas: 3
 puesto: 41
 semana: "2026-W45"
+mix: 6
 portada: "71994f40594e5cca.png"
 mbid: "e6b7ef28-98ea-45fa-8a95-26bf98d56799"
 ---
@@ -18,6 +19,8 @@ mbid: "e6b7ef28-98ea-45fa-8a95-26bf98d56799"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥♥♥♥♥ 6 canciones
+
 **Género:** Electronic, Dream Pop, Shoegaze
 
 **Sello:** Mute
@@ -28,6 +31,6 @@ mbid: "e6b7ef28-98ea-45fa-8a95-26bf98d56799"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Heya Yaha | 1 |
-| Windows Open | 1 |
+| Heya Yaha ♥ | 1 |
+| Windows Open ♥ | 1 |
 | Witchy Feel | 1 |

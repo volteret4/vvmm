@@ -6,10 +6,14 @@ album: "Micro (Castellano)"
 escuchas: 9
 puesto: 11
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 mbid: "39ae1740-9166-445c-aaa0-467c287e2400"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lin+Ton+Taun/Micro+%28Castellano%29)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/39ae1740-9166-445c-aaa0-467c287e2400)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 9
 

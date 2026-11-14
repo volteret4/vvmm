@@ -7,5 +7,8 @@ desde: 2026-02-02
 hasta: 2026-02-08
 rango: "2–8 feb 2026"
 scrobbles: 84
+nuevos_artistas: 0
+nuevos_albumes: 2
+mix: 1
 completa: true
 ---

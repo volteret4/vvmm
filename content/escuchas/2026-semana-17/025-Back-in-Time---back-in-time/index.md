@@ -6,9 +6,13 @@ album: "back in time"
 escuchas: 3
 puesto: 25
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 portada: "4d8ea4a7e9d3f6e7.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Back+in+Time/back+in+time)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

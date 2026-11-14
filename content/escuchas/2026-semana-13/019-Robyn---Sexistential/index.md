@@ -6,11 +6,14 @@ album: "Sexistential"
 escuchas: 9
 puesto: 19
 semana: "2026-W13"
+nuevo_album: true
 portada: "c243cdafd4b266ab.jpg"
 mbid: "fd933263-a75c-4866-bc43-2af05db788f8"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Robyn/Sexistential)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/fd933263-a75c-4866-bc43-2af05db788f8)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

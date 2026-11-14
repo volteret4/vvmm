@@ -6,9 +6,12 @@ album: "The Romantic"
 escuchas: 9
 puesto: 12
 semana: "2026-W10"
+nuevo_album: true
 portada: "5b6cfae65a4cf840.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bruno+Mars/The+Romantic)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

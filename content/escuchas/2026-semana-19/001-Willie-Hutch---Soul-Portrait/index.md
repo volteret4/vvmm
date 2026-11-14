@@ -6,9 +6,12 @@ album: "Soul Portrait"
 escuchas: 7
 puesto: 1
 semana: "2026-W19"
+nuevo_album: true
 portada: "86976d218f590fb7.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Willie+Hutch/Soul+Portrait)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

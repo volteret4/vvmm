@@ -6,9 +6,12 @@ album: "Side-Eye III+"
 escuchas: 3
 puesto: 19
 semana: "2026-W10"
+nuevo_album: true
 portada: "82027ab803df2693.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Pat+Metheny/Side-Eye+III%2B)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

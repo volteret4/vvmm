@@ -6,6 +6,7 @@ album: "Perfect Angel"
 escuchas: 4
 puesto: 35
 semana: "2026-W18"
+mix: 2
 portada: "8f9c23ae8323175f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Minnie+Riperton/Perfect+Angel)
@@ -15,6 +16,8 @@ portada: "8f9c23ae8323175f.jpg"
 **Puesto:** 35 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Soul
 
@@ -26,4 +29,4 @@ portada: "8f9c23ae8323175f.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Reasons | 4 |
+| Reasons ♥ | 4 |

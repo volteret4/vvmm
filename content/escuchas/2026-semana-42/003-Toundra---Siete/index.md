@@ -6,9 +6,12 @@ album: "Siete"
 escuchas: 8
 puesto: 3
 semana: "2026-W42"
+nuevo_album: true
 portada: "748a63372579d551.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Toundra/Siete)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 
@@ -16,7 +19,9 @@ portada: "748a63372579d551.jpg"
 
 **Canciones distintas:** 7
 
-**Género:** Post-Rock, Instrumental, Post-Metal
+**Género:** Unknown
+
+**Año:** 2026
 
 ## Canciones escuchadas
 

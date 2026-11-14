@@ -6,6 +6,7 @@ album: "Straight From The Heart"
 escuchas: 4
 puesto: 30
 semana: "2026-W18"
+mix: 3
 portada: "db2f4383179185d0.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ann+Peebles/Straight+From+The+Heart)
@@ -16,6 +17,8 @@ portada: "db2f4383179185d0.jpg"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** Rhythmic Soul
 
 **Año:** 1971
@@ -24,4 +27,4 @@ portada: "db2f4383179185d0.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Slipped, Tripped & Fell In Love | 4 |
+| Slipped, Tripped & Fell In Love ♥ | 4 |

@@ -6,8 +6,12 @@ album: "Mambata EP"
 escuchas: 3
 puesto: 39
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Levzon%2C+Phil+Berg%2C+RUIZ+OSC1/Mambata+EP)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

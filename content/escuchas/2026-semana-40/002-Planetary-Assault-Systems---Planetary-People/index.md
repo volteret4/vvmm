@@ -6,6 +6,7 @@ album: "Planetary People"
 escuchas: 12
 puesto: 2
 semana: "2026-W40"
+mix: 1
 portada: "70d2b0ee3c9f7cad.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Planetary+Assault+Systems/Planetary+People)
@@ -15,6 +16,8 @@ portada: "70d2b0ee3c9f7cad.png"
 **Puesto:** 2 de 11
 
 **Canciones distintas:** 11
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -27,7 +30,7 @@ portada: "70d2b0ee3c9f7cad.png"
 | Canción | Escuchas |
 |---------|---------:|
 | Labyrinth | 2 |
-| Beton Brut | 1 |
+| Beton Brut ♥ | 1 |
 | Brave Cosmo | 1 |
 | Ha Jam | 1 |
 | Into the Night | 1 |

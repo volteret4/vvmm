@@ -6,15 +6,22 @@ album: "I'll Keep On Loving You"
 escuchas: 15
 puesto: 3
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
+mix: 4
 portada: "b68d9549feacd583.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Linda+Clifford/I%27ll+Keep+On+Loving+You)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 15
 
 **Puesto:** 3 de 59
 
 **Canciones distintas:** 11
+
+**En Mix:** ♥♥♥♥ 4 canciones
 
 **Género:** Funk
 
@@ -29,9 +36,9 @@ portada: "b68d9549feacd583.jpg"
 | Never Say Never | 2 |
 | Only the Angels Know | 2 |
 | All The Man I Need | 1 |
-| Don't Come Crying to Me | 1 |
-| Don't Come Crying To Me (12 Inch Version) | 1 |
-| I Lied | 1 |
-| I'll Keep on Loving You | 1 |
-| I'll Keep On Loving You (12 Inch Version) | 1 |
-| Let It Ride | 1 |
+| Don't Come Crying to Me ♥ | 1 |
+| Don't Come Crying To Me (12 Inch Version) ♥ | 1 |
+| I Lied ♥ | 1 |
+| I'll Keep on Loving You ♥ | 1 |
+| I'll Keep On Loving You (12 Inch Version) ♥ | 1 |
+| Let It Ride ♥ | 1 |

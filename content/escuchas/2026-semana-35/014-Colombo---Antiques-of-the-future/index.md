@@ -6,17 +6,24 @@ album: "Antiques of the future"
 escuchas: 4
 puesto: 14
 semana: "2026-W35"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "6f34d78eac508140.jpg"
 mbid: "752ad5c2-aeab-4926-9778-88bd2b2f3857"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Colombo/Antiques+of+the+future)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/752ad5c2-aeab-4926-9778-88bd2b2f3857)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 4
 
 **Puesto:** 14 de 21
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** electronic, dubstep, breaks, uk garage
 
@@ -30,5 +37,5 @@ mbid: "752ad5c2-aeab-4926-9778-88bd2b2f3857"
 |---------|---------:|
 | Gravitation | 1 |
 | Methane | 1 |
-| Telequinesis | 1 |
+| Telequinesis ♥ | 1 |
 | Your Dream Will Go | 1 |

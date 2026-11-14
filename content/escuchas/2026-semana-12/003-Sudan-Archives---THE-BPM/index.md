@@ -6,9 +6,13 @@ album: "THE BPM"
 escuchas: 15
 puesto: 3
 semana: "2026-W12"
+nuevo_artista: true
+nuevo_album: true
 portada: "34caef653b0fa5dd.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sudan+Archives/THE+BPM)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 15
 

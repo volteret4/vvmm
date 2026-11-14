@@ -6,15 +6,22 @@ album: "Body Count"
 escuchas: 4
 puesto: 32
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
+mix: 7
 portada: "d3a7c7b7f9f3def4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Maenad+Veyl/Body+Count)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 
 **Puesto:** 32 de 42
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥♥♥♥♥ 7 canciones
 
 **Género:** Unknown
 
@@ -24,6 +31,6 @@ portada: "d3a7c7b7f9f3def4.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Silent Blood | 2 |
-| Bleak | 1 |
-| They Belonged With The Others | 1 |
+| Silent Blood ♥ | 2 |
+| Bleak ♥ | 1 |
+| They Belonged With The Others ♥ | 1 |

@@ -6,6 +6,7 @@ album: "¿Cuándo Se Come Aquí?"
 escuchas: 3
 puesto: 3
 semana: "2026-W04"
+mix: 2
 portada: "c6b55e4fcc2f06f0.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Siniestro+Total/%C2%BFCu%C3%A1ndo+Se+Come+Aqu%C3%AD%3F)
@@ -16,6 +17,8 @@ portada: "c6b55e4fcc2f06f0.jpg"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** Punk
 
 **Sello:** DRO
@@ -25,5 +28,5 @@ portada: "c6b55e4fcc2f06f0.jpg"
 | Canción | Escuchas |
 |---------|---------:|
 | Los Chochos Voladores | 1 |
-| Me Pica un Huevo | 1 |
+| Me Pica un Huevo ♥ | 1 |
 | Sexo Chungo | 1 |

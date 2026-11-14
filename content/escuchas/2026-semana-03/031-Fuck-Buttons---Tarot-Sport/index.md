@@ -6,6 +6,7 @@ album: "Tarot Sport"
 escuchas: 3
 puesto: 31
 semana: "2026-W03"
+mix: 3
 portada: "737c1a86f23780c8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Fuck+Buttons/Tarot+Sport)
@@ -15,6 +16,8 @@ portada: "737c1a86f23780c8.jpg"
 **Puesto:** 31 de 41
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Electronic
 
@@ -26,6 +29,6 @@ portada: "737c1a86f23780c8.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Flight Of The Feathered Serpent | 1 |
-| Olympians | 1 |
-| Surf Solar | 1 |
+| Flight Of The Feathered Serpent ♥ | 1 |
+| Olympians ♥ | 1 |
+| Surf Solar ♥ | 1 |

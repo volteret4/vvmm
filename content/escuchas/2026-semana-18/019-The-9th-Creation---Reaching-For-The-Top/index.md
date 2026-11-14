@@ -6,6 +6,7 @@ album: "Reaching For The Top"
 escuchas: 5
 puesto: 19
 semana: "2026-W18"
+mix: 2
 portada: "067e1308d948b3d7.jpg"
 mbid: "edf04382-6774-4654-b78a-bf7d97954b23"
 ---
@@ -18,6 +19,8 @@ mbid: "edf04382-6774-4654-b78a-bf7d97954b23"
 
 **Canciones distintas:** 2
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** funk, soul
 
 **Sello:** Prelude Records
@@ -28,5 +31,5 @@ mbid: "edf04382-6774-4654-b78a-bf7d97954b23"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Reaching For The Top | 4 |
+| Reaching For The Top ♥ | 4 |
 | It Aint Right | 1 |

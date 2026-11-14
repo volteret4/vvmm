@@ -6,6 +6,7 @@ album: "Deserter's Songs"
 escuchas: 12
 puesto: 2
 semana: "2026-W18"
+mix: 1
 portada: "bfeabc0319dc709b.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mercury+Rev/Deserter%27s+Songs)
@@ -16,6 +17,8 @@ portada: "bfeabc0319dc709b.png"
 
 **Canciones distintas:** 11
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Dream Pop
 
 **Año:** 1998
@@ -24,7 +27,7 @@ portada: "bfeabc0319dc709b.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Holes | 2 |
+| Holes ♥ | 2 |
 | Delta Sun Bottleneck Stomp | 1 |
 | Endlessly | 1 |
 | Goddess On A Hiway | 1 |

@@ -6,11 +6,15 @@ album: "Vigilante"
 escuchas: 4
 puesto: 31
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
 portada: "911c6a026526dc7b.jpg"
 mbid: "be7ac5e5-29bf-4d33-a876-6e1c3ccafb72"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Willie+Col%C3%B3n+%26+H%C3%A9ctor+Lavoe/Vigilante)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/be7ac5e5-29bf-4d33-a876-6e1c3ccafb72)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

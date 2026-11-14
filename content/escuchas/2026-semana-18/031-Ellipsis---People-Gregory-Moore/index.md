@@ -6,6 +6,7 @@ album: "People／Gregory Moore"
 escuchas: 4
 puesto: 31
 semana: "2026-W18"
+mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ellipsis/People%EF%BC%8FGregory+Moore)
 
@@ -15,6 +16,8 @@ semana: "2026-W18"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Unknown
 
 **Año:** 1976
@@ -23,4 +26,4 @@ semana: "2026-W18"
 
 | Canción | Escuchas |
 |---------|---------:|
-| People | 4 |
+| People ♥ | 4 |

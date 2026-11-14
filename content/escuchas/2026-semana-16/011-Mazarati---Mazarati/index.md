@@ -6,9 +6,13 @@ album: "Mazarati"
 escuchas: 8
 puesto: 11
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
 portada: "a3c1111bad5d3d22.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mazarati/Mazarati)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 8
 

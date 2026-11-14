@@ -6,6 +6,7 @@ album: "I Say I Say I Say"
 escuchas: 5
 puesto: 22
 semana: "2026-W45"
+mix: 3
 portada: "d0336fe63502d327.jpg"
 mbid: "2c6030b7-c413-4322-82db-cd010bb19475"
 ---
@@ -18,6 +19,8 @@ mbid: "2c6030b7-c413-4322-82db-cd010bb19475"
 
 **Canciones distintas:** 5
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** pop, electronic, synth-pop, offizielle charts, 5+ wochen
 
 **Sello:** Mute
@@ -28,8 +31,8 @@ mbid: "2c6030b7-c413-4322-82db-cd010bb19475"
 
 | Canción | Escuchas |
 |---------|---------:|
-| All Through The Years | 1 |
-| Always | 1 |
-| Man In The Moon | 1 |
+| All Through The Years ♥ | 1 |
+| Always ♥ | 1 |
+| Man In The Moon ♥ | 1 |
 | Run to the Sun | 1 |
 | So The Story Goes | 1 |

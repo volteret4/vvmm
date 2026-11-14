@@ -6,17 +6,24 @@ album: "Onward"
 escuchas: 4
 puesto: 8
 semana: "2026-W38"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "0243b1c4289a724a.jpg"
 mbid: "8ca2dc86-b92d-476e-ac66-bbb69dd5a10e"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lammoth/Onward)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/8ca2dc86-b92d-476e-ac66-bbb69dd5a10e)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 4
 
 **Puesto:** 8 de 15
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Power Metal, Black Metal, Blackgaze
 
@@ -28,5 +35,5 @@ mbid: "8ca2dc86-b92d-476e-ac66-bbb69dd5a10e"
 |---------|---------:|
 | A Gardener | 1 |
 | Farewell, Good Beast of Burden | 1 |
-| Poor Old Half-Starved Pony | 1 |
+| Poor Old Half-Starved Pony ♥ | 1 |
 | To Be Free (Bill) | 1 |

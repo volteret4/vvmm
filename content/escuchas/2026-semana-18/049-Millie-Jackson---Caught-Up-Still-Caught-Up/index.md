@@ -6,6 +6,7 @@ album: "Caught Up / Still Caught Up"
 escuchas: 3
 puesto: 49
 semana: "2026-W18"
+mix: 3
 portada: "bd71cbbc9f66b29f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Millie+Jackson/Caught+Up+%2F+Still+Caught+Up)
@@ -15,6 +16,8 @@ portada: "bd71cbbc9f66b29f.jpg"
 **Puesto:** 49 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Soul
 
@@ -26,4 +29,4 @@ portada: "bd71cbbc9f66b29f.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| (If Loving You Is Wrong) I Don't Want To Be Right | 3 |
+| (If Loving You Is Wrong) I Don't Want To Be Right ♥ | 3 |

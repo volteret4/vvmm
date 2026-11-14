@@ -6,6 +6,7 @@ album: "Glory"
 escuchas: 6
 puesto: 12
 semana: "2026-W03"
+mix: 3
 portada: "c60b3a5aa36154ea.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Perfume+Genius/Glory)
@@ -15,6 +16,8 @@ portada: "c60b3a5aa36154ea.jpg"
 **Puesto:** 12 de 41
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Baroque Pop;Chamber Pop;Folk Rock;Indie Pop;Indie Rock
 
@@ -26,6 +29,6 @@ portada: "c60b3a5aa36154ea.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Clean Heart | 2 |
-| It’s a Mirror | 2 |
-| Me & Angel | 2 |
+| Clean Heart ♥ | 2 |
+| It’s a Mirror ♥ | 2 |
+| Me & Angel ♥ | 2 |

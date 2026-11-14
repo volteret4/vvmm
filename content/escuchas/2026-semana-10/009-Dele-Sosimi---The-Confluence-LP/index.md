@@ -6,9 +6,13 @@ album: "The Confluence LP"
 escuchas: 11
 puesto: 9
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "e172f829600a2980.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Dele+Sosimi/The+Confluence+LP)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 11
 

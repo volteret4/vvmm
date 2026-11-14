@@ -6,9 +6,12 @@ album: "Corvus"
 escuchas: 5
 puesto: 27
 semana: "2026-W16"
+nuevo_album: true
 portada: "e1220a7c58985763.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Recondite/Corvus)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 

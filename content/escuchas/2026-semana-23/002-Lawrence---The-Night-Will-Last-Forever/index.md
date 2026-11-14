@@ -6,15 +6,21 @@ album: "The Night Will Last Forever"
 escuchas: 16
 puesto: 2
 semana: "2026-W23"
+nuevo_album: true
+mix: 2
 portada: "e0a671375eccd780.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/The+Night+Will+Last+Forever)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 16
 
 **Puesto:** 2 de 14
 
 **Canciones distintas:** 11
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic
 
@@ -33,7 +39,7 @@ portada: "e0a671375eccd780.jpg"
 | Attracted by Fire | 1 |
 | Falling Down a Dam of Mashed Potatoes | 1 |
 | Leave Me Tomorrow | 1 |
-| Lost Images | 1 |
+| Lost Images ♥ | 1 |
 | Swap | 1 |
-| The Lawn | 1 |
+| The Lawn ♥ | 1 |
 | The Night Will Last Forever (L'usine Remix) | 1 |

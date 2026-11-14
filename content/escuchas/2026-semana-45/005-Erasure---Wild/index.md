@@ -6,6 +6,7 @@ album: "Wild!"
 escuchas: 13
 puesto: 5
 semana: "2026-W45"
+mix: 1
 portada: "0debb39da26b8c89.jpg"
 mbid: "0b032b6b-3513-4c97-8e44-4e82969aa982"
 ---
@@ -18,6 +19,8 @@ mbid: "0b032b6b-3513-4c97-8e44-4e82969aa982"
 
 **Canciones distintas:** 11
 
+**En Mix:** ♥ 1 canción
+
 **Género:** electronic, pop, synth-pop
 
 **Sello:** Mute
@@ -29,7 +32,7 @@ mbid: "0b032b6b-3513-4c97-8e44-4e82969aa982"
 | Canción | Escuchas |
 |---------|---------:|
 | Piano Song (Instrumental) | 2 |
-| Star | 2 |
+| Star ♥ | 2 |
 | 2,000 Miles | 1 |
 | Blue Savannah | 1 |
 | Brother and Sister | 1 |

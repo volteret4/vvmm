@@ -6,15 +6,21 @@ album: "Emotional Junglist"
 escuchas: 15
 puesto: 2
 semana: "2026-W30"
+nuevo_album: true
+mix: 3
 portada: "f56c8f5bdc9c0d6c.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nia+Archives/Emotional+Junglist)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 15
 
 **Puesto:** 2 de 9
 
 **Canciones distintas:** 15
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Unknown
 
@@ -27,9 +33,9 @@ portada: "f56c8f5bdc9c0d6c.jpg"
 | Canción | Escuchas |
 |---------|---------:|
 | Almost Always | 1 |
-| Around Tha Bend | 1 |
-| Boys In Blue | 1 |
-| Dance With Me 2nite | 1 |
+| Around Tha Bend ♥ | 1 |
+| Boys In Blue ♥ | 1 |
+| Dance With Me 2nite ♥ | 1 |
 | Danger | 1 |
 | Feelingz Go Numb | 1 |
 | Get Me Down (feat. Jorja Smith) | 1 |

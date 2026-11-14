@@ -6,9 +6,12 @@ album: "Charlotte de Witte"
 escuchas: 8
 puesto: 5
 semana: "2026-W21"
+nuevo_album: true
 portada: "8a9f2eb6486304a3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Charlotte+de+Witte/Charlotte+de+Witte)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

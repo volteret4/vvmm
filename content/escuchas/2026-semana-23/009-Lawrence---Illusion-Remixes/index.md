@@ -6,9 +6,12 @@ album: "Illusion Remixes"
 escuchas: 4
 puesto: 9
 semana: "2026-W23"
+nuevo_album: true
 portada: "c1a4dedbef20db16.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/Illusion+Remixes)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

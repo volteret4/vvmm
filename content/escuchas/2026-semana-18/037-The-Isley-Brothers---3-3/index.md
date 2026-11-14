@@ -6,6 +6,7 @@ album: "3+3"
 escuchas: 4
 puesto: 37
 semana: "2026-W18"
+mix: 1
 portada: "e6a9dbad3600429e.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Isley+Brothers/3%2B3)
@@ -15,6 +16,8 @@ portada: "e6a9dbad3600429e.jpg"
 **Puesto:** 37 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Soul
 
@@ -26,4 +29,4 @@ portada: "e6a9dbad3600429e.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| That Lady, Parts 1 & 2 | 4 |
+| That Lady, Parts 1 & 2 ♥ | 4 |

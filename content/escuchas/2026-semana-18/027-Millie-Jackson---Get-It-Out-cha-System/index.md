@@ -6,6 +6,7 @@ album: "Get It Out'cha System"
 escuchas: 4
 puesto: 27
 semana: "2026-W18"
+mix: 2
 portada: "73ea94ee735912a8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Millie+Jackson/Get+It+Out%27cha+System)
@@ -15,6 +16,8 @@ portada: "73ea94ee735912a8.jpg"
 **Puesto:** 27 de 52
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** R&B
 
@@ -26,5 +29,5 @@ portada: "73ea94ee735912a8.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Keep The Home Fire Burnin' | 2 |
-| Logs And Thangs | 2 |
+| Keep The Home Fire Burnin' ♥ | 2 |
+| Logs And Thangs ♥ | 2 |

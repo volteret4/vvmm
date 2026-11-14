@@ -6,6 +6,7 @@ album: "viagr aboys"
 escuchas: 4
 puesto: 15
 semana: "2026-W21"
+mix: 3
 portada: "e1de9279b21325ba.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Viagra+Boys/viagr+aboys)
@@ -15,6 +16,8 @@ portada: "e1de9279b21325ba.jpg"
 **Puesto:** 15 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Art Punk;Dance-Punk Revival
 
@@ -26,4 +29,4 @@ portada: "e1de9279b21325ba.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Pyramid of Health | 4 |
+| Pyramid of Health ♥ | 4 |

@@ -6,8 +6,12 @@ album: "Shadows (Remixes)"
 escuchas: 4
 puesto: 39
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Juantrip%27/Shadows+%28Remixes%29)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

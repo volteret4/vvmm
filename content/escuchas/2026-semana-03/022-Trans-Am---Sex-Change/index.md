@@ -6,6 +6,7 @@ album: "Sex Change"
 escuchas: 4
 puesto: 22
 semana: "2026-W03"
+mix: 1
 portada: "36133253399ebfae.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Trans+Am/Sex+Change)
@@ -15,6 +16,8 @@ portada: "36133253399ebfae.jpg"
 **Puesto:** 22 de 41
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** post Rock
 

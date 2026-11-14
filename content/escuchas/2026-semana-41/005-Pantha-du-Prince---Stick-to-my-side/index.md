@@ -6,11 +6,14 @@ album: "Stick to my side"
 escuchas: 5
 puesto: 5
 semana: "2026-W41"
+nuevo_album: true
 portada: "d801f7909d61374d.jpg"
 mbid: "a590b52e-e354-421a-a8c0-39f24a9250af"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Pantha+du+Prince/Stick+to+my+side)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/a590b52e-e354-421a-a8c0-39f24a9250af)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 

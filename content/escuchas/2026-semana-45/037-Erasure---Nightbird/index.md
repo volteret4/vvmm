@@ -6,9 +6,12 @@ album: "Nightbird"
 escuchas: 3
 puesto: 37
 semana: "2026-W45"
+nuevo_album: true
 portada: "1219426de61458f7.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Erasure/Nightbird)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

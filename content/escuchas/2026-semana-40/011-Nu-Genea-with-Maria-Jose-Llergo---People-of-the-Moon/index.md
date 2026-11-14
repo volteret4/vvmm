@@ -6,11 +6,15 @@ album: "People of the Moon"
 escuchas: 3
 puesto: 11
 semana: "2026-W40"
+nuevo_artista: true
+nuevo_album: true
 portada: "702705f1f235ba3a.jpg"
 mbid: "6a081ab0-3302-47d2-94ec-113dea323448"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nu+Genea+with+Mar%C3%ADa+Jos%C3%A9+Llergo/People+of+the+Moon)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/6a081ab0-3302-47d2-94ec-113dea323448)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

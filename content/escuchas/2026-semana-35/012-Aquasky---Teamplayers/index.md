@@ -6,11 +6,15 @@ album: "Teamplayers"
 escuchas: 4
 puesto: 12
 semana: "2026-W35"
+nuevo_artista: true
+nuevo_album: true
 portada: "f2abe34a9ce74cb6.jpg"
 mbid: "1f358462-29f0-4c30-bb0d-68a03ad0a1a1"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Aquasky/Teamplayers)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1f358462-29f0-4c30-bb0d-68a03ad0a1a1)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

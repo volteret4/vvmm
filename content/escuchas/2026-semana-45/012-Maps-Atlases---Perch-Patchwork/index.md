@@ -6,11 +6,15 @@ album: "Perch Patchwork"
 escuchas: 8
 puesto: 12
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "37a0a75ad2bd386b.jpg"
 mbid: "05120c6d-5246-4a1f-9910-b51818fb5beb"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Maps+%26+Atlases/Perch+Patchwork)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/05120c6d-5246-4a1f-9910-b51818fb5beb)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 8
 

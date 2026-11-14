@@ -6,9 +6,13 @@ album: "Stereo Musicale"
 escuchas: 18
 puesto: 2
 semana: "2026-W10"
+nuevo_artista: true
+nuevo_album: true
 portada: "45278be0dd4349ea.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Blind+Mr.+Jones/Stereo+Musicale)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 18
 

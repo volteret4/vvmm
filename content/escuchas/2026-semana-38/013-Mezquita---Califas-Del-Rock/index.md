@@ -6,11 +6,15 @@ album: "Califas Del Rock"
 escuchas: 3
 puesto: 13
 semana: "2026-W38"
+nuevo_artista: true
+nuevo_album: true
 portada: "cac4060aee335944.jpg"
 mbid: "cd0f8b6d-efcc-4fc3-a712-fb0edfeeeef7"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mezquita/Califas+Del+Rock)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/cd0f8b6d-efcc-4fc3-a712-fb0edfeeeef7)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

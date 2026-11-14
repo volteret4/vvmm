@@ -6,17 +6,23 @@ album: "Confía en tus máquinas"
 escuchas: 12
 puesto: 6
 semana: "2026-W45"
+nuevo_album: true
+mix: 1
 portada: "850142942bcf7e6b.jpg"
 mbid: "e4e9e25d-6576-4c29-b87b-d6615fbeabc4"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/El+Aviador+Dro/Conf%C3%ADa+en+tus+m%C3%A1quinas)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e4e9e25d-6576-4c29-b87b-d6615fbeabc4)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 12
 
 **Puesto:** 6 de 44
 
 **Canciones distintas:** 12
+
+**En Mix:** ♥ 1 canción
 
 **Género:** electronic, electro, synth-pop
 
@@ -39,4 +45,4 @@ mbid: "e4e9e25d-6576-4c29-b87b-d6615fbeabc4"
 | gretchen en dresde | 1 |
 | la naturaleza destruye | 1 |
 | Mi mejor retransmisión | 1 |
-| planeta inverso | 1 |
+| planeta inverso ♥ | 1 |

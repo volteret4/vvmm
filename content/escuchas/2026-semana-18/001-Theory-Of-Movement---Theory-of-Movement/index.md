@@ -6,9 +6,13 @@ album: "Theory of Movement"
 escuchas: 12
 puesto: 1
 semana: "2026-W18"
+nuevo_artista: true
+nuevo_album: true
 portada: "411139697b9d5dea.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Theory+Of+Movement/Theory+of+Movement)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 12
 

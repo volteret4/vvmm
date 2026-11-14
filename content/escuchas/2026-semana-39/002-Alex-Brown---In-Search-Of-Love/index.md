@@ -6,15 +6,22 @@ album: "In Search Of Love"
 escuchas: 4
 puesto: 2
 semana: "2026-W39"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "b79528f3e24bdc46.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Alex+Brown/In+Search+Of+Love)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 
 **Puesto:** 2 de 3
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 

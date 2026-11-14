@@ -6,6 +6,7 @@ album: "Breakin' Boundaries Vol 3"
 escuchas: 10
 puesto: 2
 semana: "2026-W38"
+mix: 2
 portada: "23a2aad0b80ba11e.jpg"
 mbid: "c30b38aa-0dc1-4976-9e24-7cebea78105f"
 ---
@@ -18,6 +19,8 @@ mbid: "c30b38aa-0dc1-4976-9e24-7cebea78105f"
 
 **Canciones distintas:** 4
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** Electronic, Breakbeat, Breaks
 
 **Sello:** Against the Grain
@@ -28,7 +31,7 @@ mbid: "c30b38aa-0dc1-4976-9e24-7cebea78105f"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Badman (Extended Mix) | 3 |
+| Badman (Extended Mix) ♥ | 3 |
 | Four Days (Extended Mix) | 3 |
 | Go Loco (Extended Mix) | 2 |
-| Read Your Mind (Extended Mix) | 2 |
+| Read Your Mind (Extended Mix) ♥ | 2 |

@@ -6,11 +6,14 @@ album: "Adverse Camber"
 escuchas: 5
 puesto: 4
 semana: "2026-W38"
+nuevo_album: true
 portada: "22360c164b7d4c5e.jpg"
 mbid: "c5faae9c-51c2-42f7-bd10-f9d7b6834604"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Aidan+Baker/Adverse+Camber)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c5faae9c-51c2-42f7-bd10-f9d7b6834604)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 

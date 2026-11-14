@@ -6,9 +6,12 @@ album: "Above the Clouds"
 escuchas: 5
 puesto: 5
 semana: "2026-W42"
+nuevo_album: true
 portada: "75e3e72a7f723e65.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Resavoir/Above+the+Clouds)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 
@@ -16,7 +19,11 @@ portada: "75e3e72a7f723e65.jpg"
 
 **Canciones distintas:** 5
 
-**Género:** Jazz, Experimental
+**Género:** Unknown
+
+**Sello:** L'Univers
+
+**Año:** 2026-10-09
 
 ## Canciones escuchadas
 

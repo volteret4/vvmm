@@ -6,9 +6,13 @@ album: "Headless Heroes of the Apocalypse"
 escuchas: 7
 puesto: 15
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 portada: "c0f5e2fa506c70ee.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Eugene+McDaniels/Headless+Heroes+of+the+Apocalypse)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 7
 

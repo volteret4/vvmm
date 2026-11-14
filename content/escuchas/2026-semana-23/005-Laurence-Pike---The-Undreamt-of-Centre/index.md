@@ -6,9 +6,12 @@ album: "The Undreamt-of Centre"
 escuchas: 8
 puesto: 5
 semana: "2026-W23"
+nuevo_album: true
 portada: "658678638270e450.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Laurence+Pike/The+Undreamt-of+Centre)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

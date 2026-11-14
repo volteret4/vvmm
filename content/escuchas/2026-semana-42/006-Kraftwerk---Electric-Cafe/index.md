@@ -6,6 +6,7 @@ album: "Electric Cafe"
 escuchas: 3
 puesto: 6
 semana: "2026-W42"
+mix: 2
 portada: "1499218b0a1923da.jpg"
 mbid: "0ffabc1a-41d0-46a7-870b-c6843ddae49b"
 ---
@@ -18,6 +19,8 @@ mbid: "0ffabc1a-41d0-46a7-870b-c6843ddae49b"
 
 **Canciones distintas:** 2
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** electronic, synthpop, electro, avant-garde, pop, techno
 
 **Sello:** Warner Bros. Records
@@ -29,4 +32,4 @@ mbid: "0ffabc1a-41d0-46a7-870b-c6843ddae49b"
 | Canción | Escuchas |
 |---------|---------:|
 | Electric Cafe | 2 |
-| Sex Object | 1 |
+| Sex Object ♥ | 1 |

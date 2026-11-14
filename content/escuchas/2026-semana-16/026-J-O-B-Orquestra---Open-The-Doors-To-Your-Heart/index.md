@@ -6,6 +6,7 @@ album: "Open The Doors To Your Heart"
 escuchas: 5
 puesto: 26
 semana: "2026-W16"
+mix: 2
 portada: "ff9484f5b634cd47.jpg"
 mbid: "8fb9687b-e2f9-4a26-bde5-547e26d004fd"
 ---
@@ -18,6 +19,8 @@ mbid: "8fb9687b-e2f9-4a26-bde5-547e26d004fd"
 
 **Canciones distintas:** 5
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** Soul, United States
 
 **Sello:** Govinda Records
@@ -28,7 +31,7 @@ mbid: "8fb9687b-e2f9-4a26-bde5-547e26d004fd"
 
 | Canción | Escuchas |
 |---------|---------:|
-| can't find the way | 1 |
+| can't find the way ♥ | 1 |
 | don't want that illusion | 1 |
 | i believe in thee | 1 |
 | Only Faith And Hope | 1 |

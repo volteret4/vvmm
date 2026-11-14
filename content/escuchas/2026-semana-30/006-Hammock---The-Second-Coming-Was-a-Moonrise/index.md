@@ -6,9 +6,12 @@ album: "The Second Coming Was a Moonrise"
 escuchas: 10
 puesto: 6
 semana: "2026-W30"
+nuevo_album: true
 portada: "7527d6befb7d3db7.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Hammock/The+Second+Coming+Was+a+Moonrise)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

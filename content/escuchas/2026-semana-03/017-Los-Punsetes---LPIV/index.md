@@ -6,6 +6,7 @@ album: "LPIV"
 escuchas: 4
 puesto: 17
 semana: "2026-W03"
+mix: 2
 portada: "de325cf3e0648812.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Los+Punsetes/LPIV)
@@ -15,6 +16,8 @@ portada: "de325cf3e0648812.png"
 **Puesto:** 17 de 41
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic
 
@@ -27,6 +30,6 @@ portada: "de325cf3e0648812.png"
 | Canción | Escuchas |
 |---------|---------:|
 | Amanece más temprano | 1 |
-| Arsenal de excusas | 1 |
-| Me gusta que me pegues | 1 |
+| Arsenal de excusas ♥ | 1 |
+| Me gusta que me pegues ♥ | 1 |
 | Opinión de mierda | 1 |

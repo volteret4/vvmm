@@ -6,6 +6,7 @@ album: "We Must Become the Pitiless Censors of Ourselves"
 escuchas: 5
 puesto: 9
 semana: "2026-W21"
+mix: 1
 portada: "13b19561dcf0b86a.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/John+Maus/We+Must+Become+the+Pitiless+Censors+of+Ourselves)
@@ -15,6 +16,8 @@ portada: "13b19561dcf0b86a.jpg"
 **Puesto:** 9 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Hypnagogic Pop;New Wave
 
@@ -26,4 +29,4 @@ portada: "13b19561dcf0b86a.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Matter of Fact | 5 |
+| Matter of Fact ♥ | 5 |

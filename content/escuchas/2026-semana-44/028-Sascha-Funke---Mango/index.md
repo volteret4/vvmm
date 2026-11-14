@@ -6,15 +6,22 @@ album: "Mango"
 escuchas: 4
 puesto: 28
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "1508fa6fe1f7aaa6.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sascha+Funke/Mango)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 
 **Puesto:** 28 de 42
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic
 

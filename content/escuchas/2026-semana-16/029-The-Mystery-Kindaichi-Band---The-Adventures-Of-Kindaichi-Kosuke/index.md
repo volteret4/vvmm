@@ -6,9 +6,13 @@ album: "The Adventures Of Kindaichi Kosuke"
 escuchas: 5
 puesto: 29
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
 portada: "668eefbcf3c77221.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Mystery+Kindaichi+Band/The+Adventures+Of+Kindaichi+Kosuke)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 5
 

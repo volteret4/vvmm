@@ -6,15 +6,21 @@ album: "Planetary People"
 escuchas: 13
 puesto: 1
 semana: "2026-W21"
+nuevo_album: true
+mix: 1
 portada: "70d2b0ee3c9f7cad.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Planetary+Assault+Systems/Planetary+People)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 13
 
 **Puesto:** 1 de 19
 
 **Canciones distintas:** 13
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -26,7 +32,7 @@ portada: "70d2b0ee3c9f7cad.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Beton Brut | 1 |
+| Beton Brut ♥ | 1 |
 | Brave Cosmo | 1 |
 | Generation Slip | 1 |
 | Ha Jam | 1 |

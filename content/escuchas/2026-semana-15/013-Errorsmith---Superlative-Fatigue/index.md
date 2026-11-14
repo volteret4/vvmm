@@ -6,6 +6,7 @@ album: "Superlative Fatigue"
 escuchas: 4
 puesto: 13
 semana: "2026-W15"
+mix: 1
 portada: "baaa03b3877ef1ef.jpg"
 mbid: "0b07b409-b070-4a5e-a165-4e756f554d34"
 ---
@@ -17,6 +18,8 @@ mbid: "0b07b409-b070-4a5e-a165-4e756f554d34"
 **Puesto:** 13 de 20
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** experimental, electronic
 
@@ -30,5 +33,5 @@ mbid: "0b07b409-b070-4a5e-a165-4e756f554d34"
 |---------|---------:|
 | Centroid | 1 |
 | I'm Interesting, Cheerful & Sociable | 1 |
-| Lightspeed | 1 |
+| Lightspeed ♥ | 1 |
 | Who-is | 1 |

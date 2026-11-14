@@ -96,6 +96,56 @@ def bases(raiz, host, sin_copiar):
     return db, ultimo
 
 
+EDICION = re.compile(r'\s*[\(\[][^\)\]]*[\)\]]'
+                     r'|\s+-\s+.*\b(remaster\w*|deluxe|edition|version|expanded|anniversary|mono|stereo)\b.*$', re.I)
+
+
+def disco_base(nombre):
+    """Nombre del disco sin edición: «Chorus (2020 Deluxe Edition)» → «chorus»."""
+    return norm(EDICION.sub('', nombre or '')) or norm(nombre or '')
+
+
+def primeras(db):
+    """Primer scrobble de cada artista y de cada disco en todo el historial (Last.fm + ListenBrainz).
+
+    Las ediciones del mismo disco («Deluxe», «Remastered»…) cuentan como el mismo disco."""
+    art = dict(db.execute('SELECT artist_id, min(ts) FROM scrobbles GROUP BY artist_id'))
+    alb = {}
+    q = ('SELECT s.artist_id, al.name, min(s.ts) FROM scrobbles s JOIN albums al USING (album_id)'
+         ' GROUP BY s.album_id')
+    for artist_id, nombre, ts in db.execute(q):
+        k = (artist_id, disco_base(nombre))
+        alb[k] = min(ts, alb.get(k, ts))
+    return art, alb
+
+
+# ── Mix: canciones guardadas (son también los corazones de Last.fm) ──────────
+
+# library.db de mixxx-info: una fila por canción de Mix (artista, disco, título, ruta)
+MIX_CMD = 'cat contenedores/repeat-one/services/mixxx_info/library.db'
+
+
+def mix(raiz, host, sin_copiar):
+    """{(artista, disco base): {títulos base}} de las canciones de Mix (sin Mix/.old)."""
+    f = raiz / '.cache' / 'repeat-one' / 'mix.db'
+    if not (sin_copiar and f.exists()):
+        try:
+            copiar(host, MIX_CMD, f)
+        except SystemExit as e:
+            print(f'  · Mix no disponible: {e}', file=sys.stderr)
+            if not f.exists():
+                return {}
+    db = sqlite3.connect(f'file:{f}?mode=ro', uri=True)
+    canciones, n = {}, 0
+    for artist, album, title, ruta in db.execute('SELECT artist, album, title, file_path FROM songs'):
+        if '/.' in (ruta or '') or not album:
+            continue
+        n += 1
+        canciones.setdefault((norm(artist or ''), disco_base(album)), set()).add(disco_base(title))
+    print(f'Mix: {n} canciones')
+    return canciones
+
+
 def limites(anio, semana):
     """Lunes 00:00 y lunes siguiente 00:00 (hora de Madrid) de una semana ISO."""
     lunes = date.fromisocalendar(anio, semana, 1)
@@ -256,7 +306,7 @@ def lastfm_url(artist, album):
             + '/' + urllib.parse.quote_plus(album))
 
 
-def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
+def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
     ini, fin = limites(anio, sem)
     completa = fin <= datetime.now(TZ)
     tracks = scrobbles(db, ini, fin)
@@ -271,7 +321,12 @@ def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
         if len(ts) >= minimo:
             albumes.append({'id': album_id, 'artist_id': ts[0]['artist_id'], 'artist': ts[0]['artist'],
                             'album': ts[0]['album'], 'n': len(ts),
-                            'canciones': Counter(t['track'] for t in ts)})
+                            'canciones': Counter(t['track'] for t in ts),
+                            # primera vez: el primer scrobble de su historia cae en esta semana
+                            'nuevo_artista': primera[0].get(ts[0]['artist_id'], 0) >= ini.timestamp(),
+                            'nuevo_album': primera[1].get((ts[0]['artist_id'], disco_base(ts[0]['album'])), 0)
+                            >= ini.timestamp(),
+                            'mix': enmix.get((norm(ts[0]['artist']), disco_base(ts[0]['album'])), set())})
     albumes.sort(key=lambda a: (-a['n'], -len(a['canciones']), norm(a['artist'])))
     if maximo:
         albumes = albumes[:maximo]
@@ -300,6 +355,12 @@ def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
             f'puesto: {i}',
             f'semana: "{anio}-W{sem:02d}"',
         ]
+        if a['nuevo_artista']:
+            lineas.append('nuevo_artista: true')
+        if a['nuevo_album']:
+            lineas.append('nuevo_album: true')
+        if a['mix']:
+            lineas.append(f'mix: {len(a["mix"])}')
         if portada:
             lineas.append(f'portada: "{portada}"')
         if f['mbid']:
@@ -308,8 +369,15 @@ def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
         if f['mbid']:
             lineas.append(f'[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]'
                           f'(https://musicbrainz.org/release/{f["mbid"]})')
+        if a['nuevo_artista']:
+            lineas += ['', '**Primera vez:** primera semana escuchando a este artista']
+        elif a['nuevo_album']:
+            lineas += ['', '**Primera vez:** primera semana escuchando este disco']
         lineas += ['', f'**Escuchas:** {a["n"]}', '', f'**Puesto:** {i} de {len(albumes)}', '',
                    f'**Canciones distintas:** {len(a["canciones"])}', '']
+        if a['mix']:
+            n = len(a['mix'])
+            lineas += [f'**En Mix:** {"♥" * min(n, 10)} {n} {"canción" if n == 1 else "canciones"}', '']
         if f['generos']:
             lineas += [f'**Género:** {", ".join(f["generos"])}', '']
         if f['sello']:
@@ -318,7 +386,8 @@ def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
             lineas += [f'**Año:** {f["fecha"]}', '']
         lineas += ['## Canciones escuchadas', '', '| Canción | Escuchas |', '|---------|---------:|']
         for c, n in sorted(a['canciones'].items(), key=lambda x: (-x[1], x[0].casefold())):
-            lineas.append(f'| {c.replace("|", "∣")} | {n} |')
+            corazon = ' ♥' if disco_base(c) in a['mix'] else ''
+            lineas.append(f'| {c.replace("|", "∣")}{corazon} | {n} |')
         d = carpeta / f'{i:03d}-{slug(a["artist"])}---{slug(a["album"])}'
         d.mkdir()
         (d / 'index.md').write_text('\n'.join(lineas) + '\n')
@@ -333,6 +402,9 @@ def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
         f'hasta: {(fin - timedelta(days=1)).date().isoformat()}',
         f'rango: {q(rango(ini, fin))}',
         f'scrobbles: {len(tracks)}',
+        f'nuevos_artistas: {sum(a["nuevo_artista"] for a in albumes)}',
+        f'nuevos_albumes: {sum(a["nuevo_album"] for a in albumes)}',
+        f'mix: {sum(len(a["mix"]) for a in albumes)}',
         f'completa: {str(completa).lower()}',
         '---',
     ]) + '\n')
@@ -390,13 +462,15 @@ def main():
 
     raiz = a.raiz.resolve()
     db, ultimo = bases(raiz, a.host, a.sin_copiar)
+    primera = primeras(db)
+    enmix = mix(raiz, a.host, a.sin_copiar)
     sec = raiz / 'content' / 'escuchas' / '_index.md'
     if not sec.exists():
         sec.parent.mkdir(parents=True, exist_ok=True)
         sec.write_text('---\ntitle: "escuchas"\n---\n')
     portadas = Portadas(raiz, a.rebuscar)
     for anio, s in semanas:
-        semana(raiz, db, ultimo, anio, s, a.min, a.max, portadas)
+        semana(raiz, db, primera, enmix, anio, s, a.min, a.max, portadas)
     limpiar(raiz)
 
 

@@ -6,17 +6,23 @@ album: "Block Control EP"
 escuchas: 3
 puesto: 20
 semana: "2026-W35"
+nuevo_album: true
+mix: 1
 portada: "c943c0549836530b.jpg"
 mbid: "150e2a9d-a28a-4668-bc14-199c6a63ea69"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Noisia/Block+Control+EP)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/150e2a9d-a28a-4668-bc14-199c6a63ea69)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 3
 
 **Puesto:** 20 de 21
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** drum and bass, electronic, jungle
 
@@ -29,5 +35,5 @@ mbid: "150e2a9d-a28a-4668-bc14-199c6a63ea69"
 | Canción | Escuchas |
 |---------|---------:|
 | Believe | 1 |
-| Block Control | 1 |
+| Block Control ♥ | 1 |
 | Cold Veins | 1 |

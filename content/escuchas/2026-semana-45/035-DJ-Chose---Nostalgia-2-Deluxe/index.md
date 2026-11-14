@@ -6,9 +6,13 @@ album: "Nostalgia 2 (Deluxe)"
 escuchas: 3
 puesto: 35
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "c8b73de89fe4ee0d.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/DJ+Chose/Nostalgia+2+%28Deluxe%29)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

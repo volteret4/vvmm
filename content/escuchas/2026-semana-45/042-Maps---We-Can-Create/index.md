@@ -6,11 +6,14 @@ album: "We Can Create"
 escuchas: 3
 puesto: 42
 semana: "2026-W45"
+nuevo_album: true
 portada: "6b72978b614b9cd2.jpg"
 mbid: "b6389468-5eed-4659-b841-598a7dab4ac7"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Maps/We+Can+Create)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b6389468-5eed-4659-b841-598a7dab4ac7)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

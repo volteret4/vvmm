@@ -6,9 +6,12 @@ album: "Themes for Dreams"
 escuchas: 14
 puesto: 4
 semana: "2026-W27"
+nuevo_album: true
 portada: "4e556e265f35d240.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Resavoir/Themes+for+Dreams)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 14
 

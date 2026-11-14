@@ -6,6 +6,7 @@ album: "When You Touch Me: The West End Recordings"
 escuchas: 7
 puesto: 15
 semana: "2026-W10"
+mix: 3
 portada: "29cf5fcf4be2f7fa.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Taana+Gardner/When+You+Touch+Me%3A+The+West+End+Recordings)
@@ -16,6 +17,8 @@ portada: "29cf5fcf4be2f7fa.jpg"
 
 **Canciones distintas:** 4
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** Unknown
 
 **Año:** 2024
@@ -24,7 +27,7 @@ portada: "29cf5fcf4be2f7fa.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Just Be a Friend | 2 |
+| Just Be a Friend ♥ | 2 |
 | We Got to Work It Out | 2 |
-| When You Touch Me | 2 |
-| Paradise Express | 1 |
+| When You Touch Me ♥ | 2 |
+| Paradise Express ♥ | 1 |

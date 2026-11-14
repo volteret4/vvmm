@@ -6,6 +6,7 @@ album: "Different Light"
 escuchas: 6
 puesto: 26
 semana: "2026-W13"
+mix: 1
 portada: "f5a55f5c6e06705d.jpg"
 mbid: "df520114-6f6c-453f-b96c-87f6a0e34a26"
 ---
@@ -17,6 +18,8 @@ mbid: "df520114-6f6c-453f-b96c-87f6a0e34a26"
 **Puesto:** 26 de 35
 
 **Canciones distintas:** 6
+
+**En Mix:** ♥ 1 canción
 
 **Género:** pop, pop rock, alternative/indie rock, rock, jangle pop, 80s
 
@@ -32,5 +35,5 @@ mbid: "df520114-6f6c-453f-b96c-87f6a0e34a26"
 | Manic Monday | 1 |
 | Return Post | 1 |
 | Standing In The Hallway | 1 |
-| Walk Like an Egyptian | 1 |
+| Walk Like an Egyptian ♥ | 1 |
 | Walking Down Your Street | 1 |

@@ -6,6 +6,7 @@ album: "Hounds of Love"
 escuchas: 10
 puesto: 1
 semana: "2026-W04"
+mix: 3
 portada: "7c25b4caa56a1e6b.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kate+Bush/Hounds+of+Love)
@@ -16,6 +17,8 @@ portada: "7c25b4caa56a1e6b.png"
 
 **Canciones distintas:** 7
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** Rock
 
 **Año:** 1985
@@ -24,10 +27,10 @@ portada: "7c25b4caa56a1e6b.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Hounds of Love | 2 |
-| Running Up That Hill (A Deal with God) | 2 |
+| Hounds of Love ♥ | 2 |
+| Running Up That Hill (A Deal with God) ♥ | 2 |
 | The Big Sky | 2 |
 | And Dream of Sheep | 1 |
-| Cloudbusting | 1 |
+| Cloudbusting ♥ | 1 |
 | Mother Stands for Comfort | 1 |
 | Under Ice | 1 |

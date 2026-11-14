@@ -6,9 +6,12 @@ album: "Loud Ambient EP1"
 escuchas: 3
 puesto: 35
 semana: "2026-W13"
+nuevo_album: true
 portada: "d8d022b775ac4938.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Black+Dog/Loud+Ambient+EP1)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

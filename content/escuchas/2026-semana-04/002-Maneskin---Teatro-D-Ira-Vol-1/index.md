@@ -6,9 +6,12 @@ album: "Teatro D'Ira Vol. 1"
 escuchas: 4
 puesto: 2
 semana: "2026-W04"
+nuevo_album: true
 portada: "352cb70893cb07c5.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/M%C3%A5neskin/Teatro+D%27Ira+Vol.+1)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

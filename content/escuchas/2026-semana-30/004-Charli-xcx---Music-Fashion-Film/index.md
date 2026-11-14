@@ -6,9 +6,12 @@ album: "Music, Fashion, Film"
 escuchas: 11
 puesto: 4
 semana: "2026-W30"
+nuevo_album: true
 portada: "b2a55c65eb966771.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Charli+xcx/Music%2C+Fashion%2C+Film)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

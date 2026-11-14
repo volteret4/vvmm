@@ -6,9 +6,12 @@ album: "But What Time Is It Really?"
 escuchas: 9
 puesto: 6
 semana: "2026-W18"
+nuevo_album: true
 portada: "edc38ca2696fd0b5.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Cabaret+Voltaire/But+What+Time+Is+It+Really%3F)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

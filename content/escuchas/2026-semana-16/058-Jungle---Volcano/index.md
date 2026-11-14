@@ -6,6 +6,7 @@ album: "Volcano"
 escuchas: 3
 puesto: 58
 semana: "2026-W16"
+mix: 4
 portada: "e7ca42a06162d3f3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jungle/Volcano)
@@ -15,6 +16,8 @@ portada: "e7ca42a06162d3f3.jpg"
 **Puesto:** 58 de 59
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥♥♥ 4 canciones
 
 **Género:** Dance
 
@@ -26,5 +29,5 @@ portada: "e7ca42a06162d3f3.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Dominoes | 2 |
-| Every Night | 1 |
+| Dominoes ♥ | 2 |
+| Every Night ♥ | 1 |

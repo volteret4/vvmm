@@ -6,6 +6,7 @@ album: "Millie Jackson"
 escuchas: 3
 puesto: 42
 semana: "2026-W18"
+mix: 2
 portada: "c207c18e7e936004.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Millie+Jackson/Millie+Jackson)
@@ -15,6 +16,8 @@ portada: "c207c18e7e936004.jpg"
 **Puesto:** 42 de 52
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Soul
 
@@ -26,5 +29,5 @@ portada: "c207c18e7e936004.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| I Ain't Giving Up | 2 |
-| Ask Me What You Want | 1 |
+| I Ain't Giving Up ♥ | 2 |
+| Ask Me What You Want ♥ | 1 |

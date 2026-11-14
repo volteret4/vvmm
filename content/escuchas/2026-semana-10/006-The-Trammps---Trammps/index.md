@@ -6,9 +6,12 @@ album: "Trammps"
 escuchas: 13
 puesto: 6
 semana: "2026-W10"
+nuevo_album: true
 portada: "70d8ce3a3b4f4984.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Trammps/Trammps)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 13
 

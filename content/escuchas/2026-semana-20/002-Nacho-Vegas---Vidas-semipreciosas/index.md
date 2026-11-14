@@ -6,15 +6,21 @@ album: "Vidas semipreciosas"
 escuchas: 18
 puesto: 2
 semana: "2026-W20"
+nuevo_album: true
+mix: 2
 portada: "a5277a092fb38d98.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nacho+Vegas/Vidas+semipreciosas)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 18
 
 **Puesto:** 2 de 4
 
 **Canciones distintas:** 10
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 
@@ -26,12 +32,12 @@ portada: "a5277a092fb38d98.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Tiempos de lobos | 3 |
+| Tiempos de lobos ♥ | 3 |
 | Alivio | 2 |
 | Fíu | 2 |
 | Interludio: Javitxu | 2 |
 | Llueven moscas | 2 |
-| Mi pequeña bestia | 2 |
+| Mi pequeña bestia ♥ | 2 |
 | Piedras semipreciosas | 2 |
 | Deslenguarte | 1 |
 | Interludio: Anna | 1 |

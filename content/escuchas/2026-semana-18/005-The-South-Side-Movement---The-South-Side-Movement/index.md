@@ -6,9 +6,13 @@ album: "The South Side Movement"
 escuchas: 10
 puesto: 5
 semana: "2026-W18"
+nuevo_artista: true
+nuevo_album: true
 portada: "90ee7e64e4faf1bc.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+South+Side+Movement/The+South+Side+Movement)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

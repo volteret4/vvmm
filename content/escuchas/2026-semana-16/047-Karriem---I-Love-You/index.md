@@ -6,15 +6,22 @@ album: "I Love You"
 escuchas: 4
 puesto: 47
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "df1aaff169fe1900.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Karriem/I+Love+You)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 
 **Puesto:** 47 de 59
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -26,5 +33,5 @@ portada: "df1aaff169fe1900.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| I Love You (Long Version) | 2 |
-| I Love You (Short Version) | 2 |
+| I Love You (Long Version) ♥ | 2 |
+| I Love You (Short Version) ♥ | 2 |

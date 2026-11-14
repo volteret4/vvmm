@@ -6,15 +6,22 @@ album: "The Mack"
 escuchas: 3
 puesto: 40
 semana: "2026-W18"
+nuevo_artista: true
+nuevo_album: true
+mix: 5
 portada: "8740f34631e316d3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Willie+Hutch/The+Mack)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 
 **Puesto:** 40 de 52
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥♥♥ 5 canciones
 
 **Género:** Unknown
 
@@ -24,6 +31,6 @@ portada: "8740f34631e316d3.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Mack's Stroll / The Getaway (Chase Scene) | 1 |
-| Slick | 1 |
-| Theme Of The Mack | 1 |
+| Mack's Stroll / The Getaway (Chase Scene) ♥ | 1 |
+| Slick ♥ | 1 |
+| Theme Of The Mack ♥ | 1 |

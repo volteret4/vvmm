@@ -6,17 +6,24 @@ album: "Open The Doors To Your Heart"
 escuchas: 6
 puesto: 10
 semana: "2026-W15"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "ff9484f5b634cd47.jpg"
 mbid: "8fb9687b-e2f9-4a26-bde5-547e26d004fd"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/J.O.B.+Orquestra/Open+The+Doors+To+Your+Heart)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/8fb9687b-e2f9-4a26-bde5-547e26d004fd)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 6
 
 **Puesto:** 10 de 20
 
 **Canciones distintas:** 6
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Soul, United States
 
@@ -28,7 +35,7 @@ mbid: "8fb9687b-e2f9-4a26-bde5-547e26d004fd"
 
 | Canción | Escuchas |
 |---------|---------:|
-| can't find the way | 1 |
+| can't find the way ♥ | 1 |
 | don't want that illusion | 1 |
 | i believe in thee | 1 |
 | Only Faith And Hope | 1 |

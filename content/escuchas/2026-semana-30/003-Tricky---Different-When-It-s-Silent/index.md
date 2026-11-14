@@ -6,15 +6,21 @@ album: "Different When It's Silent"
 escuchas: 14
 puesto: 3
 semana: "2026-W30"
+nuevo_album: true
+mix: 1
 portada: "182c57d961acaa23.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tricky/Different+When+It%27s+Silent)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 14
 
 **Puesto:** 3 de 9
 
 **Canciones distintas:** 14
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -27,7 +33,7 @@ portada: "182c57d961acaa23.jpg"
 | Canción | Escuchas |
 |---------|---------:|
 | Be Still In The Pain (feat. Mitch Sanders & Run Red Rambo) | 1 |
-| Because I Don’t Know (feat. Mitch Sanders) | 1 |
+| Because I Don’t Know (feat. Mitch Sanders) ♥ | 1 |
 | Cannon Fodder (feat. Mitch Sanders) | 1 |
 | Frontier Town | 1 |
 | Hengrove Blues (feat. Mitch Sanders) | 1 |

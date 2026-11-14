@@ -6,11 +6,15 @@ album: "Kontur II"
 escuchas: 3
 puesto: 20
 semana: "2026-W15"
+nuevo_artista: true
+nuevo_album: true
 portada: "b073bbd02c3db9eb.jpg"
 mbid: "c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Luar/Kontur+II)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

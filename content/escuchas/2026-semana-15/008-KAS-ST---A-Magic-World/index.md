@@ -6,17 +6,24 @@ album: "A Magic World"
 escuchas: 8
 puesto: 8
 semana: "2026-W15"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "c2a7d7012bd1fe6d.jpg"
 mbid: "837f7341-d50b-45d5-a2c3-f802199100ab"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/KAS%3AST/A+Magic+World)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/837f7341-d50b-45d5-a2c3-f802199100ab)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 8
 
 **Puesto:** 8 de 20
 
 **Canciones distintas:** 8
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Techno, Deep House, Deep Techno
 
@@ -28,7 +35,7 @@ mbid: "837f7341-d50b-45d5-a2c3-f802199100ab"
 
 | Canción | Escuchas |
 |---------|---------:|
-| 75ZOO | 1 |
+| 75ZOO ♥ | 1 |
 | A MAGIC WORLD | 1 |
 | Blood in Your Eyes | 1 |
 | Earth on Hell | 1 |

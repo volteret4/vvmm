@@ -6,11 +6,15 @@ album: "Spatial, No Problem."
 escuchas: 4
 puesto: 10
 semana: "2026-W24"
+nuevo_artista: true
+nuevo_album: true
 portada: "2a7e14dfd6839b56.jpg"
 mbid: "2a5e80b4-7aee-40ef-8bb9-42330d6df755"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lee+Scratch+Perry+%26+Mouse+On+Mars/Spatial%2C+No+Problem.)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/2a5e80b4-7aee-40ef-8bb9-42330d6df755)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

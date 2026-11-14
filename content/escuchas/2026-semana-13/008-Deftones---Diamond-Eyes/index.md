@@ -6,9 +6,12 @@ album: "Diamond Eyes"
 escuchas: 11
 puesto: 8
 semana: "2026-W13"
+nuevo_album: true
 portada: "6b71c3b05aaec324.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Diamond+Eyes)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

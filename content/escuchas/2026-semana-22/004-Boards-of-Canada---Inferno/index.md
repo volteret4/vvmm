@@ -6,9 +6,12 @@ album: "Inferno"
 escuchas: 11
 puesto: 4
 semana: "2026-W22"
+nuevo_album: true
 portada: "ea62aafb7261863c.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Boards+of+Canada/Inferno)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

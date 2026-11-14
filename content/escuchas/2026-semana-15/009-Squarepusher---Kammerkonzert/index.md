@@ -6,11 +6,14 @@ album: "Kammerkonzert"
 escuchas: 7
 puesto: 9
 semana: "2026-W15"
+nuevo_album: true
 portada: "0f8d928f386c9d74.jpg"
 mbid: "b3099779-095d-4030-93c5-1e71f937eb96"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Squarepusher/Kammerkonzert)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b3099779-095d-4030-93c5-1e71f937eb96)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

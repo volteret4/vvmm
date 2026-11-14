@@ -6,17 +6,23 @@ album: "Breakin' Boundaries Vol 3"
 escuchas: 4
 puesto: 2
 semana: "2026-W36"
+nuevo_album: true
+mix: 2
 portada: "23a2aad0b80ba11e.jpg"
 mbid: "c30b38aa-0dc1-4976-9e24-7cebea78105f"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Krafty+Kuts/Breakin%27+Boundaries+Vol+3)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c30b38aa-0dc1-4976-9e24-7cebea78105f)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 4
 
 **Puesto:** 2 de 6
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic, Breakbeat, Breaks
 
@@ -28,7 +34,7 @@ mbid: "c30b38aa-0dc1-4976-9e24-7cebea78105f"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Badman (Extended Mix) | 1 |
+| Badman (Extended Mix) ♥ | 1 |
 | Four Days (Extended Mix) | 1 |
 | Go Loco (Extended Mix) | 1 |
-| Read Your Mind (Extended Mix) | 1 |
+| Read Your Mind (Extended Mix) ♥ | 1 |

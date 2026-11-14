@@ -6,9 +6,12 @@ album: "Hamnet: Original Motion Picture Soundtrack"
 escuchas: 10
 puesto: 2
 semana: "2026-W06"
+nuevo_album: true
 portada: "de1edbe82c0a6d1b.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Max+Richter/Hamnet%3A+Original+Motion+Picture+Soundtrack)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

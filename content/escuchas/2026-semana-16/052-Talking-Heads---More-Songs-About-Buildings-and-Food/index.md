@@ -6,9 +6,12 @@ album: "More Songs About Buildings and Food"
 escuchas: 3
 puesto: 52
 semana: "2026-W16"
+nuevo_album: true
 portada: "3bf59a559c1fa61f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Talking+Heads/More+Songs+About+Buildings+and+Food)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

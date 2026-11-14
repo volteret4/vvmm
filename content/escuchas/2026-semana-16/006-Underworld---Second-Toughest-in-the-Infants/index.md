@@ -6,6 +6,7 @@ album: "Second Toughest in the Infants"
 escuchas: 10
 puesto: 6
 semana: "2026-W16"
+mix: 2
 portada: "b158e00fb88394e4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Underworld/Second+Toughest+in+the+Infants)
@@ -15,6 +16,8 @@ portada: "b158e00fb88394e4.jpg"
 **Puesto:** 6 de 59
 
 **Canciones distintas:** 10
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic
 
@@ -27,7 +30,7 @@ portada: "b158e00fb88394e4.jpg"
 | Canción | Escuchas |
 |---------|---------:|
 | Banstyle / Sappys Curry | 1 |
-| Cherry Pie | 1 |
+| Cherry Pie ♥ | 1 |
 | Confusion the Waitress | 1 |
 | Deep Arch | 1 |
 | Juanita: Kiteless: To Dream of Love | 1 |

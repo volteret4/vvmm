@@ -6,9 +6,12 @@ album: "Detached From The Rest Of You"
 escuchas: 6
 puesto: 7
 semana: "2026-W21"
+nuevo_album: true
 portada: "ab8a8a179d4f1278.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Loraine+James/Detached+From+The+Rest+Of+You)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

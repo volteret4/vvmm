@@ -6,15 +6,21 @@ album: "Umami"
 escuchas: 9
 puesto: 7
 semana: "2026-W18"
+nuevo_album: true
+mix: 1
 portada: "bbab247be53041d5.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Folamour/Umami)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 
 **Puesto:** 7 de 52
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -25,7 +31,7 @@ portada: "bbab247be53041d5.jpg"
 | Canción | Escuchas |
 |---------|---------:|
 | Devoted To U | 1 |
-| Ivoire | 1 |
+| Ivoire ♥ | 1 |
 | Jah Love | 1 |
 | Kickflipin' That Stuff | 1 |
 | Look At Me Or I'll Steal Your Eyes | 1 |

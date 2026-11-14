@@ -6,15 +6,22 @@ album: "Bamboo"
 escuchas: 10
 puesto: 8
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "c47db43a3aed7f92.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bamboo/Bamboo)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 
 **Puesto:** 8 de 29
 
 **Canciones distintas:** 8
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 

@@ -6,14 +6,21 @@ album: "Focus"
 escuchas: 6
 puesto: 24
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ken+Ishii%2C+YUADA/Focus)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 6
 
 **Puesto:** 24 de 59
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Techno
 
@@ -23,7 +30,7 @@ semana: "2026-W16"
 
 | Canción | Escuchas |
 |---------|---------:|
-| CCTV (Original Mix) | 2 |
+| CCTV (Original Mix) ♥ | 2 |
 | Rapid Shots Part 1 (Original Mix) | 2 |
 | Prism (Original Mix) | 1 |
 | Rapid Shots Part 2 (Original Mix) | 1 |

@@ -6,11 +6,15 @@ album: "Cara Maluco"
 escuchas: 4
 puesto: 31
 semana: "2026-W13"
+nuevo_artista: true
+nuevo_album: true
 portada: "3b86b8eed4a54917.jpg"
 mbid: "deba183b-1cc8-4d09-a7e8-5e03b94b3bcd"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Osees/Cara+Maluco)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/deba183b-1cc8-4d09-a7e8-5e03b94b3bcd)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

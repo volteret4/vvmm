@@ -6,9 +6,12 @@ album: "Full Circle"
 escuchas: 11
 puesto: 11
 semana: "2026-W13"
+nuevo_album: true
 portada: "b7a2a422473fe2b5.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tom+Misch/Full+Circle)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

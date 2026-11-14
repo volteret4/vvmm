@@ -6,6 +6,7 @@ album: "Kiss Me Kiss Me Kiss Me"
 escuchas: 19
 puesto: 1
 semana: "2026-W08"
+mix: 1
 portada: "8bce595bff328eb8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Cure/Kiss+Me+Kiss+Me+Kiss+Me)
@@ -15,6 +16,8 @@ portada: "8bce595bff328eb8.jpg"
 **Puesto:** 1 de 4
 
 **Canciones distintas:** 19
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Alternative Rock
 
@@ -39,7 +42,7 @@ portada: "8bce595bff328eb8.jpg"
 | Like Cockatoos | 1 |
 | One More Time | 1 |
 | Shiver and Shake | 1 |
-| The Kiss | 1 |
+| The Kiss ♥ | 1 |
 | The Perfect Girl | 1 |
 | The Perfect Girl (Studio Demo) | 1 |
 | The Snakepit | 1 |

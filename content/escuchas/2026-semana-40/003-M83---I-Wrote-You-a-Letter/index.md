@@ -6,17 +6,23 @@ album: "I Wrote You a Letter"
 escuchas: 10
 puesto: 3
 semana: "2026-W40"
+nuevo_album: true
+mix: 1
 portada: "4476366ce0930a5f.jpg"
 mbid: "05d18db3-b4af-4bc7-b8c1-30561008ec6c"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/M83/I+Wrote+You+a+Letter)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/05d18db3-b4af-4bc7-b8c1-30561008ec6c)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 10
 
 **Puesto:** 3 de 11
 
 **Canciones distintas:** 9
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic, Post-Rock, Shoegaze
 
@@ -28,7 +34,7 @@ mbid: "05d18db3-b4af-4bc7-b8c1-30561008ec6c"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Losing Ground | 2 |
+| Losing Ground ♥ | 2 |
 | Aged | 1 |
 | Blister Sunrise | 1 |
 | Feeding Time | 1 |

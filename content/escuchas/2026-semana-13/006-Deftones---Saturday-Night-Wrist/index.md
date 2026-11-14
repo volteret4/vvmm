@@ -6,9 +6,12 @@ album: "Saturday Night Wrist"
 escuchas: 12
 puesto: 6
 semana: "2026-W13"
+nuevo_album: true
 portada: "3520f5644d3dedd8.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Saturday+Night+Wrist)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 12
 

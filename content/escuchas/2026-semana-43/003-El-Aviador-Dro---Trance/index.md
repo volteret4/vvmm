@@ -6,11 +6,15 @@ album: "Trance"
 escuchas: 9
 puesto: 3
 semana: "2026-W43"
+nuevo_artista: true
+nuevo_album: true
 portada: "e4f247a31aa41d8a.jpg"
 mbid: "afc42e35-f70e-4a72-895d-220397c5db3e"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/El+Aviador+Dro/Trance)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/afc42e35-f70e-4a72-895d-220397c5db3e)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 9
 

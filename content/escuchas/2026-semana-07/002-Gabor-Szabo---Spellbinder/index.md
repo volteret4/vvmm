@@ -6,9 +6,12 @@ album: "Spellbinder"
 escuchas: 10
 puesto: 2
 semana: "2026-W07"
+nuevo_album: true
 portada: "9cb16ff19431da3a.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/G%C3%A1bor+Szab%C3%B3/Spellbinder)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

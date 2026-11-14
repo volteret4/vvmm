@@ -6,8 +6,12 @@ album: "Let's Get Together"
 escuchas: 4
 puesto: 23
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Pam+Todd+And+Love+Exchange/Let%27s+Get+Together)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

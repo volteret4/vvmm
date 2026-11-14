@@ -6,9 +6,12 @@ album: "Black Cats"
 escuchas: 4
 puesto: 11
 semana: "2026-W23"
+nuevo_album: true
 portada: "39ff5fc91d6f0546.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/Black+Cats)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

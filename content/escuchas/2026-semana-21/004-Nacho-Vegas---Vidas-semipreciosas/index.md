@@ -6,6 +6,7 @@ album: "Vidas semipreciosas"
 escuchas: 10
 puesto: 4
 semana: "2026-W21"
+mix: 2
 portada: "a5277a092fb38d98.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nacho+Vegas/Vidas+semipreciosas)
@@ -15,6 +16,8 @@ portada: "a5277a092fb38d98.jpg"
 **Puesto:** 4 de 19
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 
@@ -26,5 +29,5 @@ portada: "a5277a092fb38d98.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Mi pequeña bestia | 5 |
-| Tiempos de lobos | 5 |
+| Mi pequeña bestia ♥ | 5 |
+| Tiempos de lobos ♥ | 5 |

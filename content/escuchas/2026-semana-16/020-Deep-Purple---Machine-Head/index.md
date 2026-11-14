@@ -6,9 +6,12 @@ album: "Machine Head"
 escuchas: 6
 puesto: 20
 semana: "2026-W16"
+nuevo_album: true
 portada: "4b535c55ca698456.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deep+Purple/Machine+Head)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

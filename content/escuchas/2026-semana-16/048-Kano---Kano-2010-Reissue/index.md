@@ -6,6 +6,7 @@ album: "Kano (2010 Reissue)"
 escuchas: 3
 puesto: 48
 semana: "2026-W16"
+mix: 4
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kano/Kano+%282010+Reissue%29)
 
@@ -15,6 +16,8 @@ semana: "2026-W16"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥♥♥ 4 canciones
+
 **Género:** Electronic; Italo-Disco
 
 **Año:** 2010
@@ -23,6 +26,6 @@ semana: "2026-W16"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Ahjia | 1 |
-| Cosmic Voyager | 1 |
-| Now Baby Now | 1 |
+| Ahjia ♥ | 1 |
+| Cosmic Voyager ♥ | 1 |
+| Now Baby Now ♥ | 1 |

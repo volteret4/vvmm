@@ -6,11 +6,15 @@ album: "Cromosomas Salvajes"
 escuchas: 3
 puesto: 11
 semana: "2026-W43"
+nuevo_artista: true
+nuevo_album: true
 portada: "88b03c428caa888f.jpg"
 mbid: "9d85e9f8-5020-45e2-a564-1067b6ad92f4"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/El+Aviador+Dro/Cromosomas+Salvajes)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9d85e9f8-5020-45e2-a564-1067b6ad92f4)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

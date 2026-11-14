@@ -6,9 +6,13 @@ album: "Heart on the Line"
 escuchas: 3
 puesto: 38
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "2608da488c829452.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Fortran+5/Heart+on+the+Line)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

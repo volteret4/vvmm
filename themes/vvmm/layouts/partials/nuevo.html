@@ -1,0 +1,3 @@
+{{/* Primera escucha, en el pie de la tarjeta: ★ artista nuevo, ✦ disco nuevo de un artista ya escuchado */}}
+{{ if .Params.nuevo_artista }}<em class="nuevo-txt art">★ artista nuevo</em>
+{{ else if .Params.nuevo_album }}<em class="nuevo-txt">✦ disco nuevo</em>{{ end }}

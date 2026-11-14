@@ -6,9 +6,13 @@ album: "Love and Kisses"
 escuchas: 3
 puesto: 14
 semana: "2026-W09"
+nuevo_artista: true
+nuevo_album: true
 portada: "9ee71b4bf3b3fe12.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Love+And+Kisses/Love+and+Kisses)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

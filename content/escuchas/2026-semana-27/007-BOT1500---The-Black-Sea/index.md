@@ -6,9 +6,12 @@ album: "The Black Sea"
 escuchas: 8
 puesto: 7
 semana: "2026-W27"
+nuevo_album: true
 portada: "33af2502d71f7346.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/BOT1500/The+Black+Sea)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

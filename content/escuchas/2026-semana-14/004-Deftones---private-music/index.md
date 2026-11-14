@@ -6,9 +6,12 @@ album: "private music"
 escuchas: 11
 puesto: 4
 semana: "2026-W14"
+nuevo_album: true
 portada: "1ed4623fff4f3d84.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/private+music)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

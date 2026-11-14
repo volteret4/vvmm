@@ -6,9 +6,12 @@ album: "Odyssey"
 escuchas: 3
 puesto: 12
 semana: "2026-W23"
+nuevo_album: true
 portada: "09241a87888fed03.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nubya+Garcia/Odyssey)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

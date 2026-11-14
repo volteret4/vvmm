@@ -6,11 +6,15 @@ album: "Comfort in Misery"
 escuchas: 3
 puesto: 40
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
 portada: "62065a6ebb512975.jpg"
 mbid: "648227f6-cfae-4db2-9769-cb5a98f755f3"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Maenad+Veyl+%26+The+Sarcasm+Ensemble/Comfort+in+Misery)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/648227f6-cfae-4db2-9769-cb5a98f755f3)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

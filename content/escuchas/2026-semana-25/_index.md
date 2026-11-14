@@ -7,5 +7,8 @@ desde: 2026-06-15
 hasta: 2026-06-21
 rango: "15–21 jun 2026"
 scrobbles: 32
+nuevos_artistas: 0
+nuevos_albumes: 1
+mix: 2
 completa: true
 ---

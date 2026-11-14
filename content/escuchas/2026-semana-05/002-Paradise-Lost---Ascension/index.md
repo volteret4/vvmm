@@ -6,9 +6,13 @@ album: "Ascension"
 escuchas: 14
 puesto: 2
 semana: "2026-W05"
+nuevo_artista: true
+nuevo_album: true
 portada: "513cc381fdc6abaa.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Paradise+Lost/Ascension)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 14
 

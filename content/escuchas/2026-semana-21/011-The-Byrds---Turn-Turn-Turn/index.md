@@ -6,6 +6,7 @@ album: "Turn! Turn! Turn!"
 escuchas: 5
 puesto: 11
 semana: "2026-W21"
+mix: 2
 portada: "1e42727164079d4f.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Byrds/Turn%21+Turn%21+Turn%21)
@@ -15,6 +16,8 @@ portada: "1e42727164079d4f.png"
 **Puesto:** 11 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Rock
 
@@ -26,4 +29,4 @@ portada: "1e42727164079d4f.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| She Don’t Care About Time | 5 |
+| She Don’t Care About Time ♥ | 5 |

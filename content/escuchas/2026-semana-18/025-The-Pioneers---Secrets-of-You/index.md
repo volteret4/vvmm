@@ -6,15 +6,22 @@ album: "Secrets of You"
 escuchas: 4
 puesto: 25
 semana: "2026-W18"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "886b42d0bf2bb31b.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Pioneers/Secrets+of+You)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 
 **Puesto:** 25 de 52
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Funk / Soul
 
@@ -26,4 +33,4 @@ portada: "886b42d0bf2bb31b.jpg"
 |---------|---------:|
 | Let's Go All The Way | 2 |
 | My Good Friend James | 1 |
-| Shame On You | 1 |
+| Shame On You ♥ | 1 |

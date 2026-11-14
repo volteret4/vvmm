@@ -6,6 +6,7 @@ album: "Stratosphere"
 escuchas: 16
 puesto: 1
 semana: "2026-W06"
+mix: 1
 portada: "e7132ca7f0b593bf.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Duster/Stratosphere)
@@ -15,6 +16,8 @@ portada: "e7132ca7f0b593bf.jpg"
 **Puesto:** 1 de 5
 
 **Canciones distintas:** 16
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Slowcore
 
@@ -37,7 +40,7 @@ portada: "e7132ca7f0b593bf.jpg"
 | Reed to Hillsborough | 1 |
 | Shadows of Planes | 1 |
 | Sideria | 1 |
-| Stratosphere | 1 |
+| Stratosphere ♥ | 1 |
 | The Landing | 1 |
 | The Queen of Hearts | 1 |
 | The Twins / Romantica | 1 |

@@ -6,11 +6,14 @@ album: "I Must Be Dreaming"
 escuchas: 13
 puesto: 3
 semana: "2026-W35"
+nuevo_album: true
 portada: "c93b12a671df9ce6.png"
 mbid: "cffeb166-ccce-46a1-a48b-fd5c36e08219"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Alabama+Shakes/I+Must+Be+Dreaming)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/cffeb166-ccce-46a1-a48b-fd5c36e08219)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 13
 

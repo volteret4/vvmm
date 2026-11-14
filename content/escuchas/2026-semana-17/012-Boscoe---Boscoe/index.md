@@ -6,9 +6,13 @@ album: "Boscoe"
 escuchas: 8
 puesto: 12
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 portada: "9b086b1c9d67daa9.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Boscoe/Boscoe)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 8
 

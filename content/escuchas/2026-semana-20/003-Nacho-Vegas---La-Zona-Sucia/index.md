@@ -6,9 +6,12 @@ album: "La Zona Sucia"
 escuchas: 9
 puesto: 3
 semana: "2026-W20"
+nuevo_album: true
 portada: "3aea9c6cd6315d22.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nacho+Vegas/La+Zona+Sucia)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

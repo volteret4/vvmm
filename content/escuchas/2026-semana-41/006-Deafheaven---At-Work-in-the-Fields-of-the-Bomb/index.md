@@ -6,11 +6,14 @@ album: "At Work in the Fields of the Bomb"
 escuchas: 3
 puesto: 6
 semana: "2026-W41"
+nuevo_album: true
 portada: "4fcd796ca79cb9b4.jpg"
 mbid: "75c4478f-aa94-4943-b54b-3bbefd73a2e6"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deafheaven/At+Work+in+the+Fields+of+the+Bomb)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/75c4478f-aa94-4943-b54b-3bbefd73a2e6)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

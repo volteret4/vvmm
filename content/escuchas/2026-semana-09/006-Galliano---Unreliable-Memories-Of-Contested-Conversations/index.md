@@ -6,9 +6,12 @@ album: "Unreliable Memories Of Contested Conversations"
 escuchas: 7
 puesto: 6
 semana: "2026-W09"
+nuevo_album: true
 portada: "3935a74df3439ed4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Galliano/Unreliable+Memories+Of+Contested+Conversations)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

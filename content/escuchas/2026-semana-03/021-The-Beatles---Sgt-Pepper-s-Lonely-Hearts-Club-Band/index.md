@@ -6,6 +6,7 @@ album: "Sgt. Pepper's Lonely Hearts Club Band"
 escuchas: 4
 puesto: 21
 semana: "2026-W03"
+mix: 4
 portada: "af3bbd776d3213aa.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Beatles/Sgt.+Pepper%27s+Lonely+Hearts+Club+Band)
@@ -15,6 +16,8 @@ portada: "af3bbd776d3213aa.png"
 **Puesto:** 21 de 41
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥♥♥ 4 canciones
 
 **Género:** Rock
 
@@ -26,7 +29,7 @@ portada: "af3bbd776d3213aa.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Getting Better | 1 |
-| Sgt. Pepper’s Lonely Hearts Club Band | 1 |
-| Sgt. Pepper’s Lonely Hearts Club Band (Reprise) | 1 |
-| With a Little Help From My Friends | 1 |
+| Getting Better ♥ | 1 |
+| Sgt. Pepper’s Lonely Hearts Club Band ♥ | 1 |
+| Sgt. Pepper’s Lonely Hearts Club Band (Reprise) ♥ | 1 |
+| With a Little Help From My Friends ♥ | 1 |

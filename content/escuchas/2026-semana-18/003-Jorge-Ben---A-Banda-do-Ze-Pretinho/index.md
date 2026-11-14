@@ -6,15 +6,21 @@ album: "A Banda do Zé Pretinho"
 escuchas: 11
 puesto: 3
 semana: "2026-W18"
+nuevo_album: true
+mix: 2
 portada: "b4bce89f4843cac3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jorge+Ben/A+Banda+do+Z%C3%A9+Pretinho)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 
 **Puesto:** 3 de 52
 
 **Canciones distintas:** 11
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** MPB
 
@@ -24,9 +30,9 @@ portada: "b4bce89f4843cac3.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| A Banda do Zé Pretinho | 1 |
+| A Banda do Zé Pretinho ♥ | 1 |
 | Amante amado | 1 |
-| Berenice | 1 |
+| Berenice ♥ | 1 |
 | Bom Dia, Boa Tarde, Boa Noite Amor | 1 |
 | Cadê O Penalty | 1 |
 | Denize rei | 1 |

@@ -6,11 +6,14 @@ album: "The Dark"
 escuchas: 10
 puesto: 5
 semana: "2026-W35"
+nuevo_album: true
 portada: "eb6e089fed345fd8.jpg"
 mbid: "7d41eb14-7c6e-4506-81bd-a0207018abca"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Chelsea+Wolfe/The+Dark)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/7d41eb14-7c6e-4506-81bd-a0207018abca)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

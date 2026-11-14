@@ -6,9 +6,13 @@ album: "424"
 escuchas: 10
 puesto: 17
 semana: "2026-W13"
+nuevo_artista: true
+nuevo_album: true
 portada: "148263df79bdeeba.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mike+Dean/424)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

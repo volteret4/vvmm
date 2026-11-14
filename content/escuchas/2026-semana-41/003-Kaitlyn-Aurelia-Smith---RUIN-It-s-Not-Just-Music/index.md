@@ -6,11 +6,14 @@ album: "RUIN: It's Not Just Music"
 escuchas: 9
 puesto: 3
 semana: "2026-W41"
+nuevo_album: true
 portada: "cf419c16061650e3.jpg"
 mbid: "0799b7e2-fd87-4374-8baa-4f281da1c58b"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kaitlyn+Aurelia+Smith/RUIN%3A+It%27s+Not+Just+Music)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/0799b7e2-fd87-4374-8baa-4f281da1c58b)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

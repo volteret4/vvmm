@@ -6,15 +6,21 @@ album: "Pure Devotion"
 escuchas: 5
 puesto: 2
 semana: "2026-W32"
+nuevo_album: true
+mix: 1
 portada: "622a7e9b3b4782a9.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Overmono/Pure+Devotion)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 5
 
 **Puesto:** 2 de 4
 
 **Canciones distintas:** 5
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Unknown
 
@@ -27,7 +33,7 @@ portada: "622a7e9b3b4782a9.png"
 | Canción | Escuchas |
 |---------|---------:|
 | Adre | 1 |
-| After the Rain | 1 |
+| After the Rain ♥ | 1 |
 | Laxbrook | 1 |
 | Lockup | 1 |
 | Slowmotion | 1 |

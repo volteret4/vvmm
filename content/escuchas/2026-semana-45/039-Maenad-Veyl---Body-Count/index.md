@@ -6,6 +6,7 @@ album: "Body Count"
 escuchas: 3
 puesto: 39
 semana: "2026-W45"
+mix: 7
 portada: "d3a7c7b7f9f3def4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Maenad+Veyl/Body+Count)
@@ -16,6 +17,8 @@ portada: "d3a7c7b7f9f3def4.jpg"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥♥♥♥♥♥ 7 canciones
+
 **Género:** Unknown
 
 **Año:** 2019
@@ -24,6 +27,6 @@ portada: "d3a7c7b7f9f3def4.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Bleak | 1 |
-| Permanent Disrepair | 1 |
-| They Belonged With The Others | 1 |
+| Bleak ♥ | 1 |
+| Permanent Disrepair ♥ | 1 |
+| They Belonged With The Others ♥ | 1 |

@@ -6,11 +6,15 @@ album: "A Magic World"
 escuchas: 3
 puesto: 17
 semana: "2026-W15"
+nuevo_artista: true
+nuevo_album: true
 portada: "c3c70de2e9fb83d8.jpg"
 mbid: "837f7341-d50b-45d5-a2c3-f802199100ab"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/KAS%3AST+feat.+Brume/A+Magic+World)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/837f7341-d50b-45d5-a2c3-f802199100ab)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

@@ -6,6 +6,7 @@ album: "Better Broken"
 escuchas: 4
 puesto: 14
 semana: "2026-W21"
+mix: 1
 portada: "759817521a5cc862.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sarah+McLachlan/Better+Broken)
@@ -15,6 +16,8 @@ portada: "759817521a5cc862.png"
 **Puesto:** 14 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Pop Rock
 
@@ -26,4 +29,4 @@ portada: "759817521a5cc862.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Better Broken | 4 |
+| Better Broken ♥ | 4 |

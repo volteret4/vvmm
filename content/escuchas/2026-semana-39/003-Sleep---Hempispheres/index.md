@@ -6,11 +6,14 @@ album: "Hempispheres"
 escuchas: 3
 puesto: 3
 semana: "2026-W39"
+nuevo_album: true
 portada: "9f89df61e8dc2542.jpg"
 mbid: "ff2f36e1-f68e-4b60-8c8b-d50d926f8c8b"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sleep/Hempispheres)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/ff2f36e1-f68e-4b60-8c8b-d50d926f8c8b)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

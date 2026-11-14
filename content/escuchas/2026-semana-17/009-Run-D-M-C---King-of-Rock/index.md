@@ -6,14 +6,21 @@ album: "King of Rock"
 escuchas: 10
 puesto: 9
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Run%E2%80%90D.M.C./King+of+Rock)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 
 **Puesto:** 9 de 29
 
 **Canciones distintas:** 7
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Hip Hop
 
@@ -25,8 +32,8 @@ semana: "2026-W17"
 
 | Canción | Escuchas |
 |---------|---------:|
-| You Talk Too Much | 3 |
-| Can You Rock It Like This | 2 |
+| You Talk Too Much ♥ | 3 |
+| Can You Rock It Like This ♥ | 2 |
 | Jam-Master Jammin’ | 1 |
 | King of Rock | 1 |
 | Rock the House | 1 |

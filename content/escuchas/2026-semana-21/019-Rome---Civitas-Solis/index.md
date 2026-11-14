@@ -6,6 +6,7 @@ album: "Civitas Solis"
 escuchas: 3
 puesto: 19
 semana: "2026-W21"
+mix: 1
 portada: "d0e654f94829a3ef.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Rome/Civitas+Solis)
@@ -15,6 +16,8 @@ portada: "d0e654f94829a3ef.jpg"
 **Puesto:** 19 de 19
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Neofolk
 
@@ -26,4 +29,4 @@ portada: "d0e654f94829a3ef.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| La France Nouvelle | 3 |
+| La France Nouvelle ♥ | 3 |

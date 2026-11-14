@@ -6,17 +6,24 @@ album: "Siembra (Special Edition)"
 escuchas: 12
 puesto: 4
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "8c019ee65e2914ea.jpg"
 mbid: "cb7deac0-fc66-4e8a-882f-6065ef939561"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Rub%C3%A9n+Blades+%26+Willie+Col%C3%B3n/Siembra+%28Special+Edition%29)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/cb7deac0-fc66-4e8a-882f-6065ef939561)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 12
 
 **Puesto:** 4 de 42
 
 **Canciones distintas:** 12
+
+**En Mix:** ♥ 1 canción
 
 **Género:** salsa, latin
 
@@ -36,7 +43,7 @@ mbid: "cb7deac0-fc66-4e8a-882f-6065ef939561"
 | Ojos | 1 |
 | Pedro Navaja | 1 |
 | Pedro Navaja (Take 2) | 1 |
-| Plástico | 1 |
-| Plástico (Instrumental Edit) | 1 |
+| Plástico ♥ | 1 |
+| Plástico (Instrumental Edit) ♥ | 1 |
 | Siembra | 1 |
 | Siembra (Joe Claussell Remix) | 1 |

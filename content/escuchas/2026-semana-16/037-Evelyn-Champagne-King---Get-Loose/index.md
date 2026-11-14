@@ -6,17 +6,24 @@ album: "Get Loose"
 escuchas: 4
 puesto: 37
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "3210f2e8a9b1f0cc.png"
 mbid: "a2ea7c6b-daa1-4e55-9af8-4662d2ce1913"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Evelyn+%22Champagne%22+King/Get+Loose)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/a2ea7c6b-daa1-4e55-9af8-4662d2ce1913)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 4
 
 **Puesto:** 37 de 59
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** pop, disco, contemporary r&b
 
@@ -31,4 +38,4 @@ mbid: "a2ea7c6b-daa1-4e55-9af8-4662d2ce1913"
 | Betcha She Don't Love You | 1 |
 | Get Loose | 1 |
 | I Can't Stand It | 1 |
-| Love Come Down | 1 |
+| Love Come Down ♥ | 1 |

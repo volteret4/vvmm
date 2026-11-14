@@ -6,6 +6,7 @@ album: "Dance With Me / Move It, Groove It"
 escuchas: 3
 puesto: 43
 semana: "2026-W18"
+mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/11th+Commandment/Dance+With+Me+%2F+Move+It%2C+Groove+It)
 
@@ -15,6 +16,8 @@ semana: "2026-W18"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Unknown
 
 **Año:** 1981
@@ -23,4 +26,4 @@ semana: "2026-W18"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Dance with me | 3 |
+| Dance with me ♥ | 3 |

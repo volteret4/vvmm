@@ -6,9 +6,13 @@ album: "As Is."
 escuchas: 4
 puesto: 45
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
 portada: "38a931523df4897f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/We/As+Is.)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

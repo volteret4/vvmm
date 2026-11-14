@@ -6,11 +6,15 @@ album: "Creature of Habit"
 escuchas: 10
 puesto: 13
 semana: "2026-W13"
+nuevo_artista: true
+nuevo_album: true
 portada: "af2749658ab1d318.jpg"
 mbid: "675fb930-2e62-4726-8ec9-92b2e42a375b"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Courtney+Barnett/Creature+of+Habit)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/675fb930-2e62-4726-8ec9-92b2e42a375b)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

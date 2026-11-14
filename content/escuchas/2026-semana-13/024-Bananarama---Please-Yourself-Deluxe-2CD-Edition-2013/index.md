@@ -6,8 +6,11 @@ album: "Please Yourself (Deluxe 2CD Edition) (2013)"
 escuchas: 6
 puesto: 24
 semana: "2026-W13"
+nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bananarama/Please+Yourself+%28Deluxe+2CD+Edition%29+%282013%29)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

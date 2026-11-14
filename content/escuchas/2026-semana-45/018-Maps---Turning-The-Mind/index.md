@@ -6,9 +6,12 @@ album: "Turning The Mind"
 escuchas: 7
 puesto: 18
 semana: "2026-W45"
+nuevo_album: true
 portada: "95faa5e7f8832235.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Maps/Turning+The+Mind)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

@@ -6,9 +6,13 @@ album: "Crazy Rhythms"
 escuchas: 9
 puesto: 3
 semana: "2026-W09"
+nuevo_artista: true
+nuevo_album: true
 portada: "b564733b60769f5a.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Feelies/Crazy+Rhythms)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 9
 

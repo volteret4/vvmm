@@ -6,9 +6,12 @@ album: "Two"
 escuchas: 6
 puesto: 18
 semana: "2026-W44"
+nuevo_album: true
 portada: "03daeacc187981ab.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Christopher+Rau/Two)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

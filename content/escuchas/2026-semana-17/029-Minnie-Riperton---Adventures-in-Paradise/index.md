@@ -6,6 +6,7 @@ album: "Adventures in Paradise"
 escuchas: 3
 puesto: 29
 semana: "2026-W17"
+mix: 1
 portada: "aedcc2c57e6a9af5.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Minnie+Riperton/Adventures+in+Paradise)
@@ -16,6 +17,8 @@ portada: "aedcc2c57e6a9af5.png"
 
 **Canciones distintas:** 2
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Soul
 
 **Año:** 2002
@@ -25,4 +28,4 @@ portada: "aedcc2c57e6a9af5.png"
 | Canción | Escuchas |
 |---------|---------:|
 | Adventures In Paradise | 2 |
-| Simple Things | 1 |
+| Simple Things ♥ | 1 |

@@ -6,6 +6,7 @@ album: "How Do You Dance? (Remastered)"
 escuchas: 8
 puesto: 14
 semana: "2026-W45"
+mix: 3
 portada: "edbf872b4df47947.jpg"
 mbid: "2c6ddbd3-9ae3-406a-971f-bfec16af5a59"
 ---
@@ -18,6 +19,8 @@ mbid: "2c6ddbd3-9ae3-406a-971f-bfec16af5a59"
 
 **Canciones distintas:** 5
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** electronic, pop, electro, synth-pop, disco
 
 **Sello:** EMI Music Belgium
@@ -28,8 +31,8 @@ mbid: "2c6ddbd3-9ae3-406a-971f-bfec16af5a59"
 
 | Canción | Escuchas |
 |---------|---------:|
-| On The Road Again (2022 Remaster) | 3 |
+| On The Road Again (2022 Remaster) ♥ | 3 |
 | J'aime la vie (2023 Remaster) | 2 |
-| How Do You Dance? (2022 Remaster) | 1 |
+| How Do You Dance? (2022 Remaster) ♥ | 1 |
 | The Number One Song In Heaven (2021 Remaster) | 1 |
 | This Is Your Song (2023 Remaster) | 1 |

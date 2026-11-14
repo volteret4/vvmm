@@ -6,11 +6,14 @@ album: "Vegas"
 escuchas: 11
 puesto: 2
 semana: "2026-W34"
+nuevo_album: true
 portada: "b41f329c930eb926.jpg"
 mbid: "2ceef135-c655-479c-99f9-cc0461de2795"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Crystal+Method/Vegas)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/2ceef135-c655-479c-99f9-cc0461de2795)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

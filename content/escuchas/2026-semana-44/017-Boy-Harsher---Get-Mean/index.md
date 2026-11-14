@@ -6,6 +6,7 @@ album: "Get Mean"
 escuchas: 6
 puesto: 17
 semana: "2026-W44"
+mix: 1
 portada: "3cf1a75e419e8ca6.jpg"
 mbid: "9b8dd719-54f9-47bf-b015-ac36822b1c9b"
 ---
@@ -18,6 +19,8 @@ mbid: "9b8dd719-54f9-47bf-b015-ac36822b1c9b"
 
 **Canciones distintas:** 6
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Drone, Ebm, Coldwave
 
 **Año:** 2026-09-18
@@ -28,7 +31,7 @@ mbid: "9b8dd719-54f9-47bf-b015-ac36822b1c9b"
 |---------|---------:|
 | Bleed | 1 |
 | Falling ~ | 1 |
-| Hard Beat | 1 |
+| Hard Beat ♥ | 1 |
 | Ivy's Spiral | 1 |
 | Jeans | 1 |
 | Pray 4 Me | 1 |

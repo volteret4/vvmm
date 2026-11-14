@@ -6,11 +6,15 @@ album: "Written Into Changes"
 escuchas: 10
 puesto: 12
 semana: "2026-W13"
+nuevo_artista: true
+nuevo_album: true
 portada: "014cb2af2c232792.jpg"
 mbid: "91bebc72-fd6f-4278-a400-dd87807fe46c"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Avalon+Emerson+%26+The+Charm/Written+Into+Changes)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/91bebc72-fd6f-4278-a400-dd87807fe46c)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

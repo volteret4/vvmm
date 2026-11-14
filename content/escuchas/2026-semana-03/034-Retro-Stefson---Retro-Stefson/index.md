@@ -6,6 +6,7 @@ album: "Retro Stefson"
 escuchas: 3
 puesto: 34
 semana: "2026-W03"
+mix: 4
 portada: "0225cca65a726997.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Retro+Stefson/Retro+Stefson)
@@ -16,6 +17,8 @@ portada: "0225cca65a726997.png"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥♥♥ 4 canciones
+
 **Género:** Rock
 
 **Año:** 2013-03-24
@@ -24,6 +27,6 @@ portada: "0225cca65a726997.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Glow | 1 |
-| Qween | 1 |
-| Solaris | 1 |
+| Glow ♥ | 1 |
+| Qween ♥ | 1 |
+| Solaris ♥ | 1 |

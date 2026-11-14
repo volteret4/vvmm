@@ -6,6 +6,7 @@ album: "For Men Only"
 escuchas: 4
 puesto: 28
 semana: "2026-W18"
+mix: 2
 portada: "f312845a60d760bf.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Millie+Jackson/For+Men+Only)
@@ -15,6 +16,8 @@ portada: "f312845a60d760bf.jpg"
 **Puesto:** 28 de 52
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Ballad
 
@@ -26,5 +29,5 @@ portada: "f312845a60d760bf.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| If That Don't Turn You On | 2 |
-| This Is It | 2 |
+| If That Don't Turn You On ♥ | 2 |
+| This Is It ♥ | 2 |

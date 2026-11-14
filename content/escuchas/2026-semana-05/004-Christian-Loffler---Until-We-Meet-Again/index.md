@@ -6,9 +6,12 @@ album: "Until We Meet Again"
 escuchas: 4
 puesto: 4
 semana: "2026-W05"
+nuevo_album: true
 portada: "b7ff777e40770846.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Christian+L%C3%B6ffler/Until+We+Meet+Again)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

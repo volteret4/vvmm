@@ -6,15 +6,21 @@ album: "Chorus (2020 Deluxe Edition, Remastered)"
 escuchas: 19
 puesto: 2
 semana: "2026-W45"
+nuevo_album: true
+mix: 1
 portada: "f986763f1109623e.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Erasure/Chorus+%282020+Deluxe+Edition%2C+Remastered%29)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 19
 
 **Puesto:** 2 de 44
 
 **Canciones distintas:** 19
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Synthpop
 
@@ -32,8 +38,8 @@ portada: "f986763f1109623e.jpg"
 | Home | 1 |
 | Joan | 1 |
 | Let It Flow | 1 |
-| Love to Hate You | 1 |
-| Love To Hate You (Robbie Rivera's Juicy Mix) | 1 |
+| Love to Hate You ♥ | 1 |
+| Love To Hate You (Robbie Rivera's Juicy Mix) ♥ | 1 |
 | Over the Rainbow | 1 |
 | Perfect Stranger | 1 |
 | Perfect Stranger (acoustic) | 1 |

@@ -6,9 +6,13 @@ album: "Eloise Whitaker"
 escuchas: 9
 puesto: 11
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 portada: "c47d719f17a33888.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Eloise+Whitaker/Eloise+Whitaker)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 9
 

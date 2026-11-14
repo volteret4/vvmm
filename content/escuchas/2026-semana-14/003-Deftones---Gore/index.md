@@ -6,9 +6,12 @@ album: "Gore"
 escuchas: 11
 puesto: 3
 semana: "2026-W14"
+nuevo_album: true
 portada: "797c53764757caf4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Gore)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

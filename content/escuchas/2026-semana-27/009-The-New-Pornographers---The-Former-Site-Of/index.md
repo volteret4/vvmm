@@ -6,9 +6,13 @@ album: "The Former Site Of"
 escuchas: 7
 puesto: 9
 semana: "2026-W27"
+nuevo_artista: true
+nuevo_album: true
 portada: "63c48a96841babc6.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+New+Pornographers/The+Former+Site+Of)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 7
 

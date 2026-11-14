@@ -6,11 +6,15 @@ album: "Samsara"
 escuchas: 3
 puesto: 14
 semana: "2026-W38"
+nuevo_artista: true
+nuevo_album: true
 portada: "7b39a695a4d13ea7.jpg"
 mbid: "42410d9e-f83f-4b20-9465-a1e78242498e"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Numen/Samsara)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/42410d9e-f83f-4b20-9465-a1e78242498e)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

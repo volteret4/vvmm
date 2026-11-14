@@ -6,9 +6,13 @@ album: "Look For Your Mind!"
 escuchas: 14
 puesto: 3
 semana: "2026-W22"
+nuevo_artista: true
+nuevo_album: true
 portada: "67e056d05e989d00.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Lemon+Twigs/Look+For+Your+Mind%21)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 14
 

@@ -6,11 +6,14 @@ album: "Ow ∞"
 escuchas: 4
 puesto: 9
 semana: "2026-W38"
+nuevo_album: true
 portada: "f630c92457b3d768.jpg"
 mbid: "d46f5e90-17e4-47c6-8765-551f7280e94a"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sylvan+Esso/Ow+%E2%88%9E)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d46f5e90-17e4-47c6-8765-551f7280e94a)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

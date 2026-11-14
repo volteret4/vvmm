@@ -208,3 +208,13 @@ img { display: block; max-width: 100%; }
 .bgen a:hover, .bgen a.sel { border-color: var(--accent); color: var(--accent); }
 .bgen sup { color: var(--muted); font-size: .65em; margin-left: .2em; }
 .bvacio, .bmas { color: var(--muted); font-size: .88rem; padding: .6rem .5rem; margin: 0; }
+
+/* escuchas: primera vez (★ artista nuevo, ✦ disco nuevo) */
+.leyenda { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; width: 100%; font-size: .85rem; }
+.leyenda .nuevo { font-style: normal; color: #f2d16b; }
+.leyenda .nuevo.art { color: #7fe0b0; }
+.nuevo-txt { display: block; font-style: normal; font-size: .75rem; color: #f2d16b; }
+span.nuevo-txt { display: inline; font-size: inherit; }
+.nuevo-txt.art { color: #7fe0b0; }
+.corazon { color: #f07a9b; }
+.cap .corazon { display: inline; color: #f07a9b; font-size: inherit; }

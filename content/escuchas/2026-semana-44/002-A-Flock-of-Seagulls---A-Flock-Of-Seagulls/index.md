@@ -6,17 +6,24 @@ album: "A Flock Of Seagulls"
 escuchas: 16
 puesto: 2
 semana: "2026-W44"
+nuevo_artista: true
+nuevo_album: true
+mix: 2
 portada: "f6435f19f732bbb4.jpg"
 mbid: "2b9b81a2-3ca3-44e6-907d-57ca752ba760"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/A+Flock+of+Seagulls/A+Flock+Of+Seagulls)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/2b9b81a2-3ca3-44e6-907d-57ca752ba760)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 16
 
 **Puesto:** 2 de 42
 
 **Canciones distintas:** 14
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** new wave, synth-pop, rock, electronic, synthpop, pop rock
 
@@ -28,7 +35,7 @@ mbid: "2b9b81a2-3ca3-44e6-907d-57ca752ba760"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Pick Me Up | 2 |
+| Pick Me Up ♥ | 2 |
 | Windows | 2 |
 | D.N.A. | 1 |
 | Don't Ask Me | 1 |
@@ -36,7 +43,7 @@ mbid: "2b9b81a2-3ca3-44e6-907d-57ca752ba760"
 | Man Made | 1 |
 | Messages | 1 |
 | Modern Love Is Automatic | 1 |
-| Space Age Love Song | 1 |
+| Space Age Love Song ♥ | 1 |
 | Standing in the Doorway | 1 |
 | Tanglimara | 1 |
 | Telecommunication | 1 |

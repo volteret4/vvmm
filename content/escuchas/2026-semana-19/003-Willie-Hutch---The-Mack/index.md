@@ -6,6 +6,7 @@ album: "The Mack"
 escuchas: 3
 puesto: 3
 semana: "2026-W19"
+mix: 5
 portada: "8740f34631e316d3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Willie+Hutch/The+Mack)
@@ -16,6 +17,8 @@ portada: "8740f34631e316d3.jpg"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥♥♥♥ 5 canciones
+
 **Género:** Unknown
 
 **Año:** 1996-03-19
@@ -24,6 +27,6 @@ portada: "8740f34631e316d3.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Brother's Gonna Work It Out | 1 |
-| Theme Of The Mack | 1 |
-| Vampin | 1 |
+| Brother's Gonna Work It Out ♥ | 1 |
+| Theme Of The Mack ♥ | 1 |
+| Vampin ♥ | 1 |

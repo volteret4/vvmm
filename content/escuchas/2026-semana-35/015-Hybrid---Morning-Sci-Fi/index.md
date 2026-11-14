@@ -6,11 +6,14 @@ album: "Morning Sci-Fi"
 escuchas: 4
 puesto: 15
 semana: "2026-W35"
+nuevo_album: true
 portada: "c785d8ef3774e3dd.jpg"
 mbid: "669fb67d-4eef-470c-bb14-449fbba38492"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Hybrid/Morning+Sci-Fi)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/669fb67d-4eef-470c-bb14-449fbba38492)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 4
 

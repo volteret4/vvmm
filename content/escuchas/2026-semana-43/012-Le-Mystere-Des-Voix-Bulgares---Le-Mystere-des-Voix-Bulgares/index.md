@@ -6,17 +6,24 @@ album: "Le Mystère des Voix Bulgares"
 escuchas: 3
 puesto: 12
 semana: "2026-W43"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "8848c8f17ac8d4d8.jpg"
 mbid: "61f0da67-3963-4efd-998e-7d6819868307"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Le+Myst%C3%A8re+Des+Voix+Bulgares/Le+Myst%C3%A8re+des+Voix+Bulgares)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/61f0da67-3963-4efd-998e-7d6819868307)
 
+**Primera vez:** primera semana escuchando a este artista
+
 **Escuchas:** 3
 
 **Puesto:** 12 de 13
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥ 1 canción
 
 **Género:** folk, avant-garde
 
@@ -28,5 +35,5 @@ mbid: "61f0da67-3963-4efd-998e-7d6819868307"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Erghen Diado (Song of Schopsko) | 2 |
+| Erghen Diado (Song of Schopsko) ♥ | 2 |
 | Schopska Pesen (Diaphonic Chant) | 1 |

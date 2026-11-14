@@ -6,9 +6,12 @@ album: "Koi No Yokan"
 escuchas: 11
 puesto: 9
 semana: "2026-W13"
+nuevo_album: true
 portada: "165b13fa9d15b561.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Koi+No+Yokan)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 11
 

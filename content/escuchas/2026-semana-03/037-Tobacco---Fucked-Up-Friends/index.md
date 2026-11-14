@@ -6,9 +6,12 @@ album: "Fucked Up Friends"
 escuchas: 3
 puesto: 37
 semana: "2026-W03"
+nuevo_album: true
 portada: "86fa2ba801e62497.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tobacco/Fucked+Up+Friends)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

@@ -6,6 +6,7 @@ album: "Ferpectamente"
 escuchas: 3
 puesto: 32
 semana: "2026-W03"
+mix: 1
 portada: "4741a5855f4eb453.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Los+Enemigos/Ferpectamente)
@@ -15,6 +16,8 @@ portada: "4741a5855f4eb453.jpg"
 **Puesto:** 32 de 41
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Rock
 
@@ -28,4 +31,4 @@ portada: "4741a5855f4eb453.jpg"
 |---------|---------:|
 | Fuagrás | 1 |
 | Jacobo Que Te Adobo (La Cona) | 1 |
-| Juan Valdés | 1 |
+| Juan Valdés ♥ | 1 |

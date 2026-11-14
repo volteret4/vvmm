@@ -6,6 +6,7 @@ album: "Loved"
 escuchas: 3
 puesto: 6
 semana: "2026-W12"
+mix: 2
 portada: "5ce7d8ed8ba6a38a.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Parcels/Loved)
@@ -15,6 +16,8 @@ portada: "5ce7d8ed8ba6a38a.png"
 **Puesto:** 6 de 7
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Unknown
 
@@ -28,4 +31,4 @@ portada: "5ce7d8ed8ba6a38a.png"
 |---------|---------:|
 | Ifyoucall | 1 |
 | Safeandsound | 1 |
-| Tobeloved | 1 |
+| Tobeloved ♥ | 1 |

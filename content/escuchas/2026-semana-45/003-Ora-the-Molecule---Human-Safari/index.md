@@ -6,15 +6,22 @@ album: "Human Safari"
 escuchas: 16
 puesto: 3
 semana: "2026-W45"
+nuevo_artista: true
+nuevo_album: true
+mix: 1
 portada: "52f888ad9eab9fef.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ora+the+Molecule/Human+Safari)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 16
 
 **Puesto:** 3 de 44
 
 **Canciones distintas:** 12
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Electronic, Pop, Indie Pop
 
@@ -24,7 +31,7 @@ portada: "52f888ad9eab9fef.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| The Ball | 3 |
+| The Ball ♥ | 3 |
 | Creator | 2 |
 | Souldigging | 2 |
 | Beat Beat Beat | 1 |

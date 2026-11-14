@@ -6,11 +6,14 @@ album: "BELLS"
 escuchas: 7
 puesto: 14
 semana: "2026-W16"
+nuevo_album: true
 portada: "35084919799ff64b.png"
 mbid: "3eae4715-8dfc-48be-ade4-ca9f3f73ed43"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90/BELLS)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3eae4715-8dfc-48be-ade4-ca9f3f73ed43)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 7
 

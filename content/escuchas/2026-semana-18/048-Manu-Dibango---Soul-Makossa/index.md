@@ -6,6 +6,7 @@ album: "Soul Makossa"
 escuchas: 3
 puesto: 48
 semana: "2026-W18"
+mix: 1
 portada: "8c760d50e8292504.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Manu+Dibango/Soul+Makossa)
@@ -15,6 +16,8 @@ portada: "8c760d50e8292504.png"
 **Puesto:** 48 de 52
 
 **Canciones distintas:** 1
+
+**En Mix:** ♥ 1 canción
 
 **Género:** Funk
 
@@ -26,4 +29,4 @@ portada: "8c760d50e8292504.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Soul Makossa | 3 |
+| Soul Makossa ♥ | 3 |

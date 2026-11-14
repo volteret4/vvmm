@@ -6,6 +6,7 @@ album: "Voice of Reason"
 escuchas: 6
 puesto: 21
 semana: "2026-W45"
+mix: 2
 portada: "df81c63789f97670.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Flesh+Field/Voice+of+Reason)
@@ -16,6 +17,8 @@ portada: "df81c63789f97670.jpg"
 
 **Canciones distintas:** 5
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** Unknown
 
 **Año:** 2024
@@ -24,8 +27,8 @@ portada: "df81c63789f97670.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Manifesto (System Syn Remix) | 2 |
+| Manifesto (System Syn Remix) ♥ | 2 |
 | Catalyst (genCAB Remix) | 1 |
 | Demon | 1 |
-| Empty Rage | 1 |
+| Empty Rage ♥ | 1 |
 | Wounds of War | 1 |

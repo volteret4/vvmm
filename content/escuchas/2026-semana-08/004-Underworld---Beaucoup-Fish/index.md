@@ -6,6 +6,7 @@ album: "Beaucoup Fish"
 escuchas: 4
 puesto: 4
 semana: "2026-W08"
+mix: 2
 portada: "1935a4a3968cbd7c.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Underworld/Beaucoup+Fish)
@@ -15,6 +16,8 @@ portada: "1935a4a3968cbd7c.jpg"
 **Puesto:** 4 de 4
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Electronic
 
@@ -26,5 +29,5 @@ portada: "1935a4a3968cbd7c.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Push Upstairs | 3 |
+| Push Upstairs ♥ | 3 |
 | Shudder / King of Snake | 1 |

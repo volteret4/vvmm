@@ -6,9 +6,12 @@ album: "Play Me"
 escuchas: 19
 puesto: 2
 semana: "2026-W22"
+nuevo_album: true
 portada: "c77e33618cbde205.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kim+Gordon/Play+Me)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 19
 

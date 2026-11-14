@@ -6,9 +6,12 @@ album: "xxxxx"
 escuchas: 3
 puesto: 4
 semana: "2026-W32"
+nuevo_album: true
 portada: "9c26d2e68bc4a7a6.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Arca/xxxxx)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

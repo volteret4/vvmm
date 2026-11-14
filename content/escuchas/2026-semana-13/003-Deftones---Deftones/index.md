@@ -6,9 +6,12 @@ album: "Deftones"
 escuchas: 14
 puesto: 3
 semana: "2026-W13"
+nuevo_album: true
 portada: "01174706ea794e9f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Deftones)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 14
 

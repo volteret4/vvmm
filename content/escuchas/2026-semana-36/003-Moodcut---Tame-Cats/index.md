@@ -6,11 +6,15 @@ album: "Tame Cats"
 escuchas: 4
 puesto: 3
 semana: "2026-W36"
+nuevo_artista: true
+nuevo_album: true
 portada: "148a449376476167.jpg"
 mbid: "5b7ce95c-4204-466e-bcf5-198f99f214bd"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Moodcut/Tame+Cats)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5b7ce95c-4204-466e-bcf5-198f99f214bd)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 4
 

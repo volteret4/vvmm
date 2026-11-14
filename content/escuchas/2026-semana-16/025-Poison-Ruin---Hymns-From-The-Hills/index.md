@@ -6,9 +6,13 @@ album: "Hymns From The Hills"
 escuchas: 6
 puesto: 25
 semana: "2026-W16"
+nuevo_artista: true
+nuevo_album: true
 portada: "164f93ffaa7196bf.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Poison+Ru%C3%AFn/Hymns+From+The+Hills)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 6
 

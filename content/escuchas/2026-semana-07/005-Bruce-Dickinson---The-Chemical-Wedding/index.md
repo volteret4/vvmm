@@ -6,9 +6,13 @@ album: "The Chemical Wedding"
 escuchas: 3
 puesto: 5
 semana: "2026-W07"
+nuevo_artista: true
+nuevo_album: true
 portada: "483ded7eab168e36.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bruce+Dickinson/The+Chemical+Wedding)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

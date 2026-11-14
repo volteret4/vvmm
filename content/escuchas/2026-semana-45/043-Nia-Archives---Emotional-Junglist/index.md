@@ -6,6 +6,7 @@ album: "Emotional Junglist"
 escuchas: 3
 puesto: 43
 semana: "2026-W45"
+mix: 3
 portada: "f56c8f5bdc9c0d6c.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nia+Archives/Emotional+Junglist)
@@ -15,6 +16,8 @@ portada: "f56c8f5bdc9c0d6c.jpg"
 **Puesto:** 43 de 44
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥ 3 canciones
 
 **Género:** Unknown
 
@@ -26,6 +29,6 @@ portada: "f56c8f5bdc9c0d6c.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Around Tha Bend | 1 |
+| Around Tha Bend ♥ | 1 |
 | Danger | 1 |
 | Vertical | 1 |

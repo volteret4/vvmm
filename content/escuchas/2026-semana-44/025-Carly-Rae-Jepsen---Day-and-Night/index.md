@@ -6,6 +6,7 @@ album: "Day and Night"
 escuchas: 4
 puesto: 25
 semana: "2026-W44"
+mix: 3
 portada: "e5e3b45928fed7e2.png"
 mbid: "bfdff64a-95f7-4285-987b-5ea8cb9a0e87"
 ---
@@ -18,6 +19,8 @@ mbid: "bfdff64a-95f7-4285-987b-5ea8cb9a0e87"
 
 **Canciones distintas:** 4
 
+**En Mix:** ♥♥♥ 3 canciones
+
 **Género:** pop, funk, synth-pop, dance-pop, new jack swing
 
 **Sello:** Universal Music
@@ -28,7 +31,7 @@ mbid: "bfdff64a-95f7-4285-987b-5ea8cb9a0e87"
 
 | Canción | Escuchas |
 |---------|---------:|
-| After All | 1 |
+| After All ♥ | 1 |
 | Lonely Side Of The Bed | 1 |
 | Motivation | 1 |
-| Patience Power Passion | 1 |
+| Patience Power Passion ♥ | 1 |

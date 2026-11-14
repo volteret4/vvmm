@@ -6,11 +6,14 @@ album: "Hotel Usona"
 escuchas: 9
 puesto: 4
 semana: "2026-W40"
+nuevo_album: true
 portada: "ac7cd0d039746540.jpg"
 mbid: "4404e523-e505-410a-a114-aca8fd3ab4dd"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Protomartyr/Hotel+Usona)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/4404e523-e505-410a-a114-aca8fd3ab4dd)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 9
 

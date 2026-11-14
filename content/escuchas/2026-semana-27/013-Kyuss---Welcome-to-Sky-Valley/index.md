@@ -6,9 +6,12 @@ album: "Welcome to Sky Valley"
 escuchas: 3
 puesto: 13
 semana: "2026-W27"
+nuevo_album: true
 portada: "c90eef41003317fa.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kyuss/Welcome+to+Sky+Valley)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

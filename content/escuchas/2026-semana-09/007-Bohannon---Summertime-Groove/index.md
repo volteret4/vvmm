@@ -6,9 +6,12 @@ album: "Summertime Groove"
 escuchas: 6
 puesto: 7
 semana: "2026-W09"
+nuevo_album: true
 portada: "5220bb91f980561b.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bohannon/Summertime+Groove)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 6
 

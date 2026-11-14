@@ -6,6 +6,7 @@ album: "Messy"
 escuchas: 5
 puesto: 3
 semana: "2026-W05"
+mix: 2
 portada: "1a12fc1ba01df222.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Olivia+Dean/Messy)
@@ -15,6 +16,8 @@ portada: "1a12fc1ba01df222.jpg"
 **Puesto:** 3 de 5
 
 **Canciones distintas:** 2
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** Pop Soul
 
@@ -26,5 +29,5 @@ portada: "1a12fc1ba01df222.jpg"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Dive | 3 |
-| UFO | 2 |
+| Dive ♥ | 3 |
+| UFO ♥ | 2 |

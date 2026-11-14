@@ -6,17 +6,23 @@ album: "Mystery to Me"
 escuchas: 5
 puesto: 5
 semana: "2026-W43"
+nuevo_album: true
+mix: 2
 portada: "a32f4f32ac40f80d.jpg"
 mbid: "5e894309-cb7a-4bf1-8149-8499febd4ea3"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Fleetwood+Mac/Mystery+to+Me)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5e894309-cb7a-4bf1-8149-8499febd4ea3)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 5
 
 **Puesto:** 5 de 13
 
 **Canciones distintas:** 5
+
+**En Mix:** ♥♥ 2 canciones
 
 **Género:** rock, blues rock, classic rock, soft rock, pop rock, should be public domain
 
@@ -28,7 +34,7 @@ mbid: "5e894309-cb7a-4bf1-8149-8499febd4ea3"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Emerald Eyes | 1 |
+| Emerald Eyes ♥ | 1 |
 | Forever | 1 |
 | Hypnotized | 1 |
 | KEEP GOING ON | 1 |

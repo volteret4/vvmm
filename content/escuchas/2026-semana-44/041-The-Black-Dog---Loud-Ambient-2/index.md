@@ -6,6 +6,7 @@ album: "Loud Ambient 2"
 escuchas: 3
 puesto: 41
 semana: "2026-W44"
+mix: 5
 portada: "617454f39d1e21c1.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Black+Dog/Loud+Ambient+2)
@@ -15,6 +16,8 @@ portada: "617454f39d1e21c1.png"
 **Puesto:** 41 de 42
 
 **Canciones distintas:** 3
+
+**En Mix:** ♥♥♥♥♥ 5 canciones
 
 **Género:** Electronic
 
@@ -27,5 +30,5 @@ portada: "617454f39d1e21c1.png"
 | Canción | Escuchas |
 |---------|---------:|
 | Cutting Machine | 1 |
-| It's Like Kissing Someone Else | 1 |
+| It's Like Kissing Someone Else ♥ | 1 |
 | Subvert Control | 1 |

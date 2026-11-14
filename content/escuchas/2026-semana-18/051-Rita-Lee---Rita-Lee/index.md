@@ -6,6 +6,7 @@ album: "Rita Lee"
 escuchas: 3
 puesto: 51
 semana: "2026-W18"
+mix: 1
 portada: "935a37a34df5f324.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Rita+Lee/Rita+Lee)
@@ -16,6 +17,8 @@ portada: "935a37a34df5f324.png"
 
 **Canciones distintas:** 1
 
+**En Mix:** ♥ 1 canción
+
 **Género:** Unknown
 
 **Año:** 1980
@@ -24,4 +27,4 @@ portada: "935a37a34df5f324.png"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Lança Perfume | 3 |
+| Lança Perfume ♥ | 3 |

@@ -6,11 +6,14 @@ album: "Exterme Beauty"
 escuchas: 10
 puesto: 7
 semana: "2026-W16"
+nuevo_album: true
 portada: "047948d79f73c58c.jpg"
 mbid: "74462fa8-d211-410a-9dcd-3866b46c7e67"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90/Exterme+Beauty)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/74462fa8-d211-410a-9dcd-3866b46c7e67)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 10
 

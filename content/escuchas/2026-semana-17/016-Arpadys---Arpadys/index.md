@@ -6,9 +6,13 @@ album: "Arpadys"
 escuchas: 6
 puesto: 16
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 portada: "f77ebf47cd0abcd0.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Arpadys/Arpadys)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 6
 

@@ -6,9 +6,12 @@ album: "Antimatter EP"
 escuchas: 3
 puesto: 55
 semana: "2026-W16"
+nuevo_album: true
 portada: "1219d11c3932a6f4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Yan+Cook/Antimatter+EP)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 3
 

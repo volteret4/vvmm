@@ -6,17 +6,23 @@ album: "Raw as Fuck"
 escuchas: 4
 puesto: 3
 semana: "2026-W34"
+nuevo_album: true
+mix: 1
 portada: "42382614a3d05010.jpg"
 mbid: "3085191b-46c6-3fff-884e-e3638f29610a"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Freestylers/Raw+as+Fuck)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3085191b-46c6-3fff-884e-e3638f29610a)
 
+**Primera vez:** primera semana escuchando este disco
+
 **Escuchas:** 4
 
 **Puesto:** 3 de 9
 
 **Canciones distintas:** 4
+
+**En Mix:** ♥ 1 canción
 
 **Género:** big beat, electronic, electro, breaks
 

@@ -6,11 +6,15 @@ album: "Tell It to the Mountain"
 escuchas: 10
 puesto: 1
 semana: "2026-W41"
+nuevo_artista: true
+nuevo_album: true
 portada: "756fe95d067c5374.jpg"
 mbid: "1a0a50d8-a9bc-42b1-b186-5534ec5deaf5"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Axel+Boman+%26+Superpitcher/Tell+It+to+the+Mountain)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1a0a50d8-a9bc-42b1-b186-5534ec5deaf5)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 10
 

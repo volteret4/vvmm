@@ -6,6 +6,7 @@ album: "Play"
 escuchas: 4
 puesto: 33
 semana: "2026-W45"
+mix: 2
 portada: "2e465f681d5469df.jpg"
 mbid: "2d572c16-4cb2-4bf7-8929-6eab89fe9e1f"
 ---
@@ -18,6 +19,8 @@ mbid: "2d572c16-4cb2-4bf7-8929-6eab89fe9e1f"
 
 **Canciones distintas:** 3
 
+**En Mix:** ♥♥ 2 canciones
+
 **Género:** electronic, downtempo, breakbeat, ambient, electronica, alternative pop/rock
 
 **Sello:** Mute
@@ -28,6 +31,6 @@ mbid: "2d572c16-4cb2-4bf7-8929-6eab89fe9e1f"
 
 | Canción | Escuchas |
 |---------|---------:|
-| Honey | 2 |
+| Honey ♥ | 2 |
 | South Side | 1 |
 | Why Does My Heart Feel So Bad? | 1 |

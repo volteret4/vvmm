@@ -6,9 +6,12 @@ album: "The Ground Above"
 escuchas: 8
 puesto: 6
 semana: "2026-W27"
+nuevo_album: true
 portada: "362b4afd41d1c043.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Beth+Orton/The+Ground+Above)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 8
 

@@ -6,9 +6,13 @@ album: "A Festa É Nossa"
 escuchas: 3
 puesto: 26
 semana: "2026-W17"
+nuevo_artista: true
+nuevo_album: true
 portada: "9693e655cbb4b920.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Grupo+Controle+Digital/A+Festa+%C3%89+Nossa)
+
+**Primera vez:** primera semana escuchando a este artista
 
 **Escuchas:** 3
 

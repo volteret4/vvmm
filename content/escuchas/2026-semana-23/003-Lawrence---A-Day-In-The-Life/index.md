@@ -6,9 +6,12 @@ album: "A Day In The Life"
 escuchas: 14
 puesto: 3
 semana: "2026-W23"
+nuevo_album: true
 portada: "d7c4efa189de3b33.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/A+Day+In+The+Life)
+
+**Primera vez:** primera semana escuchando este disco
 
 **Escuchas:** 14
 
