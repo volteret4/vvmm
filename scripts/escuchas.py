@@ -1,0 +1,404 @@
+#!/usr/bin/env python3
+"""Genera la sección «escuchas»: lo escuchado cada semana, agrupado por álbum.
+
+Los scrobbles salen de repeat-one en pepecono, que ya los extrae a diario de Last.fm
+(contenedor lastfm-scrobbles, /data/lastfm_stats.db). Sello, fecha y géneros de cada
+álbum, y su MBID, salen de explorer.db (servicio lastfm-explorer). Ambas bases se
+copian por ssh a .cache/repeat-one/ al empezar y se consultan en local.
+
+Cada semana (ISO, de lunes a domingo, hora de Madrid) es una página
+content/escuchas/AAAA-semana-SS/ y cada álbum escuchado esa semana es un post dentro
+de ella, ordenados por número de escuchas. Las portadas (500 px) se guardan en
+assets/escuchas-portadas/, una sola vez por disco aunque se repita en varias semanas:
+primero Cover Art Archive con el MBID y, si no hay, album.getInfo de Last.fm (solo si
+está LASTFM_API_KEY). Los discos sin portada se recuerdan en .cache/ y no se vuelven a
+buscar (--rebuscar para repetirlos).
+
+Regenerar una semana borra y vuelve a escribir solo la carpeta de esa semana.
+
+Uso:
+  python3 -I scripts/escuchas.py --anio 2026          todas las semanas cerradas de 2026
+  python3 -I scripts/escuchas.py --ultima             la última semana cerrada
+  python3 -I scripts/escuchas.py --semana 2026-W45    una semana concreta (repetible)
+Opciones:
+  --min N            escuchas mínimas para que un álbum entre (por defecto 3)
+  --max N            como mucho N álbumes por semana (0 = sin límite, por defecto)
+  --incluir-actual   con --anio, incluye también la semana en curso (incompleta)
+  --host HOST        máquina de repeat-one (por defecto pepecono, vía ~/.ssh/config;
+                     «local» si se ejecuta en el propio pepecono)
+  --sin-copiar       usa las bases ya copiadas en .cache/repeat-one/ sin pedirlas
+  --rebuscar         vuelve a buscar portadas que antes no se encontraron
+  --raiz DIR         raíz del blog (por defecto, la carpeta padre de scripts/)
+Solo biblioteca estándar más ssh.
+"""
+import argparse
+import hashlib
+import json
+import os
+import re
+import shutil
+import sqlite3
+import subprocess
+import sys
+import time
+import unicodedata
+import urllib.error
+import urllib.parse
+import urllib.request
+from collections import Counter
+from datetime import date, datetime, timedelta
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+TZ = ZoneInfo('Europe/Madrid')
+UA = 'vvmm-escuchas/1.0'
+MESES = 'ene feb mar abr may jun jul ago sep oct nov dic'.split()
+# en pepecono
+STATS_CMD = 'docker exec lastfm-scrobbles cat /data/lastfm_stats.db'
+EXPLORER_CMD = 'cat contenedores/repeat-one/services/lastfm_explorer/explorer.db'
+# estrella gris que Last.fm devuelve cuando no tiene portada
+LASTFM_SIN_PORTADA = '2a96cbd8b46e442fc41c2b86b821562f'
+PORTADAS = 'escuchas-portadas'
+
+
+# ── bases de datos ───────────────────────────────────────────────────────────
+
+def copiar(host, cmd, destino):
+    tmp = destino.with_suffix('.tmp')
+    # --host local: se ejecuta en el propio pepecono (cron semanal), sin ssh
+    orden = ['bash', '-c', cmd] if host == 'local' else ['ssh', '-o', 'BatchMode=yes', host, cmd]
+    with open(tmp, 'wb') as f:
+        r = subprocess.run(orden, stdout=f, stderr=subprocess.PIPE, cwd=Path.home())
+    if r.returncode or tmp.stat().st_size < 4096:
+        tmp.unlink(missing_ok=True)
+        raise SystemExit(f'No se pudo copiar de {host}: {cmd}\n{r.stderr.decode().strip()}')
+    tmp.replace(destino)
+
+
+def bases(raiz, host, sin_copiar):
+    d = raiz / '.cache' / 'repeat-one'
+    d.mkdir(parents=True, exist_ok=True)
+    stats, explorer = d / 'lastfm_stats.db', d / 'explorer.db'
+    if not sin_copiar:
+        copiar(host, STATS_CMD, stats)
+        copiar(host, EXPLORER_CMD, explorer)
+    elif not stats.exists():
+        raise SystemExit(f'No hay copia en {stats}; quita --sin-copiar')
+    db = sqlite3.connect(f'file:{stats}?mode=ro', uri=True)
+    if explorer.exists():
+        db.execute(f"ATTACH DATABASE 'file:{explorer}?mode=ro' AS ex")
+    else:
+        db.execute("ATTACH DATABASE ':memory:' AS ex")
+        db.execute('CREATE TABLE ex.album_enrichment (lastfm_album_id INTEGER PRIMARY KEY, release_date TEXT,'
+                   ' label TEXT, genres_json TEXT, mb_release_id TEXT)')
+    ultimo = db.execute('SELECT max(ts) FROM scrobbles').fetchone()[0]
+    print(f'scrobbles hasta {datetime.fromtimestamp(ultimo, TZ):%Y-%m-%d %H:%M}')
+    return db, ultimo
+
+
+def limites(anio, semana):
+    """Lunes 00:00 y lunes siguiente 00:00 (hora de Madrid) de una semana ISO."""
+    lunes = date.fromisocalendar(anio, semana, 1)
+    ini = datetime.combine(lunes, datetime.min.time(), TZ)
+    fin = datetime.combine(lunes + timedelta(days=7), datetime.min.time(), TZ)
+    return ini, fin
+
+
+def scrobbles(db, ini, fin):
+    filas = db.execute('''
+        SELECT s.artist_id, s.album_id, s.track, s.track_normalized, s.ts, s.source,
+               ar.name, al.name
+        FROM scrobbles s JOIN artists ar USING (artist_id) LEFT JOIN albums al USING (album_id)
+        WHERE s.ts >= ? AND s.ts < ? ORDER BY s.ts''', (int(ini.timestamp()), int(fin.timestamp()))).fetchall()
+    # Last.fm y ListenBrainz se solapan a veces: la misma canción con segundos de diferencia
+    vistas, out = {}, []
+    for f in sorted(filas, key=lambda f: f[5] != 'lastfm'):
+        k = (f[0], f[3])
+        if any(abs(f[4] - t) < 300 for t in vistas.get(k, ())):
+            continue
+        vistas.setdefault(k, []).append(f[4])
+        out.append({'artist_id': f[0], 'album_id': f[1], 'track': f[2], 'artist': f[6], 'album': f[7]})
+    return out
+
+
+def ficha(db, album_id, artist_id):
+    r = db.execute('SELECT release_date, label, genres_json, mb_release_id FROM ex.album_enrichment'
+                   ' WHERE lastfm_album_id = ?', (album_id,)).fetchone()
+    fecha, sello, generos, mbid = r or (None, None, None, None)
+    try:
+        generos = json.loads(generos or '[]')
+    except ValueError:
+        generos = []
+    if not generos:
+        generos = [g for g, in db.execute('SELECT g.name FROM artist_genres JOIN genres g USING (genre_id)'
+                                          ' WHERE artist_id = ? LIMIT 6', (artist_id,))]
+    return {'fecha': fecha or '', 'sello': sello or '', 'generos': generos[:6], 'mbid': mbid or ''}
+
+
+# ── portadas ─────────────────────────────────────────────────────────────────
+
+class Temporal(Exception):
+    """Error pasajero (5xx, red): no se recuerda como «sin portada»."""
+
+
+def bajar(url):
+    for intento in range(3):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': UA})
+            with urllib.request.urlopen(req, timeout=40) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code < 500 and e.code != 429:
+                return b''
+            err = e
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            err = e
+        time.sleep(3 * (intento + 1))
+    print(f'  · {url}: {err}', file=sys.stderr)
+    raise Temporal(url)
+
+
+def tipo(data):
+    if data.startswith(b'\xff\xd8'):
+        return 'jpg'
+    if data.startswith(b'\x89PNG'):
+        return 'png'
+    return ''
+
+
+def lastfm_portada(artist, album):
+    key = os.environ.get('LASTFM_API_KEY')
+    if not key:
+        return b''
+    q = urllib.parse.urlencode({'method': 'album.getinfo', 'artist': artist, 'album': album,
+                                'autocorrect': 1, 'api_key': key, 'format': 'json'})
+    try:
+        req = urllib.request.Request('https://ws.audioscrobbler.com/2.0/?' + q, headers={'User-Agent': UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            d = json.load(r)
+    except urllib.error.HTTPError as e:
+        d = {}
+        if e.code != 404:
+            print(f'  · album.getinfo {artist} - {album}: {e}', file=sys.stderr)
+    except (urllib.error.URLError, TimeoutError, ValueError):
+        return b''
+    url = next((i['#text'] for i in d.get('album', {}).get('image', []) if i.get('size') == 'extralarge'), '')
+    m = re.search(r'/([0-9a-f]{32})\.(\w+)$', url)
+    if not m or m.group(1) == LASTFM_SIN_PORTADA:
+        return b''
+    for ext in (m.group(2), 'jpg', 'png'):
+        data = bajar(f'https://lastfm.freetls.fastly.net/i/u/500x500/{m.group(1)}.{ext}')
+        if tipo(data):
+            return data
+    return b''
+
+
+class Portadas:
+    def __init__(self, raiz, rebuscar):
+        self.dir = raiz / 'assets' / PORTADAS
+        self.memo_f = raiz / '.cache' / 'escuchas-sin-portada.json'
+        self.memo = set() if rebuscar or not self.memo_f.exists() else set(json.loads(self.memo_f.read_text()))
+
+    def get(self, artist, album, mbid):
+        """Nombre del fichero de portada en assets/escuchas-portadas/, o ''."""
+        clave = hashlib.md5(f'{norm(artist)}|{norm(album)}'.encode()).hexdigest()[:16]
+        for ext in ('jpg', 'png'):
+            if (self.dir / f'{clave}.{ext}').exists():
+                return f'{clave}.{ext}'
+        if clave in self.memo:
+            return ''
+        try:
+            data = bajar(f'https://coverartarchive.org/release/{mbid}/front-500') if mbid else b''
+            if not tipo(data):
+                data = lastfm_portada(artist, album)
+        except Temporal:
+            return ''  # se reintentará en la próxima ejecución
+        if not tipo(data):
+            self.memo.add(clave)
+            self.memo_f.write_text(json.dumps(sorted(self.memo)))
+            return ''
+        self.dir.mkdir(parents=True, exist_ok=True)
+        nombre = f'{clave}.{tipo(data)}'
+        (self.dir / nombre).write_bytes(data)
+        time.sleep(0.2)
+        return nombre
+
+
+# ── escritura ────────────────────────────────────────────────────────────────
+
+def norm(s):
+    s = unicodedata.normalize('NFKD', s.casefold())
+    return re.sub(r'\W+', ' ', ''.join(c for c in s if not unicodedata.combining(c))).strip()
+
+
+def slug(s):
+    s = unicodedata.normalize('NFKD', s)
+    s = ''.join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r'[^A-Za-z0-9]+', '-', s).strip('-')[:70] or 'x'
+
+
+def q(s):
+    return json.dumps(s, ensure_ascii=False)
+
+
+def rango(ini, fin):
+    a, b = ini.date(), (fin - timedelta(days=1)).date()
+    corta = lambda d: f'{d.day} {MESES[d.month - 1]}'  # noqa: E731
+    if a.month == b.month:
+        return f'{a.day}–{b.day} {MESES[b.month - 1]} {b.year}'
+    if a.year == b.year:
+        return f'{corta(a)} – {corta(b)} {b.year}'
+    return f'{corta(a)} {a.year} – {corta(b)} {b.year}'
+
+
+def lastfm_url(artist, album):
+    return ('https://www.last.fm/music/' + urllib.parse.quote_plus(artist)
+            + '/' + urllib.parse.quote_plus(album))
+
+
+def semana(raiz, db, ultimo, anio, sem, minimo, maximo, portadas):
+    ini, fin = limites(anio, sem)
+    completa = fin <= datetime.now(TZ)
+    tracks = scrobbles(db, ini, fin)
+    grupos = {}
+    for t in tracks:
+        if t['album_id'] and (t['album'] or '').strip():
+            grupos.setdefault(t['album_id'], []).append(t)
+    sin_album = sum(1 for t in tracks if not (t['album_id'] and (t['album'] or '').strip()))
+
+    albumes = []
+    for album_id, ts in grupos.items():
+        if len(ts) >= minimo:
+            albumes.append({'id': album_id, 'artist_id': ts[0]['artist_id'], 'artist': ts[0]['artist'],
+                            'album': ts[0]['album'], 'n': len(ts),
+                            'canciones': Counter(t['track'] for t in ts)})
+    albumes.sort(key=lambda a: (-a['n'], -len(a['canciones']), norm(a['artist'])))
+    if maximo:
+        albumes = albumes[:maximo]
+
+    carpeta = raiz / 'content' / 'escuchas' / f'{anio}-semana-{sem:02d}'
+    if carpeta.exists():
+        shutil.rmtree(carpeta)
+    if not albumes:
+        print(f'{anio}-W{sem:02d}: {len(tracks)} scrobbles, ningún álbum con ≥{minimo} escuchas; sin página')
+        return
+    carpeta.mkdir(parents=True)
+    domingo = datetime.combine((fin - timedelta(days=1)).date(), datetime.min.time(), TZ).replace(hour=23, minute=59)
+    vacias = 0
+    for i, a in enumerate(albumes, 1):
+        f = ficha(db, a['id'], a['artist_id'])
+        portada = portadas.get(a['artist'], a['album'], f['mbid'])
+        vacias += not portada
+        lineas = [
+            '---',
+            f'title: {q(a["artist"] + " - " + a["album"])}',
+            # el puesto resta segundos para que el orden por fecha sea también el de escuchas
+            f'date: {(domingo - timedelta(seconds=i)).isoformat()}',
+            f'artist: {q(a["artist"])}',
+            f'album: {q(a["album"])}',
+            f'escuchas: {a["n"]}',
+            f'puesto: {i}',
+            f'semana: "{anio}-W{sem:02d}"',
+        ]
+        if portada:
+            lineas.append(f'portada: "{portada}"')
+        if f['mbid']:
+            lineas.append(f'mbid: "{f["mbid"]}"')
+        lineas += ['---', f'[![lastfm](../links/svg/lastfm.png (lastfm))]({lastfm_url(a["artist"], a["album"])})']
+        if f['mbid']:
+            lineas.append(f'[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))]'
+                          f'(https://musicbrainz.org/release/{f["mbid"]})')
+        lineas += ['', f'**Escuchas:** {a["n"]}', '', f'**Puesto:** {i} de {len(albumes)}', '',
+                   f'**Canciones distintas:** {len(a["canciones"])}', '']
+        if f['generos']:
+            lineas += [f'**Género:** {", ".join(f["generos"])}', '']
+        if f['sello']:
+            lineas += [f'**Sello:** {f["sello"]}', '']
+        if f['fecha']:
+            lineas += [f'**Año:** {f["fecha"]}', '']
+        lineas += ['## Canciones escuchadas', '', '| Canción | Escuchas |', '|---------|---------:|']
+        for c, n in sorted(a['canciones'].items(), key=lambda x: (-x[1], x[0].casefold())):
+            lineas.append(f'| {c.replace("|", "∣")} | {n} |')
+        d = carpeta / f'{i:03d}-{slug(a["artist"])}---{slug(a["album"])}'
+        d.mkdir()
+        (d / 'index.md').write_text('\n'.join(lineas) + '\n')
+
+    (carpeta / '_index.md').write_text('\n'.join([
+        '---',
+        f'title: "Semana {sem} de {anio}"',
+        f'date: {domingo.isoformat()}',
+        f'anio: {anio}',
+        f'semana: {sem}',
+        f'desde: {ini.date().isoformat()}',
+        f'hasta: {(fin - timedelta(days=1)).date().isoformat()}',
+        f'rango: {q(rango(ini, fin))}',
+        f'scrobbles: {len(tracks)}',
+        f'completa: {str(completa).lower()}',
+        '---',
+    ]) + '\n')
+    aviso = '' if completa else ' (en curso)'
+    print(f'{anio}-W{sem:02d} ({rango(ini, fin)}){aviso}: {len(tracks)} scrobbles, {len(albumes)} álbumes'
+          f' con ≥{minimo} escuchas, {sin_album} sin álbum, {vacias} sin portada')
+
+
+def limpiar(raiz):
+    """Borra de assets/escuchas-portadas/ las portadas que ya no usa ninguna semana."""
+    usadas = set()
+    for f in (raiz / 'content' / 'escuchas').glob('*/*/index.md'):
+        m = re.search(r'^portada: "([^"]+)"', f.read_text(), re.M)
+        if m:
+            usadas.add(m.group(1))
+    sobran = [f for f in (raiz / 'assets' / PORTADAS).glob('*') if f.is_file() and f.name not in usadas]
+    for f in sobran:
+        f.unlink()
+    if sobran:
+        print(f'{len(sobran)} portadas sin uso borradas')
+
+
+def main():
+    p = argparse.ArgumentParser(description=__doc__.split('\n')[0])
+    g = p.add_mutually_exclusive_group(required=True)
+    g.add_argument('--anio', type=int)
+    g.add_argument('--ultima', action='store_true')
+    g.add_argument('--semana', action='append', metavar='AAAA-WSS')
+    p.add_argument('--min', type=int, default=3)
+    p.add_argument('--max', type=int, default=0)
+    p.add_argument('--incluir-actual', action='store_true')
+    p.add_argument('--host', default='pepecono')
+    p.add_argument('--sin-copiar', action='store_true')
+    p.add_argument('--rebuscar', action='store_true')
+    p.add_argument('--raiz', type=Path, default=Path(__file__).resolve().parent.parent)
+    a = p.parse_args()
+
+    hoy = datetime.now(TZ).date()
+    if a.ultima:
+        semanas = [(hoy - timedelta(days=7)).isocalendar()[:2]]
+    elif a.semana:
+        semanas = []
+        for s in a.semana:
+            m = re.fullmatch(r'(\d{4})-?W?(\d{1,2})', s, re.I)
+            if not m:
+                raise SystemExit(f'Semana no válida: {s} (usa AAAA-WSS, p. ej. 2026-W45)')
+            semanas.append((int(m.group(1)), int(m.group(2))))
+    else:
+        semanas = []
+        for s in range(1, date(a.anio, 12, 28).isocalendar()[1] + 1):
+            ini, fin = limites(a.anio, s)
+            if ini.date() > hoy or (fin.date() > hoy and not a.incluir_actual):
+                break
+            semanas.append((a.anio, s))
+
+    raiz = a.raiz.resolve()
+    db, ultimo = bases(raiz, a.host, a.sin_copiar)
+    sec = raiz / 'content' / 'escuchas' / '_index.md'
+    if not sec.exists():
+        sec.parent.mkdir(parents=True, exist_ok=True)
+        sec.write_text('---\ntitle: "escuchas"\n---\n')
+    portadas = Portadas(raiz, a.rebuscar)
+    for anio, s in semanas:
+        semana(raiz, db, ultimo, anio, s, a.min, a.max, portadas)
+    limpiar(raiz)
+
+
+if __name__ == '__main__':
+    main()

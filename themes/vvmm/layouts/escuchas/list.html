@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{ if .Params.semana }}
+  {{/* una semana: álbumes por número de escuchas */}}
+  <header class="pagehead weekhead">
+    <h1>semana {{ .Params.semana }}<small>{{ .Params.anio }}</small></h1>
+    <p>{{ .Params.rango }} · {{ .Params.scrobbles }} escuchas · {{ len .RegularPages }} discos{{ if not .Params.completa }} · en curso{{ end }}</p>
+  </header>
+  <nav class="pager weeknav">
+    {{ $hermanas := .Parent.Sections.ByDate }}
+    {{ $prev := $hermanas.Prev . }}{{ $next := $hermanas.Next . }}
+    {{ with $prev }}<a href="{{ .RelPermalink }}">← semana {{ .Params.semana }}</a>{{ else }}<span></span>{{ end }}
+    <a href="{{ .Parent.RelPermalink }}">todas las semanas</a>
+    {{ with $next }}<a href="{{ .RelPermalink }}">semana {{ .Params.semana }} →</a>{{ else }}<span></span>{{ end }}
+  </nav>
+  <section class="grid">
+    {{ range sort .RegularPages "Params.puesto" }}
+      {{ $m := partial "meta.html" . }}
+      {{ $img := partial "cover.html" . }}
+      <a class="card" href="{{ .RelPermalink }}">
+        <div class="sleeve">
+          {{ with $img }}
+            {{ $t := .Fill "360x360 Center webp q78" }}
+            <img src="{{ $t.RelPermalink }}" width="360" height="360" loading="lazy" alt="{{ $m.artist }} - {{ $m.album }}">
+          {{ else }}
+            <div class="nocover"><span>{{ $m.album }}</span></div>
+          {{ end }}
+          <span class="plays" title="{{ .Params.escuchas }} escuchas">{{ .Params.escuchas }}</span>
+        </div>
+        <div class="cap">
+          <b>{{ $m.album }}</b>
+          <span>{{ $m.artist }}</span>
+          <time>#{{ .Params.puesto }} · {{ .Params.escuchas }} escuchas</time>
+        </div>
+      </a>
+    {{ end }}
+  </section>
+{{ else }}
+  {{/* la sección: todas las semanas, la más reciente primero, agrupadas por año */}}
+  <header class="pagehead">
+    <h1>{{ .Title }}</h1>
+    <p>lo más escuchado cada semana en last.fm · {{ len .Sections }} semanas</p>
+  </header>
+  {{ $semanas := .Sections.ByDate.Reverse }}
+  {{ $anios := slice }}
+  {{ range $semanas }}{{ $anios = $anios | append .Params.anio }}{{ end }}
+  {{ range $anios | uniq }}
+    {{ $anio := . }}
+    <h2 class="yearhead">{{ $anio }}</h2>
+    <section class="grid">
+      {{ range where $semanas "Params.anio" $anio }}
+        {{ $top := index (sort .RegularPages "Params.puesto") 0 }}
+        <a class="card week" href="{{ .RelPermalink }}">
+          <div class="sleeve mosaic">
+            {{ range first 4 (sort .RegularPages "Params.puesto") }}
+              {{ with partial "cover.html" . }}{{ $t := .Fill "180x180 Center webp q75" }}<img src="{{ $t.RelPermalink }}" width="180" height="180" loading="lazy" alt="">{{ else }}<div class="nocover"></div>{{ end }}
+            {{ end }}
+          </div>
+          <div class="cap">
+            <b>semana {{ .Params.semana }}</b>
+            <span>{{ .Params.rango }}</span>
+            <time>{{ .Params.scrobbles }} escuchas · {{ len .RegularPages }} discos{{ with $top }} · nº1 {{ (partial "meta.html" .).album }}{{ end }}</time>
+          </div>
+        </a>
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
+{{ end }}

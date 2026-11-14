@@ -1,0 +1,72 @@
+{{ define "main" }}
+{{ $tab := .Params.tab }}
+{{ $yt := site.Data.youtube_playlists | default slice }}
+<header class="pagehead">
+  <h1>playlists</h1>
+  <nav class="tabs">
+    {{ with site.GetPage "/about" }}<a href="{{ .RelPermalink }}"{{ if eq $tab "spotify" }} class="on"{{ end }}>Spotify</a>{{ end }}
+    {{ with site.GetPage "/playlists-youtube" }}<a href="{{ .RelPermalink }}"{{ if eq $tab "youtube" }} class="on"{{ end }}>YouTube <sup>{{ len $yt }}</sup></a>{{ end }}
+  </nav>
+</header>
+
+<section class="player plplayer" id="plplayer" hidden></section>
+
+{{ if eq $tab "youtube" }}
+  {{ range slice (dict "k" "mix" "t" "sincronizadas desde Mix") (dict "k" "otras" "t" "del canal") }}
+    {{ $t := .t }}
+    {{ $ls := where $yt "grupo" .k }}
+    {{ with $ls }}
+      <h2 class="yearhead">{{ $t }} <small>{{ len . }}</small></h2>
+      <section class="grid">
+        {{ range . }}
+          <a class="card yt" href="https://www.youtube.com/playlist?list={{ .id }}" target="_blank" rel="noopener" data-yt="{{ .id }}" title="{{ .descripcion }}">
+            <div class="sleeve wide">
+              {{ with .miniatura }}<img src="{{ . }}" loading="lazy" alt="">{{ else }}<div class="nocover"><span>{{ .titulo }}</span></div>{{ end }}
+              <span class="plays">{{ .videos }}</span>
+            </div>
+            <div class="cap">
+              <b>{{ .titulo }}</b>
+              <time>{{ .videos }} vídeos · desde {{ time.Format "Jan 2006" .creada }}</time>
+            </div>
+          </a>
+        {{ end }}
+      </section>
+    {{ end }}
+  {{ end }}
+{{ else }}
+  <div class="prose plist" id="plist">{{ .Content }}</div>
+{{ end }}
+
+<script>
+(function () {
+  var box = document.getElementById('plplayer');
+  function play(src, cls) {
+    box.className = 'player plplayer ' + cls;
+    box.innerHTML = '<iframe src="' + src + '" loading="lazy" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" title="Reproductor"></iframe>';
+    box.hidden = false;
+    box.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.querySelectorAll('[data-yt]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
+      e.preventDefault();
+      play('https://www.youtube-nocookie.com/embed/videoseries?list=' + a.dataset.yt, 'yt');
+    });
+  });
+  // Spotify: cada párrafo «[Nombre](enlace) descripción» → fila con botón de escuchar
+  var pl = document.getElementById('plist');
+  if (!pl) return;
+  pl.querySelectorAll('p').forEach(function (p) {
+    var a = p.querySelector('a[href*="open.spotify.com/playlist/"]');
+    if (!a) return;
+    var id = a.href.split('/playlist/')[1].split(/[?#]/)[0];
+    p.className = 'prow';
+    a.target = '_blank'; a.rel = 'noopener';
+    var b = document.createElement('button');
+    b.type = 'button'; b.textContent = '▶'; b.title = 'Escuchar aquí';
+    b.addEventListener('click', function () { play('https://open.spotify.com/embed/playlist/' + id + '?theme=0', 'sp'); });
+    p.prepend(b);
+  });
+})();
+</script>
+{{ end }}

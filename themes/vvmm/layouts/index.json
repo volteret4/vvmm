@@ -1,0 +1,23 @@
+{{- /* Índice para el buscador de la cabecera: discos, colección y géneros */ -}}
+{{- $out := slice -}}
+{{- range where site.RegularPages "Section" "in" (slice "posts" "coleccion") -}}
+  {{- $m := partial "meta.html" . -}}
+  {{- $img := "" -}}
+  {{- with partial "cover.html" . }}{{ $img = (.Fill "360x360 Center webp q78").RelPermalink }}{{ end -}}
+  {{- $tags := slice -}}
+  {{- range .Params.tags }}{{ if not (in (slice "coleccion" "discogs") .) }}{{ $tags = $tags | append . }}{{ end }}{{ end -}}
+  {{- if not $tags -}}
+    {{- with findRESubmatch `(?m)^\*\*G[ée]nero:\*\*\s*(.+)$` .RawContent 1 -}}
+      {{- range split (index (index . 0) 1) "," }}{{ $tags = $tags | append (trim . " " | lower) }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $out = $out | append (dict "s" (cond (eq .Section "posts") "d" "c") "a" $m.artist "b" $m.album "u" .RelPermalink "i" $img "g" $tags "f" (.Date.Format "2006")) -}}
+{{- end -}}
+{{- with site.Taxonomies.tags -}}
+  {{- range .ByCount -}}
+    {{- if not (in (slice "coleccion" "discogs") .Name) -}}
+      {{- $out = $out | append (dict "s" "g" "b" (.Page.Title | lower) "u" .Page.RelPermalink "n" .Count) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $out | jsonify -}}

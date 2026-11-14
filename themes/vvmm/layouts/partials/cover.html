@@ -9,4 +9,6 @@
     {{ if and (not $img) (ne .Name "image.jpeg") (not (strings.HasPrefix .Content "<")) }}{{ $img = . }}{{ end }}
   {{ end }}
 {{ end }}
+{{/* escuchas: portada compartida en assets/escuchas-portadas/ */}}
+{{ if and (not $img) .Params.portada }}{{ $img = resources.Get (printf "escuchas-portadas/%s" .Params.portada) }}{{ end }}
 {{ return $img }}

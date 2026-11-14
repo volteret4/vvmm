@@ -7,6 +7,9 @@ defaultContentLanguage = 'es'
 staticDir = ['static']
 favicon = 'favicon.ico'
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [pagination]
     pagerSize = 15
 
@@ -26,6 +29,16 @@ favicon = 'favicon.ico'
         name = "colección"
         url = "/coleccion/"
         weight = 3
+    [[menu.main]]
+        identifier = "escuchas"
+        name = "escuchas"
+        url = "/escuchas/"
+        weight = 4
+    [[menu.main]]
+        identifier = "playlists"
+        name = "playlists"
+        url = "/playlists/spotify/"
+        weight = 5
 
 #[menu]
 #  [[menu.main]]

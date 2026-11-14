@@ -2,8 +2,10 @@
 title: "Playlists"
 date: 2024-06-20T17:09:06+02:00
 draft: false
-menu: main
-weight: 3
+url: /playlists/spotify/
+aliases: ["/playlists/", "/about/"]
+layout: playlists
+tab: spotify
 ---
 
 _Actualizado el 10-07-2025_

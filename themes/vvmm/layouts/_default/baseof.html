@@ -18,10 +18,11 @@
       <span><b>{{ site.Title }}</b><small>{{ site.Params.description }}</small></span>
     </a>
     <nav>
+      {{ partial "search.html" . }}
       {{ $cur := . }}
       {{ range site.Menus.main }}
         {{ $u := .URL | relURL }}
-        <a href="{{ $u }}"{{ if or ($cur.IsMenuCurrent "main" .) (eq $cur.RelPermalink $u) }} class="on"{{ end }}>{{ .Name }}</a>
+        <a href="{{ $u }}"{{ if or ($cur.IsMenuCurrent "main" .) (eq $cur.RelPermalink $u) (and $cur.Params.tab (eq .Identifier "playlists")) (and (eq $cur.Section "escuchas") (eq .Identifier "escuchas")) }} class="on"{{ end }}>{{ .Name }}</a>
       {{ end }}
     </nav>
   </header>
