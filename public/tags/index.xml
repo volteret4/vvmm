@@ -10,9 +10,58 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 03:19:31 +0100</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 21:56:12 +0000</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Latin</title>
+				<link>/tags/latin/</link>
+				<pubDate>Sat, 14 Nov 2026 21:56:12 +0000</pubDate>
+				<guid>/tags/latin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Salsa</title>
+				<link>/tags/salsa/</link>
+				<pubDate>Sat, 14 Nov 2026 21:56:12 +0000</pubDate>
+				<guid>/tags/salsa/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ebm</title>
+				<link>/tags/ebm/</link>
+				<pubDate>Fri, 13 Nov 2026 22:54:56 +0000</pubDate>
+				<guid>/tags/ebm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Industrial</title>
+				<link>/tags/industrial/</link>
+				<pubDate>Fri, 13 Nov 2026 22:54:56 +0000</pubDate>
+				<guid>/tags/industrial/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Techno</title>
+				<link>/tags/techno/</link>
+				<pubDate>Fri, 13 Nov 2026 22:54:56 +0000</pubDate>
+				<guid>/tags/techno/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Electro</title>
+				<link>/tags/electro/</link>
+				<pubDate>Fri, 13 Nov 2026 22:02:33 +0000</pubDate>
+				<guid>/tags/electro/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Synthpop</title>
+				<link>/tags/synthpop/</link>
+				<pubDate>Fri, 13 Nov 2026 22:02:33 +0000</pubDate>
+				<guid>/tags/synthpop/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Pop</title>
 				<link>/tags/pop/</link>
@@ -25,34 +74,6 @@
 				<link>/tags/soft-rock/</link>
 				<pubDate>Fri, 13 Nov 2026 03:19:31 +0100</pubDate>
 				<guid>/tags/soft-rock/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Synthpop</title>
-				<link>/tags/synthpop/</link>
-				<pubDate>Fri, 13 Nov 2026 01:16:52 +0100</pubDate>
-				<guid>/tags/synthpop/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Electro</title>
-				<link>/tags/electro/</link>
-				<pubDate>Thu, 12 Nov 2026 19:19:30 +0100</pubDate>
-				<guid>/tags/electro/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Industrial</title>
-				<link>/tags/industrial/</link>
-				<pubDate>Thu, 12 Nov 2026 19:19:30 +0100</pubDate>
-				<guid>/tags/industrial/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Techno</title>
-				<link>/tags/techno/</link>
-				<pubDate>Thu, 12 Nov 2026 19:19:30 +0100</pubDate>
-				<guid>/tags/techno/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -88,13 +109,6 @@
 				<link>/tags/postrock/</link>
 				<pubDate>Fri, 06 Nov 2026 01:33:13 +0100</pubDate>
 				<guid>/tags/postrock/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>EBM</title>
-				<link>/tags/ebm/</link>
-				<pubDate>Fri, 06 Nov 2026 00:53:51 +0100</pubDate>
-				<guid>/tags/ebm/</guid>
 				<description></description>
 			</item>
 			<item>

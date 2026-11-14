@@ -1643,6 +1643,11 @@
   "id": 290948773,
   "tipo": "bandcamp"
  },
+ "posts/chichi-peralta-son-familia_-pa-otro-la-o": {
+  "fuente": "post",
+  "id": "PLa91b8EFPniXqaNj7fki05M7WnHZulvNf",
+  "tipo": "yt_playlist"
+ },
  "posts/claire-rousay-_-The-Bloody-Lady": {
   "id": 2190986307,
   "tipo": "bandcamp"
@@ -1650,6 +1655,11 @@
  "posts/david-bowie_-the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars": {
   "fuente": "busqueda",
   "id": "PLfIDINzT3xf1Vepp58rWJXe4Cu-thfvWN",
+  "tipo": "yt_playlist"
+ },
+ "posts/erasure_-chorus": {
+  "fuente": "post",
+  "id": "PLiMAkjqsDYt48Khm3v8lvKE9CgeW_Hc1J",
   "tipo": "yt_playlist"
  },
  "posts/fennesz_-becs": {
@@ -1724,6 +1734,11 @@
  "posts/maenad-veyl_-body-count": {
   "id": 12809184,
   "tipo": "bandcamp"
+ },
+ "posts/manni-dee_-a-low-level-love": {
+  "fuente": "post",
+  "id": "PL7f4toj7-5ZJDfHTZbBebrVscx5NYQ8wt",
+  "tipo": "yt_playlist"
  },
  "posts/moby_-play": {
   "fuente": "post",
