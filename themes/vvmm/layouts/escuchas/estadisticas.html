@@ -1,0 +1,319 @@
+{{ define "main" }}
+{{ $st := hugo.Data.escuchas_stats }}
+<header class="pagehead">
+  <h1>escuchas</h1>
+  {{ partial "escuchas-tabs.html" . }}
+</header>
+
+<div class="viz" id="viz">
+  <div class="vfiltros">
+    <label>periodo
+      <select id="vanio"><option value="">todo</option></select>
+    </label>
+    <label>mes
+      <select id="vmes" disabled><option value="">todo el año</option></select>
+    </label>
+    <span class="vnota">«nuevo» = en los {{ $st.dias_nuevo }} días siguientes a la primera escucha · datos hasta el {{ $st.generado }}</span>
+  </div>
+
+  <section class="vtiles" id="vtiles"></section>
+
+  <h2 class="yearhead">conocido o nuevo <small>escuchas por <span class="vunidad">mes</span></small></h2>
+  <div class="vgrid3">
+    <figure class="vcard" id="l-artistas"><figcaption>artistas</figcaption></figure>
+    <figure class="vcard" id="l-discos"><figcaption>discos</figcaption></figure>
+    <figure class="vcard" id="l-canciones"><figcaption>canciones</figcaption></figure>
+  </div>
+
+  <h2 class="yearhead">descubrimientos <small>por <span class="vunidad2">mes</span></small></h2>
+  <div class="vgrid2">
+    <figure class="vcard" id="b-artistas"><figcaption>artistas descubiertos y escuchas</figcaption></figure>
+    <figure class="vcard" id="b-discos"><figcaption>discos descubiertos y escuchas</figcaption></figure>
+  </div>
+
+  <h2 class="yearhead">sellos y géneros</h2>
+  <div class="vgrid2">
+    <figure class="vcard" id="h-sellos"><figcaption>sellos más escuchados</figcaption></figure>
+    <figure class="vcard" id="h-generos"><figcaption>géneros más escuchados <small>(una escucha cuenta en cada género del disco)</small></figcaption></figure>
+  </div>
+  <figure class="vcard" id="l-generos"><figcaption>los cinco géneros más escuchados a lo largo del tiempo</figcaption></figure>
+
+  <div class="vtip" id="vtip" hidden></div>
+</div>
+
+<script id="vdata" type="application/json">{{ $st | jsonify | safeJS }}</script>
+<script>
+(function () {
+  var D = JSON.parse(document.getElementById('vdata').textContent);
+  var COL = { known: '#3987e5', nuevo: '#d95926', cat: ['#3987e5', '#d95926', '#199e70', '#c98500', '#d55181'] };
+  var MES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+  var NS = 'http://www.w3.org/2000/svg';
+  var tip = document.getElementById('vtip');
+  var fmt = function (n) { return n.toLocaleString('es-ES'); };
+
+  // ── datos ──────────────────────────────────────────────────────────────
+  var dias = D.dias; // [fecha, escuchas, nA, nD, nC, dA, dD, dC]
+  var anios = []; dias.forEach(function (r) { var a = r[0].slice(0, 4); if (anios.indexOf(a) < 0) anios.push(a); });
+  var selA = document.getElementById('vanio'), selM = document.getElementById('vmes');
+  anios.slice().reverse().forEach(function (a) { var o = document.createElement('option'); o.value = a; o.textContent = a; selA.appendChild(o); });
+  MES.forEach(function (m, i) { var o = document.createElement('option'); o.value = String(i + 1).padStart(2, '0'); o.textContent = m; selM.appendChild(o); });
+
+  function isoWeek(s) {
+    var d = new Date(s + 'T12:00:00Z'), day = (d.getUTCDay() + 6) % 7;
+    d.setUTCDate(d.getUTCDate() - day + 3);
+    var y = d.getUTCFullYear(), first = new Date(Date.UTC(y, 0, 4));
+    return y + '-W' + String(1 + Math.round(((d - first) / 864e5 - 3 + ((first.getUTCDay() + 6) % 7)) / 7)).padStart(2, '0');
+  }
+  function rangoMeses(a, b) { // 'AAAA-MM' inclusive
+    var out = [], y = +a.slice(0, 4), m = +a.slice(5);
+    while (true) { var k = y + '-' + String(m).padStart(2, '0'); out.push(k); if (k >= b) break; if (++m > 12) { m = 1; y++; } }
+    return out;
+  }
+  function rangoDias(a, b) {
+    var out = [], d = new Date(a + 'T12:00:00Z'), e = new Date(b + 'T12:00:00Z');
+    while (d <= e) { out.push(d.toISOString().slice(0, 10)); d.setUTCDate(d.getUTCDate() + 1); }
+    return out;
+  }
+  function etiqueta(k, unidad) {
+    if (unidad === 'mes') return MES[+k.slice(5) - 1] + ' ' + k.slice(0, 4);
+    if (unidad === 'semana') return 'semana ' + (+k.slice(6)) + ' de ' + k.slice(0, 4);
+    return (+k.slice(8)) + ' ' + MES[+k.slice(5, 7) - 1] + ' ' + k.slice(0, 4);
+  }
+  function corta(k, unidad) {
+    if (unidad === 'mes') return anioSel ? MES[+k.slice(5) - 1] : k.slice(0, 4);
+    if (unidad === 'semana') return 's' + (+k.slice(6));
+    return String(+k.slice(8));
+  }
+
+  // agrupa las filas diarias del periodo en cubos (mes / semana / día)
+  function cubos(unidad) {
+    var desde, hasta;
+    if (!anioSel) { desde = dias[0][0]; hasta = dias[dias.length - 1][0]; }
+    else if (!mesSel) { desde = anioSel + '-01-01'; hasta = anioSel + '-12-31'; }
+    else { desde = anioSel + '-' + mesSel + '-01'; hasta = anioSel + '-' + mesSel + '-' + new Date(Date.UTC(+anioSel, +mesSel, 0)).getUTCDate(); }
+    var hoy = dias[dias.length - 1][0]; if (hasta > hoy) hasta = hoy;
+    var claves, key;
+    if (unidad === 'mes') { claves = rangoMeses(desde.slice(0, 7), hasta.slice(0, 7)); key = function (f) { return f.slice(0, 7); }; }
+    else if (unidad === 'semana') { claves = []; rangoDias(desde, hasta).forEach(function (f) { var w = isoWeek(f); if (claves.indexOf(w) < 0) claves.push(w); }); key = isoWeek; }
+    else { claves = rangoDias(desde, hasta); key = function (f) { return f; }; }
+    var idx = {}, vals = claves.map(function (k, i) { idx[k] = i; return [0, 0, 0, 0, 0, 0, 0]; });
+    dias.forEach(function (r) {
+      if (r[0] < desde || r[0] > hasta) return;
+      var i = idx[key(r[0])]; if (i === undefined) return;
+      for (var j = 0; j < 7; j++) vals[i][j] += r[j + 1];
+    });
+    return { claves: claves, vals: vals, desde: desde, hasta: hasta };
+  }
+
+  // ── piezas SVG ─────────────────────────────────────────────────────────
+  function el(tag, at, parent) { var e = document.createElementNS(NS, tag); for (var k in at) e.setAttribute(k, at[k]); if (parent) parent.appendChild(e); return e; }
+  function nice(max) {
+    if (max <= 0) return { top: 1, step: 1 };
+    var raw = max / 4, p = Math.pow(10, Math.floor(Math.log10(raw))), f = raw / p;
+    var step = (f <= 1 ? 1 : f <= 2 ? 2 : f <= 2.5 ? 2.5 : f <= 5 ? 5 : 10) * p;
+    if (step < 1) step = 1;
+    return { top: Math.ceil(max / step) * step, step: step };
+  }
+  function eje(k) { return k >= 10000 ? (k / 1000).toLocaleString('es-ES') + 'K' : fmt(k); }
+  function lienzo(fig, alto) {
+    var old = fig.querySelector('.vbody'); if (old) old.remove();
+    var body = document.createElement('div'); body.className = 'vbody'; fig.appendChild(body);
+    var w = Math.max(260, body.clientWidth || fig.clientWidth - 32);
+    var svg = el('svg', { width: w, height: alto, viewBox: '0 0 ' + w + ' ' + alto, role: 'img' }, body);
+    return { body: body, svg: svg, w: w, h: alto };
+  }
+  function leyenda(body, series, tipo) {
+    if (series.length < 2) return;
+    var lg = document.createElement('div'); lg.className = 'vley';
+    series.forEach(function (s) {
+      var i = document.createElement('span'), k = document.createElement('i');
+      k.className = tipo === 'line' ? 'k-line' : 'k-rect'; k.style.background = s.color;
+      i.appendChild(k); i.appendChild(document.createTextNode(s.nombre)); lg.appendChild(i);
+    });
+    body.insertBefore(lg, body.firstChild);
+  }
+  function tabla(body, cab, filas) {
+    var d = document.createElement('details'); d.className = 'vtabla';
+    var s = document.createElement('summary'); s.textContent = 'ver tabla'; d.appendChild(s);
+    d.addEventListener('toggle', function () {
+      if (!d.open || d.querySelector('table')) return;
+      var t = document.createElement('table'), tr = document.createElement('tr');
+      cab.forEach(function (c) { var th = document.createElement('th'); th.textContent = c; tr.appendChild(th); });
+      t.appendChild(tr);
+      filas.forEach(function (f) {
+        var r = document.createElement('tr');
+        f.forEach(function (v, i) { var td = document.createElement('td'); td.textContent = i && typeof v === 'number' ? fmt(v) : v; r.appendChild(td); });
+        t.appendChild(r);
+      });
+      var w = document.createElement('div'); w.className = 'tablewrap'; w.appendChild(t); d.appendChild(w);
+    });
+    body.appendChild(d);
+  }
+  function mostrar(ev, titulo, filas) {
+    tip.textContent = '';
+    var h = document.createElement('div'); h.className = 'vtt'; h.textContent = titulo; tip.appendChild(h);
+    filas.forEach(function (f) {
+      var r = document.createElement('div'), k = document.createElement('i'), b = document.createElement('b'), s = document.createElement('span');
+      k.style.background = f.color; b.textContent = fmt(f.valor); s.textContent = f.nombre;
+      r.appendChild(k); r.appendChild(b); r.appendChild(s); tip.appendChild(r);
+    });
+    tip.hidden = false;
+    var x = ev.clientX + 14, y = ev.clientY + 14, tw = tip.offsetWidth, th = tip.offsetHeight;
+    if (x + tw > innerWidth - 8) x = ev.clientX - tw - 14;
+    if (y + th > innerHeight - 8) y = ev.clientY - th - 14;
+    tip.style.left = x + 'px'; tip.style.top = y + 'px';
+  }
+  function ocultar() { tip.hidden = true; }
+  function ejeX(svg, claves, unidad, x0, dx, y) {
+    var n = claves.length, cada = Math.max(1, Math.ceil(n / Math.max(2, Math.floor((dx * n) / 46)))), ultimo = '';
+    claves.forEach(function (k, i) {
+      var t = corta(k, unidad);
+      if (unidad === 'mes' && !anioSel) { if (t === ultimo) return; ultimo = t; if (+t % (n > 120 ? 2 : 1)) return; }
+      else if (i % cada) return;
+      var tx = el('text', { x: x0 + i * dx, y: y, class: 'vx' }, svg); tx.textContent = t;
+    });
+  }
+
+  // líneas con cruz que salta al punto más cercano
+  function lineas(fig, claves, unidad, series) {
+    var c = lienzo(fig, 230), L = 44, R = 12, T = 12, B = 26, W = c.w - L - R, H = c.h - T - B;
+    leyenda(c.body, series, 'line');
+    var max = 0; series.forEach(function (s) { s.valores.forEach(function (v) { if (v > max) max = v; }); });
+    var n = nice(max), n1 = Math.max(1, claves.length - 1), dx = W / n1;
+    var Y = function (v) { return T + H - (v / n.top) * H; };
+    for (var v = 0; v <= n.top + 1e-9; v += n.step) {
+      el('line', { x1: L, x2: L + W, y1: Y(v), y2: Y(v), class: v ? 'vgr' : 'vbase' }, c.svg);
+      var t = el('text', { x: L - 6, y: Y(v) + 4, class: 'vy' }, c.svg); t.textContent = eje(v);
+    }
+    ejeX(c.svg, claves, unidad, L, dx, c.h - 6);
+    series.forEach(function (s) {
+      var d = s.valores.map(function (v, i) { return (i ? 'L' : 'M') + (L + i * dx).toFixed(1) + ' ' + Y(v).toFixed(1); }).join('');
+      if (claves.length === 1) el('circle', { cx: L, cy: Y(s.valores[0]), r: 4, fill: s.color }, c.svg);
+      el('path', { d: d, fill: 'none', stroke: s.color, 'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-linecap': 'round' }, c.svg);
+    });
+    var cruz = el('line', { y1: T, y2: T + H, class: 'vcruz', visibility: 'hidden' }, c.svg);
+    var puntos = series.map(function (s) { return el('circle', { r: 4, fill: s.color, stroke: '#1c1b24', 'stroke-width': 2, visibility: 'hidden' }, c.svg); });
+    var hit = el('rect', { x: L, y: T, width: W, height: H, fill: 'transparent' }, c.svg);
+    hit.addEventListener('pointermove', function (ev) {
+      var r = c.svg.getBoundingClientRect(), i = Math.max(0, Math.min(claves.length - 1, Math.round((ev.clientX - r.left - L) / dx)));
+      var x = L + i * dx; cruz.setAttribute('x1', x); cruz.setAttribute('x2', x); cruz.setAttribute('visibility', 'visible');
+      puntos.forEach(function (p, j) { p.setAttribute('cx', x); p.setAttribute('cy', Y(series[j].valores[i])); p.setAttribute('visibility', 'visible'); });
+      mostrar(ev, etiqueta(claves[i], unidad), series.map(function (s) { return { color: s.color, valor: s.valores[i], nombre: s.nombre }; }));
+    });
+    hit.addEventListener('pointerleave', function () { cruz.setAttribute('visibility', 'hidden'); puntos.forEach(function (p) { p.setAttribute('visibility', 'hidden'); }); ocultar(); });
+    tabla(c.body, [unidad].concat(series.map(function (s) { return s.nombre; })), claves.map(function (k, i) { return [etiqueta(k, unidad)].concat(series.map(function (s) { return s.valores[i]; })); }));
+  }
+
+  // dos paneles de columnas alineados (una medida encima de otra, cada una con su eje)
+  function paneles(fig, claves, unidad, panelesDef) {
+    var PH = 120, GAP = 22, B = 26, T = 8, L = 44, R = 12;
+    var c = lienzo(fig, T + panelesDef.length * PH + (panelesDef.length - 1) * GAP + B), W = c.w - L - R;
+    leyenda(c.body, panelesDef, 'rect');
+    var dx = W / claves.length, bw = Math.max(1, Math.min(24, dx - 2));
+    panelesDef.forEach(function (p, pi) {
+      var top = T + pi * (PH + GAP), max = Math.max.apply(null, p.valores.concat([0])), n = nice(max);
+      var Y = function (v) { return top + PH - (v / n.top) * PH; };
+      for (var v = 0; v <= n.top + 1e-9; v += n.step) {
+        if (v && v < n.top - 1e-9 && n.top / n.step > 2) continue; // base y tope: el resto lo da el tooltip
+        el('line', { x1: L, x2: L + W, y1: Y(v), y2: Y(v), class: v ? 'vgr' : 'vbase' }, c.svg);
+        var t = el('text', { x: L - 6, y: Y(v) + 4, class: 'vy' }, c.svg); t.textContent = eje(v);
+      }
+      var lab = el('text', { x: L + 4, y: top + 10, class: 'vpanel' }, c.svg); lab.textContent = p.nombre;
+      p.valores.forEach(function (v, i) {
+        var x = L + i * dx + (dx - bw) / 2, h = (v / n.top) * PH, y = top + PH - h, r = Math.min(4, bw / 2, h);
+        if (h > 0) el('path', { d: 'M' + x + ' ' + (top + PH) + 'V' + (y + r) + 'q0 -' + r + ' ' + r + ' -' + r + 'H' + (x + bw - r) + 'q' + r + ' 0 ' + r + ' ' + r + 'V' + (top + PH) + 'Z', fill: p.color, class: 'vbar', 'data-i': i }, c.svg);
+      });
+    });
+    ejeX(c.svg, claves, unidad, L + dx / 2, dx, c.h - 6);
+    var cruz = el('rect', { y: T, height: c.h - T - B, class: 'vbanda', visibility: 'hidden' }, c.svg);
+    c.svg.insertBefore(cruz, c.svg.firstChild);
+    var hit = el('rect', { x: L, y: T, width: W, height: c.h - T - B, fill: 'transparent' }, c.svg);
+    hit.addEventListener('pointermove', function (ev) {
+      var r = c.svg.getBoundingClientRect(), i = Math.max(0, Math.min(claves.length - 1, Math.floor((ev.clientX - r.left - L) / dx)));
+      cruz.setAttribute('x', L + i * dx); cruz.setAttribute('width', dx); cruz.setAttribute('visibility', 'visible');
+      mostrar(ev, etiqueta(claves[i], unidad), panelesDef.map(function (p) { return { color: p.color, valor: p.valores[i], nombre: p.nombre }; }));
+    });
+    hit.addEventListener('pointerleave', function () { cruz.setAttribute('visibility', 'hidden'); ocultar(); });
+    tabla(c.body, [unidad].concat(panelesDef.map(function (p) { return p.nombre; })), claves.map(function (k, i) { return [etiqueta(k, unidad)].concat(panelesDef.map(function (p) { return p.valores[i]; })); }));
+  }
+
+  // barras horizontales ordenadas, con el valor en la punta
+  function ranking(fig, items, color) {
+    var fila = 22, c = lienzo(fig, Math.max(1, items.length) * fila + 4), LW = Math.min(170, c.w * 0.42), R = 52, W = c.w - LW - R;
+    var max = items.length ? items[0].v : 1;
+    if (!items.length) { var t0 = el('text', { x: 0, y: 16, class: 'vy', 'text-anchor': 'start' }, c.svg); t0.textContent = 'sin datos en este periodo'; return; }
+    items.forEach(function (it, i) {
+      var y = 2 + i * fila, w = Math.max(2, (it.v / max) * W), bh = 14, by = y + (fila - bh) / 2 - 2;
+      var nom = el('text', { x: LW - 8, y: y + 13, class: 'vnom' }, c.svg); nom.textContent = it.n.length > 26 ? it.n.slice(0, 25) + '…' : it.n;
+      var g = el('g', { class: 'vfila' }, c.svg);
+      el('rect', { x: 0, y: y - 1, width: c.w, height: fila, fill: 'transparent' }, g);
+      el('path', { d: 'M' + LW + ' ' + by + 'H' + (LW + w - 4) + 'q4 0 4 4V' + (by + bh - 4) + 'q0 4 -4 4H' + LW + 'Z', fill: color }, g);
+      var val = el('text', { x: LW + w + 6, y: y + 13, class: 'vval' }, g); val.textContent = fmt(it.v);
+      g.addEventListener('pointermove', function (ev) { mostrar(ev, it.n, [{ color: color, valor: it.v, nombre: 'escuchas' }]); });
+      g.addEventListener('pointerleave', ocultar);
+    });
+    tabla(c.body, ['nombre', 'escuchas'], items.map(function (it) { return [it.n, it.v]; }));
+  }
+
+  function sumaEtiquetas(tab, desde, hasta) {
+    var a = desde.slice(0, 7), b = hasta.slice(0, 7);
+    return tab.nombres.map(function (n, i) {
+      var m = tab.meses[i], s = 0;
+      for (var k in m) if (k >= a && k <= b) s += m[k];
+      return { n: n, v: s };
+    }).filter(function (x) { return x.v > 0; }).sort(function (x, y) { return y.v - x.v; });
+  }
+
+  // ── pintar ─────────────────────────────────────────────────────────────
+  var anioSel = '', mesSel = '';
+  function tile(box, label, valor, extra) {
+    var t = document.createElement('div'); t.className = 'vtile';
+    var l = document.createElement('span'); l.textContent = label;
+    var v = document.createElement('b'); v.textContent = fmt(valor);
+    t.appendChild(l); t.appendChild(v);
+    if (extra) { var e = document.createElement('small'); e.textContent = extra; t.appendChild(e); }
+    box.appendChild(t);
+  }
+  function pintar() {
+    var uL = mesSel ? 'día' : anioSel ? 'semana' : 'mes', uB = mesSel ? 'día' : 'mes';
+    document.querySelectorAll('.vunidad').forEach(function (s) { s.textContent = uL; });
+    document.querySelectorAll('.vunidad2').forEach(function (s) { s.textContent = uB; });
+    var cl = cubos(uL), cb = uB === uL ? cl : cubos(uB);
+    var tot = [0, 0, 0, 0, 0, 0, 0]; cb.vals.forEach(function (v) { for (var j = 0; j < 7; j++) tot[j] += v[j]; });
+    var box = document.getElementById('vtiles'); box.textContent = '';
+    tile(box, 'escuchas', tot[0]);
+    tile(box, 'artistas descubiertos', tot[4], Math.round(100 * tot[1] / Math.max(1, tot[0])) + '% de escuchas a artistas nuevos');
+    tile(box, 'discos descubiertos', tot[5], Math.round(100 * tot[2] / Math.max(1, tot[0])) + '% a discos nuevos');
+    tile(box, 'canciones descubiertas', tot[6], Math.round(100 * tot[3] / Math.max(1, tot[0])) + '% a canciones nuevas');
+    [['l-artistas', 1], ['l-discos', 2], ['l-canciones', 3]].forEach(function (p) {
+      lineas(document.getElementById(p[0]), cl.claves, uL, [
+        { nombre: 'conocidos', color: COL.known, valores: cl.vals.map(function (v) { return v[0] - v[p[1]]; }) },
+        { nombre: 'nuevos', color: COL.nuevo, valores: cl.vals.map(function (v) { return v[p[1]]; }) }]);
+    });
+    [['b-artistas', 4, 'artistas descubiertos'], ['b-discos', 5, 'discos descubiertos']].forEach(function (p) {
+      paneles(document.getElementById(p[0]), cb.claves, uB, [
+        { nombre: p[2], color: COL.nuevo, valores: cb.vals.map(function (v) { return v[p[1]]; }) },
+        { nombre: 'escuchas', color: COL.known, valores: cb.vals.map(function (v) { return v[0]; }) }]);
+    });
+    ranking(document.getElementById('h-sellos'), sumaEtiquetas(D.sellos, cb.desde, cb.hasta).slice(0, 15), COL.known);
+    var gens = sumaEtiquetas(D.generos, cb.desde, cb.hasta);
+    ranking(document.getElementById('h-generos'), gens.slice(0, 15), COL.known);
+    var fg = document.getElementById('l-generos');
+    if (mesSel) { fg.hidden = true; } else {
+      fg.hidden = false;
+      var cm = uB === 'mes' ? cb : cubos('mes');
+      // siempre los cinco géneros más escuchados del historial: el color sigue al género, no al puesto
+      var series = D.generos.nombres.slice(0, 5).map(function (g, i) {
+        var m = D.generos.meses[i];
+        return { nombre: g, color: COL.cat[i], valores: cm.claves.map(function (k) { return m[k] || 0; }) };
+      });
+      lineas(fg, cm.claves, 'mes', series);
+    }
+  }
+  selA.addEventListener('change', function () { anioSel = selA.value; selM.disabled = !anioSel; if (!anioSel) selM.value = ''; mesSel = selM.value; pintar(); });
+  selM.addEventListener('change', function () { mesSel = selM.value; pintar(); });
+  var to; addEventListener('resize', function () { clearTimeout(to); to = setTimeout(pintar, 150); });
+  pintar();
+})();
+</script>
+{{ end }}

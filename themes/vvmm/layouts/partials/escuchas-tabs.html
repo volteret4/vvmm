@@ -1,0 +1,7 @@
+{{/* Subpestañas de escuchas: semanas / estadísticas */}}
+{{ $sec := site.GetPage "/escuchas" }}
+{{ $st := site.GetPage "/escuchas/estadisticas" }}
+<nav class="tabs">
+  {{ with $sec }}<a href="{{ .RelPermalink }}"{{ if ne $.Layout "estadisticas" }} class="on"{{ end }}>semanas</a>{{ end }}
+  {{ with $st }}<a href="{{ .RelPermalink }}"{{ if eq $.Layout "estadisticas" }} class="on"{{ end }}>estadísticas</a>{{ end }}
+</nav>

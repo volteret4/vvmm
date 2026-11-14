@@ -413,6 +413,81 @@ def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
           f' con ≥{minimo} escuchas, {sin_album} sin álbum, {vacias} sin portada')
 
 
+# ── estadísticas (todo el historial) ─────────────────────────────────────────
+
+# una escucha es «nueva» si cae dentro de estos días desde la primera escucha
+# de ese artista / disco / canción
+DIAS_NUEVO = 30
+TOP_ETIQUETAS = 150
+
+
+def estadisticas(raiz, db):
+    """data/escuchas_stats.json: series diarias y sellos/géneros por mes, para la pestaña de estadísticas."""
+    filas = db.execute('''
+        SELECT s.artist_id, s.album_id, al.name, s.track_normalized, s.ts, s.source, ex.label, ex.genres_json
+        FROM scrobbles s LEFT JOIN albums al USING (album_id)
+        LEFT JOIN ex.album_enrichment ex ON ex.lastfm_album_id = s.album_id
+        ORDER BY s.ts''').fetchall()
+    # mismo criterio que scrobbles(): fuera los duplicados Last.fm / ListenBrainz
+    vistas, unicas = {}, []
+    for f in sorted(filas, key=lambda f: f[5] != 'lastfm'):
+        k = (f[0], f[3])
+        if any(abs(f[4] - t) < 300 for t in vistas.get(k, ())):
+            continue
+        vistas.setdefault(k, []).append(f[4])
+        unicas.append(f)
+    unicas.sort(key=lambda f: f[4])
+    gen_artista = {}
+    for artist_id, g in db.execute('SELECT artist_id, g.name FROM artist_genres JOIN genres g USING (genre_id)'):
+        gen_artista.setdefault(artist_id, []).append(g)
+
+    ventana = DIAS_NUEVO * 86400
+    primera = {}  # (tipo, clave) → ts
+    dias = {}     # 'AAAA-MM-DD' → [escuchas, nuevasArt, nuevasAlb, nuevasCan, descArt, descAlb, descCan]
+    sellos, generos = {}, {}  # nombre → {'AAAA-MM': escuchas}
+    for artist_id, album_id, album, track, ts, _, sello, gjson in unicas:
+        dia = datetime.fromtimestamp(ts, TZ).strftime('%Y-%m-%d')
+        d = dias.setdefault(dia, [0] * 7)
+        d[0] += 1
+        claves = [('a', artist_id), ('d', (artist_id, disco_base(album))) if album else None, ('c', (artist_id, track))]
+        for i, k in enumerate(claves):
+            if k is None:
+                continue
+            if k not in primera:
+                primera[k] = ts
+                d[4 + i] += 1
+            if ts - primera[k] < ventana:
+                d[1 + i] += 1
+        mes = dia[:7]
+        if sello and sello.strip() and sello.lower() not in ('[no label]', 'not on label', 'self-released'):
+            m = sellos.setdefault(sello.strip(), {})
+            m[mes] = m.get(mes, 0) + 1
+        try:
+            gs = json.loads(gjson or '[]')
+        except ValueError:
+            gs = []
+        for g in {x.strip().lower() for x in (gs or gen_artista.get(artist_id, []))[:4]} - {'', 'unknown'}:
+            m = generos.setdefault(g, {})
+            m[mes] = m.get(mes, 0) + 1
+
+    def top(tabla):
+        orden = sorted(tabla, key=lambda n: -sum(tabla[n].values()))[:TOP_ETIQUETAS]
+        return {'nombres': orden, 'meses': [tabla[n] for n in orden]}
+
+    out = {
+        'generado': datetime.now(TZ).strftime('%Y-%m-%d'),
+        'dias_nuevo': DIAS_NUEVO,
+        'campos': ['escuchas', 'nuevas_artista', 'nuevas_disco', 'nuevas_cancion',
+                   'artistas_descubiertos', 'discos_descubiertos', 'canciones_descubiertas'],
+        'dias': [[k] + v for k, v in sorted(dias.items())],
+        'sellos': top(sellos),
+        'generos': top(generos),
+    }
+    f = raiz / 'data' / 'escuchas_stats.json'
+    f.write_text(json.dumps(out, ensure_ascii=False, separators=(',', ':')) + '\n')
+    print(f'estadísticas: {len(unicas)} escuchas, {len(dias)} días → {f.relative_to(raiz)} ({f.stat().st_size // 1024} KB)')
+
+
 def limpiar(raiz):
     """Borra de assets/escuchas-portadas/ las portadas que ya no usa ninguna semana."""
     usadas = set()
@@ -472,6 +547,7 @@ def main():
     for anio, s in semanas:
         semana(raiz, db, primera, enmix, anio, s, a.min, a.max, portadas)
     limpiar(raiz)
+    estadisticas(raiz, db)
 
 
 if __name__ == '__main__':

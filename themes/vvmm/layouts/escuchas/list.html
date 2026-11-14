@@ -46,6 +46,7 @@
   <header class="pagehead">
     <h1>{{ .Title }}</h1>
     <p>lo más escuchado cada semana en last.fm · {{ len .Sections }} semanas</p>
+    {{ partial "escuchas-tabs.html" . }}
   </header>
   {{ $semanas := .Sections.ByDate.Reverse }}
   {{ $anios := slice }}
