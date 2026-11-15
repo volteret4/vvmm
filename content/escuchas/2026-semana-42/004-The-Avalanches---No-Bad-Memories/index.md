@@ -6,8 +6,10 @@ album: "No Bad Memories"
 escuchas: 7
 puesto: 4
 semana: "2026-W42"
+clave: "the avalanches|no bad memories"
 nuevo_album: true
 mix: 5
+novedad: true
 portada: "a6ba6cf7f3b76b4b.jpg"
 mbid: "e1457438-1b9c-4016-ba33-ccfa1fc23f12"
 ---
@@ -15,6 +17,8 @@ mbid: "e1457438-1b9c-4016-ba33-ccfa1fc23f12"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e1457438-1b9c-4016-ba33-ccfa1fc23f12)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-16, 3 días antes de acabar la semana
 
 **Escuchas:** 7
 

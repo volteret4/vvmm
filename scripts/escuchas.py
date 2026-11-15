@@ -146,6 +146,110 @@ def mix(raiz, host, sin_copiar):
     return canciones
 
 
+# un disco es «novedad» si se publicó como mucho estos días antes del final de la semana
+DIAS_NOVEDAD = 90
+REEDICION = re.compile(r'remaster|deluxe|anniversary|expanded|reissue|edition|aniversario', re.I)
+
+
+def novedad(fecha, album, fin):
+    """Días desde la publicación hasta el final de la semana, o None si no es novedad.
+
+    Solo con fecha de día o de mes (con solo el año no se sabe) y nunca en reediciones,
+    cuya fecha es la de la reedición."""
+    m = re.fullmatch(r'(\d{4})-(\d{2})(?:-(\d{2}))?', fecha or '')
+    if not m or REEDICION.search(album or ''):
+        return None
+    try:
+        pub = date(int(m.group(1)), int(m.group(2)), int(m.group(3) or 1))
+    except ValueError:
+        return None
+    dias = (fin.date() - pub).days
+    return dias if 0 < dias <= DIAS_NOVEDAD + 7 else None
+
+
+def clave_disco(artist, album):
+    """Clave estable de un disco (data/reproductor_escuchas.json): no cambia con la edición."""
+    return f'{norm(artist)}|{disco_base(album)}'
+
+
+# desde este día mover_mix marca como favorita en Last.fm cada canción que pasa a Mix;
+# antes de él había favoritas por otros motivos y su fecha no dice cuándo entró en Mix
+MIX_FAVORITAS_DESDE = date(2025, 11, 3)
+
+
+def lastfm_key(host):
+    """API key de Last.fm: la del entorno o, si no, la del contenedor lastfm-scrobbles de pepecono."""
+    if os.environ.get('LASTFM_API_KEY'):
+        return os.environ['LASTFM_API_KEY']
+    cmd = 'docker exec lastfm-scrobbles printenv LASTFM_API_KEY'
+    orden = ['bash', '-c', cmd] if host == 'local' else ['ssh', '-o', 'BatchMode=yes', host, cmd]
+    r = subprocess.run(orden, capture_output=True, text=True)
+    return r.stdout.strip()
+
+
+def favoritas(raiz, host, sin_copiar, usuario='paqueradejere'):
+    """[(artista, título, ts)] de las canciones favoritas (loved) en Last.fm."""
+    f = raiz / '.cache' / 'repeat-one' / 'favoritas.json'
+    if sin_copiar and f.exists():
+        return json.loads(f.read_text())
+    key = lastfm_key(host)
+    if not key:
+        print('  · sin API key de Last.fm: las altas en Mix usan solo la primera escucha', file=sys.stderr)
+        return json.loads(f.read_text()) if f.exists() else []
+    out, page, pages = [], 1, 1
+    while page <= pages:
+        q = urllib.parse.urlencode({'method': 'user.getlovedtracks', 'user': usuario, 'limit': 1000,
+                                    'page': page, 'api_key': key, 'format': 'json'})
+        req = urllib.request.Request('https://ws.audioscrobbler.com/2.0/?' + q, headers={'User-Agent': UA})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                d = json.load(r)['lovedtracks']
+        except (urllib.error.URLError, TimeoutError, KeyError, ValueError) as e:
+            print(f'  · favoritas de Last.fm: {e}', file=sys.stderr)
+            return json.loads(f.read_text()) if f.exists() else []
+        pages = int(d['@attr']['totalPages'])
+        out += [(t['artist']['name'], t['name'], int(t['date']['uts'])) for t in d['track'] if t.get('date')]
+        page += 1
+    f.write_text(json.dumps(out, ensure_ascii=False))
+    return out
+
+
+def mix_altas(raiz, db, host, sin_copiar):
+    """Fecha de alta en Mix de cada canción: favorita en Last.fm (desde MIX_FAVORITAS_DESDE) o primera escucha.
+
+    Devuelve ({'AAAA-MM-DD': [por favorita, por primera escucha]}, sin fecha)."""
+    f = raiz / '.cache' / 'repeat-one' / 'mix.db'
+    if not f.exists():
+        return {}, 0
+    desde = datetime.combine(MIX_FAVORITAS_DESDE, datetime.min.time(), TZ).timestamp()
+    fav = {}
+    for artist, title, ts in favoritas(raiz, host, sin_copiar):
+        if ts >= desde:
+            k = (norm(artist), disco_base(title))
+            fav[k] = min(ts, fav.get(k, ts))
+    primera = {}
+    q = 'SELECT ar.name, s.track, min(s.ts) FROM scrobbles s JOIN artists ar USING (artist_id) GROUP BY s.artist_id, s.track_normalized'
+    for artist, track, ts in db.execute(q):
+        k = (norm(artist), disco_base(track))
+        primera[k] = min(ts, primera.get(k, ts))
+    dias, sin = {}, 0
+    mdb = sqlite3.connect(f'file:{f}?mode=ro', uri=True)
+    for artist, title, ruta in mdb.execute('SELECT artist, title, file_path FROM songs'):
+        if '/.' in (ruta or ''):
+            continue
+        k = (norm(artist or ''), disco_base(title))
+        if k in fav:
+            ts, i = fav[k], 0
+        elif k in primera:
+            ts, i = primera[k], 1
+        else:
+            sin += 1
+            continue
+        d = dias.setdefault(datetime.fromtimestamp(ts, TZ).strftime('%Y-%m-%d'), [0, 0])
+        d[i] += 1
+    return dias, sin
+
+
 def limites(anio, semana):
     """Lunes 00:00 y lunes siguiente 00:00 (hora de Madrid) de una semana ISO."""
     lunes = date.fromisocalendar(anio, semana, 1)
@@ -344,6 +448,7 @@ def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
         f = ficha(db, a['id'], a['artist_id'])
         portada = portadas.get(a['artist'], a['album'], f['mbid'])
         vacias += not portada
+        a['novedad'] = novedad(f['fecha'], a['album'], fin)
         lineas = [
             '---',
             f'title: {q(a["artist"] + " - " + a["album"])}',
@@ -354,6 +459,7 @@ def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
             f'escuchas: {a["n"]}',
             f'puesto: {i}',
             f'semana: "{anio}-W{sem:02d}"',
+            f'clave: {q(clave_disco(a["artist"], a["album"]))}',
         ]
         if a['nuevo_artista']:
             lineas.append('nuevo_artista: true')
@@ -361,6 +467,8 @@ def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
             lineas.append('nuevo_album: true')
         if a['mix']:
             lineas.append(f'mix: {len(a["mix"])}')
+        if a['novedad'] is not None:
+            lineas.append('novedad: true')
         if portada:
             lineas.append(f'portada: "{portada}"')
         if f['mbid']:
@@ -373,6 +481,8 @@ def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
             lineas += ['', '**Primera vez:** primera semana escuchando a este artista']
         elif a['nuevo_album']:
             lineas += ['', '**Primera vez:** primera semana escuchando este disco']
+        if a['novedad'] is not None:
+            lineas += ['', f'**Novedad:** publicado el {f["fecha"]}, {a["novedad"]} días antes de acabar la semana']
         lineas += ['', f'**Escuchas:** {a["n"]}', '', f'**Puesto:** {i} de {len(albumes)}', '',
                    f'**Canciones distintas:** {len(a["canciones"])}', '']
         if a['mix']:
@@ -405,6 +515,7 @@ def semana(raiz, db, primera, enmix, anio, sem, minimo, maximo, portadas):
         f'nuevos_artistas: {sum(a["nuevo_artista"] for a in albumes)}',
         f'nuevos_albumes: {sum(a["nuevo_album"] for a in albumes)}',
         f'mix: {sum(len(a["mix"]) for a in albumes)}',
+        f'novedades: {sum(a["novedad"] is not None for a in albumes)}',
         f'completa: {str(completa).lower()}',
         '---',
     ]) + '\n')
@@ -421,7 +532,7 @@ DIAS_NUEVO = 30
 TOP_ETIQUETAS = 150
 
 
-def estadisticas(raiz, db):
+def estadisticas(raiz, db, host='pepecono', sin_copiar=False):
     """data/escuchas_stats.json: series diarias y sellos/géneros por mes, para la pestaña de estadísticas."""
     filas = db.execute('''
         SELECT s.artist_id, s.album_id, al.name, s.track_normalized, s.ts, s.source, ex.label, ex.genres_json
@@ -481,8 +592,12 @@ def estadisticas(raiz, db):
                    'artistas_descubiertos', 'discos_descubiertos', 'canciones_descubiertas'],
         'dias': [[k] + v for k, v in sorted(dias.items())],
         'sellos': top(sellos),
+        'mix_desde_favoritas': MIX_FAVORITAS_DESDE.isoformat(),
         'generos': top(generos),
     }
+    altas, sin = mix_altas(raiz, db, host, sin_copiar)
+    out['mix'] = [[k] + v for k, v in sorted(altas.items())]
+    out['mix_sin_fecha'] = sin
     f = raiz / 'data' / 'escuchas_stats.json'
     f.write_text(json.dumps(out, ensure_ascii=False, separators=(',', ':')) + '\n')
     print(f'estadísticas: {len(unicas)} escuchas, {len(dias)} días → {f.relative_to(raiz)} ({f.stat().st_size // 1024} KB)')
@@ -547,7 +662,7 @@ def main():
     for anio, s in semanas:
         semana(raiz, db, primera, enmix, anio, s, a.min, a.max, portadas)
     limpiar(raiz)
-    estadisticas(raiz, db)
+    estadisticas(raiz, db, a.host, a.sin_copiar)
 
 
 if __name__ == '__main__':

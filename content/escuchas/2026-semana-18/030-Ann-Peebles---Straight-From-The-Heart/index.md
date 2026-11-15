@@ -6,6 +6,7 @@ album: "Straight From The Heart"
 escuchas: 4
 puesto: 30
 semana: "2026-W18"
+clave: "ann peebles|straight from the heart"
 mix: 3
 portada: "db2f4383179185d0.jpg"
 ---

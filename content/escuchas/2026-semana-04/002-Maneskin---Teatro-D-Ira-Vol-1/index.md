@@ -6,6 +6,7 @@ album: "Teatro D'Ira Vol. 1"
 escuchas: 4
 puesto: 2
 semana: "2026-W04"
+clave: "maneskin|teatro d ira vol 1"
 nuevo_album: true
 portada: "352cb70893cb07c5.jpg"
 ---

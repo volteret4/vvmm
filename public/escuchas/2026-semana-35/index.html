@@ -1,0 +1,586 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 35 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 35 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-35/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-35/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 35 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 35<small>2026</small></h1>
+    <p>24–30 ago 2026 · 229 escuchas · 21 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 8 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 12 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 4 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-36/">← semana 36</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-34/">semana 34 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/001-krafty-kuts---freakshow/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b3cbae29e3ab9351_hu_b4b90ea6c886a21b.webp" width="360" height="360" loading="lazy" alt="Krafty Kuts - Freakshow">
+          
+        </div>
+        <div class="cap">
+          <b>Freakshow</b>
+          <span>Krafty Kuts</span>
+          <time>#1 · 19 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/002-interpol---this-mirror-weighs-a-ton/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/38a3c0dfe2b5bf4f_hu_347741d6461339a2.webp" width="360" height="360" loading="lazy" alt="Interpol - This Mirror Weighs A Ton">
+          
+        </div>
+        <div class="cap">
+          <b>This Mirror Weighs A Ton</b>
+          <span>Interpol</span>
+          <time>#2 · 13 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/003-alabama-shakes---i-must-be-dreaming/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c93b12a671df9ce6_hu_ee08ffde73a54b61.webp" width="360" height="360" loading="lazy" alt="Alabama Shakes - I Must Be Dreaming">
+          
+        </div>
+        <div class="cap">
+          <b>I Must Be Dreaming</b>
+          <span>Alabama Shakes</span>
+          <time>#3 · 13 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/004-the-crystal-method---legion-of-boom/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7a92ba23d8c602ae_hu_901698878d948020.webp" width="360" height="360" loading="lazy" alt="The Crystal Method - Legion of Boom">
+          
+        </div>
+        <div class="cap">
+          <b>Legion of Boom</b>
+          <span>The Crystal Method</span>
+          <time>#4 · 12 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/005-chelsea-wolfe---the-dark/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/eb6e089fed345fd8_hu_207a2c5f8c4db965.webp" width="360" height="360" loading="lazy" alt="Chelsea Wolfe - The Dark">
+          
+        </div>
+        <div class="cap">
+          <b>The Dark</b>
+          <span>Chelsea Wolfe</span>
+          <time>#5 · 10 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/006-stanton-warriors---the-warriors/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6e1768bc221a0055_hu_ff850eeabd6fcae1.webp" width="360" height="360" loading="lazy" alt="Stanton Warriors - The Warriors">
+          
+        </div>
+        <div class="cap">
+          <b>The Warriors</b>
+          <span>Stanton Warriors</span>
+          <time>#6 · 9 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/007-biosphere---substrata/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f273a399e8d904da_hu_159616bf7561993.webp" width="360" height="360" loading="lazy" alt="Biosphere - Substrata">
+          
+        </div>
+        <div class="cap">
+          <b>Substrata</b>
+          <span>Biosphere</span>
+          <time>#7 · 8 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/008-orbital---snivilisation/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f2d71f896ea357e5_hu_af71ab3780fc6056.webp" width="360" height="360" loading="lazy" alt="Orbital - Snivilisation">
+          
+        </div>
+        <div class="cap">
+          <b>Snivilisation</b>
+          <span>Orbital</span>
+          <time>#8 · 8 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/009-russian-circles---nine/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/79488c6863c25552_hu_11c2cf388d39edb7.webp" width="360" height="360" loading="lazy" alt="Russian Circles - Nine">
+          
+        </div>
+        <div class="cap">
+          <b>Nine</b>
+          <span>Russian Circles</span>
+          <time>#9 · 7 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/010-stanton-warriors---rebel-bass/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/5b68c7d9c97e0489_hu_c59c99ff8fded8ff.webp" width="360" height="360" loading="lazy" alt="Stanton Warriors - Rebel Bass">
+          
+        </div>
+        <div class="cap">
+          <b>Rebel Bass</b>
+          <span>Stanton Warriors</span>
+          <time>#10 · 7 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/011-2026-08-25---unknown-artist-unknown-album/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e7bb37f44d912687_hu_b43d635b74a7dcd7.webp" width="360" height="360" loading="lazy" alt="2026-08-25 - Unknown Artist - Unknown Album">
+          
+        </div>
+        <div class="cap">
+          <b>Unknown Artist - Unknown Album</b>
+          <span>2026-08-25</span>
+          <time>#11 · 5 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/012-aquasky---teamplayers/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f2abe34a9ce74cb6_hu_20db72c28fd7ead9.webp" width="360" height="360" loading="lazy" alt="Aquasky - Teamplayers">
+          
+        </div>
+        <div class="cap">
+          <b>Teamplayers</b>
+          <span>Aquasky</span>
+          <time>#12 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/013-aquasky---aftershock/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/3642b49c19612fea_hu_f27b2041f1e8e28f.webp" width="360" height="360" loading="lazy" alt="Aquasky - Aftershock">
+          
+        </div>
+        <div class="cap">
+          <b>Aftershock</b>
+          <span>Aquasky</span>
+          <time>#13 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/014-colombo---antiques-of-the-future/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6f34d78eac508140_hu_211f01761a540104.webp" width="360" height="360" loading="lazy" alt="Colombo - Antiques of the future">
+          
+        </div>
+        <div class="cap">
+          <b>Antiques of the future</b>
+          <span>Colombo</span>
+          <time>#14 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/015-hybrid---morning-sci-fi/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c785d8ef3774e3dd_hu_f72075afb709f713.webp" width="360" height="360" loading="lazy" alt="Hybrid - Morning Sci-Fi">
+          
+        </div>
+        <div class="cap">
+          <b>Morning Sci-Fi</b>
+          <span>Hybrid</span>
+          <time>#15 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/016-the-prodigy---more-music-for-the-jilted-generation/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e4b57e2249c8569a_hu_61f1954116374a32.webp" width="360" height="360" loading="lazy" alt="The Prodigy - More Music for the Jilted Generation">
+          
+        </div>
+        <div class="cap">
+          <b>More Music for the Jilted Generation</b>
+          <span>The Prodigy</span>
+          <time>#16 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/017-bad-boys-blue---save-your-love/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ccd043ec408578a7_hu_c2435996e7cb1682.webp" width="360" height="360" loading="lazy" alt="Bad Boys Blue - Save Your Love">
+          
+        </div>
+        <div class="cap">
+          <b>Save Your Love</b>
+          <span>Bad Boys Blue</span>
+          <time>#17 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/018-efdemin---mirror-phase-ep/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/002684ba7ede03c3_hu_63fd385ad2bd87db.webp" width="360" height="360" loading="lazy" alt="Efdemin - Mirror Phase EP">
+          
+        </div>
+        <div class="cap">
+          <b>Mirror Phase EP</b>
+          <span>Efdemin</span>
+          <time>#18 · 3 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/019-ils---soul-trader/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d5d9b1415e67bccf_hu_56a28c3a2039a0c6.webp" width="360" height="360" loading="lazy" alt="Ils - Soul Trader">
+          
+        </div>
+        <div class="cap">
+          <b>Soul Trader</b>
+          <span>Ils</span>
+          <time>#19 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/020-noisia---block-control-ep/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c943c0549836530b_hu_4bd1caed0a0212b6.webp" width="360" height="360" loading="lazy" alt="Noisia - Block Control EP">
+          
+        </div>
+        <div class="cap">
+          <b>Block Control EP</b>
+          <span>Noisia</span>
+          <time>#20 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-35/021-the-crystal-method---vegas/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b41f329c930eb926_hu_c08a68540cf6e345.webp" width="360" height="360" loading="lazy" alt="The Crystal Method - Vegas">
+          
+        </div>
+        <div class="cap">
+          <b>Vegas</b>
+          <span>The Crystal Method</span>
+          <time>#21 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

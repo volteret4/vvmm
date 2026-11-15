@@ -6,6 +6,7 @@ album: "Conditions of My Parole"
 escuchas: 3
 puesto: 18
 semana: "2026-W21"
+clave: "puscifer|conditions of my parole"
 mix: 2
 portada: "1ba7d2b85274510a.jpg"
 ---

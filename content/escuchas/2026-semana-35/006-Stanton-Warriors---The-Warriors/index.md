@@ -6,6 +6,7 @@ album: "The Warriors"
 escuchas: 9
 puesto: 6
 semana: "2026-W35"
+clave: "stanton warriors|the warriors"
 nuevo_artista: true
 nuevo_album: true
 mix: 3

@@ -6,6 +6,7 @@ album: "In Good Taste"
 escuchas: 9
 puesto: 10
 semana: "2026-W18"
+clave: "flavor|in good taste"
 nuevo_artista: true
 nuevo_album: true
 mix: 3

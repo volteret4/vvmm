@@ -6,6 +6,7 @@ album: "Comfort in Misery"
 escuchas: 3
 puesto: 40
 semana: "2026-W45"
+clave: "maenad veyl the sarcasm ensemble|comfort in misery"
 nuevo_artista: true
 nuevo_album: true
 portada: "62065a6ebb512975.jpg"

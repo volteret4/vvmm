@@ -6,12 +6,16 @@ album: "Redux"
 escuchas: 3
 puesto: 5
 semana: "2026-W05"
+clave: "cat power|redux"
 nuevo_album: true
+novedad: true
 portada: "445c288f5d24cfa0.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Cat+Power/Redux)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-01-23, 10 días antes de acabar la semana
 
 **Escuchas:** 3
 

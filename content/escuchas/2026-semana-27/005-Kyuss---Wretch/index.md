@@ -6,6 +6,7 @@ album: "Wretch"
 escuchas: 10
 puesto: 5
 semana: "2026-W27"
+clave: "kyuss|wretch"
 portada: "270bbe0023ee92a2.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kyuss/Wretch)

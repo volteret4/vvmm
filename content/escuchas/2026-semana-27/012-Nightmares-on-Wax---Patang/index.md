@@ -6,6 +6,7 @@ album: "Patang"
 escuchas: 4
 puesto: 12
 semana: "2026-W27"
+clave: "nightmares on wax|patang"
 nuevo_album: true
 mix: 1
 portada: "f0395a5543246951.jpg"

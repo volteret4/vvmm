@@ -6,6 +6,7 @@ album: "Secrets of You"
 escuchas: 4
 puesto: 25
 semana: "2026-W18"
+clave: "the pioneers|secrets of you"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

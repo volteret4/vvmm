@@ -6,6 +6,7 @@ album: "The Adventures Of Kindaichi Kosuke"
 escuchas: 5
 puesto: 29
 semana: "2026-W16"
+clave: "the mystery kindaichi band|the adventures of kindaichi kosuke"
 nuevo_artista: true
 nuevo_album: true
 portada: "668eefbcf3c77221.png"

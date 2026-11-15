@@ -6,6 +6,7 @@ album: "Stressmanagement"
 escuchas: 4
 puesto: 15
 semana: "2026-W15"
+clave: "skee mask|stressmanagement"
 nuevo_album: true
 portada: "234f92af7181ec6d.jpg"
 mbid: "f57be2c2-9192-4079-828c-2144ca6a272c"

@@ -6,6 +6,7 @@ album: "Y"
 escuchas: 11
 puesto: 10
 semana: "2026-W10"
+clave: "the pop group|y"
 nuevo_artista: true
 nuevo_album: true
 portada: "89dc5a86c4f22d62.png"

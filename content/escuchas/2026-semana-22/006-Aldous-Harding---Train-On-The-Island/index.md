@@ -6,13 +6,17 @@ album: "Train On The Island"
 escuchas: 9
 puesto: 6
 semana: "2026-W22"
+clave: "aldous harding|train on the island"
 nuevo_album: true
 mix: 2
+novedad: true
 portada: "f6e4fd751d7026f8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Aldous+Harding/Train+On+The+Island)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-05-08, 24 días antes de acabar la semana
 
 **Escuchas:** 9
 

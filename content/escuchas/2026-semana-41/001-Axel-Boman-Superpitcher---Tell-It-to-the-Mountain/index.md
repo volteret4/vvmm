@@ -6,8 +6,10 @@ album: "Tell It to the Mountain"
 escuchas: 10
 puesto: 1
 semana: "2026-W41"
+clave: "axel boman superpitcher|tell it to the mountain"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "756fe95d067c5374.jpg"
 mbid: "1a0a50d8-a9bc-42b1-b186-5534ec5deaf5"
 ---
@@ -15,6 +17,8 @@ mbid: "1a0a50d8-a9bc-42b1-b186-5534ec5deaf5"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/1a0a50d8-a9bc-42b1-b186-5534ec5deaf5)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-09-25, 17 días antes de acabar la semana
 
 **Escuchas:** 10
 

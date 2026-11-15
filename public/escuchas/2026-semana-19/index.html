@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 19 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 19 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-19/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-19/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 19 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 19<small>2026</small></h1>
+    <p>4–10 may 2026 · 103 escuchas · 3 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      
+      <span><i class="nuevo">✦</i> 2 discos nuevos de artistas conocidos</span>
+      
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-20/">← semana 20</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-18/">semana 18 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-19/001-willie-hutch---soul-portrait/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/86976d218f590fb7_hu_c12d4908a892d333.webp" width="360" height="360" loading="lazy" alt="Willie Hutch - Soul Portrait">
+          
+        </div>
+        <div class="cap">
+          <b>Soul Portrait</b>
+          <span>Willie Hutch</span>
+          <time>#1 · 7 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-19/002-willie-hutch---concert-in-blues/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a5a45643002f119d_hu_d68d94597a1c83f7.webp" width="360" height="360" loading="lazy" alt="Willie Hutch - Concert in Blues">
+          
+        </div>
+        <div class="cap">
+          <b>Concert in Blues</b>
+          <span>Willie Hutch</span>
+          <time>#2 · 5 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-19/003-willie-hutch---the-mack/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8740f34631e316d3_hu_7b403a06ad3cb482.webp" width="360" height="360" loading="lazy" alt="Willie Hutch - The Mack">
+          
+        </div>
+        <div class="cap">
+          <b>The Mack</b>
+          <span>Willie Hutch</span>
+          <time>#3 · 3 escuchas · <span class="corazon" title="5 en Mix">♥ 5</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

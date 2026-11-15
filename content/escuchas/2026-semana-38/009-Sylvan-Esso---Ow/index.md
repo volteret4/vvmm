@@ -6,7 +6,9 @@ album: "Ow ∞"
 escuchas: 4
 puesto: 9
 semana: "2026-W38"
+clave: "sylvan esso|ow"
 nuevo_album: true
+novedad: true
 portada: "f630c92457b3d768.jpg"
 mbid: "d46f5e90-17e4-47c6-8765-551f7280e94a"
 ---
@@ -14,6 +16,8 @@ mbid: "d46f5e90-17e4-47c6-8765-551f7280e94a"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d46f5e90-17e4-47c6-8765-551f7280e94a)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-09-11, 10 días antes de acabar la semana
 
 **Escuchas:** 4
 

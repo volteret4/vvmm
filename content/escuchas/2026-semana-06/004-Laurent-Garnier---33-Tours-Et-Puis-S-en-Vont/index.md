@@ -6,6 +6,7 @@ album: "33 Tours Et Puis S'en Vont"
 escuchas: 7
 puesto: 4
 semana: "2026-W06"
+clave: "laurent garnier|33 tours et puis s en vont"
 portada: "c6a8ee7c30e247dc.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Laurent+Garnier/33+Tours+Et+Puis+S%27en+Vont)

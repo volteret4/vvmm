@@ -6,6 +6,7 @@ album: "LP2"
 escuchas: 5
 puesto: 14
 semana: "2026-W03"
+clave: "los punsetes|lp2"
 mix: 2
 portada: "a7518f31d93e0f34.jpg"
 ---

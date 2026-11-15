@@ -6,6 +6,7 @@ album: "5000 Volts (2016 Reissue)"
 escuchas: 3
 puesto: 44
 semana: "2026-W18"
+clave: "5000 volts|5000 volts"
 mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/5000+Volts/5000+Volts+%282016+Reissue%29)

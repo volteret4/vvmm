@@ -6,6 +6,7 @@ album: "Blues for the Red Sun"
 escuchas: 16
 puesto: 4
 semana: "2026-W10"
+clave: "kyuss|blues for the red sun"
 nuevo_artista: true
 nuevo_album: true
 portada: "72333f858dda59df.png"

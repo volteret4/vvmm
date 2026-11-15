@@ -6,6 +6,7 @@ album: "I Built You A Tower"
 escuchas: 4
 puesto: 26
 semana: "2026-W44"
+clave: "death cab for cutie|i built you a tower"
 portada: "bc6f5e552a3ea68e.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Death+Cab+for+Cutie/I+Built+You+A+Tower)

@@ -6,6 +6,7 @@ album: "A Magic World"
 escuchas: 8
 puesto: 8
 semana: "2026-W15"
+clave: "kas st|a magic world"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

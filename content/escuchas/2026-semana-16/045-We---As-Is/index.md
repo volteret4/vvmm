@@ -6,6 +6,7 @@ album: "As Is."
 escuchas: 4
 puesto: 45
 semana: "2026-W16"
+clave: "we|as is"
 nuevo_artista: true
 nuevo_album: true
 portada: "38a931523df4897f.jpg"

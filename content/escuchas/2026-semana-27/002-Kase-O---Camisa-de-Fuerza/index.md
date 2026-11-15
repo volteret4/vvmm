@@ -6,13 +6,17 @@ album: "Camisa de Fuerza"
 escuchas: 25
 puesto: 2
 semana: "2026-W27"
+clave: "kase o|camisa de fuerza"
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "7c575b66cf076b32.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kase.O/Camisa+de+Fuerza)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-06-19, 17 días antes de acabar la semana
 
 **Escuchas:** 25
 

@@ -6,6 +6,7 @@ album: "Please: Further Listening 1984-1986 (2018 Remastered Version)"
 escuchas: 24
 puesto: 1
 semana: "2026-W10"
+clave: "pet shop boys|please further listening 1984 1986"
 nuevo_album: true
 portada: "250e410516a6c189.jpg"
 ---

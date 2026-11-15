@@ -6,8 +6,10 @@ album: "Creature of Habit"
 escuchas: 10
 puesto: 13
 semana: "2026-W13"
+clave: "courtney barnett|creature of habit"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "af2749658ab1d318.jpg"
 mbid: "675fb930-2e62-4726-8ec9-92b2e42a375b"
 ---
@@ -15,6 +17,8 @@ mbid: "675fb930-2e62-4726-8ec9-92b2e42a375b"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/675fb930-2e62-4726-8ec9-92b2e42a375b)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-03-24, 6 días antes de acabar la semana
 
 **Escuchas:** 10
 

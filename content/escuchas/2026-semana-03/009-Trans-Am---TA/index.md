@@ -6,6 +6,7 @@ album: "TA"
 escuchas: 7
 puesto: 9
 semana: "2026-W03"
+clave: "trans am|ta"
 mix: 2
 portada: "038a62be37827536.jpg"
 ---

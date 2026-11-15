@@ -6,6 +6,7 @@ album: "Disco Recharge - Voyage Fly Away - Disc 2"
 escuchas: 5
 puesto: 30
 semana: "2026-W16"
+clave: "voyage|disco recharge voyage fly away disc 2"
 nuevo_album: true
 mbid: "25730898-e378-40ed-b1ef-44648992d8f8"
 ---

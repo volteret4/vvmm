@@ -6,14 +6,18 @@ album: "Happiness Anytime: Part 1"
 escuchas: 4
 puesto: 3
 semana: "2026-W32"
+clave: "leon bridges|happiness anytime part 1"
 nuevo_artista: true
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "fefca0e24248e027.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Leon+Bridges/Happiness+Anytime%3A+Part+1)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-07-17, 24 días antes de acabar la semana
 
 **Escuchas:** 4
 

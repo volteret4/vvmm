@@ -6,6 +6,7 @@ album: "Trance"
 escuchas: 9
 puesto: 3
 semana: "2026-W43"
+clave: "el aviador dro|trance"
 nuevo_artista: true
 nuevo_album: true
 portada: "e4f247a31aa41d8a.jpg"

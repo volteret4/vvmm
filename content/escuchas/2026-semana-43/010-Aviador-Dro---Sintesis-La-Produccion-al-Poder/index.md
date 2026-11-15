@@ -6,6 +6,7 @@ album: "Sintesis: La Produccion al Poder"
 escuchas: 3
 puesto: 10
 semana: "2026-W43"
+clave: "aviador dro|sintesis la produccion al poder"
 nuevo_artista: true
 nuevo_album: true
 mix: 9

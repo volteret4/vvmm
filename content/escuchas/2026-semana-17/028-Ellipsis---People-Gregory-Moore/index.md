@@ -6,6 +6,7 @@ album: "People／Gregory Moore"
 escuchas: 3
 puesto: 28
 semana: "2026-W17"
+clave: "ellipsis|people gregory moore"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

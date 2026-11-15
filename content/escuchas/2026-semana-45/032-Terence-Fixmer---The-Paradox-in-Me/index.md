@@ -6,6 +6,7 @@ album: "The Paradox in Me"
 escuchas: 4
 puesto: 32
 semana: "2026-W45"
+clave: "terence fixmer|the paradox in me"
 nuevo_album: true
 mix: 2
 portada: "b76211ec7fb859c1.jpg"

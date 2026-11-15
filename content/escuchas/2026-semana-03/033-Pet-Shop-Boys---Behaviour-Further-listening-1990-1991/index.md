@@ -6,6 +6,7 @@ album: "Behaviour / Further listening 1990–1991"
 escuchas: 3
 puesto: 33
 semana: "2026-W03"
+clave: "pet shop boys|behaviour further listening 1990 1991"
 portada: "988499278c7bf726.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Pet+Shop+Boys/Behaviour+%2F+Further+listening+1990%E2%80%931991)

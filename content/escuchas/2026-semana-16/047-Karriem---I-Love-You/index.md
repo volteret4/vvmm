@@ -6,6 +6,7 @@ album: "I Love You"
 escuchas: 4
 puesto: 47
 semana: "2026-W16"
+clave: "karriem|i love you"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

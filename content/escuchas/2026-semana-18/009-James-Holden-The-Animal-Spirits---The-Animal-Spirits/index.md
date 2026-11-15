@@ -6,6 +6,7 @@ album: "The Animal Spirits"
 escuchas: 9
 puesto: 9
 semana: "2026-W18"
+clave: "james holden the animal spirits|the animal spirits"
 nuevo_artista: true
 nuevo_album: true
 portada: "ca890852edcb507d.jpg"

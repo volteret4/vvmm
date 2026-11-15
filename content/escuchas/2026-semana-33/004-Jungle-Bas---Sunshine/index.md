@@ -6,6 +6,7 @@ album: "Sunshine"
 escuchas: 4
 puesto: 4
 semana: "2026-W33"
+clave: "jungle bas|sunshine"
 nuevo_artista: true
 nuevo_album: true
 mbid: "91d90876-8b5b-4b09-8b83-b951a6644c60"

@@ -6,6 +6,7 @@ album: "STRUGGLER"
 escuchas: 11
 puesto: 3
 semana: "2026-W03"
+clave: "genesis owusu|struggler"
 portada: "ea539fc2e7c90ccb.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Genesis+Owusu/STRUGGLER)

@@ -6,7 +6,9 @@ album: "Palace for the People"
 escuchas: 7
 puesto: 4
 semana: "2026-W41"
+clave: "greta van fleet|palace for the people"
 nuevo_album: true
+novedad: true
 portada: "5b706500bf7ad5ce.jpg"
 mbid: "c8301d77-fd70-4e3a-b5b3-d20e07b85c6d"
 ---
@@ -14,6 +16,8 @@ mbid: "c8301d77-fd70-4e3a-b5b3-d20e07b85c6d"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c8301d77-fd70-4e3a-b5b3-d20e07b85c6d)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-09, 3 días antes de acabar la semana
 
 **Escuchas:** 7
 

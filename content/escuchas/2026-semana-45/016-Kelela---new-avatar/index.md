@@ -6,6 +6,7 @@ album: "new avatar"
 escuchas: 7
 puesto: 16
 semana: "2026-W45"
+clave: "kelela|new avatar"
 nuevo_artista: true
 nuevo_album: true
 portada: "36c0b5295661680d.png"

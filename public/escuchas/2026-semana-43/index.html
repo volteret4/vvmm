@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 43 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 43 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-43/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-43/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 43 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 43<small>2026</small></h1>
+    <p>19–25 oct 2026 · 127 escuchas · 13 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 10 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 2 discos nuevos de artistas conocidos</span>
+      
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-44/">← semana 44</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-42/">semana 42 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/001-el-aviador-dro---sintesis-la-produccion-al-poder/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/34c3b3e5a9545188_hu_e92e16ac0c01a5f.webp" width="360" height="360" loading="lazy" alt="El Aviador Dro - Sintesis: La Produccion al Poder">
+          
+        </div>
+        <div class="cap">
+          <b>Sintesis: La Produccion al Poder</b>
+          <span>El Aviador Dro</span>
+          <time>#1 · 30 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/002-el-aviador-dro---mecanisburgo/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f7985151bf45dcdf_hu_72132a56fbcbc7ef.webp" width="360" height="360" loading="lazy" alt="El Aviador Dro - Mecanisburgo">
+          
+        </div>
+        <div class="cap">
+          <b>Mecanisburgo</b>
+          <span>El Aviador Dro</span>
+          <time>#2 · 12 escuchas · <span class="corazon" title="6 en Mix">♥ 6</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/003-el-aviador-dro---trance/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e4f247a31aa41d8a_hu_15208715e22a4f82.webp" width="360" height="360" loading="lazy" alt="El Aviador Dro - Trance">
+          
+        </div>
+        <div class="cap">
+          <b>Trance</b>
+          <span>El Aviador Dro</span>
+          <time>#3 · 9 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/004-chichi-peralta---pa-otro-la-o/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/0a5d401f171a0a2e_hu_3f19626037055640.webp" width="360" height="360" loading="lazy" alt="Chichi Peralta - Pa&#39; otro la&#39;o">
+          
+        </div>
+        <div class="cap">
+          <b>Pa&#39; otro la&#39;o</b>
+          <span>Chichi Peralta</span>
+          <time>#4 · 7 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/005-fleetwood-mac---mystery-to-me/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a32f4f32ac40f80d_hu_9cb41ff8f47a10c7.webp" width="360" height="360" loading="lazy" alt="Fleetwood Mac - Mystery to Me">
+          
+        </div>
+        <div class="cap">
+          <b>Mystery to Me</b>
+          <span>Fleetwood Mac</span>
+          <time>#5 · 5 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/006-le-mystere-des-voix-bulgares---le-mystere-des-voix-bulgares-volume-2/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d321a58e8cf6b2e6_hu_b120648a14f64275.webp" width="360" height="360" loading="lazy" alt="Le Mystère Des Voix Bulgares - Le Mystère des Voix Bulgares, Volume 2">
+          
+        </div>
+        <div class="cap">
+          <b>Le Mystère des Voix Bulgares, Volume 2</b>
+          <span>Le Mystère Des Voix Bulgares</span>
+          <time>#6 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/007-10cc---mirror-mirror/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/49e3dcbafb96d864_hu_c1a3bf8055f05466.webp" width="360" height="360" loading="lazy" alt="10cc - Mirror Mirror">
+          
+        </div>
+        <div class="cap">
+          <b>Mirror Mirror</b>
+          <span>10cc</span>
+          <time>#7 · 3 escuchas · <span class="corazon" title="6 en Mix">♥ 6</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/008-neu---neu-86/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/59ee2db5b6f89b07_hu_4d30cdd0f6d00d97.webp" width="360" height="360" loading="lazy" alt="NEU! - NEU! &#39;86">
+          
+        </div>
+        <div class="cap">
+          <b>NEU! &#39;86</b>
+          <span>NEU!</span>
+          <time>#8 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/009-wilfrido-vargas---raices/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/25e8a79ecb9a3418_hu_6c215c171b255860.webp" width="360" height="360" loading="lazy" alt="Wilfrido Vargas - Raices">
+          
+        </div>
+        <div class="cap">
+          <b>Raices</b>
+          <span>Wilfrido Vargas</span>
+          <time>#9 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/010-aviador-dro---sintesis-la-produccion-al-poder/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6f79af72e4a22fba_hu_e92e16ac0c01a5f.webp" width="360" height="360" loading="lazy" alt="Aviador Dro - Sintesis: La Produccion al Poder">
+          
+        </div>
+        <div class="cap">
+          <b>Sintesis: La Produccion al Poder</b>
+          <span>Aviador Dro</span>
+          <time>#10 · 3 escuchas · <span class="corazon" title="9 en Mix">♥ 9</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/011-el-aviador-dro---cromosomas-salvajes/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/88b03c428caa888f_hu_2b2b0c918612794e.webp" width="360" height="360" loading="lazy" alt="El Aviador Dro - Cromosomas Salvajes">
+          
+        </div>
+        <div class="cap">
+          <b>Cromosomas Salvajes</b>
+          <span>El Aviador Dro</span>
+          <time>#11 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/012-le-mystere-des-voix-bulgares---le-mystere-des-voix-bulgares/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8848c8f17ac8d4d8_hu_252c3710108702f5.webp" width="360" height="360" loading="lazy" alt="Le Mystère Des Voix Bulgares - Le Mystère des Voix Bulgares">
+          
+        </div>
+        <div class="cap">
+          <b>Le Mystère des Voix Bulgares</b>
+          <span>Le Mystère Des Voix Bulgares</span>
+          <time>#12 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-43/013-peter-paul-mary---the-best-of-peter-paul-and-mary-ten-years-together/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a23673ff1223b2e5_hu_276ebdba11bda1a3.webp" width="360" height="360" loading="lazy" alt="Peter, Paul &amp; Mary - The Best Of Peter, Paul And Mary: Ten Years Together">
+          
+        </div>
+        <div class="cap">
+          <b>The Best Of Peter, Paul And Mary: Ten Years Together</b>
+          <span>Peter, Paul &amp; Mary</span>
+          <time>#13 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

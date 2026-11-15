@@ -6,6 +6,7 @@ album: "Kiss My Arp"
 escuchas: 11
 puesto: 8
 semana: "2026-W10"
+clave: "andrea parker|kiss my arp"
 nuevo_artista: true
 nuevo_album: true
 portada: "bd3f515872f10a54.jpg"

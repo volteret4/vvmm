@@ -6,6 +6,7 @@ album: "Tarot Sport"
 escuchas: 3
 puesto: 31
 semana: "2026-W03"
+clave: "fuck buttons|tarot sport"
 mix: 3
 portada: "737c1a86f23780c8.jpg"
 ---

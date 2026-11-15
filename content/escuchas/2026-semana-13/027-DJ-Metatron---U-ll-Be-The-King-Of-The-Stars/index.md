@@ -6,6 +6,7 @@ album: "U'll Be The King Of The Stars"
 escuchas: 6
 puesto: 27
 semana: "2026-W13"
+clave: "dj metatron|u ll be the king of the stars"
 nuevo_album: true
 mix: 2
 portada: "82a14e80943d402d.jpg"

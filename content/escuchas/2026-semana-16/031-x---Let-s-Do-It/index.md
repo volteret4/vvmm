@@ -6,6 +6,7 @@ album: "愛は思うまま (Let's Do It)"
 escuchas: 5
 puesto: 31
 semana: "2026-W16"
+clave: "吉田美奈子|愛は思うまま"
 nuevo_album: true
 portada: "d6a1389256e3a7e1.png"
 mbid: "8f767cc7-89e3-45c0-b8b7-748aed7b605d"

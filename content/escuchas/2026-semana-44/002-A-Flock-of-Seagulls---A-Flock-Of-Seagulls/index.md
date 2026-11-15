@@ -6,6 +6,7 @@ album: "A Flock Of Seagulls"
 escuchas: 16
 puesto: 2
 semana: "2026-W44"
+clave: "a flock of seagulls|a flock of seagulls"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

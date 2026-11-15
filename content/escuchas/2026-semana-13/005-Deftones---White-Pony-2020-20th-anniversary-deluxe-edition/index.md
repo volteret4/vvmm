@@ -6,6 +6,7 @@ album: "White Pony (2020 20th anniversary deluxe edition)"
 escuchas: 12
 puesto: 5
 semana: "2026-W13"
+clave: "deftones|white pony"
 portada: "ce39745236da16b8.jpg"
 mbid: "4b78844c-d7c0-4317-a21a-73977c8cde92"
 ---

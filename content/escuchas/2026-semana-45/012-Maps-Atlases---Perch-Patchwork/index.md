@@ -6,6 +6,7 @@ album: "Perch Patchwork"
 escuchas: 8
 puesto: 12
 semana: "2026-W45"
+clave: "maps atlases|perch patchwork"
 nuevo_artista: true
 nuevo_album: true
 portada: "37a0a75ad2bd386b.jpg"

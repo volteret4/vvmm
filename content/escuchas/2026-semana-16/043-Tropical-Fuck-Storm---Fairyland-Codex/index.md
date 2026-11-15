@@ -6,6 +6,7 @@ album: "Fairyland Codex"
 escuchas: 4
 puesto: 43
 semana: "2026-W16"
+clave: "tropical fuck storm|fairyland codex"
 portada: "10ade4272f3864fe.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tropical+Fuck+Storm/Fairyland+Codex)

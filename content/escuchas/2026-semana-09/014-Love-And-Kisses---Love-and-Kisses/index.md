@@ -6,6 +6,7 @@ album: "Love and Kisses"
 escuchas: 3
 puesto: 14
 semana: "2026-W09"
+clave: "love and kisses|love and kisses"
 nuevo_artista: true
 nuevo_album: true
 portada: "9ee71b4bf3b3fe12.jpg"

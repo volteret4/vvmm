@@ -6,6 +6,7 @@ album: "El acto"
 escuchas: 11
 puesto: 5
 semana: "2026-W22"
+clave: "paralisis permanente|el acto"
 nuevo_artista: true
 nuevo_album: true
 portada: "792930c89eb0e6e2.jpg"

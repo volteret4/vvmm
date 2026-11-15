@@ -6,6 +6,7 @@ album: "Through the Window"
 escuchas: 3
 puesto: 11
 semana: "2026-W14"
+clave: "prurient|through the window"
 nuevo_album: true
 portada: "6bfc7728335132d8.png"
 ---

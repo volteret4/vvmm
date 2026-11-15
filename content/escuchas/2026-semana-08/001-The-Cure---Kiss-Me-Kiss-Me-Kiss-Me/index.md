@@ -6,6 +6,7 @@ album: "Kiss Me Kiss Me Kiss Me"
 escuchas: 19
 puesto: 1
 semana: "2026-W08"
+clave: "the cure|kiss me kiss me kiss me"
 mix: 1
 portada: "8bce595bff328eb8.jpg"
 ---

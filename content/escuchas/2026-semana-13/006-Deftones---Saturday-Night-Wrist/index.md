@@ -6,6 +6,7 @@ album: "Saturday Night Wrist"
 escuchas: 12
 puesto: 6
 semana: "2026-W13"
+clave: "deftones|saturday night wrist"
 nuevo_album: true
 portada: "3520f5644d3dedd8.png"
 ---

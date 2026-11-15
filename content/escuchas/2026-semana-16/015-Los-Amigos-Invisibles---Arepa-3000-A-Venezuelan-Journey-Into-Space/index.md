@@ -6,6 +6,7 @@ album: "Arepa 3000: A Venezuelan Journey Into Space"
 escuchas: 7
 puesto: 15
 semana: "2026-W16"
+clave: "los amigos invisibles|arepa 3000 a venezuelan journey into space"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

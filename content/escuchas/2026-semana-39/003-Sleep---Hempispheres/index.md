@@ -6,7 +6,9 @@ album: "Hempispheres"
 escuchas: 3
 puesto: 3
 semana: "2026-W39"
+clave: "sleep|hempispheres"
 nuevo_album: true
+novedad: true
 portada: "9f89df61e8dc2542.jpg"
 mbid: "ff2f36e1-f68e-4b60-8c8b-d50d926f8c8b"
 ---
@@ -14,6 +16,8 @@ mbid: "ff2f36e1-f68e-4b60-8c8b-d50d926f8c8b"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/ff2f36e1-f68e-4b60-8c8b-d50d926f8c8b)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-09-03, 25 días antes de acabar la semana
 
 **Escuchas:** 3
 

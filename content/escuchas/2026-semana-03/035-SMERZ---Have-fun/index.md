@@ -6,6 +6,7 @@ album: "Have fun"
 escuchas: 3
 puesto: 35
 semana: "2026-W03"
+clave: "smerz|have fun"
 portada: "a82398409e5885fe.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/SMERZ/Have+fun)

@@ -6,13 +6,17 @@ album: "If This Is It"
 escuchas: 12
 puesto: 4
 semana: "2026-W23"
+clave: "dj seinfeld|if this is it"
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "21d6160c8dd708ff.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/DJ+Seinfeld/If+This+Is+It)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-06-05, 3 días antes de acabar la semana
 
 **Escuchas:** 12
 

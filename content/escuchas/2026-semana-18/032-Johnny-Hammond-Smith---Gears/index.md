@@ -6,6 +6,7 @@ album: "Gears"
 escuchas: 4
 puesto: 32
 semana: "2026-W18"
+clave: "johnny hammond smith|gears"
 mix: 1
 portada: "bb92dd26c9b33b57.png"
 ---

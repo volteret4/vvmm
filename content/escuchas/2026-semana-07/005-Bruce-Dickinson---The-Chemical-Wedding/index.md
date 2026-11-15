@@ -6,6 +6,7 @@ album: "The Chemical Wedding"
 escuchas: 3
 puesto: 5
 semana: "2026-W07"
+clave: "bruce dickinson|the chemical wedding"
 nuevo_artista: true
 nuevo_album: true
 portada: "483ded7eab168e36.jpg"

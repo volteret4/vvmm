@@ -6,6 +6,7 @@ album: "Aniquilación"
 escuchas: 5
 puesto: 15
 semana: "2026-W03"
+clave: "los punsetes|aniquilacion"
 portada: "1e79ca27a898ea39.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Los+Punsetes/Aniquilaci%C3%B3n)

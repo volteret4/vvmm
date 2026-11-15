@@ -6,6 +6,7 @@ album: "Baby Monkey"
 escuchas: 5
 puesto: 24
 semana: "2026-W45"
+clave: "voodoo child|baby monkey"
 nuevo_artista: true
 nuevo_album: true
 portada: "48d365de62dbe69a.jpg"

@@ -6,8 +6,10 @@ album: "Kontur II"
 escuchas: 3
 puesto: 20
 semana: "2026-W15"
+clave: "luar|kontur ii"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "b073bbd02c3db9eb.jpg"
 mbid: "c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3"
 ---
@@ -15,6 +17,8 @@ mbid: "c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-03-21, 23 días antes de acabar la semana
 
 **Escuchas:** 3
 

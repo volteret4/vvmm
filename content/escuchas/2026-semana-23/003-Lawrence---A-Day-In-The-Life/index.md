@@ -6,6 +6,7 @@ album: "A Day In The Life"
 escuchas: 14
 puesto: 3
 semana: "2026-W23"
+clave: "lawrence|a day in the life"
 nuevo_album: true
 portada: "d7c4efa189de3b33.jpg"
 ---

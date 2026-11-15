@@ -6,6 +6,7 @@ album: "Synthetik"
 escuchas: 15
 puesto: 4
 semana: "2026-W45"
+clave: "komputer|synthetik"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

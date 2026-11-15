@@ -6,6 +6,7 @@ album: "It’s Only Us"
 escuchas: 4
 puesto: 36
 semana: "2026-W18"
+clave: "monophonics|it s only us"
 mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Monophonics/It%E2%80%99s+Only+Us)

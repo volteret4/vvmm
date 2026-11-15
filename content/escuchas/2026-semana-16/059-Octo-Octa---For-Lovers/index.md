@@ -6,6 +6,7 @@ album: "For Lovers"
 escuchas: 3
 puesto: 59
 semana: "2026-W16"
+clave: "octo octa|for lovers"
 portada: "c38d05d134525984.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Octo+Octa/For+Lovers)

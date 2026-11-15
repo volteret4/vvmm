@@ -6,6 +6,7 @@ album: "Uve"
 escuchas: 5
 puesto: 8
 semana: "2026-W26"
+clave: "los estanques|uve"
 nuevo_artista: true
 nuevo_album: true
 portada: "e6fd9f0a018bad0d.jpg"

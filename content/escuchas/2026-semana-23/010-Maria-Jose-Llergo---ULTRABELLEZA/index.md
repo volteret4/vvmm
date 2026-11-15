@@ -6,6 +6,7 @@ album: "ULTRABELLEZA"
 escuchas: 4
 puesto: 10
 semana: "2026-W23"
+clave: "maria jose llergo|ultrabelleza"
 portada: "9a52b8b1ea09703b.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Mar%C3%ADa+Jos%C3%A9+Llergo/ULTRABELLEZA)

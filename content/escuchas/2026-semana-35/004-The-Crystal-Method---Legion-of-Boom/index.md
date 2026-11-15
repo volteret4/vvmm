@@ -6,6 +6,7 @@ album: "Legion of Boom"
 escuchas: 12
 puesto: 4
 semana: "2026-W35"
+clave: "the crystal method|legion of boom"
 nuevo_album: true
 mix: 3
 portada: "7a92ba23d8c602ae.jpg"

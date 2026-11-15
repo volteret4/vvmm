@@ -6,6 +6,7 @@ album: "Free (At Last)"
 escuchas: 15
 puesto: 3
 semana: "2026-W17"
+clave: "platinum 900|free"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

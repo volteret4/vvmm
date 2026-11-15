@@ -6,6 +6,7 @@ album: "The Essential Collection Of Monkey 2025 - Part.1"
 escuchas: 3
 puesto: 5
 semana: "2026-W34"
+clave: "case 82|the essential collection of monkey 2025 part 1"
 nuevo_artista: true
 nuevo_album: true
 portada: "f89ac13f78f5a808.jpg"

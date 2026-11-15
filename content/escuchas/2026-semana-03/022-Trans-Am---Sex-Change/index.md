@@ -6,6 +6,7 @@ album: "Sex Change"
 escuchas: 4
 puesto: 22
 semana: "2026-W03"
+clave: "trans am|sex change"
 mix: 1
 portada: "36133253399ebfae.jpg"
 ---

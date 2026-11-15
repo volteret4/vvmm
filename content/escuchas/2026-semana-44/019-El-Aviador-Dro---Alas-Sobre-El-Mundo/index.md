@@ -6,6 +6,7 @@ album: "Alas Sobre El Mundo"
 escuchas: 6
 puesto: 19
 semana: "2026-W44"
+clave: "el aviador dro|alas sobre el mundo"
 portada: "76e1fd2911ba3655.jpg"
 mbid: "3f640ed6-246a-4f38-b7b4-a0817d9aaedc"
 ---

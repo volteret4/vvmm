@@ -6,9 +6,11 @@ album: "Onward"
 escuchas: 4
 puesto: 8
 semana: "2026-W38"
+clave: "lammoth|onward"
 nuevo_artista: true
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "0243b1c4289a724a.jpg"
 mbid: "8ca2dc86-b92d-476e-ac66-bbb69dd5a10e"
 ---
@@ -16,6 +18,8 @@ mbid: "8ca2dc86-b92d-476e-ac66-bbb69dd5a10e"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/8ca2dc86-b92d-476e-ac66-bbb69dd5a10e)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-08-07, 45 días antes de acabar la semana
 
 **Escuchas:** 4
 

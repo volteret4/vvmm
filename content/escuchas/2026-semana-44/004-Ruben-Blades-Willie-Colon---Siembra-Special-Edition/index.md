@@ -6,6 +6,7 @@ album: "Siembra (Special Edition)"
 escuchas: 12
 puesto: 4
 semana: "2026-W44"
+clave: "ruben blades willie colon|siembra"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

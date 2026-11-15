@@ -6,6 +6,7 @@ album: "Aeternum (Existenz)"
 escuchas: 4
 puesto: 27
 semana: "2026-W45"
+clave: "function|aeternum"
 portada: "2919db7e512a2a70.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Function/Aeternum+%28Existenz%29)

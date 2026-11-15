@@ -6,6 +6,7 @@ album: "5000 Volts (2016 Reissue)"
 escuchas: 12
 puesto: 4
 semana: "2026-W17"
+clave: "5000 volts|5000 volts"
 nuevo_album: true
 mix: 1
 ---

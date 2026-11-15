@@ -6,6 +6,7 @@ album: "Frisky"
 escuchas: 4
 puesto: 21
 semana: "2026-W18"
+clave: "frisky|frisky"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

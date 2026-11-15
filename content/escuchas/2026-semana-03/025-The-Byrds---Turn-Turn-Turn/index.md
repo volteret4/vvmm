@@ -6,6 +6,7 @@ album: "Turn! Turn! Turn!"
 escuchas: 4
 puesto: 25
 semana: "2026-W03"
+clave: "the byrds|turn turn turn"
 mix: 2
 portada: "1e42727164079d4f.png"
 ---

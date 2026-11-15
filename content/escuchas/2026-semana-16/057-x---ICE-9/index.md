@@ -6,6 +6,7 @@ album: "ICE-9"
 escuchas: 3
 puesto: 57
 semana: "2026-W16"
+clave: "平沢進|ice 9"
 portada: "155ae0aeb04a1fd8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/%E5%B9%B3%E6%B2%A2%E9%80%B2/ICE-9)

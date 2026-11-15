@@ -6,6 +6,7 @@ album: "Focus"
 escuchas: 6
 puesto: 24
 semana: "2026-W16"
+clave: "ken ishii yuada|focus"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

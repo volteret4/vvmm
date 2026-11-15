@@ -6,6 +6,7 @@ album: "Cromosomas Salvajes"
 escuchas: 3
 puesto: 11
 semana: "2026-W43"
+clave: "el aviador dro|cromosomas salvajes"
 nuevo_artista: true
 nuevo_album: true
 portada: "88b03c428caa888f.jpg"

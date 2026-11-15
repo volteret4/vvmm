@@ -6,6 +6,7 @@ album: "Theory of Movement"
 escuchas: 12
 puesto: 1
 semana: "2026-W18"
+clave: "theory of movement|theory of movement"
 nuevo_artista: true
 nuevo_album: true
 portada: "411139697b9d5dea.jpg"

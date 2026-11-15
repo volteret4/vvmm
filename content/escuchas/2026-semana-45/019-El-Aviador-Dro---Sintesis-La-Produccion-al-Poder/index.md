@@ -6,6 +6,7 @@ album: "Sintesis: La Produccion al Poder"
 escuchas: 6
 puesto: 19
 semana: "2026-W45"
+clave: "el aviador dro|sintesis la produccion al poder"
 portada: "34c3b3e5a9545188.jpg"
 mbid: "f64ff3ab-5cf1-484b-9a23-a2504e3f1531"
 ---

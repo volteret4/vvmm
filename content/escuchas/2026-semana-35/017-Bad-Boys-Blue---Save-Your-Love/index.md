@@ -6,6 +6,7 @@ album: "Save Your Love"
 escuchas: 3
 puesto: 17
 semana: "2026-W35"
+clave: "bad boys blue|save your love"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

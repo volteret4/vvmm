@@ -6,6 +6,7 @@ album: "Venq Tolep"
 escuchas: 3
 puesto: 12
 semana: "2026-W24"
+clave: "robag wruhme|venq tolep"
 nuevo_album: true
 portada: "c903b4d07d192a62.jpg"
 ---

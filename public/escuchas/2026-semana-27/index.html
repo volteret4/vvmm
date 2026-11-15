@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 27 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 27 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-27/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-27/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 27 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 27<small>2026</small></h1>
+    <p>29 jun – 5 jul 2026 · 145 escuchas · 13 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 2 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 9 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 7 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-30/">← semana 30</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-26/">semana 26 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/001-genghis-tron---signal-fire/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/49abdda6eb2937ae_hu_d53038d726f7acf0.webp" width="360" height="360" loading="lazy" alt="Genghis Tron - Signal Fire">
+          
+        </div>
+        <div class="cap">
+          <b>Signal Fire</b>
+          <span>Genghis Tron</span>
+          <time>#1 · 30 escuchas</time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/002-kase-o---camisa-de-fuerza/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7c575b66cf076b32_hu_c989d5f4b94ec861.webp" width="360" height="360" loading="lazy" alt="Kase.O - Camisa de Fuerza">
+          
+        </div>
+        <div class="cap">
+          <b>Camisa de Fuerza</b>
+          <span>Kase.O</span>
+          <time>#2 · 25 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/003-placebo---placebo-re-created/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f33881fbe735ea09_hu_9f3633359050dd0e.webp" width="360" height="360" loading="lazy" alt="Placebo - Placebo RE:CREATED">
+          
+        </div>
+        <div class="cap">
+          <b>Placebo RE:CREATED</b>
+          <span>Placebo</span>
+          <time>#3 · 18 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/004-resavoir---themes-for-dreams/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4e556e265f35d240_hu_f490cc132dff7de3.webp" width="360" height="360" loading="lazy" alt="Resavoir - Themes for Dreams">
+          
+        </div>
+        <div class="cap">
+          <b>Themes for Dreams</b>
+          <span>Resavoir</span>
+          <time>#4 · 14 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/005-kyuss---wretch/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/270bbe0023ee92a2_hu_4410ffc029b29aa8.webp" width="360" height="360" loading="lazy" alt="Kyuss - Wretch">
+          
+        </div>
+        <div class="cap">
+          <b>Wretch</b>
+          <span>Kyuss</span>
+          <time>#5 · 10 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/006-beth-orton---the-ground-above/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/362b4afd41d1c043_hu_3f31de91dbda5f9d.webp" width="360" height="360" loading="lazy" alt="Beth Orton - The Ground Above">
+          
+        </div>
+        <div class="cap">
+          <b>The Ground Above</b>
+          <span>Beth Orton</span>
+          <time>#6 · 8 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/007-bot1500---the-black-sea/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/33af2502d71f7346_hu_7393ead0be464aba.webp" width="360" height="360" loading="lazy" alt="BOT1500 - The Black Sea">
+          
+        </div>
+        <div class="cap">
+          <b>The Black Sea</b>
+          <span>BOT1500</span>
+          <time>#7 · 8 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/008-mono---snowdrop/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d8df77bf384b8082_hu_bdb068c85f673928.webp" width="360" height="360" loading="lazy" alt="Mono - Snowdrop">
+          
+        </div>
+        <div class="cap">
+          <b>Snowdrop</b>
+          <span>Mono</span>
+          <time>#8 · 8 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/009-the-new-pornographers---the-former-site-of/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/63c48a96841babc6_hu_b9a9a236d0bcc122.webp" width="360" height="360" loading="lazy" alt="The New Pornographers - The Former Site Of">
+          
+        </div>
+        <div class="cap">
+          <b>The Former Site Of</b>
+          <span>The New Pornographers</span>
+          <time>#9 · 7 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/010-rhye---joy/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b762e6c1b3e4d922_hu_fea7434f2ccf730b.webp" width="360" height="360" loading="lazy" alt="Rhye - JOY">
+          
+        </div>
+        <div class="cap">
+          <b>JOY</b>
+          <span>Rhye</span>
+          <time>#10 · 6 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/011-lake-street-dive-lawrence---lake-street-dive-lawrence-the-city-winery-sessions/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/976f244ac80787f2_hu_d0d921721ae3248e.webp" width="360" height="360" loading="lazy" alt="Lake Street Dive &amp; Lawrence - Lake Street Dive &amp; Lawrence: The City Winery Sessions">
+          
+        </div>
+        <div class="cap">
+          <b>Lake Street Dive &amp; Lawrence: The City Winery Sessions</b>
+          <span>Lake Street Dive &amp; Lawrence</span>
+          <time>#11 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/012-nightmares-on-wax---patang/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f0395a5543246951_hu_828a7ef71d46961.webp" width="360" height="360" loading="lazy" alt="Nightmares on Wax - Patang">
+          
+        </div>
+        <div class="cap">
+          <b>Patang</b>
+          <span>Nightmares on Wax</span>
+          <time>#12 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-27/013-kyuss---welcome-to-sky-valley/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c90eef41003317fa_hu_a9650a10c8bfdf72.webp" width="360" height="360" loading="lazy" alt="Kyuss - Welcome to Sky Valley">
+          
+        </div>
+        <div class="cap">
+          <b>Welcome to Sky Valley</b>
+          <span>Kyuss</span>
+          <time>#13 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

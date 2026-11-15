@@ -6,13 +6,17 @@ album: "Teen of Denial: Joe’s Story"
 escuchas: 5
 puesto: 8
 semana: "2026-W21"
+clave: "car seat headrest|teen of denial joe s story"
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "2fc977d736fc7cea.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Car+Seat+Headrest/Teen+of+Denial%3A+Joe%E2%80%99s+Story)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-05-20, 5 días antes de acabar la semana
 
 **Escuchas:** 5
 

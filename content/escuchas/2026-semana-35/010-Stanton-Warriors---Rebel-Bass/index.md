@@ -6,6 +6,7 @@ album: "Rebel Bass"
 escuchas: 7
 puesto: 10
 semana: "2026-W35"
+clave: "stanton warriors|rebel bass"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

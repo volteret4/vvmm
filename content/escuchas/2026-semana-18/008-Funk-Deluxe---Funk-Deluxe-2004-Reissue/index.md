@@ -6,6 +6,7 @@ album: "Funk Deluxe (2004 Reissue)"
 escuchas: 9
 puesto: 8
 semana: "2026-W18"
+clave: "funk deluxe|funk deluxe"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

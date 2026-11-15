@@ -6,6 +6,7 @@ album: "Tarkus"
 escuchas: 17
 puesto: 2
 semana: "2026-W16"
+clave: "emerson lake palmer|tarkus"
 portada: "953e1a6a824c470e.jpg"
 mbid: "555377d1-4d3a-45e3-af57-88a29244b996"
 ---

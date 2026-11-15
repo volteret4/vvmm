@@ -6,6 +6,7 @@ album: "…And They Have Escaped The Weight Of Darkness"
 escuchas: 3
 puesto: 5
 semana: "2026-W06"
+clave: "olafur arnalds|and they have escaped the weight of darkness"
 portada: "117b03a3e7834efa.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/%C3%93lafur+Arnalds/%E2%80%A6And+They+Have+Escaped+The+Weight+Of+Darkness)

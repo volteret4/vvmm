@@ -6,6 +6,7 @@ album: "Unreliable Memories Of Contested Conversations"
 escuchas: 7
 puesto: 6
 semana: "2026-W09"
+clave: "galliano|unreliable memories of contested conversations"
 nuevo_album: true
 portada: "3935a74df3439ed4.jpg"
 ---

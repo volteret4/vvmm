@@ -6,6 +6,7 @@ album: "Shadows (Remixes)"
 escuchas: 4
 puesto: 39
 semana: "2026-W16"
+clave: "juantrip|shadows"
 nuevo_artista: true
 nuevo_album: true
 ---

@@ -6,6 +6,7 @@ album: "Look For Your Mind!"
 escuchas: 14
 puesto: 3
 semana: "2026-W22"
+clave: "the lemon twigs|look for your mind"
 nuevo_artista: true
 nuevo_album: true
 portada: "67e056d05e989d00.jpg"

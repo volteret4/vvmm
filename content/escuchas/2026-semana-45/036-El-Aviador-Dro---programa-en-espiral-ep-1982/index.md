@@ -6,6 +6,7 @@ album: "programa en espiral [ep] [1982]"
 escuchas: 3
 puesto: 36
 semana: "2026-W45"
+clave: "el aviador dro|programa en espiral"
 nuevo_album: true
 portada: "6ff1448770a15113.jpg"
 mbid: "0b3f6e2b-ee33-463a-8df1-3f61bff430a4"

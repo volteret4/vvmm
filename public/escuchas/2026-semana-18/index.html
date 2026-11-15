@@ -1,0 +1,1206 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 18 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 18 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-18/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-18/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 18 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 18<small>2026</small></h1>
+    <p>27 abr – 3 may 2026 · 362 escuchas · 52 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 15 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 6 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 1 novedad (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-19/">← semana 19</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-17/">semana 17 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/001-theory-of-movement---theory-of-movement/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/411139697b9d5dea_hu_878915b9a453b593.webp" width="360" height="360" loading="lazy" alt="Theory Of Movement - Theory of Movement">
+          
+        </div>
+        <div class="cap">
+          <b>Theory of Movement</b>
+          <span>Theory Of Movement</span>
+          <time>#1 · 12 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/002-mercury-rev---deserter-s-songs/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bfeabc0319dc709b_hu_f8b8de6580e111e4.webp" width="360" height="360" loading="lazy" alt="Mercury Rev - Deserter&#39;s Songs">
+          
+        </div>
+        <div class="cap">
+          <b>Deserter&#39;s Songs</b>
+          <span>Mercury Rev</span>
+          <time>#2 · 12 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/003-jorge-ben---a-banda-do-ze-pretinho/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b4bce89f4843cac3_hu_8c7cbf1de09f4777.webp" width="360" height="360" loading="lazy" alt="Jorge Ben - A Banda do Zé Pretinho">
+          
+        </div>
+        <div class="cap">
+          <b>A Banda do Zé Pretinho</b>
+          <span>Jorge Ben</span>
+          <time>#3 · 11 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/004-gal-costa---profana/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/dfe6cbc30ffacde6_hu_3c9e78f8ce627006.webp" width="360" height="360" loading="lazy" alt="Gal Costa - Profana">
+          
+        </div>
+        <div class="cap">
+          <b>Profana</b>
+          <span>Gal Costa</span>
+          <time>#4 · 10 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/005-the-south-side-movement---the-south-side-movement/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/90ee7e64e4faf1bc_hu_c6d399d960564a3d.webp" width="360" height="360" loading="lazy" alt="The South Side Movement - The South Side Movement">
+          
+        </div>
+        <div class="cap">
+          <b>The South Side Movement</b>
+          <span>The South Side Movement</span>
+          <time>#5 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/006-cabaret-voltaire---but-what-time-is-it-really/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/edc38ca2696fd0b5_hu_584f1612dd02c384.webp" width="360" height="360" loading="lazy" alt="Cabaret Voltaire - But What Time Is It Really?">
+          
+        </div>
+        <div class="cap">
+          <b>But What Time Is It Really?</b>
+          <span>Cabaret Voltaire</span>
+          <time>#6 · 9 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/007-folamour---umami/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bbab247be53041d5_hu_7939b9d9d1d08a5c.webp" width="360" height="360" loading="lazy" alt="Folamour - Umami">
+          
+        </div>
+        <div class="cap">
+          <b>Umami</b>
+          <span>Folamour</span>
+          <time>#7 · 9 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/008-funk-deluxe---funk-deluxe-2004-reissue/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Funk Deluxe (2004 Reissue)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Funk Deluxe (2004 Reissue)</b>
+          <span>Funk Deluxe</span>
+          <time>#8 · 9 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/009-james-holden-the-animal-spirits---the-animal-spirits/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ca890852edcb507d_hu_e23df4a16043204c.webp" width="360" height="360" loading="lazy" alt="James Holden &amp; The Animal Spirits - The Animal Spirits">
+          
+        </div>
+        <div class="cap">
+          <b>The Animal Spirits</b>
+          <span>James Holden &amp; The Animal Spirits</span>
+          <time>#9 · 9 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/010-flavor---in-good-taste/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/9c9d154fae249feb_hu_2aba4e843f1b97c4.webp" width="360" height="360" loading="lazy" alt="Flavor - In Good Taste">
+          
+        </div>
+        <div class="cap">
+          <b>In Good Taste</b>
+          <span>Flavor</span>
+          <time>#10 · 9 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/011-mandrill---composite-truth/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/31589877313d6bc9_hu_579efdc405085657.webp" width="360" height="360" loading="lazy" alt="Mandrill - Composite Truth">
+          
+        </div>
+        <div class="cap">
+          <b>Composite Truth</b>
+          <span>Mandrill</span>
+          <time>#11 · 8 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/012-natural-gas---natural-gas/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7788d4d0e849edd7_hu_eedc31a0183afbec.webp" width="360" height="360" loading="lazy" alt="Natural Gas - Natural Gas">
+          
+        </div>
+        <div class="cap">
+          <b>Natural Gas</b>
+          <span>Natural Gas</span>
+          <time>#12 · 8 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/013-freedom---free/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4f33aba7451b12a1_hu_3141c77e61450ee2.webp" width="360" height="360" loading="lazy" alt="Freedom - Free">
+          
+        </div>
+        <div class="cap">
+          <b>Free</b>
+          <span>Freedom</span>
+          <time>#13 · 8 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/014-brenda-the-tabulations---little-bit-of-love/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8519574124cfeb0a_hu_a81c5d8f970b272e.webp" width="360" height="360" loading="lazy" alt="Brenda &amp; The Tabulations - Little Bit Of Love">
+          
+        </div>
+        <div class="cap">
+          <b>Little Bit Of Love</b>
+          <span>Brenda &amp; The Tabulations</span>
+          <time>#14 · 6 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/015-x---light-n-up/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6c0d31033d774070_hu_d22ab0b7a9b1c97d.webp" width="360" height="360" loading="lazy" alt="吉田美奈子 - LIGHT&#39;N UP">
+          
+        </div>
+        <div class="cap">
+          <b>LIGHT&#39;N UP</b>
+          <span>吉田美奈子</span>
+          <time>#15 · 6 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/016-x---for-you/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/0d1c91e62633e4ca_hu_97c973693e40dc2d.webp" width="360" height="360" loading="lazy" alt="山下達郎 - FOR YOU">
+          
+        </div>
+        <div class="cap">
+          <b>FOR YOU</b>
+          <span>山下達郎</span>
+          <time>#16 · 6 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/017-marvin-gaye---what-s-going-on/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/92c034ed87d4a5e6_hu_dc0d9b24ce8987c.webp" width="360" height="360" loading="lazy" alt="Marvin Gaye - What&#39;s Going On">
+          
+        </div>
+        <div class="cap">
+          <b>What&#39;s Going On</b>
+          <span>Marvin Gaye</span>
+          <time>#17 · 5 escuchas · <span class="corazon" title="6 en Mix">♥ 6</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/018-maya---lait-de-coco/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/fcee886c6f1a3e52_hu_3e7c6a02b17b212f.webp" width="360" height="360" loading="lazy" alt="Maya - Lait De Coco">
+          
+        </div>
+        <div class="cap">
+          <b>Lait De Coco</b>
+          <span>Maya</span>
+          <time>#18 · 5 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/019-the-9th-creation---reaching-for-the-top/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/067e1308d948b3d7_hu_8ea907d04de74c02.webp" width="360" height="360" loading="lazy" alt="The 9th Creation - Reaching For The Top">
+          
+        </div>
+        <div class="cap">
+          <b>Reaching For The Top</b>
+          <span>The 9th Creation</span>
+          <time>#19 · 5 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/020-krystal-klear---the-division/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e57fe4256525177f_hu_f4d174ca3089a7e7.webp" width="360" height="360" loading="lazy" alt="Krystal Klear - The Division">
+          
+        </div>
+        <div class="cap">
+          <b>The Division</b>
+          <span>Krystal Klear</span>
+          <time>#20 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/021-frisky---frisky/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/50e51a176c9f415f_hu_439bf66dd4216246.webp" width="360" height="360" loading="lazy" alt="Frisky - Frisky">
+          
+        </div>
+        <div class="cap">
+          <b>Frisky</b>
+          <span>Frisky</span>
+          <time>#21 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/022-heaven-sent-ectsasy---the-greatest-love-story-2006-reissue/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>The Greatest Love Story (2006 Reissue)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>The Greatest Love Story (2006 Reissue)</b>
+          <span>Heaven Sent &amp; Ectsasy</span>
+          <time>#22 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/023-hydro---hydro-featuring-lorna/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d3a31236e8b1117c_hu_31c218146a554ffb.webp" width="360" height="360" loading="lazy" alt="Hydro - Hydro featuring Lorna">
+          
+        </div>
+        <div class="cap">
+          <b>Hydro featuring Lorna</b>
+          <span>Hydro</span>
+          <time>#23 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/024-mtume---you-me-and-he/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e7851697c8ffb2ea_hu_4bcde57ee06f7eac.webp" width="360" height="360" loading="lazy" alt="Mtume - You, Me And He">
+          
+        </div>
+        <div class="cap">
+          <b>You, Me And He</b>
+          <span>Mtume</span>
+          <time>#24 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/025-the-pioneers---secrets-of-you/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/886b42d0bf2bb31b_hu_c8a704c49f232ffd.webp" width="360" height="360" loading="lazy" alt="The Pioneers - Secrets of You">
+          
+        </div>
+        <div class="cap">
+          <b>Secrets of You</b>
+          <span>The Pioneers</span>
+          <time>#25 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/026-jungle---volcano/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e7ca42a06162d3f3_hu_fd3649ba0e2ecbea.webp" width="360" height="360" loading="lazy" alt="Jungle - Volcano">
+          
+        </div>
+        <div class="cap">
+          <b>Volcano</b>
+          <span>Jungle</span>
+          <time>#26 · 4 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/027-millie-jackson---get-it-out-cha-system/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/73ea94ee735912a8_hu_146a65f9351297eb.webp" width="360" height="360" loading="lazy" alt="Millie Jackson - Get It Out&#39;cha System">
+          
+        </div>
+        <div class="cap">
+          <b>Get It Out&#39;cha System</b>
+          <span>Millie Jackson</span>
+          <time>#27 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/028-millie-jackson---for-men-only/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f312845a60d760bf_hu_fba38496e8b6bffb.webp" width="360" height="360" loading="lazy" alt="Millie Jackson - For Men Only">
+          
+        </div>
+        <div class="cap">
+          <b>For Men Only</b>
+          <span>Millie Jackson</span>
+          <time>#28 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/029-adrian-younge-ali-shaheed-muhammad-antonio-carlos-jocafi---antonio-carlos-jocafi-jid026/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a1a0d7a36dce2e6d_hu_d2e537741c0e042c.webp" width="360" height="360" loading="lazy" alt="Adrian Younge, Ali Shaheed Muhammad, Antonio Carlos &amp; Jocafi - Antonio Carlos &amp; Jocafi JID026">
+          
+        </div>
+        <div class="cap">
+          <b>Antonio Carlos &amp; Jocafi JID026</b>
+          <span>Adrian Younge, Ali Shaheed Muhammad, Antonio Carlos &amp; Jocafi</span>
+          <time>#29 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/030-ann-peebles---straight-from-the-heart/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/db2f4383179185d0_hu_fcd830b4981c7995.webp" width="360" height="360" loading="lazy" alt="Ann Peebles - Straight From The Heart">
+          
+        </div>
+        <div class="cap">
+          <b>Straight From The Heart</b>
+          <span>Ann Peebles</span>
+          <time>#30 · 4 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/031-ellipsis---people-gregory-moore/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>People／Gregory Moore</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>People／Gregory Moore</b>
+          <span>Ellipsis</span>
+          <time>#31 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/032-johnny-hammond-smith---gears/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bb92dd26c9b33b57_hu_1a8c5712a7b915ca.webp" width="360" height="360" loading="lazy" alt="Johnny “Hammond” Smith - Gears">
+          
+        </div>
+        <div class="cap">
+          <b>Gears</b>
+          <span>Johnny “Hammond” Smith</span>
+          <time>#32 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/033-maceo-parker---us/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e582bb95d67c6300_hu_e621c0f03445a613.webp" width="360" height="360" loading="lazy" alt="Maceo Parker - Us">
+          
+        </div>
+        <div class="cap">
+          <b>Us</b>
+          <span>Maceo Parker</span>
+          <time>#33 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/034-menahan-street-band---make-the-road-by-walking/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/dedf620bae71b010_hu_319d0bdada5e30f3.webp" width="360" height="360" loading="lazy" alt="Menahan Street Band - Make the Road by Walking">
+          
+        </div>
+        <div class="cap">
+          <b>Make the Road by Walking</b>
+          <span>Menahan Street Band</span>
+          <time>#34 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/035-minnie-riperton---perfect-angel/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8f9c23ae8323175f_hu_c8fca98815046f70.webp" width="360" height="360" loading="lazy" alt="Minnie Riperton - Perfect Angel">
+          
+        </div>
+        <div class="cap">
+          <b>Perfect Angel</b>
+          <span>Minnie Riperton</span>
+          <time>#35 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/036-monophonics---it-s-only-us/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>It’s Only Us</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>It’s Only Us</b>
+          <span>Monophonics</span>
+          <time>#36 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/037-the-isley-brothers---3-3/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e6a9dbad3600429e_hu_d3fd2223056dfba3.webp" width="360" height="360" loading="lazy" alt="The Isley Brothers - 3&#43;3">
+          
+        </div>
+        <div class="cap">
+          <b>3&#43;3</b>
+          <span>The Isley Brothers</span>
+          <time>#37 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/038-tim-maia---tim-maia/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d93d95d33019c087_hu_27ed4d5335e15f18.webp" width="360" height="360" loading="lazy" alt="Tim Maia - Tim Maia">
+          
+        </div>
+        <div class="cap">
+          <b>Tim Maia</b>
+          <span>Tim Maia</span>
+          <time>#38 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/039-vincent-montana-jr---goody-goody/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Goody Goody</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Goody Goody</b>
+          <span>Vincent Montana Jr.</span>
+          <time>#39 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/040-willie-hutch---the-mack/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8740f34631e316d3_hu_7b403a06ad3cb482.webp" width="360" height="360" loading="lazy" alt="Willie Hutch - The Mack">
+          
+        </div>
+        <div class="cap">
+          <b>The Mack</b>
+          <span>Willie Hutch</span>
+          <time>#40 · 3 escuchas · <span class="corazon" title="5 en Mix">♥ 5</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/041-jungle---for-ever/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d6ab8ed152742cd6_hu_f17dafd2c2eb2edf.webp" width="360" height="360" loading="lazy" alt="Jungle - For Ever">
+          
+        </div>
+        <div class="cap">
+          <b>For Ever</b>
+          <span>Jungle</span>
+          <time>#41 · 3 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/042-millie-jackson---millie-jackson/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c207c18e7e936004_hu_cc9ea07f71b21f8b.webp" width="360" height="360" loading="lazy" alt="Millie Jackson - Millie Jackson">
+          
+        </div>
+        <div class="cap">
+          <b>Millie Jackson</b>
+          <span>Millie Jackson</span>
+          <time>#42 · 3 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/043-11th-commandment---dance-with-me-move-it-groove-it/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Dance With Me / Move It, Groove It</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Dance With Me / Move It, Groove It</b>
+          <span>11th Commandment</span>
+          <time>#43 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/044-5000-volts---5000-volts-2016-reissue/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>5000 Volts (2016 Reissue)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>5000 Volts (2016 Reissue)</b>
+          <span>5000 Volts</span>
+          <time>#44 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/045-bobby-womack---understanding/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bdff3fce9882658b_hu_484901254b03de70.webp" width="360" height="360" loading="lazy" alt="Bobby Womack - Understanding">
+          
+        </div>
+        <div class="cap">
+          <b>Understanding</b>
+          <span>Bobby Womack</span>
+          <time>#45 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/046-john-ozila---funky-boogie/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/858d2b11ab940d7d_hu_6d20c088b8b152f7.webp" width="360" height="360" loading="lazy" alt="John Ozila - Funky Boogie">
+          
+        </div>
+        <div class="cap">
+          <b>Funky Boogie</b>
+          <span>John Ozila</span>
+          <time>#46 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/047-jungle---jungle/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a73edc2e0c083466_hu_547105b0ee6fecc1.webp" width="360" height="360" loading="lazy" alt="Jungle - Jungle">
+          
+        </div>
+        <div class="cap">
+          <b>Jungle</b>
+          <span>Jungle</span>
+          <time>#47 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/048-manu-dibango---soul-makossa/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8c760d50e8292504_hu_d3e1a7bf5108e13e.webp" width="360" height="360" loading="lazy" alt="Manu Dibango - Soul Makossa">
+          
+        </div>
+        <div class="cap">
+          <b>Soul Makossa</b>
+          <span>Manu Dibango</span>
+          <time>#48 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/049-millie-jackson---caught-up-still-caught-up/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bd71cbbc9f66b29f_hu_ae50ac0ff31c8207.webp" width="360" height="360" loading="lazy" alt="Millie Jackson - Caught Up / Still Caught Up">
+          
+        </div>
+        <div class="cap">
+          <b>Caught Up / Still Caught Up</b>
+          <span>Millie Jackson</span>
+          <time>#49 · 3 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/050-renee-geyer---it-s-a-man-s-man-s-world/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/71675859f863d3cb_hu_69121984d5cc7e7f.webp" width="360" height="360" loading="lazy" alt="Renée Geyer - It&#39;s A Man&#39;s Man&#39;s World">
+          
+        </div>
+        <div class="cap">
+          <b>It&#39;s A Man&#39;s Man&#39;s World</b>
+          <span>Renée Geyer</span>
+          <time>#50 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/051-rita-lee---rita-lee/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/935a37a34df5f324_hu_50edca8197bcf32c.webp" width="360" height="360" loading="lazy" alt="Rita Lee - Rita Lee">
+          
+        </div>
+        <div class="cap">
+          <b>Rita Lee</b>
+          <span>Rita Lee</span>
+          <time>#51 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-18/052-shuggie-otis---inspiration-information/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7982ab668d8d9c01_hu_3619d6da762cc0ce.webp" width="360" height="360" loading="lazy" alt="Shuggie Otis - Inspiration Information">
+          
+        </div>
+        <div class="cap">
+          <b>Inspiration Information</b>
+          <span>Shuggie Otis</span>
+          <time>#52 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

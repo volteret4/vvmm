@@ -6,6 +6,7 @@ album: "Fly Away [Special Edition, Disco Recharge Series] (CD 1)"
 escuchas: 9
 puesto: 4
 semana: "2026-W09"
+clave: "voyage|fly away"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

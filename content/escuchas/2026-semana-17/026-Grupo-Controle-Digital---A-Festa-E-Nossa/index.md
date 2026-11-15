@@ -6,6 +6,7 @@ album: "A Festa É Nossa"
 escuchas: 3
 puesto: 26
 semana: "2026-W17"
+clave: "grupo controle digital|a festa e nossa"
 nuevo_artista: true
 nuevo_album: true
 portada: "9693e655cbb4b920.jpg"

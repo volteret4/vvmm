@@ -6,6 +6,7 @@ album: "Ricochet"
 escuchas: 6
 puesto: 25
 semana: "2026-W13"
+clave: "snail mail|ricochet"
 nuevo_artista: true
 nuevo_album: true
 portada: "358561e7e58c3ede.jpg"

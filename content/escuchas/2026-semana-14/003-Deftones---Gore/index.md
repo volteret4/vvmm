@@ -6,6 +6,7 @@ album: "Gore"
 escuchas: 11
 puesto: 3
 semana: "2026-W14"
+clave: "deftones|gore"
 nuevo_album: true
 portada: "797c53764757caf4.jpg"
 ---

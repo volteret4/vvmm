@@ -6,8 +6,10 @@ album: "Cara Maluco"
 escuchas: 4
 puesto: 31
 semana: "2026-W13"
+clave: "osees|cara maluco"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "3b86b8eed4a54917.jpg"
 mbid: "deba183b-1cc8-4d09-a7e8-5e03b94b3bcd"
 ---
@@ -15,6 +17,8 @@ mbid: "deba183b-1cc8-4d09-a7e8-5e03b94b3bcd"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/deba183b-1cc8-4d09-a7e8-5e03b94b3bcd)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-03-06, 24 días antes de acabar la semana
 
 **Escuchas:** 4
 

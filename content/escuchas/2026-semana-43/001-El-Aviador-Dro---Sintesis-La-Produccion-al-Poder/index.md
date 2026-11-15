@@ -6,6 +6,7 @@ album: "Sintesis: La Produccion al Poder"
 escuchas: 30
 puesto: 1
 semana: "2026-W43"
+clave: "el aviador dro|sintesis la produccion al poder"
 nuevo_artista: true
 nuevo_album: true
 portada: "34c3b3e5a9545188.jpg"

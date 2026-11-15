@@ -6,6 +6,7 @@ album: "ISS012"
 escuchas: 4
 puesto: 16
 semana: "2026-W10"
+clave: "skee mask|iss012"
 nuevo_album: true
 portada: "24dba15c6b33d3a9.png"
 ---

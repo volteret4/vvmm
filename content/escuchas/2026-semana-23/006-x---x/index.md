@@ -6,6 +6,7 @@ album: "冀西南林路行"
 escuchas: 8
 puesto: 6
 semana: "2026-W23"
+clave: "万能青年旅店|冀西南林路行"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

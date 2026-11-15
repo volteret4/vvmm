@@ -6,6 +6,7 @@ album: "The Boss"
 escuchas: 6
 puesto: 9
 semana: "2026-W09"
+clave: "diana ross|the boss"
 nuevo_album: true
 portada: "40c263d8a9a64c0f.jpg"
 ---

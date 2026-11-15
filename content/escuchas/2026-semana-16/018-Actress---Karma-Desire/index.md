@@ -6,6 +6,7 @@ album: "Karma & Desire"
 escuchas: 6
 puesto: 18
 semana: "2026-W16"
+clave: "actress|karma desire"
 portada: "b23139ee57b5abf0.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Actress/Karma+%26+Desire)

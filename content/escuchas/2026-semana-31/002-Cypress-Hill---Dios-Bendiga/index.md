@@ -6,12 +6,16 @@ album: "Dios Bendiga"
 escuchas: 12
 puesto: 2
 semana: "2026-W31"
+clave: "cypress hill|dios bendiga"
 nuevo_album: true
+novedad: true
 portada: "f2e1d1a32f5a7599.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Cypress+Hill/Dios+Bendiga)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-07-24, 10 días antes de acabar la semana
 
 **Escuchas:** 12
 

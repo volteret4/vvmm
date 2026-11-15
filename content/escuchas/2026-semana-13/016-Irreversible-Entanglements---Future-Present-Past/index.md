@@ -6,13 +6,17 @@ album: "Future Present Past"
 escuchas: 10
 puesto: 16
 semana: "2026-W13"
+clave: "irreversible entanglements|future present past"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "cc0f788977c67de9.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Irreversible+Entanglements/Future+Present+Past)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-03-27, 3 días antes de acabar la semana
 
 **Escuchas:** 10
 

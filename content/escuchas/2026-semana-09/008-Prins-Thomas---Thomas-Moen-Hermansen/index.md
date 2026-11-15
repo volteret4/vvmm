@@ -6,12 +6,16 @@ album: "Thomas Moen Hermansen"
 escuchas: 6
 puesto: 8
 semana: "2026-W09"
+clave: "prins thomas|thomas moen hermansen"
 nuevo_album: true
+novedad: true
 portada: "ed13eed722ba2744.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Prins+Thomas/Thomas+Moen+Hermansen)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2025-12-05, 87 días antes de acabar la semana
 
 **Escuchas:** 6
 

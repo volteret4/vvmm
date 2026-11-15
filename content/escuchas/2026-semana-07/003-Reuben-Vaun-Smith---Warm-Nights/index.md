@@ -6,6 +6,7 @@ album: "Warm Nights"
 escuchas: 6
 puesto: 3
 semana: "2026-W07"
+clave: "reuben vaun smith|warm nights"
 portada: "66585fb5cc9f02e4.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Reuben+Vaun+Smith/Warm+Nights)

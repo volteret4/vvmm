@@ -6,6 +6,7 @@ album: "CHROMA 010"
 escuchas: 3
 puesto: 8
 semana: "2026-W11"
+clave: "bicep|chroma 010"
 portada: "c8eec52465f2b6ed.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bicep/CHROMA+010)

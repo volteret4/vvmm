@@ -6,6 +6,7 @@ album: "ISS012"
 escuchas: 4
 puesto: 41
 semana: "2026-W16"
+clave: "skee mask|iss012"
 portada: "24dba15c6b33d3a9.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Skee+Mask/ISS012)

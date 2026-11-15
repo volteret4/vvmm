@@ -6,6 +6,7 @@ album: "Spirit of Eden"
 escuchas: 5
 puesto: 3
 semana: "2026-W25"
+clave: "talk talk|spirit of eden"
 portada: "7a0f5040a647c868.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Talk+Talk/Spirit+of+Eden)

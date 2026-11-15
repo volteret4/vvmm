@@ -6,6 +6,7 @@ album: "Mazarati"
 escuchas: 8
 puesto: 11
 semana: "2026-W16"
+clave: "mazarati|mazarati"
 nuevo_artista: true
 nuevo_album: true
 portada: "a3c1111bad5d3d22.jpg"

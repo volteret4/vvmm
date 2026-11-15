@@ -6,6 +6,7 @@ album: "Peace Or Love"
 escuchas: 3
 puesto: 5
 semana: "2026-W12"
+clave: "kings of convenience|peace or love"
 portada: "f139227a0afc9c32.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kings+of+Convenience/Peace+Or+Love)

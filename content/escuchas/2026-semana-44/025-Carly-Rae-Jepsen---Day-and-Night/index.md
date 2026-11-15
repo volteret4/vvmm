@@ -6,12 +6,16 @@ album: "Day and Night"
 escuchas: 4
 puesto: 25
 semana: "2026-W44"
+clave: "carly rae jepsen|day and night"
 mix: 3
+novedad: true
 portada: "e5e3b45928fed7e2.png"
 mbid: "bfdff64a-95f7-4285-987b-5ea8cb9a0e87"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Carly+Rae+Jepsen/Day+and+Night)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/bfdff64a-95f7-4285-987b-5ea8cb9a0e87)
+
+**Novedad:** publicado el 2026-09-18, 45 días antes de acabar la semana
 
 **Escuchas:** 4
 

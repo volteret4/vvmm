@@ -6,8 +6,10 @@ album: "Sound of the Void"
 escuchas: 8
 puesto: 13
 semana: "2026-W45"
+clave: "kontravoid|sound of the void"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "e0731e9acfed5111.jpg"
 mbid: "5d6fde12-14d0-4d71-b92e-60ff46e18cc9"
 ---
@@ -15,6 +17,8 @@ mbid: "5d6fde12-14d0-4d71-b92e-60ff46e18cc9"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5d6fde12-14d0-4d71-b92e-60ff46e18cc9)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-10-02, 38 días antes de acabar la semana
 
 **Escuchas:** 8
 

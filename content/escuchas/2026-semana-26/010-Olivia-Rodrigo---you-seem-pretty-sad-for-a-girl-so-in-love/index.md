@@ -6,6 +6,7 @@ album: "you seem pretty sad for a girl so in love"
 escuchas: 3
 puesto: 10
 semana: "2026-W26"
+clave: "olivia rodrigo|you seem pretty sad for a girl so in love"
 nuevo_artista: true
 nuevo_album: true
 portada: "2355b7aaf6e77754.jpg"

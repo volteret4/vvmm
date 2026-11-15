@@ -226,7 +226,7 @@ span.nuevo-txt { display: inline; font-size: inherit; }
 .vfiltros select { background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: .35rem .6rem; font: inherit; }
 .vfiltros select:disabled { opacity: .45; }
 .vnota { color: var(--v-muted); font-size: .78rem; }
-.vtiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: .8rem; margin-bottom: 1rem; }
+.vtiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: .8rem; margin-bottom: 1rem; }
 .vtile { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: .8rem 1rem; }
 .vtile span { display: block; color: var(--muted); font-size: .8rem; }
 .vtile b { display: block; font: 600 1.7rem/1.2 var(--sans); margin: .2rem 0; }
@@ -262,3 +262,6 @@ span.nuevo-txt { display: inline; font-size: inherit; }
 .vtabla th, .vtabla td { padding: .25rem .6rem; border-bottom: 1px solid var(--line); text-align: right; font-variant-numeric: tabular-nums; }
 .vtabla th:first-child, .vtabla td:first-child { text-align: left; }
 .vtabla .tablewrap { max-height: 320px; overflow-y: auto; }
+
+/* escuchas: ◆ novedad (disco recién publicado) */
+.nuevo-txt.nov, .leyenda .nuevo.nov { color: #caa5f6; }

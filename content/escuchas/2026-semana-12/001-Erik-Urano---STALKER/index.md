@@ -6,13 +6,17 @@ album: "STALKER"
 escuchas: 29
 puesto: 1
 semana: "2026-W12"
+clave: "erik urano|stalker"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "6206df3b43f6bbe6.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Erik+Urano/STALKER)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-02-06, 45 días antes de acabar la semana
 
 **Escuchas:** 29
 

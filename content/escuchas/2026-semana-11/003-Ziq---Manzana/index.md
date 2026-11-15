@@ -6,6 +6,7 @@ album: "Manzana"
 escuchas: 12
 puesto: 3
 semana: "2026-W11"
+clave: "μ ziq|manzana"
 portada: "5f4a71029789e763.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/%C2%B5-Ziq/Manzana)

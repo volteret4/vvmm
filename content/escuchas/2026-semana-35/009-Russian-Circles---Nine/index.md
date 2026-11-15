@@ -6,7 +6,9 @@ album: "Nine"
 escuchas: 7
 puesto: 9
 semana: "2026-W35"
+clave: "russian circles|nine"
 nuevo_album: true
+novedad: true
 portada: "79488c6863c25552.jpg"
 mbid: "e5d60412-e136-470c-b451-d1e8afeb7825"
 ---
@@ -14,6 +16,8 @@ mbid: "e5d60412-e136-470c-b451-d1e8afeb7825"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e5d60412-e136-470c-b451-d1e8afeb7825)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-08-28, 3 días antes de acabar la semana
 
 **Escuchas:** 7
 

@@ -6,6 +6,7 @@ album: "Other People’s Songs"
 escuchas: 9
 puesto: 10
 semana: "2026-W45"
+clave: "erasure|other people s songs"
 nuevo_album: true
 mix: 5
 portada: "7aa661c7de4a6c29.jpg"

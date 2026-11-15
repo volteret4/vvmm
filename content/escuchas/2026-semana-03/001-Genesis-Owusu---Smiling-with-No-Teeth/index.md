@@ -6,6 +6,7 @@ album: "Smiling with No Teeth"
 escuchas: 13
 puesto: 1
 semana: "2026-W03"
+clave: "genesis owusu|smiling with no teeth"
 mix: 1
 portada: "0e7017f1caa77cad.jpg"
 ---

@@ -1,0 +1,995 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>escuchas · vvmm</title>
+  <meta name="description" content="escuchas">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="escuchas">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead">
+    <h1>escuchas</h1>
+    <p>lo más escuchado cada semana en last.fm · 43 semanas</p>
+    
+
+
+<nav class="tabs">
+  <a href="/escuchas/" class="on">semanas</a>
+  <a href="/escuchas/estadisticas/">estadísticas</a>
+</nav>
+
+  </header>
+  
+  
+  
+  
+    
+    <h2 class="yearhead">2026</h2>
+    <section class="grid">
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-45/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/d86abe91718473bf_hu_c85415847b4145ee.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f986763f1109623e_hu_cb9fac0352485b41.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/52f888ad9eab9fef_hu_56d8e4555385dd5f.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/4b70a560e02e620d_hu_6b2de180893ac83a.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 45</b>
+            <span>2–8 nov 2026</span>
+            <time>381 escuchas · 44 discos · ★15 · ✦14 · nº1 Music Complete</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-44/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/c96c1659273032ce_hu_48de91650fc266e6.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f6435f19f732bbb4_hu_cd957fbb3fe5eab1.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/34c3b3e5a9545188_hu_9b1d577ba0c4dd27.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/8c019ee65e2914ea_hu_c6a1a027d833f32e.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 44</b>
+            <span>26 oct – 1 nov 2026</span>
+            <time>362 escuchas · 42 discos · ★14 · ✦11 · nº1 Rhythm Machine</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-43/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/34c3b3e5a9545188_hu_9b1d577ba0c4dd27.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f7985151bf45dcdf_hu_344c04a26dfc3f93.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/e4f247a31aa41d8a_hu_5d2345ac3ca00a5e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/0a5d401f171a0a2e_hu_eb54b6006677dd4c.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 43</b>
+            <span>19–25 oct 2026</span>
+            <time>127 escuchas · 13 discos · ★10 · ✦2 · nº1 Sintesis: La Produccion al Poder</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-42/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/9960b4a4cf28a1ca_hu_8a6d05b1ee36a4a.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/9ef916ec2e68a603_hu_daa3f3dd34dbbe14.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/748a63372579d551_hu_1c311873dd770e5d.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/a6ba6cf7f3b76b4b_hu_d83cbe1d17398fdd.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 42</b>
+            <span>12–18 oct 2026</span>
+            <time>61 escuchas · 6 discos · ★1 · ✦4 · nº1 Helado Tropical</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-41/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/756fe95d067c5374_hu_691e4c6640ddc70a.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/78b10f8b46f2254c_hu_7b5abd7d5e36c370.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/cf419c16061650e3_hu_28bbd3d78fa8d511.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/5b706500bf7ad5ce_hu_fa440d90e38b5e3d.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 41</b>
+            <span>5–11 oct 2026</span>
+            <time>77 escuchas · 7 discos · ★1 · ✦6 · nº1 Tell It to the Mountain</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-40/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/e0b36123e4dcdd9f_hu_ecc7042471b637ac.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/70d2b0ee3c9f7cad_hu_ec1f927cc77d4323.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/4476366ce0930a5f_hu_e83ec156ace4e4e7.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/ac7cd0d039746540_hu_cc6dcdab0cffba36.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 40</b>
+            <span>28 sep – 4 oct 2026</span>
+            <time>110 escuchas · 11 discos · ★3 · ✦4 · nº1 Mere Mortals</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-39/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/c93b12a671df9ce6_hu_9b81095b814c6e2e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b79528f3e24bdc46_hu_c187b86eb80c6fbb.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/9f89df61e8dc2542_hu_ead1ad431649b730.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 39</b>
+            <span>21–27 sep 2026</span>
+            <time>33 escuchas · 3 discos · ★1 · ✦1 · nº1 I Must Be Dreaming</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-38/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/807b829fe7823599_hu_6b8ef873d33877f6.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/23a2aad0b80ba11e_hu_61c6db3c53108461.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/faac093be1f053f3_hu_a08143e34d4dec13.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/22360c164b7d4c5e_hu_a4f83823e40e6165.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 38</b>
+            <span>14–20 sep 2026</span>
+            <time>93 escuchas · 15 discos · ★5 · ✦7 · nº1 Distance in Static</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-37/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/5be6fea2a9e4305c_hu_95d4af3001380014.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 37</b>
+            <span>7–13 sep 2026</span>
+            <time>18 escuchas · 1 discos · nº1 Sunshine</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-36/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/b3cbae29e3ab9351_hu_79e55060e5dcedc.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/23a2aad0b80ba11e_hu_61c6db3c53108461.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/148a449376476167_hu_38e100e748957f85.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/4727a414cefd4975_hu_c92e154e9f7b0f22.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 36</b>
+            <span>31 ago – 6 sep 2026</span>
+            <time>39 escuchas · 6 discos · ★1 · ✦3 · nº1 Freakshow</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-35/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/b3cbae29e3ab9351_hu_79e55060e5dcedc.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/38a3c0dfe2b5bf4f_hu_de53333f54d1566b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/c93b12a671df9ce6_hu_9b81095b814c6e2e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/7a92ba23d8c602ae_hu_c6cfcb145a8c63.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 35</b>
+            <span>24–30 ago 2026</span>
+            <time>229 escuchas · 21 discos · ★8 · ✦12 · nº1 Freakshow</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-34/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/5be6fea2a9e4305c_hu_95d4af3001380014.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b41f329c930eb926_hu_4cf7ba60fae6099f.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/42382614a3d05010_hu_c101dbe4591b81cf.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/48b5aeca41a08766_hu_666e5d8fa3389112.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 34</b>
+            <span>17–23 ago 2026</span>
+            <time>89 escuchas · 9 discos · ★3 · ✦3 · nº1 Sunshine</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-33/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/5be6fea2a9e4305c_hu_95d4af3001380014.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/99f4b1dba8009fcf_hu_60e990fd96e19c2e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/080e06dc220579d3_hu_fd0252e43df3d4e6.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <div class="nocover"></div>
+            
+          </div>
+          <div class="cap">
+            <b>semana 33</b>
+            <span>10–16 ago 2026</span>
+            <time>57 escuchas · 4 discos · ★3 · ✦1 · nº1 Sunshine</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-32/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/b35e2fd5ddf9dd1b_hu_7ccc42daa79a8fca.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/622a7e9b3b4782a9_hu_309b5198cae053af.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/fefca0e24248e027_hu_d84e811cfe9bcf58.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/9c26d2e68bc4a7a6_hu_12f7a2d269e4d051.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 32</b>
+            <span>3–9 ago 2026</span>
+            <time>31 escuchas · 4 discos · ★1 · ✦3 · nº1 Days</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-31/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/c4c241c1ec60f8ad_hu_ef4a31880e104324.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f2e1d1a32f5a7599_hu_791e6e456b6bcd50.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/e00ce15f7e8fe9de_hu_b1bb88e8166d6a1.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/2919db7e512a2a70_hu_a041da078c100e28.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 31</b>
+            <span>27 jul – 2 ago 2026</span>
+            <time>55 escuchas · 5 discos · ★3 · ✦2 · nº1 EXPERIMENTAL RAP</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-30/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/617454f39d1e21c1_hu_4f2c21338469421d.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f56c8f5bdc9c0d6c_hu_59f612248950e5d3.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/182c57d961acaa23_hu_ba2820ea9dfb57b8.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b2a55c65eb966771_hu_8b113a6015847cb2.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 30</b>
+            <span>20–26 jul 2026</span>
+            <time>135 escuchas · 9 discos · ✦7 · nº1 Loud Ambient 2</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-27/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/49abdda6eb2937ae_hu_2cb62bb34895716b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/7c575b66cf076b32_hu_c77550589dd53582.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f33881fbe735ea09_hu_bf99873d011c61f5.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/4e556e265f35d240_hu_6b8f1508ebe42231.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 27</b>
+            <span>29 jun – 5 jul 2026</span>
+            <time>145 escuchas · 13 discos · ★2 · ✦9 · nº1 Signal Fire</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-26/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/7731a5530752c68f_hu_38b93dbb02be5194.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/49abdda6eb2937ae_hu_2cb62bb34895716b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f75a05a693bad3be_hu_5d6f1d3c5a424d81.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/9a52b8b1ea09703b_hu_3503204d6f243a35.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 26</b>
+            <span>22–28 jun 2026</span>
+            <time>76 escuchas · 10 discos · ★3 · ✦1 · nº1 II</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-25/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/21d6160c8dd708ff_hu_43cafe9f15bce9f3.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/83e8465b333fd974_hu_b999b3151321eb75.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/7a0f5040a647c868_hu_89689d4c13950d7e.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 25</b>
+            <span>15–21 jun 2026</span>
+            <time>32 escuchas · 3 discos · ✦1 · nº1 If This Is It</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-24/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/619b6e28426de054_hu_9d9ad0cde924d8e0.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/bc6f5e552a3ea68e_hu_7103d83b39c52cb9.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/21d6160c8dd708ff_hu_43cafe9f15bce9f3.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/f3a4615b93a0431a_hu_9db1c2f2348e938.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 24</b>
+            <span>8–14 jun 2026</span>
+            <time>88 escuchas · 12 discos · ★3 · ✦4 · nº1 Thora Vukk</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-23/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/f75a05a693bad3be_hu_5d6f1d3c5a424d81.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/e0a671375eccd780_hu_8766a4831a88f26f.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/d7c4efa189de3b33_hu_cec9df92ea3053a8.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/21d6160c8dd708ff_hu_43cafe9f15bce9f3.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 23</b>
+            <span>1–7 jun 2026</span>
+            <time>181 escuchas · 14 discos · ★1 · ✦10 · nº1 People of the Moon</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-22/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/f75a05a693bad3be_hu_5d6f1d3c5a424d81.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/c77e33618cbde205_hu_7a12d55dbf34ba28.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/67e056d05e989d00_hu_96ffc5745add4d58.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/ea62aafb7261863c_hu_2b8437ff5263e629.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 22</b>
+            <span>25–31 may 2026</span>
+            <time>132 escuchas · 7 discos · ★2 · ✦4 · nº1 People of the Moon</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-21/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/70d2b0ee3c9f7cad_hu_ec1f927cc77d4323.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/af3bbd776d3213aa_hu_ef4ae862ab025ac7.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/3aea9c6cd6315d22_hu_5da0c2d2a93e55ee.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/a5277a092fb38d98_hu_da9c103ecd7bd323.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 21</b>
+            <span>18–24 may 2026</span>
+            <time>185 escuchas · 19 discos · ★1 · ✦6 · nº1 Planetary People</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-20/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/dbf29a2b255d1a13_hu_f7703283764e7949.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/a5277a092fb38d98_hu_da9c103ecd7bd323.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/3aea9c6cd6315d22_hu_5da0c2d2a93e55ee.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/af3bbd776d3213aa_hu_ef4ae862ab025ac7.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 20</b>
+            <span>11–17 may 2026</span>
+            <time>91 escuchas · 4 discos · ✦3 · nº1 Mundos inmóviles derrumbándose</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-19/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/86976d218f590fb7_hu_26a31178cee3a2f7.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/a5a45643002f119d_hu_c6fb2bb911c4d568.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/8740f34631e316d3_hu_40e6bae229e822b9.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 19</b>
+            <span>4–10 may 2026</span>
+            <time>103 escuchas · 3 discos · ✦2 · nº1 Soul Portrait</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-18/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/411139697b9d5dea_hu_834386dc44fca36e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/bfeabc0319dc709b_hu_9bbf868a9ad56003.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b4bce89f4843cac3_hu_6ec92ee37d10e143.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/dfe6cbc30ffacde6_hu_cfe602f0479d3d09.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 18</b>
+            <span>27 abr – 3 may 2026</span>
+            <time>362 escuchas · 52 discos · ★15 · ✦6 · nº1 Theory of Movement</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-17/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/1f349874bc8ba702_hu_2c22095578f1cb45.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <div class="nocover"></div>
+            
+              <img src="/escuchas-portadas/281236caab5c9f95_hu_c6d14a20f95d90e1.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <div class="nocover"></div>
+            
+          </div>
+          <div class="cap">
+            <b>semana 17</b>
+            <span>20–26 abr 2026</span>
+            <time>340 escuchas · 29 discos · ★21 · ✦5 · nº1 Gonna Tell The World</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-16/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/0983fce0764ebb95_hu_ebae957e8d7af16a.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/953e1a6a824c470e_hu_2c6d19a9e12ba7dc.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b68d9549feacd583_hu_56e13b786845b615.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b073bbd02c3db9eb_hu_3e919e9b04799387.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 16</b>
+            <span>13–19 abr 2026</span>
+            <time>468 escuchas · 59 discos · ★14 · ✦14 · nº1 Superbloom</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-15/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/07a887f6cb419ce0_hu_c5606694a87d06e0.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/e7ca42a06162d3f3_hu_8f0f72bb0dfb745c.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/7d3fa09ff8857f52_hu_364710f68c9348d4.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/4dc1596cf33148c3_hu_3b4054c6d855e237.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 15</b>
+            <span>6–12 abr 2026</span>
+            <time>171 escuchas · 20 discos · ★8 · ✦2 · nº1 Shell~Wave</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-14/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/389eb6d70fb71f9a_hu_1da6221730c14f58.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/e53844c83cb0d074_hu_384e4d66fef3c5d3.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/797c53764757caf4_hu_c48f73dca1ac99b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/1ed4623fff4f3d84_hu_4dda95bada28a2bf.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 14</b>
+            <span>30 mar – 5 abr 2026</span>
+            <time>123 escuchas · 12 discos · ★1 · ✦5 · nº1 Tread</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-13/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/e417abd45ebc0b6f_hu_2e3d9235e79b62f.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/c43618de08685187_hu_f3e8fb15fe6bb527.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/01174706ea794e9f_hu_5209af8529d0068.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/acb38b5616bd6268_hu_c2c37df6f4fee33f.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 13</b>
+            <span>23–29 mar 2026</span>
+            <time>324 escuchas · 35 discos · ★10 · ✦18 · nº1 Event Beat</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-12/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/6206df3b43f6bbe6_hu_ac0362a50d6452fc.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <div class="nocover"></div>
+            
+              <img src="/escuchas-portadas/34caef653b0fa5dd_hu_211bb553051e3d70.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/14555c169dacf1cd_hu_3660d808c4ec7560.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 12</b>
+            <span>16–22 mar 2026</span>
+            <time>89 escuchas · 7 discos · ★2 · ✦2 · nº1 STALKER</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-11/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/1106a769a94bf2c1_hu_4121cb7d97a86cb.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b34cc1ca96f3eaed_hu_19f34f3610a6b31b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/5f4a71029789e763_hu_1fa7426131c1fb48.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/1be45bd3bc436c4e_hu_2fe60d5549397573.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 11</b>
+            <span>9–15 mar 2026</span>
+            <time>87 escuchas · 9 discos · ★2 · ✦1 · nº1 The Hunchback Of Notre Dame</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-10/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/250e410516a6c189_hu_5be6534607bc7d8e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/45278be0dd4349ea_hu_82216c0fea5441c4.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/2b36d0dcb0ff08ff_hu_cf6846cc519eecf6.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/72333f858dda59df_hu_dce1ec11f2e755a2.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 10</b>
+            <span>2–8 mar 2026</span>
+            <time>231 escuchas · 19 discos · ★10 · ✦6 · nº1 Please: Further Listening 1984-1986 (2018 Remastered Version)</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-09/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/5cdc57cde088684d_hu_382e8eb9bb3663ff.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/90f6053d21d20538_hu_ce2bedd86a3dc505.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b564733b60769f5a_hu_b6d9a42e3015b3ea.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <div class="nocover"></div>
+            
+          </div>
+          <div class="cap">
+            <b>semana 9</b>
+            <span>23 feb – 1 mar 2026</span>
+            <time>125 escuchas · 14 discos · ★4 · ✦9 · nº1 A Hum Of Maybe</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-08/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/8bce595bff328eb8_hu_c85aae44dddb2426.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/a2c3e8dcd22c59ae_hu_ba0115970f9d435a.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b34cc1ca96f3eaed_hu_19f34f3610a6b31b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/1935a4a3968cbd7c_hu_871b359ca3e141cd.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 8</b>
+            <span>16–22 feb 2026</span>
+            <time>71 escuchas · 4 discos · nº1 Kiss Me Kiss Me Kiss Me</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-07/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/90e9e5f79a89952e_hu_787615dbb52e75f9.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/9cb16ff19431da3a_hu_977080c761f0418c.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/66585fb5cc9f02e4_hu_edbed9ffdf220dc2.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <div class="nocover"></div>
+            
+          </div>
+          <div class="cap">
+            <b>semana 7</b>
+            <span>9–15 feb 2026</span>
+            <time>76 escuchas · 7 discos · ★2 · ✦1 · nº1 Secret love</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-06/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/e7132ca7f0b593bf_hu_5d15cc7bc66fc844.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/de1edbe82c0a6d1b_hu_a8e5f497601d5ecc.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/3c985ac8b5ae750d_hu_1fc6722c95ae4f9.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/c6a8ee7c30e247dc_hu_67bf8d5953058be7.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 6</b>
+            <span>2–8 feb 2026</span>
+            <time>84 escuchas · 5 discos · ✦2 · nº1 Stratosphere</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-05/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/b34cc1ca96f3eaed_hu_19f34f3610a6b31b.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/513cc381fdc6abaa_hu_c0cf2ae9834d81b5.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/1a12fc1ba01df222_hu_6b04e27820d8bb55.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/b7ff777e40770846_hu_42bf1eeb7fe4d9e5.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 5</b>
+            <span>26 ene – 1 feb 2026</span>
+            <time>63 escuchas · 5 discos · ★1 · ✦3 · nº1 Covers (Japanese Edition)</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-04/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/7c25b4caa56a1e6b_hu_9c707a6a78a35aa7.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/352cb70893cb07c5_hu_70937d463bb43982.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/c6b55e4fcc2f06f0_hu_6c09d5dcc274d612.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 4</b>
+            <span>19–25 ene 2026</span>
+            <time>37 escuchas · 3 discos · ✦1 · nº1 Hounds of Love</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-03/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/0e7017f1caa77cad_hu_435c04b574861f11.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/02192c53b55abe10_hu_5783618c4897df31.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/ea539fc2e7c90ccb_hu_6e6e52ddef393a05.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/1d0770237d15d64f_hu_6f94e06603ccad.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 3</b>
+            <span>12–18 ene 2026</span>
+            <time>542 escuchas · 41 discos · ★1 · ✦2 · nº1 Smiling with No Teeth</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-02/">
+          <div class="sleeve mosaic">
+            
+              <img src="/escuchas-portadas/0d1c91e62633e4ca_hu_63c54ede25dcf83e.webp" width="180" height="180" loading="lazy" alt="">
+            
+              <img src="/escuchas-portadas/26fbd11e88b452d1_hu_3e901925320f146b.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 2</b>
+            <span>5–11 ene 2026</span>
+            <time>18 escuchas · 2 discos · nº1 FOR YOU</time>
+          </div>
+        </a>
+      
+        
+        <a class="card week" href="/escuchas/2026-semana-01/">
+          <div class="sleeve mosaic">
+            
+              <div class="nocover"></div>
+            
+              <img src="/escuchas-portadas/e7ca42a06162d3f3_hu_8f0f72bb0dfb745c.webp" width="180" height="180" loading="lazy" alt="">
+            
+          </div>
+          <div class="cap">
+            <b>semana 1</b>
+            <span>29 dic 2025 – 4 ene 2026</span>
+            <time>40 escuchas · 2 discos · ✦1 · nº1 It&#39;s a Holiday Soul Party</time>
+          </div>
+        </a>
+      
+    </section>
+  
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

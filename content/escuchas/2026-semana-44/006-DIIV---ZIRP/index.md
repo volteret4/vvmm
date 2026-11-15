@@ -6,7 +6,9 @@ album: "ZIRP!"
 escuchas: 11
 puesto: 6
 semana: "2026-W44"
+clave: "diiv|zirp"
 nuevo_album: true
+novedad: true
 portada: "5529b5e1c0fcd49c.jpg"
 mbid: "d6dcb655-b713-4ea4-a7f9-3f93f3cf7bc8"
 ---
@@ -14,6 +16,8 @@ mbid: "d6dcb655-b713-4ea4-a7f9-3f93f3cf7bc8"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/d6dcb655-b713-4ea4-a7f9-3f93f3cf7bc8)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-30, 3 días antes de acabar la semana
 
 **Escuchas:** 11
 

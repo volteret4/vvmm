@@ -6,6 +6,7 @@ album: "The Taker/Tulsa & Honky Tonk Heroes"
 escuchas: 5
 puesto: 19
 semana: "2026-W17"
+clave: "waylon jennings|the taker tulsa honky tonk heroes"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

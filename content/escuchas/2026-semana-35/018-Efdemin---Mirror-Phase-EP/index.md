@@ -6,6 +6,7 @@ album: "Mirror Phase EP"
 escuchas: 3
 puesto: 18
 semana: "2026-W35"
+clave: "efdemin|mirror phase ep"
 nuevo_album: true
 mix: 2
 portada: "002684ba7ede03c3.jpg"

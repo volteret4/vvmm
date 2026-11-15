@@ -6,7 +6,9 @@ album: "Radical Frame"
 escuchas: 4
 puesto: 6
 semana: "2026-W38"
+clave: "actress|radical frame"
 nuevo_album: true
+novedad: true
 portada: "2bd4424b0abd9663.jpg"
 mbid: "e596d6fc-a4eb-4062-947b-530382901f06"
 ---
@@ -14,6 +16,8 @@ mbid: "e596d6fc-a4eb-4062-947b-530382901f06"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e596d6fc-a4eb-4062-947b-530382901f06)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-09-18, 3 días antes de acabar la semana
 
 **Escuchas:** 4
 

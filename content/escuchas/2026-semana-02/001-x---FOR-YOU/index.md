@@ -6,6 +6,7 @@ album: "FOR YOU"
 escuchas: 6
 puesto: 1
 semana: "2026-W02"
+clave: "山下達郎|for you"
 portada: "0d1c91e62633e4ca.jpg"
 mbid: "a2f8424d-552b-4d0d-ba5a-aa43fac1fbc7"
 ---

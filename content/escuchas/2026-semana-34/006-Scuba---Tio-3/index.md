@@ -6,6 +6,7 @@ album: "Tío (3)"
 escuchas: 3
 puesto: 6
 semana: "2026-W34"
+clave: "scuba|tio"
 nuevo_album: true
 mix: 1
 portada: "c7348adba7be5ae0.png"

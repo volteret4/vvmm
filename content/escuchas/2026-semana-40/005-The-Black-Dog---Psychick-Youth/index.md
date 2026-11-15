@@ -6,8 +6,10 @@ album: "Psychick Youth"
 escuchas: 9
 puesto: 5
 semana: "2026-W40"
+clave: "the black dog|psychick youth"
 nuevo_album: true
 mix: 3
+novedad: true
 portada: "3eda56addf006493.jpg"
 mbid: "889e1f04-b591-4fde-9751-d0b79bf12949"
 ---
@@ -15,6 +17,8 @@ mbid: "889e1f04-b591-4fde-9751-d0b79bf12949"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/889e1f04-b591-4fde-9751-d0b79bf12949)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-09-11, 24 días antes de acabar la semana
 
 **Escuchas:** 9
 

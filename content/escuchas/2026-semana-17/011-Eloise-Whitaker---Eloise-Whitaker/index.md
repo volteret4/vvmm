@@ -6,6 +6,7 @@ album: "Eloise Whitaker"
 escuchas: 9
 puesto: 11
 semana: "2026-W17"
+clave: "eloise whitaker|eloise whitaker"
 nuevo_artista: true
 nuevo_album: true
 portada: "c47d719f17a33888.jpg"

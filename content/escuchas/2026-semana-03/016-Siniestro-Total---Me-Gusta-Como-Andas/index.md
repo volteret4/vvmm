@@ -6,6 +6,7 @@ album: "Me Gusta Como Andas"
 escuchas: 5
 puesto: 16
 semana: "2026-W03"
+clave: "siniestro total|me gusta como andas"
 portada: "30e97a483c1b74e8.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Siniestro+Total/Me+Gusta+Como+Andas)

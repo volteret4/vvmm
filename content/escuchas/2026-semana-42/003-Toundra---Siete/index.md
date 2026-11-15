@@ -6,6 +6,7 @@ album: "Siete"
 escuchas: 8
 puesto: 3
 semana: "2026-W42"
+clave: "toundra|siete"
 nuevo_album: true
 portada: "748a63372579d551.jpg"
 ---

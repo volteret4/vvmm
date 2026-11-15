@@ -6,6 +6,7 @@ album: "Spellbinder"
 escuchas: 10
 puesto: 2
 semana: "2026-W07"
+clave: "gabor szabo|spellbinder"
 nuevo_album: true
 portada: "9cb16ff19431da3a.jpg"
 ---

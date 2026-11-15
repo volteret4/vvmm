@@ -6,6 +6,7 @@ album: "It's a Holiday Soul Party"
 escuchas: 6
 puesto: 1
 semana: "2026-W01"
+clave: "sharon jones and the dap kings|it s a holiday soul party"
 nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sharon+Jones+and+the+Dap%E2%80%90Kings/It%27s+a+Holiday+Soul+Party)

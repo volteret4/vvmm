@@ -6,6 +6,7 @@ album: "Marines A Pleno Sol"
 escuchas: 16
 puesto: 3
 semana: "2026-W10"
+clave: "los nikis|marines a pleno sol"
 portada: "2b36d0dcb0ff08ff.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Los+Nikis/Marines+A+Pleno+Sol)

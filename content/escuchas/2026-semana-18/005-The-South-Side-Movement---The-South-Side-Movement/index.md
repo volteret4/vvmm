@@ -6,6 +6,7 @@ album: "The South Side Movement"
 escuchas: 10
 puesto: 5
 semana: "2026-W18"
+clave: "the south side movement|the south side movement"
 nuevo_artista: true
 nuevo_album: true
 portada: "90ee7e64e4faf1bc.jpg"

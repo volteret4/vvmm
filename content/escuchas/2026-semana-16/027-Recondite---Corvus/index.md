@@ -6,6 +6,7 @@ album: "Corvus"
 escuchas: 5
 puesto: 27
 semana: "2026-W16"
+clave: "recondite|corvus"
 nuevo_album: true
 portada: "e1220a7c58985763.jpg"
 ---

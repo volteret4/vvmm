@@ -6,6 +6,7 @@ album: "Free"
 escuchas: 8
 puesto: 13
 semana: "2026-W18"
+clave: "freedom|free"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

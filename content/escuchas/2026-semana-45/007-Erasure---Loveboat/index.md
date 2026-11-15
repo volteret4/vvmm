@@ -6,6 +6,7 @@ album: "Loveboat"
 escuchas: 11
 puesto: 7
 semana: "2026-W45"
+clave: "erasure|loveboat"
 nuevo_album: true
 mix: 1
 portada: "277952b56fb2fc87.png"

@@ -6,6 +6,7 @@ album: "Arpadys"
 escuchas: 6
 puesto: 16
 semana: "2026-W17"
+clave: "arpadys|arpadys"
 nuevo_artista: true
 nuevo_album: true
 portada: "f77ebf47cd0abcd0.jpg"

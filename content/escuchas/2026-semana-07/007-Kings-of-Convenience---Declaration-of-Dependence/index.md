@@ -6,6 +6,7 @@ album: "Declaration of Dependence"
 escuchas: 3
 puesto: 7
 semana: "2026-W07"
+clave: "kings of convenience|declaration of dependence"
 mix: 4
 portada: "2cbfb15d53e0084f.png"
 ---

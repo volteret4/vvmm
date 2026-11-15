@@ -6,8 +6,10 @@ album: "Spatial, No Problem."
 escuchas: 4
 puesto: 10
 semana: "2026-W24"
+clave: "lee scratch perry mouse on mars|spatial no problem"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "2a7e14dfd6839b56.jpg"
 mbid: "2a5e80b4-7aee-40ef-8bb9-42330d6df755"
 ---
@@ -15,6 +17,8 @@ mbid: "2a5e80b4-7aee-40ef-8bb9-42330d6df755"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/2a5e80b4-7aee-40ef-8bb9-42330d6df755)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-06-05, 10 días antes de acabar la semana
 
 **Escuchas:** 4
 

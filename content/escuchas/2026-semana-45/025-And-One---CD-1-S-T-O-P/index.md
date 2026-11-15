@@ -6,6 +6,7 @@ album: "CD 1 - S.T.O.P."
 escuchas: 4
 puesto: 25
 semana: "2026-W45"
+clave: "and one|cd 1 s t o p"
 mix: 4
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/And+One/CD+1+-+S.T.O.P.)

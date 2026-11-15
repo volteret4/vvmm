@@ -6,6 +6,7 @@ album: "Califas Del Rock"
 escuchas: 3
 puesto: 13
 semana: "2026-W38"
+clave: "mezquita|califas del rock"
 nuevo_artista: true
 nuevo_album: true
 portada: "cac4060aee335944.jpg"

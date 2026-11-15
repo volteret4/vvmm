@@ -6,6 +6,7 @@ album: "Woman In Love"
 escuchas: 18
 puesto: 2
 semana: "2026-W17"
+clave: "yuko ueyama 植山遊子|woman in love"
 nuevo_artista: true
 nuevo_album: true
 ---

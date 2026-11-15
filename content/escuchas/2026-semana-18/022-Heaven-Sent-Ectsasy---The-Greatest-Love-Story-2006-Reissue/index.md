@@ -6,6 +6,7 @@ album: "The Greatest Love Story (2006 Reissue)"
 escuchas: 4
 puesto: 22
 semana: "2026-W18"
+clave: "heaven sent ectsasy|the greatest love story"
 nuevo_artista: true
 nuevo_album: true
 mbid: "9e53dc2a-8a44-4896-add9-cb44d716b3f9"

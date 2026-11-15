@@ -6,6 +6,7 @@ album: "Teamplayers"
 escuchas: 4
 puesto: 12
 semana: "2026-W35"
+clave: "aquasky|teamplayers"
 nuevo_artista: true
 nuevo_album: true
 portada: "f2abe34a9ce74cb6.jpg"

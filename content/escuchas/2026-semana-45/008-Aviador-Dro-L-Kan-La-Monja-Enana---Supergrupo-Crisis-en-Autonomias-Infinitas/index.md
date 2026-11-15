@@ -6,6 +6,7 @@ album: "Supergrupo: Crisis en Autonomías Infinitas"
 escuchas: 10
 puesto: 8
 semana: "2026-W45"
+clave: "aviador dro l kan la monja enana|supergrupo crisis en autonomias infinitas"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

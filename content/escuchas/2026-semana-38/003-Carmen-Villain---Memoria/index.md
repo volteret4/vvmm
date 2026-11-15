@@ -6,8 +6,10 @@ album: "Memoria"
 escuchas: 7
 puesto: 3
 semana: "2026-W38"
+clave: "carmen villain|memoria"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "faac093be1f053f3.jpg"
 mbid: "8962ef76-04f8-4ac9-b23b-f24b27ac58b8"
 ---
@@ -15,6 +17,8 @@ mbid: "8962ef76-04f8-4ac9-b23b-f24b27ac58b8"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/8962ef76-04f8-4ac9-b23b-f24b27ac58b8)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-09-04, 17 días antes de acabar la semana
 
 **Escuchas:** 7
 

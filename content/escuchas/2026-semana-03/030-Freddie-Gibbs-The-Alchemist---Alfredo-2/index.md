@@ -6,6 +6,7 @@ album: "Alfredo 2"
 escuchas: 3
 puesto: 30
 semana: "2026-W03"
+clave: "freddie gibbs the alchemist|alfredo 2"
 portada: "79949be87edaaf9e.jpg"
 mbid: "ddd40bd8-757e-4122-a0da-2a2925785386"
 ---

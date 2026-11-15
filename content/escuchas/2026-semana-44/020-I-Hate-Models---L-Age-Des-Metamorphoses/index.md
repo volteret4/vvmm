@@ -6,6 +6,7 @@ album: "L'Âge Des Métamorphoses"
 escuchas: 6
 puesto: 20
 semana: "2026-W44"
+clave: "i hate models|l age des metamorphoses"
 nuevo_album: true
 mix: 1
 portada: "1ba9f6422fbb6cea.png"

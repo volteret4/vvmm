@@ -6,6 +6,7 @@ album: "Antimatter EP"
 escuchas: 3
 puesto: 55
 semana: "2026-W16"
+clave: "yan cook|antimatter ep"
 nuevo_album: true
 portada: "1219d11c3932a6f4.jpg"
 ---

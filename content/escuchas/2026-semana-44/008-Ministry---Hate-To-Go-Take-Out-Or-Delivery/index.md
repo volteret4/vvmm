@@ -6,7 +6,9 @@ album: "Hate To Go - Take Out Or Delivery"
 escuchas: 10
 puesto: 8
 semana: "2026-W44"
+clave: "ministry|hate to go take out or delivery"
 nuevo_album: true
+novedad: true
 portada: "9a32dca7264929be.jpg"
 mbid: "2182f352-a4fd-4e2d-aba1-fe58ac6d0d94"
 ---
@@ -14,6 +16,8 @@ mbid: "2182f352-a4fd-4e2d-aba1-fe58ac6d0d94"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/2182f352-a4fd-4e2d-aba1-fe58ac6d0d94)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-30, 3 días antes de acabar la semana
 
 **Escuchas:** 10
 

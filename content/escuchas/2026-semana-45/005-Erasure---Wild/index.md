@@ -6,6 +6,7 @@ album: "Wild!"
 escuchas: 13
 puesto: 5
 semana: "2026-W45"
+clave: "erasure|wild"
 mix: 1
 portada: "0debb39da26b8c89.jpg"
 mbid: "0b032b6b-3513-4c97-8e44-4e82969aa982"

@@ -6,6 +6,7 @@ album: "Le Mystère des Voix Bulgares"
 escuchas: 3
 puesto: 12
 semana: "2026-W43"
+clave: "le mystere des voix bulgares|le mystere des voix bulgares"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

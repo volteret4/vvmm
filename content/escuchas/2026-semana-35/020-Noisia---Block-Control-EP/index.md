@@ -6,6 +6,7 @@ album: "Block Control EP"
 escuchas: 3
 puesto: 20
 semana: "2026-W35"
+clave: "noisia|block control ep"
 nuevo_album: true
 mix: 1
 portada: "c943c0549836530b.jpg"

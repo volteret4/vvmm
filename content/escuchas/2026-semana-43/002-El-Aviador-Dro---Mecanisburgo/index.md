@@ -6,6 +6,7 @@ album: "Mecanisburgo"
 escuchas: 12
 puesto: 2
 semana: "2026-W43"
+clave: "el aviador dro|mecanisburgo"
 nuevo_artista: true
 nuevo_album: true
 mix: 6

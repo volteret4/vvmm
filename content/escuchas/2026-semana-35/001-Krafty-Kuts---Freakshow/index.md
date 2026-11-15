@@ -6,6 +6,7 @@ album: "Freakshow"
 escuchas: 19
 puesto: 1
 semana: "2026-W35"
+clave: "krafty kuts|freakshow"
 nuevo_album: true
 portada: "b3cbae29e3ab9351.jpg"
 mbid: "37ce8a45-6c7e-3c03-941b-40036bd3ae8b"

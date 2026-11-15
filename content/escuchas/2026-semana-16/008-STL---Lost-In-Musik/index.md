@@ -6,6 +6,7 @@ album: "Lost In Musik"
 escuchas: 10
 puesto: 8
 semana: "2026-W16"
+clave: "stl|lost in musik"
 mbid: "114e2250-22a1-43c3-bc58-7e1018f33c89"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/STL/Lost+In+Musik)

@@ -6,6 +6,7 @@ album: "The Bells"
 escuchas: 7
 puesto: 5
 semana: "2026-W26"
+clave: "nils frahm|the bells"
 portada: "6e8911f454d1cf83.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nils+Frahm/The+Bells)

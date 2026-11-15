@@ -6,7 +6,9 @@ album: "Marrow Deep"
 escuchas: 3
 puesto: 12
 semana: "2026-W38"
+clave: "mastodon|marrow deep"
 nuevo_album: true
+novedad: true
 portada: "fd66353457416416.png"
 mbid: "48224ad0-ec94-48ed-8210-a5e9b8c30cea"
 ---
@@ -14,6 +16,8 @@ mbid: "48224ad0-ec94-48ed-8210-a5e9b8c30cea"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/48224ad0-ec94-48ed-8210-a5e9b8c30cea)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-08-28, 24 días antes de acabar la semana
 
 **Escuchas:** 3
 

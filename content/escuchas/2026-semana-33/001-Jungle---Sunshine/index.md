@@ -6,7 +6,9 @@ album: "Sunshine"
 escuchas: 34
 puesto: 1
 semana: "2026-W33"
+clave: "jungle|sunshine"
 nuevo_album: true
+novedad: true
 portada: "5be6fea2a9e4305c.jpg"
 mbid: "c88f9195-ae1e-408b-829a-ad85d1e373c7"
 ---
@@ -14,6 +16,8 @@ mbid: "c88f9195-ae1e-408b-829a-ad85d1e373c7"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c88f9195-ae1e-408b-829a-ad85d1e373c7)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-08-14, 3 días antes de acabar la semana
 
 **Escuchas:** 34
 

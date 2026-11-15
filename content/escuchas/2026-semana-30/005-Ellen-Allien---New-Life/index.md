@@ -6,6 +6,7 @@ album: "New Life"
 escuchas: 10
 puesto: 5
 semana: "2026-W30"
+clave: "ellen allien|new life"
 nuevo_album: true
 mix: 2
 portada: "ee91cf0d96498e5b.jpg"

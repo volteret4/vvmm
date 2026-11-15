@@ -6,6 +6,7 @@ album: "Futureworld"
 escuchas: 6
 puesto: 10
 semana: "2026-W03"
+clave: "trans am|futureworld"
 portada: "83a547ca0d9126bd.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Trans+Am/Futureworld)

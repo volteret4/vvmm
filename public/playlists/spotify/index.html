@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Playlists · vvmm</title>
+  <meta name="description" content="Playlists">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  
+  <meta property="og:url" content="/playlists/spotify/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Playlists">
+	<meta property="og:description" content="Actualizado el 10-07-2025
+Cantadas ylist creada el 22/05/2025 con spotify_add_song.py
+Happy Times ylist creada el 21/05/2025 con spotify_add_song.py
+Pintura
+Pintura 2
+cena para tres a tener de fondo de una conversación
+Remember Lo que seguirá sonando durante el futuro
+awakened canciones de buen humor movidas
+Downers Candy told me nothing matters anymore
+awakenings Perfectas para despertarse
+Floating ladies and gentlemen we are floating in space
+Zuerta ar perro, Paco desfoga animal">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+		<meta property="article:published_time" content="2024-06-20T17:09:06+02:00">
+		<meta property="article:modified_time" content="2024-06-20T17:09:06+02:00">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/" class="on">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+
+<header class="pagehead">
+  <h1>playlists</h1>
+  <nav class="tabs">
+    <a href="/playlists/spotify/" class="on">Spotify</a>
+    <a href="/playlists/youtube/">YouTube <sup>113</sup></a>
+  </nav>
+</header>
+
+<section class="player plplayer" id="plplayer" hidden></section>
+
+
+  <div class="prose plist" id="plist"><p><em>Actualizado el 10-07-2025</em></p>
+<p><a href="https://open.spotify.com/playlist/7gbqRr6cigPuAJY4BOjjiJ">Cantadas</a> ylist creada el 22/05/2025 con spotify_add_song.py</p>
+<p><a href="https://open.spotify.com/playlist/2wqa8YV84z9Th1DFuJz5Ls">Happy Times</a> ylist creada el 21/05/2025 con spotify_add_song.py</p>
+<p><a href="https://open.spotify.com/playlist/1vY9TGcTVypNXtaQez1YsR">Pintura</a></p>
+<p><a href="https://open.spotify.com/playlist/1E9DK1QfRR8dg1rVWPEq8v">Pintura 2</a></p>
+<p><a href="https://open.spotify.com/playlist/3j6Hp6Ikt1ioOZbw6xouJT">cena para tres</a> a tener de fondo de una conversación</p>
+<p><a href="https://open.spotify.com/playlist/03VlNYFXZ6evLWvLMNKHk8">Remember</a> Lo que seguirá sonando durante el futuro</p>
+<p><a href="https://open.spotify.com/playlist/3521U6PDIZLoP6S9jQhI86">awakened</a> canciones de buen humor movidas</p>
+<p><a href="https://open.spotify.com/playlist/018ue54Sw3ZFHZurBEndcV">Downers</a> Candy told me nothing matters anymore</p>
+<p><a href="https://open.spotify.com/playlist/3SMJF8liZFhWUX4uAV2xwF">awakenings</a> Perfectas para despertarse</p>
+<p><a href="https://open.spotify.com/playlist/38onpFeWMwMrGePaTes7F0">Floating</a> ladies and gentlemen we are floating in space</p>
+<p><a href="https://open.spotify.com/playlist/1GME9Y5nWzOM6t5g1eRZ1a">Zuerta ar perro, Paco</a> desfoga animal</p>
+<p><a href="https://open.spotify.com/playlist/3vCfGWhpGn2mcrlsCYMuLM">Lecturas</a> po eso, pa bailar mientras limpias</p>
+<p><a href="https://open.spotify.com/playlist/6YCNVAkIyrKOUItxv3tRxe">balearic</a> noches de verano</p>
+<p><a href="https://open.spotify.com/playlist/1LYAqxDMqhy0TMIOBzhOqg">Mama</a> ni playlist ni playlisto</p>
+<p><a href="https://open.spotify.com/playlist/4R1Q00icNWjLZhUaTphBYW">Albums_HiFi</a> Discos que suenan especialmente bien.</p>
+<p><a href="https://open.spotify.com/playlist/1UTFLjWEUI0tQDw9YY8Xov">test_sonido</a> Canciones para probar tu nuevo juguete.</p>
+<p><a href="https://open.spotify.com/playlist/6A2DsRAhP9X2x3KfhmtlKQ">Albums_HiFi_Vocal</a> Voces grabadas con mimo.</p>
+<p><a href="https://open.spotify.com/playlist/3IM0zBIdD29aUTonLoItN8">deephouse</a> can you feel it?</p>
+<p><a href="https://open.spotify.com/playlist/2vP8Z7RpECG1zLPO4rlm7E">Jazz discos clasicos</a> Take Five</p>
+<p><a href="https://open.spotify.com/playlist/6ANZn8DUuvZkLjRQ99jEua">Techno</a> come with me!</p>
+<p><a href="https://open.spotify.com/playlist/6iunkDx8LJsjqc8rKLFKFq">Música Disco</a> &hellip;.love to love you baby</p>
+<p><a href="https://open.spotify.com/playlist/3BkWtCB5F8aPd8fCXKjQib">Jazz Easy Listening</a>  Jazz facilón para poner de fondo</p>
+<p><a href="https://open.spotify.com/playlist/0cXhMZuqc3RqqEsD9tmB6I">Funk</a> Move on up And keep on wishin'</p>
+<p><a href="https://open.spotify.com/playlist/4UfAj21Ct3fMBb9ZHbUFrN">Rock_Clasico</a> Whop bop b-luma b-lop bam bam</p>
+<p><a href="https://open.spotify.com/playlist/6GSGh243cZ3JQrHyloiu9D">idm</a> respect idm piece of shit</p>
+<p><a href="https://open.spotify.com/playlist/17UP8KWrepiuz831ja3ukH">ambient</a> Music for real airports</p>
+<p><a href="https://open.spotify.com/playlist/0nlHaMWCcZD1EuBHWZsfB7">Maricotita</a></p>
+<p><a href="https://open.spotify.com/playlist/1BExuHcm8oWo8vDY9IhnQw">Marta_Rocco</a></p>
+<p><a href="https://open.spotify.com/playlist/62sMxEjlBE0eySOyYDmNBx">Atlas Beach Vintage</a></p>
+<p><a href="https://open.spotify.com/playlist/12yW7n4rxrKwRLQDHnUTWh">sobrinos</a> insuperables</p>
+<p><a href="https://open.spotify.com/playlist/58N5S0tWarVmvfTlv2JdCM">Canijera</a></p>
+<p><a href="https://open.spotify.com/playlist/2hhfLEU3b5HK2TjyyjUDt1">primos</a></p>
+<p><a href="https://open.spotify.com/playlist/4pbk0DKTqTnM2qU0s93aH0">sobrinos a mimi</a></p>
+<p><a href="https://open.spotify.com/playlist/1vl8JhG1Blhb6HYgbYQ3mA">Antonio</a></p>
+<p><a href="https://open.spotify.com/playlist/0hdLD49I022RjFonUfY0Be">Periquito</a></p>
+<p><a href="https://open.spotify.com/playlist/5TtAucXLDCVkcjCJJS4edN">Pumuki</a></p>
+<p><a href="https://open.spotify.com/playlist/7lHRRbNuxGwLx7R09ZAVQx">Silvino</a></p>
+<p><a href="https://open.spotify.com/playlist/4nTPInXb6GkxqYCApRfCjE">Spaze</a></p>
+<p><a href="https://open.spotify.com/playlist/5nMnJQjxHoZxkJsPoCpGB8">Atlas Beach</a></p>
+<p><a href="https://open.spotify.com/playlist/0NAryYvYeu6PZUA09MGRIO">pago del lio</a></p>
+</div>
+
+
+<script>
+(function () {
+  var box = document.getElementById('plplayer');
+  function play(src, cls) {
+    box.className = 'player plplayer ' + cls;
+    box.innerHTML = '<iframe src="' + src + '" loading="lazy" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" title="Reproductor"></iframe>';
+    box.hidden = false;
+    box.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.querySelectorAll('[data-yt]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
+      e.preventDefault();
+      play('https://www.youtube-nocookie.com/embed/videoseries?list=' + a.dataset.yt, 'yt');
+    });
+  });
+  
+  var pl = document.getElementById('plist');
+  if (!pl) return;
+  pl.querySelectorAll('p').forEach(function (p) {
+    var a = p.querySelector('a[href*="open.spotify.com/playlist/"]');
+    if (!a) return;
+    var id = a.href.split('/playlist/')[1].split(/[?#]/)[0];
+    p.className = 'prow';
+    a.target = '_blank'; a.rel = 'noopener';
+    var b = document.createElement('button');
+    b.type = 'button'; b.textContent = '▶'; b.title = 'Escuchar aquí';
+    b.addEventListener('click', function () { play('https://open.spotify.com/embed/playlist/' + id + '?theme=0', 'sp'); });
+    p.prepend(b);
+  });
+})();
+</script>
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

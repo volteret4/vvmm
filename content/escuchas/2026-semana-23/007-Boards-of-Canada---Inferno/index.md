@@ -6,6 +6,7 @@ album: "Inferno"
 escuchas: 7
 puesto: 7
 semana: "2026-W23"
+clave: "boards of canada|inferno"
 portada: "ea62aafb7261863c.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Boards+of+Canada/Inferno)

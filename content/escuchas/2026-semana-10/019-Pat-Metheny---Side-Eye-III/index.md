@@ -6,6 +6,7 @@ album: "Side-Eye III+"
 escuchas: 3
 puesto: 19
 semana: "2026-W10"
+clave: "pat metheny|side eye iii"
 nuevo_album: true
 portada: "82027ab803df2693.jpg"
 ---

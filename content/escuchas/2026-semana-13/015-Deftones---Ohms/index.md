@@ -6,6 +6,7 @@ album: "Ohms"
 escuchas: 10
 puesto: 15
 semana: "2026-W13"
+clave: "deftones|ohms"
 nuevo_album: true
 portada: "4dc1596cf33148c3.jpg"
 ---

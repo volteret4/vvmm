@@ -6,6 +6,7 @@ album: "Imperial EP"
 escuchas: 4
 puesto: 5
 semana: "2026-W36"
+clave: "noisia|imperial ep"
 nuevo_album: true
 mix: 1
 portada: "74d90813e0e3d396.jpg"

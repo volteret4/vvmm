@@ -6,6 +6,7 @@ album: "Going for the One"
 escuchas: 3
 puesto: 56
 semana: "2026-W16"
+clave: "yes|going for the one"
 portada: "caea3befe2564543.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Yes/Going+for+the+One)

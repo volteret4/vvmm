@@ -6,13 +6,17 @@ album: "Aeternum (Existenz)"
 escuchas: 6
 puesto: 4
 semana: "2026-W31"
+clave: "function|aeternum"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "2919db7e512a2a70.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Function/Aeternum+%28Existenz%29)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-07-03, 31 días antes de acabar la semana
 
 **Escuchas:** 6
 

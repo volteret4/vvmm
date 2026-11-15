@@ -6,6 +6,7 @@ album: "Moist"
 escuchas: 4
 puesto: 31
 semana: "2026-W45"
+clave: "schneider tm|moist"
 mix: 3
 portada: "f264321554d4f86c.jpg"
 mbid: "9be61a6e-a91d-436c-8a7a-9fa06dcc4ef3"

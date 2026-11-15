@@ -6,6 +6,7 @@ album: "Funky Boogie"
 escuchas: 3
 puesto: 46
 semana: "2026-W18"
+clave: "john ozila|funky boogie"
 mix: 1
 portada: "858d2b11ab940d7d.png"
 ---

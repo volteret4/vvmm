@@ -6,6 +6,7 @@ album: "Windows EP"
 escuchas: 4
 puesto: 42
 semana: "2026-W16"
+clave: "sleeparchive|windows ep"
 portada: "63df104f7ccc7b3d.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sleeparchive/Windows+EP)

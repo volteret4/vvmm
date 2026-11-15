@@ -6,6 +6,7 @@ album: "Shell~Wave"
 escuchas: 9
 puesto: 21
 semana: "2026-W13"
+clave: "surgeon|shell wave"
 nuevo_album: true
 portada: "07a887f6cb419ce0.png"
 ---

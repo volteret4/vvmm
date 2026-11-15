@@ -6,9 +6,11 @@ album: "Helado Tropical"
 escuchas: 9
 puesto: 1
 semana: "2026-W42"
+clave: "helado tropical|helado tropical"
 nuevo_artista: true
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "9960b4a4cf28a1ca.jpg"
 mbid: "f0c1e321-2589-4b9c-9ac4-0b1983dea3a2"
 ---
@@ -16,6 +18,8 @@ mbid: "f0c1e321-2589-4b9c-9ac4-0b1983dea3a2"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/f0c1e321-2589-4b9c-9ac4-0b1983dea3a2)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-07-17, 94 días antes de acabar la semana
 
 **Escuchas:** 9
 

@@ -6,6 +6,7 @@ album: "Howl"
 escuchas: 5
 puesto: 7
 semana: "2026-W22"
+clave: "rival consoles|howl"
 portada: "04a74f930d3ddab5.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Rival+Consoles/Howl)

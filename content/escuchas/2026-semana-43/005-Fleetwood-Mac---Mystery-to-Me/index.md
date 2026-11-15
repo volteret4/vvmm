@@ -6,6 +6,7 @@ album: "Mystery to Me"
 escuchas: 5
 puesto: 5
 semana: "2026-W43"
+clave: "fleetwood mac|mystery to me"
 nuevo_album: true
 mix: 2
 portada: "a32f4f32ac40f80d.jpg"

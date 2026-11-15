@@ -6,11 +6,15 @@ album: "Best Of Micro Samples Vol. 2"
 escuchas: 8
 puesto: 6
 semana: "2026-W40"
+clave: "skee mask|best of micro samples vol 2"
+novedad: true
 portada: "ebfdce6665a3ea22.jpg"
 mbid: "b54e364e-24d0-44f3-9b13-9a02a785efef"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Skee+Mask/Best+Of+Micro+Samples+Vol.+2)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b54e364e-24d0-44f3-9b13-9a02a785efef)
+
+**Novedad:** publicado el 2026-07-23, 74 días antes de acabar la semana
 
 **Escuchas:** 8
 

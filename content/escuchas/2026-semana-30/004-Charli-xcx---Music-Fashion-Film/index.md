@@ -6,6 +6,7 @@ album: "Music, Fashion, Film"
 escuchas: 11
 puesto: 4
 semana: "2026-W30"
+clave: "charli xcx|music fashion film"
 nuevo_album: true
 portada: "b2a55c65eb966771.png"
 ---

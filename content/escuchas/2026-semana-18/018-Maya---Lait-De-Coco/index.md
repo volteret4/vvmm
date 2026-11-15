@@ -6,6 +6,7 @@ album: "Lait De Coco"
 escuchas: 5
 puesto: 18
 semana: "2026-W18"
+clave: "maya|lait de coco"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

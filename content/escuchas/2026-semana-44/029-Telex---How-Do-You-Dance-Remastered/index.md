@@ -6,6 +6,7 @@ album: "How Do You Dance? (Remastered)"
 escuchas: 4
 puesto: 29
 semana: "2026-W44"
+clave: "telex|how do you dance"
 nuevo_artista: true
 nuevo_album: true
 mix: 3

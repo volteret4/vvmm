@@ -6,6 +6,7 @@ album: "BELLS"
 escuchas: 7
 puesto: 14
 semana: "2026-W16"
+clave: "吉田美奈子|bells"
 nuevo_album: true
 portada: "35084919799ff64b.png"
 mbid: "3eae4715-8dfc-48be-ade4-ca9f3f73ed43"

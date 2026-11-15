@@ -1,0 +1,866 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 13 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 13 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-13/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-13/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 13 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 13<small>2026</small></h1>
+    <p>23–29 mar 2026 · 324 escuchas · 35 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 10 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 18 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 12 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-14/">← semana 14</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-12/">semana 12 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/001-holy-fuck---event-beat/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e417abd45ebc0b6f_hu_ebc436efd1fbb28f.webp" width="360" height="360" loading="lazy" alt="Holy Fuck - Event Beat">
+          
+        </div>
+        <div class="cap">
+          <b>Event Beat</b>
+          <span>Holy Fuck</span>
+          <time>#1 · 22 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/002-dj-metatron---loops-of-infinity-a-rave-loveletter/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c43618de08685187_hu_5be7c6208f97a3e5.webp" width="360" height="360" loading="lazy" alt="DJ Metatron - Loops Of Infinity (A Rave Loveletter)">
+          
+        </div>
+        <div class="cap">
+          <b>Loops Of Infinity (A Rave Loveletter)</b>
+          <span>DJ Metatron</span>
+          <time>#2 · 18 escuchas</time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/003-deftones---deftones/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/01174706ea794e9f_hu_3eb2a7d1db6f2fa5.webp" width="360" height="360" loading="lazy" alt="Deftones - Deftones">
+          
+        </div>
+        <div class="cap">
+          <b>Deftones</b>
+          <span>Deftones</span>
+          <time>#3 · 14 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/004-sandwell-district---end-beginnings/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/acb38b5616bd6268_hu_6e9c09841033900b.webp" width="360" height="360" loading="lazy" alt="Sandwell District - End Beginnings">
+          
+        </div>
+        <div class="cap">
+          <b>End Beginnings</b>
+          <span>Sandwell District</span>
+          <time>#4 · 13 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/005-deftones---white-pony-2020-20th-anniversary-deluxe-edition/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ce39745236da16b8_hu_b9a7b28785749b14.webp" width="360" height="360" loading="lazy" alt="Deftones - White Pony (2020 20th anniversary deluxe edition)">
+          
+        </div>
+        <div class="cap">
+          <b>White Pony (2020 20th anniversary deluxe edition)</b>
+          <span>Deftones</span>
+          <time>#5 · 12 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/006-deftones---saturday-night-wrist/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/3520f5644d3dedd8_hu_f0a0b8f56820c5e.webp" width="360" height="360" loading="lazy" alt="Deftones - Saturday Night Wrist">
+          
+        </div>
+        <div class="cap">
+          <b>Saturday Night Wrist</b>
+          <span>Deftones</span>
+          <time>#6 · 12 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/007-ross-from-friends---tread/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/389eb6d70fb71f9a_hu_63e3ce6bfec767fa.webp" width="360" height="360" loading="lazy" alt="Ross From Friends - Tread">
+          
+        </div>
+        <div class="cap">
+          <b>Tread</b>
+          <span>Ross From Friends</span>
+          <time>#7 · 12 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/008-deftones---diamond-eyes/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6b71c3b05aaec324_hu_ccc8cf0792cec8ed.webp" width="360" height="360" loading="lazy" alt="Deftones - Diamond Eyes">
+          
+        </div>
+        <div class="cap">
+          <b>Diamond Eyes</b>
+          <span>Deftones</span>
+          <time>#8 · 11 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/009-deftones---koi-no-yokan/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/165b13fa9d15b561_hu_c143cd5be0f88261.webp" width="360" height="360" loading="lazy" alt="Deftones - Koi No Yokan">
+          
+        </div>
+        <div class="cap">
+          <b>Koi No Yokan</b>
+          <span>Deftones</span>
+          <time>#9 · 11 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/010-john-maus---we-must-become-the-pitiless-censors-of-ourselves/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/13b19561dcf0b86a_hu_dc96c404d76c5894.webp" width="360" height="360" loading="lazy" alt="John Maus - We Must Become the Pitiless Censors of Ourselves">
+          
+        </div>
+        <div class="cap">
+          <b>We Must Become the Pitiless Censors of Ourselves</b>
+          <span>John Maus</span>
+          <time>#10 · 11 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/011-tom-misch---full-circle/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b7a2a422473fe2b5_hu_a076ca037f79fa41.webp" width="360" height="360" loading="lazy" alt="Tom Misch - Full Circle">
+          
+        </div>
+        <div class="cap">
+          <b>Full Circle</b>
+          <span>Tom Misch</span>
+          <time>#11 · 11 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/012-avalon-emerson-the-charm---written-into-changes/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/014cb2af2c232792_hu_ec0bb1020ac3cc2e.webp" width="360" height="360" loading="lazy" alt="Avalon Emerson &amp; The Charm - Written Into Changes">
+          
+        </div>
+        <div class="cap">
+          <b>Written Into Changes</b>
+          <span>Avalon Emerson &amp; The Charm</span>
+          <time>#12 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/013-courtney-barnett---creature-of-habit/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/af2749658ab1d318_hu_d936579489a15135.webp" width="360" height="360" loading="lazy" alt="Courtney Barnett - Creature of Habit">
+          
+        </div>
+        <div class="cap">
+          <b>Creature of Habit</b>
+          <span>Courtney Barnett</span>
+          <time>#13 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/014-deftones---around-the-fur/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/fd63dbefc7549d6b_hu_8a0a9d0b245488db.webp" width="360" height="360" loading="lazy" alt="Deftones - Around the Fur">
+          
+        </div>
+        <div class="cap">
+          <b>Around the Fur</b>
+          <span>Deftones</span>
+          <time>#14 · 10 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/015-deftones---ohms/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4dc1596cf33148c3_hu_288d3e6e31ae9049.webp" width="360" height="360" loading="lazy" alt="Deftones - Ohms">
+          
+        </div>
+        <div class="cap">
+          <b>Ohms</b>
+          <span>Deftones</span>
+          <time>#15 · 10 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/016-irreversible-entanglements---future-present-past/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/cc0f788977c67de9_hu_f69fddeebdd0f3f2.webp" width="360" height="360" loading="lazy" alt="Irreversible Entanglements - Future Present Past">
+          
+        </div>
+        <div class="cap">
+          <b>Future Present Past</b>
+          <span>Irreversible Entanglements</span>
+          <time>#16 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/017-mike-dean---424/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/148263df79bdeeba_hu_682df28da535c7ce.webp" width="360" height="360" loading="lazy" alt="Mike Dean - 424">
+          
+        </div>
+        <div class="cap">
+          <b>424</b>
+          <span>Mike Dean</span>
+          <time>#17 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/018-deftones---adrenaline/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6b60c1279e4b3d35_hu_925e619ce7e5e679.webp" width="360" height="360" loading="lazy" alt="Deftones - Adrenaline">
+          
+        </div>
+        <div class="cap">
+          <b>Adrenaline</b>
+          <span>Deftones</span>
+          <time>#18 · 9 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/019-robyn---sexistential/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c243cdafd4b266ab_hu_916e170d2095598f.webp" width="360" height="360" loading="lazy" alt="Robyn - Sexistential">
+          
+        </div>
+        <div class="cap">
+          <b>Sexistential</b>
+          <span>Robyn</span>
+          <time>#19 · 9 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/020-shinichi-atobe---silent-way/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/9344a906773a82d9_hu_3c222a1292fcf7aa.webp" width="360" height="360" loading="lazy" alt="Shinichi Atobe - Silent Way">
+          
+        </div>
+        <div class="cap">
+          <b>Silent Way</b>
+          <span>Shinichi Atobe</span>
+          <time>#20 · 9 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/021-surgeon---shell-wave/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/07a887f6cb419ce0_hu_a9782175eacfd2fb.webp" width="360" height="360" loading="lazy" alt="Surgeon - Shell~Wave">
+          
+        </div>
+        <div class="cap">
+          <b>Shell~Wave</b>
+          <span>Surgeon</span>
+          <time>#21 · 9 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/022-errorsmith---superlative-fatigue/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/baaa03b3877ef1ef_hu_82924022d79f7ef8.webp" width="360" height="360" loading="lazy" alt="Errorsmith - Superlative Fatigue">
+          
+        </div>
+        <div class="cap">
+          <b>Superlative Fatigue</b>
+          <span>Errorsmith</span>
+          <time>#22 · 8 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/023-prurient---electronic-city/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b5430bfc633d2f79_hu_a6ba2d9460c5d62a.webp" width="360" height="360" loading="lazy" alt="Prurient - Electronic City">
+          
+        </div>
+        <div class="cap">
+          <b>Electronic City</b>
+          <span>Prurient</span>
+          <time>#23 · 7 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/024-bananarama---please-yourself-deluxe-2cd-edition-2013/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Please Yourself (Deluxe 2CD Edition) (2013)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Please Yourself (Deluxe 2CD Edition) (2013)</b>
+          <span>Bananarama</span>
+          <time>#24 · 6 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/025-snail-mail---ricochet/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/358561e7e58c3ede_hu_5dc6c979fda61c6f.webp" width="360" height="360" loading="lazy" alt="Snail Mail - Ricochet">
+          
+        </div>
+        <div class="cap">
+          <b>Ricochet</b>
+          <span>Snail Mail</span>
+          <time>#25 · 6 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/026-the-bangles---different-light/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f5a55f5c6e06705d_hu_666da9ed1c124f02.webp" width="360" height="360" loading="lazy" alt="The Bangles - Different Light">
+          
+        </div>
+        <div class="cap">
+          <b>Different Light</b>
+          <span>The Bangles</span>
+          <time>#26 · 6 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/027-dj-metatron---u-ll-be-the-king-of-the-stars/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/82a14e80943d402d_hu_2925259d7b970012.webp" width="360" height="360" loading="lazy" alt="DJ Metatron - U&#39;ll Be The King Of The Stars">
+          
+        </div>
+        <div class="cap">
+          <b>U&#39;ll Be The King Of The Stars</b>
+          <span>DJ Metatron</span>
+          <time>#27 · 6 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/028-roza-terenzi-d-tiffany---edge-of-innocence/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b541463f146df6ee_hu_208f60a46129db97.webp" width="360" height="360" loading="lazy" alt="Roza Terenzi &amp; D. Tiffany - Edge Of Innocence">
+          
+        </div>
+        <div class="cap">
+          <b>Edge Of Innocence</b>
+          <span>Roza Terenzi &amp; D. Tiffany</span>
+          <time>#28 · 5 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/029-amon-tobin---nomark-selects-vol-2/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/dc79e86da1caaabf_hu_13b376373d729635.webp" width="360" height="360" loading="lazy" alt="Amon Tobin - Nomark Selects, Vol. 2">
+          
+        </div>
+        <div class="cap">
+          <b>Nomark Selects, Vol. 2</b>
+          <span>Amon Tobin</span>
+          <time>#29 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/030-benny-goodman---swing-swing-swing-live/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Swing Swing Swing (Live)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Swing Swing Swing (Live)</b>
+          <span>Benny Goodman</span>
+          <time>#30 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/031-osees---cara-maluco/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/3b86b8eed4a54917_hu_40c58cc23ebfec70.webp" width="360" height="360" loading="lazy" alt="Osees - Cara Maluco">
+          
+        </div>
+        <div class="cap">
+          <b>Cara Maluco</b>
+          <span>Osees</span>
+          <time>#31 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/032-the-black-dog---loud-ambient-ep-1/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/28f91728ace21c74_hu_6c2d3edf142a4b8e.webp" width="360" height="360" loading="lazy" alt="The Black Dog - Loud Ambient EP 1">
+          
+        </div>
+        <div class="cap">
+          <b>Loud Ambient EP 1</b>
+          <span>The Black Dog</span>
+          <time>#32 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/033-jk-flesh---worship-is-the-cleansing-of-the-imagination/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d1e96ba4b6ea8891_hu_3ff500182b4ce2d6.webp" width="360" height="360" loading="lazy" alt="JK Flesh - Worship is the Cleansing of the Imagination">
+          
+        </div>
+        <div class="cap">
+          <b>Worship is the Cleansing of the Imagination</b>
+          <span>JK Flesh</span>
+          <time>#33 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/034-poppy---empty-hands/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d0acd9da4d45b115_hu_408431f2c52bf92b.webp" width="360" height="360" loading="lazy" alt="Poppy - Empty Hands">
+          
+        </div>
+        <div class="cap">
+          <b>Empty Hands</b>
+          <span>Poppy</span>
+          <time>#34 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-13/035-the-black-dog---loud-ambient-ep1/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d8d022b775ac4938_hu_1e30413dcf6471db.webp" width="360" height="360" loading="lazy" alt="The Black Dog - Loud Ambient EP1">
+          
+        </div>
+        <div class="cap">
+          <b>Loud Ambient EP1</b>
+          <span>The Black Dog</span>
+          <time>#35 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

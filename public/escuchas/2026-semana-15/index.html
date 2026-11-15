@@ -1,0 +1,564 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 15 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 15 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-15/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-15/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 15 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 15<small>2026</small></h1>
+    <p>6–12 abr 2026 · 171 escuchas · 20 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 8 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 2 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 4 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-16/">← semana 16</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-14/">semana 14 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/001-surgeon---shell-wave/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/07a887f6cb419ce0_hu_a9782175eacfd2fb.webp" width="360" height="360" loading="lazy" alt="Surgeon - Shell~Wave">
+          
+        </div>
+        <div class="cap">
+          <b>Shell~Wave</b>
+          <span>Surgeon</span>
+          <time>#1 · 18 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/002-jungle---volcano/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e7ca42a06162d3f3_hu_fd3649ba0e2ecbea.webp" width="360" height="360" loading="lazy" alt="Jungle - Volcano">
+          
+        </div>
+        <div class="cap">
+          <b>Volcano</b>
+          <span>Jungle</span>
+          <time>#2 · 14 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/003-the-mccrarys---all-night-music-capitol-st-12198-us/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7d3fa09ff8857f52_hu_49506a1f4b0fd7fb.webp" width="360" height="360" loading="lazy" alt="The McCrarys - All Night Music [Capitol ST-12198 US]">
+          
+        </div>
+        <div class="cap">
+          <b>All Night Music [Capitol ST-12198 US]</b>
+          <span>The McCrarys</span>
+          <time>#3 · 12 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/004-deftones---ohms/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4dc1596cf33148c3_hu_288d3e6e31ae9049.webp" width="360" height="360" loading="lazy" alt="Deftones - Ohms">
+          
+        </div>
+        <div class="cap">
+          <b>Ohms</b>
+          <span>Deftones</span>
+          <time>#4 · 10 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/005-sandwell-district---end-beginnings/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/acb38b5616bd6268_hu_6e9c09841033900b.webp" width="360" height="360" loading="lazy" alt="Sandwell District - End Beginnings">
+          
+        </div>
+        <div class="cap">
+          <b>End Beginnings</b>
+          <span>Sandwell District</span>
+          <time>#5 · 10 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/006-johm---canopy/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Canopy</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Canopy</b>
+          <span>JohM</span>
+          <time>#6 · 10 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/007-apparat---a-hum-of-maybe/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/5cdc57cde088684d_hu_2636fce6383ee980.webp" width="360" height="360" loading="lazy" alt="Apparat - A Hum Of Maybe">
+          
+        </div>
+        <div class="cap">
+          <b>A Hum Of Maybe</b>
+          <span>Apparat</span>
+          <time>#7 · 9 escuchas</time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/008-kas-st---a-magic-world/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c2a7d7012bd1fe6d_hu_7b57065357f9b4ab.webp" width="360" height="360" loading="lazy" alt="KAS:ST - A Magic World">
+          
+        </div>
+        <div class="cap">
+          <b>A Magic World</b>
+          <span>KAS:ST</span>
+          <time>#8 · 8 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/009-squarepusher---kammerkonzert/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/0f8d928f386c9d74_hu_11920559b3f71868.webp" width="360" height="360" loading="lazy" alt="Squarepusher - Kammerkonzert">
+          
+        </div>
+        <div class="cap">
+          <b>Kammerkonzert</b>
+          <span>Squarepusher</span>
+          <time>#9 · 7 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/010-j-o-b-orquestra---open-the-doors-to-your-heart/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ff9484f5b634cd47_hu_a27fc788dd0df081.webp" width="360" height="360" loading="lazy" alt="J.O.B. Orquestra - Open The Doors To Your Heart">
+          
+        </div>
+        <div class="cap">
+          <b>Open The Doors To Your Heart</b>
+          <span>J.O.B. Orquestra</span>
+          <time>#10 · 6 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/011-altin-gun---garip/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/2135e2613a0e14c5_hu_bd78c9b8320da05d.webp" width="360" height="360" loading="lazy" alt="Altin Gün - Garip">
+          
+        </div>
+        <div class="cap">
+          <b>Garip</b>
+          <span>Altin Gün</span>
+          <time>#11 · 5 escuchas</time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/012-dj-metatron---u-ll-be-the-king-of-the-stars/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/82a14e80943d402d_hu_2925259d7b970012.webp" width="360" height="360" loading="lazy" alt="DJ Metatron - U’ll Be The King Of The Stars">
+          
+        </div>
+        <div class="cap">
+          <b>U’ll Be The King Of The Stars</b>
+          <span>DJ Metatron</span>
+          <time>#12 · 5 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/013-errorsmith---superlative-fatigue/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/baaa03b3877ef1ef_hu_82924022d79f7ef8.webp" width="360" height="360" loading="lazy" alt="Errorsmith - Superlative Fatigue">
+          
+        </div>
+        <div class="cap">
+          <b>Superlative Fatigue</b>
+          <span>Errorsmith</span>
+          <time>#13 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/014-sciahri---seyl/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Seyl</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Seyl</b>
+          <span>Sciahri</span>
+          <time>#14 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/015-skee-mask---stressmanagement/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/234f92af7181ec6d_hu_2ed4bdc3613957e2.webp" width="360" height="360" loading="lazy" alt="Skee Mask - Stressmanagement">
+          
+        </div>
+        <div class="cap">
+          <b>Stressmanagement</b>
+          <span>Skee Mask</span>
+          <time>#15 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/016-jk-flesh---worship-is-the-cleansing-of-the-imagination/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d1e96ba4b6ea8891_hu_3ff500182b4ce2d6.webp" width="360" height="360" loading="lazy" alt="JK Flesh - Worship is the Cleansing of the Imagination">
+          
+        </div>
+        <div class="cap">
+          <b>Worship is the Cleansing of the Imagination</b>
+          <span>JK Flesh</span>
+          <time>#16 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/017-kas-st-feat-brume---a-magic-world/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c3c70de2e9fb83d8_hu_7b57065357f9b4ab.webp" width="360" height="360" loading="lazy" alt="KAS:ST feat. Brume - A Magic World">
+          
+        </div>
+        <div class="cap">
+          <b>A Magic World</b>
+          <span>KAS:ST feat. Brume</span>
+          <time>#17 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/018-prurient---worship-is-the-cleansing-of-the-imagination/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c4bb73027ed39b1a_hu_3ff500182b4ce2d6.webp" width="360" height="360" loading="lazy" alt="Prurient - Worship is the Cleansing of the Imagination">
+          
+        </div>
+        <div class="cap">
+          <b>Worship is the Cleansing of the Imagination</b>
+          <span>Prurient</span>
+          <time>#18 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/019-renee-geyer---it-s-a-man-s-man-s-world/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/71675859f863d3cb_hu_69121984d5cc7e7f.webp" width="360" height="360" loading="lazy" alt="Renée Geyer - It&#39;s A Man&#39;s Man&#39;s World">
+          
+        </div>
+        <div class="cap">
+          <b>It&#39;s A Man&#39;s Man&#39;s World</b>
+          <span>Renée Geyer</span>
+          <time>#19 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-15/020-luar---kontur-ii/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b073bbd02c3db9eb_hu_92d96854c87559e.webp" width="360" height="360" loading="lazy" alt="Luar - Kontur II">
+          
+        </div>
+        <div class="cap">
+          <b>Kontur II</b>
+          <span>Luar</span>
+          <time>#20 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

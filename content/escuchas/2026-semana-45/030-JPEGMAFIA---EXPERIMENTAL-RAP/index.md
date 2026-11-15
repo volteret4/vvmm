@@ -6,6 +6,7 @@ album: "EXPERIMENTAL RAP"
 escuchas: 4
 puesto: 30
 semana: "2026-W45"
+clave: "jpegmafia|experimental rap"
 portada: "c4c241c1ec60f8ad.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/JPEGMAFIA/EXPERIMENTAL+RAP)

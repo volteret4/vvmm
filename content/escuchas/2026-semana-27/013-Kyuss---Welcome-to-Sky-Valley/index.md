@@ -6,6 +6,7 @@ album: "Welcome to Sky Valley"
 escuchas: 3
 puesto: 13
 semana: "2026-W27"
+clave: "kyuss|welcome to sky valley"
 nuevo_album: true
 portada: "c90eef41003317fa.png"
 ---

@@ -6,6 +6,7 @@ album: "Wuzzelbud \"kk\""
 escuchas: 3
 puesto: 11
 semana: "2026-W24"
+clave: "robag wruhme|wuzzelbud kk"
 nuevo_album: true
 portada: "8ccc087e86bedcde.jpg"
 ---

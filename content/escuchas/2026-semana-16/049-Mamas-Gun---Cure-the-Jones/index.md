@@ -6,6 +6,7 @@ album: "Cure the Jones"
 escuchas: 3
 puesto: 49
 semana: "2026-W16"
+clave: "mamas gun|cure the jones"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

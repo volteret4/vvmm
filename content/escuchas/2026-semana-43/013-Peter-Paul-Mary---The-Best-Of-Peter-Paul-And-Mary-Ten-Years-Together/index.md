@@ -6,6 +6,7 @@ album: "The Best Of Peter, Paul And Mary: Ten Years Together"
 escuchas: 3
 puesto: 13
 semana: "2026-W43"
+clave: "peter paul mary|the best of peter paul and mary ten years together"
 nuevo_album: true
 portada: "a23673ff1223b2e5.jpg"
 mbid: "b34757fc-cf2e-44fb-9c4f-4f4eff161f7c"

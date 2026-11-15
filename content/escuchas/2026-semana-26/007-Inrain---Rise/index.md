@@ -6,9 +6,13 @@ album: "Rise"
 escuchas: 5
 puesto: 7
 semana: "2026-W26"
+clave: "inrain|rise"
+novedad: true
 portada: "d69dd8927bda3db3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Inrain/Rise)
+
+**Novedad:** publicado el 2026-04-23, 67 días antes de acabar la semana
 
 **Escuchas:** 5
 

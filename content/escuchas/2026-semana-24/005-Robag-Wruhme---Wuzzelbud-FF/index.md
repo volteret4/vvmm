@@ -6,6 +6,7 @@ album: "Wuzzelbud FF"
 escuchas: 7
 puesto: 5
 semana: "2026-W24"
+clave: "robag wruhme|wuzzelbud ff"
 nuevo_album: true
 portada: "655e9ac2d5413513.jpg"
 ---

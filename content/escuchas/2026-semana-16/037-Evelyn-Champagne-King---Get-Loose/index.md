@@ -6,6 +6,7 @@ album: "Get Loose"
 escuchas: 4
 puesto: 37
 semana: "2026-W16"
+clave: "evelyn champagne king|get loose"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

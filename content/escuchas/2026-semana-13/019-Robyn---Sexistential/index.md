@@ -6,7 +6,9 @@ album: "Sexistential"
 escuchas: 9
 puesto: 19
 semana: "2026-W13"
+clave: "robyn|sexistential"
 nuevo_album: true
+novedad: true
 portada: "c243cdafd4b266ab.jpg"
 mbid: "fd933263-a75c-4866-bc43-2af05db788f8"
 ---
@@ -14,6 +16,8 @@ mbid: "fd933263-a75c-4866-bc43-2af05db788f8"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/fd933263-a75c-4866-bc43-2af05db788f8)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-03, 29 días antes de acabar la semana
 
 **Escuchas:** 9
 

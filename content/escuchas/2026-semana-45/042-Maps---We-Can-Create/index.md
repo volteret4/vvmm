@@ -6,6 +6,7 @@ album: "We Can Create"
 escuchas: 3
 puesto: 42
 semana: "2026-W45"
+clave: "maps|we can create"
 nuevo_album: true
 portada: "6b72978b614b9cd2.jpg"
 mbid: "b6389468-5eed-4659-b841-598a7dab4ac7"

@@ -6,6 +6,7 @@ album: "Bodypop"
 escuchas: 5
 puesto: 23
 semana: "2026-W44"
+clave: "and one|bodypop"
 nuevo_artista: true
 nuevo_album: true
 mix: 4

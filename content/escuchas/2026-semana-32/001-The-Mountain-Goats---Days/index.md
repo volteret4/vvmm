@@ -6,12 +6,16 @@ album: "Days"
 escuchas: 12
 puesto: 1
 semana: "2026-W32"
+clave: "the mountain goats|days"
 nuevo_album: true
+novedad: true
 portada: "b35e2fd5ddf9dd1b.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Mountain+Goats/Days)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-08-07, 3 días antes de acabar la semana
 
 **Escuchas:** 12
 

@@ -6,6 +6,7 @@ album: "Cinema 3000"
 escuchas: 3
 puesto: 11
 semana: "2026-W38"
+clave: "common saints|cinema 3000"
 nuevo_album: true
 portada: "3e7548acd716a512.jpg"
 mbid: "5f7a87c8-7308-4316-9611-5fca9ef4500d"

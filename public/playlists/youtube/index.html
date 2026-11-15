@@ -1,0 +1,1328 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Playlists · vvmm</title>
+  <meta name="description" content="Playlists">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  
+  <meta property="og:url" content="/playlists/youtube/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Playlists">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/" class="on">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+
+<header class="pagehead">
+  <h1>playlists</h1>
+  <nav class="tabs">
+    <a href="/playlists/spotify/">Spotify</a>
+    <a href="/playlists/youtube/" class="on">YouTube <sup>113</sup></a>
+  </nav>
+</header>
+
+<section class="player plplayer" id="plplayer" hidden></section>
+
+
+  
+    
+    
+    
+      <h2 class="yearhead">sincronizadas desde Mix <small>1</small></h2>
+      <section class="grid">
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PLK7umPZeM_fA" target="_blank" rel="noopener" data-yt="PLK7umPZeM_fA" title="Sincronizada desde idm.m3u">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/pN0QzsTbgmg/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>idm</b>
+              <time>84 vídeos · desde oct 2026</time>
+            </div>
+          </a>
+        
+      </section>
+    
+  
+    
+    
+    
+      <h2 class="yearhead">del canal <small>112</small></h2>
+      <section class="grid">
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydfs7-fo9i6NOCtErI_aF4O" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydfs7-fo9i6NOCtErI_aF4O" title="Collection of songs digged by the awesome communitty of rateyourmusic forums. You can follow the thread here: https://rym.fm/discussion/music-polls_games/most-beautiful-songs-of-all-time-builder/">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Most beautiful songs of all time</b>
+              <time>1300 vídeos · desde abr 2026</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfhApJkOYmJFXmxIpCYdwrY" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfhApJkOYmJFXmxIpCYdwrY" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/8q39Rc6IwFo/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Techno a granel</b>
+              <time>231 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydzGx5F2CNrEXf8rxNkq0gt" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydzGx5F2CNrEXf8rxNkq0gt" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/BcKjk-bb6eI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Grove Soul</b>
+              <time>193 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyckCtQWikVBUAW3Bs2PYl8_" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyckCtQWikVBUAW3Bs2PYl8_" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/HJrZ1LAOLYQ/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Música de época</b>
+              <time>104 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyePE63zZGLpBenHnFBH_ypT" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyePE63zZGLpBenHnFBH_ypT" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/tJjptXCcRUc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>LP Full</b>
+              <time>97 vídeos · desde sept 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyc8kiO5UZ34apcbvmAezCcG" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyc8kiO5UZ34apcbvmAezCcG" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/Kpljk-ywO-o/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>putapunki</b>
+              <time>75 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycHzJ4VRjg2e8rN9Bs-Nyea" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycHzJ4VRjg2e8rN9Bs-Nyea" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/r8jjBrp-dMc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>HOUSE probable</b>
+              <time>67 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeV7-WkiQDF8hixBdaFLeaF" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeV7-WkiQDF8hixBdaFLeaF" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/lnBQdI3sl9I/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>burn the House</b>
+              <time>66 vídeos · desde feb 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEye_3vxvwryg9FUDV4sxL6gh" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEye_3vxvwryg9FUDV4sxL6gh" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/68ugkg9RePc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Antonio&#39;s Classics</b>
+              <time>62 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydofTc0kjqM9kUW4ka9huoD" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydofTc0kjqM9kUW4ka9huoD" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/KJxJxr9RlKM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mitos House</b>
+              <time>58 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydCXFHmbNGzedbLovW0frpj" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydCXFHmbNGzedbLovW0frpj" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/pl3Oty_YwvM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mitos Disco</b>
+              <time>56 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyc_WRMRw09wJCRqC1VAtCo3" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyc_WRMRw09wJCRqC1VAtCo3" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/SVglIzXkZNo/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Dark Techno</b>
+              <time>54 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyctndl2DkgPb5LcSkpKxyFe" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyctndl2DkgPb5LcSkpKxyFe" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/zY8Tvd6F0KI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Leti</b>
+              <time>48 vídeos · desde sept 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfoJGyi7ckGeIyO4SiI7w9c" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfoJGyi7ckGeIyO4SiI7w9c" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/PZqQT5904_U/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mamá 2017</b>
+              <time>48 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydqXlY7h71L8kgB_iSlkzt5" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydqXlY7h71L8kgB_iSlkzt5" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/hmY_oFQx6jc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>samples</b>
+              <time>45 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfc_l2fdq5zF4dSCKQTsBsQ" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfc_l2fdq5zF4dSCKQTsBsQ" title="This playlist was created by https://www.tunemymusic.com that lets you transfer your playlist to YouTube from any music platform such as Spotify, Deezer, Apple Music etc.">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/9T_6l7IOgOU/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>CanelaParty 2024</b>
+              <time>40 vídeos · desde sept 2023</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycCOW37984xGZduIsrwYO7W" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycCOW37984xGZduIsrwYO7W" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/VmPteZtNhWQ/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Sesiones</b>
+              <time>29 vídeos · desde ago 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeqkFz1ZL1Oz30Me7hI0P4S" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeqkFz1ZL1Oz30Me7hI0P4S" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/dCmJ5KmCKMs/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Boiler Sets</b>
+              <time>27 vídeos · desde mar 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeCcpr9BSFeZxNQHFEjHnN0" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeCcpr9BSFeZxNQHFEjHnN0" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/pZRsgj6j1NE/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Leti 2</b>
+              <time>26 vídeos · desde sept 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydMKg3gNpN14jajWwX0rBQ1" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydMKg3gNpN14jajWwX0rBQ1" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/ykkBFZLxilA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>raver</b>
+              <time>25 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyejKmPc9LYdvWl8GFF1hJGO" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyejKmPc9LYdvWl8GFF1hJGO" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/8mHxcjB03Dc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Hip Hop</b>
+              <time>22 vídeos · desde dic 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydZLlnsHfH6Cfi0eWwsnL_a" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydZLlnsHfH6Cfi0eWwsnL_a" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/4AK1FHUR2Us/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mamá Ladilla</b>
+              <time>21 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyds-D5PehwYFnxi673eIDAE" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyds-D5PehwYFnxi673eIDAE" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/70h_KUa5aL0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>TechnoTRAVEL</b>
+              <time>18 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf4wup3e65qla21gM8jpaX1" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf4wup3e65qla21gM8jpaX1" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/RBEt2lZ6kcI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Techno 5 AM</b>
+              <time>17 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeDJP4JNnwsQATFMJ5Hxvrt" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeDJP4JNnwsQATFMJ5Hxvrt" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/PGqCWvkueJk/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>vocals samples</b>
+              <time>17 vídeos · desde may 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfBwUVI0G_RXeFlGuLdeqp_" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfBwUVI0G_RXeFlGuLdeqp_" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/7H5OPd0xdGc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>color pollo</b>
+              <time>16 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydg87rSiePvM0x_y2b8njtS" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydg87rSiePvM0x_y2b8njtS" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/Y__rEoUp6Ag/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Diogenes recoge tu cuarto ahora</b>
+              <time>16 vídeos · desde jul 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycHF096VeWPsptUIiQI5_MY" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycHF096VeWPsptUIiQI5_MY" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/KKYYAbGpw6A/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>SoftTechno</b>
+              <time>16 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf6VEjWIYYmyxVzqBttfKwV" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf6VEjWIYYmyxVzqBttfKwV" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/d38xbAFnCSQ/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>ambient techno</b>
+              <time>15 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyddpwOZeWU8zQgdGOd0vD0v" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyddpwOZeWU8zQgdGOd0vD0v" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/x63sNxfGC24/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>HOUSE travel</b>
+              <time>15 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeTGl6zxDKeT4eCpweJfodb" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeTGl6zxDKeT4eCpweJfodb" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/3QyqoGuaR48/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>DnB</b>
+              <time>14 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyehx1xWMyqaQ8gafxD_uTlE" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyehx1xWMyqaQ8gafxD_uTlE" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>monicaca 3.0</b>
+              <time>14 vídeos · desde sept 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyehVVThx7tOMr8HdBi8qlHq" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyehVVThx7tOMr8HdBi8qlHq" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/sFrNsSnk8GM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>no soporto el pop</b>
+              <time>14 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEye3PIE37eUmcv3PWQQrPFxQ" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEye3PIE37eUmcv3PWQQrPFxQ" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/1lcsddnb3Oc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>ambient</b>
+              <time>13 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyciyAiEmfIRI0EirKw2J_eL" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyciyAiEmfIRI0EirKw2J_eL" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/wKJVVkzo7fA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Boiler Techno</b>
+              <time>13 vídeos · desde feb 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfRqkBQd93QrKGanVJH30w5" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfRqkBQd93QrKGanVJH30w5" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/RMT_afQ2vko/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Deeeeep House</b>
+              <time>13 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeVbQQkZjO5KSTQUNowsJiM" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeVbQQkZjO5KSTQUNowsJiM" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/bd53kX4LVO8/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Detroit</b>
+              <time>13 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydFfohhv8vibOT_K9vKR_g1" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydFfohhv8vibOT_K9vKR_g1" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/O4irXQhgMqg/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Topoia Rockero</b>
+              <time>13 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydF9Os1_tabByUHqj0zNBv9" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydF9Os1_tabByUHqj0zNBv9" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/lyVfXmZ-hK8/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Awakening&amp;#39;s Lp</b>
+              <time>12 vídeos · desde abr 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeNHcJqWvFV25T3unrME96z" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeNHcJqWvFV25T3unrME96z" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/LnmtdHiKdTE/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Colombia</b>
+              <time>12 vídeos · desde ago 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf0Fg8Wc573it5szl3hb9kv" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf0Fg8Wc573it5szl3hb9kv" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/4GiIbc_Ombs/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Discos de Oro Clubbingspain.com</b>
+              <time>12 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyflnLHQkM0TyuPMke1146Eu" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyflnLHQkM0TyuPMke1146Eu" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/fOT2gwLv8CA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Tchn ACID</b>
+              <time>11 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycKXEXYrkuYW3PIbmaRu2Ig" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycKXEXYrkuYW3PIbmaRu2Ig" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/I-hKBmTAADo/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Vocal House</b>
+              <time>10 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf5JrXWxzTuA_3vwE869LwL" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf5JrXWxzTuA_3vwE869LwL" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/paFR_ccoEOc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Cumbias   0_____o</b>
+              <time>9 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycSAnHQM3Jr6ItFNR4fZvne" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycSAnHQM3Jr6ItFNR4fZvne" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/IoSZ36MM3zw/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Sonar 23</b>
+              <time>9 vídeos · desde feb 2023</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfoqjlUI9Wqq8KzY69zw0Ku" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfoqjlUI9Wqq8KzY69zw0Ku" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/XP14b6imJiA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>WTF!</b>
+              <time>9 vídeos · desde jul 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeygUDRwCO27658vRyIWNF2" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeygUDRwCO27658vRyIWNF2" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/9G5BuumJ5xA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Jazz Historia</b>
+              <time>8 vídeos · desde oct 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyd9syXtaM4rUIglDbyLx18f" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyd9syXtaM4rUIglDbyLx18f" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/6okxuiiHx2w/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>NuDisco</b>
+              <time>8 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEye_Ce5th_vJcQD8htF0ljeD" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEye_Ce5th_vJcQD8htF0ljeD" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/DbTiMerOw1s/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Experimental</b>
+              <time>7 vídeos · desde feb 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycw87idwdpmWJKLmjqAltyC" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycw87idwdpmWJKLmjqAltyC" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/v0b5_cDNe-I/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mama</b>
+              <time>7 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydwkDeGW1nhtvJym5f0KAJU" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydwkDeGW1nhtvJym5f0KAJU" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/fpHkyuta5jk/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Maricotita</b>
+              <time>7 vídeos · desde may 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyd_TxXA-9BrONg1pmuSuP95" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyd_TxXA-9BrONg1pmuSuP95" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/JgBLAA7eCC0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Minimal Techno</b>
+              <time>7 vídeos · desde ago 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycsgG7q5OPMzbOUlfXQnh1K" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycsgG7q5OPMzbOUlfXQnh1K" title="dseadasr2trf svc24f312">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/1D3tSv9LQlE/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>titulor</b>
+              <time>7 vídeos · desde may 2023</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyc2OjHzUPovdhlBaq3sxEFB" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyc2OjHzUPovdhlBaq3sxEFB" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/-iy_vfVQSIU/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>electro</b>
+              <time>6 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyctlmCxUj2W4Xyi6n98NbKh" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyctlmCxUj2W4Xyi6n98NbKh" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/PQfKFwa-jEY/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mitos Techno</b>
+              <time>6 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycE7f9LjLGIcp2dLTk8dSIq" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycE7f9LjLGIcp2dLTk8dSIq" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/fOT2gwLv8CA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>No tan oscuro</b>
+              <time>6 vídeos · desde feb 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydChurGV2WZY39GLf2IIAiP" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydChurGV2WZY39GLf2IIAiP" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/cxz8qJ2B8Ug/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Sindrome de piernas inquietas</b>
+              <time>6 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydW3KsDq25oSGDK11hYHmVe" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydW3KsDq25oSGDK11hYHmVe" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/-pCFXxV4YEA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>4x4</b>
+              <time>5 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyezQKewiDW2vZd-Sx89qvlE" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyezQKewiDW2vZd-Sx89qvlE" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/_MisWeTvggM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Acid</b>
+              <time>5 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyenQKPNRpCckDgPFx4M4PzF" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyenQKPNRpCckDgPFx4M4PzF" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/ESXgJ9-H-2U/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>clubbing pa ti</b>
+              <time>5 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyes0SizSNh_n6dwj8oOTNj2" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyes0SizSNh_n6dwj8oOTNj2" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/wl5nO5kLk6M/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Dancing Alone in the Dark</b>
+              <time>5 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydKmB8orFXIpt-cAGIeAL8a" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydKmB8orFXIpt-cAGIeAL8a" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/mW_eNCVijLM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>emotional songs</b>
+              <time>5 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfr4t27WV5mfp2FqiGcldN7" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfr4t27WV5mfp2FqiGcldN7" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/oD3lOFpb0is/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Guarni</b>
+              <time>5 vídeos · desde may 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfIsgT16Uo-igMLg178LcMq" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfIsgT16Uo-igMLg178LcMq" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/jaWdVJO5H98/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Jazzzzzzzzzzzz</b>
+              <time>5 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydmEWiMq6rfkJ9QNx7Bh1_i" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydmEWiMq6rfkJ9QNx7Bh1_i" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/84kv2L2wEq8/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>techhhouse</b>
+              <time>5 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyePi9a_Iz22QR-dD8lhIl2t" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyePi9a_Iz22QR-dD8lhIl2t" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/QYsUGBCUNbQ/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>techno experimental</b>
+              <time>5 vídeos · desde nov 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeNIXqTsyfEqyCHnmANMkvR" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeNIXqTsyfEqyCHnmANMkvR" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/V977dX1__tw/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Berghain sets</b>
+              <time>4 vídeos · desde ago 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyerGaPpQsVBpVY9flG7ZZDM" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyerGaPpQsVBpVY9flG7ZZDM" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/9fi-XgoAaP0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>DREAMBEACH 2016</b>
+              <time>4 vídeos · desde dic 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfwFqMK6SCIXJUy0EtJhIhb" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfwFqMK6SCIXJUy0EtJhIhb" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/N9ifBWWonfA/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Dubstep</b>
+              <time>4 vídeos · desde abr 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyec5zT6pb6BNKs3b_vlLPmd" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyec5zT6pb6BNKs3b_vlLPmd" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/oTV9RiE7Sxo/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Techno Funky</b>
+              <time>4 vídeos · desde feb 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf6ANSW9zcWpSy_aeMsH_E-" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf6ANSW9zcWpSy_aeMsH_E-" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/Ukofie-kj7U/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Africa</b>
+              <time>3 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycDhSMX8g5XwuAA_27hcXmn" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycDhSMX8g5XwuAA_27hcXmn" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/-7D3I6U3Vdk/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>ambient house</b>
+              <time>3 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEye735QBiz3awZgllNpz2gk5" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEye735QBiz3awZgllNpz2gk5" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/3NPxqXMZq7o/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Bassline</b>
+              <time>3 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeBTep_zdckTu5wPdaHOcpU" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeBTep_zdckTu5wPdaHOcpU" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/bY00mc3IRB0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Cocinar</b>
+              <time>3 vídeos · desde jun 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEye3CDns_yugki1COJlcQTs2" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEye3CDns_yugki1COJlcQTs2" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/eINBXdqTfOQ/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>DRUGS</b>
+              <time>3 vídeos · desde jun 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydV_H-FRCqD2e8lJL6iMFmw" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydV_H-FRCqD2e8lJL6iMFmw" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/oP1jIMJIvus/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Dub Techno</b>
+              <time>3 vídeos · desde feb 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydbJTtLMhJig5_iIetb8KJ8" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydbJTtLMhJig5_iIetb8KJ8" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/pz8Kp_yELg0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Dubstep Rocks</b>
+              <time>3 vídeos · desde abr 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEych74_YSfl77uJxeFDBQkaa" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEych74_YSfl77uJxeFDBQkaa" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/LogO1hcKSAs/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>industrial</b>
+              <time>3 vídeos · desde ene 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycw8yQHrvKuUaH0ggAEsqUY" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycw8yQHrvKuUaH0ggAEsqUY" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/pdU29EmbIgI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>JaviCó</b>
+              <time>3 vídeos · desde jun 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeJtzDm1X-kt5DJDvMxktK0" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeJtzDm1X-kt5DJDvMxktK0" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/yE4QImQWuYI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>techno evolutivo</b>
+              <time>3 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEye9ktd2-yfA4kwkfVan8Bvq" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEye9ktd2-yfA4kwkfVan8Bvq" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/C93Fb4PC4fo/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Techno SETS</b>
+              <time>3 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycEK6sTyppK7QXJ_CSoH-5A" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycEK6sTyppK7QXJ_CSoH-5A" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/nahQhQ4Gy6k/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>cani 06.12</b>
+              <time>2 vídeos · desde dic 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfCVH3EEISTujsKdC4HIBBA" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfCVH3EEISTujsKdC4HIBBA" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/jxhkQbfA0fI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Cold Wave</b>
+              <time>2 vídeos · desde dic 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydbM5saU3mVp41qz-o6So20" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydbM5saU3mVp41qz-o6So20" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/I2kmmYsM2JE/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>discos de oro clubbingspain.com</b>
+              <time>2 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydqXi9jG-ukyQ5iaGzGn2ln" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydqXi9jG-ukyQ5iaGzGn2ln" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/huzYji2OAD4/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>funk</b>
+              <time>2 vídeos · desde jul 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydn5J0jO0ELGEg_jJmtYrx_" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydn5J0jO0ELGEg_jJmtYrx_" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/8v7Agx74gsU/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Lo-Fi</b>
+              <time>2 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyc4V6cHfbAtMU0nt5jrf1P3" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyc4V6cHfbAtMU0nt5jrf1P3" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/_rqR8_mOp_A/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Oido curtido</b>
+              <time>2 vídeos · desde sept 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycPOSnBtTi9uFxSYQgaom-j" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycPOSnBtTi9uFxSYQgaom-j" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/6HnQ3le-Y6c/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Pleasurable Pain</b>
+              <time>2 vídeos · desde sept 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydv5BETmr8DSRvYi15iK9tF" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydv5BETmr8DSRvYi15iK9tF" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/pvEdwl88J2U/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>PseudoMainstream</b>
+              <time>2 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyd_mC7q2uBaG_BEDxdLu9cm" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyd_mC7q2uBaG_BEDxdLu9cm" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/MBrvOzNHOj0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>refrito</b>
+              <time>2 vídeos · desde oct 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycUwz0XsMo-CZ6b9ZeiD99D" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycUwz0XsMo-CZ6b9ZeiD99D" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/eVVfZAZdIUs/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>sampleado</b>
+              <time>2 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf6cTKnmQvShcqWGmicB_65" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf6cTKnmQvShcqWGmicB_65" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/VyLbEEwd7FI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Silvino_Wine</b>
+              <time>2 vídeos · desde oct 2023</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyd_HOE8tXx449mlOR4OdJHs" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyd_HOE8tXx449mlOR4OdJHs" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/lghL2Sdwacc/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Techno With Soul</b>
+              <time>2 vídeos · desde jul 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfiKc2j10pQpl_iUBC2OZCI" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfiKc2j10pQpl_iUBC2OZCI" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/0QVJBxlwK9E/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Techturas</b>
+              <time>2 vídeos · desde ene 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycBqY6T4Sq8nczqQ8ZX4BeI" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycBqY6T4Sq8nczqQ8ZX4BeI" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/AtPcwhRKqlM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Trance</b>
+              <time>2 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf_RHLcleDsWIjSGx5cYcKZ" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf_RHLcleDsWIjSGx5cYcKZ" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/img/no_thumbnail.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>versiones</b>
+              <time>2 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyeTO6kV2SKoZJz463cnDweN" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyeTO6kV2SKoZJz463cnDweN" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/6vopR3ys8Kw/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>videoclips</b>
+              <time>2 vídeos · desde abr 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyedmhJIWZxkqUhEw1r3NALe" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyedmhJIWZxkqUhEw1r3NALe" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/kojU28hDonM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>acid house</b>
+              <time>1 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydbircrfElpbM_zuICChruX" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydbircrfElpbM_zuICChruX" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/V-H-wu2sNuI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Baterías!!!</b>
+              <time>1 vídeos · desde mar 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyePn1kT6ecOLm2jlYXWKEMT" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyePn1kT6ecOLm2jlYXWKEMT" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/So3gbmaDUuM/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>BigBeat</b>
+              <time>1 vídeos · desde oct 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf3h3zNIBYDQd8hzMHDsveB" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf3h3zNIBYDQd8hzMHDsveB" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/img/no_thumbnail.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>conciertazo</b>
+              <time>1 vídeos · desde ago 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyfR5OB3Nb7W4amA6XZF_XDx" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyfR5OB3Nb7W4amA6XZF_XDx" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/HHBaJ24hKSE/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Dj sets</b>
+              <time>1 vídeos · desde ene 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydZ72YfZnuO7yTYO8eQVLl3" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydZ72YfZnuO7yTYO8eQVLl3" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/VNvrOiQZP-0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>downtempo</b>
+              <time>1 vídeos · desde mar 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydBynFKO22Id3fTxhq1GL-K" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydBynFKO22Id3fTxhq1GL-K" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/NeCcvOzxOkI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Hardcore</b>
+              <time>1 vídeos · desde mar 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydxYYougNRWR2-FooVU6v3h" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydxYYougNRWR2-FooVU6v3h" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/q1xuyaxH0P0/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>IDM</b>
+              <time>1 vídeos · desde ago 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydQU5Ga49e4jZzkmNCwy0oZ" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydQU5Ga49e4jZzkmNCwy0oZ" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/zZT--eLacGI/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Jazzy House</b>
+              <time>1 vídeos · desde jun 2018</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydfVPsJEKczVfVsdCyQskcR" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydfVPsJEKczVfVsdCyQskcR" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/xT6F9dyDYxs/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Medievo</b>
+              <time>1 vídeos · desde may 2017</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf_5ICSlZ1T8d--0a9GQ6Fp" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf_5ICSlZ1T8d--0a9GQ6Fp" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/3iyPePg5XWQ/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Metal</b>
+              <time>1 vídeos · desde feb 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEydUk-EK-WSJea4_BRLLkGyR" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEydUk-EK-WSJea4_BRLLkGyR" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/LVGnTE5N1U8/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>Mindblowing</b>
+              <time>1 vídeos · desde dic 2016</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEycRwf_AWlzbJ-AAsHAbdsCl" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEycRwf_AWlzbJ-AAsHAbdsCl" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/5EljZ3A5Cf8/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>monadas</b>
+              <time>1 vídeos · desde ago 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf4n5j34_jxMsZXXJoI-bK9" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf4n5j34_jxMsZXXJoI-bK9" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/XDwsz-azj5s/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>NECESITO ese tema</b>
+              <time>1 vídeos · desde nov 2015</time>
+            </div>
+          </a>
+        
+          <a class="card yt" href="https://www.youtube.com/playlist?list=PL6GYRlmAJEyf8a1QtZChBnoIotYzyfhbR" target="_blank" rel="noopener" data-yt="PL6GYRlmAJEyf8a1QtZChBnoIotYzyfhbR" title="">
+            <div class="sleeve wide">
+              <img src="https://i.ytimg.com/vi/9PQ4h_cqxOo/hqdefault.jpg" loading="lazy" alt="">
+            </div>
+            <div class="cap">
+              <b>oldschool</b>
+              <time>1 vídeos · desde oct 2016</time>
+            </div>
+          </a>
+        
+      </section>
+    
+  
+
+
+<script>
+(function () {
+  var box = document.getElementById('plplayer');
+  function play(src, cls) {
+    box.className = 'player plplayer ' + cls;
+    box.innerHTML = '<iframe src="' + src + '" loading="lazy" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" title="Reproductor"></iframe>';
+    box.hidden = false;
+    box.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.querySelectorAll('[data-yt]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
+      e.preventDefault();
+      play('https://www.youtube-nocookie.com/embed/videoseries?list=' + a.dataset.yt, 'yt');
+    });
+  });
+  
+  var pl = document.getElementById('plist');
+  if (!pl) return;
+  pl.querySelectorAll('p').forEach(function (p) {
+    var a = p.querySelector('a[href*="open.spotify.com/playlist/"]');
+    if (!a) return;
+    var id = a.href.split('/playlist/')[1].split(/[?#]/)[0];
+    p.className = 'prow';
+    a.target = '_blank'; a.rel = 'noopener';
+    var b = document.createElement('button');
+    b.type = 'button'; b.textContent = '▶'; b.title = 'Escuchar aquí';
+    b.addEventListener('click', function () { play('https://open.spotify.com/embed/playlist/' + id + '?theme=0', 'sp'); });
+    p.prepend(b);
+  });
+})();
+</script>
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

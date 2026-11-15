@@ -6,8 +6,10 @@ album: "Radical Frame"
 escuchas: 3
 puesto: 15
 semana: "2026-W38"
+clave: "actress rainy miller|radical frame"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "ad369a577bb3c218.jpg"
 mbid: "e596d6fc-a4eb-4062-947b-530382901f06"
 ---
@@ -15,6 +17,8 @@ mbid: "e596d6fc-a4eb-4062-947b-530382901f06"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/e596d6fc-a4eb-4062-947b-530382901f06)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-09-18, 3 días antes de acabar la semana
 
 **Escuchas:** 3
 

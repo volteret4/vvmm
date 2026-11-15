@@ -6,6 +6,7 @@ album: "Mundos inmóviles derrumbándose"
 escuchas: 19
 puesto: 1
 semana: "2026-W20"
+clave: "nacho vegas|mundos inmoviles derrumbandose"
 nuevo_album: true
 mix: 1
 portada: "dbf29a2b255d1a13.jpg"

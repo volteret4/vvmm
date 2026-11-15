@@ -6,6 +6,7 @@ album: "The Confluence LP"
 escuchas: 11
 puesto: 9
 semana: "2026-W10"
+clave: "dele sosimi|the confluence lp"
 nuevo_artista: true
 nuevo_album: true
 portada: "e172f829600a2980.jpg"

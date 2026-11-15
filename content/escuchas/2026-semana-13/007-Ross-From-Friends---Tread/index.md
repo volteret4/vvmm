@@ -6,6 +6,7 @@ album: "Tread"
 escuchas: 12
 puesto: 7
 semana: "2026-W13"
+clave: "ross from friends|tread"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

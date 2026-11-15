@@ -6,6 +6,7 @@ album: "Stick to my side"
 escuchas: 5
 puesto: 5
 semana: "2026-W41"
+clave: "pantha du prince|stick to my side"
 nuevo_album: true
 portada: "d801f7909d61374d.jpg"
 mbid: "a590b52e-e354-421a-a8c0-39f24a9250af"

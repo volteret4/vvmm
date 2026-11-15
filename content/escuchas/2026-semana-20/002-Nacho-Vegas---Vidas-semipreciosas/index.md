@@ -6,6 +6,7 @@ album: "Vidas semipreciosas"
 escuchas: 18
 puesto: 2
 semana: "2026-W20"
+clave: "nacho vegas|vidas semipreciosas"
 nuevo_album: true
 mix: 2
 portada: "a5277a092fb38d98.jpg"

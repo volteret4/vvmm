@@ -6,6 +6,7 @@ album: "Ohms"
 escuchas: 10
 puesto: 4
 semana: "2026-W15"
+clave: "deftones|ohms"
 portada: "4dc1596cf33148c3.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Ohms)

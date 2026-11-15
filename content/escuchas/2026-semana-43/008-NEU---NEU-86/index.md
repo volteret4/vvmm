@@ -6,6 +6,7 @@ album: "NEU! '86"
 escuchas: 3
 puesto: 8
 semana: "2026-W43"
+clave: "neu|neu 86"
 mix: 1
 portada: "59ee2db5b6f89b07.jpg"
 ---

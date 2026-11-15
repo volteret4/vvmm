@@ -6,6 +6,7 @@ album: "Soul Makossa"
 escuchas: 3
 puesto: 48
 semana: "2026-W18"
+clave: "manu dibango|soul makossa"
 mix: 1
 portada: "8c760d50e8292504.png"
 ---

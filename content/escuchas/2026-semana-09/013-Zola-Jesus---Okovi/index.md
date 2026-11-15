@@ -6,6 +6,7 @@ album: "Okovi"
 escuchas: 4
 puesto: 13
 semana: "2026-W09"
+clave: "zola jesus|okovi"
 portada: "4d1fc8d135ae085a.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Zola+Jesus/Okovi)

@@ -6,13 +6,17 @@ album: "Heavy is the crown"
 escuchas: 11
 puesto: 5
 semana: "2026-W44"
+clave: "anderson paak|heavy is the crown"
 nuevo_album: true
 mix: 2
+novedad: true
 portada: "84dc84e9d3a8af33.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Anderson+.Paak/Heavy+is+the+crown)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-23, 10 días antes de acabar la semana
 
 **Escuchas:** 11
 

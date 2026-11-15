@@ -6,6 +6,7 @@ album: "Vahiné"
 escuchas: 6
 puesto: 7
 semana: "2026-W11"
+clave: "gigi masin|vahine"
 portada: "6ff0a93db01a019a.jpg"
 mbid: "80966dd7-aacd-4e4c-8de6-708f6bf85bf6"
 ---

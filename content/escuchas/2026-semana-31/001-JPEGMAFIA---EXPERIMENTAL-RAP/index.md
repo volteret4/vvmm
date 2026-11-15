@@ -6,12 +6,16 @@ album: "EXPERIMENTAL RAP"
 escuchas: 24
 puesto: 1
 semana: "2026-W31"
+clave: "jpegmafia|experimental rap"
 nuevo_album: true
+novedad: true
 portada: "c4c241c1ec60f8ad.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/JPEGMAFIA/EXPERIMENTAL+RAP)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-05-21, 74 días antes de acabar la semana
 
 **Escuchas:** 24
 

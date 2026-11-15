@@ -6,6 +6,7 @@ album: "Thora Vukk"
 escuchas: 12
 puesto: 1
 semana: "2026-W24"
+clave: "robag wruhme|thora vukk"
 portada: "619b6e28426de054.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Robag+Wruhme/Thora+Vukk)

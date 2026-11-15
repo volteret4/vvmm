@@ -6,6 +6,7 @@ album: "It Takes a Nation of Millions to Hold Us Back"
 escuchas: 4
 puesto: 18
 semana: "2026-W03"
+clave: "public enemy|it takes a nation of millions to hold us back"
 portada: "e73c36fe4cc3bde2.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Public+Enemy/It+Takes+a+Nation+of+Millions+to+Hold+Us+Back)

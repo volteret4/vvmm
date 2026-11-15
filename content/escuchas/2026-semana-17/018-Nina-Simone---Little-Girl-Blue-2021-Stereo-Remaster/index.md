@@ -6,6 +6,7 @@ album: "Little Girl Blue (2021 - Stereo Remaster)"
 escuchas: 5
 puesto: 18
 semana: "2026-W17"
+clave: "nina simone|little girl blue"
 mix: 3
 portada: "046b20a49dbad190.png"
 ---

@@ -6,6 +6,7 @@ album: "In Search Of Love"
 escuchas: 4
 puesto: 2
 semana: "2026-W39"
+clave: "alex brown|in search of love"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

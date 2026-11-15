@@ -6,6 +6,7 @@ album: "Linear S Decoded"
 escuchas: 8
 puesto: 12
 semana: "2026-W16"
+clave: "shxcxchcxsh|linear s decoded"
 portada: "9565262d91ffc993.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/SHXCXCHCXSH/Linear+S+Decoded)

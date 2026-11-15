@@ -6,9 +6,13 @@ album: "People of the Moon"
 escuchas: 5
 puesto: 8
 semana: "2026-W24"
+clave: "nu genea|people of the moon"
+novedad: true
 portada: "f75a05a693bad3be.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nu+Genea/People+of+the+Moon)
+
+**Novedad:** publicado el 2026-05-01, 45 días antes de acabar la semana
 
 **Escuchas:** 5
 

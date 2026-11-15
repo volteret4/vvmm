@@ -1,6 +1,9 @@
-{{/* Reproductor del disco según data/reproductor.json: Bandcamp > playlist de YouTube > vídeo del álbum */}}
+{{/* Reproductor del disco: Bandcamp > playlist de YouTube > vídeo del álbum.
+     Discos del blog: data/reproductor.json por carpeta del post.
+     Escuchas: data/reproductor_escuchas.json por la clave del disco (vale para todas sus semanas). */}}
 {{ $r := false }}
-{{ with .File }}{{ $r = index (site.Data.reproductor | default dict) (strings.TrimSuffix "/" (replace .Dir "\\" "/")) }}{{ end }}
+{{ with .Params.clave }}{{ $r = index (hugo.Data.reproductor_escuchas | default dict) . }}{{ end }}
+{{ if not $r }}{{ with .File }}{{ $r = index (site.Data.reproductor | default dict) (strings.TrimSuffix "/" (replace .Dir "\\" "/")) }}{{ end }}{{ end }}
 {{ with $r }}
   {{ if eq .tipo "bandcamp" }}
     <section class="player bc">

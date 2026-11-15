@@ -6,6 +6,7 @@ album: "Black Cats"
 escuchas: 4
 puesto: 11
 semana: "2026-W23"
+clave: "lawrence|black cats"
 nuevo_album: true
 portada: "39ff5fc91d6f0546.jpg"
 ---

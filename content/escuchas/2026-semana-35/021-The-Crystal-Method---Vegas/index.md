@@ -6,6 +6,7 @@ album: "Vegas"
 escuchas: 3
 puesto: 21
 semana: "2026-W35"
+clave: "the crystal method|vegas"
 portada: "b41f329c930eb926.jpg"
 mbid: "2ceef135-c655-479c-99f9-cc0461de2795"
 ---

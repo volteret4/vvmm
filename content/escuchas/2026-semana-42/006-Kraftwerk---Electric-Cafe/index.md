@@ -6,6 +6,7 @@ album: "Electric Cafe"
 escuchas: 3
 puesto: 6
 semana: "2026-W42"
+clave: "kraftwerk|electric cafe"
 mix: 2
 portada: "1499218b0a1923da.jpg"
 mbid: "0ffabc1a-41d0-46a7-870b-c6843ddae49b"

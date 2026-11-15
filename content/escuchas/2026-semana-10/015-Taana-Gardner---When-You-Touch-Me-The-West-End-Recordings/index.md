@@ -6,6 +6,7 @@ album: "When You Touch Me: The West End Recordings"
 escuchas: 7
 puesto: 15
 semana: "2026-W10"
+clave: "taana gardner|when you touch me the west end recordings"
 mix: 3
 portada: "29cf5fcf4be2f7fa.jpg"
 ---

@@ -6,6 +6,7 @@ album: "Kano (2010 Reissue)"
 escuchas: 3
 puesto: 48
 semana: "2026-W16"
+clave: "kano|kano"
 mix: 4
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kano/Kano+%282010+Reissue%29)

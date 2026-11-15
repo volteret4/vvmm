@@ -6,6 +6,7 @@ album: "...And the Circus Leaves Town"
 escuchas: 5
 puesto: 2
 semana: "2026-W25"
+clave: "kyuss|and the circus leaves town"
 nuevo_album: true
 mix: 1
 portada: "83e8465b333fd974.png"

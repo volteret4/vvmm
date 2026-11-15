@@ -6,6 +6,7 @@ album: "Deserter's Songs"
 escuchas: 12
 puesto: 2
 semana: "2026-W18"
+clave: "mercury rev|deserter s songs"
 mix: 1
 portada: "bfeabc0319dc709b.png"
 ---

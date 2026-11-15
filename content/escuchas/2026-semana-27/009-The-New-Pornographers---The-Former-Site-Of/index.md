@@ -6,6 +6,7 @@ album: "The Former Site Of"
 escuchas: 7
 puesto: 9
 semana: "2026-W27"
+clave: "the new pornographers|the former site of"
 nuevo_artista: true
 nuevo_album: true
 portada: "63c48a96841babc6.jpg"

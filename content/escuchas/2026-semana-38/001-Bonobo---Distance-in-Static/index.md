@@ -6,11 +6,15 @@ album: "Distance in Static"
 escuchas: 14
 puesto: 1
 semana: "2026-W38"
+clave: "bonobo|distance in static"
+novedad: true
 portada: "807b829fe7823599.jpg"
 mbid: "5cd31496-f8b9-4b81-b56e-d9d94b8e33d8"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Bonobo/Distance+in+Static)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/5cd31496-f8b9-4b81-b56e-d9d94b8e33d8)
+
+**Novedad:** publicado el 2026-09-11, 10 días antes de acabar la semana
 
 **Escuchas:** 14
 

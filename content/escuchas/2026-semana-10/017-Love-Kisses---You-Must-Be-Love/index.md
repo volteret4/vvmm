@@ -6,6 +6,7 @@ album: "You Must Be Love"
 escuchas: 4
 puesto: 17
 semana: "2026-W10"
+clave: "love kisses|you must be love"
 nuevo_artista: true
 nuevo_album: true
 portada: "6cc51e68c16b3277.jpg"

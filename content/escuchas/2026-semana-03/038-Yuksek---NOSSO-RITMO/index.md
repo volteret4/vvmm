@@ -6,6 +6,7 @@ album: "NOSSO RITMO"
 escuchas: 3
 puesto: 38
 semana: "2026-W03"
+clave: "yuksek|nosso ritmo"
 mix: 1
 portada: "dcf5e8bc3211b40c.jpg"
 ---

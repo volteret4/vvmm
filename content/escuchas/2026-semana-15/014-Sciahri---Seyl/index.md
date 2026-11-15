@@ -6,6 +6,7 @@ album: "Seyl"
 escuchas: 4
 puesto: 14
 semana: "2026-W15"
+clave: "sciahri|seyl"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

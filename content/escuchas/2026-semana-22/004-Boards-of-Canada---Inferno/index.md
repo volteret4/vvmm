@@ -6,6 +6,7 @@ album: "Inferno"
 escuchas: 11
 puesto: 4
 semana: "2026-W22"
+clave: "boards of canada|inferno"
 nuevo_album: true
 portada: "ea62aafb7261863c.jpg"
 ---

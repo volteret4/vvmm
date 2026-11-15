@@ -31,6 +31,9 @@
     <figure class="vcard" id="b-discos"><figcaption>discos descubiertos y escuchas</figcaption></figure>
   </div>
 
+  <h2 class="yearhead">canciones añadidas a Mix <small>por <span class="vunidad2">mes</span></small></h2>
+  <figure class="vcard" id="b-mix"><figcaption>altas en Mix <small id="mixnota"></small></figcaption></figure>
+
   <h2 class="yearhead">sellos y géneros</h2>
   <div class="vgrid2">
     <figure class="vcard" id="h-sellos"><figcaption>sellos más escuchados</figcaption></figure>
@@ -255,6 +258,54 @@
     tabla(c.body, ['nombre', 'escuchas'], items.map(function (it) { return [it.n, it.v]; }));
   }
 
+  // columnas apiladas (partes de un mismo total), con 2px de separación entre segmentos
+  function apiladas(fig, claves, unidad, series) {
+    var c = lienzo(fig, 220), L = 44, R = 12, T = 10, B = 26, W = c.w - L - R, H = c.h - T - B;
+    leyenda(c.body, series, 'rect');
+    var tot = claves.map(function (_, i) { return series.reduce(function (a, s) { return a + s.valores[i]; }, 0); });
+    var n = nice(Math.max.apply(null, tot.concat([0]))), dx = W / claves.length, bw = Math.max(1, Math.min(24, dx - 2));
+    var Y = function (v) { return T + H - (v / n.top) * H; };
+    for (var v = 0; v <= n.top + 1e-9; v += n.step) {
+      el('line', { x1: L, x2: L + W, y1: Y(v), y2: Y(v), class: v ? 'vgr' : 'vbase' }, c.svg);
+      var t = el('text', { x: L - 6, y: Y(v) + 4, class: 'vy' }, c.svg); t.textContent = eje(v);
+    }
+    claves.forEach(function (_, i) {
+      var x = L + i * dx + (dx - bw) / 2, base = 0;
+      series.forEach(function (s, j) {
+        var v = s.valores[i]; if (!v) return;
+        var y0 = Y(base), y1 = Y(base + v), alto = y0 - y1 - (base ? 2 : 0), arriba = series.slice(j + 1).every(function (o) { return !o.valores[i]; });
+        if (alto <= 0) { base += v; return; }
+        var top = y0 - (base ? 2 : 0) - alto, r = arriba ? Math.min(4, bw / 2, alto) : 0;
+        el('path', { d: 'M' + x + ' ' + (top + alto) + 'V' + (top + r) + (r ? 'q0 -' + r + ' ' + r + ' -' + r + 'H' + (x + bw - r) + 'q' + r + ' 0 ' + r + ' ' + r : 'H' + (x + bw)) + 'V' + (top + alto) + 'Z', fill: s.color }, c.svg);
+        base += v;
+      });
+    });
+    ejeX(c.svg, claves, unidad, L + dx / 2, dx, c.h - 6);
+    var banda = el('rect', { y: T, height: H, class: 'vbanda', visibility: 'hidden' }, c.svg);
+    c.svg.insertBefore(banda, c.svg.firstChild);
+    var hit = el('rect', { x: L, y: T, width: W, height: H, fill: 'transparent' }, c.svg);
+    hit.addEventListener('pointermove', function (ev) {
+      var r = c.svg.getBoundingClientRect(), i = Math.max(0, Math.min(claves.length - 1, Math.floor((ev.clientX - r.left - L) / dx)));
+      banda.setAttribute('x', L + i * dx); banda.setAttribute('width', dx); banda.setAttribute('visibility', 'visible');
+      mostrar(ev, etiqueta(claves[i], unidad) + ' · ' + fmt(tot[i]) + ' en total', series.map(function (s) { return { color: s.color, valor: s.valores[i], nombre: s.nombre }; }));
+    });
+    hit.addEventListener('pointerleave', function () { banda.setAttribute('visibility', 'hidden'); ocultar(); });
+    tabla(c.body, [unidad].concat(series.map(function (s) { return s.nombre; })).concat(['total']), claves.map(function (k, i) { return [etiqueta(k, unidad)].concat(series.map(function (s) { return s.valores[i]; })).concat([tot[i]]); }));
+  }
+
+  // altas en Mix del periodo, agrupadas en los mismos cubos que el resto
+  function mixCubos(cb, unidad) {
+    var idx = {}; cb.claves.forEach(function (k, i) { idx[k] = i; });
+    var key = unidad === 'mes' ? function (f) { return f.slice(0, 7); } : unidad === 'semana' ? isoWeek : function (f) { return f; };
+    var fav = cb.claves.map(function () { return 0; }), pri = fav.slice();
+    (D.mix || []).forEach(function (r) {
+      if (r[0] < cb.desde || r[0] > cb.hasta) return;
+      var i = idx[key(r[0])]; if (i === undefined) return;
+      fav[i] += r[1]; pri[i] += r[2];
+    });
+    return { fav: fav, pri: pri };
+  }
+
   function sumaEtiquetas(tab, desde, hasta) {
     var a = desde.slice(0, 7), b = hasta.slice(0, 7);
     return tab.nombres.map(function (n, i) {
@@ -285,6 +336,8 @@
     tile(box, 'artistas descubiertos', tot[4], Math.round(100 * tot[1] / Math.max(1, tot[0])) + '% de escuchas a artistas nuevos');
     tile(box, 'discos descubiertos', tot[5], Math.round(100 * tot[2] / Math.max(1, tot[0])) + '% a discos nuevos');
     tile(box, 'canciones descubiertas', tot[6], Math.round(100 * tot[3] / Math.max(1, tot[0])) + '% a canciones nuevas');
+    var mx = mixCubos(cb, uB), nfav = mx.fav.reduce(function (a, b) { return a + b; }, 0), npri = mx.pri.reduce(function (a, b) { return a + b; }, 0);
+    tile(box, 'añadidas a Mix', nfav + npri, fmt(nfav) + ' con fecha exacta, ' + fmt(npri) + ' estimadas');
     [['l-artistas', 1], ['l-discos', 2], ['l-canciones', 3]].forEach(function (p) {
       lineas(document.getElementById(p[0]), cl.claves, uL, [
         { nombre: 'conocidos', color: COL.known, valores: cl.vals.map(function (v) { return v[0] - v[p[1]]; }) },
@@ -295,6 +348,12 @@
         { nombre: p[2], color: COL.nuevo, valores: cb.vals.map(function (v) { return v[p[1]]; }) },
         { nombre: 'escuchas', color: COL.known, valores: cb.vals.map(function (v) { return v[0]; }) }]);
     });
+    document.getElementById('mixnota').textContent = '(desde el ' + D.mix_desde_favoritas.split('-').reverse().join('/') +
+      ' cada canción se marca como favorita en Last.fm al pasar a Mix: esa es la fecha exacta; antes, la de su primera escucha; ' +
+      fmt(D.mix_sin_fecha || 0) + ' canciones sin ninguna de las dos)';
+    apiladas(document.getElementById('b-mix'), cb.claves, uB, [
+      { nombre: 'fecha exacta (favorita en Last.fm)', color: COL.cat[2], valores: mx.fav },
+      { nombre: 'estimada (primera escucha)', color: COL.cat[3], valores: mx.pri }]);
     ranking(document.getElementById('h-sellos'), sumaEtiquetas(D.sellos, cb.desde, cb.hasta).slice(0, 15), COL.known);
     var gens = sumaEtiquetas(D.generos, cb.desde, cb.hasta);
     ranking(document.getElementById('h-generos'), gens.slice(0, 15), COL.known);

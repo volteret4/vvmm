@@ -6,8 +6,10 @@ album: "Garip"
 escuchas: 10
 puesto: 11
 semana: "2026-W10"
+clave: "altin gun|garip"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "2135e2613a0e14c5.jpg"
 mbid: "49ba5b2e-f972-409b-8cfa-80cf9e3c4c2d"
 ---
@@ -15,6 +17,8 @@ mbid: "49ba5b2e-f972-409b-8cfa-80cf9e3c4c2d"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/49ba5b2e-f972-409b-8cfa-80cf9e3c4c2d)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-02-20, 17 días antes de acabar la semana
 
 **Escuchas:** 10
 

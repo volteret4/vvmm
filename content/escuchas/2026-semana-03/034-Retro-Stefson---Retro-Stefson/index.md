@@ -6,6 +6,7 @@ album: "Retro Stefson"
 escuchas: 3
 puesto: 34
 semana: "2026-W03"
+clave: "retro stefson|retro stefson"
 mix: 4
 portada: "0225cca65a726997.png"
 ---

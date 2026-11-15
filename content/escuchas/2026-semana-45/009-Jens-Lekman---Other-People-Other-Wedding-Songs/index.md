@@ -6,6 +6,7 @@ album: "Other People, Other Wedding Songs"
 escuchas: 10
 puesto: 9
 semana: "2026-W45"
+clave: "jens lekman|other people other wedding songs"
 nuevo_album: true
 portada: "3b13fc49cf9f239f.jpg"
 ---

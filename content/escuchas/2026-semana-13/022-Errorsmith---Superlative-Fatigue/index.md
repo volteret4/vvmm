@@ -6,6 +6,7 @@ album: "Superlative Fatigue"
 escuchas: 8
 puesto: 22
 semana: "2026-W13"
+clave: "errorsmith|superlative fatigue"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

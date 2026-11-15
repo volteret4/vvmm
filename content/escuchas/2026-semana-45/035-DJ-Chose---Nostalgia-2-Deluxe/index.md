@@ -6,6 +6,7 @@ album: "Nostalgia 2 (Deluxe)"
 escuchas: 3
 puesto: 35
 semana: "2026-W45"
+clave: "dj chose|nostalgia 2"
 nuevo_artista: true
 nuevo_album: true
 portada: "c8b73de89fe4ee0d.jpg"

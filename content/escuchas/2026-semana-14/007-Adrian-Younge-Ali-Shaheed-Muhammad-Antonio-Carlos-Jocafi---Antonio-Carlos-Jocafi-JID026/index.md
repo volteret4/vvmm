@@ -6,9 +6,11 @@ album: "Antonio Carlos & Jocafi JID026"
 escuchas: 9
 puesto: 7
 semana: "2026-W14"
+clave: "adrian younge ali shaheed muhammad antonio carlos jocafi|antonio carlos jocafi jid026"
 nuevo_artista: true
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "a1a0d7a36dce2e6d.jpg"
 mbid: "9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2"
 ---
@@ -16,6 +18,8 @@ mbid: "9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-04-03, 3 días antes de acabar la semana
 
 **Escuchas:** 9
 

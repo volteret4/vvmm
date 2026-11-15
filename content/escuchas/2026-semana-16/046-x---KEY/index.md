@@ -6,6 +6,7 @@ album: "KEY"
 escuchas: 4
 puesto: 46
 semana: "2026-W16"
+clave: "吉田美奈子|key"
 nuevo_album: true
 portada: "28c9b992ad2b90b7.png"
 mbid: "215fa5ef-1af3-419f-adb1-cf0326aba220"

@@ -6,6 +6,7 @@ album: "Ultravox!"
 escuchas: 7
 puesto: 14
 semana: "2026-W10"
+clave: "ultravox|ultravox"
 nuevo_artista: true
 nuevo_album: true
 portada: "2114213fc7ace9b9.png"

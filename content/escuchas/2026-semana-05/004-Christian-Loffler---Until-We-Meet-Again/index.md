@@ -6,12 +6,16 @@ album: "Until We Meet Again"
 escuchas: 4
 puesto: 4
 semana: "2026-W05"
+clave: "christian loffler|until we meet again"
 nuevo_album: true
+novedad: true
 portada: "b7ff777e40770846.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Christian+L%C3%B6ffler/Until+We+Meet+Again)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-01-23, 10 días antes de acabar la semana
 
 **Escuchas:** 4
 

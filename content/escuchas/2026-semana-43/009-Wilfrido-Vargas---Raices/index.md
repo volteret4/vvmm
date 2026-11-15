@@ -6,6 +6,7 @@ album: "Raices"
 escuchas: 3
 puesto: 9
 semana: "2026-W43"
+clave: "wilfrido vargas|raices"
 nuevo_artista: true
 nuevo_album: true
 portada: "25e8a79ecb9a3418.jpg"

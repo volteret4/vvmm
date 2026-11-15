@@ -6,6 +6,7 @@ album: "Crazy Rhythms"
 escuchas: 9
 puesto: 3
 semana: "2026-W09"
+clave: "the feelies|crazy rhythms"
 nuevo_artista: true
 nuevo_album: true
 portada: "b564733b60769f5a.png"

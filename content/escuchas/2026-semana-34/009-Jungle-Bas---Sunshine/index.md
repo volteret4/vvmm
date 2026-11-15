@@ -6,6 +6,7 @@ album: "Sunshine"
 escuchas: 3
 puesto: 9
 semana: "2026-W34"
+clave: "jungle bas|sunshine"
 mbid: "91d90876-8b5b-4b09-8b83-b951a6644c60"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jungle+%26+Bas/Sunshine)

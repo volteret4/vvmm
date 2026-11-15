@@ -6,9 +6,11 @@ album: "Empty Hands"
 escuchas: 3
 puesto: 34
 semana: "2026-W13"
+clave: "poppy|empty hands"
 nuevo_artista: true
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "d0acd9da4d45b115.jpg"
 mbid: "ec507f1e-861e-4522-9642-6e26ca788f78"
 ---
@@ -16,6 +18,8 @@ mbid: "ec507f1e-861e-4522-9642-6e26ca788f78"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/ec507f1e-861e-4522-9642-6e26ca788f78)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-01-23, 66 días antes de acabar la semana
 
 **Escuchas:** 3
 

@@ -6,6 +6,7 @@ album: "Dream Weapon"
 escuchas: 7
 puesto: 9
 semana: "2026-W30"
+clave: "genghis tron|dream weapon"
 nuevo_album: true
 portada: "54e7583f5a2329fa.jpg"
 ---

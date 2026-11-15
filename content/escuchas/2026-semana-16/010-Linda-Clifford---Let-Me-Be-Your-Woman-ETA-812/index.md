@@ -6,6 +6,7 @@ album: "Let Me Be Your Woman [ETA 812]"
 escuchas: 9
 puesto: 10
 semana: "2026-W16"
+clave: "linda clifford|let me be your woman"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

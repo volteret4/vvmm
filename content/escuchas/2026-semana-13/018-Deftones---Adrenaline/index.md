@@ -6,6 +6,7 @@ album: "Adrenaline"
 escuchas: 9
 puesto: 18
 semana: "2026-W13"
+clave: "deftones|adrenaline"
 portada: "6b60c1279e4b3d35.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Adrenaline)

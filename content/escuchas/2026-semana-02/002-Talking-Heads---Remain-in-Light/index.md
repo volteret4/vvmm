@@ -6,6 +6,7 @@ album: "Remain in Light"
 escuchas: 3
 puesto: 2
 semana: "2026-W02"
+clave: "talking heads|remain in light"
 mix: 2
 portada: "26fbd11e88b452d1.png"
 ---

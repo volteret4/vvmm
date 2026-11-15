@@ -6,6 +6,7 @@ album: "This Is Panache (2003 Reissue)"
 escuchas: 6
 puesto: 17
 semana: "2026-W17"
+clave: "panache|this is panache"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

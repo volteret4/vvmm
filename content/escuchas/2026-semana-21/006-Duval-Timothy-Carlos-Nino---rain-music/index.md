@@ -6,8 +6,10 @@ album: "rain music"
 escuchas: 8
 puesto: 6
 semana: "2026-W21"
+clave: "duval timothy carlos nino|rain music"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "4c8b0b708d593684.jpg"
 mbid: "46040e3c-3c75-4963-a09c-fc9c7c1b1166"
 ---
@@ -15,6 +17,8 @@ mbid: "46040e3c-3c75-4963-a09c-fc9c7c1b1166"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/46040e3c-3c75-4963-a09c-fc9c7c1b1166)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-05-22, 3 días antes de acabar la semana
 
 **Escuchas:** 8
 

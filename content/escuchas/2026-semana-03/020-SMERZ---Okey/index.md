@@ -6,6 +6,7 @@ album: "Okey"
 escuchas: 4
 puesto: 20
 semana: "2026-W03"
+clave: "smerz|okey"
 portada: "34e4ae0b934f9501.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/SMERZ/Okey)

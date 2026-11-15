@@ -6,6 +6,7 @@ album: "Ascension"
 escuchas: 14
 puesto: 2
 semana: "2026-W05"
+clave: "paradise lost|ascension"
 nuevo_artista: true
 nuevo_album: true
 portada: "513cc381fdc6abaa.jpg"

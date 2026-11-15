@@ -6,6 +6,7 @@ album: "Bamboo"
 escuchas: 10
 puesto: 8
 semana: "2026-W17"
+clave: "bamboo|bamboo"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

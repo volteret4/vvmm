@@ -6,6 +6,7 @@ album: "Put Your Head Above The Parakeets"
 escuchas: 4
 puesto: 28
 semana: "2026-W45"
+clave: "haai|put your head above the parakeets"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

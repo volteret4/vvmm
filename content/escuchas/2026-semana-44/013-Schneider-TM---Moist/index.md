@@ -6,6 +6,7 @@ album: "Moist"
 escuchas: 8
 puesto: 13
 semana: "2026-W44"
+clave: "schneider tm|moist"
 nuevo_artista: true
 nuevo_album: true
 mix: 3

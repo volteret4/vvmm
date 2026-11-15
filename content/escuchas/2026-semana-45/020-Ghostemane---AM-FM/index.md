@@ -6,12 +6,16 @@ album: "AM:FM"
 escuchas: 6
 puesto: 20
 semana: "2026-W45"
+clave: "ghostemane|am fm"
 nuevo_album: true
+novedad: true
 portada: "a8d6285e3cc95059.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ghostemane/AM%3AFM)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-23, 17 días antes de acabar la semana
 
 **Escuchas:** 6
 

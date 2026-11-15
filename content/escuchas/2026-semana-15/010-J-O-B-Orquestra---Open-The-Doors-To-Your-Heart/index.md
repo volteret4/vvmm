@@ -6,6 +6,7 @@ album: "Open The Doors To Your Heart"
 escuchas: 6
 puesto: 10
 semana: "2026-W15"
+clave: "j o b orquestra|open the doors to your heart"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

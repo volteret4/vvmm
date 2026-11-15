@@ -6,6 +6,7 @@ album: "The Mack"
 escuchas: 3
 puesto: 3
 semana: "2026-W19"
+clave: "willie hutch|the mack"
 mix: 5
 portada: "8740f34631e316d3.jpg"
 ---

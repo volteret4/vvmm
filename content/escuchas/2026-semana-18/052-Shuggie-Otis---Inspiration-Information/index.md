@@ -6,6 +6,7 @@ album: "Inspiration Information"
 escuchas: 3
 puesto: 52
 semana: "2026-W18"
+clave: "shuggie otis|inspiration information"
 mix: 1
 portada: "7982ab668d8d9c01.jpg"
 ---

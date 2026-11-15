@@ -6,6 +6,7 @@ album: "Friends [Pastmasters CP21-6014]"
 escuchas: 4
 puesto: 4
 semana: "2026-W07"
+clave: "the beach boys|friends"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Beach+Boys/Friends+%5BPastmasters+CP21-6014%5D)
 

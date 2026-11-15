@@ -6,6 +6,7 @@ album: "Goody Goody"
 escuchas: 3
 puesto: 39
 semana: "2026-W18"
+clave: "vincent montana jr|goody goody"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

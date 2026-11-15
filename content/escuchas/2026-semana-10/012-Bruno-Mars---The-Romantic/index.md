@@ -6,6 +6,7 @@ album: "The Romantic"
 escuchas: 9
 puesto: 12
 semana: "2026-W10"
+clave: "bruno mars|the romantic"
 nuevo_album: true
 portada: "5b6cfae65a4cf840.jpg"
 ---

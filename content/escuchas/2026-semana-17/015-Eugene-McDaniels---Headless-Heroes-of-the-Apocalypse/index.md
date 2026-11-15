@@ -6,6 +6,7 @@ album: "Headless Heroes of the Apocalypse"
 escuchas: 7
 puesto: 15
 semana: "2026-W17"
+clave: "eugene mcdaniels|headless heroes of the apocalypse"
 nuevo_artista: true
 nuevo_album: true
 portada: "c0f5e2fa506c70ee.jpg"

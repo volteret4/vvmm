@@ -6,6 +6,7 @@ album: "Tyranny For You"
 escuchas: 3
 puesto: 34
 semana: "2026-W44"
+clave: "front 242|tyranny for you"
 mix: 2
 portada: "797cba3ddcf339a1.png"
 ---

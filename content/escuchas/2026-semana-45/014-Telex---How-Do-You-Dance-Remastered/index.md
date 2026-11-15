@@ -6,6 +6,7 @@ album: "How Do You Dance? (Remastered)"
 escuchas: 8
 puesto: 14
 semana: "2026-W45"
+clave: "telex|how do you dance"
 mix: 3
 portada: "edbf872b4df47947.jpg"
 mbid: "2c6ddbd3-9ae3-406a-971f-bfec16af5a59"

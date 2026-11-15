@@ -6,13 +6,17 @@ album: "Spacious Heart"
 escuchas: 8
 puesto: 4
 semana: "2026-W24"
+clave: "anthony calonico|spacious heart"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "f3a4615b93a0431a.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Anthony+Calonico/Spacious+Heart)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-05-21, 25 días antes de acabar la semana
 
 **Escuchas:** 8
 

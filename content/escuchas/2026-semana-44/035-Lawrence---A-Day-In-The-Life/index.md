@@ -6,6 +6,7 @@ album: "A Day In The Life"
 escuchas: 3
 puesto: 35
 semana: "2026-W44"
+clave: "lawrence|a day in the life"
 portada: "d7c4efa189de3b33.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Lawrence/A+Day+In+The+Life)

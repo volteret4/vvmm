@@ -6,6 +6,7 @@ album: "Shell~Wave"
 escuchas: 18
 puesto: 1
 semana: "2026-W15"
+clave: "surgeon|shell wave"
 portada: "07a887f6cb419ce0.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Surgeon/Shell~Wave)

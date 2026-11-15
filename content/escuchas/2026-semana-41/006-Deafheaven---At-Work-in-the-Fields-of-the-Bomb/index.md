@@ -6,7 +6,9 @@ album: "At Work in the Fields of the Bomb"
 escuchas: 3
 puesto: 6
 semana: "2026-W41"
+clave: "deafheaven|at work in the fields of the bomb"
 nuevo_album: true
+novedad: true
 portada: "4fcd796ca79cb9b4.jpg"
 mbid: "75c4478f-aa94-4943-b54b-3bbefd73a2e6"
 ---
@@ -14,6 +16,8 @@ mbid: "75c4478f-aa94-4943-b54b-3bbefd73a2e6"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/75c4478f-aa94-4943-b54b-3bbefd73a2e6)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-02, 10 días antes de acabar la semana
 
 **Escuchas:** 3
 

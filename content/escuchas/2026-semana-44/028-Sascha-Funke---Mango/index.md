@@ -6,6 +6,7 @@ album: "Mango"
 escuchas: 4
 puesto: 28
 semana: "2026-W44"
+clave: "sascha funke|mango"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

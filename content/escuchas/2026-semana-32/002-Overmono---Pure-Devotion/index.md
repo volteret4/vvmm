@@ -6,13 +6,17 @@ album: "Pure Devotion"
 escuchas: 5
 puesto: 2
 semana: "2026-W32"
+clave: "overmono|pure devotion"
 nuevo_album: true
 mix: 1
+novedad: true
 portada: "622a7e9b3b4782a9.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Overmono/Pure+Devotion)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-08-07, 3 días antes de acabar la semana
 
 **Escuchas:** 5
 

@@ -6,6 +6,7 @@ album: "Tim Maia"
 escuchas: 4
 puesto: 38
 semana: "2026-W18"
+clave: "tim maia|tim maia"
 mix: 1
 portada: "d93d95d33019c087.jpg"
 ---

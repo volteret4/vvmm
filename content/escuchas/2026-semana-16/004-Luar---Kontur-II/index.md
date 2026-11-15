@@ -6,11 +6,15 @@ album: "Kontur II"
 escuchas: 11
 puesto: 4
 semana: "2026-W16"
+clave: "luar|kontur ii"
+novedad: true
 portada: "b073bbd02c3db9eb.jpg"
 mbid: "c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Luar/Kontur+II)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c2aad6c1-ed7d-43a5-a4e9-3c58a2bb15b3)
+
+**Novedad:** publicado el 2026-03-21, 30 días antes de acabar la semana
 
 **Escuchas:** 11
 

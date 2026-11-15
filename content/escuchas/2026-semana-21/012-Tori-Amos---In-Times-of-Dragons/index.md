@@ -6,12 +6,16 @@ album: "In Times of Dragons"
 escuchas: 4
 puesto: 12
 semana: "2026-W21"
+clave: "tori amos|in times of dragons"
 nuevo_album: true
+novedad: true
 portada: "3d3983befbf240b1.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tori+Amos/In+Times+of+Dragons)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-05-01, 24 días antes de acabar la semana
 
 **Escuchas:** 4
 

@@ -6,6 +6,7 @@ album: "All Night Music [Capitol ST-12198 US]"
 escuchas: 12
 puesto: 3
 semana: "2026-W15"
+clave: "the mccrarys|all night music"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

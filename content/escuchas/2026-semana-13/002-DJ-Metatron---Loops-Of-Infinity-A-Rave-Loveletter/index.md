@@ -6,9 +6,13 @@ album: "Loops Of Infinity (A Rave Loveletter)"
 escuchas: 18
 puesto: 2
 semana: "2026-W13"
+clave: "dj metatron|loops of infinity"
+novedad: true
 portada: "c43618de08685187.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/DJ+Metatron/Loops+Of+Infinity+%28A+Rave+Loveletter%29)
+
+**Novedad:** publicado el 2026-01-29, 60 días antes de acabar la semana
 
 **Escuchas:** 18
 

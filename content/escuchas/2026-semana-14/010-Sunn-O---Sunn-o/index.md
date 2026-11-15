@@ -6,12 +6,16 @@ album: "Sunn o)))"
 escuchas: 6
 puesto: 10
 semana: "2026-W14"
+clave: "sunn o|sunn o"
 nuevo_album: true
+novedad: true
 portada: "d2284cb778aab385.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sunn+O%29%29%29/Sunn+o%29%29%29)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-04-03, 3 días antes de acabar la semana
 
 **Escuchas:** 6
 

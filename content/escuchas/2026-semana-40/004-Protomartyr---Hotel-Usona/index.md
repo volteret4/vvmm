@@ -6,7 +6,9 @@ album: "Hotel Usona"
 escuchas: 9
 puesto: 4
 semana: "2026-W40"
+clave: "protomartyr|hotel usona"
 nuevo_album: true
+novedad: true
 portada: "ac7cd0d039746540.jpg"
 mbid: "4404e523-e505-410a-a114-aca8fd3ab4dd"
 ---
@@ -14,6 +16,8 @@ mbid: "4404e523-e505-410a-a114-aca8fd3ab4dd"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/4404e523-e505-410a-a114-aca8fd3ab4dd)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-09-25, 10 días antes de acabar la semana
 
 **Escuchas:** 9
 

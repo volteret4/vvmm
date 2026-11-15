@@ -6,6 +6,7 @@ album: "Random Access Memories"
 escuchas: 4
 puesto: 13
 semana: "2026-W21"
+clave: "daft punk|random access memories"
 mix: 5
 portada: "d450ee33faf2c88a.png"
 ---

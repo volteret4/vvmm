@@ -6,12 +6,16 @@ album: "Get Mean"
 escuchas: 6
 puesto: 17
 semana: "2026-W44"
+clave: "boy harsher|get mean"
 mix: 1
+novedad: true
 portada: "3cf1a75e419e8ca6.jpg"
 mbid: "9b8dd719-54f9-47bf-b015-ac36822b1c9b"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Boy+Harsher/Get+Mean)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9b8dd719-54f9-47bf-b015-ac36822b1c9b)
+
+**Novedad:** publicado el 2026-09-18, 45 días antes de acabar la semana
 
 **Escuchas:** 6
 

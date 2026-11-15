@@ -6,6 +6,7 @@ album: "IGOR"
 escuchas: 4
 puesto: 24
 semana: "2026-W03"
+clave: "tyler the creator|igor"
 portada: "d6ff8b05e728a8c5.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tyler%2C+The+Creator/IGOR)

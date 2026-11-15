@@ -6,6 +6,7 @@ album: "Foxy Brown (1996 Remastered Reissue)"
 escuchas: 5
 puesto: 7
 semana: "2026-W40"
+clave: "willie hutch|foxy brown"
 nuevo_album: true
 mix: 2
 ---

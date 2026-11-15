@@ -6,12 +6,16 @@ album: "Distracted"
 escuchas: 15
 puesto: 2
 semana: "2026-W14"
+clave: "thundercat|distracted"
 nuevo_album: true
+novedad: true
 portada: "e53844c83cb0d074.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Thundercat/Distracted)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-04-03, 3 días antes de acabar la semana
 
 **Escuchas:** 15
 

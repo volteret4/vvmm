@@ -6,6 +6,7 @@ album: "Lonerism"
 escuchas: 3
 puesto: 36
 semana: "2026-W03"
+clave: "tame impala|lonerism"
 portada: "10d090301f2234b7.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Tame+Impala/Lonerism)

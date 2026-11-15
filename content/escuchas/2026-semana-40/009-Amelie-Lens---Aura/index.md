@@ -6,9 +6,11 @@ album: "Aura"
 escuchas: 3
 puesto: 9
 semana: "2026-W40"
+clave: "amelie lens|aura"
 nuevo_artista: true
 nuevo_album: true
 mix: 4
+novedad: true
 portada: "8b7ba19fd5a966df.jpg"
 mbid: "b52f5b4b-e42c-41ac-9f1f-0bb39b28d9aa"
 ---
@@ -16,6 +18,8 @@ mbid: "b52f5b4b-e42c-41ac-9f1f-0bb39b28d9aa"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b52f5b4b-e42c-41ac-9f1f-0bb39b28d9aa)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-09-04, 31 días antes de acabar la semana
 
 **Escuchas:** 3
 

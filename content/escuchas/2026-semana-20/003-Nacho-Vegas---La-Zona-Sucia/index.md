@@ -6,6 +6,7 @@ album: "La Zona Sucia"
 escuchas: 9
 puesto: 3
 semana: "2026-W20"
+clave: "nacho vegas|la zona sucia"
 nuevo_album: true
 portada: "3aea9c6cd6315d22.jpg"
 ---

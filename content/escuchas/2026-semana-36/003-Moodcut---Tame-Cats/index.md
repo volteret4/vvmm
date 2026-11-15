@@ -6,6 +6,7 @@ album: "Tame Cats"
 escuchas: 4
 puesto: 3
 semana: "2026-W36"
+clave: "moodcut|tame cats"
 nuevo_artista: true
 nuevo_album: true
 portada: "148a449376476167.jpg"

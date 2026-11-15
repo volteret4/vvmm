@@ -5,10 +5,12 @@
     <h1>semana {{ .Params.semana }}<small>{{ .Params.anio }}</small></h1>
     <p>{{ .Params.rango }} · {{ .Params.scrobbles }} escuchas · {{ len .RegularPages }} discos{{ if not .Params.completa }} · en curso{{ end }}</p>
     {{ $na := .Params.nuevos_artistas | default 0 }}{{ $nd := sub (.Params.nuevos_albumes | default 0) $na }}
-    {{ if or $na (gt $nd 0) }}
+    {{ $nov := .Params.novedades | default 0 }}
+    {{ if or $na (gt $nd 0) $nov }}
     <p class="leyenda">
       {{ with $na }}<span><i class="nuevo art">★</i> {{ . }} {{ cond (eq . 1) "artista nuevo" "artistas nuevos" }}</span>{{ end }}
       {{ if gt $nd 0 }}<span><i class="nuevo">✦</i> {{ $nd }} {{ cond (eq $nd 1) "disco nuevo" "discos nuevos" }} de artistas conocidos</span>{{ end }}
+      {{ with $nov }}<span><i class="nuevo nov">◆</i> {{ . }} {{ cond (eq . 1) "novedad" "novedades" }} (publicadas hace menos de 3 meses)</span>{{ end }}
     </p>
     {{ end }}
   </header>

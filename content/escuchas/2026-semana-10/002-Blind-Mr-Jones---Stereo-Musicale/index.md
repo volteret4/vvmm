@@ -6,6 +6,7 @@ album: "Stereo Musicale"
 escuchas: 18
 puesto: 2
 semana: "2026-W10"
+clave: "blind mr jones|stereo musicale"
 nuevo_artista: true
 nuevo_album: true
 portada: "45278be0dd4349ea.jpg"

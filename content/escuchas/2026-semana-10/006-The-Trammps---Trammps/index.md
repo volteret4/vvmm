@@ -6,6 +6,7 @@ album: "Trammps"
 escuchas: 13
 puesto: 6
 semana: "2026-W10"
+clave: "the trammps|trammps"
 nuevo_album: true
 portada: "70d8ce3a3b4f4984.jpg"
 ---

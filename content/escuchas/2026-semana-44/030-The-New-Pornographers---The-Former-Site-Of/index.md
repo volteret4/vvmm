@@ -6,6 +6,7 @@ album: "The Former Site Of"
 escuchas: 4
 puesto: 30
 semana: "2026-W44"
+clave: "the new pornographers|the former site of"
 portada: "63c48a96841babc6.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+New+Pornographers/The+Former+Site+Of)

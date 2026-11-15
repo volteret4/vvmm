@@ -1,0 +1,441 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 9 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 9 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-09/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-09/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 9 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 9<small>2026</small></h1>
+    <p>23 feb – 1 mar 2026 · 125 escuchas · 14 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 4 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 9 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 5 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-10/">← semana 10</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-08/">semana 8 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/001-apparat---a-hum-of-maybe/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/5cdc57cde088684d_hu_2636fce6383ee980.webp" width="360" height="360" loading="lazy" alt="Apparat - A Hum Of Maybe">
+          
+        </div>
+        <div class="cap">
+          <b>A Hum Of Maybe</b>
+          <span>Apparat</span>
+          <time>#1 · 13 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/002-donny-benet---il-basso/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/90f6053d21d20538_hu_469d50a77c061b98.webp" width="360" height="360" loading="lazy" alt="Donny Benet - Il Basso">
+          
+        </div>
+        <div class="cap">
+          <b>Il Basso</b>
+          <span>Donny Benet</span>
+          <time>#2 · 11 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/003-the-feelies---crazy-rhythms/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b564733b60769f5a_hu_a79e5608c0b910fd.webp" width="360" height="360" loading="lazy" alt="The Feelies - Crazy Rhythms">
+          
+        </div>
+        <div class="cap">
+          <b>Crazy Rhythms</b>
+          <span>The Feelies</span>
+          <time>#3 · 9 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/004-voyage---fly-away-special-edition-disco-recharge-series-cd-1/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Fly Away [Special Edition, Disco Recharge Series] (CD 1)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Fly Away [Special Edition, Disco Recharge Series] (CD 1)</b>
+          <span>Voyage</span>
+          <time>#4 · 9 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/005-taana-gardner---taana-gardner/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d5dc91deb3b67d1f_hu_85d155bbe93c70c4.webp" width="360" height="360" loading="lazy" alt="Taana Gardner - Taana Gardner">
+          
+        </div>
+        <div class="cap">
+          <b>Taana Gardner</b>
+          <span>Taana Gardner</span>
+          <time>#5 · 8 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/006-galliano---unreliable-memories-of-contested-conversations/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/3935a74df3439ed4_hu_e6ba1ef85051ada8.webp" width="360" height="360" loading="lazy" alt="Galliano - Unreliable Memories Of Contested Conversations">
+          
+        </div>
+        <div class="cap">
+          <b>Unreliable Memories Of Contested Conversations</b>
+          <span>Galliano</span>
+          <time>#6 · 7 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/007-bohannon---summertime-groove/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/5220bb91f980561b_hu_34448e7fb543c1b8.webp" width="360" height="360" loading="lazy" alt="Bohannon - Summertime Groove">
+          
+        </div>
+        <div class="cap">
+          <b>Summertime Groove</b>
+          <span>Bohannon</span>
+          <time>#7 · 6 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/008-prins-thomas---thomas-moen-hermansen/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ed13eed722ba2744_hu_482596b54210d9ea.webp" width="360" height="360" loading="lazy" alt="Prins Thomas - Thomas Moen Hermansen">
+          
+        </div>
+        <div class="cap">
+          <b>Thomas Moen Hermansen</b>
+          <span>Prins Thomas</span>
+          <time>#8 · 6 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/009-diana-ross---the-boss/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/40c263d8a9a64c0f_hu_20b982754281a49.webp" width="360" height="360" loading="lazy" alt="Diana Ross - The Boss">
+          
+        </div>
+        <div class="cap">
+          <b>The Boss</b>
+          <span>Diana Ross</span>
+          <time>#9 · 6 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/010-gorillaz---the-mountain/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7a001cabc1ad76da_hu_c542fd210a31a0d5.webp" width="360" height="360" loading="lazy" alt="Gorillaz - The Mountain">
+          
+        </div>
+        <div class="cap">
+          <b>The Mountain</b>
+          <span>Gorillaz</span>
+          <time>#10 · 5 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/011-galcher-lustwerk---vestibule/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bc8c7cca7dc4266f_hu_ba9e84517a62c3dd.webp" width="360" height="360" loading="lazy" alt="Galcher Lustwerk - Vestibule">
+          
+        </div>
+        <div class="cap">
+          <b>Vestibule</b>
+          <span>Galcher Lustwerk</span>
+          <time>#11 · 5 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/012-taana-gardner---when-you-touch-me-the-west-end-recordings/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/29cf5fcf4be2f7fa_hu_65f2e6b07983d8df.webp" width="360" height="360" loading="lazy" alt="Taana Gardner - When You Touch Me: The West End Recordings">
+          
+        </div>
+        <div class="cap">
+          <b>When You Touch Me: The West End Recordings</b>
+          <span>Taana Gardner</span>
+          <time>#12 · 4 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/013-zola-jesus---okovi/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4d1fc8d135ae085a_hu_ab21da3f632e59db.webp" width="360" height="360" loading="lazy" alt="Zola Jesus - Okovi">
+          
+        </div>
+        <div class="cap">
+          <b>Okovi</b>
+          <span>Zola Jesus</span>
+          <time>#13 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-09/014-love-and-kisses---love-and-kisses/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/9ee71b4bf3b3fe12_hu_a61e3b5ac7c01828.webp" width="360" height="360" loading="lazy" alt="Love And Kisses - Love and Kisses">
+          
+        </div>
+        <div class="cap">
+          <b>Love and Kisses</b>
+          <span>Love And Kisses</span>
+          <time>#14 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

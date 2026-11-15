@@ -6,6 +6,7 @@ album: "Atmosfear/En Trance [2005]"
 escuchas: 9
 puesto: 10
 semana: "2026-W17"
+clave: "atmosfear|atmosfear en trance"
 nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Atmosfear/Atmosfear%2FEn+Trance+%5B2005%5D)

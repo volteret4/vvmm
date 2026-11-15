@@ -6,6 +6,7 @@ album: "People／Gregory Moore"
 escuchas: 4
 puesto: 31
 semana: "2026-W18"
+clave: "ellipsis|people gregory moore"
 mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ellipsis/People%EF%BC%8FGregory+Moore)

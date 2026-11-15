@@ -6,6 +6,7 @@ album: "Around the Fur"
 escuchas: 10
 puesto: 14
 semana: "2026-W13"
+clave: "deftones|around the fur"
 portada: "fd63dbefc7549d6b.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deftones/Around+the+Fur)

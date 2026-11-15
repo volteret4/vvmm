@@ -6,6 +6,7 @@ album: "SABLE, fABLE"
 escuchas: 3
 puesto: 17
 semana: "2026-W21"
+clave: "bon iver|sable fable"
 mix: 1
 portada: "971a2a8d7daa0f66.jpg"
 ---

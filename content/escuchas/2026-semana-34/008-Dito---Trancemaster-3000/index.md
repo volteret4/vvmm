@@ -6,6 +6,7 @@ album: "Trancemaster 3000"
 escuchas: 3
 puesto: 8
 semana: "2026-W34"
+clave: "dito|trancemaster 3000"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

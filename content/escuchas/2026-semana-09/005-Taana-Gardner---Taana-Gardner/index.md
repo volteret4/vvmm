@@ -6,6 +6,7 @@ album: "Taana Gardner"
 escuchas: 8
 puesto: 5
 semana: "2026-W09"
+clave: "taana gardner|taana gardner"
 nuevo_album: true
 portada: "d5dc91deb3b67d1f.jpg"
 ---

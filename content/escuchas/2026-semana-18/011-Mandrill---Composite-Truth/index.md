@@ -6,6 +6,7 @@ album: "Composite Truth"
 escuchas: 8
 puesto: 11
 semana: "2026-W18"
+clave: "mandrill|composite truth"
 nuevo_album: true
 mix: 3
 portada: "31589877313d6bc9.jpg"

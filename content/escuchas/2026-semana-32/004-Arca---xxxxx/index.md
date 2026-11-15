@@ -6,6 +6,7 @@ album: "xxxxx"
 escuchas: 3
 puesto: 4
 semana: "2026-W32"
+clave: "arca|xxxxx"
 nuevo_album: true
 portada: "9c26d2e68bc4a7a6.jpg"
 ---

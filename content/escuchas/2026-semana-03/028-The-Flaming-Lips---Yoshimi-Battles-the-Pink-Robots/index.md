@@ -6,6 +6,7 @@ album: "Yoshimi Battles the Pink Robots"
 escuchas: 4
 puesto: 28
 semana: "2026-W03"
+clave: "the flaming lips|yoshimi battles the pink robots"
 portada: "b08813fb2bc52dff.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Flaming+Lips/Yoshimi+Battles+the+Pink+Robots)

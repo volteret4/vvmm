@@ -6,8 +6,10 @@ album: "Day and Night"
 escuchas: 5
 puesto: 5
 semana: "2026-W38"
+clave: "carly rae jepsen|day and night"
 nuevo_album: true
 mix: 3
+novedad: true
 portada: "e5e3b45928fed7e2.png"
 mbid: "bfdff64a-95f7-4285-987b-5ea8cb9a0e87"
 ---
@@ -15,6 +17,8 @@ mbid: "bfdff64a-95f7-4285-987b-5ea8cb9a0e87"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/bfdff64a-95f7-4285-987b-5ea8cb9a0e87)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-09-18, 3 días antes de acabar la semana
 
 **Escuchas:** 5
 

@@ -6,6 +6,7 @@ album: "JOY"
 escuchas: 6
 puesto: 21
 semana: "2026-W44"
+clave: "rhye|joy"
 portada: "b762e6c1b3e4d922.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Rhye/JOY)

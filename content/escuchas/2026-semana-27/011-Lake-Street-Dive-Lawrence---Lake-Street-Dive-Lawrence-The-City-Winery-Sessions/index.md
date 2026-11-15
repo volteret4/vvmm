@@ -6,6 +6,7 @@ album: "Lake Street Dive & Lawrence: The City Winery Sessions"
 escuchas: 4
 puesto: 11
 semana: "2026-W27"
+clave: "lake street dive lawrence|lake street dive lawrence the city winery sessions"
 nuevo_artista: true
 nuevo_album: true
 portada: "976f244ac80787f2.jpg"

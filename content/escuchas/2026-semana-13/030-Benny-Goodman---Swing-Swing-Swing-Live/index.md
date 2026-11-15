@@ -6,6 +6,7 @@ album: "Swing Swing Swing (Live)"
 escuchas: 4
 puesto: 30
 semana: "2026-W13"
+clave: "benny goodman|swing swing swing"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Benny+Goodman/Swing+Swing+Swing+%28Live%29)
 

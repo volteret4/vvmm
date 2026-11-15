@@ -10,5 +10,6 @@ scrobbles: 84
 nuevos_artistas: 0
 nuevos_albumes: 2
 mix: 1
+novedades: 1
 completa: true
 ---

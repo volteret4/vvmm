@@ -6,6 +6,7 @@ album: "End Beginnings"
 escuchas: 10
 puesto: 5
 semana: "2026-W15"
+clave: "sandwell district|end beginnings"
 portada: "acb38b5616bd6268.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Sandwell+District/End+Beginnings)

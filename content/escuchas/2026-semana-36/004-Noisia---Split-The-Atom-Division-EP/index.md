@@ -6,6 +6,7 @@ album: "Split The Atom (Division EP)"
 escuchas: 4
 puesto: 4
 semana: "2026-W36"
+clave: "noisia|split the atom"
 nuevo_album: true
 mix: 1
 portada: "4727a414cefd4975.jpg"

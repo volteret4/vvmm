@@ -6,6 +6,7 @@ album: "Later Than You Think"
 escuchas: 10
 puesto: 9
 semana: "2026-W16"
+clave: "john maus|later than you think"
 mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/John+Maus/Later+Than+You+Think)

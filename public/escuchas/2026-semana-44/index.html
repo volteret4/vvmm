@@ -1,0 +1,1010 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 44 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 44 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-44/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-44/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 44 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 44<small>2026</small></h1>
+    <p>26 oct – 1 nov 2026 · 362 escuchas · 42 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 14 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 11 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 8 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-45/">← semana 45</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-43/">semana 43 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/001-fania-all-stars---rhythm-machine/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c96c1659273032ce_hu_98173453c19ccd52.webp" width="360" height="360" loading="lazy" alt="Fania All Stars - Rhythm Machine">
+          
+        </div>
+        <div class="cap">
+          <b>Rhythm Machine</b>
+          <span>Fania All Stars</span>
+          <time>#1 · 23 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/002-a-flock-of-seagulls---a-flock-of-seagulls/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f6435f19f732bbb4_hu_71986ac13aef790e.webp" width="360" height="360" loading="lazy" alt="A Flock of Seagulls - A Flock Of Seagulls">
+          
+        </div>
+        <div class="cap">
+          <b>A Flock Of Seagulls</b>
+          <span>A Flock of Seagulls</span>
+          <time>#2 · 16 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/003-el-aviador-dro---sintesis-la-produccion-al-poder/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/34c3b3e5a9545188_hu_e92e16ac0c01a5f.webp" width="360" height="360" loading="lazy" alt="El Aviador Dro - Sintesis: La Produccion al Poder">
+          
+        </div>
+        <div class="cap">
+          <b>Sintesis: La Produccion al Poder</b>
+          <span>El Aviador Dro</span>
+          <time>#3 · 13 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/004-ruben-blades-willie-colon---siembra-special-edition/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8c019ee65e2914ea_hu_4c3d30748bbf578d.webp" width="360" height="360" loading="lazy" alt="Rubén Blades &amp; Willie Colón - Siembra (Special Edition)">
+          
+        </div>
+        <div class="cap">
+          <b>Siembra (Special Edition)</b>
+          <span>Rubén Blades &amp; Willie Colón</span>
+          <time>#4 · 12 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/005-anderson-paak---heavy-is-the-crown/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/84dc84e9d3a8af33_hu_e0ecbb66f36abc9f.webp" width="360" height="360" loading="lazy" alt="Anderson .Paak - Heavy is the crown">
+          
+        </div>
+        <div class="cap">
+          <b>Heavy is the crown</b>
+          <span>Anderson .Paak</span>
+          <time>#5 · 11 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/006-diiv---zirp/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/5529b5e1c0fcd49c_hu_177edd0403a35e2.webp" width="360" height="360" loading="lazy" alt="DIIV - ZIRP!">
+          
+        </div>
+        <div class="cap">
+          <b>ZIRP!</b>
+          <span>DIIV</span>
+          <time>#6 · 11 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/007-ministry---with-sympathy-remaster/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>With Sympathy (Remaster)</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>With Sympathy (Remaster)</b>
+          <span>Ministry</span>
+          <time>#7 · 11 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/008-ministry---hate-to-go-take-out-or-delivery/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/9a32dca7264929be_hu_da23de27a4b2396a.webp" width="360" height="360" loading="lazy" alt="Ministry - Hate To Go - Take Out Or Delivery">
+          
+        </div>
+        <div class="cap">
+          <b>Hate To Go - Take Out Or Delivery</b>
+          <span>Ministry</span>
+          <time>#8 · 10 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/009-or---music-for-empty-stadiums/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bf1af2f5e6ef0100_hu_9caf8745d2af9a2f.webp" width="360" height="360" loading="lazy" alt="Or - Music For Empty Stadiums">
+          
+        </div>
+        <div class="cap">
+          <b>Music For Empty Stadiums</b>
+          <span>Or</span>
+          <time>#9 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/010-queens-of-the-stone-age---perfecth/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/74ae413d22b3e31e_hu_66badc1e2613b61c.webp" width="360" height="360" loading="lazy" alt="Queens of the Stone Age - Perfecth">
+          
+        </div>
+        <div class="cap">
+          <b>Perfecth</b>
+          <span>Queens of the Stone Age</span>
+          <time>#10 · 10 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/011-jpegmafia---experimental-rap/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c4c241c1ec60f8ad_hu_4af7f60eeabe4286.webp" width="360" height="360" loading="lazy" alt="JPEGMAFIA - EXPERIMENTAL RAP">
+          
+        </div>
+        <div class="cap">
+          <b>EXPERIMENTAL RAP</b>
+          <span>JPEGMAFIA</span>
+          <time>#11 · 8 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/012-los-estanques-anni-b-sweet---burbuja-comoda-y-elefante-inesperado/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/48b5f171b9f977f7_hu_5ca22f835ab51418.webp" width="360" height="360" loading="lazy" alt="Los Estanques &amp; Anni B Sweet - Burbuja Cómoda y Elefante Inesperado">
+          
+        </div>
+        <div class="cap">
+          <b>Burbuja Cómoda y Elefante Inesperado</b>
+          <span>Los Estanques &amp; Anni B Sweet</span>
+          <time>#12 · 8 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/013-schneider-tm---moist/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f264321554d4f86c_hu_7be82dbe22bc13da.webp" width="360" height="360" loading="lazy" alt="Schneider TM - Moist">
+          
+        </div>
+        <div class="cap">
+          <b>Moist</b>
+          <span>Schneider TM</span>
+          <time>#13 · 8 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/014-forward-strategy-group---labour-division/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/63c4bbca26252334_hu_c95a1c53b6d14820.webp" width="360" height="360" loading="lazy" alt="Forward Strategy Group - Labour Division">
+          
+        </div>
+        <div class="cap">
+          <b>Labour Division</b>
+          <span>Forward Strategy Group</span>
+          <time>#14 · 7 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/015-hemlocke-springs---the-apple-tree-under-the-sea/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7a4e033968a5a4d3_hu_a2da1a3c94a3944f.webp" width="360" height="360" loading="lazy" alt="Hemlocke Springs - the apple tree under the sea">
+          
+        </div>
+        <div class="cap">
+          <b>the apple tree under the sea</b>
+          <span>Hemlocke Springs</span>
+          <time>#15 · 7 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/016-moses-boyd---songs-for-sinners/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/055febcf94b54128_hu_2b43034ef13bad6f.webp" width="360" height="360" loading="lazy" alt="Moses Boyd - Songs For Sinners">
+          
+        </div>
+        <div class="cap">
+          <b>Songs For Sinners</b>
+          <span>Moses Boyd</span>
+          <time>#16 · 7 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/017-boy-harsher---get-mean/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/3cf1a75e419e8ca6_hu_e9e81d56c2320710.webp" width="360" height="360" loading="lazy" alt="Boy Harsher - Get Mean">
+          
+        </div>
+        <div class="cap">
+          <b>Get Mean</b>
+          <span>Boy Harsher</span>
+          <time>#17 · 6 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/018-christopher-rau---two/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/03daeacc187981ab_hu_6cf785302a439a5d.webp" width="360" height="360" loading="lazy" alt="Christopher Rau - Two">
+          
+        </div>
+        <div class="cap">
+          <b>Two</b>
+          <span>Christopher Rau</span>
+          <time>#18 · 6 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/019-el-aviador-dro---alas-sobre-el-mundo/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/76e1fd2911ba3655_hu_c845b756b8a98b18.webp" width="360" height="360" loading="lazy" alt="El Aviador Dro - Alas Sobre El Mundo">
+          
+        </div>
+        <div class="cap">
+          <b>Alas Sobre El Mundo</b>
+          <span>El Aviador Dro</span>
+          <time>#19 · 6 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/020-i-hate-models---l-age-des-metamorphoses/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1ba9f6422fbb6cea_hu_c0ec520dfa75bbf7.webp" width="360" height="360" loading="lazy" alt="I Hate Models - L&#39;Âge Des Métamorphoses">
+          
+        </div>
+        <div class="cap">
+          <b>L&#39;Âge Des Métamorphoses</b>
+          <span>I Hate Models</span>
+          <time>#20 · 6 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/021-rhye---joy/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b762e6c1b3e4d922_hu_fea7434f2ccf730b.webp" width="360" height="360" loading="lazy" alt="Rhye - JOY">
+          
+        </div>
+        <div class="cap">
+          <b>JOY</b>
+          <span>Rhye</span>
+          <time>#21 · 6 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/022-madonna---madonna/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a658fd538ea6039f_hu_2ca5d3e69cd635ee.webp" width="360" height="360" loading="lazy" alt="Madonna - Madonna">
+          
+        </div>
+        <div class="cap">
+          <b>Madonna</b>
+          <span>Madonna</span>
+          <time>#22 · 6 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/023-and-one---bodypop/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a2add58cc79f3bc5_hu_25f8ae6c976633da.webp" width="360" height="360" loading="lazy" alt="And One - Bodypop">
+          
+        </div>
+        <div class="cap">
+          <b>Bodypop</b>
+          <span>And One</span>
+          <time>#23 · 5 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/024-bot1500---the-black-sea/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/33af2502d71f7346_hu_7393ead0be464aba.webp" width="360" height="360" loading="lazy" alt="BOT1500 - The Black Sea">
+          
+        </div>
+        <div class="cap">
+          <b>The Black Sea</b>
+          <span>BOT1500</span>
+          <time>#24 · 5 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/025-carly-rae-jepsen---day-and-night/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e5e3b45928fed7e2_hu_6aa30dd33ff92488.webp" width="360" height="360" loading="lazy" alt="Carly Rae Jepsen - Day and Night">
+          
+        </div>
+        <div class="cap">
+          <b>Day and Night</b>
+          <span>Carly Rae Jepsen</span>
+          <time>#25 · 4 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/026-death-cab-for-cutie---i-built-you-a-tower/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bc6f5e552a3ea68e_hu_dcdbcdac6a34e02f.webp" width="360" height="360" loading="lazy" alt="Death Cab for Cutie - I Built You A Tower">
+          
+        </div>
+        <div class="cap">
+          <b>I Built You A Tower</b>
+          <span>Death Cab for Cutie</span>
+          <time>#26 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/027-genghis-tron---signal-fire/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/49abdda6eb2937ae_hu_d53038d726f7acf0.webp" width="360" height="360" loading="lazy" alt="Genghis Tron - Signal Fire">
+          
+        </div>
+        <div class="cap">
+          <b>Signal Fire</b>
+          <span>Genghis Tron</span>
+          <time>#27 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/028-sascha-funke---mango/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1508fa6fe1f7aaa6_hu_d7306b5a38b49707.webp" width="360" height="360" loading="lazy" alt="Sascha Funke - Mango">
+          
+        </div>
+        <div class="cap">
+          <b>Mango</b>
+          <span>Sascha Funke</span>
+          <time>#28 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/029-telex---how-do-you-dance-remastered/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/edbf872b4df47947_hu_a508b4513e7f612.webp" width="360" height="360" loading="lazy" alt="Telex - How Do You Dance? (Remastered)">
+          
+        </div>
+        <div class="cap">
+          <b>How Do You Dance? (Remastered)</b>
+          <span>Telex</span>
+          <time>#29 · 4 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/030-the-new-pornographers---the-former-site-of/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/63c48a96841babc6_hu_b9a9a236d0bcc122.webp" width="360" height="360" loading="lazy" alt="The New Pornographers - The Former Site Of">
+          
+        </div>
+        <div class="cap">
+          <b>The Former Site Of</b>
+          <span>The New Pornographers</span>
+          <time>#30 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/031-willie-colon-hector-lavoe---vigilante/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/911c6a026526dc7b_hu_72f63d3fd0fc4a8d.webp" width="360" height="360" loading="lazy" alt="Willie Colón &amp; Héctor Lavoe - Vigilante">
+          
+        </div>
+        <div class="cap">
+          <b>Vigilante</b>
+          <span>Willie Colón &amp; Héctor Lavoe</span>
+          <time>#31 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/032-maenad-veyl---body-count/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d3a7c7b7f9f3def4_hu_384bb18a197f4f48.webp" width="360" height="360" loading="lazy" alt="Maenad Veyl - Body Count">
+          
+        </div>
+        <div class="cap">
+          <b>Body Count</b>
+          <span>Maenad Veyl</span>
+          <time>#32 · 4 escuchas · <span class="corazon" title="7 en Mix">♥ 7</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/033-dj-seinfeld---if-this-is-it/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/21d6160c8dd708ff_hu_f506f6cdb816b281.webp" width="360" height="360" loading="lazy" alt="DJ Seinfeld - If This Is It">
+          
+        </div>
+        <div class="cap">
+          <b>If This Is It</b>
+          <span>DJ Seinfeld</span>
+          <time>#33 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/034-front-242---tyranny-for-you/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/797cba3ddcf339a1_hu_8880ff819840ad24.webp" width="360" height="360" loading="lazy" alt="Front 242 - Tyranny For You">
+          
+        </div>
+        <div class="cap">
+          <b>Tyranny For You</b>
+          <span>Front 242</span>
+          <time>#34 · 3 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/035-lawrence---a-day-in-the-life/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d7c4efa189de3b33_hu_d4f271386a56dbba.webp" width="360" height="360" loading="lazy" alt="Lawrence - A Day In The Life">
+          
+        </div>
+        <div class="cap">
+          <b>A Day In The Life</b>
+          <span>Lawrence</span>
+          <time>#35 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/036-lawrence---the-night-will-last-forever/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e0a671375eccd780_hu_440704a65c898031.webp" width="360" height="360" loading="lazy" alt="Lawrence - The Night Will Last Forever">
+          
+        </div>
+        <div class="cap">
+          <b>The Night Will Last Forever</b>
+          <span>Lawrence</span>
+          <time>#36 · 3 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/037-lawrence---until-then-goodbye/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6ac5be45ca4d48f1_hu_ca82ff6d8533141f.webp" width="360" height="360" loading="lazy" alt="Lawrence - Until Then, Goodbye">
+          
+        </div>
+        <div class="cap">
+          <b>Until Then, Goodbye</b>
+          <span>Lawrence</span>
+          <time>#37 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/038-lawrence---yoyogi-park/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4d54d88641abeb82_hu_69e0e3dec1cc83bd.webp" width="360" height="360" loading="lazy" alt="Lawrence - Yoyogi Park">
+          
+        </div>
+        <div class="cap">
+          <b>Yoyogi Park</b>
+          <span>Lawrence</span>
+          <time>#38 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/039-levzon-phil-berg-ruiz-osc1---mambata-ep/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Mambata EP</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Mambata EP</b>
+          <span>Levzon, Phil Berg, RUIZ OSC1</span>
+          <time>#39 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/040-manni-dee---a-low-level-love/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c8582fd39ec07c7c_hu_7c7575cf0bf298b0.webp" width="360" height="360" loading="lazy" alt="Manni Dee - A Low Level Love">
+          
+        </div>
+        <div class="cap">
+          <b>A Low Level Love</b>
+          <span>Manni Dee</span>
+          <time>#40 · 3 escuchas · <span class="corazon" title="5 en Mix">♥ 5</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/041-the-black-dog---loud-ambient-2/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/617454f39d1e21c1_hu_ecf7a83dff233711.webp" width="360" height="360" loading="lazy" alt="The Black Dog - Loud Ambient 2">
+          
+        </div>
+        <div class="cap">
+          <b>Loud Ambient 2</b>
+          <span>The Black Dog</span>
+          <time>#41 · 3 escuchas · <span class="corazon" title="5 en Mix">♥ 5</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-44/042-sdh---rider/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/be2ab76e14407cef_hu_9d3ba66aed50f396.webp" width="360" height="360" loading="lazy" alt="SDH - Rider">
+          
+        </div>
+        <div class="cap">
+          <b>Rider</b>
+          <span>SDH</span>
+          <time>#42 · 3 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

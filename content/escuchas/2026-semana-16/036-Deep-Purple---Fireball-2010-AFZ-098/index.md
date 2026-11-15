@@ -6,6 +6,7 @@ album: "Fireball [2010, AFZ 098]"
 escuchas: 4
 puesto: 36
 semana: "2026-W16"
+clave: "deep purple|fireball"
 nuevo_album: true
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Deep+Purple/Fireball+%5B2010%2C+AFZ+098%5D)

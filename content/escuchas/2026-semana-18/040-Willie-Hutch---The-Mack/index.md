@@ -6,6 +6,7 @@ album: "The Mack"
 escuchas: 3
 puesto: 40
 semana: "2026-W18"
+clave: "willie hutch|the mack"
 nuevo_artista: true
 nuevo_album: true
 mix: 5

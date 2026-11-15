@@ -6,6 +6,7 @@ album: "More Music for the Jilted Generation"
 escuchas: 4
 puesto: 16
 semana: "2026-W35"
+clave: "the prodigy|more music for the jilted generation"
 nuevo_album: true
 mix: 2
 portada: "e4b57e2249c8569a.jpg"

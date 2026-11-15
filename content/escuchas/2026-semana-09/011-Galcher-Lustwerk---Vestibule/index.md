@@ -6,13 +6,17 @@ album: "Vestibule"
 escuchas: 5
 puesto: 11
 semana: "2026-W09"
+clave: "galcher lustwerk|vestibule"
 nuevo_album: true
 mix: 3
+novedad: true
 portada: "bc8c7cca7dc4266f.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Galcher+Lustwerk/Vestibule)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-02-13, 17 días antes de acabar la semana
 
 **Escuchas:** 5
 

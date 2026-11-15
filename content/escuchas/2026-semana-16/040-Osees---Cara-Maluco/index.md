@@ -6,11 +6,15 @@ album: "Cara Maluco"
 escuchas: 4
 puesto: 40
 semana: "2026-W16"
+clave: "osees|cara maluco"
+novedad: true
 portada: "3b86b8eed4a54917.jpg"
 mbid: "deba183b-1cc8-4d09-a7e8-5e03b94b3bcd"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Osees/Cara+Maluco)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/deba183b-1cc8-4d09-a7e8-5e03b94b3bcd)
+
+**Novedad:** publicado el 2026-03-06, 45 días antes de acabar la semana
 
 **Escuchas:** 4
 

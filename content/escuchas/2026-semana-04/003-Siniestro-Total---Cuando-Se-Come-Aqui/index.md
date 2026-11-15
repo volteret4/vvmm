@@ -6,6 +6,7 @@ album: "¿Cuándo Se Come Aquí?"
 escuchas: 3
 puesto: 3
 semana: "2026-W04"
+clave: "siniestro total|cuando se come aqui"
 mix: 2
 portada: "c6b55e4fcc2f06f0.jpg"
 ---

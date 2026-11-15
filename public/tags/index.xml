@@ -10,11 +10,18 @@
 		
 		
 		
-			<lastBuildDate>Sat, 14 Nov 2026 22:03:51 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 15 Nov 2026 23:24:23 +0100</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>EBM</title>
+				<title>Rock-Progresivo</title>
+				<link>/tags/rock-progresivo/</link>
+				<pubDate>Sun, 15 Nov 2026 23:24:23 +0100</pubDate>
+				<guid>/tags/rock-progresivo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ebm</title>
 				<link>/tags/ebm/</link>
 				<pubDate>Sat, 14 Nov 2026 22:03:51 +0000</pubDate>
 				<guid>/tags/ebm/</guid>
@@ -592,13 +599,6 @@
 				<link>/tags/trihop/</link>
 				<pubDate>Thu, 20 Jun 2024 13:22:04 +0200</pubDate>
 				<guid>/tags/trihop/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Rock-Progresivo</title>
-				<link>/tags/rock-progresivo/</link>
-				<pubDate>Thu, 20 Jun 2024 13:12:35 +0200</pubDate>
-				<guid>/tags/rock-progresivo/</guid>
 				<description></description>
 			</item>
 			<item>

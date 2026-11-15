@@ -6,6 +6,7 @@ album: "Koi No Yokan"
 escuchas: 11
 puesto: 9
 semana: "2026-W13"
+clave: "deftones|koi no yokan"
 nuevo_album: true
 portada: "165b13fa9d15b561.jpg"
 ---

@@ -6,7 +6,9 @@ album: "The Dark"
 escuchas: 10
 puesto: 5
 semana: "2026-W35"
+clave: "chelsea wolfe|the dark"
 nuevo_album: true
+novedad: true
 portada: "eb6e089fed345fd8.jpg"
 mbid: "7d41eb14-7c6e-4506-81bd-a0207018abca"
 ---
@@ -14,6 +16,8 @@ mbid: "7d41eb14-7c6e-4506-81bd-a0207018abca"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/7d41eb14-7c6e-4506-81bd-a0207018abca)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-06-23, 69 días antes de acabar la semana
 
 **Escuchas:** 10
 

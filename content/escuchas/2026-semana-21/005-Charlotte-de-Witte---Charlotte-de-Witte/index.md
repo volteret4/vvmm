@@ -6,6 +6,7 @@ album: "Charlotte de Witte"
 escuchas: 8
 puesto: 5
 semana: "2026-W21"
+clave: "charlotte de witte|charlotte de witte"
 nuevo_album: true
 portada: "8a9f2eb6486304a3.jpg"
 ---

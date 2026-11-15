@@ -6,6 +6,7 @@ album: "Traces of the wind"
 escuchas: 3
 puesto: 7
 semana: "2026-W12"
+clave: "petre inspirescu|traces of the wind"
 nuevo_album: true
 portada: "653db6765ace98bf.jpg"
 mbid: "ee81cbc2-dac8-455d-bdf2-5035f4fd119d"

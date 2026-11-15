@@ -6,12 +6,16 @@ album: "The Black Sea"
 escuchas: 8
 puesto: 7
 semana: "2026-W27"
+clave: "bot1500|the black sea"
 nuevo_album: true
+novedad: true
 portada: "33af2502d71f7346.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/BOT1500/The+Black+Sea)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-06-19, 17 días antes de acabar la semana
 
 **Escuchas:** 8
 

@@ -6,6 +6,7 @@ album: "Pa' otro la'o"
 escuchas: 7
 puesto: 4
 semana: "2026-W43"
+clave: "chichi peralta|pa otro la o"
 nuevo_artista: true
 nuevo_album: true
 portada: "0a5d401f171a0a2e.jpg"

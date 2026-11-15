@@ -6,6 +6,7 @@ album: "The Kick Inside"
 escuchas: 4
 puesto: 20
 semana: "2026-W17"
+clave: "kate bush|the kick inside"
 portada: "4ee7e5aa2356e964.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Kate+Bush/The+Kick+Inside)

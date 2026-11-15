@@ -6,6 +6,7 @@ album: "9.9.99 9 Uhr / Maschinenstürmer"
 escuchas: 7
 puesto: 15
 semana: "2026-W45"
+clave: "and one|9 9 99 9 uhr maschinensturmer"
 nuevo_album: true
 mix: 2
 portada: "690719a24bea945c.jpg"

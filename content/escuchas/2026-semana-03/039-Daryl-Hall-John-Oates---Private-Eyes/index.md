@@ -6,6 +6,7 @@ album: "Private Eyes"
 escuchas: 3
 puesto: 39
 semana: "2026-W03"
+clave: "daryl hall john oates|private eyes"
 mix: 1
 portada: "af4e855cecce52b5.jpg"
 mbid: "a3cb238e-a88e-4d8a-ac17-05acea6e79b3"

@@ -6,6 +6,7 @@ album: "Hamnet: Original Motion Picture Soundtrack"
 escuchas: 10
 puesto: 2
 semana: "2026-W06"
+clave: "max richter|hamnet original motion picture soundtrack"
 nuevo_album: true
 portada: "de1edbe82c0a6d1b.jpg"
 ---

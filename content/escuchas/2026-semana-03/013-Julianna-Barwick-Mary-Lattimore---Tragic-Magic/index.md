@@ -6,8 +6,10 @@ album: "Tragic Magic"
 escuchas: 5
 puesto: 13
 semana: "2026-W03"
+clave: "julianna barwick mary lattimore|tragic magic"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "d60003aa4a3e5ec9.jpg"
 mbid: "b2b3f3ac-1bd7-4e12-b0cb-675f60173954"
 ---
@@ -15,6 +17,8 @@ mbid: "b2b3f3ac-1bd7-4e12-b0cb-675f60173954"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b2b3f3ac-1bd7-4e12-b0cb-675f60173954)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-01-16, 3 días antes de acabar la semana
 
 **Escuchas:** 5
 

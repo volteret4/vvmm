@@ -6,6 +6,7 @@ album: "Fly Away [Special Edition, Disco Recharge Series] (CD 1)"
 escuchas: 4
 puesto: 44
 semana: "2026-W16"
+clave: "voyage|fly away"
 mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Voyage/Fly+Away+%5BSpecial+Edition%2C+Disco+Recharge+Series%5D+%28CD+1%29)

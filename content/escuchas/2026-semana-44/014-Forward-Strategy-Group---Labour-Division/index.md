@@ -6,6 +6,7 @@ album: "Labour Division"
 escuchas: 7
 puesto: 14
 semana: "2026-W44"
+clave: "forward strategy group|labour division"
 nuevo_album: true
 portada: "63c4bbca26252334.jpg"
 ---

@@ -6,6 +6,7 @@ album: "With Sympathy (Remaster)"
 escuchas: 11
 puesto: 7
 semana: "2026-W44"
+clave: "ministry|with sympathy"
 nuevo_album: true
 mix: 2
 ---

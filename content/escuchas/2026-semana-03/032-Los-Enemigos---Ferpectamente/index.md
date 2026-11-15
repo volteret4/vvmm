@@ -6,6 +6,7 @@ album: "Ferpectamente"
 escuchas: 3
 puesto: 32
 semana: "2026-W03"
+clave: "los enemigos|ferpectamente"
 mix: 1
 portada: "4741a5855f4eb453.jpg"
 ---

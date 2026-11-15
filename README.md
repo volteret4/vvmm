@@ -23,3 +23,9 @@ Opciones: `--min N` (escuchas mínimas por disco, 3 por defecto), `--max N` (dis
 ### Estadísticas
 
 `/escuchas/estadisticas/` (pestaña dentro de escuchas): conocido vs nuevo para artistas, discos y canciones; artistas y discos descubiertos frente a escuchas; sellos y géneros más escuchados. Filtro por año y mes. Los datos (`data/escuchas_stats.json`, todo el historial) los regenera `scripts/escuchas.py` en cada ejecución; «nuevo» = dentro de los `DIAS_NUEVO` (30) días siguientes a la primera escucha.
+
+### Reproductor, novedades y altas en Mix
+
+- `scripts/reproductor_escuchas.py`: reproductor de cada disco de escuchas en `data/reproductor_escuchas.json` (por la `clave:` del post). Bandcamp de la base de datos de music-fuzzy en pepecono, o de los enlaces de MusicBrainz comprobando la página del disco; si no, YouTube con yt-dlp. Lo lanza también el cron semanal.
+- ◆ novedad: disco publicado como mucho 90 días antes de esa semana (fecha de explorer.db; no cuenta reediciones ni discos con solo el año).
+- Estadísticas, altas en Mix: fecha en que la canción se marcó como favorita en Last.fm (exacta desde el 3/11/2025, cuando mover_mix empezó a marcarlas al pasarlas a Mix) o, si no, la de su primera escucha.

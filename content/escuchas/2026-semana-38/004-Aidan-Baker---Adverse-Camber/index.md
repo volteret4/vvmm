@@ -6,7 +6,9 @@ album: "Adverse Camber"
 escuchas: 5
 puesto: 4
 semana: "2026-W38"
+clave: "aidan baker|adverse camber"
 nuevo_album: true
+novedad: true
 portada: "22360c164b7d4c5e.jpg"
 mbid: "c5faae9c-51c2-42f7-bd10-f9d7b6834604"
 ---
@@ -14,6 +16,8 @@ mbid: "c5faae9c-51c2-42f7-bd10-f9d7b6834604"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/c5faae9c-51c2-42f7-bd10-f9d7b6834604)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-08-28, 24 días antes de acabar la semana
 
 **Escuchas:** 5
 

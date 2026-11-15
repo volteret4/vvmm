@@ -6,6 +6,7 @@ album: "Vigilante"
 escuchas: 4
 puesto: 31
 semana: "2026-W44"
+clave: "willie colon hector lavoe|vigilante"
 nuevo_artista: true
 nuevo_album: true
 portada: "911c6a026526dc7b.jpg"

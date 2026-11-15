@@ -6,6 +6,7 @@ album: "CARNAL"
 escuchas: 4
 puesto: 35
 semana: "2026-W16"
+clave: "cassegrain tin man|carnal"
 portada: "3b393b52bfa894dd.jpg"
 mbid: "d88d8a3b-a547-41d0-8a93-4ab0b8ab7370"
 ---

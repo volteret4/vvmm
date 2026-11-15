@@ -6,6 +6,7 @@ album: "Stratosphere"
 escuchas: 16
 puesto: 1
 semana: "2026-W06"
+clave: "duster|stratosphere"
 mix: 1
 portada: "e7132ca7f0b593bf.jpg"
 ---

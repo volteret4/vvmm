@@ -6,6 +6,7 @@ album: "Ultravox!"
 escuchas: 3
 puesto: 54
 semana: "2026-W16"
+clave: "ultravox|ultravox"
 portada: "2114213fc7ace9b9.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Ultravox/Ultravox%21)

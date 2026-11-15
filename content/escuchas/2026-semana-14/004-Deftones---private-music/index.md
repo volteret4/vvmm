@@ -6,6 +6,7 @@ album: "private music"
 escuchas: 11
 puesto: 4
 semana: "2026-W14"
+clave: "deftones|private music"
 nuevo_album: true
 portada: "1ed4623fff4f3d84.jpg"
 ---

@@ -6,6 +6,7 @@ album: "Voice of Reason"
 escuchas: 6
 puesto: 21
 semana: "2026-W45"
+clave: "flesh field|voice of reason"
 mix: 2
 portada: "df81c63789f97670.jpg"
 ---

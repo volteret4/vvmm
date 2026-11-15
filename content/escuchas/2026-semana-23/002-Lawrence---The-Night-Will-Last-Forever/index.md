@@ -6,6 +6,7 @@ album: "The Night Will Last Forever"
 escuchas: 16
 puesto: 2
 semana: "2026-W23"
+clave: "lawrence|the night will last forever"
 nuevo_album: true
 mix: 2
 portada: "e0a671375eccd780.jpg"

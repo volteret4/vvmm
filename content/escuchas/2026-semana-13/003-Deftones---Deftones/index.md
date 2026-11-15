@@ -6,6 +6,7 @@ album: "Deftones"
 escuchas: 14
 puesto: 3
 semana: "2026-W13"
+clave: "deftones|deftones"
 nuevo_album: true
 portada: "01174706ea794e9f.jpg"
 ---

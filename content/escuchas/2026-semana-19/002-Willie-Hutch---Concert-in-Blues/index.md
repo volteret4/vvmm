@@ -6,6 +6,7 @@ album: "Concert in Blues"
 escuchas: 5
 puesto: 2
 semana: "2026-W19"
+clave: "willie hutch|concert in blues"
 nuevo_album: true
 mix: 1
 portada: "a5a45643002f119d.jpg"

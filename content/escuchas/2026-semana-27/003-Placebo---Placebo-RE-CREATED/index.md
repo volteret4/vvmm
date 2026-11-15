@@ -6,12 +6,16 @@ album: "Placebo RE:CREATED"
 escuchas: 18
 puesto: 3
 semana: "2026-W27"
+clave: "placebo|placebo re created"
 nuevo_album: true
+novedad: true
 portada: "f33881fbe735ea09.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Placebo/Placebo+RE%3ACREATED)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-06-19, 17 días antes de acabar la semana
 
 **Escuchas:** 18
 

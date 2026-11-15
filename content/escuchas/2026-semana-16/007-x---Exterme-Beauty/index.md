@@ -6,6 +6,7 @@ album: "Exterme Beauty"
 escuchas: 10
 puesto: 7
 semana: "2026-W16"
+clave: "吉田美奈子|exterme beauty"
 nuevo_album: true
 portada: "047948d79f73c58c.jpg"
 mbid: "74462fa8-d211-410a-9dcd-3866b46c7e67"

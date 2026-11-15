@@ -6,13 +6,17 @@ album: "Secret love"
 escuchas: 11
 puesto: 1
 semana: "2026-W07"
+clave: "dry cleaning|secret love"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "90e9e5f79a89952e.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Dry+Cleaning/Secret+love)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-01-09, 38 días antes de acabar la semana
 
 **Escuchas:** 11
 

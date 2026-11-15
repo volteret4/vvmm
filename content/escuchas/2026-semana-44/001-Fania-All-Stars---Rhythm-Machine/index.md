@@ -6,6 +6,7 @@ album: "Rhythm Machine"
 escuchas: 23
 puesto: 1
 semana: "2026-W44"
+clave: "fania all stars|rhythm machine"
 mix: 3
 portada: "c96c1659273032ce.jpg"
 mbid: "6fbdcaa5-c87b-4e61-ae41-1f464309c3de"

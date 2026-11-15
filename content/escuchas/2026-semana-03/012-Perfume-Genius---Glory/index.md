@@ -6,6 +6,7 @@ album: "Glory"
 escuchas: 6
 puesto: 12
 semana: "2026-W03"
+clave: "perfume genius|glory"
 mix: 3
 portada: "c60b3a5aa36154ea.jpg"
 ---

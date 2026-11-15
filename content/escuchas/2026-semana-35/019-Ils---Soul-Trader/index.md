@@ -6,6 +6,7 @@ album: "Soul Trader"
 escuchas: 3
 puesto: 19
 semana: "2026-W35"
+clave: "ils|soul trader"
 nuevo_artista: true
 nuevo_album: true
 portada: "d5d9b1415e67bccf.jpg"

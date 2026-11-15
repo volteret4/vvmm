@@ -6,6 +6,7 @@ album: "The Essential Collection Of Monkey 2025 - Part.1"
 escuchas: 4
 puesto: 4
 semana: "2026-W34"
+clave: "shade k|the essential collection of monkey 2025 part 1"
 nuevo_artista: true
 nuevo_album: true
 portada: "48b5aeca41a08766.jpg"

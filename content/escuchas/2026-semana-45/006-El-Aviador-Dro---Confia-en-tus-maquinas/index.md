@@ -6,6 +6,7 @@ album: "Confía en tus máquinas"
 escuchas: 12
 puesto: 6
 semana: "2026-W45"
+clave: "el aviador dro|confia en tus maquinas"
 nuevo_album: true
 mix: 1
 portada: "850142942bcf7e6b.jpg"

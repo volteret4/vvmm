@@ -6,6 +6,7 @@ album: "Paranoid Experience"
 escuchas: 4
 puesto: 34
 semana: "2026-W16"
+clave: "acid junkies|paranoid experience"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

@@ -6,6 +6,7 @@ album: "Yoyogi Park"
 escuchas: 3
 puesto: 38
 semana: "2026-W44"
+clave: "lawrence|yoyogi park"
 nuevo_album: true
 portada: "4d54d88641abeb82.jpg"
 ---

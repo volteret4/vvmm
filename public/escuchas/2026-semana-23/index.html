@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 23 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 23 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-23/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-23/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 23 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 23<small>2026</small></h1>
+    <p>1–7 jun 2026 · 181 escuchas · 14 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 1 artista nuevo</span>
+      <span><i class="nuevo">✦</i> 10 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 5 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-24/">← semana 24</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-22/">semana 22 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/001-nu-genea---people-of-the-moon/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/f75a05a693bad3be_hu_c09d7afc67ea6dfb.webp" width="360" height="360" loading="lazy" alt="Nu Genea - People of the Moon">
+          
+        </div>
+        <div class="cap">
+          <b>People of the Moon</b>
+          <span>Nu Genea</span>
+          <time>#1 · 25 escuchas</time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/002-lawrence---the-night-will-last-forever/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e0a671375eccd780_hu_440704a65c898031.webp" width="360" height="360" loading="lazy" alt="Lawrence - The Night Will Last Forever">
+          
+        </div>
+        <div class="cap">
+          <b>The Night Will Last Forever</b>
+          <span>Lawrence</span>
+          <time>#2 · 16 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/003-lawrence---a-day-in-the-life/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d7c4efa189de3b33_hu_d4f271386a56dbba.webp" width="360" height="360" loading="lazy" alt="Lawrence - A Day In The Life">
+          
+        </div>
+        <div class="cap">
+          <b>A Day In The Life</b>
+          <span>Lawrence</span>
+          <time>#3 · 14 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/004-dj-seinfeld---if-this-is-it/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/21d6160c8dd708ff_hu_f506f6cdb816b281.webp" width="360" height="360" loading="lazy" alt="DJ Seinfeld - If This Is It">
+          
+        </div>
+        <div class="cap">
+          <b>If This Is It</b>
+          <span>DJ Seinfeld</span>
+          <time>#4 · 12 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/005-laurence-pike---the-undreamt-of-centre/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/658678638270e450_hu_5ea67fb36fc093b.webp" width="360" height="360" loading="lazy" alt="Laurence Pike - The Undreamt-of Centre">
+          
+        </div>
+        <div class="cap">
+          <b>The Undreamt-of Centre</b>
+          <span>Laurence Pike</span>
+          <time>#5 · 8 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/006-x---x/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/888afdda6f38319e_hu_76d11ad2f8a5ac8a.webp" width="360" height="360" loading="lazy" alt="万能青年旅店 - 冀西南林路行">
+          
+        </div>
+        <div class="cap">
+          <b>冀西南林路行</b>
+          <span>万能青年旅店</span>
+          <time>#6 · 8 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/007-boards-of-canada---inferno/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ea62aafb7261863c_hu_2f68ac11663dfc0b.webp" width="360" height="360" loading="lazy" alt="Boards of Canada - Inferno">
+          
+        </div>
+        <div class="cap">
+          <b>Inferno</b>
+          <span>Boards of Canada</span>
+          <time>#7 · 7 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/008-fatoumata-diawara---massa/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/09f555356fc8889d_hu_162816086e93fd92.webp" width="360" height="360" loading="lazy" alt="Fatoumata Diawara - Massa">
+          
+        </div>
+        <div class="cap">
+          <b>Massa</b>
+          <span>Fatoumata Diawara</span>
+          <time>#8 · 5 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/009-lawrence---illusion-remixes/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c1a4dedbef20db16_hu_e31eea8abe8380c6.webp" width="360" height="360" loading="lazy" alt="Lawrence - Illusion Remixes">
+          
+        </div>
+        <div class="cap">
+          <b>Illusion Remixes</b>
+          <span>Lawrence</span>
+          <time>#9 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/010-maria-jose-llergo---ultrabelleza/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/9a52b8b1ea09703b_hu_d13afc52d1444db1.webp" width="360" height="360" loading="lazy" alt="María José Llergo - ULTRABELLEZA">
+          
+        </div>
+        <div class="cap">
+          <b>ULTRABELLEZA</b>
+          <span>María José Llergo</span>
+          <time>#10 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/011-lawrence---black-cats/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/39ff5fc91d6f0546_hu_bd2277e3e152461f.webp" width="360" height="360" loading="lazy" alt="Lawrence - Black Cats">
+          
+        </div>
+        <div class="cap">
+          <b>Black Cats</b>
+          <span>Lawrence</span>
+          <time>#11 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/012-nubya-garcia---odyssey/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/09241a87888fed03_hu_bfddd994570be726.webp" width="360" height="360" loading="lazy" alt="Nubya Garcia - Odyssey">
+          
+        </div>
+        <div class="cap">
+          <b>Odyssey</b>
+          <span>Nubya Garcia</span>
+          <time>#12 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/013-yazz-ahmed---shinrin-yoku/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/97e5484e78a717eb_hu_f9820d4cd89e3644.webp" width="360" height="360" loading="lazy" alt="Yazz Ahmed - Shinrin Yoku">
+          
+        </div>
+        <div class="cap">
+          <b>Shinrin Yoku</b>
+          <span>Yazz Ahmed</span>
+          <time>#13 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-23/014-gigi-masin---movement/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ad16ffefa0587011_hu_60b348133d683f6.webp" width="360" height="360" loading="lazy" alt="Gigi Masin - MOVEMENT">
+          
+        </div>
+        <div class="cap">
+          <b>MOVEMENT</b>
+          <span>Gigi Masin</span>
+          <time>#14 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

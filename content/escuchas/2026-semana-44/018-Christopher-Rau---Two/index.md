@@ -6,6 +6,7 @@ album: "Two"
 escuchas: 6
 puesto: 18
 semana: "2026-W44"
+clave: "christopher rau|two"
 nuevo_album: true
 portada: "03daeacc187981ab.jpg"
 ---

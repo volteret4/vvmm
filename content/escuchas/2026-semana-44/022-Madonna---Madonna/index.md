@@ -6,6 +6,7 @@ album: "Madonna"
 escuchas: 6
 puesto: 22
 semana: "2026-W44"
+clave: "madonna|madonna"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

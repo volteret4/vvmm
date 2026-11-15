@@ -6,6 +6,7 @@ album: "People of the Moon"
 escuchas: 3
 puesto: 11
 semana: "2026-W40"
+clave: "nu genea with maria jose llergo|people of the moon"
 nuevo_artista: true
 nuevo_album: true
 portada: "702705f1f235ba3a.jpg"

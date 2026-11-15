@@ -6,12 +6,16 @@ album: "Massa"
 escuchas: 5
 puesto: 8
 semana: "2026-W23"
+clave: "fatoumata diawara|massa"
 nuevo_album: true
+novedad: true
 portada: "09f555356fc8889d.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Fatoumata+Diawara/Massa)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-06-05, 3 días antes de acabar la semana
 
 **Escuchas:** 5
 

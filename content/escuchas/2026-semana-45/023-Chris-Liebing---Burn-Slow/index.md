@@ -6,6 +6,7 @@ album: "Burn Slow"
 escuchas: 5
 puesto: 23
 semana: "2026-W45"
+clave: "chris liebing|burn slow"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

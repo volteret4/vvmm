@@ -6,6 +6,7 @@ album: "Thing"
 escuchas: 7
 puesto: 8
 semana: "2026-W03"
+clave: "trans am|thing"
 portada: "8db3d2b3bd9e662d.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Trans+Am/Thing)

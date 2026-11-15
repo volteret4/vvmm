@@ -6,6 +6,7 @@ album: "Simply (Fuck Resident Advisor)"
 escuchas: 3
 puesto: 51
 semana: "2026-W16"
+clave: "omar s|simply"
 portada: "92e8b3d864701f26.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Omar+S/Simply+%28Fuck+Resident+Advisor%29)

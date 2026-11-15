@@ -6,6 +6,7 @@ album: "Sgt. Pepper's Lonely Hearts Club Band"
 escuchas: 4
 puesto: 21
 semana: "2026-W03"
+clave: "the beatles|sgt pepper s lonely hearts club band"
 mix: 4
 portada: "af3bbd776d3213aa.png"
 ---

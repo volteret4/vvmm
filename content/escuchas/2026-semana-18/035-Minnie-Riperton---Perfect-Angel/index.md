@@ -6,6 +6,7 @@ album: "Perfect Angel"
 escuchas: 4
 puesto: 35
 semana: "2026-W18"
+clave: "minnie riperton|perfect angel"
 mix: 2
 portada: "8f9c23ae8323175f.jpg"
 ---

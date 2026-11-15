@@ -6,6 +6,7 @@ album: "But What Time Is It Really?"
 escuchas: 9
 puesto: 6
 semana: "2026-W18"
+clave: "cabaret voltaire|but what time is it really"
 nuevo_album: true
 portada: "edc38ca2696fd0b5.jpg"
 ---

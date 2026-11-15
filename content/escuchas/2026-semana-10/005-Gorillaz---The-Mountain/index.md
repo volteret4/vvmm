@@ -6,9 +6,13 @@ album: "The Mountain"
 escuchas: 15
 puesto: 5
 semana: "2026-W10"
+clave: "gorillaz|the mountain"
+novedad: true
 portada: "7a001cabc1ad76da.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Gorillaz/The+Mountain)
+
+**Novedad:** publicado el 2026-02-27, 10 días antes de acabar la semana
 
 **Escuchas:** 15
 

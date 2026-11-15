@@ -6,6 +6,7 @@ album: "Umami"
 escuchas: 9
 puesto: 7
 semana: "2026-W18"
+clave: "folamour|umami"
 nuevo_album: true
 mix: 1
 portada: "bbab247be53041d5.jpg"

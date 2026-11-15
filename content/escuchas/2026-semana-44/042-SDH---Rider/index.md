@@ -6,6 +6,7 @@ album: "Rider"
 escuchas: 3
 puesto: 42
 semana: "2026-W44"
+clave: "sdh|rider"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

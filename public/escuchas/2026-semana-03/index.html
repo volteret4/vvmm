@@ -1,0 +1,978 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 3 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 3 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-03/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-03/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 3 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 3<small>2026</small></h1>
+    <p>12–18 ene 2026 · 542 escuchas · 41 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 1 artista nuevo</span>
+      <span><i class="nuevo">✦</i> 2 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 2 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-04/">← semana 4</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-02/">semana 2 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/001-genesis-owusu---smiling-with-no-teeth/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/0e7017f1caa77cad_hu_e048bbc2d0ca29c6.webp" width="360" height="360" loading="lazy" alt="Genesis Owusu - Smiling with No Teeth">
+          
+        </div>
+        <div class="cap">
+          <b>Smiling with No Teeth</b>
+          <span>Genesis Owusu</span>
+          <time>#1 · 13 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/002-a-tribe-called-quest---midnight-marauders/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/02192c53b55abe10_hu_d4a9383b9324ff66.webp" width="360" height="360" loading="lazy" alt="A Tribe Called Quest - Midnight Marauders">
+          
+        </div>
+        <div class="cap">
+          <b>Midnight Marauders</b>
+          <span>A Tribe Called Quest</span>
+          <time>#2 · 11 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/003-genesis-owusu---struggler/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/ea539fc2e7c90ccb_hu_b4416542a9f48a79.webp" width="360" height="360" loading="lazy" alt="Genesis Owusu - STRUGGLER">
+          
+        </div>
+        <div class="cap">
+          <b>STRUGGLER</b>
+          <span>Genesis Owusu</span>
+          <time>#3 · 11 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/004-sleaford-mods---the-demise-of-planet-x/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1d0770237d15d64f_hu_242d9bb1562f48bf.webp" width="360" height="360" loading="lazy" alt="Sleaford Mods - The Demise of Planet X">
+          
+        </div>
+        <div class="cap">
+          <b>The Demise of Planet X</b>
+          <span>Sleaford Mods</span>
+          <time>#4 · 11 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/005-los-enemigos---la-vida-mata/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8515f473c432dbfd_hu_cc55cf156e567563.webp" width="360" height="360" loading="lazy" alt="Los Enemigos - La Vida Mata">
+          
+        </div>
+        <div class="cap">
+          <b>La Vida Mata</b>
+          <span>Los Enemigos</span>
+          <time>#5 · 7 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/006-siniestro-total---cuando-se-come-aqui/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c6b55e4fcc2f06f0_hu_3b8499e0c77a1868.webp" width="360" height="360" loading="lazy" alt="Siniestro Total - ¿Cuándo Se Come Aquí?">
+          
+        </div>
+        <div class="cap">
+          <b>¿Cuándo Se Come Aquí?</b>
+          <span>Siniestro Total</span>
+          <time>#6 · 7 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/007-trans-am---liberation/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/421373de9e5bcdb0_hu_934aa29943fd6d79.webp" width="360" height="360" loading="lazy" alt="Trans Am - Liberation">
+          
+        </div>
+        <div class="cap">
+          <b>Liberation</b>
+          <span>Trans Am</span>
+          <time>#7 · 7 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/008-trans-am---thing/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/8db3d2b3bd9e662d_hu_f81ec705a3aeb1d2.webp" width="360" height="360" loading="lazy" alt="Trans Am - Thing">
+          
+        </div>
+        <div class="cap">
+          <b>Thing</b>
+          <span>Trans Am</span>
+          <time>#8 · 7 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/009-trans-am---ta/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/038a62be37827536_hu_1657747d7ee0c71d.webp" width="360" height="360" loading="lazy" alt="Trans Am - TA">
+          
+        </div>
+        <div class="cap">
+          <b>TA</b>
+          <span>Trans Am</span>
+          <time>#9 · 7 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/010-trans-am---futureworld/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/83a547ca0d9126bd_hu_bd5d3f2e2ff24465.webp" width="360" height="360" loading="lazy" alt="Trans Am - Futureworld">
+          
+        </div>
+        <div class="cap">
+          <b>Futureworld</b>
+          <span>Trans Am</span>
+          <time>#10 · 6 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/011-kings-of-convenience---declaration-of-dependence/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/2cbfb15d53e0084f_hu_a6210167a4794a65.webp" width="360" height="360" loading="lazy" alt="Kings of Convenience - Declaration of Dependence">
+          
+        </div>
+        <div class="cap">
+          <b>Declaration of Dependence</b>
+          <span>Kings of Convenience</span>
+          <time>#11 · 6 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/012-perfume-genius---glory/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c60b3a5aa36154ea_hu_c7019038c6319aaa.webp" width="360" height="360" loading="lazy" alt="Perfume Genius - Glory">
+          
+        </div>
+        <div class="cap">
+          <b>Glory</b>
+          <span>Perfume Genius</span>
+          <time>#12 · 6 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/013-julianna-barwick-mary-lattimore---tragic-magic/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d60003aa4a3e5ec9_hu_285755cf5860ee68.webp" width="360" height="360" loading="lazy" alt="Julianna Barwick &amp; Mary Lattimore - Tragic Magic">
+          
+        </div>
+        <div class="cap">
+          <b>Tragic Magic</b>
+          <span>Julianna Barwick &amp; Mary Lattimore</span>
+          <time>#13 · 5 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/014-los-punsetes---lp2/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a7518f31d93e0f34_hu_7cc314abc5c23483.webp" width="360" height="360" loading="lazy" alt="Los Punsetes - LP2">
+          
+        </div>
+        <div class="cap">
+          <b>LP2</b>
+          <span>Los Punsetes</span>
+          <time>#14 · 5 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/015-los-punsetes---aniquilacion/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1e79ca27a898ea39_hu_92040e7e5abc4797.webp" width="360" height="360" loading="lazy" alt="Los Punsetes - Aniquilación">
+          
+        </div>
+        <div class="cap">
+          <b>Aniquilación</b>
+          <span>Los Punsetes</span>
+          <time>#15 · 5 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/016-siniestro-total---me-gusta-como-andas/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/30e97a483c1b74e8_hu_10a4728441b98b09.webp" width="360" height="360" loading="lazy" alt="Siniestro Total - Me Gusta Como Andas">
+          
+        </div>
+        <div class="cap">
+          <b>Me Gusta Como Andas</b>
+          <span>Siniestro Total</span>
+          <time>#16 · 5 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/017-los-punsetes---lpiv/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/de325cf3e0648812_hu_a48b3e632c2dc815.webp" width="360" height="360" loading="lazy" alt="Los Punsetes - LPIV">
+          
+        </div>
+        <div class="cap">
+          <b>LPIV</b>
+          <span>Los Punsetes</span>
+          <time>#17 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/018-public-enemy---it-takes-a-nation-of-millions-to-hold-us-back/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e73c36fe4cc3bde2_hu_13faa18dc47e6168.webp" width="360" height="360" loading="lazy" alt="Public Enemy - It Takes a Nation of Millions to Hold Us Back">
+          
+        </div>
+        <div class="cap">
+          <b>It Takes a Nation of Millions to Hold Us Back</b>
+          <span>Public Enemy</span>
+          <time>#18 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/019-siniestro-total---ante-todo-mucha-calma/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/41b44d575e77bf86_hu_995a0fcb1aac46fd.webp" width="360" height="360" loading="lazy" alt="Siniestro Total - Ante todo, mucha calma">
+          
+        </div>
+        <div class="cap">
+          <b>Ante todo, mucha calma</b>
+          <span>Siniestro Total</span>
+          <time>#19 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/020-smerz---okey/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/34e4ae0b934f9501_hu_85dd94c12775622b.webp" width="360" height="360" loading="lazy" alt="SMERZ - Okey">
+          
+        </div>
+        <div class="cap">
+          <b>Okey</b>
+          <span>SMERZ</span>
+          <time>#20 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/021-the-beatles---sgt-pepper-s-lonely-hearts-club-band/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/af3bbd776d3213aa_hu_89fa0dfcade91592.webp" width="360" height="360" loading="lazy" alt="The Beatles - Sgt. Pepper&#39;s Lonely Hearts Club Band">
+          
+        </div>
+        <div class="cap">
+          <b>Sgt. Pepper&#39;s Lonely Hearts Club Band</b>
+          <span>The Beatles</span>
+          <time>#21 · 4 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/022-trans-am---sex-change/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/36133253399ebfae_hu_71c018e15fca8346.webp" width="360" height="360" loading="lazy" alt="Trans Am - Sex Change">
+          
+        </div>
+        <div class="cap">
+          <b>Sex Change</b>
+          <span>Trans Am</span>
+          <time>#22 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/023-trans-am---surrender-to-the-night/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/c6ba065602ee373b_hu_aa1460fdd4550507.webp" width="360" height="360" loading="lazy" alt="Trans Am - Surrender to the Night">
+          
+        </div>
+        <div class="cap">
+          <b>Surrender to the Night</b>
+          <span>Trans Am</span>
+          <time>#23 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/024-tyler-the-creator---igor/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/d6ff8b05e728a8c5_hu_6798ed04e43d8241.webp" width="360" height="360" loading="lazy" alt="Tyler, The Creator - IGOR">
+          
+        </div>
+        <div class="cap">
+          <b>IGOR</b>
+          <span>Tyler, The Creator</span>
+          <time>#24 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/025-the-byrds---turn-turn-turn/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1e42727164079d4f_hu_33fa8d1d3c8d73fd.webp" width="360" height="360" loading="lazy" alt="The Byrds - Turn! Turn! Turn!">
+          
+        </div>
+        <div class="cap">
+          <b>Turn! Turn! Turn!</b>
+          <span>The Byrds</span>
+          <time>#25 · 4 escuchas · <span class="corazon" title="2 en Mix">♥ 2</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/026-john-maus---later-than-you-think/">
+        <div class="sleeve">
+          
+            <div class="nocover"><span>Later Than You Think</span></div>
+          
+        </div>
+        <div class="cap">
+          <b>Later Than You Think</b>
+          <span>John Maus</span>
+          <time>#26 · 4 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/027-livin-joy---don-t-stop-movin/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/cbfd381c3a575124_hu_fa57134d981174b0.webp" width="360" height="360" loading="lazy" alt="Livin&#39; Joy - Don’t Stop Movin’">
+          
+        </div>
+        <div class="cap">
+          <b>Don’t Stop Movin’</b>
+          <span>Livin&#39; Joy</span>
+          <time>#27 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/028-the-flaming-lips---yoshimi-battles-the-pink-robots/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/b08813fb2bc52dff_hu_3f99cc9414f97627.webp" width="360" height="360" loading="lazy" alt="The Flaming Lips - Yoshimi Battles the Pink Robots">
+          
+        </div>
+        <div class="cap">
+          <b>Yoshimi Battles the Pink Robots</b>
+          <span>The Flaming Lips</span>
+          <time>#28 · 4 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/029-blue-night---turn-me-loose/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/3b0ff250d6842137_hu_d5407b62a929d372.webp" width="360" height="360" loading="lazy" alt="Blue Night - Turn Me Loose">
+          
+        </div>
+        <div class="cap">
+          <b>Turn Me Loose</b>
+          <span>Blue Night</span>
+          <time>#29 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/030-freddie-gibbs-the-alchemist---alfredo-2/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/79949be87edaaf9e_hu_5314bc6897d1ed7b.webp" width="360" height="360" loading="lazy" alt="Freddie Gibbs &amp; The Alchemist - Alfredo 2">
+          
+        </div>
+        <div class="cap">
+          <b>Alfredo 2</b>
+          <span>Freddie Gibbs &amp; The Alchemist</span>
+          <time>#30 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/031-fuck-buttons---tarot-sport/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/737c1a86f23780c8_hu_e53b66f445bae294.webp" width="360" height="360" loading="lazy" alt="Fuck Buttons - Tarot Sport">
+          
+        </div>
+        <div class="cap">
+          <b>Tarot Sport</b>
+          <span>Fuck Buttons</span>
+          <time>#31 · 3 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/032-los-enemigos---ferpectamente/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/4741a5855f4eb453_hu_852ce80136b45997.webp" width="360" height="360" loading="lazy" alt="Los Enemigos - Ferpectamente">
+          
+        </div>
+        <div class="cap">
+          <b>Ferpectamente</b>
+          <span>Los Enemigos</span>
+          <time>#32 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/033-pet-shop-boys---behaviour-further-listening-1990-1991/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/988499278c7bf726_hu_79266af17f9db291.webp" width="360" height="360" loading="lazy" alt="Pet Shop Boys - Behaviour / Further listening 1990–1991">
+          
+        </div>
+        <div class="cap">
+          <b>Behaviour / Further listening 1990–1991</b>
+          <span>Pet Shop Boys</span>
+          <time>#33 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/034-retro-stefson---retro-stefson/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/0225cca65a726997_hu_25d7e6ba9469b3b5.webp" width="360" height="360" loading="lazy" alt="Retro Stefson - Retro Stefson">
+          
+        </div>
+        <div class="cap">
+          <b>Retro Stefson</b>
+          <span>Retro Stefson</span>
+          <time>#34 · 3 escuchas · <span class="corazon" title="4 en Mix">♥ 4</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/035-smerz---have-fun/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/a82398409e5885fe_hu_2cf1c0c2a5059a19.webp" width="360" height="360" loading="lazy" alt="SMERZ - Have fun">
+          
+        </div>
+        <div class="cap">
+          <b>Have fun</b>
+          <span>SMERZ</span>
+          <time>#35 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/036-tame-impala---lonerism/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/10d090301f2234b7_hu_eb7e0c5b4744e485.webp" width="360" height="360" loading="lazy" alt="Tame Impala - Lonerism">
+          
+        </div>
+        <div class="cap">
+          <b>Lonerism</b>
+          <span>Tame Impala</span>
+          <time>#36 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/037-tobacco---fucked-up-friends/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/86fa2ba801e62497_hu_d5a57bdd8399304a.webp" width="360" height="360" loading="lazy" alt="Tobacco - Fucked Up Friends">
+          
+        </div>
+        <div class="cap">
+          <b>Fucked Up Friends</b>
+          <span>Tobacco</span>
+          <time>#37 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/038-yuksek---nosso-ritmo/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/dcf5e8bc3211b40c_hu_8c5c923847175910.webp" width="360" height="360" loading="lazy" alt="Yuksek - NOSSO RITMO">
+          
+        </div>
+        <div class="cap">
+          <b>NOSSO RITMO</b>
+          <span>Yuksek</span>
+          <time>#38 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/039-daryl-hall-john-oates---private-eyes/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/af4e855cecce52b5_hu_23397b85d00af32f.webp" width="360" height="360" loading="lazy" alt="Daryl Hall &amp; John Oates - Private Eyes">
+          
+        </div>
+        <div class="cap">
+          <b>Private Eyes</b>
+          <span>Daryl Hall &amp; John Oates</span>
+          <time>#39 · 3 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/040-jamiroquai---travelling-without-moving/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/063d50c44171d3bc_hu_b177ae066f41a86f.webp" width="360" height="360" loading="lazy" alt="Jamiroquai - Travelling Without Moving">
+          
+        </div>
+        <div class="cap">
+          <b>Travelling Without Moving</b>
+          <span>Jamiroquai</span>
+          <time>#40 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-03/041-me-rampa-adam-port-keinemusik-ry-x---send-return/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1a91eb2a0bf1c2cc_hu_26ef4d7d4d9e3f1d.webp" width="360" height="360" loading="lazy" alt="&amp;ME, Rampa, Adam Port, Keinemusik &amp; RY X - Send Return">
+          
+        </div>
+        <div class="cap">
+          <b>Send Return</b>
+          <span>&amp;ME, Rampa, Adam Port, Keinemusik &amp; RY X</span>
+          <time>#41 · 3 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

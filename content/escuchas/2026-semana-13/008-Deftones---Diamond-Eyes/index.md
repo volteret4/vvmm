@@ -6,6 +6,7 @@ album: "Diamond Eyes"
 escuchas: 11
 puesto: 8
 semana: "2026-W13"
+clave: "deftones|diamond eyes"
 nuevo_album: true
 portada: "6b71c3b05aaec324.jpg"
 ---

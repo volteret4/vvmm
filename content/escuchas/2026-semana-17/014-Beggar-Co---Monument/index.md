@@ -6,6 +6,7 @@ album: "Monument"
 escuchas: 7
 puesto: 14
 semana: "2026-W17"
+clave: "beggar co|monument"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

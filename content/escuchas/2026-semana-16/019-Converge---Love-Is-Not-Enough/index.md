@@ -6,9 +6,13 @@ album: "Love Is Not Enough"
 escuchas: 6
 puesto: 19
 semana: "2026-W16"
+clave: "converge|love is not enough"
+novedad: true
 portada: "61c03c32410357ac.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Converge/Love+Is+Not+Enough)
+
+**Novedad:** publicado el 2026-02-13, 66 días antes de acabar la semana
 
 **Escuchas:** 6
 

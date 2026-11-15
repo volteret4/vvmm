@@ -6,6 +6,7 @@ album: "Dance With Me / Move It, Groove It"
 escuchas: 3
 puesto: 43
 semana: "2026-W18"
+clave: "11th commandment|dance with me move it groove it"
 mix: 1
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/11th+Commandment/Dance+With+Me+%2F+Move+It%2C+Groove+It)

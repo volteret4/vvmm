@@ -6,6 +6,7 @@ album: "Aftershock"
 escuchas: 4
 puesto: 13
 semana: "2026-W35"
+clave: "aquasky|aftershock"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

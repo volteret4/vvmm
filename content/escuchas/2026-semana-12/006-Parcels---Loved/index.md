@@ -6,6 +6,7 @@ album: "Loved"
 escuchas: 3
 puesto: 6
 semana: "2026-W12"
+clave: "parcels|loved"
 mix: 2
 portada: "5ce7d8ed8ba6a38a.png"
 ---

@@ -6,6 +6,7 @@ album: "Canciones chulas"
 escuchas: 9
 puesto: 2
 semana: "2026-W42"
+clave: "los enemigos|canciones chulas"
 nuevo_album: true
 portada: "9ef916ec2e68a603.jpg"
 mbid: "da084cd5-b9b6-436b-bc9b-e24e2f52fd1f"

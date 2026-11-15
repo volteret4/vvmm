@@ -6,6 +6,7 @@ album: "Covers (Japanese Edition)"
 escuchas: 14
 puesto: 1
 semana: "2026-W05"
+clave: "cat power|covers"
 nuevo_album: true
 portada: "b34cc1ca96f3eaed.jpg"
 ---

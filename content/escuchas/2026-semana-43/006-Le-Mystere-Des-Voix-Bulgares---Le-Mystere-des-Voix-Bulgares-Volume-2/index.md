@@ -6,6 +6,7 @@ album: "Le Mystère des Voix Bulgares, Volume 2"
 escuchas: 4
 puesto: 6
 semana: "2026-W43"
+clave: "le mystere des voix bulgares|le mystere des voix bulgares volume 2"
 nuevo_artista: true
 nuevo_album: true
 portada: "d321a58e8cf6b2e6.png"

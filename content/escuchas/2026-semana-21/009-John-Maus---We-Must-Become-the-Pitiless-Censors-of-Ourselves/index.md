@@ -6,6 +6,7 @@ album: "We Must Become the Pitiless Censors of Ourselves"
 escuchas: 5
 puesto: 9
 semana: "2026-W21"
+clave: "john maus|we must become the pitiless censors of ourselves"
 mix: 1
 portada: "13b19561dcf0b86a.jpg"
 ---

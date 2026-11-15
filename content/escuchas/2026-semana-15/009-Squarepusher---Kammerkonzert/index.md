@@ -6,7 +6,9 @@ album: "Kammerkonzert"
 escuchas: 7
 puesto: 9
 semana: "2026-W15"
+clave: "squarepusher|kammerkonzert"
 nuevo_album: true
+novedad: true
 portada: "0f8d928f386c9d74.jpg"
 mbid: "b3099779-095d-4030-93c5-1e71f937eb96"
 ---
@@ -14,6 +16,8 @@ mbid: "b3099779-095d-4030-93c5-1e71f937eb96"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/b3099779-095d-4030-93c5-1e71f937eb96)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-04-10, 3 días antes de acabar la semana
 
 **Escuchas:** 7
 

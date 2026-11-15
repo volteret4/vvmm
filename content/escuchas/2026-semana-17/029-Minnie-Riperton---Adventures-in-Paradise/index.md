@@ -6,6 +6,7 @@ album: "Adventures in Paradise"
 escuchas: 3
 puesto: 29
 semana: "2026-W17"
+clave: "minnie riperton|adventures in paradise"
 mix: 1
 portada: "aedcc2c57e6a9af5.png"
 ---

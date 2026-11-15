@@ -6,8 +6,10 @@ album: "Songs For Sinners"
 escuchas: 7
 puesto: 16
 semana: "2026-W44"
+clave: "moses boyd|songs for sinners"
 nuevo_album: true
 mix: 3
+novedad: true
 portada: "055febcf94b54128.jpg"
 mbid: "9ee6bed6-77f3-4ee1-bcf4-69b76bcdfdca"
 ---
@@ -15,6 +17,8 @@ mbid: "9ee6bed6-77f3-4ee1-bcf4-69b76bcdfdca"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9ee6bed6-77f3-4ee1-bcf4-69b76bcdfdca)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-30, 3 días antes de acabar la semana
 
 **Escuchas:** 7
 

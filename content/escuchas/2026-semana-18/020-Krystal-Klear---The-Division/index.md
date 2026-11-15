@@ -6,6 +6,7 @@ album: "The Division"
 escuchas: 4
 puesto: 20
 semana: "2026-W18"
+clave: "krystal klear|the division"
 nuevo_artista: true
 nuevo_album: true
 portada: "e57fe4256525177f.png"

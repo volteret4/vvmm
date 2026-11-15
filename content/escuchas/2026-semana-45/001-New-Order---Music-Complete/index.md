@@ -6,6 +6,7 @@ album: "Music Complete"
 escuchas: 21
 puesto: 1
 semana: "2026-W45"
+clave: "new order|music complete"
 nuevo_album: true
 mix: 5
 portada: "d86abe91718473bf.png"

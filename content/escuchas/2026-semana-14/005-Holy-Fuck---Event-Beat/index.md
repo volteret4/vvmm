@@ -6,9 +6,13 @@ album: "Event Beat"
 escuchas: 11
 puesto: 5
 semana: "2026-W14"
+clave: "holy fuck|event beat"
+novedad: true
 portada: "e417abd45ebc0b6f.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Holy+Fuck/Event+Beat)
+
+**Novedad:** publicado el 2026-03-27, 10 días antes de acabar la semana
 
 **Escuchas:** 11
 

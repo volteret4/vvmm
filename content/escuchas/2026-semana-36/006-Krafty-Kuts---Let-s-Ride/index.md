@@ -6,6 +6,7 @@ album: "Let's Ride"
 escuchas: 3
 puesto: 6
 semana: "2026-W36"
+clave: "krafty kuts|let s ride"
 portada: "1432ddaf3e8917bb.jpg"
 mbid: "8f421bda-0a7a-4657-842b-790c6707cfd4"
 ---

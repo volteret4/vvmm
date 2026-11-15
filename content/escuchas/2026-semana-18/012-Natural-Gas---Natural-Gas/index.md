@@ -6,6 +6,7 @@ album: "Natural Gas"
 escuchas: 8
 puesto: 12
 semana: "2026-W18"
+clave: "natural gas|natural gas"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

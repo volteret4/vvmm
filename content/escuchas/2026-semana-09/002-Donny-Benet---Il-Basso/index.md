@@ -6,13 +6,17 @@ album: "Il Basso"
 escuchas: 11
 puesto: 2
 semana: "2026-W09"
+clave: "donny benet|il basso"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "90f6053d21d20538.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Donny+Benet/Il+Basso)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-02-13, 17 días antes de acabar la semana
 
 **Escuchas:** 11
 

@@ -6,6 +6,7 @@ album: "Profana"
 escuchas: 10
 puesto: 4
 semana: "2026-W18"
+clave: "gal costa|profana"
 nuevo_album: true
 mix: 1
 portada: "dfe6cbc30ffacde6.png"

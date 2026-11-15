@@ -6,6 +6,7 @@ album: "Magic"
 escuchas: 10
 puesto: 4
 semana: "2026-W11"
+clave: "demis roussos|magic"
 nuevo_artista: true
 nuevo_album: true
 portada: "1be45bd3bc436c4e.jpg"

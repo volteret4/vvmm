@@ -6,13 +6,17 @@ album: "Superbloom"
 escuchas: 23
 puesto: 1
 semana: "2026-W16"
+clave: "jessie ware|superbloom"
 nuevo_album: true
 mix: 2
+novedad: true
 portada: "0983fce0764ebb95.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jessie+Ware/Superbloom)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-04-17, 3 días antes de acabar la semana
 
 **Escuchas:** 23
 

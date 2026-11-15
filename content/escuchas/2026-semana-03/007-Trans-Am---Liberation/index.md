@@ -6,6 +6,7 @@ album: "Liberation"
 escuchas: 7
 puesto: 7
 semana: "2026-W03"
+clave: "trans am|liberation"
 mix: 2
 portada: "421373de9e5bcdb0.jpg"
 ---

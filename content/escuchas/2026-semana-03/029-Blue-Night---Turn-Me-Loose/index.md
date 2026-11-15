@@ -6,6 +6,7 @@ album: "Turn Me Loose"
 escuchas: 3
 puesto: 29
 semana: "2026-W03"
+clave: "blue night|turn me loose"
 portada: "3b0ff250d6842137.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Blue+Night/Turn+Me+Loose)

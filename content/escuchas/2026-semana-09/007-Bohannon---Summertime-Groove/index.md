@@ -6,6 +6,7 @@ album: "Summertime Groove"
 escuchas: 6
 puesto: 7
 semana: "2026-W09"
+clave: "bohannon|summertime groove"
 nuevo_album: true
 portada: "5220bb91f980561b.png"
 ---

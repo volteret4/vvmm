@@ -6,6 +6,7 @@ album: "Soul Portrait"
 escuchas: 7
 puesto: 1
 semana: "2026-W19"
+clave: "willie hutch|soul portrait"
 nuevo_album: true
 portada: "86976d218f590fb7.jpg"
 ---

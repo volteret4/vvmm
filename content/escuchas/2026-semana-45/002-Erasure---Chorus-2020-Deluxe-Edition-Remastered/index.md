@@ -6,6 +6,7 @@ album: "Chorus (2020 Deluxe Edition, Remastered)"
 escuchas: 19
 puesto: 2
 semana: "2026-W45"
+clave: "erasure|chorus"
 nuevo_album: true
 mix: 1
 portada: "f986763f1109623e.jpg"

@@ -6,6 +6,7 @@ album: "Travelling Without Moving"
 escuchas: 3
 puesto: 40
 semana: "2026-W03"
+clave: "jamiroquai|travelling without moving"
 portada: "063d50c44171d3bc.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Jamiroquai/Travelling+Without+Moving)

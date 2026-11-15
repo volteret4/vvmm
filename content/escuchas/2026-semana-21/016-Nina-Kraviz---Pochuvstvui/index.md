@@ -6,6 +6,7 @@ album: "Pochuvstvui"
 escuchas: 3
 puesto: 16
 semana: "2026-W21"
+clave: "nina kraviz|pochuvstvui"
 nuevo_album: true
 portada: "c5bca054988085d2.jpg"
 ---

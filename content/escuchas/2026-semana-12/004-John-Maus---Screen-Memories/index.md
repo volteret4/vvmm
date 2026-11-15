@@ -6,6 +6,7 @@ album: "Screen Memories"
 escuchas: 11
 puesto: 4
 semana: "2026-W12"
+clave: "john maus|screen memories"
 nuevo_album: true
 portada: "14555c169dacf1cd.jpg"
 ---

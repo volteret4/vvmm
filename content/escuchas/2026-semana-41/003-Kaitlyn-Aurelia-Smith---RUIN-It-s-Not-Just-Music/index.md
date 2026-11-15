@@ -6,7 +6,9 @@ album: "RUIN: It's Not Just Music"
 escuchas: 9
 puesto: 3
 semana: "2026-W41"
+clave: "kaitlyn aurelia smith|ruin it s not just music"
 nuevo_album: true
+novedad: true
 portada: "cf419c16061650e3.jpg"
 mbid: "0799b7e2-fd87-4374-8baa-4f281da1c58b"
 ---
@@ -14,6 +16,8 @@ mbid: "0799b7e2-fd87-4374-8baa-4f281da1c58b"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/0799b7e2-fd87-4374-8baa-4f281da1c58b)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-02, 10 días antes de acabar la semana
 
 **Escuchas:** 9
 

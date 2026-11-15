@@ -6,6 +6,7 @@ album: "Negative Fascination"
 escuchas: 5
 puesto: 28
 semana: "2026-W16"
+clave: "silent servant|negative fascination"
 portada: "dd879b838b058d7c.png"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Silent+Servant/Negative+Fascination)

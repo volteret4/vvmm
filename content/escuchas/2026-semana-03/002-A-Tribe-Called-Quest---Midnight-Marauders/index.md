@@ -6,6 +6,7 @@ album: "Midnight Marauders"
 escuchas: 11
 puesto: 2
 semana: "2026-W03"
+clave: "a tribe called quest|midnight marauders"
 mix: 1
 portada: "02192c53b55abe10.jpg"
 ---

@@ -6,12 +6,16 @@ album: "Above the Clouds"
 escuchas: 5
 puesto: 5
 semana: "2026-W42"
+clave: "resavoir|above the clouds"
 nuevo_album: true
+novedad: true
 portada: "75e3e72a7f723e65.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Resavoir/Above+the+Clouds)
 
 **Primera vez:** primera semana escuchando este disco
+
+**Novedad:** publicado el 2026-10-09, 10 días antes de acabar la semana
 
 **Escuchas:** 5
 

@@ -6,6 +6,7 @@ album: "Raw as Fuck"
 escuchas: 4
 puesto: 3
 semana: "2026-W34"
+clave: "freestylers|raw as fuck"
 nuevo_album: true
 mix: 1
 portada: "42382614a3d05010.jpg"

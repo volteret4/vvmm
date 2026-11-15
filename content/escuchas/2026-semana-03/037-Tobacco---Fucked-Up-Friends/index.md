@@ -6,6 +6,7 @@ album: "Fucked Up Friends"
 escuchas: 3
 puesto: 37
 semana: "2026-W03"
+clave: "tobacco|fucked up friends"
 nuevo_album: true
 portada: "86fa2ba801e62497.png"
 ---

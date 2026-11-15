@@ -6,6 +6,7 @@ album: "Themes for Dreams"
 escuchas: 14
 puesto: 4
 semana: "2026-W27"
+clave: "resavoir|themes for dreams"
 nuevo_album: true
 portada: "4e556e265f35d240.jpg"
 ---

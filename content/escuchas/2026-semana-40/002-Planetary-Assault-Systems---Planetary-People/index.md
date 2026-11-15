@@ -6,6 +6,7 @@ album: "Planetary People"
 escuchas: 12
 puesto: 2
 semana: "2026-W40"
+clave: "planetary assault systems|planetary people"
 mix: 1
 portada: "70d2b0ee3c9f7cad.png"
 ---

@@ -6,6 +6,7 @@ album: "Covers (Japanese Edition)"
 escuchas: 13
 puesto: 2
 semana: "2026-W11"
+clave: "cat power|covers"
 portada: "b34cc1ca96f3eaed.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Cat+Power/Covers+%28Japanese+Edition%29)

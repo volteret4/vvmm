@@ -6,6 +6,7 @@ album: "Odyssey"
 escuchas: 3
 puesto: 12
 semana: "2026-W23"
+clave: "nubya garcia|odyssey"
 nuevo_album: true
 portada: "09241a87888fed03.jpg"
 ---

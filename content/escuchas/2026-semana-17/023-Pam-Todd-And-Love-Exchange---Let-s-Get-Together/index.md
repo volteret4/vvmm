@@ -6,6 +6,7 @@ album: "Let's Get Together"
 escuchas: 4
 puesto: 23
 semana: "2026-W17"
+clave: "pam todd and love exchange|let s get together"
 nuevo_artista: true
 nuevo_album: true
 ---

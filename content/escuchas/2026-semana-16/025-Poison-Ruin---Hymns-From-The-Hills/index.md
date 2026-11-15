@@ -6,13 +6,17 @@ album: "Hymns From The Hills"
 escuchas: 6
 puesto: 25
 semana: "2026-W16"
+clave: "poison ruin|hymns from the hills"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "164f93ffaa7196bf.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Poison+Ru%C3%AFn/Hymns+From+The+Hills)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-04-03, 17 días antes de acabar la semana
 
 **Escuchas:** 6
 

@@ -6,6 +6,7 @@ album: "Ante todo, mucha calma"
 escuchas: 4
 puesto: 19
 semana: "2026-W03"
+clave: "siniestro total|ante todo mucha calma"
 portada: "41b44d575e77bf86.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Siniestro+Total/Ante+todo%2C+mucha+calma)

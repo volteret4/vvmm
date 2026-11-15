@@ -6,6 +6,7 @@ album: "LPIV"
 escuchas: 4
 puesto: 17
 semana: "2026-W03"
+clave: "los punsetes|lpiv"
 mix: 2
 portada: "de325cf3e0648812.png"
 ---

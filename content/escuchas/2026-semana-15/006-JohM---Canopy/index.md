@@ -6,6 +6,7 @@ album: "Canopy"
 escuchas: 10
 puesto: 6
 semana: "2026-W15"
+clave: "johm|canopy"
 nuevo_artista: true
 nuevo_album: true
 mix: 1

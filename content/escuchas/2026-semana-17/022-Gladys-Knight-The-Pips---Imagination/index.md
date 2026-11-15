@@ -6,6 +6,7 @@ album: "Imagination"
 escuchas: 4
 puesto: 22
 semana: "2026-W17"
+clave: "gladys knight the pips|imagination"
 nuevo_album: true
 mix: 1
 portada: "a4af756e24562c76.png"

@@ -6,8 +6,10 @@ album: "Music For Empty Stadiums"
 escuchas: 10
 puesto: 9
 semana: "2026-W44"
+clave: "or|music for empty stadiums"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "bf1af2f5e6ef0100.jpg"
 mbid: "3947e0bb-3281-4a46-9cfe-0a32112b4327"
 ---
@@ -15,6 +17,8 @@ mbid: "3947e0bb-3281-4a46-9cfe-0a32112b4327"
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/3947e0bb-3281-4a46-9cfe-0a32112b4327)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-10-30, 3 días antes de acabar la semana
 
 **Escuchas:** 10
 

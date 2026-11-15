@@ -6,12 +6,16 @@ album: "Antonio Carlos & Jocafi JID026"
 escuchas: 4
 puesto: 29
 semana: "2026-W18"
+clave: "adrian younge ali shaheed muhammad antonio carlos jocafi|antonio carlos jocafi jid026"
 mix: 1
+novedad: true
 portada: "a1a0d7a36dce2e6d.jpg"
 mbid: "9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Adrian+Younge%2C+Ali+Shaheed+Muhammad%2C+Antonio+Carlos+%26+Jocafi/Antonio+Carlos+%26+Jocafi+JID026)
 [![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/9b92a693-4c0e-47d6-9ba8-ef3ea910c8d2)
+
+**Novedad:** publicado el 2026-04-03, 31 días antes de acabar la semana
 
 **Escuchas:** 4
 

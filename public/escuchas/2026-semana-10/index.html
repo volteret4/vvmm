@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semana 10 de 2026 · vvmm</title>
+  <meta name="description" content="Semana 10 de 2026">
+  <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/vvmm.min.b906515badf0e4f66e2a82729a429b59a7c8d46f650a9105e278f39307de97f0.css">
+  <link rel="alternate" type="application/rss+xml" href="/escuchas/2026-semana-10/index.xml" title="vvmm">
+  <meta property="og:url" content="/escuchas/2026-semana-10/">
+	<meta property="og:site_name" content="vvmm">
+	<meta property="og:title" content="Semana 10 de 2026">
+	<meta property="og:description" content="descubrimientos sonoros">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/">
+      <img src="/avatar.jpg" alt="">
+      <span><b>vvmm</b><small>descubrimientos sonoros</small></span>
+    </a>
+    <nav>
+      
+<button type="button" class="lupa" id="lupa" aria-label="Buscar" title="Buscar (/)">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+</button>
+<dialog class="buscador" id="buscador" aria-label="Buscar">
+  <form method="dialog" class="bq">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" id="bq" placeholder="artista, disco o género…" autocomplete="off" spellcheck="false">
+    <button value="x" aria-label="Cerrar">esc</button>
+  </form>
+  <div class="bres" id="bres"></div>
+</dialog>
+<script>
+(function () {
+  var dlg = document.getElementById('buscador'), q = document.getElementById('bq'), res = document.getElementById('bres');
+  var idx = null, sel = 0, items = [];
+  var NOMBRE = { g: 'géneros', d: 'discos', c: 'colección' };
+  function norm(s) { return (s || '').toString().normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function esc(s) { return (s || '').toString().replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function load() {
+    if (idx) return Promise.resolve(idx);
+    return fetch('\/index.json').then(function (r) { return r.json(); }).then(function (d) {
+      idx = d.map(function (x) { x.k = norm([x.a, x.b, (x.g || []).join(' ')].join(' ')); x.kn = norm(x.b); x.ka = norm(x.a); return x; });
+      return idx;
+    });
+  }
+  
+  function gen(g, words) {
+    var hit = g.filter(function (x) { return words.some(function (w) { return norm(x).indexOf(w) >= 0; }); });
+    return hit.concat(g.filter(function (x) { return hit.indexOf(x) < 0; })).slice(0, 3);
+  }
+  function open() { dlg.showModal(); q.select(); load().then(render); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    if (!idx) return;
+    if (!words.length) { res.innerHTML = '<p class="bvacio">Escribe para buscar en discos, colección y géneros.</p>'; items = []; return; }
+    var grupos = { g: [], d: [], c: [] };
+    idx.forEach(function (x) {
+      if (!words.every(function (w) { return x.k.indexOf(w) >= 0; })) return;
+      var full = words.join(' ');
+      x.p = (x.kn === full ? 0 : x.kn.indexOf(full) === 0 || x.ka.indexOf(full) === 0 ? 1 : 2) - (x.n ? Math.min(x.n, 50) / 100 : 0);
+      grupos[x.s].push(x);
+    });
+    var html = '';
+    ['g', 'd', 'c'].forEach(function (s) {
+      var l = grupos[s].sort(function (a, b) { return a.p - b.p; });
+      if (!l.length) return;
+      var max = s === 'g' ? 12 : 30;
+      html += '<h3>' + NOMBRE[s] + ' <small>' + l.length + '</small></h3>';
+      if (s === 'g') {
+        html += '<div class="bgen">' + l.slice(0, max).map(function (x) { return '<a href="' + x.u + '">' + esc(x.b) + '<sup>' + x.n + '</sup></a>'; }).join('') + '</div>';
+      } else {
+        html += '<ul>' + l.slice(0, max).map(function (x) {
+          return '<li><a href="' + x.u + '">' + (x.i ? '<img src="' + x.i + '" alt="" loading="lazy">' : '<span class="bnoc"></span>') +
+            '<span><b>' + esc(x.b) + '</b><i>' + esc(x.a) + (x.g && x.g.length ? ' · ' + esc(gen(x.g, words).join(', ')) : '') + '</i></span></a></li>';
+        }).join('') + '</ul>';
+        if (l.length > max) html += '<p class="bmas">y ' + (l.length - max) + ' más…</p>';
+      }
+    });
+    res.innerHTML = html || '<p class="bvacio">Nada para «' + esc(q.value) + '».</p>';
+    items = Array.prototype.slice.call(res.querySelectorAll('a'));
+    sel = 0; mark();
+  }
+  function mark() { items.forEach(function (a, i) { a.classList.toggle('sel', i === sel); }); if (items[sel]) items[sel].scrollIntoView({ block: 'nearest' }); }
+  document.getElementById('lupa').addEventListener('click', open);
+  q.addEventListener('input', render);
+  q.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); if (items.length) { sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length; mark(); } }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[sel]) location.href = items[sel].href; }
+  });
+  dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !dlg.open && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+  });
+})();
+</script>
+
+      
+      
+        
+        <a href="/">discos</a>
+      
+        
+        <a href="/tags/">generos</a>
+      
+        
+        <a href="/coleccion/">colección</a>
+      
+        
+        <a href="/escuchas/" class="on">escuchas</a>
+      
+        
+        <a href="/playlists/spotify/">playlists</a>
+      
+    </nav>
+  </header>
+  <main>
+    
+
+  
+  <header class="pagehead weekhead">
+    <h1>semana 10<small>2026</small></h1>
+    <p>2–8 mar 2026 · 231 escuchas · 19 discos</p>
+    
+    
+    
+    <p class="leyenda">
+      <span><i class="nuevo art">★</i> 10 artistas nuevos</span>
+      <span><i class="nuevo">✦</i> 6 discos nuevos de artistas conocidos</span>
+      <span><i class="nuevo nov">◆</i> 3 novedades (publicadas hace menos de 3 meses)</span>
+    </p>
+    
+  </header>
+  <nav class="pager weeknav">
+    
+    
+    <a href="/escuchas/2026-semana-11/">← semana 11</a>
+    <a href="/escuchas/">todas las semanas</a>
+    <a href="/escuchas/2026-semana-09/">semana 9 →</a>
+  </nav>
+  <section class="grid">
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/001-pet-shop-boys---please-further-listening-1984-1986-2018-remastered-version/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/250e410516a6c189_hu_6b1ce51a4b6a6116.webp" width="360" height="360" loading="lazy" alt="Pet Shop Boys - Please: Further Listening 1984-1986 (2018 Remastered Version)">
+          
+        </div>
+        <div class="cap">
+          <b>Please: Further Listening 1984-1986 (2018 Remastered Version)</b>
+          <span>Pet Shop Boys</span>
+          <time>#1 · 24 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/002-blind-mr-jones---stereo-musicale/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/45278be0dd4349ea_hu_18904656b5b2cc.webp" width="360" height="360" loading="lazy" alt="Blind Mr. Jones - Stereo Musicale">
+          
+        </div>
+        <div class="cap">
+          <b>Stereo Musicale</b>
+          <span>Blind Mr. Jones</span>
+          <time>#2 · 18 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/003-los-nikis---marines-a-pleno-sol/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/2b36d0dcb0ff08ff_hu_cfdba0a0d8cf635b.webp" width="360" height="360" loading="lazy" alt="Los Nikis - Marines A Pleno Sol">
+          
+        </div>
+        <div class="cap">
+          <b>Marines A Pleno Sol</b>
+          <span>Los Nikis</span>
+          <time>#3 · 16 escuchas</time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/004-kyuss---blues-for-the-red-sun/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/72333f858dda59df_hu_f47668d104484be5.webp" width="360" height="360" loading="lazy" alt="Kyuss - Blues for the Red Sun">
+          
+        </div>
+        <div class="cap">
+          <b>Blues for the Red Sun</b>
+          <span>Kyuss</span>
+          <time>#4 · 16 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/005-gorillaz---the-mountain/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/7a001cabc1ad76da_hu_c542fd210a31a0d5.webp" width="360" height="360" loading="lazy" alt="Gorillaz - The Mountain">
+          
+        </div>
+        <div class="cap">
+          <b>The Mountain</b>
+          <span>Gorillaz</span>
+          <time>#5 · 15 escuchas</time>
+          
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/006-the-trammps---trammps/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/70d8ce3a3b4f4984_hu_859cdba28624c538.webp" width="360" height="360" loading="lazy" alt="The Trammps - Trammps">
+          
+        </div>
+        <div class="cap">
+          <b>Trammps</b>
+          <span>The Trammps</span>
+          <time>#6 · 13 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/007-deadletter---existence-is-bliss/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/1ada1e9b264741d3_hu_e23b4d6030ff12e0.webp" width="360" height="360" loading="lazy" alt="Deadletter - Existence is Bliss">
+          
+        </div>
+        <div class="cap">
+          <b>Existence is Bliss</b>
+          <span>Deadletter</span>
+          <time>#7 · 12 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/008-andrea-parker---kiss-my-arp/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bd3f515872f10a54_hu_5920a723c4698ecf.webp" width="360" height="360" loading="lazy" alt="Andrea Parker - Kiss My Arp">
+          
+        </div>
+        <div class="cap">
+          <b>Kiss My Arp</b>
+          <span>Andrea Parker</span>
+          <time>#8 · 11 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/009-dele-sosimi---the-confluence-lp/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/e172f829600a2980_hu_ab5cf637adc1fe54.webp" width="360" height="360" loading="lazy" alt="Dele Sosimi - The Confluence LP">
+          
+        </div>
+        <div class="cap">
+          <b>The Confluence LP</b>
+          <span>Dele Sosimi</span>
+          <time>#9 · 11 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/010-the-pop-group---y/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/89dc5a86c4f22d62_hu_855fa2cef9cce030.webp" width="360" height="360" loading="lazy" alt="The Pop Group - Y">
+          
+        </div>
+        <div class="cap">
+          <b>Y</b>
+          <span>The Pop Group</span>
+          <time>#10 · 11 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/011-altin-gun---garip/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/2135e2613a0e14c5_hu_bd78c9b8320da05d.webp" width="360" height="360" loading="lazy" alt="Altin Gün - Garip">
+          
+        </div>
+        <div class="cap">
+          <b>Garip</b>
+          <span>Altin Gün</span>
+          <time>#11 · 10 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+<em class="nuevo-txt nov">◆ novedad</em>
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/012-bruno-mars---the-romantic/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/5b6cfae65a4cf840_hu_c2687e808ab93ed1.webp" width="360" height="360" loading="lazy" alt="Bruno Mars - The Romantic">
+          
+        </div>
+        <div class="cap">
+          <b>The Romantic</b>
+          <span>Bruno Mars</span>
+          <time>#12 · 9 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/013-love-unlimited---under-the-influence-of-love-unlimited/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/333be22d43636176_hu_aa26a496de8b8563.webp" width="360" height="360" loading="lazy" alt="Love Unlimited - Under The Influence Of Love Unlimited">
+          
+        </div>
+        <div class="cap">
+          <b>Under The Influence Of Love Unlimited</b>
+          <span>Love Unlimited</span>
+          <time>#13 · 8 escuchas · <span class="corazon" title="1 en Mix">♥ 1</span></time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/014-ultravox---ultravox/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/2114213fc7ace9b9_hu_50b16c4f80584414.webp" width="360" height="360" loading="lazy" alt="Ultravox - Ultravox!">
+          
+        </div>
+        <div class="cap">
+          <b>Ultravox!</b>
+          <span>Ultravox</span>
+          <time>#14 · 7 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/015-taana-gardner---when-you-touch-me-the-west-end-recordings/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/29cf5fcf4be2f7fa_hu_65f2e6b07983d8df.webp" width="360" height="360" loading="lazy" alt="Taana Gardner - When You Touch Me: The West End Recordings">
+          
+        </div>
+        <div class="cap">
+          <b>When You Touch Me: The West End Recordings</b>
+          <span>Taana Gardner</span>
+          <time>#15 · 7 escuchas · <span class="corazon" title="3 en Mix">♥ 3</span></time>
+          
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/016-skee-mask---iss012/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/24dba15c6b33d3a9_hu_d9634c56a7303536.webp" width="360" height="360" loading="lazy" alt="Skee Mask - ISS012">
+          
+        </div>
+        <div class="cap">
+          <b>ISS012</b>
+          <span>Skee Mask</span>
+          <time>#16 · 4 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/017-love-kisses---you-must-be-love/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/6cc51e68c16b3277_hu_79b6ad2f236f8ab2.webp" width="360" height="360" loading="lazy" alt="Love &amp; Kisses - You Must Be Love">
+          
+        </div>
+        <div class="cap">
+          <b>You Must Be Love</b>
+          <span>Love &amp; Kisses</span>
+          <time>#17 · 4 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/018-love-kisses---how-much-how-much-i-love-you/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/bc1b5e991eb52843_hu_b82112095a9578d9.webp" width="360" height="360" loading="lazy" alt="Love &amp; Kisses - How Much, How Much I Love You">
+          
+        </div>
+        <div class="cap">
+          <b>How Much, How Much I Love You</b>
+          <span>Love &amp; Kisses</span>
+          <time>#18 · 3 escuchas</time>
+          
+<em class="nuevo-txt art">★ artista nuevo</em>
+
+
+
+        </div>
+      </a>
+    
+      
+      
+      <a class="card" href="/escuchas/2026-semana-10/019-pat-metheny---side-eye-iii/">
+        <div class="sleeve">
+          
+            
+            <img src="/escuchas-portadas/82027ab803df2693_hu_de2df005c27342e9.webp" width="360" height="360" loading="lazy" alt="Pat Metheny - Side-Eye III&#43;">
+          
+        </div>
+        <div class="cap">
+          <b>Side-Eye III&#43;</b>
+          <span>Pat Metheny</span>
+          <time>#19 · 3 escuchas</time>
+          
+<em class="nuevo-txt">✦ disco nuevo</em>
+
+
+        </div>
+      </a>
+    
+  </section>
+
+
+  </main>
+  <footer class="foot">
+    202 discos destacados ·
+    <a href="https://github.com/volteret4" rel="me noopener">Github</a>
+  </footer>
+</body>
+</html>

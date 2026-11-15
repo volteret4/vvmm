@@ -6,6 +6,7 @@ album: "King of Rock"
 escuchas: 10
 puesto: 9
 semana: "2026-W17"
+clave: "run d m c|king of rock"
 nuevo_artista: true
 nuevo_album: true
 mix: 2

@@ -6,13 +6,17 @@ album: "Nine Inch Noize"
 escuchas: 6
 puesto: 21
 semana: "2026-W16"
+clave: "nine inch noize|nine inch noize"
 nuevo_artista: true
 nuevo_album: true
+novedad: true
 portada: "e09dcf1e905a3529.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/Nine+Inch+Noize/Nine+Inch+Noize)
 
 **Primera vez:** primera semana escuchando a este artista
+
+**Novedad:** publicado el 2026-04-17, 3 días antes de acabar la semana
 
 **Escuchas:** 6
 

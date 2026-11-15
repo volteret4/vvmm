@@ -6,6 +6,7 @@ album: "Superlative Fatigue"
 escuchas: 4
 puesto: 13
 semana: "2026-W15"
+clave: "errorsmith|superlative fatigue"
 mix: 1
 portada: "baaa03b3877ef1ef.jpg"
 mbid: "0b07b409-b070-4a5e-a165-4e756f554d34"

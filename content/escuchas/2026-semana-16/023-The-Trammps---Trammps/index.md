@@ -6,6 +6,7 @@ album: "Trammps"
 escuchas: 6
 puesto: 23
 semana: "2026-W16"
+clave: "the trammps|trammps"
 portada: "70d8ce3a3b4f4984.jpg"
 ---
 [![lastfm](../links/svg/lastfm.png (lastfm))](https://www.last.fm/music/The+Trammps/Trammps)
