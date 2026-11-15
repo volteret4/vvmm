@@ -1,11 +1,29 @@
 {
+ "10cc|mirror mirror": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLmyeYQj4Yek2UVbXPrWP2tylr5Jz7eL9e",
+  "tipo": "yt_playlist"
+ },
  "11th commandment|dance with me move it groove it": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
- "5000 volts|5000 volts": {
+ "2026 08 25|unknown artist unknown album": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "5000 volts|5000 volts": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLJIm-aP5hYA8",
+  "tipo": "yt_playlist"
+ },
+ "a flock of seagulls|a flock of seagulls": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL4SuaJourlowHUI6fjZ35nlsWxqKCz2xH",
+  "tipo": "yt_playlist"
  },
  "a tribe called quest|midnight marauders": {
   "fecha": "2026-11-15",
@@ -19,19 +37,55 @@
   "id": "PLLR-euG1LRvaNAJCxMPopMLeAHN_YECyo",
   "tipo": "yt_playlist"
  },
+ "actress rainy miller|radical frame": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 1559192766,
+  "tipo": "bandcamp"
+ },
  "actress|karma desire": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 835447720,
   "tipo": "bandcamp"
  },
+ "actress|radical frame": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 1559192766,
+  "tipo": "bandcamp"
+ },
  "adrian younge ali shaheed muhammad antonio carlos jocafi|antonio carlos jocafi jid026": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
+ "aidan baker|adverse camber": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 3278982340,
+  "tipo": "bandcamp"
+ },
+ "alabama shakes|i must be dreaming": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLHQ5OIhDARHE",
+  "tipo": "yt_playlist"
+ },
+ "aldous harding|train on the island": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1490968628,
+  "tipo": "bandcamp"
+ },
  "alec r costandinos the syncophonic orchestra|the hunchback of notre dame": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "alex brown|in search of love": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "qBAn-qzoLz4",
+  "tipo": "yt_video"
  },
  "altin gun|garip": {
   "fecha": "2026-11-15",
@@ -45,9 +99,35 @@
   "id": "PL_vDksrPcmNKiCLxI11czGxzdwPn-7hzb",
   "tipo": "yt_playlist"
  },
+ "amelie lens|aura": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLaboFx2WMN-o",
+  "tipo": "yt_playlist"
+ },
  "amon tobin|nomark selects vol 2": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "and one|9 9 99 9 uhr maschinensturmer": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "and one|bodypop": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2821121207,
+  "tipo": "bandcamp"
+ },
+ "and one|cd 1 s t o p": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "anderson paak|heavy is the crown": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLFOCjn0ZORME",
+  "tipo": "yt_playlist"
  },
  "andrea parker|kiss my arp": {
   "fecha": "2026-11-15",
@@ -71,11 +151,41 @@
   "id": 634545499,
   "tipo": "bandcamp"
  },
+ "answer code request|halo": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 4146326516,
+  "tipo": "bandcamp"
+ },
+ "anthony calonico|spacious heart": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLOr973l3O5u2kRLqI5WsKlp6VoJj8TROe",
+  "tipo": "yt_playlist"
+ },
  "apparat|a hum of maybe": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 3905189135,
   "tipo": "bandcamp"
+ },
+ "aquasky|aftershock": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "frfgnVOlF0A",
+  "tipo": "yt_video"
+ },
+ "aquasky|teamplayers": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLjiBjzWEYB_d2Gcd5jLKJb_84GT-Po96d",
+  "tipo": "yt_playlist"
+ },
+ "arca|xxxxx": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLFjrga_YvSkk",
+  "tipo": "yt_playlist"
  },
  "arpadys|arpadys": {
   "fecha": "2026-11-15",
@@ -84,11 +194,13 @@
   "tipo": "yt_playlist"
  },
  "atmosfear|atmosfear en trance": {
-  "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLj0bEIJs0yS9btebwmZnjtrhiNgHH-sa_",
+  "tipo": "yt_playlist"
  },
  "aurra|you and me tonight": {
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-16",
   "tipo": "ninguno"
  },
  "avalon emerson the charm|written into changes": {
@@ -97,11 +209,29 @@
   "id": 1143521517,
   "tipo": "bandcamp"
  },
+ "aviador dro l kan la monja enana|supergrupo crisis en autonomias infinitas": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "aviador dro|sintesis la produccion al poder": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLtag4Z7o_UXiI4LztlYK0bIBzALGBmgQl",
+  "tipo": "yt_playlist"
+ },
+ "axel boman superpitcher|tell it to the mountain": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
  "back in time|back in time": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLlO7S5xvVEHrjSzb7h2pLHt7265vutwWY",
   "tipo": "yt_playlist"
+ },
+ "bad boys blue|save your love": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "bamboo|bamboo": {
   "fecha": "2026-11-15",
@@ -110,21 +240,41 @@
   "tipo": "yt_playlist"
  },
  "bananarama|please yourself": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLF-kxtaaTH5U_VzWokcitN1DYp6ooUGSB",
+  "tipo": "yt_playlist"
+ },
+ "batu donato dozzy|exhale": {
   "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fuente": "musicbrainz (otra edición)",
+  "id": 3626330085,
+  "tipo": "bandcamp"
  },
  "beggar co|monument": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
  "benny goodman|swing swing swing": {
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-16",
   "tipo": "ninguno"
+ },
+ "beth orton|the ground above": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3309700834,
+  "tipo": "bandcamp"
  },
  "bicep|chroma 010": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 3196984561,
+  "tipo": "bandcamp"
+ },
+ "biosphere|substrata": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 616828950,
   "tipo": "bandcamp"
  },
  "blind mr jones|stereo musicale": {
@@ -139,6 +289,12 @@
   "id": "mwuta0Buwr0",
   "tipo": "yt_video"
  },
+ "boards of canada|inferno": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 477965531,
+  "tipo": "bandcamp"
+ },
  "bobby womack|understanding": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -151,11 +307,35 @@
   "id": "PLB0b2CPcwM3tfRrfY-ICYhwZm1nvYYMGo",
   "tipo": "yt_playlist"
  },
+ "bon iver|sable fable": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2046110960,
+  "tipo": "bandcamp"
+ },
+ "bonobo|distance in static": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 1107540496,
+  "tipo": "bandcamp"
+ },
  "boscoe|boscoe": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLs99A3wwRqpnjAzmJ_BhDvk3KoepYpk7T",
   "tipo": "yt_playlist"
+ },
+ "bot1500|the black sea": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 184149611,
+  "tipo": "bandcamp"
+ },
+ "boy harsher|get mean": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 1507079760,
+  "tipo": "bandcamp"
  },
  "brenda the tabulations|little bit of love": {
   "fecha": "2026-11-15",
@@ -179,11 +359,33 @@
   "id": 2693207104,
   "tipo": "bandcamp"
  },
+ "car seat headrest|teen of denial joe s story": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL17bOsiS5yPrAv1Ggd1OASi2ktBFy5RGh",
+  "tipo": "yt_playlist"
+ },
  "caress|caress": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PL9QXJ5BNCsibjiwos62JS5hGpadn7rZTq",
   "tipo": "yt_playlist"
+ },
+ "carly rae jepsen|day and night": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLdiQbrp0TjcU",
+  "tipo": "yt_playlist"
+ },
+ "carmen villain|memoria": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLNcH2thuymOU",
+  "tipo": "yt_playlist"
+ },
+ "case 82|the essential collection of monkey 2025 part 1": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "cassegrain tin man|carnal": {
   "fecha": "2026-11-15",
@@ -192,8 +394,10 @@
   "tipo": "bandcamp"
  },
  "cat power|covers": {
-  "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLKcZnq6AO9qrmQUpQ1aKZbHBSL_Op7aJb",
+  "tipo": "yt_playlist"
  },
  "cat power|redux": {
   "fecha": "2026-11-15",
@@ -201,10 +405,58 @@
   "id": "PLDhajrZgo0TLufrSOoArLW2n0_V6PqhkN",
   "tipo": "yt_playlist"
  },
+ "charli xcx|music fashion film": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL-2HG0C5jJQGy2NfRyQZ9HqEV4nG_0WWj",
+  "tipo": "yt_playlist"
+ },
+ "charlotte de witte|charlotte de witte": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2380521406,
+  "tipo": "bandcamp"
+ },
+ "chelsea wolfe|the dark": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3001948250,
+  "tipo": "bandcamp"
+ },
+ "chichi peralta|pa otro la o": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLa91b8EFPniXqaNj7fki05M7WnHZulvNf",
+  "tipo": "yt_playlist"
+ },
+ "chris liebing|burn slow": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL_7XbW28n1cDwjvp1BAq5qHtoRHXLbI71",
+  "tipo": "yt_playlist"
+ },
  "christian loffler|until we meet again": {
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (búsqueda)",
   "id": 471020924,
+  "tipo": "bandcamp"
+ },
+ "christopher rau|two": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLaPto5g3UxyDzlb79rdlG3cbkJRpn1eB9",
+  "tipo": "yt_playlist"
+ },
+ "colombo|antiques of the future": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "1hLqV1wdabk",
+  "tipo": "yt_video"
+ },
+ "common saints|cinema 3000": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 22522860,
   "tipo": "bandcamp"
  },
  "converge|love is not enough": {
@@ -219,6 +471,18 @@
   "id": 1776040073,
   "tipo": "bandcamp"
  },
+ "cypress hill|dios bendiga": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLOLni9jMvujI",
+  "tipo": "yt_playlist"
+ },
+ "daft punk|random access memories": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLZ60rAdTLVNuCAWD8W3dZTLBXbSPda-DX",
+  "tipo": "yt_playlist"
+ },
  "daryl hall john oates|private eyes": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -231,9 +495,23 @@
   "id": "PLyLea5vC3fdgMYkySsWa5JRwJLViJXkYO",
   "tipo": "yt_playlist"
  },
- "deep purple|fireball": {
+ "deafheaven|at work in the fields of the bomb": {
   "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fuente": "busqueda",
+  "id": "R6Mnd_SDZTc",
+  "tipo": "yt_video"
+ },
+ "death cab for cutie|i built you a tower": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1921456095,
+  "tipo": "bandcamp"
+ },
+ "deep purple|fireball": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PL3hju7cJi6zLAzZG6zeiwbyKHFCfkC87U",
+  "tipo": "yt_playlist"
  },
  "deep purple|machine head": {
   "fecha": "2026-11-15",
@@ -296,8 +574,10 @@
   "tipo": "yt_playlist"
  },
  "deftones|white pony": {
-  "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLLy1F0NPv5gq6Bkclk5Mio7UwvgYDwvvC",
+  "tipo": "yt_playlist"
  },
  "dele sosimi|the confluence lp": {
   "fecha": "2026-11-15",
@@ -317,6 +597,20 @@
   "id": "PLujgTXjFqoRU2_ULXXVLWsNNGOEI-NF1o",
   "tipo": "yt_playlist"
  },
+ "diiv|zirp": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3440102903,
+  "tipo": "bandcamp"
+ },
+ "dito|trancemaster 3000": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "dj chose|nostalgia 2": {
+  "fecha": "2026-11-16",
+  "tipo": "ninguno"
+ },
  "dj metatron|loops of infinity": {
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (búsqueda)",
@@ -327,6 +621,12 @@
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (otra edición)",
   "id": 1095925680,
+  "tipo": "bandcamp"
+ },
+ "dj seinfeld|if this is it": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3797931520,
   "tipo": "bandcamp"
  },
  "donny benet|il basso": {
@@ -347,6 +647,68 @@
   "id": 1034731302,
   "tipo": "bandcamp"
  },
+ "duval timothy carlos nino|rain music": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3538287313,
+  "tipo": "bandcamp"
+ },
+ "efdemin|mirror phase ep": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "el aviador dro|alas sobre el mundo": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "nM332tyhnQs",
+  "tipo": "yt_video"
+ },
+ "el aviador dro|confia en tus maquinas": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "el aviador dro|cromosomas salvajes": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "ZWulw3JXZ3E",
+  "tipo": "yt_video"
+ },
+ "el aviador dro|mecanisburgo": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLDy6otuNyIuHjmcDqg0VFXCBut-elynhB",
+  "tipo": "yt_playlist"
+ },
+ "el aviador dro|programa en espiral": {
+  "fecha": "2026-11-16",
+  "tipo": "ninguno"
+ },
+ "el aviador dro|sintesis la produccion al poder": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "el aviador dro|trance": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "ela minus nick leon|que les paso a mis amigos": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 739421891,
+  "tipo": "bandcamp"
+ },
+ "elder|through zero": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1629256239,
+  "tipo": "bandcamp"
+ },
+ "ellen allien|new life": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3253080170,
+  "tipo": "bandcamp"
+ },
  "ellipsis|people gregory moore": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
@@ -361,6 +723,42 @@
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PL_Gn6_cAvmKDscdc7p9noylNXNCAHf-FA",
+  "tipo": "yt_playlist"
+ },
+ "erasure|chorus": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLiMAkjqsDYt48Khm3v8lvKE9CgeW_Hc1J",
+  "tipo": "yt_playlist"
+ },
+ "erasure|i say i say i say": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL1PBfSEqTSeBti_ByR1VPmArLOchqvGtx",
+  "tipo": "yt_playlist"
+ },
+ "erasure|loveboat": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLL-bCFPMpkAuE_qSyuV0x-FYiU15sfA-G",
+  "tipo": "yt_playlist"
+ },
+ "erasure|nightbird": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLL-bCFPMpkAszcMxZitbFflJ0A25reMqg",
+  "tipo": "yt_playlist"
+ },
+ "erasure|other people s songs": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLL-bCFPMpkAs95ucW4nzf7gbQi4Hrn4ui",
+  "tipo": "yt_playlist"
+ },
+ "erasure|wild": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL1PBfSEqTSeDu5I7Nn1jls42ta-dPzGu-",
   "tipo": "yt_playlist"
  },
  "erik urano|stalker": {
@@ -387,11 +785,39 @@
   "id": "PLWoDjyMxQPYjvDF67ocYKKkNElI6EKbqP",
   "tipo": "yt_playlist"
  },
+ "fania all stars|rhythm machine": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLCcMT80j7F9CLzdOfwjXfhjbIzuFtvsNI",
+  "tipo": "yt_playlist"
+ },
+ "fatoumata diawara|massa": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 4064993051,
+  "tipo": "bandcamp"
+ },
  "flavor|in good taste": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLZtQiZPvEoivMJ49jytYcRXWmSvmiF8jU",
   "tipo": "yt_playlist"
+ },
+ "fleetwood mac|mystery to me": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLqDGvd-6tzUvkp8hUhWcykYEQYwjeuhVg",
+  "tipo": "yt_playlist"
+ },
+ "flesh field|voice of reason": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3706885851,
+  "tipo": "bandcamp"
+ },
+ "floating points san francisco ballet orchestra|mere mortals": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "flying lotus|big mama": {
   "fecha": "2026-11-15",
@@ -405,6 +831,18 @@
   "id": "PLc4K6aoPDlKONtjqWqr0aNDAhFAKbK1s-",
   "tipo": "yt_playlist"
  },
+ "fortran 5|heart on the line": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLyIhNZsfiY8TdA8BM5aeVKMGetf1RTNGC",
+  "tipo": "yt_playlist"
+ },
+ "forward strategy group|labour division": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 527417374,
+  "tipo": "bandcamp"
+ },
  "freddie gibbs the alchemist|alfredo 2": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -417,10 +855,20 @@
   "id": "PL0gfzZU_oX26UVGS1THk0ZfsL2jY4DzFx",
   "tipo": "yt_playlist"
  },
+ "freestylers|raw as fuck": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
  "frisky|frisky": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PL42PxUFCTV6tuxXc_IjN71N-UoI4qXEaY",
+  "tipo": "yt_playlist"
+ },
+ "front 242|tyranny for you": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL4yjkV9phF9HYAF3zNaweBXDFRf1XNU7h",
   "tipo": "yt_playlist"
  },
  "fuck buttons|tarot sport": {
@@ -429,9 +877,17 @@
   "id": "PLZqsyBiYZFQ3RVfQc09sDW-_QLg0ae7Cs",
   "tipo": "yt_playlist"
  },
- "funk deluxe|funk deluxe": {
+ "function|aeternum": {
   "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1953756903,
+  "tipo": "bandcamp"
+ },
+ "funk deluxe|funk deluxe": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLoWiJpHmzG2s9qqtalDKS9m-hCIcHzT9y",
+  "tipo": "yt_playlist"
  },
  "gabor szabo|spellbinder": {
   "fecha": "2026-11-15",
@@ -469,6 +925,30 @@
   "id": 1640553202,
   "tipo": "bandcamp"
  },
+ "genghis tron|dream weapon": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 785553714,
+  "tipo": "bandcamp"
+ },
+ "genghis tron|signal fire": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 4083179508,
+  "tipo": "bandcamp"
+ },
+ "ghostemane|am fm": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLX6drYHpsRbs",
+  "tipo": "yt_playlist"
+ },
+ "gigi masin|movement": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLVLEqV7Nosl4",
+  "tipo": "yt_playlist"
+ },
  "gigi masin|vahine": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -487,15 +967,51 @@
   "id": 3089755547,
   "tipo": "bandcamp"
  },
+ "greta van fleet|palace for the people": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLeRV1bM-SY9w",
+  "tipo": "yt_playlist"
+ },
  "grupo controle digital|a festa e nossa": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLa2W6Lt7JgKRGuapwzcTtyPQkiSTRKZmK",
   "tipo": "yt_playlist"
  },
- "heaven sent ectsasy|the greatest love story": {
+ "haai|put your head above the parakeets": {
   "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2776736292,
+  "tipo": "bandcamp"
+ },
+ "hammock|the second coming was a moonrise": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLuSbza--uCyQp_KTP-2X4l6Sr_Rs6vmnq",
+  "tipo": "yt_playlist"
+ },
+ "heaven sent ectsasy|the greatest love story": {
+  "fecha": "2026-11-16",
   "tipo": "ninguno"
+ },
+ "helado tropical|helado tropical": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3498893942,
+  "tipo": "bandcamp"
+ },
+ "hemlocke springs|going going gone": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLDhajrZgo0TI6lgmWRuu9kso1o0l2Tkl5",
+  "tipo": "yt_playlist"
+ },
+ "hemlocke springs|the apple tree under the sea": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLWgivpu21nTsXEW8GVKRQsv95fV_6DYup",
+  "tipo": "yt_playlist"
  },
  "holy fuck|event beat": {
   "fecha": "2026-11-15",
@@ -503,11 +1019,39 @@
   "id": 2521820026,
   "tipo": "bandcamp"
  },
+ "hybrid|morning sci fi": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLF53468C1BF5D911A",
+  "tipo": "yt_playlist"
+ },
  "hydro|hydro featuring lorna": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "ZoheEgsAntI",
   "tipo": "yt_video"
+ },
+ "i hate models|l age des metamorphoses": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1937326054,
+  "tipo": "bandcamp"
+ },
+ "ils|soul trader": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "inrain|rise": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2440087444,
+  "tipo": "bandcamp"
+ },
+ "interpol|this mirror weighs a ton": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 324899938,
+  "tipo": "bandcamp"
  },
  "irreversible entanglements|future present past": {
   "fecha": "2026-11-15",
@@ -533,7 +1077,17 @@
   "id": "PLnjdy1NbfUQI-x3JaH9j1yoSn4l-IYktP",
   "tipo": "yt_playlist"
  },
+ "jean michel jarre|equinoxe": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL452MVjkXcL4HgPhlxnIiK2ECmcPkplY5",
+  "tipo": "yt_playlist"
+ },
  "jeff mills|star child": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "jens lekman|other people other wedding songs": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
@@ -585,8 +1139,14 @@
   "id": "PLUHPt54xYw0usaekKZg92n843TLiD58zz",
   "tipo": "yt_playlist"
  },
- "juantrip|shadows": {
+ "jpegmafia|experimental rap": {
   "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2195492462,
+  "tipo": "bandcamp"
+ },
+ "juantrip|shadows": {
+  "fecha": "2026-11-16",
   "tipo": "ninguno"
  },
  "julianna barwick mary lattimore|tragic magic": {
@@ -595,10 +1155,26 @@
   "id": "PLxA687tYuMWgb-GFJYqxZu2t8GuW5qC2R",
   "tipo": "yt_playlist"
  },
+ "jungle bas|sunshine": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
  "jungle|for ever": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLXX-njRX-TgJOZ7qbQNnEHXCsUgYku3cN",
+  "tipo": "yt_playlist"
+ },
+ "jungle|jungle": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLj9CtvSHiKj9K5Be8XVojDAJOkT0WyQ67",
+  "tipo": "yt_playlist"
+ },
+ "jungle|sunshine": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLeal4PnV1w1Q",
   "tipo": "yt_playlist"
  },
  "jungle|volcano": {
@@ -607,9 +1183,17 @@
   "id": 3448924291,
   "tipo": "bandcamp"
  },
- "kano|kano": {
+ "kaitlyn aurelia smith|ruin it s not just music": {
   "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3366868165,
+  "tipo": "bandcamp"
+ },
+ "kano|kano": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLI8ghp_zfCTdBFMbqxkEXr6LcgdKNE2ch",
+  "tipo": "yt_playlist"
  },
  "karriem|i love you": {
   "fecha": "2026-11-15",
@@ -625,6 +1209,12 @@
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLvmn9Ssy7H3xoXUIcX4Pb5mYpc-mz8MSz",
+  "tipo": "yt_playlist"
+ },
+ "kase o|camisa de fuerza": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLxA687tYuMWjRiy64MCGByr-ep81V4kUe",
   "tipo": "yt_playlist"
  },
  "kate bush|hounds of love": {
@@ -645,9 +1235,21 @@
   "id": "PLvIswiOEKJMjbgyxAWO4nJtC2J5i8LJoy",
   "tipo": "yt_playlist"
  },
+ "kelela|new avatar": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1152584280,
+  "tipo": "bandcamp"
+ },
  "ken ishii yuada|focus": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "kim gordon|play me": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3336616529,
+  "tipo": "bandcamp"
  },
  "kings of convenience|declaration of dependence": {
   "fecha": "2026-11-15",
@@ -661,11 +1263,51 @@
   "id": "PLwRSZ51uAZEj79XSsu3IXNl5F3TSlw6bI",
   "tipo": "yt_playlist"
  },
+ "komputer|synthetik": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLQYWjOOp38lau0kzzYyc8QsnwPhT-zdZ8",
+  "tipo": "yt_playlist"
+ },
+ "kontravoid|sound of the void": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 2787817857,
+  "tipo": "bandcamp"
+ },
+ "kraftwerk|electric cafe": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLpEklg5apfozIyBW9qb8BS7Q4OoAqL3Gg",
+  "tipo": "yt_playlist"
+ },
+ "krafty kuts|breakin boundaries vol 3": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "krafty kuts|freakshow": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLLzczaHEiicKv4WbdNCZlNdnGi4KK0IxP",
+  "tipo": "yt_playlist"
+ },
+ "krafty kuts|let s ride": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2900155667,
+  "tipo": "bandcamp"
+ },
  "krystal klear|the division": {
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (búsqueda)",
   "id": 2689701074,
   "tipo": "bandcamp"
+ },
+ "kyuss|and the circus leaves town": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLWBFrftlVLc5lLyTXi7lA9JBDFe73JIoY",
+  "tipo": "yt_playlist"
  },
  "kyuss|blues for the red sun": {
   "fecha": "2026-11-15",
@@ -673,10 +1315,98 @@
   "id": "PLymNFxwBo3thXNZIOw8jD2Avyd7de8mUH",
   "tipo": "yt_playlist"
  },
+ "kyuss|welcome to sky valley": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLRvZ7cdgjmKRA348yG5-9W7yL53hNMNhw",
+  "tipo": "yt_playlist"
+ },
+ "kyuss|wretch": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLWBFrftlVLc6NsE9heMOv4cWpWP6QvuTG",
+  "tipo": "yt_playlist"
+ },
+ "lake street dive lawrence|lake street dive lawrence the city winery sessions": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 912215784,
+  "tipo": "bandcamp"
+ },
+ "lammoth|onward": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 2391842843,
+  "tipo": "bandcamp"
+ },
+ "laurence pike|the undreamt of centre": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2313898044,
+  "tipo": "bandcamp"
+ },
  "laurent garnier|33 tours et puis s en vont": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLlnCCMRPTrS3XX3vigpi6UG_pS32Nq0Vl",
+  "tipo": "yt_playlist"
+ },
+ "lawrence|a day in the life": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "lawrence|black cats": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "lawrence|illusion remixes": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "lawrence|the night will last forever": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL1ZAyqTqxOM8BLNLWO61P36fGyhhlrsce",
+  "tipo": "yt_playlist"
+ },
+ "lawrence|until then goodbye": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "lawrence|yoyogi park": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "le mystere des voix bulgares|le mystere des voix bulgares": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL879F5467C9933AA8",
+  "tipo": "yt_playlist"
+ },
+ "le mystere des voix bulgares|le mystere des voix bulgares volume 2": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "lee scratch perry mouse on mars|spatial no problem": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3252704167,
+  "tipo": "bandcamp"
+ },
+ "leon bridges|happiness anytime part 1": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLLk3SMqrbfMw",
+  "tipo": "yt_playlist"
+ },
+ "levzon phil berg ruiz osc1|mambata ep": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "lin ton taun|micro": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLUsfpwEJWnZn0Nu4iVa18tLsqyJTZ7729",
   "tipo": "yt_playlist"
  },
  "linda clifford|i ll keep on loving you": {
@@ -686,8 +1416,10 @@
   "tipo": "yt_playlist"
  },
  "linda clifford|let me be your woman": {
-  "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "KcWCXEtlXPY",
+  "tipo": "yt_video"
  },
  "livin joy|don t stop movin": {
   "fecha": "2026-11-15",
@@ -695,11 +1427,23 @@
   "id": "PLGPNUWRcEfCcgZHdHeT5VXgyUvfSQX2AF",
   "tipo": "yt_playlist"
  },
+ "loraine james|detached from the rest of you": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 618140986,
+  "tipo": "bandcamp"
+ },
  "los amigos invisibles|arepa 3000 a venezuelan journey into space": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "ghNmiXV1YN4",
   "tipo": "yt_video"
+ },
+ "los enemigos|canciones chulas": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLatQsQD6Q4Yw",
+  "tipo": "yt_playlist"
  },
  "los enemigos|ferpectamente": {
   "fecha": "2026-11-15",
@@ -712,6 +1456,20 @@
   "fuente": "busqueda",
   "id": "PLSHtKduHd6bzZf58tWqnYjQao-wGDnkfE",
   "tipo": "yt_playlist"
+ },
+ "los estanques anni b sweet|burbuja comoda y elefante inesperado": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "los estanques|ii": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3021367971,
+  "tipo": "bandcamp"
+ },
+ "los estanques|uve": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "los nikis|marines a pleno sol": {
   "fecha": "2026-11-15",
@@ -769,9 +1527,33 @@
   "id": "PLiTfUx1bmc-gBle2iekKLJjvt8DMqvkgu",
   "tipo": "yt_playlist"
  },
+ "m83|i wrote you a letter": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLO6mhcRAUgZI",
+  "tipo": "yt_playlist"
+ },
  "maceo parker|us": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "madonna|madonna": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLlq7Qg7QtlOE1OTof5HUinpati8Vy6HWp",
+  "tipo": "yt_playlist"
+ },
+ "maenad veyl the sarcasm ensemble|comfort in misery": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 1237136472,
+  "tipo": "bandcamp"
+ },
+ "maenad veyl|body count": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 12809184,
+  "tipo": "bandcamp"
  },
  "mamas gun|cure the jones": {
   "fecha": "2026-11-15",
@@ -791,11 +1573,59 @@
   "id": "PLCB2npzGeC0Y-eB1VkJVexGb5EvE2lUnQ",
   "tipo": "yt_playlist"
  },
+ "manni dee|a low level love": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL7f4toj7-5ZJDfHTZbBebrVscx5NYQ8wt",
+  "tipo": "yt_playlist"
+ },
+ "manu dibango|soul makossa": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLfe-aQpZsgxg",
+  "tipo": "yt_playlist"
+ },
+ "maps atlases|perch patchwork": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL5jyahL7x5OZqfeVShPRZZdMmC6MFHiXF",
+  "tipo": "yt_playlist"
+ },
+ "maps|counter melodies": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLOVXtjGAcrgIeQBVwDYNIpxa9FSXUN3DV",
+  "tipo": "yt_playlist"
+ },
+ "maps|turning the mind": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLZqsyBiYZFQ16AD-TSIJfM7a_dutNJS-5",
+  "tipo": "yt_playlist"
+ },
+ "maps|we can create": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLZqsyBiYZFQ3UzN3HYbYSsrwfFCvDjwYe",
+  "tipo": "yt_playlist"
+ },
+ "maria jose llergo|ultrabelleza": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLBIAdgl39_5zSZ_bs6qozV8bI5y6qJya5",
+  "tipo": "yt_playlist"
+ },
  "marvin gaye|what s going on": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLc60gkdW0bcFbUwumMvBpxVrFbkeRzoPf",
   "tipo": "yt_playlist"
+ },
+ "mastodon|marrow deep": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 3653801622,
+  "tipo": "bandcamp"
  },
  "max richter|hamnet original motion picture soundtrack": {
   "fecha": "2026-11-15",
@@ -829,11 +1659,21 @@
   "id": "PLQGU4WaEtXNQDIE0PWVh4wnVcSNyU733t",
   "tipo": "yt_playlist"
  },
+ "mezquita|califas del rock": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLG0gJtMnS8KTvl_3AJjXf48faNh7jtOtc",
+  "tipo": "yt_playlist"
+ },
  "mike dean|424": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLxDW__E1F3-ar5BUJ83Zdzwsv38Aa3X4a",
   "tipo": "yt_playlist"
+ },
+ "millie jackson|caught up still caught up": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "millie jackson|for men only": {
   "fecha": "2026-11-15",
@@ -853,6 +1693,18 @@
   "id": "PLWH4RSnJ5Q0pxUISZ5gLHtR4gkllqaDbs",
   "tipo": "yt_playlist"
  },
+ "ministry|hate to go take out or delivery": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 810565790,
+  "tipo": "bandcamp"
+ },
+ "ministry|with sympathy": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLnif9Rfb5Adlcqazh0mfbdnBpRZSFQXf8",
+  "tipo": "yt_playlist"
+ },
  "minnie riperton|adventures in paradise": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -865,11 +1717,33 @@
   "id": "PLLho5ctvlyCd379CwlwvYjcBdZcmBUekr",
   "tipo": "yt_playlist"
  },
+ "moby|play": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLFaK21Va8pz29plKdTlygGwKRfS9BHTjy",
+  "tipo": "yt_playlist"
+ },
  "monophonics|it s only us": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 4192465494,
   "tipo": "bandcamp"
+ },
+ "mono|snowdrop": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2060316194,
+  "tipo": "bandcamp"
+ },
+ "moodcut|tame cats": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "moses boyd|songs for sinners": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLJxyTxN2_CW0",
+  "tipo": "yt_playlist"
  },
  "mtume|you me and he": {
   "fecha": "2026-11-15",
@@ -877,11 +1751,65 @@
   "id": "PLlyvrbxKH7eqa4L3Ihi1IUMqjP8845V8h",
   "tipo": "yt_playlist"
  },
+ "nacho vegas|la zona sucia": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLFxRmCGT1V6fOvxDT30mWvO9JicOjRJSt",
+  "tipo": "yt_playlist"
+ },
+ "nacho vegas|mundos inmoviles derrumbandose": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "nacho vegas|vidas semipreciosas": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLDhajrZgo0TJ0B1Wekuay7ZoSdDLRzdNw",
+  "tipo": "yt_playlist"
+ },
  "natural gas|natural gas": {
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (búsqueda)",
   "id": 3880180399,
   "tipo": "bandcamp"
+ },
+ "neu|neu 86": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLSTM_VSQwcCtHUrh77mc7HyWujO35op-g",
+  "tipo": "yt_playlist"
+ },
+ "new order|music complete": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLYPsRgFn5c4vwr5C9KxvKuXxVdnJXFkkH",
+  "tipo": "yt_playlist"
+ },
+ "nia archives|emotional junglist": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLQotIJ4_oSXA",
+  "tipo": "yt_playlist"
+ },
+ "nightmares on wax adrian sherwood|in a space outta dub": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLxA687tYuMWgOqoWdjlk91INbIFwHrHgI",
+  "tipo": "yt_playlist"
+ },
+ "nightmares on wax|patang": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "nils frahm|the bells": {
+  "fecha": "2026-11-15",
+  "fuente": "music-fuzzy",
+  "id": 1367987810,
+  "tipo": "bandcamp"
+ },
+ "nina kraviz|pochuvstvui": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "nina simone|little girl blue": {
   "fecha": "2026-11-15",
@@ -894,6 +1822,46 @@
   "fuente": "busqueda",
   "id": "PLGaDDrFa8nmCUKP2uMLrK7NYDeNB0cbfk",
   "tipo": "yt_playlist"
+ },
+ "noisia|block control ep": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
+ "noisia|imperial ep": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLmC_s2ct6uf9c86vIRDoEpInMUGz--VgA",
+  "tipo": "yt_playlist"
+ },
+ "noisia|split the atom": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "Ngp9ubcEfpE",
+  "tipo": "yt_video"
+ },
+ "nu genea with maria jose llergo|people of the moon": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3140239899,
+  "tipo": "bandcamp"
+ },
+ "nu genea|people of the moon": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3140239899,
+  "tipo": "bandcamp"
+ },
+ "nubya garcia|odyssey": {
+  "fecha": "2026-11-15",
+  "fuente": "music-fuzzy",
+  "id": 869371463,
+  "tipo": "bandcamp"
+ },
+ "numen|samsara": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 2697777392,
+  "tipo": "bandcamp"
  },
  "octo octa|for lovers": {
   "fecha": "2026-11-15",
@@ -913,9 +1881,39 @@
   "id": 38231055,
   "tipo": "bandcamp"
  },
- "omar s|simply": {
+ "olivia rodrigo|you seem pretty sad for a girl so in love": {
   "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLi5o_VS7lQhJJhjg5OvpotOmk4VwgchXP",
+  "tipo": "yt_playlist"
+ },
+ "omar s|simply": {
+  "fecha": "2026-11-16",
   "tipo": "ninguno"
+ },
+ "ora the molecule|human safari": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1733118679,
+  "tipo": "bandcamp"
+ },
+ "orbital|snivilisation": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 3901842533,
+  "tipo": "bandcamp"
+ },
+ "or|music for empty stadiums": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 4211834046,
+  "tipo": "bandcamp"
+ },
+ "oscar mulero|between two worlds": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 3633168466,
+  "tipo": "bandcamp"
  },
  "osees|cara maluco": {
   "fecha": "2026-11-15",
@@ -923,15 +1921,31 @@
   "id": 1567328409,
   "tipo": "bandcamp"
  },
+ "overmono|pure devotion": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 31670016,
+  "tipo": "bandcamp"
+ },
  "pam todd and love exchange|let s get together": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
  "panache|this is panache": {
+  "fecha": "2026-11-16",
+  "tipo": "ninguno"
+ },
+ "panda bear sonic boom|a of when": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLVg-veT-iI-U",
+  "tipo": "yt_playlist"
+ },
+ "panna cotta|sunrise lp": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
- "panna cotta|sunrise lp": {
+ "pantha du prince|stick to my side": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
@@ -940,6 +1954,12 @@
   "fuente": "musicbrainz (búsqueda)",
   "id": 921085548,
   "tipo": "bandcamp"
+ },
+ "paralisis permanente|el acto": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLBIWjaMQF_rhBzVZ4qh7xPWhK_N6KOPwK",
+  "tipo": "yt_playlist"
  },
  "parcels|loved": {
   "fecha": "2026-11-15",
@@ -959,6 +1979,12 @@
   "id": 572788343,
   "tipo": "bandcamp"
  },
+ "pet shop boys|a man from the future": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLCatoPXYIAHQ",
+  "tipo": "yt_playlist"
+ },
  "pet shop boys|behaviour further listening 1990 1991": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -966,13 +1992,33 @@
   "tipo": "yt_playlist"
  },
  "pet shop boys|please further listening 1984 1986": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLcUawLRjjhcCGfkfuIwfr2SO12HJIIqZH",
+  "tipo": "yt_playlist"
+ },
+ "peter paul mary|the best of peter paul and mary ten years together": {
   "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fuente": "busqueda",
+  "id": "PLCr5GCgiM7pYhcq6ZKpvffvbmpyP0W5P9",
+  "tipo": "yt_playlist"
  },
  "petre inspirescu|traces of the wind": {
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (edición del post)",
   "id": 4187348005,
+  "tipo": "bandcamp"
+ },
+ "placebo|placebo re created": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLxA687tYuMWiYTQizyiY10yb9KOIGTFbw",
+  "tipo": "yt_playlist"
+ },
+ "planetary assault systems|planetary people": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1677319194,
   "tipo": "bandcamp"
  },
  "platinum 900|free": {
@@ -993,10 +2039,22 @@
   "id": "PLsqW4OxGD882HvrDC1QFAbsNwKe2rGHD2",
   "tipo": "yt_playlist"
  },
+ "prince of denmark|8": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 2563842560,
+  "tipo": "bandcamp"
+ },
  "prins thomas|thomas moen hermansen": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 3379050436,
+  "tipo": "bandcamp"
+ },
+ "protomartyr|hotel usona": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 77793651,
   "tipo": "bandcamp"
  },
  "prurient|electronic city": {
@@ -1023,6 +2081,18 @@
   "id": "PLrbFUdbfepXVRWF74wd31t8IhBLHJJ4CJ",
   "tipo": "yt_playlist"
  },
+ "puscifer|conditions of my parole": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLQ52gpnDA8Mmi529aWAMviQFzYi4F9Cye",
+  "tipo": "yt_playlist"
+ },
+ "queens of the stone age|perfecth": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 4247153155,
+  "tipo": "bandcamp"
+ },
  "recondite|corvus": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
@@ -1039,6 +2109,18 @@
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
+ "resavoir|above the clouds": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3917217803,
+  "tipo": "bandcamp"
+ },
+ "resavoir|themes for dreams": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3714744779,
+  "tipo": "bandcamp"
+ },
  "retro stefson|retro stefson": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
@@ -1049,11 +2131,59 @@
   "id": 3533414537,
   "tipo": "bandcamp"
  },
+ "rhye|joy": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLBIGZO2TSOLc",
+  "tipo": "yt_playlist"
+ },
+ "rita lee|rita lee": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLrt7VbxNS8rdeK-LxaGi4vgF5XuOXWeT6",
+  "tipo": "yt_playlist"
+ },
+ "rival consoles|howl": {
+  "fecha": "2026-11-15",
+  "fuente": "music-fuzzy",
+  "id": 3959436484,
+  "tipo": "bandcamp"
+ },
+ "robag wruhme|thora vukk": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLJXDRKQUE7CDfwwZiG5uoSowZSA_dHc8X",
+  "tipo": "yt_playlist"
+ },
+ "robag wruhme|venq tolep": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLJXDRKQUE7CAzGBpgm99ixcPL8-yrl21u",
+  "tipo": "yt_playlist"
+ },
+ "robag wruhme|wuzzelbud ff": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLninpo975KK1kDkPc_SudwNINlB2yeiU3",
+  "tipo": "yt_playlist"
+ },
+ "robag wruhme|wuzzelbud kk": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLEht0SN4epglc8n_9pZEUdHO6KIXFMsk2",
+  "tipo": "yt_playlist"
+ },
  "robyn|sexistential": {
   "fecha": "2026-11-15",
   "fuente": "musicbrainz (otra edición)",
   "id": 2144854600,
   "tipo": "bandcamp"
+ },
+ "rome|civitas solis": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLvjPlKfbC7aYDpwS_71SLcrA0IAvAHyqJ",
+  "tipo": "yt_playlist"
  },
  "ross from friends|tread": {
   "fecha": "2026-11-15",
@@ -1067,16 +2197,40 @@
   "id": 2217973894,
   "tipo": "bandcamp"
  },
+ "ruben blades willie colon|siembra": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "TDx9dlX8Xls",
+  "tipo": "yt_video"
+ },
  "run d m c|king of rock": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PL1PFeUii2egcqLVrBpwTFqNMcyf3sC3Dl",
   "tipo": "yt_playlist"
  },
+ "russian circles|nine": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 1305740439,
+  "tipo": "bandcamp"
+ },
  "sandwell district|end beginnings": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLfxHWwAYSud7z5dEnhlv5KwPZIHvgSjWR",
+  "tipo": "yt_playlist"
+ },
+ "sarah mclachlan|better broken": {
+  "fecha": "2026-11-15",
+  "fuente": "music-fuzzy",
+  "id": 3428212037,
+  "tipo": "bandcamp"
+ },
+ "sascha funke|mango": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL7GTsbdYQkD2UzY5kqls2jF37bK_YD5DF",
   "tipo": "yt_playlist"
  },
  "sault|chapter 1": {
@@ -1085,11 +2239,31 @@
   "id": 4108653703,
   "tipo": "bandcamp"
  },
+ "schneider tm|moist": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "N54sKRe1cB8",
+  "tipo": "yt_video"
+ },
  "sciahri|seyl": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 3239639286,
   "tipo": "bandcamp"
+ },
+ "scuba|tio": {
+  "fecha": "2026-11-16",
+  "tipo": "ninguno"
+ },
+ "sdh|rider": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 548152878,
+  "tipo": "bandcamp"
+ },
+ "shade k|the essential collection of monkey 2025 part 1": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "sharon jones and the dap kings|it s a holiday soul party": {
   "fecha": "2026-11-15",
@@ -1102,6 +2276,12 @@
   "fuente": "musicbrainz (edición del post)",
   "id": 3011736688,
   "tipo": "bandcamp"
+ },
+ "shuggie otis|inspiration information": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLP0IenmeCOtwt2JZxb2aud-QSlagwiKw4",
+  "tipo": "yt_playlist"
  },
  "shxcxchcxsh|linear s decoded": {
   "fecha": "2026-11-15",
@@ -1133,6 +2313,12 @@
   "id": "PLCB_54AqMrM3VCY8ngDPeotwUsq3kG_Ka",
   "tipo": "yt_playlist"
  },
+ "skee mask|best of micro samples vol 2": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 1910689532,
+  "tipo": "bandcamp"
+ },
  "skee mask|iss012": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
@@ -1154,6 +2340,12 @@
  "sleeparchive|windows ep": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "sleep|hempispheres": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (edición del post)",
+  "id": 4279397987,
+  "tipo": "bandcamp"
  },
  "smerz|have fun": {
   "fecha": "2026-11-15",
@@ -1179,6 +2371,18 @@
   "id": 2575699456,
   "tipo": "bandcamp"
  },
+ "stanton warriors|rebel bass": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLBODPj3JH1vZaqh74WZIqwkC7jcWHD2Lz",
+  "tipo": "yt_playlist"
+ },
+ "stanton warriors|the warriors": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLXyDTMcMZK58_-qCQAazE5cOJNHhgqyDt",
+  "tipo": "yt_playlist"
+ },
  "stl|lost in musik": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
@@ -1201,6 +2405,12 @@
   "id": 688348578,
   "tipo": "bandcamp"
  },
+ "sylvan esso|ow": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (otra edición)",
+  "id": 1294300619,
+  "tipo": "bandcamp"
+ },
  "taana gardner|taana gardner": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -1210,6 +2420,12 @@
  "taana gardner|when you touch me the west end recordings": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "talk talk|spirit of eden": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL4mbw3LEmSEnyNK9cNtoLOq0ksVi7LZ_n",
+  "tipo": "yt_playlist"
  },
  "talking heads|more songs about buildings and food": {
   "fecha": "2026-11-15",
@@ -1229,11 +2445,29 @@
   "id": "PLTU9Rfr3yfofiinMvqX1fEd4jtzwOHYYn",
   "tipo": "yt_playlist"
  },
+ "telex|how do you dance": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLBKha_tGlZInfmhi3uoTFPBP22yN486we",
+  "tipo": "yt_playlist"
+ },
+ "terence fixmer|the paradox in me": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3354434963,
+  "tipo": "bandcamp"
+ },
  "the 9th creation|reaching for the top": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "jgVLVok5KwI",
   "tipo": "yt_video"
+ },
+ "the avalanches|no bad memories": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLEzxO0uQ8-SI",
+  "tipo": "yt_playlist"
  },
  "the bangles|different light": {
   "fecha": "2026-11-15",
@@ -1242,14 +2476,20 @@
   "tipo": "yt_playlist"
  },
  "the beach boys|friends": {
-  "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLMxkpnetcodML-x65Q_WVGzvTGYFlFwve",
+  "tipo": "yt_playlist"
  },
  "the beatles|sgt pepper s lonely hearts club band": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PL3PhWT10BW3VDM5IcVodrdUpVIhU8f7Z-",
   "tipo": "yt_playlist"
+ },
+ "the black dog|loud ambient 2": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
  },
  "the black dog|loud ambient ep 1": {
   "fecha": "2026-11-15",
@@ -1259,10 +2499,32 @@
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
+ "the black dog|psychick youth": {
+  "fecha": "2026-11-15",
+  "tipo": "ninguno"
+ },
  "the byrds|turn turn turn": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLI6kLIhBBwmTyndRtBJCtB0_xeebXwwfn",
+  "tipo": "yt_playlist"
+ },
+ "the chemical brothers|push the button": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLNPGM2D7aODfXB1Mz9wkRu6gqzqVoGgUp",
+  "tipo": "yt_playlist"
+ },
+ "the crystal method|legion of boom": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLmRBj7BuFn3Zuhg4id-Q8wqA-sX9GDdlI",
+  "tipo": "yt_playlist"
+ },
+ "the crystal method|vegas": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLBC475C6A7D77B148",
   "tipo": "yt_playlist"
  },
  "the cure|kiss me kiss me kiss me": {
@@ -1293,15 +2555,35 @@
   "id": "PLNPGM2D7aODfRhQAItUONPgWWKcOqC4i1",
   "tipo": "yt_playlist"
  },
- "the mccrarys|all night music": {
+ "the lemon twigs|look for your mind": {
   "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 2813680083,
+  "tipo": "bandcamp"
+ },
+ "the mccrarys|all night music": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PLI5V4PM1D93OuPvNz7ffUxUuPKrmZnaAt",
+  "tipo": "yt_playlist"
+ },
+ "the mountain goats|days": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 478677296,
+  "tipo": "bandcamp"
  },
  "the mystery kindaichi band|the adventures of kindaichi kosuke": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLrLvgihxRcGQ9ywEGNH1bVvlWQ0WhZef-",
   "tipo": "yt_playlist"
+ },
+ "the new pornographers|the former site of": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 354691281,
+  "tipo": "bandcamp"
  },
  "the o jays|ship ahoy": {
   "fecha": "2026-11-15",
@@ -1320,6 +2602,12 @@
   "fuente": "musicbrainz (búsqueda)",
   "id": 3389365097,
   "tipo": "bandcamp"
+ },
+ "the prodigy|more music for the jilted generation": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLjIuADMrDKIZn5djFyBWqBQHRTCs2OD6W",
+  "tipo": "yt_playlist"
  },
  "the south side movement|the south side movement": {
   "fecha": "2026-11-15",
@@ -1367,6 +2655,18 @@
   "id": 3538108886,
   "tipo": "bandcamp"
  },
+ "tori amos|in times of dragons": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLxA687tYuMWgiAUU8lfJU9xlnCgoYmlaL",
+  "tipo": "yt_playlist"
+ },
+ "toundra|siete": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3862584734,
+  "tipo": "bandcamp"
+ },
  "trans am|futureworld": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
@@ -1401,6 +2701,12 @@
   "id": "PLVAZNsgvRxh5-BaxxwSu7O0jhC6xrvDyS",
   "tipo": "yt_playlist"
  },
+ "tricky|different when it s silent": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 725870836,
+  "tipo": "bandcamp"
+ },
  "tropical fuck storm|fairyland codex": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -1431,17 +2737,31 @@
   "id": "PLNPGM2D7aODdNRuhkXTnhkq7lduATC911",
   "tipo": "yt_playlist"
  },
+ "viagra boys|viagr aboys": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLrVF8Pyy6WreaTvf33EyZyJ55nE16LJ2k",
+  "tipo": "yt_playlist"
+ },
  "vincent montana jr|goody goody": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
+ },
+ "voodoo child|baby monkey": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLBCTw1ttb2H-R5J0r2IV4BOBjtpiaVwYG",
+  "tipo": "yt_playlist"
  },
  "voyage|disco recharge voyage fly away disc 2": {
   "fecha": "2026-11-15",
   "tipo": "ninguno"
  },
  "voyage|fly away": {
-  "fecha": "2026-11-15",
-  "tipo": "ninguno"
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PL8JmtDwkdDP8RGUQlACqhfI1H6SSfhQ1O",
+  "tipo": "yt_playlist"
  },
  "waylon jennings|the taker tulsa honky tonk heroes": {
   "fecha": "2026-11-15",
@@ -1459,16 +2779,58 @@
   "id": "PLPXIp9QBiJXRB8eTp-OdwCO6QebfCxFt5",
   "tipo": "yt_playlist"
  },
+ "wilfrido vargas|raices": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLAium0tf4fAY7BLrwC2C_RikGZ9adrXVk",
+  "tipo": "yt_playlist"
+ },
+ "willie colon hector lavoe|vigilante": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "E4sZmsSOkxs",
+  "tipo": "yt_video"
+ },
+ "willie hutch|concert in blues": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PLkYT5OUz7ciimn_6aKAug4pxN7glVdasI",
+  "tipo": "yt_playlist"
+ },
+ "willie hutch|foxy brown": {
+  "fecha": "2026-11-16",
+  "fuente": "busqueda",
+  "id": "PL7h0PdVqCrm1q_5huiCET3ODuKnqtk85e",
+  "tipo": "yt_playlist"
+ },
+ "willie hutch|soul portrait": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "PL4N8gaAiMMvMZ5VrWB3Ngwfcks1H7Gdce",
+  "tipo": "yt_playlist"
+ },
  "willie hutch|the mack": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
   "id": "PLyHn3f7-9IUIU5c_CyoH1uttI5BkSc7Vr",
   "tipo": "yt_playlist"
  },
+ "xiu xiu|eraserhead xiu xiu": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 3986472159,
+  "tipo": "bandcamp"
+ },
  "yan cook|antimatter ep": {
   "fecha": "2026-11-15",
   "fuente": "music-fuzzy",
   "id": 980502923,
+  "tipo": "bandcamp"
+ },
+ "yazz ahmed|shinrin yoku": {
+  "fecha": "2026-11-15",
+  "fuente": "musicbrainz (búsqueda)",
+  "id": 1474243603,
   "tipo": "bandcamp"
  },
  "yes|going for the one": {
@@ -1501,6 +2863,12 @@
   "id": 663853083,
   "tipo": "bandcamp"
  },
+ "万能青年旅店|冀西南林路行": {
+  "fecha": "2026-11-15",
+  "fuente": "busqueda",
+  "id": "nhqmV_-awmE",
+  "tipo": "yt_video"
+ },
  "吉田美奈子|bells": {
   "fecha": "2026-11-15",
   "fuente": "busqueda",
@@ -1522,7 +2890,7 @@
   "tipo": "yt_playlist"
  },
  "吉田美奈子|愛は思うまま": {
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-16",
   "tipo": "ninguno"
  },
  "山下達郎|for you": {
