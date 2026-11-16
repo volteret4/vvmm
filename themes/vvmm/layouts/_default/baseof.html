@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">{{ end }}
   {{ template "_internal/opengraph.html" . }}
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"></script>
 </head>
 <body>
   <header class="top">
